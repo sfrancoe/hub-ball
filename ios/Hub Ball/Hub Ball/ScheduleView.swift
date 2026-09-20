@@ -43,22 +43,26 @@ struct ScheduleView: View {
         ScrollView {
             LazyVStack(spacing: 12) {
                 if contentWidth >= 850 {
-                    HStack(alignment: .top, spacing: 20) {
-                        VStack(spacing: 16) {
-                            ForEach(calendarMonths(for: schedule)) { month in
-                                monthCard(month, schedule: schedule)
+                    VStack(spacing: 12) {
+                        HStack(alignment: .top, spacing: 20) {
+                            VStack(spacing: 16) {
+                                ForEach(calendarMonths(for: schedule)) { month in
+                                    monthCard(month, schedule: schedule)
+                                }
+                            }
+                            .frame(maxWidth: .infinity)
+                            if let game = selectedGame(in: schedule) {
+                                gameDetailCard(game)
+                                    .frame(width: 340)
                             }
                         }
-                        .frame(maxWidth: .infinity)
-                        if let game = selectedGame(in: schedule) {
-                            gameDetailCard(game)
-                                .frame(width: 340)
-                        }
+                        nextThreeGamesCard(schedule)
                     }
                 } else {
                     ForEach(calendarMonths(for: schedule)) { month in
                         monthCard(month, schedule: schedule)
                     }
+                    nextThreeGamesCard(schedule)
                     if let game = selectedGame(in: schedule) {
                         gameDetailCard(game)
                     }
@@ -234,6 +238,84 @@ struct ScheduleView: View {
         .cardStyle(padding: 16)
     }
 
+    @ViewBuilder
+    private func nextThreeGamesCard(_ schedule: Schedule) -> some View {
+        let games = Array(remainingGames(in: schedule).prefix(3))
+        if !games.isEmpty {
+            VStack(spacing: 0) {
+                HStack {
+                    Text("Next 3 games")
+                        .font(.system(size: contentWidth >= 650 ? 18 : 16, weight: .black))
+                    Spacer()
+                    Text("UPCOMING")
+                        .font(.system(size: contentWidth >= 650 ? 11 : 9, weight: .black))
+                        .tracking(0.6)
+                        .foregroundStyle(AppColor.hunterGreen)
+                }
+                .foregroundStyle(AppColor.navy)
+                .padding(.horizontal, 14)
+                .frame(height: contentWidth >= 650 ? 42 : 38)
+                .background(AppColor.nightRaised)
+
+                ForEach(games.indices, id: \.self) { index in
+                    let game = games[index]
+                    compactMatchupRow(game)
+                    if index < games.count - 1 {
+                        Divider()
+                            .overlay(AppColor.separator)
+                            .padding(.leading, contentWidth >= 650 ? 66 : 58)
+                    }
+                }
+            }
+            .clipShape(RoundedRectangle(cornerRadius: 10))
+            .overlay {
+                RoundedRectangle(cornerRadius: 10)
+                    .stroke(AppColor.border, lineWidth: 1)
+            }
+        }
+    }
+
+    private func compactMatchupRow(_ game: ScheduledGame) -> some View {
+        HStack(spacing: 10) {
+            VStack(spacing: 1) {
+                Text(compactWeekday(game))
+                    .font(.system(size: contentWidth >= 650 ? 11 : 9, weight: .black))
+                    .tracking(0.35)
+                    .foregroundStyle(AppColor.hunterGreen)
+                Text(compactDay(game))
+                    .font(.system(size: contentWidth >= 650 ? 22 : 19, weight: .black))
+                    .foregroundStyle(AppColor.red)
+            }
+            .frame(width: contentWidth >= 650 ? 42 : 36)
+
+            Rectangle()
+                .fill(AppColor.separator)
+                .frame(width: 1, height: contentWidth >= 650 ? 44 : 38)
+
+            VStack(alignment: .leading, spacing: 3) {
+                Text("\(game.locationWord) \(game.opponent)")
+                    .font(.system(size: contentWidth >= 650 ? 17 : 15, weight: .black))
+                    .foregroundStyle(AppColor.navy)
+                    .lineLimit(1)
+                Text("\(game.formattedTime) · \(compactPitchingMatchup(game))")
+                    .font(.system(size: contentWidth >= 650 ? 12 : 10, weight: .bold))
+                    .foregroundStyle(AppColor.ink.opacity(0.76))
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.75)
+            }
+
+            Spacer(minLength: 0)
+
+            Text(game.location == "home" ? "HOME" : "AWAY")
+                .font(.system(size: contentWidth >= 650 ? 10 : 8, weight: .black))
+                .tracking(0.45)
+                .foregroundStyle(game.location == "home" ? palette.tint : AppColor.hunterGreen)
+        }
+        .padding(.horizontal, 14)
+        .frame(height: contentWidth >= 650 ? 64 : 57)
+        .accessibilityElement(children: .combine)
+    }
+
     private func detailItem(
         _ label: String,
         _ value: String,
@@ -277,6 +359,29 @@ struct ScheduleView: View {
             return "Record unavailable"
         }
         return value.replacingOccurrences(of: "-", with: "–")
+    }
+
+    private func compactWeekday(_ game: ScheduledGame) -> String {
+        guard let date = game.date else { return "" }
+        return BaseballTime.format(date, .dateTime.weekday(.abbreviated)).uppercased()
+    }
+
+    private func compactDay(_ game: ScheduledGame) -> String {
+        guard let date = game.date else { return "" }
+        return BaseballTime.format(date, .dateTime.day())
+    }
+
+    private func compactPitchingMatchup(_ game: ScheduledGame) -> String {
+        guard game.showProbables,
+              !game.favoriteTeamPitcher.isEmpty,
+              !game.opponentPitcher.isEmpty else {
+            return "Starters TBD"
+        }
+        return "\(surname(game.favoriteTeamPitcher)) vs. \(surname(game.opponentPitcher))"
+    }
+
+    private func surname(_ value: String) -> String {
+        value.split(separator: " ").last.map(String.init) ?? value
     }
 
     private func loadSchedule() async {
