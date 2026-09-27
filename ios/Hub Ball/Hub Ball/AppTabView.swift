@@ -51,6 +51,8 @@ struct AppTabView: View {
     @State private var selectedTab: MainTab = .home
     @State private var settingsPresented = false
     @State private var playoffsPresented = false
+    @State private var storiesPresented = false
+    @State private var hitterPresented = false
     @State private var hasAppeared = false
     @State private var backgroundedAt: Date?
     @State private var selectedPlayerID: Int?
@@ -100,7 +102,13 @@ struct AppTabView: View {
             guard !hasAppeared else { return }
             #if DEBUG
             let arguments = ProcessInfo.processInfo.arguments
-            if arguments.contains("-show-october") {
+            if arguments.contains("-show-hitter-story") {
+                completedTeamOnboarding = true
+                hitterPresented = true
+            } else if arguments.contains("-show-story-library") {
+                completedTeamOnboarding = true
+                storiesPresented = true
+            } else if arguments.contains("-show-october") {
                 completedTeamOnboarding = true
                 playoffsPresented = true
             } else if arguments.contains("-show-stories"), team.hasPublishedStories {
@@ -169,6 +177,10 @@ struct AppTabView: View {
             }
             .preferredColorScheme(.dark)
         }
+        .fullScreenCover(isPresented: $storiesPresented) {
+            StoriesView(closeLibrary: { storiesPresented = false })
+        }
+        .fullScreenCover(isPresented: $hitterPresented) { MLB300HitterStory() }
         .sheet(isPresented: $settingsPresented) {
             TeamSettingsView(selectedTeamID: $selectedTeamID) { selectedTeam in
                 selectedPlayerID = nil
@@ -305,11 +317,34 @@ struct AppTabView: View {
         .accessibilityHint("Opens the complete MLB playoff bracket for both leagues")
     }
 
+    private var storiesButton: some View {
+        Button { storiesPresented = true } label: {
+            Text("Stories")
+                .font(.subheadline.weight(.semibold))
+                .padding(.horizontal, 8)
+                .frame(minHeight: 44)
+        }
+        .buttonStyle(.plain)
+        .accessibilityIdentifier("stories.open")
+        .accessibilityHint("Opens baseball stories from across MLB")
+    }
+
     private var teamAndPlayoffsNavigation: some View {
-        HStack(spacing: 10) {
-            teamPickerButton
-                .frame(maxWidth: .infinity, alignment: .leading)
-            if OctoberFeature.enabled { playoffsButton }
+        ViewThatFits(in: .horizontal) {
+            HStack(spacing: 10) {
+                teamPickerButton.fixedSize(horizontal: true, vertical: false)
+                Spacer(minLength: 0)
+                storiesButton
+                if OctoberFeature.enabled { playoffsButton }
+            }
+            VStack(alignment: .leading, spacing: 2) {
+                teamPickerButton
+                HStack {
+                    storiesButton
+                    Spacer(minLength: 4)
+                    if OctoberFeature.enabled { playoffsButton }
+                }
+            }
         }
         .padding(.horizontal, 12)
         .padding(.vertical, 4)

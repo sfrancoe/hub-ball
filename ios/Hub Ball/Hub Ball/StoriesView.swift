@@ -2,26 +2,57 @@ import SwiftUI
 
 struct StoriesView: View {
     @Environment(\.dynamicTypeSize) private var dynamicTypeSize
-    let team: HubTeam
+    var team: HubTeam? = nil
+    var closeLibrary: (() -> Void)? = nil
+    @State private var hitterPresented = false
 
     var body: some View {
         NavigationStack {
             ZStack {
                 AppColor.paleRed.ignoresSafeArea()
 
-                if team.hasPublishedStories {
+                if team == nil || team?.hasPublishedStories == true {
                     ScrollView {
                         VStack(alignment: .leading, spacing: 14) {
                             VStack(alignment: .leading, spacing: 5) {
-                                Text("STORIES")
-                                    .font(.title2.weight(.black))
-                                Text("The numbers that explain a season—and the roads they took to get there.")
+                                HStack {
+                                    Text("STORIES").font(.title2.weight(.black))
+                                    Spacer()
+                                    if let closeLibrary {
+                                        Button("Done", action: closeLibrary)
+                                            .frame(minHeight: 44)
+                                            .accessibilityIdentifier("stories.close")
+                                    }
+                                }
+                                Text(team == nil ? "Every team. The whole game. Baseball stories worth a closer look." : "The numbers that explain a season—and the roads they took to get there.")
                                     .font(.subheadline)
                                     .foregroundStyle(AppColor.ink.opacity(0.72))
                             }
                             .foregroundStyle(AppColor.navy)
 
-                            if team == .boston {
+                            if team == nil {
+                                Text("MLB · FEATURED").font(AppFont.label).foregroundStyle(AppColor.amber)
+                                Button { hitterPresented = true } label: {
+                                    VStack(alignment: .leading, spacing: 10) {
+                                        Text("The vanishing .300 hitter")
+                                            .font(.system(.title, design: .serif).weight(.bold))
+                                        Text("51 at the peak. Six in 2025. Watch a once-crowded club disappear.")
+                                            .font(.subheadline)
+                                        Label("WATCH THE STORY · 10 SECONDS", systemImage: "play.circle.fill")
+                                            .font(.caption.weight(.bold))
+                                            .foregroundStyle(Color(hubHex: "#BC6259"))
+                                    }
+                                    .frame(maxWidth: .infinity, alignment: .leading)
+                                    .padding(22)
+                                    .foregroundStyle(AppColor.night)
+                                    .background(AppColor.bone, in: RoundedRectangle(cornerRadius: 14))
+                                }
+                                .buttonStyle(.plain)
+                                .accessibilityIdentifier("stories.hitter")
+                            }
+
+                            if team == nil || team == .boston {
+                                if team == nil { teamHeading("BOSTON") }
                                 storyLink(
                                     title: "NINE PITCHES",
                                     summary: "Payton Tolle opened against Kansas City with nine pitches, nine strikes and three strikeouts.",
@@ -39,7 +70,8 @@ struct StoriesView: View {
                                 }
                             }
 
-                            if team == .milwaukee {
+                            if team == nil || team == .milwaukee {
+                                if team == nil { teamHeading("MILWAUKEE") }
                                 NavigationLink {
                                     BrewersShutoutView()
                                 } label: {
@@ -48,7 +80,8 @@ struct StoriesView: View {
                                 .buttonStyle(.plain)
                             }
 
-                            if team == .newYork {
+                            if team == nil || team == .newYork {
+                                if team == nil { teamHeading("NEW YORK YANKEES") }
                                 storyLink(
                                     title: "THE HOME RUN CHASE",
                                     summary: "By age, Aaron Judge trails the legends. Count at-bats instead, and the picture flips.",
@@ -62,15 +95,20 @@ struct StoriesView: View {
                     }
                 } else {
                     ContentUnavailableView(
-                        "\(team.shortName) stories coming soon",
+                        "\((team?.shortName ?? "Team")) stories coming soon",
                         systemImage: "book.pages",
-                        description: Text("This section will appear when the first \(team.shortName) visual story is ready.")
+                        description: Text("This section will appear when the first \((team?.shortName ?? "Team")) visual story is ready.")
                     )
                     .foregroundStyle(AppColor.ink)
                 }
             }
             .toolbar(.hidden, for: .navigationBar)
+            .fullScreenCover(isPresented: $hitterPresented) { MLB300HitterStory() }
         }
+    }
+
+    private func teamHeading(_ name: String) -> some View {
+        Text(name).font(AppFont.label).foregroundStyle(AppColor.amber).padding(.top, 12)
     }
 
     private func storyLink<Destination: View>(
