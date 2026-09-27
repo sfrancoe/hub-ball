@@ -33,10 +33,10 @@ struct MLB300HitterStory: View {
                 HitterStyle.paper.ignoresSafeArea()
                 ScrollView {
                     VStack(alignment: .leading, spacing: compact ? 12 : 22) {
-                        Text("The vanishing\n.300 hitter")
-                            .font(.system(compact ? .title : .largeTitle, design: .serif).weight(.bold))
-                            .tracking(-1)
-                            .fixedSize(horizontal: false, vertical: true)
+                        Text("The vanishing .300 hitter")
+                            .font(.system(.title2, design: .serif).weight(.bold))
+                            .lineLimit(1)
+                            .minimumScaleFactor(0.65)
                         Text("Six last year. Six so far in 2026.")
                             .font(compact ? .subheadline : .title3).foregroundStyle(HitterStyle.navy.opacity(0.72))
                         StoryStatCards(expanded: typeSize.usesExpandedReadingLayout, compact: compact)
@@ -235,8 +235,10 @@ private struct StoryLaunchOverlay: View {
                 VStack(alignment: .leading, spacing: 28) {
                     Text("HUB BALL / A BASEBALL STORY").font(.caption.monospaced().weight(.bold)).tracking(2)
                         .foregroundStyle(AppColor.amber)
-                    Text("The vanishing\n.300 hitter")
-                        .font(.system(.largeTitle, design: .serif).weight(.bold)).fixedSize(horizontal: false, vertical: true)
+                    Text("The vanishing .300 hitter")
+                        .font(.system(.title2, design: .serif).weight(.bold))
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.65)
                     Text("Six last year.\nSix so far this year.\nWill it end at six again?")
                         .font(.title2).foregroundStyle(AppColor.bone.opacity(0.75)).lineSpacing(6)
                     Button(action: launch) {
