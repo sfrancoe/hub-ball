@@ -15,7 +15,7 @@ Qualification follows the handoff's 3.1 PA per team game rule, accounting for ac
 - `StoryAudioController.swift` / `StoryAudioLoop.swift`: locally synthesized ambient pad as an in-memory PCM WAV through AVAudioPlayer; no downloads or third-party services.
 - `StoriesView.swift`: optional team scope; nil shows the global library.
 
-The primary path trims from zero to one over 10 seconds using monotonic elapsed time. Point fades finish at nine seconds. Reduced Motion reveals the completed chart immediately. Replay resets the clock without stacking audio players. Music defaults off and can start only in response to a launch or music-button tap. It respects silent mode, mixes with other audio, and stops on interruption, dismissal or backgrounding. Returning to the app shows the completed chart without automatically restarting sound.
+The primary path trims from zero to one over 10 seconds using monotonic elapsed time. The build shows only the line, with no year dots. Once complete, markers highlight the peak, final year, and tapped year. Reduced Motion reveals the completed chart immediately. Replay resets the clock without stacking audio players. Music defaults off and can start only in response to a launch or music-button tap. It respects silent mode, mixes with other audio, and stops on interruption, dismissal or backgrounding. Returning to the app shows the completed chart without automatically restarting sound.
 
 Every year can be selected by tapping its x-position or hovering, with a discrete Season slider for fine selection and VoiceOver. All values are also available in the methodology list. Long content scrolls at larger Dynamic Type sizes.
 

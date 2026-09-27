@@ -313,12 +313,13 @@ private struct Animated300LineChart: View {
                 Path { path in path.addLines(points) }
                     .trim(from: 0, to: progress)
                     .stroke(HitterStyle.coral, style: StrokeStyle(lineWidth: 2.5, lineCap: .round, lineJoin: .round))
-                ForEach(Array(seasons.enumerated()), id: \.element.id) { index, season in
-                    Circle()
-                        .fill(index == seasons.count - 1 ? HitterStyle.gold : HitterStyle.coral)
-                        .frame(width: index == selectedIndex ? 10 : 5, height: index == selectedIndex ? 10 : 5)
-                        .position(points[index])
-                        .opacity(MLB300HitterData.pointOpacity(index: index, elapsed: elapsed))
+                if progress >= 1 {
+                    ForEach(seasons.indices.filter { $0 == MLB300HitterData.peakIndex || $0 == seasons.count - 1 || $0 == selectedIndex }, id: \.self) { index in
+                        Circle()
+                            .fill(index == seasons.count - 1 ? HitterStyle.gold : HitterStyle.coral)
+                            .frame(width: index == selectedIndex ? 10 : 5, height: index == selectedIndex ? 10 : 5)
+                            .position(points[index])
+                    }
                 }
                 if elapsed >= 5 {
                     callout("\(String(MLB300HitterData.peak.year)) · \(MLB300HitterData.peak.count) players", color: HitterStyle.coral)
