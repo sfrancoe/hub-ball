@@ -37,11 +37,11 @@ struct MLB300HitterStory: View {
                             .font(.system(.title2, design: .serif).weight(.bold))
                             .lineLimit(1)
                             .minimumScaleFactor(0.65)
-                        Text("Six last year. Six so far in 2026.")
+                        Text("Seven last year. Seven so far in 2026.")
                             .font(compact ? .subheadline : .title3).foregroundStyle(HitterStyle.navy.opacity(0.72))
                         StoryStatCards(expanded: typeSize.usesExpandedReadingLayout, compact: compact)
                         VStack(alignment: .leading, spacing: 6) {
-                            Text("QUALIFIED HITTERS · .301 OR HIGHER")
+                            Text("QUALIFIED HITTERS · .300 OR HIGHER")
                                 .font(.caption.weight(.bold)).tracking(1)
                             Text(MLB300HitterData.coverageLabel)
                                 .font(.caption).foregroundStyle(HitterStyle.navy.opacity(0.65))
@@ -55,7 +55,7 @@ struct MLB300HitterStory: View {
                         }
                         .frame(height: compact ? 220 : 280)
                         yearInspector
-                        Text("In \(String(peak.year)), \(peak.count) qualified hitters finished above .300. Only six did in 2025. Six qualify so far in 2026—with the final day still to play.")
+                        Text("In \(String(peak.year)), \(peak.count) qualified hitters finished at .300 or higher. Only seven did in 2025. Seven qualify so far in 2026—with the final day still to play.")
                             .font(.system(.body, design: .serif))
                             .lineSpacing(4)
                         Button("How we count · methodology") { showMethodology = true }
@@ -197,17 +197,17 @@ struct MLB300HitterStory: View {
     private var methodology: some View {
         NavigationStack {
             List {
-                Section("Above .300 means .301 or higher") {
-                    Text("Only hitters whose official, three-decimal batting average is .301 or higher are counted. A player displayed at .300 is excluded, even if his unrounded average is slightly above .300. This is not a count of .300-or-better hitters.")
+                Section(".300 or higher—including exactly .300") {
+                    Text("Hitters whose official, three-decimal batting average is .300 or higher are counted. A player displayed at exactly .300 is included. We use MLB’s displayed average rather than comparing an unrounded fraction.")
                 }
                 Section("Qualification") {
-                    Text("The series uses the batting-title threshold of 3.1 plate appearances per team game, with season-length adjustments for shortened seasons, including 1981, 1994, 1995 and 2020.")
-                    Text("Historical reconstruction: PA = AB + BB + HBP + SH + SF. AVG = H ÷ AB, rounded to three decimal places before applying the cutoff.")
+                    Text("We use MLB’s qualified-hitter leaderboard for each season. The normal batting-title threshold is 3.1 plate appearances per team game. MLB determines qualification for shortened seasons and any batting-title exceptions.")
+                    Text("Each player is counted once using his full MLB season totals, including combined totals when he changes teams. The cutoff is applied to MLB’s officially displayed batting average.")
                 }
                 Section("The series") {
-                    Text("Source: Hub Ball’s supplied editorial handoff, covering completed seasons from 1976 through 2025. The historical counts are reproduced as supplied.")
-                    Text("The decline is rounded to the nearest whole percent: (51 − 6) ÷ 51 = 88%. The chart shows player counts, not the share of qualified hitters; MLB’s number of teams has changed over this period.")
-                    Text("2026 is a provisional snapshot from MLB’s qualified-hitter leaderboard, checked before the games on September 27, 2026. Six players are displayed at .301 or higher. This snapshot does not update automatically, and the final count may change.")
+                    Text("Source: MLB Stats API qualified-hitter season totals, recalculated for every year from 1976 through 2026 using the inclusive .300 cutoff. Seasons through 2025 are final; 2026 remains year-to-date.")
+                    Text("The decline is rounded to the nearest whole percent: (\(peak.count) − \(finish.count)) ÷ \(peak.count) = \(MLB300HitterData.decline)%. The chart shows player counts, not the share of qualified hitters; MLB’s number of teams has changed over this period.")
+                    Text("2026 is a provisional snapshot from MLB’s qualified-hitter leaderboard, checked before the games on September 27, 2026. Seven players are displayed at .300 or higher. This snapshot does not update automatically, and the final count may change.")
                     Link("MLB 2026 batting-average leaderboard", destination: URL(string: "https://www.mlb.com/stats/batting-average/2026")!)
                     Text("The final 2026 count will replace this YTD point only after the regular season ends and totals are verified with the same cutoff.")
                 }
@@ -239,7 +239,7 @@ private struct StoryLaunchOverlay: View {
                         .font(.system(.title2, design: .serif).weight(.bold))
                         .lineLimit(1)
                         .minimumScaleFactor(0.65)
-                    Text("Six last year.\nSix so far this year.\nWill it end at six again?")
+                    Text("Seven last year.\nSeven so far this year.\nWill it end at seven again?")
                         .font(.title2).foregroundStyle(AppColor.bone.opacity(0.75)).lineSpacing(6)
                     Button(action: launch) {
                         VStack(alignment: .leading, spacing: 14) {
@@ -253,7 +253,7 @@ private struct StoryLaunchOverlay: View {
                     .accessibilityIdentifier("hitter.launch")
                     Toggle("Music · optional", isOn: $musicEnabled)
                         .tint(AppColor.amber).accessibilityIdentifier("hitter.launchMusic")
-                    Text("10 seconds · 1976–2026 YTD\n2026 snapshot: Sept. 27, before today’s games.\nQualified hitters with a displayed average of .301 or higher.")
+                    Text("10 seconds · 1976–2026 YTD\n2026 snapshot: Sept. 27, before today’s games.\nQualified hitters with a displayed average of .300 or higher.")
                         .font(.caption).foregroundStyle(AppColor.bone.opacity(0.65))
                 }
                 .padding(28).padding(.top, 60)
@@ -351,7 +351,7 @@ private struct Animated300LineChart: View {
                 if case let .active(location) = phase { select(location.x, rect: rect) }
             }
             .accessibilityElement(children: .ignore)
-            .accessibilityLabel("Qualified hitters above .300, 1976 through \(MLB300HitterData.finish.label). Peak 51 in 1999; six final in 2025 and six so far in 2026. Snapshot before September 27 games. Use the Season slider below to explore every year.")
+            .accessibilityLabel("Qualified hitters at .300 or higher, 1976 through \(MLB300HitterData.finish.label). Peak \(MLB300HitterData.peak.count) in \(String(MLB300HitterData.peak.year)); seven final in 2025 and seven so far in 2026. Snapshot before September 27 games. Use the Season slider below to explore every year.")
             .accessibilityIdentifier("hitter.chart")
         }
     }
