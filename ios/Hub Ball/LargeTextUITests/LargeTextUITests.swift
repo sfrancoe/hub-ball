@@ -91,14 +91,16 @@ final class LargeTextUITests: XCTestCase {
         app.buttons["hitter.launch"].tap()
         XCTAssertFalse(app.buttons["hitter.launch"].exists)
         XCTAssertTrue(app.staticTexts["hitter.complete"].waitForExistence(timeout: 13))
+        XCTAssertTrue(app.staticTexts["hitter.snapshot"].label.contains("Sept. 27, 2026"))
+        XCTAssertTrue(app.staticTexts["hitter.complete"].label.contains("Will it end at six again?"))
         capture("hitter-complete")
         let chart = app.otherElements["hitter.chart"]
         XCTAssertTrue(revealHitter(chart))
-        let counts = [23,30,16,26,29,30,21,25,24,15,22,24,21,17,20,23,21,32,46,38,44,31,46,51,49,44,30,36,36,30,33,36,31,35,19,23,22,23,15,19,24,23,14,19,20,12,10,9,7,6]
+        let counts = [23,30,16,26,29,30,21,25,24,15,22,24,21,17,20,23,21,32,46,38,44,31,46,51,49,44,30,36,36,30,33,36,31,35,19,23,22,23,15,19,24,23,14,19,20,12,10,9,7,6,6]
         for (index, count) in counts.enumerated() {
-            let x = 27 + CGFloat(index) / 49 * (chart.frame.width - 43)
+            let x = 27 + CGFloat(index) / CGFloat(counts.count - 1) * (chart.frame.width - 43)
             chart.coordinate(withNormalizedOffset: .zero).withOffset(CGVector(dx: x, dy: 140)).tap()
-            XCTAssertEqual(app.otherElements["hitter.selection"].label, "\(1976 + index): \(count) qualified hitters")
+            XCTAssertEqual(app.otherElements["hitter.selection"].label, "\(1976 + index)\(index == counts.count - 1 ? " YTD" : ""): \(count) qualified hitters")
         }
         XCTAssertTrue(revealHitter(app.buttons["hitter.music"]))
         XCTAssertTrue(app.buttons["hitter.music"].label.contains("Music off"))

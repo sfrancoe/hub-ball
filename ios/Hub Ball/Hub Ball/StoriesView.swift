@@ -36,7 +36,7 @@ struct StoriesView: View {
                                     VStack(alignment: .leading, spacing: 10) {
                                         Text("The vanishing .300 hitter")
                                             .font(.system(.title, design: .serif).weight(.bold))
-                                        Text("51 at the peak. Six in 2025. Watch a once-crowded club disappear.")
+                                        Text("Six in 2025. Six so far in 2026. Will it end at six again?")
                                             .font(.subheadline)
                                         Label("WATCH THE STORY · 10 SECONDS", systemImage: "play.circle.fill")
                                             .font(.caption.weight(.bold))

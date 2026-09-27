@@ -2,11 +2,14 @@ import Foundation
 
 /// Supplied Hub Ball editorial handoff, 1976–2025. Counts use displayed AVG >= .301,
 /// not .300-or-better. Keep this series separate from the story presentation.
-/// Append only confirmed completed regular seasons; never project a live season.
+/// 2026 is a dated MLB Stats API snapshot, explicitly provisional. Never label it final
+/// until final regular-season totals have been confirmed.
 enum MLB300HitterData {
     struct Season: Identifiable, Equatable {
         let year: Int
         let count: Int
+        var isProvisional = false
+        var label: String { "\(year)\(isProvisional ? " YTD" : "")" }
         var id: Int { year }
     }
 
@@ -20,11 +23,15 @@ enum MLB300HitterData {
         .init(year: 2006, count: 33), .init(year: 2007, count: 36), .init(year: 2008, count: 31), .init(year: 2009, count: 35), .init(year: 2010, count: 19),
         .init(year: 2011, count: 23), .init(year: 2012, count: 22), .init(year: 2013, count: 23), .init(year: 2014, count: 15), .init(year: 2015, count: 19),
         .init(year: 2016, count: 24), .init(year: 2017, count: 23), .init(year: 2018, count: 14), .init(year: 2019, count: 19), .init(year: 2020, count: 20),
-        .init(year: 2021, count: 12), .init(year: 2022, count: 10), .init(year: 2023, count: 9), .init(year: 2024, count: 7), .init(year: 2025, count: 6)
+        .init(year: 2021, count: 12), .init(year: 2022, count: 10), .init(year: 2023, count: 9), .init(year: 2024, count: 7), .init(year: 2025, count: 6),
+        .init(year: 2026, count: 6, isProvisional: true)
     ]
     static let peak = seasons.max { $0.count < $1.count }!
     static let peakIndex = seasons.firstIndex(of: peak)!
     static let finish = seasons.last!
+    static let snapshotLabel = "Sept. 27, 2026 · before today’s games"
+    static let coverageLabel = "1976–2025 final · 2026 YTD"
+    static let endingQuestion = "Six so far. Will it end at six again?"
     static let decline = Int((100 * (1 - Double(finish.count) / Double(peak.count))).rounded())
     static let duration: TimeInterval = 10
 

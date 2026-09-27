@@ -37,14 +37,17 @@ struct MLB300HitterStory: View {
                             .font(.system(compact ? .title : .largeTitle, design: .serif).weight(.bold))
                             .tracking(-1)
                             .fixedSize(horizontal: false, vertical: true)
-                        Text("Once a crowded club. Now, just \(finish.count).")
+                        Text("Six last year. Six so far in 2026.")
                             .font(compact ? .subheadline : .title3).foregroundStyle(HitterStyle.navy.opacity(0.72))
                         StoryStatCards(expanded: typeSize.usesExpandedReadingLayout, compact: compact)
                         VStack(alignment: .leading, spacing: 6) {
                             Text("QUALIFIED HITTERS · .301 OR HIGHER")
                                 .font(.caption.weight(.bold)).tracking(1)
-                            Text("Completed seasons, 1976–\(String(finish.year))")
+                            Text(MLB300HitterData.coverageLabel)
                                 .font(.caption).foregroundStyle(HitterStyle.navy.opacity(0.65))
+                            Text(MLB300HitterData.snapshotLabel)
+                                .font(.caption2).foregroundStyle(HitterStyle.navy.opacity(0.65))
+                                .accessibilityIdentifier("hitter.snapshot")
                         }
                         TimelineView(.animation(paused: !building)) { _ in
                             let elapsed = building ? ProcessInfo.processInfo.systemUptime - startedAt : (launched ? MLB300HitterData.duration : 0)
@@ -52,7 +55,7 @@ struct MLB300HitterStory: View {
                         }
                         .frame(height: compact ? 220 : 280)
                         yearInspector
-                        Text("In \(String(peak.year)), \(peak.count) qualified hitters finished above .300. In \(String(finish.year)), only \(finish.count) did. A familiar benchmark has become rare territory.")
+                        Text("In \(String(peak.year)), \(peak.count) qualified hitters finished above .300. Only six did in 2025. Six qualify so far in 2026—with the final day still to play.")
                             .font(.system(.body, design: .serif))
                             .lineSpacing(4)
                         Button("How we count · methodology") { showMethodology = true }
@@ -119,15 +122,15 @@ struct MLB300HitterStory: View {
         let season = MLB300HitterData.seasons[selectedIndex]
         return VStack(alignment: .leading, spacing: 8) {
             HStack(alignment: .firstTextBaseline) {
-                Text(String(season.year)).font(.title2.weight(.bold)).monospacedDigit()
+                Text(season.label).font(.title2.weight(.bold)).monospacedDigit()
                 Text("\(season.count) players").font(.title3).monospacedDigit()
             }
             .accessibilityElement(children: .ignore)
-            .accessibilityLabel("\(String(season.year)): \(season.count) qualified hitters")
+            .accessibilityLabel("\(season.label): \(season.count) qualified hitters")
             .accessibilityIdentifier("hitter.selection")
             Slider(value: Binding(get: { Double(selectedIndex) }, set: { selectedIndex = Int($0.rounded()) }), in: 0...Double(MLB300HitterData.seasons.count - 1), step: 1)
                 .accessibilityLabel("Season")
-                .accessibilityValue("\(String(season.year)), \(season.count) players")
+                .accessibilityValue("\(season.label), \(season.count) players")
                 .accessibilityIdentifier("hitter.year")
             Text("Tap the chart or slide through the seasons.")
                 .font(.caption).foregroundStyle(HitterStyle.navy.opacity(0.65))
@@ -142,7 +145,7 @@ struct MLB300HitterStory: View {
                 HStack(spacing: 16) { replayButton; musicButton }
                 VStack(alignment: .leading, spacing: 10) { replayButton; musicButton }
             }
-            Text(building ? "Building · 10 seconds" : "50 seasons. One changing game.")
+            Text(building ? "Building · 10 seconds" : MLB300HitterData.endingQuestion)
                 .font(.caption).foregroundStyle(HitterStyle.navy.opacity(0.65))
                 .accessibilityIdentifier(building ? "hitter.building" : "hitter.complete")
             if audioUnavailable {
@@ -204,11 +207,13 @@ struct MLB300HitterStory: View {
                 Section("The series") {
                     Text("Source: Hub Ball’s supplied editorial handoff, covering completed seasons from 1976 through 2025. The historical counts are reproduced as supplied.")
                     Text("The decline is rounded to the nearest whole percent: (51 − 6) ÷ 51 = 88%. The chart shows player counts, not the share of qualified hitters; MLB’s number of teams has changed over this period.")
-                    Text("2026 will be added only after final regular-season totals are confirmed using the same definition.")
+                    Text("2026 is a provisional snapshot from MLB’s qualified-hitter leaderboard, checked before the games on September 27, 2026. Six players are displayed at .301 or higher. This snapshot does not update automatically, and the final count may change.")
+                    Link("MLB 2026 batting-average leaderboard", destination: URL(string: "https://www.mlb.com/stats/batting-average/2026")!)
+                    Text("The final 2026 count will replace this YTD point only after the regular season ends and totals are verified with the same cutoff.")
                 }
                 Section("Every season") {
                     ForEach(MLB300HitterData.seasons) { season in
-                        LabeledContent(String(season.year), value: "\(season.count) players")
+                        LabeledContent(season.label, value: "\(season.count) players")
                     }
                 }
             }
@@ -232,7 +237,7 @@ private struct StoryLaunchOverlay: View {
                         .foregroundStyle(AppColor.amber)
                     Text("The vanishing\n.300 hitter")
                         .font(.system(.largeTitle, design: .serif).weight(.bold)).fixedSize(horizontal: false, vertical: true)
-                    Text("Fifty seasons.\nA once-crowded club.\nSix left standing.")
+                    Text("Six last year.\nSix so far this year.\nWill it end at six again?")
                         .font(.title2).foregroundStyle(AppColor.bone.opacity(0.75)).lineSpacing(6)
                     Button(action: launch) {
                         VStack(alignment: .leading, spacing: 14) {
@@ -246,7 +251,7 @@ private struct StoryLaunchOverlay: View {
                     .accessibilityIdentifier("hitter.launch")
                     Toggle("Music · optional", isOn: $musicEnabled)
                         .tint(AppColor.amber).accessibilityIdentifier("hitter.launchMusic")
-                    Text("10 seconds · 1976–2025\nQualified hitters with a displayed average of .301 or higher.")
+                    Text("10 seconds · 1976–2026 YTD\n2026 snapshot: Sept. 27, before today’s games.\nQualified hitters with a displayed average of .301 or higher.")
                         .font(.caption).foregroundStyle(AppColor.bone.opacity(0.65))
                 }
                 .padding(28).padding(.top, 60)
@@ -266,7 +271,7 @@ private struct StoryStatCards: View {
         let layout = expanded ? AnyLayout(VStackLayout(alignment: .leading, spacing: 12)) : AnyLayout(HStackLayout(alignment: .top, spacing: 8))
         layout {
             stat("\(MLB300HitterData.peak.count)", "Peak, \(String(MLB300HitterData.peak.year))", color: HitterStyle.coral)
-            stat("\(MLB300HitterData.finish.count)", "\(String(MLB300HitterData.finish.year)) finish", color: HitterStyle.gold)
+            stat("\(MLB300HitterData.finish.count)", MLB300HitterData.finish.label, color: HitterStyle.gold)
             stat("−\(MLB300HitterData.decline)%", "From the peak", color: HitterStyle.navy)
         }
     }
@@ -319,21 +324,21 @@ private struct Animated300LineChart: View {
                 }
                 if progress >= 1 {
                     Path { path in
-                        path.move(to: CGPoint(x: rect.maxX, y: rect.minY + 31))
+                        path.move(to: CGPoint(x: rect.maxX, y: rect.minY + 47))
                         path.addLine(to: points.last!)
                     }
                     .stroke(HitterStyle.gold.opacity(0.3), style: StrokeStyle(lineWidth: 1, dash: [3, 4]))
-                    callout("\(String(MLB300HitterData.finish.year)) · \(MLB300HitterData.finish.count) players", color: HitterStyle.gold)
-                        .position(x: rect.maxX - 51, y: rect.minY + 16)
+                    callout("\(MLB300HitterData.finish.label) · \(MLB300HitterData.finish.count) players", color: HitterStyle.gold)
+                        .position(x: rect.maxX - 65, y: rect.minY + 32)
                 }
                 if selectedIndex != MLB300HitterData.peakIndex && selectedIndex != seasons.count - 1 {
                     let selected = seasons[selectedIndex]
-                    callout("\(String(selected.year)) · \(selected.count) players", color: HitterStyle.navy)
+                    callout("\(selected.label) · \(selected.count) players", color: HitterStyle.navy)
                         .position(x: min(rect.maxX - 53, max(rect.minX + 53, points[selectedIndex].x)),
                                   y: min(rect.maxY - 12, points[selectedIndex].y + 25))
                 }
                 ForEach([0, 14, 24, 34, seasons.count - 1], id: \.self) { index in
-                    Text(String(seasons[index].year)).font(.system(size: 10).monospacedDigit())
+                    Text(seasons[index].label).font(.system(size: 10).monospacedDigit())
                         .foregroundStyle(HitterStyle.navy.opacity(0.6)).position(x: points[index].x, y: rect.maxY + 20)
                 }
             }
@@ -343,7 +348,7 @@ private struct Animated300LineChart: View {
                 if case let .active(location) = phase { select(location.x, rect: rect) }
             }
             .accessibilityElement(children: .ignore)
-            .accessibilityLabel("Qualified hitters above .300, 1976 through \(String(MLB300HitterData.finish.year)). Peak 51 in 1999; six in 2025. Use the Season slider below to explore every year.")
+            .accessibilityLabel("Qualified hitters above .300, 1976 through \(MLB300HitterData.finish.label). Peak 51 in 1999; six final in 2025 and six so far in 2026. Snapshot before September 27 games. Use the Season slider below to explore every year.")
             .accessibilityIdentifier("hitter.chart")
         }
     }
