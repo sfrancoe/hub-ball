@@ -54,7 +54,7 @@ struct HomeView: View {
                     Image(systemName: "sparkles")
                         .foregroundStyle(AppColor.amber)
                     VStack(alignment: .leading, spacing: 2) {
-                        Text("October is here. Pick a side.")
+                        Text("The 2026 playoff bracket is here.")
                             .font(AppFont.bodySmall.weight(.semibold))
                             .foregroundStyle(AppColor.bone)
                         Text("Follow the whole MLB field.")
@@ -68,7 +68,7 @@ struct HomeView: View {
                 .contentShape(Rectangle())
             }
             .buttonStyle(.plain)
-            .accessibilityHint("Opens the MLB-wide October experience. Your favorite team does not change.")
+            .accessibilityHint("Opens the complete MLB playoff bracket. Your favorite team does not change.")
 
             Button { octoberInvitationDismissed = true } label: {
                 Image(systemName: "xmark")
@@ -78,7 +78,7 @@ struct HomeView: View {
                     .contentShape(Rectangle())
             }
             .buttonStyle(.plain)
-            .accessibilityLabel("Dismiss October invitation")
+            .accessibilityLabel("Dismiss playoff invitation")
         }
         .padding(.leading, 14)
         .padding(.trailing, 4)

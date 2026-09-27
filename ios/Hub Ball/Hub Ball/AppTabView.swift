@@ -2,7 +2,6 @@ import SwiftUI
 
 enum MainTab: String, CaseIterable {
     case home
-    case october
     case recent
     case standings
     case schedule
@@ -16,7 +15,6 @@ enum MainTab: String, CaseIterable {
     var title: String {
         switch self {
         case .home: "Home"
-        case .october: "October"
         case .recent: "Game Recaps"
         case .schedule: "Schedule"
         case .headlines: "Newspapers"
@@ -40,11 +38,7 @@ enum MainTab: String, CaseIterable {
             .compactMap { MainTab(rawValue: String($0)) }
             .filter { seen.insert($0).inserted }
         let completeOrder = savedTabs + allCases.filter { !seen.contains($0) }
-        var migratedOrder = [.home] + completeOrder.filter { $0 != .home }
-        if !savedTabs.contains(.october) {
-            migratedOrder.insert(.october, at: 1)
-        }
-        return migratedOrder
+        return [.home] + completeOrder.filter { $0 != .home }
     }
 }
 
@@ -56,6 +50,7 @@ struct AppTabView: View {
     @AppStorage(HubPreferences.pageOrderKey) private var storedPageOrder = MainTab.defaultOrderStorageValue
     @State private var selectedTab: MainTab = .home
     @State private var settingsPresented = false
+    @State private var playoffsPresented = false
     @State private var hasAppeared = false
     @State private var backgroundedAt: Date?
     @State private var selectedPlayerID: Int?
@@ -74,7 +69,6 @@ struct AppTabView: View {
         MainTab.ordered(from: storedPageOrder).filter { tab in
             switch tab {
             case .home: team.supportsHome
-            case .october: OctoberFeature.enabled
             case .players: team.supportsPlayers
             default: true
             }
@@ -108,7 +102,7 @@ struct AppTabView: View {
             let arguments = ProcessInfo.processInfo.arguments
             if arguments.contains("-show-october") {
                 completedTeamOnboarding = true
-                selectedTab = .october
+                playoffsPresented = true
             } else if arguments.contains("-show-stories"), team.hasPublishedStories {
                 selectedTab = .stories
             } else if arguments.contains("-show-recent") {
@@ -153,6 +147,27 @@ struct AppTabView: View {
                 completedTeamOnboarding = true
                 selectedTab = team.supportsHome ? .home : .recent
             }
+        }
+        .fullScreenCover(isPresented: $playoffsPresented) {
+            NavigationStack {
+                OctoberView()
+                    .navigationBarTitleDisplayMode(.inline)
+                    .toolbar {
+                        ToolbarItem(placement: .principal) {
+                            Text("MLB · ALL TEAMS")
+                                .font(AppFont.label)
+                                .foregroundStyle(AppColor.boneMuted)
+                        }
+                        ToolbarItem(placement: .topBarTrailing) {
+                            Button("Done") { playoffsPresented = false }
+                                .tint(AppColor.amber)
+                                .accessibilityIdentifier("playoffs.close")
+                        }
+                    }
+                    .toolbarBackground(AppColor.night, for: .navigationBar)
+                    .toolbarBackground(.visible, for: .navigationBar)
+            }
+            .preferredColorScheme(.dark)
         }
         .sheet(isPresented: $settingsPresented) {
             TeamSettingsView(selectedTeamID: $selectedTeamID) { selectedTeam in
@@ -199,16 +214,13 @@ struct AppTabView: View {
         case .home:
                 HomeView(team: team) { destination in
                     switch destination {
-                    case .october: selectedTab = .october
+                    case .october: playoffsPresented = true
                     case .games: selectedTab = .recent
                     case .schedule: selectedTab = .schedule
                     case .standings: selectedTab = .standings
                     }
                 }
                 .mainTabSwipe(selection: $selectedTab, current: .home, availableTabs: availableTabs)
-        case .october:
-                OctoberView()
-                    .mainTabSwipe(selection: $selectedTab, current: .october, availableTabs: availableTabs)
         case .recent:
                 RecentGameView(team: team, onSelectPlayer: showPlayer)
                     .mainTabSwipe(selection: $selectedTab, current: .recent, availableTabs: availableTabs)
@@ -249,79 +261,90 @@ struct AppTabView: View {
         selectedTab = .players
     }
 
+    private var teamPickerButton: some View {
+        Button { settingsPresented = true } label: {
+            HStack(spacing: 6) {
+                Image(systemName: "baseball.fill").font(.system(size: 16))
+                Text(team.shortName)
+                    .font(.headline.weight(.bold))
+                    .lineLimit(2)
+                    .fixedSize(horizontal: false, vertical: true)
+                Image(systemName: "chevron.down").font(.caption.weight(.bold))
+            }
+            .frame(minHeight: 44, alignment: .leading)
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .accessibilityLabel("Switch team")
+        .accessibilityValue(team.pickerTitle)
+        .accessibilityHint("Opens teams and settings")
+    }
+
+    private var playoffsButton: some View {
+        Button { playoffsPresented = true } label: {
+            HStack(spacing: 5) {
+                Image(systemName: "trophy.fill")
+                if dynamicTypeSize.usesExpandedReadingLayout {
+                    VStack(alignment: .leading, spacing: 0) {
+                        Text(String(OctoberFeature.season))
+                        Text("Playoffs")
+                    }
+                    .fixedSize()
+                } else {
+                    Text("\(String(OctoberFeature.season)) Playoffs").fixedSize()
+                }
+            }
+            .font(.subheadline.weight(.semibold))
+            .foregroundStyle(AppColor.amber)
+            .padding(.horizontal, 10)
+            .frame(minHeight: 44)
+            .background(AppColor.amber.opacity(0.10), in: RoundedRectangle(cornerRadius: 8))
+        }
+        .buttonStyle(.plain)
+        .accessibilityIdentifier("playoffs.open")
+        .accessibilityHint("Opens the complete MLB playoff bracket for both leagues")
+    }
+
+    private var teamAndPlayoffsNavigation: some View {
+        HStack(spacing: 10) {
+            teamPickerButton
+                .frame(maxWidth: .infinity, alignment: .leading)
+            if OctoberFeature.enabled { playoffsButton }
+        }
+        .padding(.horizontal, 12)
+        .padding(.vertical, 4)
+        .dynamicTypeSize(...DynamicTypeSize.xxxLarge)
+    }
+
     private var expandedNavigation: some View {
-        HStack(spacing: 12) {
+        VStack(spacing: 0) {
+            teamAndPlayoffsNavigation
             Menu {
-                Section(team.pickerTitle) {
-                    Picker("Page", selection: $selectedTab) {
-                        ForEach(availableTabs, id: \.self) { tab in
-                            Text(tab.title).tag(tab)
-                        }
+                Picker("Page", selection: $selectedTab) {
+                    ForEach(availableTabs, id: \.self) { tab in
+                        Text(tab.title).tag(tab)
                     }
                 }
-                Button("Teams and settings") { settingsPresented = true }
             } label: {
-                HStack(spacing: 8) {
-                    Text(selectedTab.title)
-                        .font(.body.weight(.semibold))
-                        .fixedSize(horizontal: false, vertical: true)
-                    Image(systemName: "chevron.down").font(.system(size: 14, weight: .semibold))
+                HStack {
+                    Text(selectedTab.title).font(.body.weight(.semibold))
+                    Spacer()
+                    Image(systemName: "chevron.down")
                 }
-                .frame(maxWidth: .infinity, minHeight: 44, alignment: .leading)
-                .contentShape(Rectangle())
+                .frame(minHeight: 44)
+                .padding(.horizontal, 12)
             }
             .accessibilityLabel("Page")
             .accessibilityValue("\(selectedTab.title), \(team.shortName)")
-
         }
         .buttonStyle(.plain)
-        .padding(.horizontal, 12)
-        .padding(.vertical, 4)
         .foregroundStyle(AppColor.bone)
         .background(HubMastheadBackground(palette: palette))
     }
 
     private var topNavigation: some View {
         VStack(spacing: 0) {
-            HStack(spacing: 12) {
-                Button {
-                    settingsPresented = true
-                } label: {
-                    HStack(spacing: 10) {
-                        Image(systemName: "baseball.fill")
-                            .font(.system(size: 18, weight: .bold))
-
-                        Text(team.shortName)
-                            .font(.headline.weight(.bold))
-                            .lineLimit(dynamicTypeSize.usesExpandedReadingLayout ? 2 : 1)
-                            .fixedSize(horizontal: false, vertical: true)
-
-                        Image(systemName: "chevron.down")
-                            .font(.caption.weight(.bold))
-                            .foregroundStyle(AppColor.boneMuted)
-                    }
-                    .frame(minHeight: 44)
-                    .contentShape(Rectangle())
-                }
-                .buttonStyle(.plain)
-                .accessibilityLabel("Switch team")
-                .accessibilityValue(team.pickerTitle)
-                .accessibilityHint("Opens the team picker")
-
-                Spacer(minLength: 8)
-
-                Button {
-                    settingsPresented = true
-                } label: {
-                    Image(systemName: "gearshape")
-                        .font(.system(size: 18, weight: .semibold))
-                        .frame(width: 44, height: 44)
-                }
-                .buttonStyle(.plain)
-                .accessibilityLabel("Settings")
-            }
-            .padding(.horizontal, 12)
-
+            teamAndPlayoffsNavigation
             pageStrip
         }
         .foregroundStyle(AppColor.bone)

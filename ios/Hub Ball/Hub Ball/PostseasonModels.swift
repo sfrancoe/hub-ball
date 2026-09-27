@@ -104,3 +104,38 @@ struct OctoberCallBook: Codable, Sendable {
     var championTeamID: Int?
     var calls: [String: OctoberCall] = [:]
 }
+
+/// Fixed tournament slots retain their identity as TBD opponents become real teams.
+struct PlayoffBracketSlot: Identifiable {
+    let league: String
+    let round: String
+    let slot: String
+    let column: Int
+    let row: Int
+
+    var id: String { "\(league.lowercased())-\(round)-\(slot.lowercased())" }
+    func seriesID(season: Int) -> String { "\(season)-\(id)" }
+
+    static let all: [Self] = [
+        .init(league: "AL", round: "wild-card", slot: "B", column: 0, row: 0),
+        .init(league: "AL", round: "wild-card", slot: "A", column: 0, row: 1),
+        .init(league: "AL", round: "division-series", slot: "A", column: 1, row: 0),
+        .init(league: "AL", round: "division-series", slot: "B", column: 1, row: 1),
+        .init(league: "AL", round: "league-championship", slot: "main", column: 2, row: 0),
+        .init(league: "MLB", round: "world-series", slot: "main", column: 3, row: 0),
+        .init(league: "NL", round: "league-championship", slot: "main", column: 4, row: 0),
+        .init(league: "NL", round: "division-series", slot: "A", column: 5, row: 0),
+        .init(league: "NL", round: "division-series", slot: "B", column: 5, row: 1),
+        .init(league: "NL", round: "wild-card", slot: "B", column: 6, row: 0),
+        .init(league: "NL", round: "wild-card", slot: "A", column: 6, row: 1),
+    ]
+
+    var destinationID: String? {
+        switch round {
+        case "wild-card": "\(league.lowercased())-division-series-\(slot == "B" ? "a" : "b")"
+        case "division-series": "\(league.lowercased())-league-championship-main"
+        case "league-championship": "mlb-world-series-main"
+        default: nil
+        }
+    }
+}

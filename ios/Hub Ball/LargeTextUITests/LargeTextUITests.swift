@@ -65,6 +65,51 @@ final class LargeTextUITests: XCTestCase {
         return element.exists && element.isHittable
     }
 
+    func testPlayoffsBracketAndGlobalNavigation() {
+        launch(size: "UICTContentSizeCategoryL")
+        let open = app.buttons["playoffs.open"]
+        XCTAssertTrue(open.waitForExistence(timeout: 10))
+        XCTAssertFalse(app.buttons["October"].exists, "Playoffs is not a team page")
+        open.tap()
+        XCTAssertTrue(app.staticTexts["2026 PLAYOFFS"].waitForExistence(timeout: 5))
+        let bracket = app.scrollViews["playoffs.bracket"]
+        XCTAssertTrue(bracket.waitForExistence(timeout: 30))
+        let cards = app.buttons.matching(NSPredicate(format: "identifier BEGINSWITH %@", "bracket."))
+        XCTAssertEqual(cards.count, 11, "Every series must be present together")
+        for card in cards.allElementsBoundByIndex {
+            XCTAssertTrue(card.isHittable, "Full bracket visible: \(card.identifier)")
+        }
+        capture("playoffs-full-bracket")
+        app.buttons["bracket.al-wild-card-b"].tap()
+        XCTAssertTrue(app.navigationBars["Wild Card"].waitForExistence(timeout: 5))
+        capture("playoffs-series-details")
+        app.buttons["series.close"].tap()
+        app.buttons["playoffs.close"].tap()
+        XCTAssertTrue(open.waitForExistence(timeout: 5))
+        XCTAssertTrue(app.buttons["Switch team"].exists)
+        app.buttons["Switch team"].tap()
+        app.buttons["Page Order"].tap()
+        XCTAssertFalse(app.staticTexts["October"].exists, "Old saved page orders must omit October")
+        XCTAssertFalse(app.cells.containing(.staticText, identifier: "2026 Playoffs").firstMatch.exists, "Global destination is not reorderable as a team page")
+        capture("playoffs-team-page-order")
+    }
+
+    func testPlayoffsLargeTextAndLandscape() {
+        launch("-show-october")
+        XCTAssertTrue(app.scrollViews["playoffs.bracket"].waitForExistence(timeout: 30))
+        XCTAssertEqual(app.buttons.matching(NSPredicate(format: "identifier BEGINSWITH %@", "bracket.")).count, 11)
+        capture("playoffs-large-text")
+        app.buttons["playoffs.close"].tap()
+        XCTAssertTrue(app.buttons["playoffs.open"].isHittable)
+        XCTAssertTrue(app.buttons["Switch team"].isHittable)
+        capture("playoffs-large-text-navigation")
+        app.terminate()
+        launch("-show-october", size: "UICTContentSizeCategoryL")
+        rotate(.landscapeLeft)
+        XCTAssertTrue(app.scrollViews["playoffs.bracket"].waitForExistence(timeout: 30))
+        capture("playoffs-landscape")
+    }
+
     func testCareerBattingRecordsAndTotals() {
         launch("-show-player=701350")
         XCTAssertTrue(app.staticTexts["Roman Anthony"].firstMatch.waitForExistence(timeout: 30))
