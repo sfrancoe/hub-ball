@@ -1,4 +1,5 @@
 import Foundation
+import UIKit
 import Testing
 @testable import Hub_Ball
 
@@ -109,4 +110,17 @@ private actor BetaFixture {
         })
         await store.check(); #expect(store.candidate?.build == 9999)
     }
+    @Test func testFlightHandoffUsesOnlyAssociatedAppAndReportsFailure() async {
+        for result in [true, false] {
+            var calls = 0
+            let opened = await TestFlightHandoff.open { url, options in
+                calls += 1
+                #expect(url.absoluteString == "https://testflight.apple.com/a")
+                #expect(options.count == 1 && options[.universalLinksOnly] as? Bool == true)
+                return result
+            }
+            #expect(calls == 1 && opened == result)
+        }
+    }
+
 }

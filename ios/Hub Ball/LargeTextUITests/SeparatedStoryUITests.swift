@@ -85,4 +85,28 @@ final class SeparatedStoryUITests: XCTestCase {
         XCTAssertEqual(app.staticTexts["trajectory.emphasis"].label,"Tonight: one game to advance.")
     }
 
+    @MainActor func testWholeCountsAtIntermediateFramesAndExactEnd() {
+        let moments: [Double] = [0, 0.25, 1.25, 2.5, 4.75, 6.2, 8.8, 9.95, 10]
+        for moment in moments {
+            app.launchEnvironment["HUB_STORY_PREVIEW_TIME"] = String(moment)
+            launch()
+            let chart = app.otherElements["trajectory.chart"]
+            XCTAssertTrue(chart.exists)
+            let value = chart.value as? String ?? ""
+            XCTAssertFalse(value.isEmpty)
+            XCTAssertNil(value.range(of: "[0-9]+[.,][0-9]+", options: .regularExpression))
+            let counters = app.descendants(matching: .any).matching(NSPredicate(format: "identifier BEGINSWITH %@", "trajectory.series."))
+            XCTAssertEqual(counters.count, 2)
+            for index in 0..<counters.count {
+                XCTAssertNil(counters.element(boundBy:index).label.range(of: "[0-9]+[.,][0-9]+", options: .regularExpression))
+            }
+            if moment == 4.75 || moment == 10 { shot("separated-integer-frame-\(moment)") }
+            if moment == 10 {
+                let spoken = chart.value as? String ?? ""
+                XCTAssertTrue(spoken.contains("58") && spoken.contains("57"), spoken)
+            }
+            app.terminate()
+        }
+    }
+
 }

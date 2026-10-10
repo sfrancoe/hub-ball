@@ -36,4 +36,31 @@ struct SeparatedStoryTests {
         var cold = FeaturedStoryLaunch()
         #expect(cold.offer(completedOnboarding: true,busy: false,entry: entry)?.id == "separated-by-one")
     }
+    @Test func integerCountsAtEveryFrameWithUnchangedSmoothGeometry() throws {
+        let chart = try #require(PrivateLaunchStory.item).story.chart
+        var previous = [0, 0]
+        var sawFractionalGeometry = false
+        for tick in 0...1000 {
+            let frame = chart.frame(at: Double(tick) / 100)
+            for (index, series) in chart.series.enumerated() {
+                let progress = try #require(frame.progresses[index])
+                let value = chart.value(in: series, at: progress)
+                sawFractionalGeometry = sawFractionalGeometry || value != floor(value)
+                let count = try #require(Int(TrajectoryNumberPresentation.wholeRunCounts.counter(value)))
+                #expect(count == Int(floor(value)) && count >= previous[index])
+                #expect(TrajectoryNumberPresentation.wholeRunCounts.axis(value) == String(count))
+                previous[index] = count
+            }
+        }
+        #expect(sawFractionalGeometry && previous == [58,57])
+        #expect(chart.frame(at: 0).progresses == [0,0])
+        #expect(TrajectoryNumberPresentation.wholeRunCounts.counter(58) == "58")
+        #expect(TrajectoryNumberPresentation.wholeRunCounts.counter(57) == "57")
+    }
+    @Test func unrelatedRatesKeepFractionalPrecision() {
+        #expect(TrajectoryNumberPresentation.standard.counter(12.34) == 12.34.formatted(.number.precision(.fractionLength(0...1))))
+        #expect(TrajectoryNumberPresentation.standard.axis(0.300) == 0.300.formatted())
+        #expect(TrajectoryNumberPresentation.standard.axis(57.25, grouping: false) == 57.25.formatted(.number.grouping(.never)))
+    }
+
 }

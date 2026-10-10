@@ -59,6 +59,7 @@ EDITORIAL_LINKS = {
 }
 PUBLIC_WEB_PAGES = {
     "https://testflight.apple.com/",
+    "https://testflight.apple.com/a",
     "https://red-sox.netlify.app/october/",
     "https://www.mlb.com/stats/batting-average/2026",
 }

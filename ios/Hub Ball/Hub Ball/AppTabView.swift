@@ -89,9 +89,11 @@ struct AppTabView: View {
                     topNavigation
                 }
                 if let update = updateOffer {
-                    BetaUpdateNotice(target: update, update: {
+                    BetaUpdateNotice(update: {
                         model.updates.later(update)
-                        updateInstructionsPresented = true
+                        Task {
+                            if !(await TestFlightHandoff.open()) { updateInstructionsPresented = true }
+                        }
                     }, later: { model.updates.later(update) })
                 }
                 if let session, session.team == team {
