@@ -57,6 +57,8 @@ struct AppTabView: View {
     @State private var storiesPresented = false
     @State private var hitterPresented = false
     @State private var featuredStory: StoryEntry?
+    @State private var launchStoryPresented = false
+    @State private var updateInstructionsPresented = false
     @State private var hasAppeared = false
     @State private var selectedPlayerID: Int?
 
@@ -86,6 +88,12 @@ struct AppTabView: View {
                 } else {
                     topNavigation
                 }
+                if let update = updateOffer {
+                    BetaUpdateNotice(target: update, update: {
+                        model.updates.later(update)
+                        updateInstructionsPresented = true
+                    }, later: { model.updates.later(update) })
+                }
                 if let session, session.team == team {
                     selectedContent
                         .id(team.id)
@@ -102,6 +110,7 @@ struct AppTabView: View {
         .foregroundStyle(AppColor.ink)
         .font(AppFont.body)
         .environment(\.hubTeamPalette, palette)
+        .task { await model.updates.check() }
         .onAppear {
             if session == nil { session = TeamSession(team: team) }
             guard !hasAppeared else { return }
@@ -147,7 +156,10 @@ struct AppTabView: View {
         }
         .onChange(of: scenePhase) { _, newPhase in
             if newPhase == .background { session?.scheduler.setBackground(true) }
-            if newPhase == .active { session?.scheduler.setBackground(false) }
+            if newPhase == .active {
+                session?.scheduler.setBackground(false)
+                Task { await model.updates.check() }
+            }
 
         }
         .fullScreenCover(isPresented: onboardingPresented, onDismiss: {
@@ -187,13 +199,16 @@ struct AppTabView: View {
             StoriesView(closeLibrary: { storiesPresented = false })
         }
         .fullScreenCover(isPresented: $hitterPresented) { MLB300HitterStory() }
-        .sheet(item: $featuredStory) { entry in
+        .sheet(item: $featuredStory, onDismiss: { launchStoryPresented = false }) { entry in
             if let item = PrivateLaunchStory.item, item.id == entry.id {
                 NavigationStack { PrivateLaunchStoryView(item: item) { featuredStory = nil } }
                     .presentationDetents([.large]).presentationDragIndicator(.visible)
             } else {
                 FeaturedStoryOfferView(entry: entry) { featuredStory = nil }
             }
+        }
+        .sheet(isPresented: $updateInstructionsPresented) {
+            BetaUpdateInstructions { updateInstructionsPresented = false }
         }
         .sheet(isPresented: $settingsPresented) {
             TeamSettingsView(selectedTeamID: $selectedTeamID) { selectedTeam in
@@ -219,7 +234,14 @@ struct AppTabView: View {
         featuredStory = model.featuredStoryLaunch.offer(completedOnboarding: completedTeamOnboarding,
                                                       busy: playoffsPresented || storiesPresented || hitterPresented || settingsPresented,
                                                       entry: entry)
+        launchStoryPresented = featuredStory != nil
         if completedTeamOnboarding && featuredStory == nil { playoffsPresented = true }
+    }
+
+    private var updateOffer: BetaRelease? {
+        model.updates.offer(completedOnboarding: completedTeamOnboarding,
+                            storyConsumed: model.featuredStoryLaunch.consumed,
+                            busy: launchStoryPresented || featuredStory != nil || playoffsPresented || storiesPresented || hitterPresented || settingsPresented || updateInstructionsPresented || scenePhase != .active)
     }
 
     private var onboardingPresented: Binding<Bool> {

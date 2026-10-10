@@ -44,6 +44,7 @@ ALLOWED_PATHS.add('postseason-history/2026.json');
 ALLOWED_PATHS.add('postseason-history/2026-v2.json');
 ALLOWED_PATHS.add('postseason-news/2026.json');
 ALLOWED_PATHS.add('stories/catalog-v1.json');
+ALLOWED_PATHS.add('releases/testflight-v1.json');
 
 // A player card requests a single generated career record by the stable numeric
 // ID in its roster feed. Restrict this dynamic collection to a filename only:
@@ -96,7 +97,13 @@ async function fetchSource(path, request = fetch) {
       });
       if (!response.ok) throw new Error(`GitHub returned ${response.status}`);
       let body;
-      if (path.startsWith('stories/')) {
+      if (path === 'releases/testflight-v1.json') {
+        const bytes = await storyBytes(response, 16 * 1024);
+        const parsed = JSON.parse(bytes.toString('utf8'));
+        if (parsed.schemaVersion !== 1 || parsed.bundleID !== 'com.sfrancoe.HubBall' || typeof parsed.enabled !== 'boolean'
+          || (parsed.enabled ? parsed.target?.audience !== 'all-supported-testers' : parsed.target !== null)) throw new Error('Invalid beta release manifest');
+        body = bytes;
+      } else if (path.startsWith('stories/')) {
         const catalog = path === 'stories/catalog-v1.json';
         const bytes = await storyBytes(response, (catalog ? 128 : 512) * 1024);
         const parsed = JSON.parse(bytes.toString('utf8'));
@@ -130,7 +137,10 @@ export default async request => {
     const catalog = path === 'stories/catalog-v1.json';
     const story = path.startsWith('stories/');
     const etag = story ? `"${hash(body)}"` : null;
-    const cacheHeaders = catalog ? {
+    const cacheHeaders = path === 'releases/testflight-v1.json' ? {
+      'Cache-Control': 'no-store',
+      'Netlify-CDN-Cache-Control': 'no-store',
+    } : catalog ? {
       'Cache-Control': 'public, max-age=0, must-revalidate',
       'Netlify-CDN-Cache-Control': 'public, durable, max-age=30',
     } : story ? {

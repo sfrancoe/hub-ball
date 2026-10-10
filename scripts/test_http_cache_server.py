@@ -8,6 +8,7 @@ import sys
 import threading
 import time
 from email.utils import formatdate
+from datetime import datetime, timezone, timedelta
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
@@ -38,6 +39,16 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self) -> None:
         parsed = urlparse(self.path)
         query = parse_qs(parsed.query)
+
+        if parsed.path == '/beta-fixture/releases/testflight-v1.json':
+            now = datetime.now(timezone.utc)
+            self.send_json({'schemaVersion': 1, 'bundleID': 'com.sfrancoe.HubBall', 'enabled': True, 'target': {
+                'version': '1.1', 'build': 9999, 'audience': 'all-supported-testers', 'available': True,
+                'confirmedAt': now.strftime('%Y-%m-%dT%H:%M:%SZ'), 'expiresAt': (now + timedelta(days=1)).strftime('%Y-%m-%dT%H:%M:%SZ'),
+                'minimumOS': '17.0', 'deviceFamilies': ['iphone', 'ipad'],
+                'verifiedGroupIDs': ['a7c07355-b794-49b9-b36d-75c129c8d6bb', '58b84a1e-c8ab-4b73-9948-3362b4569fd1']
+            }}, 'no-store')
+            return
 
         if parsed.path == '/story-fixture/stories/catalog-v1.json':
             self.send_response(302)

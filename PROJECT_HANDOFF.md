@@ -15,7 +15,7 @@ The active app identity is `com.sfrancoe.HubBall`. The legacy Boston Baseball Hu
 identity and retired standalone Yankees app are documented in
 [docs/PRODUCTS.md](docs/PRODUCTS.md). Yankees content is part of Hub Ball.
 
-`config/hub-ball-release.json` currently declares version 1.1, build 122. Always read
+`config/hub-ball-release.json` currently declares version 1.1, build 123. Always read
 the manifest and run `python3 scripts/check_hub_ball_release.py` before answering a
 release question or installing on a device. A successful simulator build does not
 declare or publish a release. Build changes require updating both Xcode configurations
@@ -33,7 +33,7 @@ League-wide features include the playoff bracket, postseason history, news and
 scorecards, plus the story library. Story playback includes the Boston Game 108
 story, the MLB 300-hitter story and validated trajectory stories. The home-run chase
 has a Debug inspection entry point. Build 121 also bundles three private October 9
-story previews and the private October 10 “Separated by One” launch story; these are separate from the shared remote catalog. Its launch chart autoplays once per process after onboarding; see [private release notes](docs/stories/separated-private-release.md). See
+story previews and the private October 10 “Separated by One” launch story; these are separate from the shared remote catalog. Build 123 adds an optional dismissible broad-release update notice; its disabled manifest/server bootstrap is locally prepared and awaits deployment approval (see [update notice](docs/testflight-update-notice.md)). Its launch chart autoplays once per process after onboarding; see [private release notes](docs/stories/separated-private-release.md). See
 [docs/stories/private-october9-preview.md](docs/stories/private-october9-preview.md).
 
 `TeamSession` owns the selected team's stores and preserves them across tab changes.

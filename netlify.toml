@@ -76,3 +76,9 @@
   for = "/src/*"
   [headers.values]
     Cache-Control = "no-cache, no-store, must-revalidate"
+
+# Beta availability must never use the general five-minute static-data cache.
+[[headers]]
+  for = "/data/releases/testflight-v1.json"
+  [headers.values]
+    Cache-Control = "no-store"

@@ -55,6 +55,16 @@ class EndpointTests(unittest.TestCase):
         self.assertEqual(self.check(url, b'<html><head><title>Brewers</title></head></html>').status, 'PASS')
         self.assertEqual(self.check(url, b'not a page').status, 'FAIL')
 
+    def test_testflight_help_is_html_and_uses_html_accept(self):
+        url = 'https://testflight.apple.com/'
+        self.assertEqual(self.check(url, b'<html><title>TestFlight</title></html>').status, 'PASS')
+        self.assertEqual(self.check(url, b'{"error":true}').status, 'FAIL')
+        with patch.object(preflight.urllib.request, 'urlopen') as opener:
+            response = opener.return_value.__enter__.return_value
+            response.status = 200; response.read.return_value = b'<html><title>TestFlight</title></html>'
+            preflight.fetch_url(url)
+            self.assertEqual(opener.call_args.args[0].get_header('Accept'), 'text/html')
+
     def test_data_endpoint_still_requires_json(self):
         url = 'https://red-sox.netlify.app/api/data/seasons.json'
         self.assertEqual(self.check(url, b'<html><title>Error</title></html>').status, 'FAIL')
