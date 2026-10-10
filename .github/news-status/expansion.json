@@ -71,8 +71,8 @@
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
     },
     "cubs/athletic": {
-      "last_error": "Could not fetch news RSS: not well-formed (invalid token): line 1, column 41",
-      "streak": 1,
+      "last_error": "",
+      "streak": 0,
       "url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
     },
     "cubs/chicago-tribune": {
@@ -271,8 +271,8 @@
       "url": "https://www.nytimes.com/athletic/mlb/team/royals/"
     },
     "royals/kansas-city-star": {
-      "last_error": "Could not fetch news RSS: not well-formed (invalid token): line 1, column 41",
-      "streak": 1,
+      "last_error": "",
+      "streak": 0,
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
     },
     "tigers/athletic": {

@@ -16,38 +16,17 @@
     },
     {
       "category": "Guardians",
+      "description": "The Guardians host the White Sox in a decisive Game 5 of the ALDS, with Gavin Williams starting on short rest and the series winner advancing to face Tampa Bay in the ALCS.",
+      "published": "2026-10-10T12:01:00+00:00",
+      "title": "Guardians vs. White Sox ALDS Game 5: Live updates from Progressive Field",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-white-sox-alds-game-5-live-updates-from-progressive-field.html"
+    },
+    {
+      "category": "Guardians",
       "description": "After battling back from 0-2 in the Windy City, the Cleveland Guardians host the Chicago White Sox in a winner-take-all Game 5 of the ALDS today. Find out how to watch for free.",
       "published": "2026-10-10T05:30:00+00:00",
       "title": "Where to watch Guardians vs. White Sox ALDS Game 5 today: MLB free live stream",
       "url": "https://www.cleveland.com/tv/2026/10/where-to-watch-guardians-vs-white-sox-alds-game-5-today-mlb-free-live-stream.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Cleveland Guardians send rookie AL Cy Young candidate Parker Messick back onto the mound as they clash with the Chicago White Sox in a do-or-die Game 4 of the ALDS. Find out how to watch for free.",
-      "published": "2026-10-08T11:00:00+00:00",
-      "title": "Watch Guardians free vs. White Sox ALDS Game 4 today: MLB live stream",
-      "url": "https://www.cleveland.com/tv/2026/10/watch-guardians-free-vs-white-sox-alds-game-4-today-mlb-live-stream.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Cleveland's offense exploded for six runs in the sixth inning, powered by José Ramírez and Patrick Bailey, to force a decisive Game 5 against Chicago.",
-      "published": "2026-10-08T22:03:00+00:00",
-      "title": "Guardians’ Game 4 win by the numbers: José Ramírez, Patrick Bailey power historic comeback",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-win-game-4-by-the-numbers-jose-ramirez-patrick-bailey-power-historic-comeback.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Daniel Espino will start ALDS Game 3 for the Guardians on Wednesday in Chicago as Cleveland tries to avoid elimination against the White Sox.",
-      "published": "2026-10-06T10:00:00+00:00",
-      "title": "Guardians tap rookie Daniel Espino to start ALDS Game 3 with season on the line",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-turn-to-daniel-espino-as-a-starting-pitcher-with-season-on-the-line-in-alds-game-3.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Gavin Williams struck out 11 and overwhelmed the White Sox, but Cleveland’s offense went quiet again in a 4-3 Game 2 loss.",
-      "published": "2026-10-05T13:10:00+00:00",
-      "title": "Gavin Williams gives Guardians everything but a win in crushing Game 2 loss",
-      "url": "https://www.cleveland.com/guardians/2026/10/gavin-williams-gives-guardians-everything-but-a-win-in-crushing-game-2-loss.html"
     },
     {
       "category": "Guardians",
@@ -58,24 +37,45 @@
     },
     {
       "category": "Guardians",
+      "description": "Jose Ramirez homered and drove in three runs, sparking a six-run sixth inning as Cleveland forced a decisive Game 5.",
+      "published": "2026-10-09T16:49:00+00:00",
+      "title": "Guardians beat White Sox, 9-5, bring ALDS home for winner-take-all Game 5",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-beat-white-sox-9-5-bring-alds-home-for-winner-take-all-game-5.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Cleveland's offense exploded for six runs in the sixth inning, powered by José Ramírez and Patrick Bailey, to force a decisive Game 5 against Chicago.",
+      "published": "2026-10-08T22:03:00+00:00",
+      "title": "Guardians’ Game 4 win by the numbers: José Ramírez, Patrick Bailey power historic comeback",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-win-game-4-by-the-numbers-jose-ramirez-patrick-bailey-power-historic-comeback.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Gavin Williams struck out 11 and overwhelmed the White Sox, but Cleveland’s offense went quiet again in a 4-3 Game 2 loss.",
+      "published": "2026-10-05T13:10:00+00:00",
+      "title": "Gavin Williams gives Guardians everything but a win in crushing Game 2 loss",
+      "url": "https://www.cleveland.com/guardians/2026/10/gavin-williams-gives-guardians-everything-but-a-win-in-crushing-game-2-loss.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Daniel Espino will start ALDS Game 3 for the Guardians on Wednesday in Chicago as Cleveland tries to avoid elimination against the White Sox.",
+      "published": "2026-10-06T10:00:00+00:00",
+      "title": "Guardians tap rookie Daniel Espino to start ALDS Game 3 with season on the line",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-turn-to-daniel-espino-as-a-starting-pitcher-with-season-on-the-line-in-alds-game-3.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Cleveland Guardians send rookie AL Cy Young candidate Parker Messick back onto the mound as they clash with the Chicago White Sox in a do-or-die Game 4 of the ALDS. Find out how to watch for free.",
+      "published": "2026-10-08T11:00:00+00:00",
+      "title": "Watch Guardians free vs. White Sox ALDS Game 4 today: MLB live stream",
+      "url": "https://www.cleveland.com/tv/2026/10/watch-guardians-free-vs-white-sox-alds-game-4-today-mlb-live-stream.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Rookie Parker Messick gets the ball for the Guardians in must-win ALDS Game 4 against the White Sox, drawing on a lesson he learned from Daniel Espino.",
       "published": "2026-10-07T22:04:00+00:00",
       "title": "Parker Messick learned early on what it means to be a Guardians pitcher. Now comes his biggest test",
       "url": "https://www.cleveland.com/guardians/2026/10/parker-messick-learned-early-on-what-it-means-to-be-a-guardians-pitcher-now-comes-his-biggest-test.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "With their bullpen stretched thin after two straight losses, the White Sox turn to Sean Burke to slow the Guardians in Saturday's decisive ALDS Game 5.",
-      "published": "2026-10-09T08:24:00+00:00",
-      "title": "White Sox name Game 5 starter, prepare for all-hands-on-deck showdown with Guardians",
-      "url": "https://www.cleveland.com/guardians/2026/10/white-sox-name-game-5-starter-prepare-for-all-hands-on-deck-showdown-with-guardians.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "CLEVELAND, Ohio — José Ramírez finally put his fingerprint on the American League Division Series on Wednesday, delivering the two-out hit Cleveland had been searching for since the postseason began.",
-      "published": "2026-10-07T12:25:00+00:00",
-      "title": "José Ramírez delivers his signature ALDS moment as Guardians’ offense comes alive",
-      "url": "https://www.cleveland.com/guardians/2026/10/jose-ramirez-delivers-his-signature-alds-moment-as-guardians-offense-comes-alive.html"
     },
     {
       "category": "Guardians",
@@ -85,7 +85,7 @@
       "url": "https://www.cleveland.com/guardians/2026/10/jose-ramirez-saves-guardians-season-but-can-cleveland-do-it-again-in-game-4-cleveland-baseball-talk-podcast.html"
     }
   ],
-  "generated_at": "2026-10-10T20:12:43.450080+00:00",
+  "generated_at": "2026-10-10T23:35:04.317642+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

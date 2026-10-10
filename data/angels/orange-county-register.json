@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Angels",
+      "description": "Angels starter José Soriano allows just one hit in 5⅓ innings, but walks six as ...",
+      "published": "2026-05-29T08:07:00+00:00",
+      "title": "los-angeles-angels",
+      "url": "https://www.ocregister.com/tag/los-angeles-angels/"
+    },
+    {
+      "category": "Angels",
       "description": "Mozeliak says he “would like” Suzuki to return as manager, but he’s waiting for more guidance from the new ownership group. Mozeliak says he’s been in regular contact with Kevin Demoff, who runs the ...",
       "published": "2026-09-28T16:51:00+00:00",
       "title": "Angels interim GM John Mozeliak endorses Kurt Suzuki to return as manager",
@@ -27,16 +34,9 @@
       "published": "2026-05-16T01:02:00+00:00",
       "title": "Angels swap outfielders, replacing Bryce Teodosio with José Siri",
       "url": "https://www.ocregister.com/2026/05/16/angels-swap-outfielders-replacing-bryce-teodosio-with-jose-siri/"
-    },
-    {
-      "category": "Angels",
-      "description": "Ohtani has never batted anywhere but first or second since joining the Dodgers, but he has been slumping for weeks. It is the lowest he has batted in a lineup since the 2020 season Angels.",
-      "published": "2026-10-06T20:06:00+00:00",
-      "title": "Dodgers drop Shohei Ohtani to 5th in lineup for NLDS Game 3",
-      "url": "https://www.ocregister.com/2026/10/06/dodgers-drop-shohei-ohtani-to-5th-in-lineup-for-nlds-game-3/"
     }
   ],
-  "generated_at": "2026-10-10T20:12:59.465088+00:00",
+  "generated_at": "2026-10-10T23:35:06.644665+00:00",
   "source": "OC Register",
   "source_url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
 }
