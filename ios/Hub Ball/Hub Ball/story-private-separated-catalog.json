@@ -1,0 +1,22 @@
+{
+  "publishedAt": "2026-10-10T14:08:34Z",
+  "revision": "private-separated-october10",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "fallback": "2026 regular-season runs: CWS 58 · CLE 57. One run apart across thirteen meetings. One win apart in their head-to-head series. One win apart in the season standings.",
+      "id": "separated-by-one",
+      "minimumRendererVersion": 2,
+      "publishedAt": "2026-10-10T14:08:34Z",
+      "renderer": "chart-trajectory",
+      "rendererVersion": 1,
+      "revision": "f0a4c2c71b94674094f486a828a0321a15ef361d8003474557a3c19487f3d662",
+      "summary": "Thirteen 2026 regular-season meetings. Chicago 58 runs, Cleveland 57. Tonight, one game to advance.",
+      "teamIDs": [
+        145,
+        114
+      ],
+      "title": "Separated by One"
+    }
+  ]
+}

@@ -9,12 +9,17 @@ struct StoriesView: View {
         model.stories.catalog.stories.filter { team == nil || $0.teamIDs.contains(team!.mlbID) }
     }
 
+    private var privateLaunchPreview: PrivateStoryPreview? {
+        guard team == nil || [145, 114].contains(team!.mlbID) else { return nil }
+        return PrivateLaunchStory.item
+    }
+
     var body: some View {
         NavigationStack {
             ZStack {
                 AppColor.paleRed.ignoresSafeArea()
 
-                if team == nil || team?.hasPublishedStories == true || !remoteEntries.isEmpty {
+                if team == nil || team?.hasPublishedStories == true || !remoteEntries.isEmpty || privateLaunchPreview != nil {
                     ScrollView {
                         VStack(alignment: .leading, spacing: 14) {
                             VStack(alignment: .leading, spacing: 5) {
@@ -46,6 +51,12 @@ struct StoriesView: View {
                                 Text("Showing saved stories. New stories will appear when connected.")
                                     .font(.footnote).foregroundStyle(AppColor.navy)
                                     .accessibilityIdentifier("stories.offline")
+                            }
+                            if let item = privateLaunchPreview {
+                                teamHeading("PRIVATE PREVIEW · OCTOBER 10")
+                                NavigationLink { PrivateLaunchStoryView(item: item) } label: {
+                                    StoryPreviewCard(title: item.entry.title, summary: item.entry.summary, action: "WATCH THE CHART · 10 SECONDS")
+                                }.buttonStyle(.plain).accessibilityIdentifier("stories.private.separated-by-one")
                             }
                             if team == nil && !PrivateStoryPreviews.items.isEmpty {
                                 teamHeading("PRIVATE PREVIEW")

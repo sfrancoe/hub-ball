@@ -19,6 +19,7 @@ struct TrajectoryStoryView: View {
     let story: TrajectoryStory
     var note: String?
     let refresh: () async -> Void
+    var endpointLabels: [String]? = nil
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Environment(\.dynamicTypeSize) private var typeSize
     @Environment(\.scenePhase) private var scenePhase
@@ -69,7 +70,7 @@ struct TrajectoryStoryView: View {
                                     .font(.caption.monospacedDigit()).accessibilityIdentifier("trajectory.progress")
                             }
                             ZStack(alignment: .bottomTrailing) {
-                                TrajectoryCanvas(chart: story.chart, frame: frame)
+                                TrajectoryCanvas(chart: story.chart, frame: frame, endpointLabels: endpointLabels)
                                     .frame(height: typeSize.isAccessibilitySize ? 250 : compact ? 220 : window.size.width >= 650 ? 340 : 260)
                                     .accessibilityElement(children: .ignore)
                                     .accessibilityLabel("\(story.chart.kind) chart. \(story.chart.xAxis.label), \(story.chart.xAxis.minimum.formatted(.number.grouping(.never))) to \(story.chart.xAxis.maximum.formatted(.number.grouping(.never))); \(story.chart.yAxis.label), \(story.chart.yAxis.minimum.formatted()) to \(story.chart.yAxis.maximum.formatted()).")
@@ -205,9 +206,10 @@ struct TrajectoryStoryView: View {
 private struct TrajectoryCanvas: View {
     let chart: TrajectoryStory.Chart
     let frame: TrajectoryStory.Chart.Frame
+    var endpointLabels: [String]? = nil
     var body: some View {
         Canvas { context, size in
-            let plot = CGRect(x: 30, y: 8, width: max(1, size.width - (chart.kind == "bar" ? 110 : 72)), height: max(1, size.height - 38))
+            let plot = CGRect(x: 30, y: 8, width: max(1, size.width - (endpointLabels != nil ? 128 : chart.kind == "bar" ? 110 : 72)), height: max(1, size.height - 38))
             let barInset = chart.kind == "bar" ? plot.width / CGFloat(chart.series[0].points.count) / 2 : 0
             func px(_ x: Double) -> CGFloat { plot.minX + barInset + (x - chart.xAxis.minimum) / (chart.xAxis.maximum - chart.xAxis.minimum) * (plot.width - 2 * barInset) }
             func py(_ y: Double) -> CGFloat { plot.maxY - (y - chart.yAxis.minimum) / (chart.yAxis.maximum - chart.yAxis.minimum) * plot.height }
@@ -223,7 +225,7 @@ private struct TrajectoryCanvas: View {
             for x in chart.xAxis.ticks {
                 context.draw(Text(x.formatted(.number.grouping(.never))).font(.system(size: 11, weight: .medium)).foregroundStyle(TrajectoryStyle.ink), at: CGPoint(x: px(x), y: plot.maxY + 16))
             }
-            if let beat = frame.beat, beat.comparison == nil {
+            if let beat = frame.beat, beat.comparison == nil, endpointLabels == nil {
                 var reference = Path(); reference.move(to: CGPoint(x: plot.minX, y: py(beat.y))); reference.addLine(to: CGPoint(x: plot.maxX, y: py(beat.y)))
                 context.stroke(reference, with: .color(TrajectoryStyle.color("coral").opacity(0.5)), style: StrokeStyle(lineWidth: 1, dash: [4, 4]))
                 context.draw(Text(beat.y.formatted()).font(.system(size: 11, weight: .bold)).foregroundStyle(TrajectoryStyle.color("coral")), at: CGPoint(x: plot.maxX + 5, y: py(beat.y)), anchor: .leading)
@@ -253,7 +255,22 @@ private struct TrajectoryCanvas: View {
                     context.fill(Path(ellipseIn: CGRect(x: px(progress) - 3, y: py(chart.value(in: series, at: progress)) - 3, width: 6, height: 6)), with: .color(color))
                 }
             }
-            if let beat = frame.beat {
+            if let labels = endpointLabels, labels.count == chart.series.count,
+               frame.progresses.allSatisfy({ $0 == chart.xAxis.maximum }) {
+                let ordered = chart.series.indices.sorted { chart.series[$0].points.last!.y > chart.series[$1].points.last!.y }
+                var previousY: CGFloat = -100
+                for index in ordered {
+                    let point = chart.series[index].points.last!
+                    let labelY = min(plot.maxY - 12, max(py(point.y), previousY + 20))
+                    previousY = labelY
+                    let color = TrajectoryStyle.color(chart.series[index].color)
+                    var connector = Path(); connector.move(to: CGPoint(x: px(point.x), y: py(point.y)))
+                    connector.addLine(to: CGPoint(x: plot.maxX + 8, y: labelY))
+                    context.stroke(connector, with: .color(color), lineWidth: 1)
+                    context.draw(Text("\(labels[index]) \(point.y.formatted())").font(.system(size: 12, weight: .bold)).foregroundStyle(color), at: CGPoint(x: plot.maxX + 11, y: labelY), anchor: .leading)
+                }
+            }
+            if let beat = frame.beat, endpointLabels == nil {
                 context.stroke(Path(ellipseIn: CGRect(x: px(beat.x) - 5, y: py(beat.y) - 5, width: 10, height: 10)), with: .color(TrajectoryStyle.ink), lineWidth: 1.5)
                 if let comparison = beat.comparison, let target = chart.series.first(where: { $0.id == comparison.targetSeriesID }), let endpoint = target.points.last {
                     let start = CGPoint(x: px(beat.x) + 7, y: py(beat.y))

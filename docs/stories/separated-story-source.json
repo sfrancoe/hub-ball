@@ -1,0 +1,161 @@
+{
+  "aldsExcluded": [
+    {
+      "cle": 0,
+      "cws": 3,
+      "date": "2026-10-03",
+      "gameID": 849829,
+      "gameType": "D",
+      "state": "Final"
+    },
+    {
+      "cle": 3,
+      "cws": 4,
+      "date": "2026-10-05",
+      "gameID": 849834,
+      "gameType": "D",
+      "state": "Final"
+    },
+    {
+      "cle": 9,
+      "cws": 3,
+      "date": "2026-10-07",
+      "gameID": 849833,
+      "gameType": "D",
+      "state": "Final"
+    },
+    {
+      "cle": 9,
+      "cws": 5,
+      "date": "2026-10-08",
+      "gameID": 849832,
+      "gameType": "D",
+      "state": "Final"
+    }
+  ],
+  "game5": {
+    "away": 145,
+    "home": 114,
+    "id": 849831,
+    "officialDate": "2026-10-10",
+    "seriesWins": [
+      2,
+      2
+    ],
+    "state": "Preview",
+    "utc": "2026-10-11T00:00:00Z"
+  },
+  "regularSeason": [
+    {
+      "cle": 5,
+      "cws": 6,
+      "date": "2026-06-22",
+      "gameID": 824585,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 1,
+      "cws": 2,
+      "date": "2026-06-23",
+      "gameID": 824584,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 4,
+      "cws": 3,
+      "date": "2026-06-24",
+      "gameID": 824583,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 6,
+      "cws": 5,
+      "date": "2026-07-02",
+      "gameID": 824416,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 4,
+      "cws": 3,
+      "date": "2026-07-03",
+      "gameID": 824417,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 1,
+      "cws": 3,
+      "date": "2026-07-04",
+      "gameID": 824415,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 6,
+      "cws": 7,
+      "date": "2026-07-05",
+      "gameID": 824413,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 8,
+      "cws": 2,
+      "date": "2026-08-07",
+      "gameID": 824566,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 3,
+      "cws": 6,
+      "date": "2026-08-08",
+      "gameID": 824565,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 3,
+      "cws": 5,
+      "date": "2026-08-09",
+      "gameID": 824564,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 3,
+      "cws": 7,
+      "date": "2026-09-14",
+      "gameID": 824386,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 7,
+      "cws": 6,
+      "date": "2026-09-15",
+      "gameID": 824384,
+      "gameType": "R",
+      "state": "Final"
+    },
+    {
+      "cle": 6,
+      "cws": 3,
+      "date": "2026-09-16",
+      "gameID": 824382,
+      "gameType": "R",
+      "state": "Final"
+    }
+  ],
+  "retrievedAt": "2026-10-10T14:08:34Z",
+  "scheduleSHA256": "5c0cc4562131e386283c9c02de8526716ff198f7790c867c93d1c94677a060fd",
+  "seasonWins": {
+    "114": 85,
+    "145": 84
+  },
+  "standingsSHA256": "284fea9720539f993a75b554009c5001be71d43ef437eac56de89bc9d33e4c42"
+}

@@ -9,6 +9,7 @@ final class PrivateStoryPreviewUITests: XCTestCase {
         app = XCUIApplication(bundleIdentifier: "com.sfrancoe.HubBall")
         app.launchEnvironment = ["HUB_STORY_ROOT": "http://127.0.0.1:1/data", "HUB_STORY_CACHE_NAME": "private-preview-" + UUID().uuidString.lowercased(), "HUB_API_ROOT": "http://127.0.0.1:1", "HUB_DATA_ROOT": "http://127.0.0.1:1/data"]
         app.launchArguments = ["-hubCompletedTeamOnboarding", "YES", "-hubSelectedTeam", "rays", "-UIPreferredContentSizeCategoryName", "UICTContentSizeCategoryL"]
+        app.launchEnvironment["HUB_STORY_LEGACY_LAUNCH"] = "1"
     }
     override func tearDownWithError() throws { app.terminate() }
     private func reveal(_ element: XCUIElement) {

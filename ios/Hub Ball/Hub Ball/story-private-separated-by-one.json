@@ -1,0 +1,203 @@
+{
+  "chart": {
+    "durationSeconds": 10,
+    "emphasis": [
+      {
+        "detail": "Head-to-head wins: CWS 7 · CLE 6\nOverall season wins: CLE 85 · CWS 84\nOctober 10, 2026 · CWS at CLE · 8 p.m. ET\nALDS Game 5 · series tied 2–2",
+        "holdSeconds": 0,
+        "id": "one-game",
+        "title": "Tonight: one game to advance.",
+        "x": 13,
+        "y": 58
+      }
+    ],
+    "kind": "line",
+    "series": [
+      {
+        "color": "navy",
+        "id": "cws",
+        "label": "Chicago White Sox",
+        "points": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 6
+          },
+          {
+            "x": 2,
+            "y": 8
+          },
+          {
+            "x": 3,
+            "y": 11
+          },
+          {
+            "x": 4,
+            "y": 16
+          },
+          {
+            "x": 5,
+            "y": 19
+          },
+          {
+            "x": 6,
+            "y": 22
+          },
+          {
+            "x": 7,
+            "y": 29
+          },
+          {
+            "x": 8,
+            "y": 31
+          },
+          {
+            "x": 9,
+            "y": 37
+          },
+          {
+            "x": 10,
+            "y": 42
+          },
+          {
+            "x": 11,
+            "y": 49
+          },
+          {
+            "x": 12,
+            "y": 55
+          },
+          {
+            "x": 13,
+            "y": 58
+          }
+        ]
+      },
+      {
+        "color": "coral",
+        "id": "cle",
+        "label": "Cleveland Guardians",
+        "points": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 5
+          },
+          {
+            "x": 2,
+            "y": 6
+          },
+          {
+            "x": 3,
+            "y": 10
+          },
+          {
+            "x": 4,
+            "y": 16
+          },
+          {
+            "x": 5,
+            "y": 20
+          },
+          {
+            "x": 6,
+            "y": 21
+          },
+          {
+            "x": 7,
+            "y": 27
+          },
+          {
+            "x": 8,
+            "y": 35
+          },
+          {
+            "x": 9,
+            "y": 38
+          },
+          {
+            "x": 10,
+            "y": 41
+          },
+          {
+            "x": 11,
+            "y": 44
+          },
+          {
+            "x": 12,
+            "y": 51
+          },
+          {
+            "x": 13,
+            "y": 57
+          }
+        ]
+      }
+    ],
+    "xAxis": {
+      "label": "Regular-season meeting",
+      "maximum": 13,
+      "minimum": 0,
+      "ticks": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    "yAxis": {
+      "label": "Cumulative runs",
+      "maximum": 70,
+      "minimum": 0,
+      "ticks": [
+        0,
+        10,
+        20,
+        30,
+        40,
+        50,
+        60,
+        70
+      ]
+    }
+  },
+  "conclusion": "2026 regular-season runs: CWS 58 · CLE 57. One run apart across thirteen meetings. One win apart in their head-to-head series. One win apart in the season standings.",
+  "id": "separated-by-one",
+  "intro": "Thirteen meetings. One run between them. Follow Chicago and Cleveland through their 2026 regular-season series.",
+  "kicker": "2026 REGULAR-SEASON MEETINGS · OCTOBER 10 PREVIEW",
+  "methodology": [
+    "The chart includes all thirteen completed 2026 REGULAR-SEASON meetings, June 22 through September 16, in date/game-ID order. Each point adds that game’s full final team score. Start at zero; straight connections are visual guides between discrete game totals, not play-by-play. Both series use the same zero-based 0–70 scale and ten-second animation.",
+    "Head-to-head wins are Chicago 7, Cleveland 6. Overall regular-season standings as of September 27 are Cleveland 85–77 and Chicago 84–78. These are separate measures, explicitly labeled in the ending comparison.",
+    "Spring training and the ALDS are excluded. Through four completed ALDS games, all seventeen regular-season-plus-ALDS meetings would total Chicago 73, Cleveland 78; those are NOT the chart’s 58 and 57.",
+    "This is a dated October 10, 2026 preview: ALDS Game 5, Chicago at Cleveland, scheduled for 8 p.m. Eastern (October 11 at 00:00 UTC), series tied 2–2. “Tonight” refers to that date. Scheduling facts were verified when this private build was prepared; this is not a live scoreboard.",
+    "Original writing and native graphics of factual scores. No third-party photos, logos, music, video or article prose. Source links support verification; public access is not a commercial reuse license."
+  ],
+  "renderer": "chart-trajectory",
+  "rendererVersion": 1,
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "mlb-meetings",
+      "retrievedAt": "2026-10-10T14:08:34Z",
+      "title": "MLB official 2026 White Sox–Guardians schedule and scores",
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=145&opponentId=114&startDate=2026-03-01&endDate=2026-10-10"
+    },
+    {
+      "id": "mlb-standings",
+      "retrievedAt": "2026-10-10T14:08:34Z",
+      "title": "MLB official American League regular-season standings · September 27",
+      "url": "https://statsapi.mlb.com/api/v1/standings?leagueId=103&season=2026&standingsTypes=regularSeason&date=2026-09-27"
+    }
+  ],
+  "title": "Separated by One"
+}

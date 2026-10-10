@@ -188,7 +188,12 @@ struct AppTabView: View {
         }
         .fullScreenCover(isPresented: $hitterPresented) { MLB300HitterStory() }
         .sheet(item: $featuredStory) { entry in
-            FeaturedStoryOfferView(entry: entry) { featuredStory = nil }
+            if let item = PrivateLaunchStory.item, item.id == entry.id {
+                NavigationStack { PrivateLaunchStoryView(item: item) { featuredStory = nil } }
+                    .presentationDetents([.large]).presentationDragIndicator(.visible)
+            } else {
+                FeaturedStoryOfferView(entry: entry) { featuredStory = nil }
+            }
         }
         .sheet(isPresented: $settingsPresented) {
             TeamSettingsView(selectedTeamID: $selectedTeamID) { selectedTeam in
@@ -202,7 +207,14 @@ struct AppTabView: View {
 
     private func presentLaunchStory() {
         guard !model.featuredStoryLaunch.consumed else { return }
-        let entry = model.stories.catalog.stories.first { $0.id == "whole-season-by-june" }
+        #if DEBUG
+        // Legacy story UI suites keep exercising the prior offer without affecting Release.
+        let privateEntry = ProcessInfo.processInfo.environment["HUB_STORY_LEGACY_LAUNCH"] == "1" ? nil : PrivateLaunchStory.item?.entry
+        #else
+        let privateEntry = PrivateLaunchStory.item?.entry
+        #endif
+        let entry = privateEntry
+            ?? model.stories.catalog.stories.first { $0.id == "whole-season-by-june" }
             ?? StorySeed.catalog.stories.first { $0.id == "whole-season-by-june" }
         featuredStory = model.featuredStoryLaunch.offer(completedOnboarding: completedTeamOnboarding,
                                                       busy: playoffsPresented || storiesPresented || hitterPresented || settingsPresented,

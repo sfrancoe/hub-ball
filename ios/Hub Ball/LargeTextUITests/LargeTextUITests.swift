@@ -8,6 +8,7 @@ final class LargeTextUITests: XCTestCase {
         continueAfterFailure = false
         XCUIDevice.shared.orientation = .portrait
         app = XCUIApplication(bundleIdentifier: "com.sfrancoe.HubBall")
+        app.launchEnvironment["HUB_STORY_LEGACY_LAUNCH"] = "1"
         let apiRoot = try XCTUnwrap(ProcessInfo.processInfo.environment["HUB_UI_API_ROOT"].flatMap { $0.isEmpty ? nil : $0 },
                                    "Run through the UI test scripts to block paid X discovery")
         app.launchEnvironment["HUB_API_ROOT"] = apiRoot
