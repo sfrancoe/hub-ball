@@ -65,6 +65,7 @@ final class AppModel {
     let stories = StoryCatalogStore()
     let updates = BetaUpdateStore.live()
     var featuredStoryLaunch = FeaturedStoryLaunch()
+    let launchFlow = PostseasonLaunchFlow()
     let game108 = Game108GraphStore()
     let homeRunChase = HomeRunChaseStore()
     // Lazy construction avoids AVAudioEngine allocation during SwiftUI redraws.

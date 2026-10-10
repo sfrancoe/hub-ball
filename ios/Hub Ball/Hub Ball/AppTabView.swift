@@ -59,6 +59,7 @@ struct AppTabView: View {
     @State private var featuredStory: StoryEntry?
     @State private var launchStoryPresented = false
     @State private var updateInstructionsPresented = false
+    @State private var postseasonLanding = true
     @State private var hasAppeared = false
     @State private var selectedPlayerID: Int?
 
@@ -89,12 +90,10 @@ struct AppTabView: View {
                     topNavigation
                 }
                 if let update = updateOffer {
-                    BetaUpdateNotice(update: {
-                        model.updates.later(update)
-                        Task {
-                            if !(await TestFlightHandoff.open()) { updateInstructionsPresented = true }
-                        }
-                    }, later: { model.updates.later(update) })
+                    BetaUpdateNotice(update: { openUpdate(update) }, later: {
+                        if model.launchFlow.phase == .notice { model.launchFlow.dismissNotice(updates: model.updates) }
+                        else { model.updates.later(update) }
+                    })
                 }
                 if let session, session.team == team {
                     selectedContent
@@ -112,12 +111,17 @@ struct AppTabView: View {
         .foregroundStyle(AppColor.ink)
         .font(AppFont.body)
         .environment(\.hubTeamPalette, palette)
-        .task { await model.updates.check() }
+        .task { if completedTeamOnboarding { model.launchFlow.begin(updates: model.updates) } }
         .onAppear {
             if session == nil { session = TeamSession(team: team) }
             guard !hasAppeared else { return }
+            model.launchFlow.setActive(scenePhase == .active)
             #if DEBUG
             let arguments = ProcessInfo.processInfo.arguments
+            if arguments.contains(where: { $0.hasPrefix("-show-") }) {
+                postseasonLanding = false
+                model.launchFlow.skip()
+            }
             if arguments.contains("-show-hitter-story") {
                 completedTeamOnboarding = true
                 hitterPresented = true
@@ -140,11 +144,11 @@ struct AppTabView: View {
                 selectedTab = .players
             } else {
                 selectedTab = team.supportsHome ? .home : .recent
-                presentLaunchStory()
+                model.launchFlow.begin(updates: model.updates)
             }
             #else
             selectedTab = team.supportsHome ? .home : .recent
-            presentLaunchStory()
+            model.launchFlow.begin(updates: model.updates)
             #endif
             hasAppeared = true
         }
@@ -157,17 +161,26 @@ struct AppTabView: View {
             }
         }
         .onChange(of: scenePhase) { _, newPhase in
+            model.launchFlow.setActive(newPhase == .active)
             if newPhase == .background { session?.scheduler.setBackground(true) }
             if newPhase == .active {
                 session?.scheduler.setBackground(false)
-                Task { await model.updates.check() }
+                if model.launchFlow.phase == .finished { Task { await model.updates.check() } }
+                driveLaunchFlow()
             }
 
+        }
+        .onChange(of: model.launchFlow.phase) { _, _ in driveLaunchFlow() }
+        .onChange(of: model.updates.candidate) { _, _ in
+            if model.launchFlow.phase == .notice && model.updates.offer(completedOnboarding: true, storyConsumed: true, busy: false) == nil {
+                model.launchFlow.noticeUnavailable()
+            }
         }
         .fullScreenCover(isPresented: onboardingPresented, onDismiss: {
             if showFeaturedAfterOnboarding {
                 showFeaturedAfterOnboarding = false
-                presentLaunchStory()
+                postseasonLanding = true
+                model.launchFlow.begin(updates: model.updates)
             }
         }) {
             TeamOnboardingView(selectedTeamID: $selectedTeamID) {
@@ -176,7 +189,7 @@ struct AppTabView: View {
                 selectedTab = team.supportsHome ? .home : .recent
             }
         }
-        .fullScreenCover(isPresented: $playoffsPresented) {
+        .fullScreenCover(isPresented: $playoffsPresented, onDismiss: driveLaunchFlow) {
             NavigationStack {
                 OctoberView()
                     .navigationBarTitleDisplayMode(.inline)
@@ -197,35 +210,63 @@ struct AppTabView: View {
             }
             .preferredColorScheme(.dark)
         }
-        .fullScreenCover(isPresented: $storiesPresented) {
+        .fullScreenCover(isPresented: $storiesPresented, onDismiss: driveLaunchFlow) {
             StoriesView(closeLibrary: { storiesPresented = false })
         }
-        .fullScreenCover(isPresented: $hitterPresented) { MLB300HitterStory() }
-        .sheet(item: $featuredStory, onDismiss: { launchStoryPresented = false }) { entry in
+        .fullScreenCover(isPresented: $hitterPresented, onDismiss: driveLaunchFlow) { MLB300HitterStory() }
+        .sheet(item: $featuredStory, onDismiss: {
+            launchStoryPresented = false
+            postseasonLanding = true
+            model.launchFlow.storyDismissed()
+        }) { entry in
             if let item = PrivateLaunchStory.item, item.id == entry.id {
-                NavigationStack { PrivateLaunchStoryView(item: item) { featuredStory = nil } }
+                NavigationStack { PrivateLaunchStoryView(item: item, close: { featuredStory = nil }, completed: { featuredStory = nil }) }
                     .presentationDetents([.large]).presentationDragIndicator(.visible)
             } else {
                 FeaturedStoryOfferView(entry: entry) { featuredStory = nil }
             }
         }
-        .sheet(isPresented: $updateInstructionsPresented) {
+        .sheet(isPresented: $updateInstructionsPresented, onDismiss: {
+            model.launchFlow.instructionsDismissed()
+            driveLaunchFlow()
+        }) {
             BetaUpdateInstructions { updateInstructionsPresented = false }
         }
-        .sheet(isPresented: $settingsPresented) {
+        .sheet(isPresented: $settingsPresented, onDismiss: driveLaunchFlow) {
             TeamSettingsView(selectedTeamID: $selectedTeamID) { selectedTeam in
                 selectedPlayerID = nil
                 selectedTab = selectedTeam.supportsHome ? .home : .recent
+                postseasonLanding = false
                 settingsPresented = false
             }
             .presentationDragIndicator(.visible)
         }
     }
 
+    private var launchBusy: Bool {
+        launchStoryPresented || featuredStory != nil || playoffsPresented || storiesPresented || hitterPresented || settingsPresented || updateInstructionsPresented || scenePhase != .active
+    }
+
+    private func driveLaunchFlow() {
+        guard completedTeamOnboarding, !launchBusy else { return }
+        if model.launchFlow.phase == .instructions { updateInstructionsPresented = true }
+        if model.launchFlow.phase == .ready { presentLaunchStory() }
+    }
+
+    private func openUpdate(_ update: BetaRelease) {
+        let launching = model.launchFlow.phase == .notice
+        if launching { model.launchFlow.beginHandoff(updates: model.updates) }
+        else { model.updates.later(update) }
+        Task {
+            let opened = await TestFlightHandoff.open()
+            if launching { model.launchFlow.handoffFinished(opened: opened); driveLaunchFlow() }
+            else if !opened && scenePhase == .active { updateInstructionsPresented = true }
+        }
+    }
+
     private func presentLaunchStory() {
-        guard !model.featuredStoryLaunch.consumed else { return }
+        guard model.launchFlow.phase == .ready, !model.featuredStoryLaunch.consumed else { return }
         #if DEBUG
-        // Legacy story UI suites keep exercising the prior offer without affecting Release.
         let privateEntry = ProcessInfo.processInfo.environment["HUB_STORY_LEGACY_LAUNCH"] == "1" ? nil : PrivateLaunchStory.item?.entry
         #else
         let privateEntry = PrivateLaunchStory.item?.entry
@@ -233,17 +274,18 @@ struct AppTabView: View {
         let entry = privateEntry
             ?? model.stories.catalog.stories.first { $0.id == "whole-season-by-june" }
             ?? StorySeed.catalog.stories.first { $0.id == "whole-season-by-june" }
-        featuredStory = model.featuredStoryLaunch.offer(completedOnboarding: completedTeamOnboarding,
-                                                      busy: playoffsPresented || storiesPresented || hitterPresented || settingsPresented,
-                                                      entry: entry)
+        featuredStory = model.featuredStoryLaunch.offer(completedOnboarding: completedTeamOnboarding, busy: launchBusy, entry: entry)
         launchStoryPresented = featuredStory != nil
-        if completedTeamOnboarding && featuredStory == nil { playoffsPresented = true }
+        if featuredStory != nil { model.launchFlow.didPresentStory() }
+        else { model.launchFlow.storyDismissed() }
     }
 
     private var updateOffer: BetaRelease? {
-        model.updates.offer(completedOnboarding: completedTeamOnboarding,
-                            storyConsumed: model.featuredStoryLaunch.consumed,
-                            busy: launchStoryPresented || featuredStory != nil || playoffsPresented || storiesPresented || hitterPresented || settingsPresented || updateInstructionsPresented || scenePhase != .active)
+        guard completedTeamOnboarding, !launchBusy else { return nil }
+        if model.launchFlow.phase == .notice { return model.launchFlow.target }
+        guard model.launchFlow.phase == .finished else { return nil }
+        return model.updates.offer(completedOnboarding: completedTeamOnboarding,
+                                   storyConsumed: model.featuredStoryLaunch.consumed, busy: false)
     }
 
     private var onboardingPresented: Binding<Bool> {
@@ -264,6 +306,18 @@ struct AppTabView: View {
 
     @ViewBuilder
     private var selectedContent: some View {
+        if postseasonLanding {
+            NavigationStack {
+                OctoberView()
+                    .navigationBarTitleDisplayMode(.inline)
+                    .toolbar { ToolbarItem(placement: .principal) {
+                        Text("MLB · ALL TEAMS").font(AppFont.label).foregroundStyle(AppColor.boneMuted)
+                            .accessibilityIdentifier("postseason.landing.title")
+                    } }
+                    .toolbarBackground(AppColor.night, for: .navigationBar)
+                    .toolbarBackground(.visible, for: .navigationBar)
+            }.preferredColorScheme(.dark)
+        } else {
         #if DEBUG
         if ProcessInfo.processInfo.arguments.contains("-show-home-run-chase") {
             NavigationStack { HomeRunChaseView() }
@@ -273,6 +327,7 @@ struct AppTabView: View {
         #else
         selectedTabContent
         #endif
+        }
     }
 
     @ViewBuilder
@@ -348,7 +403,7 @@ struct AppTabView: View {
     }
 
     private var playoffsButton: some View {
-        Button { playoffsPresented = true } label: {
+        Button { postseasonLanding = true } label: {
             HStack(spacing: 4) {
                 smallTrophy
                 Text("Postseason")
@@ -409,6 +464,7 @@ struct AppTabView: View {
     private var expandedNavigation: some View {
         VStack(spacing: 0) {
             teamAndPlayoffsNavigation
+            if !postseasonLanding {
             Menu {
                 Picker("Page", selection: $selectedTab) {
                     ForEach(availableTabs, id: \.self) { tab in
@@ -426,6 +482,7 @@ struct AppTabView: View {
             }
             .accessibilityLabel("Page")
             .accessibilityValue("\(selectedTab.title), \(team.shortName)")
+            }
         }
         .buttonStyle(.plain)
         .foregroundStyle(AppColor.bone)
@@ -435,7 +492,7 @@ struct AppTabView: View {
     private var topNavigation: some View {
         VStack(spacing: 0) {
             teamAndPlayoffsNavigation
-            pageStrip
+            if !postseasonLanding { pageStrip }
         }
         .foregroundStyle(AppColor.bone)
         .background(HubMastheadBackground(palette: palette))

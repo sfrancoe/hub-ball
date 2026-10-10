@@ -40,7 +40,12 @@ class Handler(BaseHTTPRequestHandler):
         parsed = urlparse(self.path)
         query = parse_qs(parsed.query)
 
-        if parsed.path == '/beta-fixture/releases/testflight-v1.json':
+        if parsed.path == '/beta-disabled-fixture/releases/testflight-v1.json':
+            self.send_json({'schemaVersion': 1, 'bundleID': 'com.sfrancoe.HubBall', 'enabled': False, 'target': None}, 'no-store')
+            return
+        if parsed.path in ['/beta-fixture/releases/testflight-v1.json', '/beta-slow-fixture/releases/testflight-v1.json']:
+            if parsed.path.startswith('/beta-slow-fixture/'):
+                time.sleep(3)
             now = datetime.now(timezone.utc)
             self.send_json({'schemaVersion': 1, 'bundleID': 'com.sfrancoe.HubBall', 'enabled': True, 'target': {
                 'version': '1.1', 'build': 9999, 'audience': 'all-supported-testers', 'available': True,

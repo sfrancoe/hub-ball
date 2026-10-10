@@ -21,14 +21,18 @@ struct TrajectoryStoryView: View {
     let refresh: () async -> Void
     var endpointLabels: [String]? = nil
     var numbers: TrajectoryNumberPresentation = .standard
+    var onCompleted: (() -> Void)? = nil
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Environment(\.dynamicTypeSize) private var typeSize
     @Environment(\.scenePhase) private var scenePhase
+    @Environment(\.accessibilityVoiceOverEnabled) private var voiceOverEnabled
     @State private var playback = TrajectoryPlayback()
     @State private var launched = false
     @State private var paused = false
     @State private var showSources = false
     @State private var showData = false
+    @State private var completionHold = StoryCompletionHold()
+    @State private var completionDelivered = false
     private var reduced: Bool {
         #if DEBUG
         reduceMotion || ProcessInfo.processInfo.environment["HUB_STORY_REDUCE_MOTION"] == "1"
@@ -49,6 +53,7 @@ struct TrajectoryStoryView: View {
     var body: some View {
         GeometryReader { window in
             let compact = window.size.height < 750 && !typeSize.isAccessibilitySize
+            ScrollViewReader { scroll in
             ScrollView {
                 VStack(alignment: .leading, spacing: compact ? 14 : 20) {
                     if let note { Text(note).font(.footnote).foregroundStyle(.secondary).accessibilityIdentifier("remote.cache-note") }
@@ -89,12 +94,12 @@ struct TrajectoryStoryView: View {
                                     .padding(.trailing, 22).padding(.bottom, 32)
                             }
                             Text(story.chart.xAxis.label).font(.caption.weight(.semibold)).frame(maxWidth: .infinity)
-                            emphasis(beat: frame.beat)
+                            emphasis(beat: frame.beat).id("trajectory.payoff")
                             HStack(spacing: 20) {
                                 if !reduced && time < story.chart.durationSeconds {
                                     Button {
                                         if paused { playback.resume(now: now, duration: story.chart.durationSeconds) }
-                                        else { playback.pause(now: now, duration: story.chart.durationSeconds) }
+                                        else { playback.pause(now: now, duration: story.chart.durationSeconds); completionHold.pause() }
                                         paused.toggle()
                                     } label: { Label(paused ? "Resume" : "Pause", systemImage: paused ? "play.fill" : "pause.fill") }
                                     .accessibilityIdentifier("trajectory.pause")
@@ -115,6 +120,12 @@ struct TrajectoryStoryView: View {
                 .padding(compact ? 16 : 22).frame(maxWidth: 780, alignment: .leading).frame(maxWidth: .infinity)
             }
             .refreshable { await refresh() }
+            .onChange(of: playback.elapsed >= story.chart.durationSeconds) { _, complete in
+                if complete && onCompleted != nil && previewTime == nil {
+                    withAnimation(.easeOut(duration: 0.25)) { scroll.scrollTo("trajectory.payoff", anchor: .bottom) }
+                }
+            }
+            }
         }
         .background(TrajectoryStyle.paper.ignoresSafeArea()).foregroundStyle(TrajectoryStyle.ink).tint(TrajectoryStyle.color("coral"))
         .onAppear {
@@ -122,20 +133,27 @@ struct TrajectoryStoryView: View {
             else if !paused { playback.resume(now: now, duration: story.chart.durationSeconds) }
         }
         .background {
-            PlaybackClock(active: launched && !paused && previewTime == nil && scenePhase == .active) { clock in
-                if playback.time(now: clock, duration: story.chart.durationSeconds) >= story.chart.durationSeconds {
+            PlaybackClock(active: launched && (!paused || (onCompleted != nil && playback.elapsed >= story.chart.durationSeconds)) && previewTime == nil && scenePhase == .active && !showSources && !showData && !completionDelivered) { clock in
+                let complete = playback.time(now: clock, duration: story.chart.durationSeconds) >= story.chart.durationSeconds
+                if complete && !paused {
                     playback.pause(now: clock, duration: story.chart.durationSeconds); paused = true
+                }
+                if let onCompleted, completionHold.tick(now: clock, complete: complete, duration: typeSize.isAccessibilitySize || voiceOverEnabled ? 15 : 6) {
+                    completionDelivered = true
+                    onCompleted()
                 }
             }
         }
-        .onDisappear { playback.pause(now: now, duration: story.chart.durationSeconds) }
+        .onDisappear { playback.pause(now: now, duration: story.chart.durationSeconds); completionHold.pause() }
         .onChange(of: scenePhase) { _, phase in
             if phase == .active && !paused { playback.resume(now: now, duration: story.chart.durationSeconds) }
-            else { playback.pause(now: now, duration: story.chart.durationSeconds) }
+            else { playback.pause(now: now, duration: story.chart.durationSeconds); completionHold.pause() }
         }
         .onChange(of: reduced) { _, value in
             if value { playback.start(now: now, reducedMotion: true, duration: story.chart.durationSeconds); paused = true }
         }
+        .onChange(of: showSources) { _, _ in completionHold.pause() }
+        .onChange(of: showData) { _, _ in completionHold.pause() }
         .sheet(isPresented: $showSources) {
             NavigationStack {
                 List {
@@ -169,6 +187,7 @@ struct TrajectoryStoryView: View {
         }
     }
     private func replay() {
+        completionHold.reset(); completionDelivered = false
         playback.start(now: now, reducedMotion: reduced, duration: story.chart.durationSeconds); paused = reduced
     }
     private var chartMetadataLayout: AnyLayout {

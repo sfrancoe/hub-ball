@@ -18,8 +18,9 @@ nonisolated enum PrivateLaunchStory {
 struct PrivateLaunchStoryView: View {
     let item: PrivateStoryPreview
     var close: (() -> Void)? = nil
+    var completed: (() -> Void)? = nil
     var body: some View {
-        TrajectoryStoryView(story: item.story, note: "Private preview · October 10, 2026", refresh: {}, endpointLabels: ["CWS", "CLE"], numbers: .wholeRunCounts)
+        TrajectoryStoryView(story: item.story, note: "Private preview · October 10, 2026", refresh: {}, endpointLabels: ["CWS", "CLE"], numbers: .wholeRunCounts, onCompleted: completed)
             .navigationTitle("Hub Ball / Stories").navigationBarTitleDisplayMode(.inline)
             .toolbar(.visible, for: .navigationBar)
             .toolbarBackground(AppColor.bone, for: .navigationBar)

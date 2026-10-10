@@ -65,6 +65,8 @@ final class SeparatedStoryUITests: XCTestCase {
         XCTAssertFalse(app.buttons["private-launch.dismiss"].exists)
     }
     @MainActor func testLargestTextReducedMotionSourcesDataAndDismiss() {
+        // Static snapshot/source exploration; real completion timing is covered by launch-flow UI tests.
+        app.launchEnvironment["HUB_STORY_PREVIEW_TIME"] = "10"
         app.launchArguments[5]="UICTContentSizeCategoryAccessibilityXXXL"
         app.launchEnvironment["HUB_STORY_REDUCE_MOTION"]="1"
         launch();complete();reveal(app.otherElements["trajectory.chart"]);shot("separated-largest")
@@ -80,6 +82,7 @@ final class SeparatedStoryUITests: XCTestCase {
         XCTAssertTrue(app.buttons["stories.open"].waitForExistence(timeout:5))
     }
     @MainActor func testFinalDirectLabelsLayout() {
+        app.launchEnvironment["HUB_STORY_PREVIEW_TIME"] = "10"
         app.launchEnvironment["HUB_STORY_REDUCE_MOTION"] = "1"
         launch();complete();reveal(app.otherElements["trajectory.chart"]);shot("separated-final-direct-labels")
         XCTAssertEqual(app.staticTexts["trajectory.emphasis"].label,"Tonight: one game to advance.")
