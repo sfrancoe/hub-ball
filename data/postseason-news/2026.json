@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-10T19:33:36.483076+00:00",
+  "generatedAt": "2026-10-10T22:58:31.163599+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Alex Cora is in no hurry to return to managing, but is expected back when timing is right",
+      "description": "Cora, fired by the Red Sox in April, has turned the Phillies down twice and is loving life in Puerto Rico. He's also still getting paid and will collect another $7 million next year.",
+      "url": "https://www.bostonglobe.com/2026/10/10/sports/sunday-baseball-notes-red-sox-manager-alex-cora/",
+      "published": "2026-10-10T21:19:12.321000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees fan who interfered in ALDS Game 3 to face no additional punishment: Sources",
+      "description": "One source said the fan's actions didn't rise nearly to the level of the Yankees fans who were banned indefinitely after the 2024 incident.",
+      "url": "https://www.nytimes.com/athletic/7678206/2026/10/10/yankees-fan-interference-rays-no-punishment/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "2008, 2020 Rays won ALCS, now the 2026 team is trying. Which is better?",
+      "description": "Tales | Getting to the World Series has been done. Now it’s a question of when Tampa Bay will win its first World Series.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/10/2008-2020-rays-won-alcs-now-2026-team-is-trying-which-is-better/",
+      "published": "2026-10-10T19:41:09.817000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "The clock is ticking on Aaron Judge’s entry into a dubious Yankees club",
       "description": "",
@@ -29,18 +65,6 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Alex Cora is in no hurry to return to managing, but is expected back in MLB when timing is right",
-      "description": "Cora, fired by the Red Sox in April, has turned the Phillies down twice and is loving life in Puerto Rico. He's also still getting paid and will collect another $7 million next year.",
-      "url": "https://www.bostonglobe.com/2026/10/10/sports/sunday-baseball-notes-red-sox-manager-alex-cora/",
-      "published": "2026-10-10T16:07:49.705000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
     },
@@ -117,6 +141,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Cade Smith wasn’t happy Gavin Williams had to rescue him in Game 4. The Guardians might need both again in Game 5",
+      "description": "CLEVELAND, Ohio — Cade Smith appreciated Gavin Williams coming to his rescue Thursday night in Chicago. That doesn’t mean he was happy about needing to be rescued. The Guardians’ closer had been ...",
+      "url": "https://www.cleveland.com/guardians/2026/10/cade-smith-wasnt-happy-gavin-williams-had-to-rescue-him-in-game-4-the-guardians-might-need-both-again-in-game-5.html",
+      "published": "",
+      "source": "Cleveland.com",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "How the Yankees’ final game could inform a few of their offseason decisions",
       "description": "Jazz Chisholm Jr., Ryan McMahon and Trent Grisham were benched or unproductive in the Yankees'...",
       "url": "https://www.nydailynews.com/2026/10/10/yankees-offseason-trent-grisham-ryan-mcmahon-jazz-chisholm-jr-rays/",
@@ -127,30 +163,6 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Starr’s 7 Questions: How can Red Sox improve internally with MLB lockout looming?",
-      "description": "Internal player development is key to Craig Breslow’s offseason plans to improve the Red Sox from within, but the impending MLB lockout will make that difficult.",
-      "url": "https://www.bostonherald.com/2026/10/10/red-sox-mlb-lockout-yankees-steinbrenner-boone-cashman-postseason-wild-card-alds-games-column-starr-7-questions/",
-      "published": "2026-10-10T09:45:55+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "‘He is the Brewers’: How Christian Yelich evolved from MVP to captain for Milwaukee",
-      "description": "Milwaukee's oldest player and its first captain, Yelich has been the constant of the Brewers' long renaissance — and he's driven for more.",
-      "url": "https://www.nytimes.com/athletic/7676153/2026/10/10/christian-yelich-brewers-journey-mvp-captain/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
