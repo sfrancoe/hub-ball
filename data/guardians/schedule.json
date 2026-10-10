@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:19:45.081800+00:00",
+  "generated_at": "2026-10-10T23:51:28.033699+00:00",
   "source": "MLB Stats API",
   "team": "Guardians",
   "regular_season_end": "2026-09-27",
@@ -7,7 +7,7 @@
     {
       "game_pk": 849831,
       "game_date": "2026-10-11T00:00:00Z",
-      "status": "Scheduled",
+      "status": "Warmup",
       "venue": "Progressive Field",
       "location": "home",
       "opponent": "White Sox",
