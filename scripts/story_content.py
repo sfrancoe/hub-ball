@@ -84,6 +84,8 @@ def validate_catalog(catalog):
 def validate_payload(payload, entry=None):
     require(type(payload['schemaVersion']) is int and payload['schemaVersion'] == 1, 'Unsupported story schema')
     identifier(payload['id'])
+    if payload['renderer'] == 'inning-out-grid':
+        return validate_out_grid(payload, entry)
     if payload['renderer'] == 'chart-trajectory':
         return validate_trajectory(payload, entry)
     require(payload['renderer'] == 'guess-reveal' and type(payload['rendererVersion']) is int and payload['rendererVersion'] == 1, 'Unsupported story renderer')
@@ -215,3 +217,24 @@ def validate_tree(root: Path):
         require(digest(data) == entry['revision'], 'Payload hash mismatch')
         validate_payload(decode(data, PAYLOAD_LIMIT), entry)
     return catalog
+
+
+def validate_out_grid(payload, entry=None):
+    require(type(payload['rendererVersion']) is int and payload['rendererVersion'] == 1, 'Unsupported out-grid renderer')
+    for field, limit in [('title', 160), ('heading', 160), ('commentary', 2000)]: text(payload[field], limit)
+    duration = payload['durationSeconds']
+    require(type(duration) in [int, float] and math.isfinite(duration) and 2 <= duration <= 20, 'Invalid duration')
+    outs = payload['outs']; require(isinstance(outs, list) and len(outs) == 27, 'Expected exactly 27 batter outs')
+    for index, out in enumerate(outs):
+        integer(out['number'], 1, 27); integer(out['inning'], 1, 9)
+        require(out['number'] == index + 1 and out['inning'] == index // 3 + 1 and out['result'] in ['strikeout', 'other'], 'Invalid chronological inning grid')
+        text(out['pitcher'], 120); text(out['batter'], 120)
+    require(1 <= len(payload['methodology']) <= 12 and 1 <= len(payload['sources']) <= 12, 'Missing provenance'); unique(payload['sources'])
+    for paragraph in payload['methodology']: text(paragraph)
+    for source in payload['sources']:
+        identifier(source['id']); text(source['title'], 200); timestamp(source['retrievedAt'])
+        url = urlsplit(source['url'])
+        require(url.scheme == 'https' and url.hostname and not url.username and not url.password and len(source['url']) <= 2000, 'Unsafe source URL')
+    if entry:
+        require(all(payload[k] == entry[k] for k in ['id', 'title', 'renderer', 'rendererVersion']) and entry['minimumRendererVersion'] >= 4, 'Grid capability or identity mismatch')
+    return payload

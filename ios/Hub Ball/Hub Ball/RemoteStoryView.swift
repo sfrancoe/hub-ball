@@ -26,6 +26,8 @@ struct RemoteStoryView: View {
                     switch story {
                     case .guess(let value):
                         GuessRevealStoryView(story: value, note: store.notes[entry.id]) { await store.load(entry, force: true) }
+                    case .outGrid(let value):
+                        InningOutGridStoryView(story: value)
                     case .trajectory(let value):
                         TrajectoryStoryView(story: value, note: store.notes[entry.id]) { await store.load(entry, force: true) }
                     }

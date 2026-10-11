@@ -5,7 +5,7 @@ final class SeparatedStoryUITests: XCTestCase {
     override func setUpWithError() throws {
         continueAfterFailure = false
         app = XCUIApplication(bundleIdentifier: "com.sfrancoe.HubBall")
-        app.launchEnvironment = ["HUB_STORY_ROOT":"http://127.0.0.1:1/data","HUB_STORY_CACHE_NAME":"separated-"+UUID().uuidString.lowercased(),"HUB_API_ROOT":"http://127.0.0.1:1","HUB_DATA_ROOT":"http://127.0.0.1:1/data"]
+        app.launchEnvironment = ["HUB_STORY_SEPARATED_LAUNCH":"1","HUB_STORY_ROOT":"http://127.0.0.1:1/data","HUB_STORY_CACHE_NAME":"separated-"+UUID().uuidString.lowercased(),"HUB_API_ROOT":"http://127.0.0.1:1","HUB_DATA_ROOT":"http://127.0.0.1:1/data"]
         app.launchArguments = ["-hubCompletedTeamOnboarding","YES","-hubSelectedTeam","rays","-UIPreferredContentSizeCategoryName","UICTContentSizeCategoryL"]
     }
     override func tearDownWithError() throws { app.terminate() }

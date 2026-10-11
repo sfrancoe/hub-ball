@@ -3,7 +3,8 @@ import Foundation
 nonisolated enum StoryDocument: Sendable {
     case guess(RemoteStory)
     case trajectory(TrajectoryStory)
-    var title: String { switch self { case .guess(let s): s.title; case .trajectory(let s): s.title } }
+    case outGrid(InningOutGridStory)
+    var title: String { switch self { case .guess(let s): s.title; case .trajectory(let s): s.title; case .outGrid(let s): s.title } }
 }
 
 /// A finite, declarative chart contract. No code, formulas or arbitrary assets.

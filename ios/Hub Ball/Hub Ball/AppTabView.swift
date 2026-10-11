@@ -219,7 +219,10 @@ struct AppTabView: View {
             postseasonLanding = true
             model.launchFlow.storyDismissed()
         }) { entry in
-            if let item = PrivateLaunchStory.item, item.id == entry.id {
+            if let item = ClevelandLaunchStory.item, item.id == entry.id {
+                NavigationStack { InningOutGridStoryView(story: item.story, close: { featuredStory = nil }, onCompleted: { featuredStory = nil }) }
+                    .presentationDetents([.large]).presentationDragIndicator(.visible)
+            } else if let item = PrivateLaunchStory.item, item.id == entry.id {
                 NavigationStack { PrivateLaunchStoryView(item: item, close: { featuredStory = nil }, completed: { featuredStory = nil }) }
                     .presentationDetents([.large]).presentationDragIndicator(.visible)
             } else {
@@ -267,9 +270,9 @@ struct AppTabView: View {
     private func presentLaunchStory() {
         guard model.launchFlow.phase == .ready, !model.featuredStoryLaunch.consumed else { return }
         #if DEBUG
-        let privateEntry = ProcessInfo.processInfo.environment["HUB_STORY_LEGACY_LAUNCH"] == "1" ? nil : PrivateLaunchStory.item?.entry
+        let privateEntry = ProcessInfo.processInfo.environment["HUB_STORY_LEGACY_LAUNCH"] == "1" ? nil : ProcessInfo.processInfo.environment["HUB_STORY_SEPARATED_LAUNCH"] == "1" ? PrivateLaunchStory.item?.entry : ClevelandLaunchStory.item?.entry
         #else
-        let privateEntry = PrivateLaunchStory.item?.entry
+        let privateEntry = ClevelandLaunchStory.item?.entry
         #endif
         let entry = privateEntry
             ?? model.stories.catalog.stories.first { $0.id == "whole-season-by-june" }

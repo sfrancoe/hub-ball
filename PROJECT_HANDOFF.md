@@ -15,7 +15,7 @@ The active app identity is `com.sfrancoe.HubBall`. The legacy Boston Baseball Hu
 identity and retired standalone Yankees app are documented in
 [docs/PRODUCTS.md](docs/PRODUCTS.md). Yankees content is part of Hub Ball.
 
-`config/hub-ball-release.json` currently declares version 1.1, build 125. Always read
+`config/hub-ball-release.json` currently declares version 1.1, build 126. Always read
 the manifest and run `python3 scripts/check_hub_ball_release.py` before answering a
 release question or installing on a device. A successful simulator build does not
 declare or publish a release. Build changes require updating both Xcode configurations
@@ -32,8 +32,9 @@ saved page ordering are implemented in the native app.
 League-wide features include the playoff bracket, postseason history, news and
 scorecards, plus the story library. Story playback includes the Boston Game 108
 story, the MLB 300-hitter story and validated trajectory stories. The home-run chase
-has a Debug inspection entry point. Build 121 also bundles three private October 9
-story previews and the private October 10 “Separated by One” launch story; these are separate from the shared remote catalog. Build 125 makes Postseason the initial underlying page, checks for an eligible update first (two-second maximum launch gate), and starts the story after Dismiss or a quiet failed/disabled check. Launch-only completion returns to Postseason after six foreground seconds of final payoff (fifteen for accessibility text/VoiceOver), with replay resetting the hold and manual library navigation preserved. It keeps whole-integer run-count presentation and the optional broad-release notice to “New version of Hub Ball,” with Dismiss and Open TestFlight to update. Its three-file server bootstrap is deployed; the shared manifest remains disabled (see [update notice](docs/testflight-update-notice.md)). Its launch chart autoplays once per process after onboarding; see [private release notes](docs/stories/separated-private-release.md). See
+has a Debug inspection entry point. Earlier releases bundle three private October 9 story previews and the October 10 “Separated by One” chart, all still available in Stories. Build 126 privately replaces only the opening story with Cleveland’s 21-of-27 strikeout inning grid, capability 4 (`inning-out-grid` version 1). Its exact approved “Wow!” commentary and factual chronological outs are bundled, independently of public catalogs and caches. Capability 3 clients cannot render this grid; future shared entries must declare minimum capability 4. No shared catalog or update-manifest publication accompanies this Scott-only release; the broadly available manifest may advertise build 125, never this private 126. The proposed six-hour revalidation job remains pending. See [Cleveland private release](docs/stories/cleveland-k-private-release.md).
+
+Build 125’s process-owned launch flow remains: Postseason is the initial underlying page, an eligible update is checked first with a two-second maximum gate, then the launch story starts after Dismiss or a quiet failed/disabled check. Opening TestFlight waits for actual foreground return; failure instructions precede the story. Launch completion returns to Postseason after six foreground seconds of final payoff (fifteen for accessibility text/VoiceOver), Replay resets that hold, and manual library stories retain intentional navigation. A dark native nine-panel grid reveals all 27 outs in 9.6 seconds; Reduce Motion shows the final state directly. Its provenance is internal, with no extra visible source blocks or commentary. The update server bootstrap is deployed; current broad target status is read from the live endpoint rather than the local source manifest. See
 [docs/stories/private-october9-preview.md](docs/stories/private-october9-preview.md).
 
 `TeamSession` owns the selected team's stores and preserves them across tab changes.

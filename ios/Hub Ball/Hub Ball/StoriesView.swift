@@ -52,6 +52,12 @@ struct StoriesView: View {
                                     .font(.footnote).foregroundStyle(AppColor.navy)
                                     .accessibilityIdentifier("stories.offline")
                             }
+                            if (team == nil || team?.mlbID == 114), let item = ClevelandLaunchStory.item {
+                                teamHeading("PRIVATE PREVIEW · OCTOBER 11")
+                                NavigationLink { InningOutGridStoryView(story: item.story) } label: {
+                                    StoryPreviewCard(title: item.entry.title, summary: item.entry.summary, action: "WATCH THE CHART · 10 SECONDS")
+                                }.buttonStyle(.plain).accessibilityIdentifier("stories.private.almost-every-out-a-k")
+                            }
                             if let item = privateLaunchPreview {
                                 teamHeading("PRIVATE PREVIEW · OCTOBER 10")
                                 NavigationLink { PrivateLaunchStoryView(item: item) } label: {

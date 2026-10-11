@@ -1,0 +1,1069 @@
+{
+  "gamePk": 849831,
+  "gameData": {
+    "datetime": {
+      "officialDate": "2026-10-10"
+    },
+    "game": {
+      "type": "D"
+    },
+    "status": {
+      "abstractGameState": "Final"
+    },
+    "teams": {
+      "home": {
+        "id": 114
+      },
+      "away": {
+        "id": 145
+      }
+    }
+  },
+  "liveData": {
+    "linescore": {
+      "teams": {
+        "home": {
+          "runs": 2
+        },
+        "away": {
+          "runs": 0
+        }
+      }
+    },
+    "plays": {
+      "allPlays": [
+        {
+          "about": {
+            "inning": 1,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "field_out"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 803011,
+              "fullName": "Sam Antonacci",
+              "link": "/api/v1/people/803011"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 803011,
+                  "fullName": "Sam Antonacci",
+                  "link": "/api/v1/people/803011"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 1,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 691019,
+              "fullName": "Kyle Teel",
+              "link": "/api/v1/people/691019"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 691019,
+                  "fullName": "Kyle Teel",
+                  "link": "/api/v1/people/691019"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 1,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "field_out"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 678246,
+              "fullName": "Miguel Vargas",
+              "link": "/api/v1/people/678246"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 678246,
+                  "fullName": "Miguel Vargas",
+                  "link": "/api/v1/people/678246"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 2,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 808959,
+              "fullName": "Munetaka Murakami",
+              "link": "/api/v1/people/808959"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 808959,
+                  "fullName": "Munetaka Murakami",
+                  "link": "/api/v1/people/808959"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 2,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 643217,
+              "fullName": "Andrew Benintendi",
+              "link": "/api/v1/people/643217"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 643217,
+                  "fullName": "Andrew Benintendi",
+                  "link": "/api/v1/people/643217"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 2,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 805367,
+              "fullName": "Chase Meidroth",
+              "link": "/api/v1/people/805367"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 805367,
+                  "fullName": "Chase Meidroth",
+                  "link": "/api/v1/people/805367"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 3,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 695657,
+              "fullName": "Colson Montgomery",
+              "link": "/api/v1/people/695657"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 695657,
+                  "fullName": "Colson Montgomery",
+                  "link": "/api/v1/people/695657"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 3,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 686668,
+              "fullName": "Brenton Doyle",
+              "link": "/api/v1/people/686668"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 686668,
+                  "fullName": "Brenton Doyle",
+                  "link": "/api/v1/people/686668"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 3,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "field_out"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 803011,
+              "fullName": "Sam Antonacci",
+              "link": "/api/v1/people/803011"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 803011,
+                  "fullName": "Sam Antonacci",
+                  "link": "/api/v1/people/803011"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 4,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 691019,
+              "fullName": "Kyle Teel",
+              "link": "/api/v1/people/691019"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 691019,
+                  "fullName": "Kyle Teel",
+                  "link": "/api/v1/people/691019"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 4,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 678246,
+              "fullName": "Miguel Vargas",
+              "link": "/api/v1/people/678246"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 678246,
+                  "fullName": "Miguel Vargas",
+                  "link": "/api/v1/people/678246"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 4,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 808959,
+              "fullName": "Munetaka Murakami",
+              "link": "/api/v1/people/808959"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 808959,
+                  "fullName": "Munetaka Murakami",
+                  "link": "/api/v1/people/808959"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 5,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 643217,
+              "fullName": "Andrew Benintendi",
+              "link": "/api/v1/people/643217"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 643217,
+                  "fullName": "Andrew Benintendi",
+                  "link": "/api/v1/people/643217"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 5,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "field_out"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 671976,
+              "fullName": "Tristan Peters",
+              "link": "/api/v1/people/671976"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 671976,
+                  "fullName": "Tristan Peters",
+                  "link": "/api/v1/people/671976"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 5,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 805367,
+              "fullName": "Chase Meidroth",
+              "link": "/api/v1/people/805367"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 805367,
+                  "fullName": "Chase Meidroth",
+                  "link": "/api/v1/people/805367"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 6,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 686668,
+              "fullName": "Brenton Doyle",
+              "link": "/api/v1/people/686668"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 686668,
+                  "fullName": "Brenton Doyle",
+                  "link": "/api/v1/people/686668"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 6,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "field_out"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 668909,
+              "fullName": "Gavin Williams",
+              "link": "/api/v1/people/668909"
+            },
+            "batter": {
+              "id": 803011,
+              "fullName": "Sam Antonacci",
+              "link": "/api/v1/people/803011"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 803011,
+                  "fullName": "Sam Antonacci",
+                  "link": "/api/v1/people/803011"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 6,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 681870,
+              "fullName": "Erik Sabrowski",
+              "link": "/api/v1/people/681870"
+            },
+            "batter": {
+              "id": 808959,
+              "fullName": "Munetaka Murakami",
+              "link": "/api/v1/people/808959"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 808959,
+                  "fullName": "Munetaka Murakami",
+                  "link": "/api/v1/people/808959"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 7,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 683769,
+              "fullName": "Hunter Gaddis",
+              "link": "/api/v1/people/683769"
+            },
+            "batter": {
+              "id": 643217,
+              "fullName": "Andrew Benintendi",
+              "link": "/api/v1/people/643217"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 643217,
+                  "fullName": "Andrew Benintendi",
+                  "link": "/api/v1/people/643217"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 7,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 683769,
+              "fullName": "Hunter Gaddis",
+              "link": "/api/v1/people/683769"
+            },
+            "batter": {
+              "id": 805367,
+              "fullName": "Chase Meidroth",
+              "link": "/api/v1/people/805367"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 805367,
+                  "fullName": "Chase Meidroth",
+                  "link": "/api/v1/people/805367"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 7,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 683769,
+              "fullName": "Hunter Gaddis",
+              "link": "/api/v1/people/683769"
+            },
+            "batter": {
+              "id": 695657,
+              "fullName": "Colson Montgomery",
+              "link": "/api/v1/people/695657"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 695657,
+                  "fullName": "Colson Montgomery",
+                  "link": "/api/v1/people/695657"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 8,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 683769,
+              "fullName": "Hunter Gaddis",
+              "link": "/api/v1/people/683769"
+            },
+            "batter": {
+              "id": 545341,
+              "fullName": "Randal Grichuk",
+              "link": "/api/v1/people/545341"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 545341,
+                  "fullName": "Randal Grichuk",
+                  "link": "/api/v1/people/545341"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 8,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 671922,
+              "fullName": "Cade Smith",
+              "link": "/api/v1/people/671922"
+            },
+            "batter": {
+              "id": 691019,
+              "fullName": "Kyle Teel",
+              "link": "/api/v1/people/691019"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 691019,
+                  "fullName": "Kyle Teel",
+                  "link": "/api/v1/people/691019"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 8,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "field_out"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 671922,
+              "fullName": "Cade Smith",
+              "link": "/api/v1/people/671922"
+            },
+            "batter": {
+              "id": 678246,
+              "fullName": "Miguel Vargas",
+              "link": "/api/v1/people/678246"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 678246,
+                  "fullName": "Miguel Vargas",
+                  "link": "/api/v1/people/678246"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 9,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 1
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 671922,
+              "fullName": "Cade Smith",
+              "link": "/api/v1/people/671922"
+            },
+            "batter": {
+              "id": 808959,
+              "fullName": "Munetaka Murakami",
+              "link": "/api/v1/people/808959"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 808959,
+                  "fullName": "Munetaka Murakami",
+                  "link": "/api/v1/people/808959"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 9,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 2
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 671922,
+              "fullName": "Cade Smith",
+              "link": "/api/v1/people/671922"
+            },
+            "batter": {
+              "id": 643217,
+              "fullName": "Andrew Benintendi",
+              "link": "/api/v1/people/643217"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 643217,
+                  "fullName": "Andrew Benintendi",
+                  "link": "/api/v1/people/643217"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "about": {
+            "inning": 9,
+            "isTopInning": true
+          },
+          "count": {
+            "outs": 3
+          },
+          "result": {
+            "eventType": "strikeout"
+          },
+          "matchup": {
+            "pitcher": {
+              "id": 671922,
+              "fullName": "Cade Smith",
+              "link": "/api/v1/people/671922"
+            },
+            "batter": {
+              "id": 671976,
+              "fullName": "Tristan Peters",
+              "link": "/api/v1/people/671976"
+            }
+          },
+          "runners": [
+            {
+              "movement": {
+                "isOut": true
+              },
+              "details": {
+                "runner": {
+                  "id": 671976,
+                  "fullName": "Tristan Peters",
+                  "link": "/api/v1/people/671976"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "snapshotProvenance": {
+    "source": "https://statsapi.mlb.com/api/v1.1/game/849831/feed/live",
+    "fullFeedSHA256": "29a6d9aec45aa2e1c0330dac3264151bfcbd0a3cd52aed340a74016dc8f6927f",
+    "projection": "Only actual top-inning batter-out plays and fields used by the verifier; all selected values copied from the official feed. Full audit snapshot retained separately."
+  }
+}

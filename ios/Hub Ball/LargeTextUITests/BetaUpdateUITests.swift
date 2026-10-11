@@ -7,7 +7,7 @@ final class BetaUpdateUITests: XCTestCase {
         continueAfterFailure = false
         root = try XCTUnwrap(ProcessInfo.processInfo.environment["HUB_UI_UPDATE_ROOT"])
         app = XCUIApplication(bundleIdentifier: "com.sfrancoe.HubBall")
-        app.launchEnvironment = ["HUB_API_ROOT":"http://127.0.0.1:1","HUB_DATA_ROOT":"http://127.0.0.1:1/data","HUB_STORY_ROOT":"http://127.0.0.1:1/data",
+        app.launchEnvironment = ["HUB_STORY_SEPARATED_LAUNCH":"1","HUB_API_ROOT":"http://127.0.0.1:1","HUB_DATA_ROOT":"http://127.0.0.1:1/data","HUB_STORY_ROOT":"http://127.0.0.1:1/data",
                                  "HUB_TESTFLIGHT_HANDOFF":"failure","HUB_UPDATE_ROOT":root,"HUB_UPDATE_TEST_BETA":"1","HUB_UPDATE_TEST_BUILD":"124","HUB_UPDATE_TEST_DEFAULTS":"launch-ui-"+UUID().uuidString]
         app.launchArguments = ["-hubCompletedTeamOnboarding","YES","-UIPreferredContentSizeCategoryName","UICTContentSizeCategoryL"]
     }
