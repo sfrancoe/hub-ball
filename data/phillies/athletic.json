@@ -23,24 +23,17 @@
     },
     {
       "category": "Phillies",
-      "description": "The Phillies are in danger of completing the worst final-week collapse in the divisional era (since 1969). Their stars have disappeared.",
-      "published": "2026-09-27T02:22:00+00:00",
-      "title": "The floundering Phillies have 1 day to prevent a historic collapse. Legacies are at stake",
-      "url": "https://www.nytimes.com/athletic/7634235/2026/09/27/phillies-collapse-game-162-playoffs/"
-    },
-    {
-      "category": "Phillies",
-      "description": "Three mighty swings propelled the Phillies to a late-game comeback against the Braves, forcing a deciding Game 3 in the NL Wild Card Series.",
-      "published": "2026-09-30T14:26:00+00:00",
-      "title": "Phillies power past Braves to tie NL Wild Card Series. Are we in for a Game 3 classic?",
-      "url": "https://www.nytimes.com/athletic/7646874/2026/09/30/phillies-beat-braves-mlb-wild-card-series-game-2-result-takeaways/"
-    },
-    {
-      "category": "Phillies",
       "description": "The Braves and Phillies, familiar foes in the regular season and playoffs, will square off again in a tantalizing matchup.",
       "published": "2026-09-28T08:14:00+00:00",
       "title": "Braves-Phillies wild-card preview: Who prevails in rivals’ third playoff clash in 5 years?",
       "url": "https://www.nytimes.com/athletic/7639886/2026/09/28/braves-phillies-wild-card-preview/"
+    },
+    {
+      "category": "Phillies",
+      "description": "The Phillies are in danger of completing the worst final-week collapse in the divisional era (since 1969). Their stars have disappeared.",
+      "published": "2026-09-27T02:22:00+00:00",
+      "title": "The floundering Phillies have 1 day to prevent a historic collapse. Legacies are at stake",
+      "url": "https://www.nytimes.com/athletic/7634235/2026/09/27/phillies-collapse-game-162-playoffs/"
     },
     {
       "category": "Phillies",
@@ -51,13 +44,20 @@
     },
     {
       "category": "Phillies",
+      "description": "Three mighty swings propelled the Phillies to a late-game comeback against the Braves, forcing a deciding Game 3 in the NL Wild Card Series.",
+      "published": "2026-09-30T14:26:00+00:00",
+      "title": "Phillies power past Braves to tie NL Wild Card Series. Are we in for a Game 3 classic?",
+      "url": "https://www.nytimes.com/athletic/7646874/2026/09/30/phillies-beat-braves-mlb-wild-card-series-game-2-result-takeaways/"
+    },
+    {
+      "category": "Phillies",
       "description": "Three years, three Game 1s, three blown leads in the seventh inning or later. After another soul-crushing loss, the season is on the line.",
       "published": "2026-09-29T16:42:00+00:00",
       "title": "Another Phillies postseason, another painful round of ‘what-ifs’ about the bullpen",
       "url": "https://www.nytimes.com/athletic/7644381/2026/09/29/phillies-bullpen-wild-card-loss-braves/"
     }
   ],
-  "generated_at": "2026-10-11T02:09:00.559591+00:00",
+  "generated_at": "2026-10-11T08:44:47.852973+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/phillies/"
 }

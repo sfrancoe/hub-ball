@@ -2,10 +2,31 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "A storybook Chicago White Sox season turned into a fractured fairy tale in an ALDS collapse. Now they will have to get better to make it back to the postseason next year.",
+      "published": "2026-10-10T22:26:00+00:00",
+      "title": "Column: After a painful knockout blow in the ALDS, the Chicago White Sox vow to get back up",
+      "url": "https://www.chicagotribune.com/2026/10/11/chicago-white-sox-alds-painful-knockout/"
+    },
+    {
+      "category": "White Sox",
+      "description": "The Chicago White Sox couldn’t find sustained success at the plate all night as their improbable season ended with a 2-0 loss to the Cleveland Guardians.",
+      "published": "2026-10-09T22:30:00+00:00",
+      "title": "Chicago White Sox’s season ends in 2-0 loss to the Cleveland Guardians in ALDS Game 5",
+      "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-cleveland-guardians-alds-game-5/"
+    },
+    {
+      "category": "White Sox",
       "description": "The Chicago White Sox’ remarkable season was on the brink entering Game 5 of the American League Division Series in Cleveland, and there was nothing left to say.",
-      "published": "2026-10-10T17:16:00+00:00",
+      "published": "2026-10-10T19:57:00+00:00",
       "title": "Column: Chicago White Sox on the brink in ALDS Game 5",
       "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-alds-game-5-win-or-go-home/"
+    },
+    {
+      "category": "White Sox",
+      "description": "Sean Burke will start for the Chicago White Sox in the decisive Game 5 of the ALDS against the Cleveland Guardians on Saturday. The winner advances to the ALCS to play the Tampa Bay Rays.",
+      "published": "2026-10-09T15:04:00+00:00",
+      "title": "ALDS Game 5 lookahead: Sean Burke starts for Chicago White Sox, who vow the ‘anything and everything’ approach",
+      "url": "https://www.chicagotribune.com/2026/10/09/alds-game-5-white-sox-guardians-lookahead/"
     },
     {
       "category": "White Sox",
@@ -17,16 +38,9 @@
     {
       "category": "White Sox",
       "description": "Photos from Game 5 of the Chicago White Sox’s AL Division Series against the Cleveland Guardians on Oct. 10, 2026, at Progressive Field.",
-      "published": "2026-10-10T18:54:00+00:00",
-      "title": "Game 5 photos: Chicago White Sox vs. Cleveland Guardians in AL Division Series",
+      "published": "2026-10-09T22:32:00+00:00",
+      "title": "Game 5 photos: Chicago White Sox season ends with ALDS loss to Cleveland Guardians",
       "url": "https://www.chicagotribune.com/2026/10/10/game-5-photos-chicago-white-sox-vs-cleveland-guardians-in-al-division-series/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Sean Burke will start for the Chicago White Sox in the decisive Game 5 of the ALDS against the Cleveland Guardians on Saturday. The winner advances to the ALCS to play the Tampa Bay Rays.",
-      "published": "2026-10-09T15:04:00+00:00",
-      "title": "ALDS Game 5 lookahead: Sean Burke starts for Chicago White Sox, who vow the ‘anything and everything’ approach",
-      "url": "https://www.chicagotribune.com/2026/10/09/alds-game-5-white-sox-guardians-lookahead/"
     },
     {
       "category": "White Sox",
@@ -62,23 +76,9 @@
       "published": "2026-10-06T17:21:00+00:00",
       "title": "Column: Sunny forecast for the Chicago White Sox after years of gloom and doom",
       "url": "https://www.chicagotribune.com/2026/10/06/chicago-white-sox-alds-sunny-postseason/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Now that the Cubs have bowed out of the postseason and the White Sox are in the ALDS, is it time for detente in the intense Chicago baseball rivalry?",
-      "published": "2026-10-05T04:00:00+00:00",
-      "title": "Column: White Sox welcoming Cubs fans to hop on the playoff bandwagon … with a few caveats",
-      "url": "https://www.chicagotribune.com/2026/10/05/chicago-white-sox-alds-cubs-fans/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Grant Taylor headed back to the dugout after the eighth inning, having just completed his third scoreless frame during Game 1 of the American League Division Series on Saturday against the Cleveland ...",
-      "published": "2026-10-04T04:00:00+00:00",
-      "title": "Chicago White Sox: Grant Taylor's 4-inning save extends run",
-      "url": "https://www.chicagotribune.com/2026/10/04/alds-white-sox-guardians-grant-taylor/"
     }
   ],
-  "generated_at": "2026-10-11T02:08:55.288653+00:00",
+  "generated_at": "2026-10-11T08:44:32.649589+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Rays were 5-1 against Cleveland this season. Game 1 of the ALDS is Monday at Tropicana Field.",
+      "published": "2026-10-11T02:58:35+00:00",
+      "title": "Guardians top White Sox, get Rays next in the ALCS",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/10/cleveland-guardians-american-league-championship-series-tropicana-field/"
+    },
+    {
+      "category": "Rays",
       "description": "Tales | Getting to the World Series has been done. Now it’s a question of when Tampa Bay will win its first World Series.",
       "published": "2026-10-10T19:41:09+00:00",
       "title": "2008, 2020 Rays won ALCS, now the 2026 team is trying. Which is better?",
@@ -104,16 +111,9 @@
       "published": "2026-10-05T22:58:54+00:00",
       "title": "Rays plan to start Nick Martinez in ALDS Game 3 at Yankee Stadium",
       "url": "https://www.tampabay.com/sports/rays/2026/10/05/nick-martinez-alds-game-3-yankees-max-fried-jonny-deluca-cedric-mullins/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | The starter will take the mound for Game 2 on Monday expecting “a lot of Yankees fans” to be in the Tropicana Field stands.",
-      "published": "2026-10-05T03:03:42+00:00",
-      "title": "Schlittler says Yankees will feel like they’re ‘playing at home’ at Trop",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/04/cam-schlittler-yankees-alds-tropicana-field-victor-mesa-taylor-walls/"
     }
   ],
-  "generated_at": "2026-10-10T20:12:28.514016+00:00",
+  "generated_at": "2026-10-11T08:44:26.734072+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

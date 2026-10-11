@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "A move to second with time to transition to the outfield would benefit Turner and the Phillies, who could then go shopping for a shortstop.",
+      "published": "2026-10-09T08:31:00+00:00",
+      "title": "The most imaginative changes the Phillies can make begin with moving Trea Turner off shortstop",
+      "url": "https://www.inquirer.com/phillies/trea-turner-position-change-shortstops-trades-jeremy-pena-20261009.html"
+    },
+    {
+      "category": "Phillies",
       "description": "It's all doom and gloom around three of the four major sports teams in Philadelphia. At the very least, they could try and entertain us.",
       "published": "2026-10-08T03:01:00+00:00",
       "title": "The Eagles, Flyers, and Phillies have crushed people’s spirits. Worse, they’ve bored us to death.",
@@ -9,17 +16,10 @@
     },
     {
       "category": "Phillies",
-      "description": "To help put another short playoff run in perspective, Franzke joined The Inquirer’s baseball podcast to weigh in on many of the issues they face going into 2027.",
-      "published": "2026-10-06T07:01:00+00:00",
-      "title": "‘Phillies Extra’ offseason preview with Scott Franzke: Moving Trea Turner off SS, trade candidates, and more",
-      "url": "https://www.inquirer.com/phillies/offseason-preview-franzke-trea-turner-free-agency-trades-20261006.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "With the Phillies’ 12-1 loss to the Rays, their drawn-out collapse has become a five-alarm fire of humiliation. They will need Sunday to decide their fate.",
-      "published": "2026-09-26T20:14:00+00:00",
-      "title": "Phillies will need Game 162 to get into the playoffs, or complete their collapse after another loss to Rays",
-      "url": "https://www.inquirer.com/phillies/wild-card-standings-magic-number-clinch-playoffs-nola-20260926.html"
+      "description": "NBC will once again broadcast the game, with John Kruk in the booth alongside play-by-play announcer Matt Vasgersian and fellow analyst C.J. Nitkowski. Joey Votto is back as the pitching analyst, ...",
+      "published": "2026-10-01T21:30:00+00:00",
+      "title": "Phillies season ends in Game 3 loss to the Braves; NBC analyst's terrible prediction; live updates",
+      "url": "https://www.inquirer.com/phillies/live/phillies-braves-game-3-today-score-live-updates-20261001.html"
     },
     {
       "category": "Phillies",
@@ -27,13 +27,6 @@
       "published": "2026-09-27T09:16:00+00:00",
       "title": "Phillies move up start time of Sunday's game vs. Rays due to rain",
       "url": "https://www.inquirer.com/phillies/start-time-moved-up-citizens-bank-park-rays-sunday-20260927.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "NBC will once again broadcast the game, with John Kruk in the booth alongside play-by-play announcer Matt Vasgersian and fellow analyst C.J. Nitkowski. Joey Votto is back as the pitching analyst, ...",
-      "published": "2026-10-01T21:30:00+00:00",
-      "title": "Phillies season ends in Game 3 loss to the Braves; NBC analyst's terrible prediction; live updates",
-      "url": "https://www.inquirer.com/phillies/live/phillies-braves-game-3-today-score-live-updates-20261001.html"
     },
     {
       "category": "Phillies",
@@ -58,10 +51,10 @@
     },
     {
       "category": "Phillies",
-      "description": "The goal now is to avoid infamy. It is to preserve legacy. It is to summon the last shred of political capital they earned in 2022 and escape from Game 162 with a reason to believe.",
-      "published": "2026-09-26T20:54:00+00:00",
-      "title": "The Phillies are on the verge of the worst collapse in the city’s sports history. That says something.",
-      "url": "https://www.inquirer.com/phillies/collapse-1964-worst-collapse-mlb-playoff-history-2026-20260926.html"
+      "description": "The Phillies second baseman continues to get positive updates on his sprained left ankle, but not positive enough to play vs. the Braves.",
+      "published": "2026-09-28T13:54:00+00:00",
+      "title": "Luis Arraez improving but not on Phillies’ wild-card roster; Otto Kemp takes his place",
+      "url": "https://www.inquirer.com/phillies/luis-arraez-injury-update-playoff-roster-braves-20260928.html"
     },
     {
       "category": "Phillies",
@@ -69,6 +62,13 @@
       "published": "2026-09-29T16:59:00+00:00",
       "title": "Short of a Cristopher Sánchez complete game, the Phillies will again face the issue that cost them Game 1",
       "url": "https://www.inquirer.com/phillies/nl-wild-card-duran-cristopher-sanchez-pitching-bullpen-20260929.html"
+    },
+    {
+      "category": "Phillies",
+      "description": "To help put another short playoff run in perspective, Franzke joined The Inquirer’s baseball podcast to weigh in on many of the issues they face going into 2027.",
+      "published": "2026-10-06T07:01:00+00:00",
+      "title": "‘Phillies Extra’ offseason preview with Scott Franzke: Moving Trea Turner off SS, trade candidates, and more",
+      "url": "https://www.inquirer.com/phillies/offseason-preview-franzke-trea-turner-free-agency-trades-20261006.html"
     },
     {
       "category": "Phillies",
@@ -85,7 +85,7 @@
       "url": "https://www.inquirer.com/phillies/aaron-nola-game-3-starter-braves-wild-card-zack-wheeler-20261001.html"
     }
   ],
-  "generated_at": "2026-10-10T23:35:09.164069+00:00",
+  "generated_at": "2026-10-11T08:44:46.368518+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }
