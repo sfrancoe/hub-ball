@@ -116,7 +116,8 @@ async function fetchSource(path, request = fetch) {
       // Mutable launch pointers must bypass the raw GitHub CDN as well as our CDN.
       const sourceURL = `${RAW_DATA_ROOT}/${path}` + (path === 'stories/featured-v1.json' ? `?featured=${Date.now()}` : '');
       const response = await request(sourceURL, {
-        headers,
+        headers: path === 'stories/featured-v1.json' ? { ...headers, 'Cache-Control': 'no-cache' } : headers,
+        ...(path === 'stories/featured-v1.json' ? { cache: 'no-store' } : {}),
         signal: AbortSignal.timeout(10_000),
       });
       if (!response.ok) throw new Error(`GitHub returned ${response.status}`);
@@ -188,6 +189,7 @@ export default async request => {
         ...(etag ? { ETag: etag } : {}),
         'Access-Control-Allow-Origin': '*',
         'X-Content-Type-Options': 'nosniff',
+        ...(path === 'stories/featured-v1.json' ? { 'X-Hub-Featured-Gateway': 'v1-fresh', 'X-Hub-Featured-Fetched-At': new Date().toISOString() } : {}),
       },
     });
   } catch (error) {
