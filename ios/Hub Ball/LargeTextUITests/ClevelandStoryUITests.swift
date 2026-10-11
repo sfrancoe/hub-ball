@@ -9,7 +9,7 @@ final class ClevelandStoryUITests: XCTestCase {
         continueAfterFailure = false
         XCTAssertFalse(root.isEmpty, "A real update fixture root is required")
         app = XCUIApplication(bundleIdentifier:"com.sfrancoe.HubBall")
-        app.launchEnvironment = ["HUB_API_ROOT":"http://127.0.0.1:1","HUB_DATA_ROOT":"http://127.0.0.1:1/data","HUB_STORY_ROOT":"http://127.0.0.1:1/data","HUB_STORY_CACHE_NAME":"cleveland-"+UUID().uuidString,"HUB_UPDATE_ROOT":root.replacingOccurrences(of:"/beta-fixture",with:"/beta-disabled-fixture"),"HUB_UPDATE_TEST_BETA":"1","HUB_UPDATE_TEST_BUILD":"125","HUB_UPDATE_TEST_DEFAULTS":"cleveland-"+UUID().uuidString,"HUB_TESTFLIGHT_HANDOFF":"failure"]
+        app.launchEnvironment = ["HUB_STORY_CLEVELAND_LAUNCH":"1","HUB_API_ROOT":"http://127.0.0.1:1","HUB_DATA_ROOT":"http://127.0.0.1:1/data","HUB_STORY_ROOT":"http://127.0.0.1:1/data","HUB_STORY_CACHE_NAME":"cleveland-"+UUID().uuidString,"HUB_UPDATE_ROOT":root.replacingOccurrences(of:"/beta-fixture",with:"/beta-disabled-fixture"),"HUB_UPDATE_TEST_BETA":"1","HUB_UPDATE_TEST_BUILD":"125","HUB_UPDATE_TEST_DEFAULTS":"cleveland-"+UUID().uuidString,"HUB_TESTFLIGHT_HANDOFF":"failure"]
         app.launchArguments = ["-hubCompletedTeamOnboarding","YES","-hubSelectedTeam","rays","-UIPreferredContentSizeCategoryName","UICTContentSizeCategoryL"]
     }
     override func tearDownWithError() throws { app.terminate() }

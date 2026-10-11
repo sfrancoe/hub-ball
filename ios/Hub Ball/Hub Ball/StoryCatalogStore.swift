@@ -18,7 +18,7 @@ nonisolated enum StoryContentOrigin {
 }
 
 /// Public content never follows redirects into unapproved hosts or login surfaces.
-private nonisolated final class StoryRedirectPolicy: NSObject, URLSessionTaskDelegate, @unchecked Sendable {
+nonisolated final class StoryRedirectPolicy: NSObject, URLSessionTaskDelegate, @unchecked Sendable {
     func urlSession(_ session: URLSession, task: URLSessionTask, willPerformHTTPRedirection response: HTTPURLResponse,
                     newRequest request: URLRequest, completionHandler: @escaping @Sendable (URLRequest?) -> Void) { completionHandler(nil) }
 }

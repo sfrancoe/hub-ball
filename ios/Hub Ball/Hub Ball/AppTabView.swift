@@ -57,6 +57,7 @@ struct AppTabView: View {
     @State private var storiesPresented = false
     @State private var hitterPresented = false
     @State private var featuredStory: StoryEntry?
+    @State private var remoteFeaturedStory: FeaturedStoryItem?
     @State private var launchStoryPresented = false
     @State private var updateInstructionsPresented = false
     @State private var postseasonLanding = true
@@ -111,7 +112,7 @@ struct AppTabView: View {
         .foregroundStyle(AppColor.ink)
         .font(AppFont.body)
         .environment(\.hubTeamPalette, palette)
-        .task { if completedTeamOnboarding { model.launchFlow.begin(updates: model.updates) } }
+        .task { if completedTeamOnboarding { model.launchFlow.begin(updates: model.updates, featured: model.featured) } }
         .onAppear {
             if session == nil { session = TeamSession(team: team) }
             guard !hasAppeared else { return }
@@ -144,11 +145,11 @@ struct AppTabView: View {
                 selectedTab = .players
             } else {
                 selectedTab = team.supportsHome ? .home : .recent
-                model.launchFlow.begin(updates: model.updates)
+                model.launchFlow.begin(updates: model.updates, featured: model.featured)
             }
             #else
             selectedTab = team.supportsHome ? .home : .recent
-            model.launchFlow.begin(updates: model.updates)
+            model.launchFlow.begin(updates: model.updates, featured: model.featured)
             #endif
             hasAppeared = true
         }
@@ -180,7 +181,7 @@ struct AppTabView: View {
             if showFeaturedAfterOnboarding {
                 showFeaturedAfterOnboarding = false
                 postseasonLanding = true
-                model.launchFlow.begin(updates: model.updates)
+                model.launchFlow.begin(updates: model.updates, featured: model.featured)
             }
         }) {
             TeamOnboardingView(selectedTeamID: $selectedTeamID) {
@@ -214,6 +215,13 @@ struct AppTabView: View {
             StoriesView(closeLibrary: { storiesPresented = false })
         }
         .fullScreenCover(isPresented: $hitterPresented, onDismiss: driveLaunchFlow) { MLB300HitterStory() }
+        .sheet(item: $remoteFeaturedStory, onDismiss: {
+            launchStoryPresented = false
+            postseasonLanding = true
+            model.launchFlow.storyDismissed()
+        }) { item in
+            FeaturedStoryDocumentView(item: item) { remoteFeaturedStory = nil }
+        }
         .sheet(item: $featuredStory, onDismiss: {
             launchStoryPresented = false
             postseasonLanding = true
@@ -247,7 +255,7 @@ struct AppTabView: View {
     }
 
     private var launchBusy: Bool {
-        launchStoryPresented || featuredStory != nil || playoffsPresented || storiesPresented || hitterPresented || settingsPresented || updateInstructionsPresented || scenePhase != .active
+        launchStoryPresented || featuredStory != nil || remoteFeaturedStory != nil || playoffsPresented || storiesPresented || hitterPresented || settingsPresented || updateInstructionsPresented || scenePhase != .active
     }
 
     private func driveLaunchFlow() {
@@ -270,16 +278,22 @@ struct AppTabView: View {
     private func presentLaunchStory() {
         guard model.launchFlow.phase == .ready, !model.featuredStoryLaunch.consumed else { return }
         #if DEBUG
-        let privateEntry = ProcessInfo.processInfo.environment["HUB_STORY_LEGACY_LAUNCH"] == "1" ? nil : ProcessInfo.processInfo.environment["HUB_STORY_SEPARATED_LAUNCH"] == "1" ? PrivateLaunchStory.item?.entry : ClevelandLaunchStory.item?.entry
-        #else
-        let privateEntry = ClevelandLaunchStory.item?.entry
+        // Preserve existing explicit renderer/legacy fixtures; shipped launch is always remote.
+        let env = ProcessInfo.processInfo.environment
+        if env["HUB_STORY_SEPARATED_LAUNCH"] == "1" || env["HUB_STORY_CLEVELAND_LAUNCH"] == "1" || env["HUB_STORY_LEGACY_LAUNCH"] == "1" {
+            let entry = env["HUB_STORY_SEPARATED_LAUNCH"] == "1" ? PrivateLaunchStory.item?.entry :
+                env["HUB_STORY_CLEVELAND_LAUNCH"] == "1" ? ClevelandLaunchStory.item?.entry : StorySeed.catalog.stories.first { $0.id == "whole-season-by-june" }
+            featuredStory = model.featuredStoryLaunch.offer(completedOnboarding: completedTeamOnboarding, busy: launchBusy, entry: entry)
+            launchStoryPresented = featuredStory != nil
+            if featuredStory != nil { model.launchFlow.didPresentStory() } else { model.launchFlow.storyDismissed() }
+            return
+        }
         #endif
-        let entry = privateEntry
-            ?? model.stories.catalog.stories.first { $0.id == "whole-season-by-june" }
-            ?? StorySeed.catalog.stories.first { $0.id == "whole-season-by-june" }
-        featuredStory = model.featuredStoryLaunch.offer(completedOnboarding: completedTeamOnboarding, busy: launchBusy, entry: entry)
-        launchStoryPresented = featuredStory != nil
-        if featuredStory != nil { model.launchFlow.didPresentStory() }
+        let selected = model.featured.selected()
+        let offered = model.featuredStoryLaunch.offer(completedOnboarding: completedTeamOnboarding, busy: launchBusy, entry: selected?.entry)
+        remoteFeaturedStory = offered == nil ? nil : selected
+        launchStoryPresented = remoteFeaturedStory != nil
+        if remoteFeaturedStory != nil { model.launchFlow.didPresentStory() }
         else { model.launchFlow.storyDismissed() }
     }
 

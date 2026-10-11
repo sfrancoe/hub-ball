@@ -63,6 +63,7 @@ final class AppModel {
     let history = PostseasonHistoryStore(season: OctoberFeature.season)
     let news = PostseasonNewsStore(season: OctoberFeature.season)
     let stories = StoryCatalogStore()
+    let featured = FeaturedStoryStore()
     let updates = BetaUpdateStore.live()
     var featuredStoryLaunch = FeaturedStoryLaunch()
     let launchFlow = PostseasonLaunchFlow()

@@ -91,6 +91,29 @@ class Handler(BaseHTTPRequestHandler):
                 self.send_response(200); self.send_header('Content-Type', 'application/json'); self.send_header('Cache-Control', 'no-store'); self.send_header('Content-Length', str(len(body))); self.end_headers(); self.wfile.write(body); return
             self.send_json({'error': 'not found'}, 'no-store', status=404); return
 
+        if parsed.path == '/featured-fixture-control':
+            with STATE.lock: STATE.featured_mode = query.get('mode', ['good'])[0]
+            self.send_json({'ok': True}, 'no-store'); return
+        if parsed.path.startswith('/featured-fixture/stories/'):
+            base = Path(__file__).resolve().parents[1]
+            with STATE.lock: mode = getattr(STATE, 'featured_mode', 'good')
+            if mode == 'offline': self.send_json({'offline': True}, 'no-store', status=503); return
+            if mode == 'slow': time.sleep(3)
+            if parsed.path.endswith('/featured-v1.json'):
+                now = datetime.now(timezone.utc).replace(microsecond=0)
+                entry = json.loads((base/'ios/Hub Ball/Hub Ball/story-private-cleveland-catalog.json').read_text())['stories'][0]
+                if mode == 'trajectory': entry = json.loads((base/'data/stories/catalog-v1.json').read_text())['stories'][0]
+                manifest = {'schemaVersion':1,'enabled':mode != 'disabled','revision':'fixture-opening','publishedAt':now.strftime('%Y-%m-%dT%H:%M:%SZ'),
+                    'notBefore':(now-timedelta(hours=2)).strftime('%Y-%m-%dT%H:%M:%SZ'),
+                    'expiresAt':(now+timedelta(hours=2) if mode != 'expired' else now-timedelta(hours=1)).strftime('%Y-%m-%dT%H:%M:%SZ'),
+                    'minimumBuild':999999 if mode == 'unsupported' else 127,'entry':entry if mode != 'disabled' else None}
+                if mode == 'expired': manifest['publishedAt'] = manifest['notBefore']
+                self.send_json(manifest, 'no-store'); return
+            path = base/'data'/parsed.path.removeprefix('/featured-fixture/')
+            if not path.is_file(): self.send_json({'missing': True}, 'no-store', status=404); return
+            body = b'bad-hash' if mode == 'bad-hash' else path.read_bytes()
+            self.send_response(200); self.send_header('Content-Type','application/json'); self.send_header('Cache-Control','no-store');self.send_header('Content-Length',str(len(body)));self.end_headers();self.wfile.write(body); return
+
         if parsed.path == "/control":
             with STATE.lock:
                 STATE.live = query.get("live", ["0"])[0] == "1"

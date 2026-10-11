@@ -82,3 +82,9 @@
   for = "/data/releases/testflight-v1.json"
   [headers.values]
     Cache-Control = "no-store"
+
+# Featured selection changes independently of the app binary and must bypass CDN caches.
+[[headers]]
+  for = "/data/stories/featured-v1.json"
+  [headers.values]
+    Cache-Control = "no-store"

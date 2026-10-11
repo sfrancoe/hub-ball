@@ -44,6 +44,7 @@ ALLOWED_PATHS.add('postseason-history/2026.json');
 ALLOWED_PATHS.add('postseason-history/2026-v2.json');
 ALLOWED_PATHS.add('postseason-news/2026.json');
 ALLOWED_PATHS.add('stories/catalog-v1.json');
+ALLOWED_PATHS.add('stories/featured-v1.json');
 ALLOWED_PATHS.add('releases/testflight-v1.json');
 
 // A player card requests a single generated career record by the stable numeric
@@ -55,6 +56,27 @@ function isAllowedPath(path) {
 }
 
 const hash = data => createHash('sha256').update(data).digest('hex');
+
+// Fixed endpoint, bounded dates and scalar content; payloads still require immutable SHA paths.
+export function validateFeatured(value) {
+  const slug = x => typeof x === 'string' && x.length <= 80 && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(x);
+  const integer = (x, min, max) => Number.isInteger(x) && x >= min && x <= max;
+  const timestamp = x => typeof x === 'string' && /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(x)
+    && Number.isFinite(Date.parse(x)) && new Date(x).toISOString() === x.replace('Z', '.000Z');
+  const text = (x, max) => typeof x === 'string' && x.length > 0 && x.length <= max && !/[\x00-\x08\x0b\x0c\x0e-\x1f]/.test(x);
+  const start = Date.parse(value.notBefore), end = Date.parse(value.expiresAt);
+  if (value.schemaVersion !== 1 || typeof value.enabled !== 'boolean' || !slug(value.revision)
+    || ![value.publishedAt, value.notBefore, value.expiresAt].every(timestamp)
+    || end <= start || end - start > 7 * 86400000 || Date.parse(value.publishedAt) > end
+    || !integer(value.minimumBuild, 1, 1000000)) throw new Error('Invalid featured manifest');
+  if (!value.enabled) { if (value.entry !== null) throw new Error('Disabled entry'); return; }
+  const e = value.entry;
+  if (!e || !slug(e.id) || typeof e.revision !== 'string' || !/^[a-f0-9]{64}$/.test(e.revision)
+    || !slug(e.renderer) || !integer(e.rendererVersion, 1, 100) || !integer(e.minimumRendererVersion, 1, 100)
+    || !timestamp(e.publishedAt) || !text(e.title, 160) || !text(e.summary, 400) || !text(e.fallback, 2000)
+    || !Array.isArray(e.teamIDs) || e.teamIDs.length > 30 || new Set(e.teamIDs).size !== e.teamIDs.length
+    || !e.teamIDs.every(x => integer(x, 1, 1000))) throw new Error('Invalid featured entry');
+}
 
 async function storyBytes(response, limit) {
   if (Number(response.headers.get('Content-Length')) > limit) throw new Error('Story too large');
@@ -91,8 +113,11 @@ async function fetchSource(path, request = fetch) {
     { Accept: 'application/json', 'User-Agent': FALLBACK_USER_AGENT },
   ]) {
     try {
-      const response = await request(`${RAW_DATA_ROOT}/${path}`, {
-        headers,
+      // Mutable launch pointers must bypass the raw GitHub CDN as well as our CDN.
+      const sourceURL = `${RAW_DATA_ROOT}/${path}` + (path === 'stories/featured-v1.json' ? `?featured=${Date.now()}` : '');
+      const response = await request(sourceURL, {
+        headers: path === 'stories/featured-v1.json' ? { ...headers, 'Cache-Control': 'no-cache' } : headers,
+        ...(path === 'stories/featured-v1.json' ? { cache: 'no-store' } : {}),
         signal: AbortSignal.timeout(10_000),
       });
       if (!response.ok) throw new Error(`GitHub returned ${response.status}`);
@@ -102,6 +127,10 @@ async function fetchSource(path, request = fetch) {
         const parsed = JSON.parse(bytes.toString('utf8'));
         if (parsed.schemaVersion !== 1 || parsed.bundleID !== 'com.sfrancoe.HubBall' || typeof parsed.enabled !== 'boolean'
           || (parsed.enabled ? parsed.target?.audience !== 'all-supported-testers' : parsed.target !== null)) throw new Error('Invalid beta release manifest');
+        body = bytes;
+      } else if (path === 'stories/featured-v1.json') {
+        const bytes = await storyBytes(response, 16 * 1024);
+        validateFeatured(JSON.parse(bytes.toString('utf8')));
         body = bytes;
       } else if (path.startsWith('stories/')) {
         const catalog = path === 'stories/catalog-v1.json';
@@ -136,8 +165,8 @@ export default async request => {
     const body = await fetchSource(ROOT_ALIASES.get(path) ?? path);
     const catalog = path === 'stories/catalog-v1.json';
     const story = path.startsWith('stories/');
-    const etag = story ? `"${hash(body)}"` : null;
-    const cacheHeaders = path === 'releases/testflight-v1.json' ? {
+    const etag = story && path !== 'stories/featured-v1.json' ? `"${hash(body)}"` : null;
+    const cacheHeaders = ['releases/testflight-v1.json', 'stories/featured-v1.json'].includes(path) ? {
       'Cache-Control': 'no-store',
       'Netlify-CDN-Cache-Control': 'no-store',
     } : catalog ? {
@@ -160,6 +189,7 @@ export default async request => {
         ...(etag ? { ETag: etag } : {}),
         'Access-Control-Allow-Origin': '*',
         'X-Content-Type-Options': 'nosniff',
+        ...(path === 'stories/featured-v1.json' ? { 'X-Hub-Featured-Gateway': 'v1-fresh', 'X-Hub-Featured-Fetched-At': new Date().toISOString() } : {}),
       },
     });
   } catch (error) {

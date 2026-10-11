@@ -10,11 +10,23 @@ import Observation
     private var leftForUpdate = false
     @ObservationIgnored private var checkTask: Task<Void, Never>?
     @ObservationIgnored private var deadlineTask: Task<Void, Never>?
+    private var updatesResolved = false
+    private var featuredPrepared = true
+    @ObservationIgnored private var featuredTask: Task<Void, Never>?
     static let checkTimeout: Duration = .seconds(2)
 
-    func begin(updates: BetaUpdateStore, timeout: Duration = checkTimeout) {
+    func begin(updates: BetaUpdateStore, featured: FeaturedStoryStore? = nil, timeout: Duration = checkTimeout) {
         guard phase == .idle else { return }
         phase = .checking
+        if let featured {
+            featuredPrepared = false
+            featuredTask = Task { [weak self] in
+                await featured.prepare(timeout: timeout)
+                guard let self, !Task.isCancelled else { return }
+                self.featuredPrepared = true
+                if self.phase == .checking && self.updatesResolved { self.phase = featuredPrepared ? .ready : .checking }
+            }
+        }
         checkTask = Task { [weak self] in
             await updates.check()
             guard !Task.isCancelled else { return }
@@ -26,20 +38,21 @@ import Observation
         }
     }
     private func resolve(_ target: BetaRelease?) {
-        guard phase == .checking else { return }
+        guard phase == .checking && !updatesResolved else { return }
         checkTask?.cancel(); checkTask = nil
         deadlineTask?.cancel(); deadlineTask = nil
         self.target = target
-        phase = target == nil ? .ready : .notice
+        updatesResolved = true
+        phase = target == nil ? (featuredPrepared ? .ready : .checking) : .notice
     }
     func dismissNotice(updates: BetaUpdateStore) {
         guard phase == .notice else { return }
         if let target { updates.later(target) }
-        target = nil; phase = .ready
+        target = nil; phase = featuredPrepared ? .ready : .checking
     }
     func noticeUnavailable() {
         guard phase == .notice else { return }
-        target = nil; phase = .ready
+        target = nil; phase = featuredPrepared ? .ready : .checking
     }
     func beginHandoff(updates: BetaUpdateStore) {
         guard phase == .notice else { return }
@@ -48,21 +61,21 @@ import Observation
     }
     func handoffFinished(opened: Bool) {
         guard phase == .opening else { return }
-        phase = opened ? (active && leftForUpdate ? .ready : .awaitingReturn) : .instructions
+        phase = opened ? (active && leftForUpdate ? (featuredPrepared ? .ready : .checking) : .awaitingReturn) : .instructions
     }
     func setActive(_ value: Bool) {
         active = value
         if !value && (phase == .opening || phase == .awaitingReturn) { leftForUpdate = true }
-        if value && leftForUpdate && phase == .awaitingReturn { phase = .ready }
+        if value && leftForUpdate && phase == .awaitingReturn { phase = featuredPrepared ? .ready : .checking }
     }
     func instructionsDismissed() {
         guard phase == .instructions else { return }
-        phase = .ready
+        phase = featuredPrepared ? .ready : .checking
     }
     func didPresentStory() { if phase == .ready { phase = .story } }
     func storyDismissed() { if phase == .story || phase == .ready { phase = .finished } }
     func skip() {
-        checkTask?.cancel(); deadlineTask?.cancel(); target = nil; phase = .finished
+        checkTask?.cancel(); deadlineTask?.cancel(); featuredTask?.cancel(); target = nil; phase = .finished
     }
 }
 
