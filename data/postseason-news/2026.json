@@ -1,13 +1,73 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-11T15:47:57.216595+00:00",
+  "generatedAt": "2026-10-11T19:45:39.234408+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Rays make obvious choice to start Drew Rasmussen in Game 1 vs. Guardians",
+      "description": "Notes | Also, starter Shane McClanahan won’t be back for this playoff run.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/11/drew-rasmussen-shane-mcclanahan-alcs-cleveland-guardians/",
+      "published": "2026-10-11T19:17:25.957000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox’ Caleb Durbin undergoes surgery",
+      "description": "Red Sox third baseman Caleb Durbin underwent surgery to repair his injured left pinkie finger.",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-injury.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Red Sox’ Caleb Durbin undergoes surgery after playing through pinky injury",
+      "description": "Caleb Durbin, who went into his first Red Sox season wanting to be a ‘Dirt Dog’ like his hero, Dustin Pedroia, finally underwent surgery on the injured pinky he played through for over three months",
+      "url": "https://www.bostonherald.com/2026/10/11/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-pinky-injury-mlb-news/",
+      "published": "2026-10-11T16:02:29+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox’ Caleb Durbin has surgery to repair injured pinkie finger",
+      "description": "Boston's third baseman injured the pinkie on his left hand twice during the season, and both times elected to play through pain",
+      "url": "https://www.bostonglobe.com/2026/10/11/sports/caleb-durbin-red-sox-pinkie-surgery/",
+      "published": "2026-10-11T16:02:22.153000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Dodgers add Justin Wrobleski to NLCS roster, keep Miguel Rojas and drop Hyeseong Kim",
+      "description": "As expected, Dodgers will carry 13 pitchers and 13 position players on the roster for their NLCS matchup against the Milwaukee Brewers.",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-11/dodgers-nlcs-roster-miguel-rojas-justin-wrobleski",
+      "published": "2026-10-11T15:53:26.035000+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Red Sox mailbag: Who is most at risk of being non-tendered this offseason?",
       "description": "Who is most at risk of being non-tendered by the Red Sox this offseason? That and other reader questions answered in this week’s Herald mailbag.",
@@ -43,90 +103,6 @@
       "teamAbbreviation": "MIL",
       "league": "NL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
-      "description": "The Dodgers are nearly even money ahead of the start of the NLCS while Cleveland is the longshot of the four teams left.",
-      "url": "https://www.nytimes.com/athletic/7678829/2026/10/11/world-series-odds-dodgers-brewers-rays-guardians-alcs-nlcs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The fan note and team playlist that guided the Cleveland Guardians to the ALCS",
-      "description": "At a season-ticket holder event in late May, the fan checked in about her note. Hedges assured her he glanced at it every day. When the team was fighting an uphill climb toward .500 this summer, he ...",
-      "url": "https://www.nytimes.com/athletic/7673882/2026/10/11/guardians-alds-game-5-2026-mlb-playoffs-clubhouse-celebration/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The White Sox are no longer a laughingstock. It doesn’t ease the sting of a Game 5 loss",
-      "description": "It will take some time to sit down and look at it,” Sam Antonacci said after Chicago's Game 5 loss. “The goal is the World Series.\" ...",
-      "url": "https://www.nytimes.com/athletic/7677892/2026/10/11/white-sox-alds-game-5-loss-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Column: Chicago White Sox vow to get back up after a painful knockout blow in the ALDS",
-      "description": "A storybook Chicago White Sox season turned into a fractured fairy tale in an ALDS collapse. Now they will have to get better to make it back to the postseason next year.",
-      "url": "https://www.chicagotribune.com/2026/10/11/chicago-white-sox-alds-painful-knockout/",
-      "published": "2026-10-11T05:26:25+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Los Angeles Dodgers at Milwaukee Brewers odds, picks and predictions",
-      "description": "The Los Angeles Dodgers and the Milwaukee Brewers meet Sunday in Game 1 of the NL Championship Series. First in Milwaukee, Wisconsin, is 8 p.m. ET.",
-      "url": "https://www.jsonline.com/story/sports/mlb/2026/10/11/dodgers-at-brewers-nlcs-game-1-odds-picks-and-predictions/92201090007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Inside the mental game behind the Brewers' success | Nickel",
-      "description": "Two mental performance experts give insight into why the Brewers have had so much come-from-behind, underdog success.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/11/inside-the-mental-game-behind-the-brewers-success-nickel/92177144007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Gavin Williams, José Ramírez lead Guardians over White Sox to cap ALDS comeback in five games",
-      "description": "Williams fanned 12, while Ramírez's two-run shot was all host Cleveland needed to punch its ticket to Tampa Bay.",
-      "url": "https://www.bostonglobe.com/2026/10/10/sports/baseball-alds-game-5-score-guardians-white-sox/",
-      "published": "2026-10-11T04:00:54.883000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
