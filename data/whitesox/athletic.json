@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "It will take some time to sit down and look at it,” Sam Antonacci said after Chicago's Game 5 loss. “The goal is the World Series.\" ...",
+      "published": "2026-10-11T05:39:00+00:00",
+      "title": "The White Sox are no longer a laughingstock. It doesn’t ease the sting of a Game 5 loss",
+      "url": "https://www.nytimes.com/athletic/7677892/2026/10/11/white-sox-alds-game-5-loss-mlb-playoffs/"
+    },
+    {
+      "category": "White Sox",
       "description": "Cleveland now moves on to meet the Tampa Bay Rays in the American League Championship Series. Game 1 is set for Monday night.",
       "published": "2026-10-10T20:43:00+00:00",
       "title": "Guardians complete ALDS comeback, take Game 5 to end a magical White Sox season",
@@ -16,6 +23,13 @@
     },
     {
       "category": "White Sox",
+      "description": "The Sox can put together some productive innings and are pretty fun to watch, but they've struck out 31 times over the past two games, ...",
+      "published": "2026-10-09T04:50:00+00:00",
+      "title": "White Sox ran out of gas, magic in Chicago. Now they must find some more in Cleveland",
+      "url": "https://www.nytimes.com/athletic/7673919/2026/10/09/white-sox-guardians-alds-game-4-lost-magic/"
+    },
+    {
+      "category": "White Sox",
       "description": "Sean Burke reflects on the hard work, learning lessons and aura that helped him arrive at a winner-take-all ALDS start.",
       "published": "2026-10-10T14:12:00+00:00",
       "title": "Magical White Sox season rides on ‘top-shelf’ sneakerhead with unshakable aura",
@@ -23,41 +37,20 @@
     },
     {
       "category": "White Sox",
-      "description": "The Sox can put together some productive innings and are pretty fun to watch, but they've struck out 31 times over the past two games, ...",
-      "published": "2026-10-09T14:12:00+00:00",
-      "title": "White Sox ran out of gas, magic in Chicago. Now they must find some more in Cleveland",
-      "url": "https://www.nytimes.com/athletic/7673919/2026/10/09/white-sox-guardians-alds-game-4-lost-magic/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Disappointment was the prevailing theme in a 9-3 loss, but the Sox are a resilient bunch. They'll be ready Thursday, and so will the fans.",
-      "published": "2026-10-08T04:00:00+00:00",
-      "title": "White Sox’s perfect run through postseason is over. Can they recover in Game 4?",
-      "url": "https://www.nytimes.com/athletic/7670237/2026/10/08/white-sox-guardians-alds-game-3-loss-chicago/"
-    },
-    {
-      "category": "White Sox",
       "description": "The Cleveland Guardians and Chicago White Sox face off in Game 4 of the American League Division Series tonight. The White Sox won the first two games in Cleveland and can clinch a playoff series at ...",
-      "published": "2026-10-08T14:01:00+00:00",
+      "published": "2026-10-08T21:44:00+00:00",
       "title": "How the Guardians defeated the White Sox to force a winner-take-all ALDS Game 5 in MLB Playoffs",
       "url": "https://www.nytimes.com/athletic/live-blogs/guardians-vs-white-sox-live-updates-mlb-playoffs-game-4-score-result/LRdsMKqYJZY9/"
     },
     {
       "category": "White Sox",
       "description": "All six batters Grant Taylor faced Thursday reached base. Can the White Sox lean on him again in a decisive Game 5?",
-      "published": "2026-10-09T14:12:00+00:00",
+      "published": "2026-10-09T04:50:00+00:00",
       "title": "After Grant Taylor falters, a charmed White Sox season is on the ropes",
       "url": "https://www.nytimes.com/athletic/7670146/2026/10/09/white-sox-guardians-game-4-alds-mlb-playoffs/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Cleveland’s third baseman Wednesday delivered an all-encompassing performance for the Guardians, who faced a do-or-die Game 3. Lifted by Ramírez, the Guardians routed the Chicago White Sox 9-3 at Rate ...",
-      "published": "2026-10-08T03:00:00+00:00",
-      "title": "What makes a ‘José Ramírez game’? Cleveland’s Game 3 was full of examples",
-      "url": "https://www.nytimes.com/athletic/7670304/2026/10/08/jose-ramirez-game-3-guardians-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-11T08:44:32.882924+00:00",
+  "generated_at": "2026-10-11T15:06:25.040384+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/white-sox/"
 }

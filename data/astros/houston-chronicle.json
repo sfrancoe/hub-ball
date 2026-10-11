@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Houston used a franchise-record 19 starters in 2026, and its rotation led MLB in walks. Peter Lambert stood out; Tatsuya Imai's future is a key question.",
+      "published": "2026-10-10T20:19:00+00:00",
+      "title": "Houston Astros roster analysis: Rotation. 19 starters, failed additions and questions ahead",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-rotation-analysis-2026-22469762.php"
+    },
+    {
+      "category": "Astros",
       "description": "Just a week after some Houston Astros players expressed frustration about being booed at home, the Yankees' Jazz Chisholm did the same about his playoff treatment in New York.",
       "published": "2026-10-08T09:06:00+00:00",
       "title": "Like Astros earlier in playoffs, Yankees' Jazz Chisholm questions getting booed by home fans",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Astros",
-      "description": "The Astros won the AL West for the second time in three years under Joe Espada but another quick playoff ouster leaves the manager's future uncertain with no contract for 2027.",
-      "published": "2026-09-29T17:00:00+00:00",
-      "title": "Joe Espada 'absolutely' wants to return as Astros manager, but awaiting chat with owner Jim Crane",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-manager-future-uncertain-22457246.php"
-    },
-    {
-      "category": "Astros",
       "description": "Here are five of the key moments from the Houston Astros’ 6-3 loss to the Chicago White Sox in Game 1 of the American League wild-card series Tuesday at Daikin Park. Situation: No outs, bases empty, ...",
       "published": "2026-09-28T16:59:00+00:00",
       "title": "5 key moments from Houston Astros' Game 1 loss to Chicago White Sox in AL wild-card series",
@@ -55,6 +55,13 @@
       "published": "2026-09-28T13:58:00+00:00",
       "title": "Why NBC analyst Anthony Rizzo is bullish on the Houston Astros as MLB playoffs begin",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-anthony-rizzo-nbc-playoffs-22453390.php"
+    },
+    {
+      "category": "Astros",
+      "description": "The Astros won the AL West for the second time in three years under Joe Espada but another quick playoff ouster leaves the manager's future uncertain with no contract for 2027.",
+      "published": "2026-09-29T17:00:00+00:00",
+      "title": "Joe Espada 'absolutely' wants to return as Astros manager, but awaiting chat with owner Jim Crane",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-manager-future-uncertain-22457246.php"
     },
     {
       "category": "Astros",
@@ -76,16 +83,9 @@
       "published": "2026-10-01T08:10:00+00:00",
       "title": "Who can become a free agent? Contract situation for every Astros player entering 2026-27 offseason",
       "url": "https://www.houstonchronicle.com/sports/astros/article/free-agents-contracts-offseason-22457322.php"
-    },
-    {
-      "category": "Astros",
-      "description": "The Astros look to stave off playoff elimination in Game 2 of the AL wild-card series. We'll have updates and analysis from Daikin Park throughout the day.",
-      "published": "2026-09-30T12:16:00+00:00",
-      "title": "White Sox 7, Astros 3: How Chicago ended Houston's season with AL wild-card sweep",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-chicago-white-sox-score-game-2-22455855.php"
     }
   ],
-  "generated_at": "2026-10-11T08:44:41.791534+00:00",
+  "generated_at": "2026-10-11T15:06:27.497200+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

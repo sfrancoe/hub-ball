@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "White Sox",
-      "description": "A storybook Chicago White Sox season turned into a fractured fairy tale in an ALDS collapse. Now they will have to get better to make it back to the postseason next year.",
-      "published": "2026-10-10T22:26:00+00:00",
-      "title": "Column: After a painful knockout blow in the ALDS, the Chicago White Sox vow to get back up",
-      "url": "https://www.chicagotribune.com/2026/10/11/chicago-white-sox-alds-painful-knockout/"
-    },
-    {
-      "category": "White Sox",
       "description": "The Chicago White Sox couldn’t find sustained success at the plate all night as their improbable season ended with a 2-0 loss to the Cleveland Guardians.",
       "published": "2026-10-09T22:30:00+00:00",
       "title": "Chicago White Sox’s season ends in 2-0 loss to the Cleveland Guardians in ALDS Game 5",
@@ -20,6 +13,13 @@
       "published": "2026-10-10T19:57:00+00:00",
       "title": "Column: Chicago White Sox on the brink in ALDS Game 5",
       "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-alds-game-5-win-or-go-home/"
+    },
+    {
+      "category": "White Sox",
+      "description": "A storybook Chicago White Sox season turned into a fractured fairy tale in an ALDS collapse. Now they will have to get better to make it back to the postseason next year.",
+      "published": "2026-10-10T22:26:00+00:00",
+      "title": "Column: Chicago White Sox vow to get back up after a painful knockout blow in the ALDS",
+      "url": "https://www.chicagotribune.com/2026/10/11/chicago-white-sox-alds-painful-knockout/"
     },
     {
       "category": "White Sox",
@@ -78,7 +78,7 @@
       "url": "https://www.chicagotribune.com/2026/10/06/chicago-white-sox-alds-sunny-postseason/"
     }
   ],
-  "generated_at": "2026-10-11T08:44:32.649589+00:00",
+  "generated_at": "2026-10-11T15:06:24.777238+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

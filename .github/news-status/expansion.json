@@ -146,8 +146,8 @@
       "url": "https://www.nytimes.com/athletic/mlb/team/mets/"
     },
     "mets/dailynews": {
-      "last_error": "",
-      "streak": 0,
+      "last_error": "Could not fetch https://www.nydailynews.com/sports/mlb/new-york-mets/: HTTP Error 403: Forbidden",
+      "streak": 1,
       "url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
     },
     "mets/nypost": {
@@ -311,8 +311,8 @@
       "url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
     },
     "yankees/dailynews": {
-      "last_error": "",
-      "streak": 0,
+      "last_error": "Could not fetch https://www.nydailynews.com/sports/mlb/new-york-yankees/: HTTP Error 403: Forbidden",
+      "streak": 1,
       "url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
     },
     "yankees/nypost": {

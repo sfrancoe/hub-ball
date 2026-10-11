@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Dodgers are nearly even money ahead of the start of the NLCS while Cleveland is the longshot of the four teams left.",
+      "published": "2026-10-11T09:00:51+00:00",
+      "title": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
+      "url": "https://www.nytimes.com/athletic/7678829/2026/10/11/world-series-odds-dodgers-brewers-rays-guardians-alcs-nlcs/"
+    },
+    {
+      "category": "Rays",
       "description": "A comparison of rosters brings into stark relief the vastness of the Dodgers’ financial edge over the Brewers, Guardians and Rays.",
       "published": "2026-10-11T02:45:36+00:00",
       "title": "In MLB’s final 4, it's the sport’s biggest spender and 3 budget-savvy rivals",
@@ -132,16 +139,9 @@
       "published": "2026-10-01T10:01:23+00:00",
       "title": "For Yankees, beating top-seeded Rays should be their ticket back to World Series",
       "url": "https://www.nytimes.com/athletic/7648610/2026/10/01/yankees-rays-alds-matchup-world-series-path/"
-    },
-    {
-      "category": "Rays",
-      "description": "Our MLB experts make their picks for who will make it to the World Series and who will take home the ultimate prize.",
-      "published": "2026-09-29T09:30:42+00:00",
-      "title": "World Series predictions: Will we see a Brewers-Rays showdown?",
-      "url": "https://www.nytimes.com/athletic/7640352/2026/09/29/mlb-world-series-winner-2026-staff-early-predictions/"
     }
   ],
-  "generated_at": "2026-10-11T08:44:27.099648+00:00",
+  "generated_at": "2026-10-11T15:06:23.111764+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

@@ -2,10 +2,31 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "The Dodgers are nearly even money ahead of the start of the NLCS while Cleveland is the longshot of the four teams left.",
+      "published": "2026-10-11T06:31:00+00:00",
+      "title": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
+      "url": "https://www.nytimes.com/athletic/7678829/2026/10/11/world-series-odds-dodgers-brewers-rays-guardians-alcs-nlcs/"
+    },
+    {
+      "category": "Brewers",
       "description": "Milwaukee's oldest player and its first captain, Yelich has been the constant of the Brewers' long renaissance — and he's driven for more.",
       "published": "2026-10-10T08:16:00+00:00",
       "title": "‘He is the Brewers’: How Christian Yelich evolved from MVP to captain for Milwaukee",
       "url": "https://www.nytimes.com/athletic/7676153/2026/10/10/christian-yelich-brewers-journey-mvp-captain/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Our MLB experts weigh in on how the battle between the National League's two best teams will play out. Can Milwaukee slay the dragon?",
+      "published": "2026-10-09T02:30:00+00:00",
+      "title": "NLCS predictions: Will the Dodgers-Brewers rematch have a different outcome?",
+      "url": "https://www.nytimes.com/athletic/7672426/2026/10/09/nlcs-expert-predictions-brewers-dodgers-mlb-playoffs/"
+    },
+    {
+      "category": "Brewers",
+      "description": "A comparison of rosters brings into stark relief the vastness of the Dodgers’ financial edge over the Brewers, Guardians and Rays.",
+      "published": "2026-10-10T19:59:00+00:00",
+      "title": "In MLB’s final 4, it’s the sport’s biggest spender and 3 budget-savvy rivals",
+      "url": "https://www.nytimes.com/athletic/7673621/2026/10/10/mlb-playoffs-2026-dodgers-brewers-guardians-rays-payroll/"
     },
     {
       "category": "Brewers",
@@ -23,34 +44,6 @@
     },
     {
       "category": "Brewers",
-      "description": "A comparison of rosters brings into stark relief the vastness of the Dodgers’ financial edge over the Brewers, Guardians and Rays.",
-      "published": "2026-10-10T19:59:00+00:00",
-      "title": "In MLB’s final 4, it’s the sport’s biggest spender and 3 budget-savvy rivals",
-      "url": "https://www.nytimes.com/athletic/7673621/2026/10/10/mlb-playoffs-2026-dodgers-brewers-guardians-rays-payroll/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Our MLB experts weigh in on how the battle between the National League's two best teams will play out. Can Milwaukee slay the dragon?",
-      "published": "2026-10-09T02:30:00+00:00",
-      "title": "NLCS predictions: Will the Dodgers-Brewers rematch have a different outcome?",
-      "url": "https://www.nytimes.com/athletic/7672426/2026/10/09/nlcs-expert-predictions-brewers-dodgers-mlb-playoffs/"
-    },
-    {
-      "category": "Brewers",
-      "description": "After 355 days, the National League winds up in the same place with the Brewers facing the Dodgers in the Championship Series.",
-      "published": "2026-10-08T07:08:00+00:00",
-      "title": "Brewers surge into NLCS, where a familiar foe – and a larger battleground – awaits",
-      "url": "https://www.nytimes.com/athletic/7671037/2026/10/08/brewers-padres-game-4-nlds-mlb-playoffs/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Garrett Mitchell's incredible catch provided a stirring reminder of Adam Jones' defining moment in the 2017 World Baseball Classic.",
-      "published": "2026-10-08T03:00:00+00:00",
-      "title": "Two robberies, 9 years apart: Brewers’ heroics elicited memories of an iconic catch",
-      "url": "https://www.nytimes.com/athletic/7668361/2026/10/08/brewers-home-run-robbery-garrett-mitchell-nlds-win-padres/"
-    },
-    {
-      "category": "Brewers",
       "description": "LOS ANGELES — In a rematch of last year’s National League Championship Series, the Los Angeles Dodgers will start Tarik Skubal in Game 1 and Yoshinobu Yamamoto in Game 2 against the Milwaukee Brewers, ...",
       "published": "2026-10-09T18:22:00+00:00",
       "title": "Dodgers name Tarik Skubal, Yoshinobu Yamamoto as starters for NLCS Games 1 and 2",
@@ -58,20 +51,13 @@
     },
     {
       "category": "Brewers",
-      "description": "After a \"heartbreaking\" end to their season Wednesday night, the Padres face the possibility that a lot is about to change.",
-      "published": "2026-10-08T04:54:00+00:00",
-      "title": "Another Padres playoff run ends in heartbreak, with offseason questions looming",
-      "url": "https://www.nytimes.com/athletic/7668353/2026/10/08/padres-nlds-loss-heartbreak-brewers/"
-    },
-    {
-      "category": "Brewers",
-      "description": "It was the last postseason quadrupleheader of 2026, and I watched every darned minute of it. Here are the highlights and lowlights.",
-      "published": "2026-10-08T04:06:00+00:00",
-      "title": "Division Series Weird & Wild: Brewers, Padres kept it close, but Yankees never led Rays",
-      "url": "https://www.nytimes.com/athletic/7671079/2026/10/08/brewers-padres-yankees-rays-white-sox-strikeout-record/"
+      "description": "After 355 days, the National League winds up in the same place with the Brewers facing the Dodgers in the Championship Series.",
+      "published": "2026-10-07T19:31:00+00:00",
+      "title": "Brewers surge into NLCS, where a familiar foe – and a larger battleground – awaits",
+      "url": "https://www.nytimes.com/athletic/7671037/2026/10/08/brewers-padres-game-4-nlds-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-11T08:44:59.163139+00:00",
+  "generated_at": "2026-10-11T15:06:34.725596+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }

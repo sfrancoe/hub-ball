@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "When focus on players, you can find several intriguing stories that will have an impact on the Detroit Tigers in 2027. Guys like Jackson Jobe.",
+      "published": "2026-10-11T03:03:00+00:00",
+      "title": "Jackson Jobe proved he has ace-level stuff for Detroit Tigers",
+      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/10/11/jackson-jobe-went-from-prospect-to-pitcher-in-2026-and-he-has-jv-to-thank/92150352007/"
+    },
+    {
+      "category": "Tigers",
       "description": "We're still a few weeks from MLB's free-agent market officially opening, but it's never too early to start dreaming of Detroit Tigers free agents.",
       "published": "2026-10-06T03:10:00+00:00",
       "title": "12 top 2027 MLB free agents Detroit Tigers could target in offseason",
@@ -30,20 +37,6 @@
     },
     {
       "category": "Tigers",
-      "description": "Listen, you can debate Scott Harris' strategy for the Tigers. But realize, love it or hate it, it is core to the Detroit Tigers’ blueprint.",
-      "published": "2026-10-07T03:10:00+00:00",
-      "title": "Scott Harris had sneaky huge move for Tigers you may have forgotten",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/10/07/detroit-tigers-kevin-mcgonigle-eduardo-valencia-scott-harris/92120148007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "In retrospect, it all looks so predictable. After back-to-back disappointments (of varying degrees) in the ALDS, THIS was the year the Detroit Tigers would march back to the top of the American League ...",
-      "published": "2026-10-04T03:06:00+00:00",
-      "title": "Detroit Tigers grades for 2026 season: Rotation fell off a cliff early",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/04/detroit-tigers-2026-season-kevin-mcgonigle/92052303007/"
-    },
-    {
-      "category": "Tigers",
       "description": "We asked our experts for the biggest question they have brewing about the Detroit Tigers going into the 2026-27 offseason.",
       "published": "2026-09-28T02:10:00+00:00",
       "title": "Tigers biggest offseason questions, from who's on 1B, to who's the ace?",
@@ -58,6 +51,13 @@
     },
     {
       "category": "Tigers",
+      "description": "Listen, you can debate Scott Harris' strategy for the Tigers. But realize, love it or hate it, it is core to the Detroit Tigers’ blueprint.",
+      "published": "2026-10-07T03:10:00+00:00",
+      "title": "Scott Harris had sneaky huge move for Tigers you may have forgotten",
+      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/10/07/detroit-tigers-kevin-mcgonigle-eduardo-valencia-scott-harris/92120148007/"
+    },
+    {
+      "category": "Tigers",
       "description": "Six Tigers will become free agents ahead of the 2027 season, including second baseman Gleyber Torres and right-handed pitcher Jack Flaherty. Those two players will almost certainly test the market, ...",
       "published": "2026-09-30T02:10:00+00:00",
       "title": "Predicting if Tigers pick up Kenley Jansen and Drew Anderson options",
@@ -69,9 +69,23 @@
       "published": "2026-10-01T09:51:00+00:00",
       "title": "Tigers send John Peck to Arizona Fall League to see what his bat can do",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/01/detroit-tigers-shortstop-john-peck-added-to-arizona-fall-league-roster/92037612007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "Detroit Tigers veterans Gleyber Torres and Jack Flaherty are set to become free agents while a potential MLB lockout looms.",
+      "published": "2026-09-27T16:11:00+00:00",
+      "title": "Tigers' Gleyber Torres, Jack Flaherty face free agency uncertainty",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/09/27/detroit-tigers-free-agents-2026/91977975007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "The Detroit Tigers have parted ways with first base coach Anthony Sanders and assistant pitching coach Juan Nieves, according to a report.",
+      "published": "2026-09-29T06:56:00+00:00",
+      "title": "Detroit Tigers part ways with 1B coach, assistant pitching coach: report",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/09/29/mlb-detroit-tigers-coaches-juan-nieves-anthony-sanders/92001864007/"
     }
   ],
-  "generated_at": "2026-10-11T08:44:38.402744+00:00",
+  "generated_at": "2026-10-11T15:06:25.771782+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

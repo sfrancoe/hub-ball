@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Random thoughts about (mostly) sports topics.",
+      "published": "2026-10-11T09:00:00+00:00",
+      "title": "Some Things I Think I Think: Full review of Red Sox’ training, medical staff needed",
+      "url": "https://www.masslive.com/sports/2026/10/some-things-i-think-i-think-full-review-of-red-sox-training-medical-staff-needed.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Red Sox reliever Garrett Whitlock pitched through leg pain late in the 2026 season.",
       "published": "2026-10-10T14:35:09+00:00",
       "title": "Red Sox’ Garrett Whitlock pitched through fractured tibia",
@@ -104,16 +111,9 @@
       "published": "2026-10-05T20:19:31+00:00",
       "title": "Red Sox' Craig Breslow eyes offensive upgrades for 2nd straight winter",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-wish-list-for-offseason-has-a-distinctly-familiar-ring-to-it.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Red Sox president Sam Kennedy: “The way it ended Wednesday night in New York was painful and deeply disappointing to all of us.\"",
-      "published": "2026-10-05T18:56:51+00:00",
-      "title": "Red Sox president on ending of 2026: ‘Painful and deeply disappointing’",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-president-on-ending-of-2026-painful-and-deeply-disappointing.html"
     }
   ],
-  "generated_at": "2026-10-10T16:24:13.174369+00:00",
+  "generated_at": "2026-10-11T15:06:18.256159+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

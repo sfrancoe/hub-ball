@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "Gavin Williams struck out 12, José Ramírez homered and the Guardians advanced to the ALCS. Here are 15 remarkable numbers from Cleveland's Game 5 win.",
+      "published": "2026-10-10T22:02:00+00:00",
+      "title": "Guardians win Game 5 by the numbers: Historic strikeouts, José Ramírez’s heroics send Cleveland to ALCS",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-win-game-5-by-the-numbers-historic-strikeouts-jose-ramirezs-heroics-send-cleveland-to-alcs.html"
+    },
+    {
+      "category": "Guardians",
       "description": "The Guardians and White Sox meet in a winner-take-all ALDS Game 5 at Progressive Field, with Cleveland seeking to complete a comeback from an 0-2 series deficit behind starter Gavin Williams.",
       "published": "2026-10-10T09:02:00+00:00",
       "title": "Cleveland Guardians, Chicago White Sox starting lineups for Oct. 10, 2026: ALDS Game 5",
@@ -16,10 +23,31 @@
     },
     {
       "category": "Guardians",
+      "description": "Cleveland's bullpen backed Gavin Williams with nine strikeouts as the Guardians set an MLB postseason record with 21 in their ALDS Game 5 win over Chicago.",
+      "published": "2026-10-10T22:30:00+00:00",
+      "title": "Guardians bullpen saves its best for last with record-setting strikeout performance in ALDS Game 5",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-bullpen-saves-its-best-for-last-with-record-setting-strikeout-performance-in-alds-game-5.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Just 48 hours after closing out Game 4, Gavin Williams delivered a historic performance for the Guardians, matching Charles Nagy's postseason strikeout record.",
+      "published": "2026-10-11T01:12:00+00:00",
+      "title": "Gavin Williams delivers historic Game 5 performance as Guardians ace answers the call",
+      "url": "https://www.cleveland.com/guardians/2026/10/gavin-williams-delivers-historic-game-5-performance-as-guardians-ace-answers-the-call.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Williams tied a postseason club record with 12 strikeouts in 5 2/3 innings as the Guardians beat the White Sox, 2-0, to advance to the American League Championship Series. They will play the Rays in ...",
-      "published": "2026-10-10T18:28:00+00:00",
+      "published": "2026-10-11T01:48:00+00:00",
       "title": "Guardians complete stunning ALDS comeback behind Gavin Williams, José Ramírez and Cade Smith in 2-0 Game 5 win",
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-complete-stunning-alds-comeback-behind-gavin-williams-jose-ramirez-and-cade-smith-in-2-0-game-5-shutout.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "America's longest professional sport celebrates the most. And when you hear the Guardians describe their grind, you see why.",
+      "published": "2026-10-10T22:02:00+00:00",
+      "title": "Why the Guardians earned the right to party so hard after epic comeback against White Sox — Jimmy Watkins",
+      "url": "https://www.cleveland.com/guardians/2026/10/why-the-guardians-deserved-to-party-so-hard-after-epic-comeback-against-white-sox-jimmy-watkins.html"
     },
     {
       "category": "Guardians",
@@ -30,20 +58,6 @@
     },
     {
       "category": "Guardians",
-      "description": "Just 48 hours after closing out Game 4, Gavin Williams delivered a historic performance for the Guardians, matching Charles Nagy's postseason strikeout record.",
-      "published": "2026-10-10T15:12:00+00:00",
-      "title": "Gavin Williams delivers historic Game 5 performance as Guardians ace answers the call",
-      "url": "https://www.cleveland.com/guardians/2026/10/gavin-williams-delivers-historic-game-5-performance-as-guardians-ace-answers-the-call.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Guardians host the White Sox in a decisive Game 5 of the ALDS, with Gavin Williams starting on short rest and the series winner advancing to face Tampa Bay in the ALCS.",
-      "published": "2026-10-10T12:01:00+00:00",
-      "title": "Guardians vs. White Sox ALDS Game 5: Live updates from Progressive Field",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-white-sox-alds-game-5-live-updates-from-progressive-field.html"
-    },
-    {
-      "category": "Guardians",
       "description": "After battling back from 0-2 in the Windy City, the Cleveland Guardians host the Chicago White Sox in a winner-take-all Game 5 of the ALDS today. Find out how to watch for free.",
       "published": "2026-10-10T05:30:00+00:00",
       "title": "Where to watch Guardians vs. White Sox ALDS Game 5 today: MLB free live stream",
@@ -51,17 +65,10 @@
     },
     {
       "category": "Guardians",
-      "description": "Jose Ramirez homered and drove in three runs, sparking a six-run sixth inning as Cleveland forced a decisive Game 5.",
-      "published": "2026-10-09T16:49:00+00:00",
-      "title": "Guardians beat White Sox, 9-5, bring ALDS home for winner-take-all Game 5",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-beat-white-sox-9-5-bring-alds-home-for-winner-take-all-game-5.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Cleveland's offense exploded for six runs in the sixth inning, powered by José Ramírez and Patrick Bailey, to force a decisive Game 5 against Chicago.",
-      "published": "2026-10-08T22:03:00+00:00",
-      "title": "Guardians’ Game 4 win by the numbers: José Ramírez, Patrick Bailey power historic comeback",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-win-game-4-by-the-numbers-jose-ramirez-patrick-bailey-power-historic-comeback.html"
+      "description": "The Guardians host the White Sox in a decisive Game 5 of the ALDS, with Gavin Williams starting on short rest and the series winner advancing to face Tampa Bay in the ALCS.",
+      "published": "2026-10-10T12:01:00+00:00",
+      "title": "Guardians vs. White Sox ALDS Game 5: Live updates from Progressive Field",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-white-sox-alds-game-5-live-updates-from-progressive-field.html"
     },
     {
       "category": "Guardians",
@@ -76,16 +83,9 @@
       "published": "2026-10-09T08:24:00+00:00",
       "title": "White Sox name Game 5 starter, prepare for all-hands-on-deck showdown with Guardians",
       "url": "https://www.cleveland.com/guardians/2026/10/white-sox-name-game-5-starter-prepare-for-all-hands-on-deck-showdown-with-guardians.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Cleveland Guardians send rookie AL Cy Young candidate Parker Messick back onto the mound as they clash with the Chicago White Sox in a do-or-die Game 4 of the ALDS. Find out how to watch for free.",
-      "published": "2026-10-08T11:00:00+00:00",
-      "title": "Watch Guardians free vs. White Sox ALDS Game 4 today: MLB live stream",
-      "url": "https://www.cleveland.com/tv/2026/10/watch-guardians-free-vs-white-sox-alds-game-4-today-mlb-live-stream.html"
     }
   ],
-  "generated_at": "2026-10-11T08:44:33.171142+00:00",
+  "generated_at": "2026-10-11T15:06:25.281050+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
