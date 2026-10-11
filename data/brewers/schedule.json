@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:52:45.386294+00:00",
+  "generated_at": "2026-10-11T06:29:15.633536+00:00",
   "source": "MLB Stats API",
   "team": "Brewers",
   "regular_season_end": "2026-09-27",
@@ -119,7 +119,7 @@
       "opponent_pitcher": "",
       "favorite_team_pitcher_record": "—",
       "opponent_pitcher_record": "—",
-      "show_probables": false,
+      "show_probables": true,
       "series_description": "NL Championship Series",
       "doubleheader": false,
       "game_number": 1,
