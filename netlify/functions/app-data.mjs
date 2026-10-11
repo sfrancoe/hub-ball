@@ -113,7 +113,9 @@ async function fetchSource(path, request = fetch) {
     { Accept: 'application/json', 'User-Agent': FALLBACK_USER_AGENT },
   ]) {
     try {
-      const response = await request(`${RAW_DATA_ROOT}/${path}`, {
+      // Mutable launch pointers must bypass the raw GitHub CDN as well as our CDN.
+      const sourceURL = `${RAW_DATA_ROOT}/${path}` + (path === 'stories/featured-v1.json' ? `?featured=${Date.now()}` : '');
+      const response = await request(sourceURL, {
         headers,
         signal: AbortSignal.timeout(10_000),
       });
