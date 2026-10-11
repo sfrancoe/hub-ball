@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T06:28:54.989411+00:00",
+  "generated_at": "2026-10-11T19:11:37.792635+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -13,9 +13,9 @@
       "opponent": "Guardians",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
-      "favorite_team_pitcher": "",
+      "favorite_team_pitcher": "Drew Rasmussen",
       "opponent_pitcher": "",
-      "favorite_team_pitcher_record": "—",
+      "favorite_team_pitcher_record": "16-5",
       "opponent_pitcher_record": "—",
       "show_probables": true,
       "series_description": "AL Championship Series",
