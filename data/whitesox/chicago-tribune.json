@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "White Sox",
-      "description": "The Chicago White Sox couldn’t find sustained success at the plate all night as their improbable season ended with a 2-0 loss to the Cleveland Guardians.",
-      "published": "2026-10-09T22:30:00+00:00",
-      "title": "Chicago White Sox’s season ends in 2-0 loss to the Cleveland Guardians in ALDS Game 5",
-      "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-cleveland-guardians-alds-game-5/"
-    },
-    {
-      "category": "White Sox",
       "description": "The Chicago White Sox’ remarkable season was on the brink entering Game 5 of the American League Division Series in Cleveland, and there was nothing left to say.",
       "published": "2026-10-10T19:57:00+00:00",
       "title": "Column: Chicago White Sox on the brink in ALDS Game 5",
       "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-alds-game-5-win-or-go-home/"
+    },
+    {
+      "category": "White Sox",
+      "description": "Sean Burke will start for the Chicago White Sox in the decisive Game 5 of the ALDS against the Cleveland Guardians on Saturday. The winner advances to the ALCS to play the Tampa Bay Rays.",
+      "published": "2026-10-09T15:04:00+00:00",
+      "title": "ALDS Game 5 lookahead: Sean Burke starts for Chicago White Sox, who vow the ‘anything and everything’ approach",
+      "url": "https://www.chicagotribune.com/2026/10/09/alds-game-5-white-sox-guardians-lookahead/"
     },
     {
       "category": "White Sox",
@@ -23,10 +23,10 @@
     },
     {
       "category": "White Sox",
-      "description": "Sean Burke will start for the Chicago White Sox in the decisive Game 5 of the ALDS against the Cleveland Guardians on Saturday. The winner advances to the ALCS to play the Tampa Bay Rays.",
-      "published": "2026-10-09T15:04:00+00:00",
-      "title": "ALDS Game 5 lookahead: Sean Burke starts for Chicago White Sox, who vow the ‘anything and everything’ approach",
-      "url": "https://www.chicagotribune.com/2026/10/09/alds-game-5-white-sox-guardians-lookahead/"
+      "description": "The Chicago White Sox couldn’t find sustained success at the plate all night as their improbable season ended with a 2-0 loss to the Cleveland Guardians.",
+      "published": "2026-10-09T22:30:00+00:00",
+      "title": "Chicago White Sox season ends with a record 21 strikeouts in a 2-0 loss in ALDS Game 5",
+      "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-cleveland-guardians-alds-game-5/"
     },
     {
       "category": "White Sox",
@@ -76,9 +76,16 @@
       "published": "2026-10-06T17:21:00+00:00",
       "title": "Column: Sunny forecast for the Chicago White Sox after years of gloom and doom",
       "url": "https://www.chicagotribune.com/2026/10/06/chicago-white-sox-alds-sunny-postseason/"
+    },
+    {
+      "category": "White Sox",
+      "description": "Now that the Cubs have bowed out of the postseason and the White Sox are in the ALDS, is it time for detente in the intense Chicago baseball rivalry?",
+      "published": "2026-10-05T04:00:00+00:00",
+      "title": "Column: White Sox welcoming Cubs fans to hop on the playoff bandwagon … with a few caveats",
+      "url": "https://www.chicagotribune.com/2026/10/05/chicago-white-sox-alds-cubs-fans/"
     }
   ],
-  "generated_at": "2026-10-11T15:06:24.777238+00:00",
+  "generated_at": "2026-10-11T19:30:31.918637+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

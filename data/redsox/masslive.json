@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Red Sox third baseman Caleb Durbin underwent surgery to repair his injured left pinkie finger.",
+      "published": "2026-10-11T16:57:05+00:00",
+      "title": "Red Sox’ Caleb Durbin undergoes surgery",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-injury.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Random thoughts about (mostly) sports topics.",
       "published": "2026-10-11T09:00:00+00:00",
       "title": "Some Things I Think I Think: Full review of Red Sox’ training, medical staff needed",
@@ -104,16 +111,9 @@
       "published": "2026-10-05T21:13:57+00:00",
       "title": "Red Sox: Roman Anthony's recovery path is rest, not surgery",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-recovery-plan-for-roman-anthony-this-winter-more-rest-no-surgical-intervention.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "For the second straight year, the Red Sox finished third in their division and were eliminated by the Yankees, with offensive inconsistency—particularly a lack of power—identified as the primary issue heading into the offseason.",
-      "published": "2026-10-05T20:19:31+00:00",
-      "title": "Red Sox' Craig Breslow eyes offensive upgrades for 2nd straight winter",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-wish-list-for-offseason-has-a-distinctly-familiar-ring-to-it.html"
     }
   ],
-  "generated_at": "2026-10-11T15:06:18.256159+00:00",
+  "generated_at": "2026-10-11T19:30:22.927945+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

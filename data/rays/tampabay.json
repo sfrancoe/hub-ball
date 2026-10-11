@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Notes | Also, starter Shane McClanahan won’t be back for this playoff run.",
+      "published": "2026-10-11T19:17:25+00:00",
+      "title": "Rays make obvious choice to start Drew Rasmussen in Game 1 vs. Guardians",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/11/drew-rasmussen-shane-mcclanahan-alcs-cleveland-guardians/"
+    },
+    {
+      "category": "Rays",
       "description": "The Rays were 5-1 against Cleveland this season. Game 1 of the ALDS is Monday at Tropicana Field.",
       "published": "2026-10-11T02:58:35+00:00",
       "title": "Guardians top White Sox, get Rays next in the ALCS",
@@ -104,16 +111,9 @@
       "published": "2026-10-06T00:19:38+00:00",
       "title": "See images from Game 2 of AL Division Series between Rays and Yankees",
       "url": "https://www.tampabay.com/sports/rays/2026/10/05/rays-yankees-alds-game-2-photos-cam-schlittler-freddy-peralta-junior-caminero/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | The veteran had a strong season overall but was notably better on the road, which seemed to be a factor in the decision.",
-      "published": "2026-10-05T22:58:54+00:00",
-      "title": "Rays plan to start Nick Martinez in ALDS Game 3 at Yankee Stadium",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/05/nick-martinez-alds-game-3-yankees-max-fried-jonny-deluca-cedric-mullins/"
     }
   ],
-  "generated_at": "2026-10-11T08:44:26.734072+00:00",
+  "generated_at": "2026-10-11T19:30:28.773968+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
