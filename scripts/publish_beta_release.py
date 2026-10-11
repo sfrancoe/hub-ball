@@ -83,7 +83,7 @@ def verified_target(build: int, receipt: dict, info: dict, fetch=request, now=No
         if not (any(x['id'] == bid for x in builds)):
             raise ValueError('Private or unavailable build: cannot advance broad target')
     return {'version': version, 'build': build, 'audience': 'all-supported-testers', 'available': True,
-            'confirmedAt': now.strftime('%Y-%m-%dT%H:%M:%SZ'), 'expiresAt': expiry.strftime('%Y-%m-%dT%H:%M:%SZ'),
+            'confirmedAt': now.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'expiresAt': expiry.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
             'minimumOS': info['MinimumOSVersion'], 'deviceFamilies': ['iphone', 'ipad'], 'verifiedGroupIDs': sorted(GROUPS)}
 
 
