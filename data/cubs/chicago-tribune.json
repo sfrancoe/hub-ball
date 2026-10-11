@@ -23,17 +23,17 @@
     },
     {
       "category": "Cubs",
-      "description": "After the Chicago Cubs fall short in the playoffs, those within the organization must diagnose what went wrong and look ahead to getting another shot in 2027.",
-      "published": "2026-10-04T04:00:00+00:00",
-      "title": "Where do the Chicago Cubs go after falling short in the playoffs again? ‘We let it slip away.’",
-      "url": "https://www.chicagotribune.com/2026/10/04/chicago-cubs-playoff-exit-what-next/"
-    },
-    {
-      "category": "Cubs",
       "description": "The Chicago Cubs were eliminated from an NL wild-card series against the San Diego Padres, falling 4-1 late Wednesday. The Cubs had only one extra-base hit in the two-game sweep.",
       "published": "2026-10-01T04:54:00+00:00",
       "title": "Chicago Cubs quickly KO’d from playoffs after bats quiet again in 4-1 loss to San Diego Padres",
       "url": "https://www.chicagotribune.com/2026/10/01/mlb-playoffs-chicago-cubs-padres-sweep/"
+    },
+    {
+      "category": "Cubs",
+      "description": "After the Chicago Cubs fall short in the playoffs, those within the organization must diagnose what went wrong and look ahead to getting another shot in 2027.",
+      "published": "2026-10-04T04:00:00+00:00",
+      "title": "Where do the Chicago Cubs go after falling short in the playoffs again? ‘We let it slip away.’",
+      "url": "https://www.chicagotribune.com/2026/10/04/chicago-cubs-playoff-exit-what-next/"
     },
     {
       "category": "Cubs",
@@ -62,9 +62,16 @@
       "published": "2026-09-30T03:00:00+00:00",
       "title": "Chicago Media Report: Jarrett Payton’s 1st month at The Score — and an ex-Cubs radio voice up for Hall of Fame",
       "url": "https://www.chicagotribune.com/2026/09/30/chicago-media-report-jarrett-payton-cubs/"
+    },
+    {
+      "category": "Cubs",
+      "description": "Thirty-seven hours after the Chicago Cubs season ended unceremoniously with a wild-card-round sweep in San Diego, president of baseball operations Jed Hoyer tried to put the year in context Friday ...",
+      "published": "2026-10-02T15:56:00+00:00",
+      "title": "3 Chicago Cubs takeaways from Jed Hoyer’s end-of-season news conference, including his ‘poor job’ building pen",
+      "url": "https://www.chicagotribune.com/2026/10/02/chicago-cubs-jed-hoyer-season-takeaways/"
     }
   ],
-  "generated_at": "2026-10-11T19:30:41.764853+00:00",
+  "generated_at": "2026-10-11T23:07:39.524785+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

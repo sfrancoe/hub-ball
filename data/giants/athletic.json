@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "Jayden Daniels scored twice, Jameis Winston rallied New York to OT, Cam Skattebo fumbled and Washington couldn't stop the clock at the end.",
+      "published": "2026-10-11T14:48:00+00:00",
+      "title": "Commanders, Giants both commit gaffes in overtime, leading to bizarre tie. What just happened?",
+      "url": "https://www.nytimes.com/athletic/7681229/2026/10/11/giants-commanders-tie-nfl-week-5-result-takeaways/"
+    },
+    {
+      "category": "Giants",
       "description": "Sunday's slate has breakout rookies, including Giants LB Arvell Reese, and game-changing free-agency adds such as 49ers WR Mike Evans.",
       "published": "2026-10-09T04:00:00+00:00",
       "title": "NFL Week 5 schedule rankings: The 5 Sunday games starring impact offseason additions",
@@ -27,16 +34,9 @@
       "published": "2026-10-05T10:05:00+00:00",
       "title": "The Giants’ offseason shopping list will be focused entirely on pitching",
       "url": "https://www.nytimes.com/athletic/7663125/2026/10/05/sf-giants-offseason-checklist-pitching/"
-    },
-    {
-      "category": "Giants",
-      "description": "Kyle Harrison would look pretty good atop the Giants' rotation this season. Patrick McDermott / Getty Images Every time you log onto the Internet, it seems like there’s something designed to break the ...",
-      "published": "2026-07-02T10:28:00+00:00",
-      "title": "Who’s having the better 2026: The current Giants or the ex-Giants?",
-      "url": "https://www.nytimes.com/athletic/7416665/2026/07/02/sf-giants-roster-analysis-former-players/"
     }
   ],
-  "generated_at": "2026-10-11T19:30:51.609302+00:00",
+  "generated_at": "2026-10-11T23:07:58.467490+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/giants/"
 }

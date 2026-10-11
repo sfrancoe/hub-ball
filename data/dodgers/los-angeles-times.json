@@ -37,13 +37,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Los Angeles Dodgers won Game 3 of the NLDS against the Atlanta Braves 3-1, but the story is the pitching domination by Yoshinobu Yamamoto. Los Angeles Times beat writer Maddie Lee and columnists ...",
-      "published": "2026-10-06T19:56:00+00:00",
-      "title": "Dodgers Debate NLDS Game 3: Yamamoto dominates, October Kiké arrives",
-      "url": "https://www.latimes.com/e59rsq9nt4w-123"
-    },
-    {
-      "category": "Dodgers",
       "description": "Maddie Lee covers the Dodgers for the Los Angeles Times. She joined the paper in March 2026 after six years in Chicago, where she was a Cubs beat writer for the Chicago Sun-Times and NBC Sports ...",
       "published": "2026-10-03T06:55:00+00:00",
       "title": "Dodgers Debate: Dodgers and Braves",
@@ -51,10 +44,10 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Atlanta Braves took Game 2 of the NLDS, defeating the Los Angeles Dodgers 3-2. The series heads to Atlanta tied, with the Braves’ best pitchers looming. Los Angeles Times beat writer Maddie Lee ...",
-      "published": "2026-10-04T21:48:00+00:00",
-      "title": "Dodgers Debate NLDS Game 2: Bats go cold",
-      "url": "https://www.latimes.com/bs7edch-nvs-123"
+      "description": "The Los Angeles Dodgers won Game 3 of the NLDS against the Atlanta Braves 3-1, but the story is the pitching domination by Yoshinobu Yamamoto. Los Angeles Times beat writer Maddie Lee and columnists ...",
+      "published": "2026-10-06T19:56:00+00:00",
+      "title": "Dodgers Debate NLDS Game 3: Yamamoto dominates, October Kiké arrives",
+      "url": "https://www.latimes.com/e59rsq9nt4w-123"
     },
     {
       "category": "Dodgers",
@@ -65,13 +58,20 @@
     },
     {
       "category": "Dodgers",
+      "description": "The Atlanta Braves took Game 2 of the NLDS, defeating the Los Angeles Dodgers 3-2. The series heads to Atlanta tied, with the Braves’ best pitchers looming. Los Angeles Times beat writer Maddie Lee ...",
+      "published": "2026-10-04T21:48:00+00:00",
+      "title": "Dodgers Debate NLDS Game 2: Bats go cold",
+      "url": "https://www.latimes.com/bs7edch-nvs-123"
+    },
+    {
+      "category": "Dodgers",
       "description": "Andy Pages finally broke out of his baffling two-year October slump with a hit so powerful, it sent the Dodgers to the NLCS.",
       "published": "2026-10-07T20:30:00+00:00",
       "title": "He finally did it! Dodgers’ Andy Pages ends two-year postseason slump at the perfect time",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-07/andy-pages-dodgers-plaschke"
     }
   ],
-  "generated_at": "2026-10-11T19:30:49.423573+00:00",
+  "generated_at": "2026-10-11T23:07:55.240265+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

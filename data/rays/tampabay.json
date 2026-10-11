@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "First signed by Cleveland, the third baseman was traded after one pro season to Tampa Bay.",
+      "published": "2026-10-11T22:31:47+00:00",
+      "title": "Rays’ Junior Caminero gets peek at past, future in ALCS vs. Guardians",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/11/junior-caminero-cleveland-guardians-jose-ramirez-alcs/"
+    },
+    {
+      "category": "Rays",
       "description": "Notes | Also, starter Shane McClanahan won’t be back for this playoff run.",
       "published": "2026-10-11T19:17:25+00:00",
       "title": "Rays make obvious choice to start Drew Rasmussen in Game 1 vs. Guardians",
@@ -104,16 +111,9 @@
       "published": "2026-10-06T03:25:48+00:00",
       "title": "Rays do what they do well, lead Yankees 2-0 in AL Division Series",
       "url": "https://www.tampabay.com/sports/rays/2026/10/05/richie-palacios-yankees-alds-game-2-freddy-peralta-cam-schlittler-ben-rice/"
-    },
-    {
-      "category": "Rays",
-      "description": "Photo gallery | Tampa Bay moves within one win of clinching the best-of-five series.",
-      "published": "2026-10-06T00:19:38+00:00",
-      "title": "See images from Game 2 of AL Division Series between Rays and Yankees",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/05/rays-yankees-alds-game-2-photos-cam-schlittler-freddy-peralta-junior-caminero/"
     }
   ],
-  "generated_at": "2026-10-11T19:30:28.773968+00:00",
+  "generated_at": "2026-10-11T23:07:14.233738+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
