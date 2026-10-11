@@ -4,11 +4,11 @@
   "enabled": true,
   "target": {
     "version": "1.1",
-    "build": 125,
+    "build": 127,
     "audience": "all-supported-testers",
     "available": true,
-    "confirmedAt": "2026-10-10T17:53:53Z",
-    "expiresAt": "2027-01-08T16:32:51Z",
+    "confirmedAt": "2026-10-11T18:03:27Z",
+    "expiresAt": "2027-01-09T17:01:01Z",
     "minimumOS": "17.0",
     "deviceFamilies": [
       "iphone",
