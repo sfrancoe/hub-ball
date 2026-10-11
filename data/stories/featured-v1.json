@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "revision": "scott-preview-cleveland-october11",
+  "revision": "scott-preview-existing-trajectory",
   "publishedAt": "2026-10-11T16:26:44Z",
   "notBefore": "2026-10-11T00:00:00Z",
   "expiresAt": "2026-10-13T00:00:00Z",
   "minimumBuild": 127,
   "entry": {
-    "fallback": "Cleveland struck out 21 White Sox batters in 27 outs to win ALDS Game 5, 2\u20130, on October 10, 2026.",
-    "id": "almost-every-out-a-k",
-    "minimumRendererVersion": 4,
-    "publishedAt": "2026-10-11T15:39:47Z",
-    "renderer": "inning-out-grid",
+    "fallback": "On June 23, Chicago had matched a whole season of wins. Win 42 came on June 26. By August 9, Chicago had passed 2025\u2019s 60 wins, too. The 2026 finish: 84\u201378\u201443 more wins than two years earlier.",
+    "id": "whole-season-by-june",
+    "minimumRendererVersion": 3,
+    "publishedAt": "2026-10-09T01:06:47Z",
+    "renderer": "chart-trajectory",
     "rendererVersion": 1,
-    "revision": "ffb089a9e3df951d8fb35d53eb3289989780b8bd2d5489be2eda43bd1a29a30b",
-    "summary": "All 27 outs. Twenty-one strikeouts. Cleveland advances with a 2\u20130 Game 5 win.",
+    "revision": "6324811453827288472a78036847e5165dcdbf47cfd98b0b66d73c0c42eef2d1",
+    "summary": "Three seasons. First 2024, then 2025, then 2026. Watch Chicago match a whole season of wins before halfway through the year.",
     "teamIDs": [
-      114
+      145
     ],
-    "title": "Almost every out a K"
+    "title": "A Whole Season of Wins. By June."
   }
 }
