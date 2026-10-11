@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-10T22:58:31.163599+00:00",
+  "generatedAt": "2026-10-11T01:58:46.584619+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Game 5 photos: Chicago White Sox vs. Cleveland Guardians in AL Division Series",
+      "description": "Photos from Game 5 of the Chicago White Sox’s AL Division Series against the Cleveland Guardians on Oct. 10, 2026, at Progressive Field.",
+      "url": "https://www.chicagotribune.com/2026/10/10/game-5-photos-chicago-white-sox-vs-cleveland-guardians-in-al-division-series/",
+      "published": "2026-10-11T00:18:20+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Column: Chicago White Sox on the brink in ALDS Game 5",
+      "description": "The Chicago White Sox’ remarkable season was on the brink entering Game 5 of the American League Division Series in Cleveland, and there was nothing left to say.",
+      "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-alds-game-5-win-or-go-home/",
+      "published": "2026-10-10T23:46:01+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "What to know about Chicago White Sox’s ALDS Game 5, including the thought process behind a lineup change",
+      "description": "The Chicago White Sox’s ALDS Game 5 will see a lineup change with Brenton Doyle starting in CF, Tristan Peters in RF and Braden Montgomery off the bench.",
+      "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-alds-game-5-preview/",
+      "published": "2026-10-10T23:04:06+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Alex Cora is in no hurry to return to managing, but is expected back when timing is right",
       "description": "Cora, fired by the Red Sox in April, has turned the Phillies down twice and is loving life in Puerto Rico. He's also still getting paid and will collect another $7 million next year.",
@@ -69,6 +105,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Underdogs? Brewers don't think they are against Dodgers this time",
+      "description": "“That's kind of how we look at it as a team. It doesn't matter what the commentary is surrounding the series or the teams or who's the favorite, who's the underdog. It's going to be decided on the ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/10/underdogs-brewers-dont-think-they-are-against-dodgers-this-time/92176900007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "What time do the Brewers play tomorrow? NLCS Game 1 vs Dodgers, schedule",
+      "description": "Jacob Misiorowski gets the ball for the Brewers in Game 1 of the NLCS against the Dodgers on Sunday. Here's the start time for the game tomorrow.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/10/brewers-vs-dodgers-game-1-nlcs-schedule/92195143007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Bill Madden: Yankees need to dump Aaron Boone and call Buck Showalter",
       "description": "As much as I like Aaron Boone personally, as much as I think he’s a...",
       "url": "https://www.nydailynews.com/2026/10/10/bill-madden-yankees-aaron-boone-buck-showalter-manager-steinbrenner/",
@@ -93,59 +153,23 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Mike Lupica: The Yankees couldn’t buy a winner, now comes a level playing field",
-      "description": "Let’s say Hal Steinbrenner and the other owners get the salary cap they’re almost certain...",
-      "url": "https://www.nydailynews.com/2026/10/10/mike-lupica-yankees-salary-cap-steinbrenner-boone-cashman-spending/",
-      "published": "2026-10-10T13:33:29+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "New standard Yankees must follow Dodgers’ blueprint for mental toughness after latest no-show — with plenty of blame to go around",
-      "description": "",
-      "url": "https://nypost.com/2026/10/10/sports/yankees-must-follow-dodgers-blueprint-for-mental-toughness/",
-      "published": "2026-10-10T12:49:46+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "These are the Yankees’ biggest offseason questions",
-      "description": "The Yankees enter this offseason with no shortage of roster questions, including what to do...",
-      "url": "https://www.nydailynews.com/2026/10/10/yankees-biggest-questions-offseason-jazz-chisholm-trent-grisham-giancarlo-stanton/",
-      "published": "2026-10-10T11:30:11+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The century-old Yankees loss that serves as eerie reminder of Bombers’ disappointing present",
-      "description": "",
-      "url": "https://nypost.com/2026/10/10/sports/the-century-old-yankees-loss-that-serves-as-eerie-reminder/",
-      "published": "2026-10-10T11:30:00+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Cade Smith wasn’t happy Gavin Williams had to rescue him in Game 4. The Guardians might need both again in Game 5",
-      "description": "CLEVELAND, Ohio — Cade Smith appreciated Gavin Williams coming to his rescue Thursday night in Chicago. That doesn’t mean he was happy about needing to be rescued. The Guardians’ closer had been ...",
-      "url": "https://www.cleveland.com/guardians/2026/10/cade-smith-wasnt-happy-gavin-williams-had-to-rescue-him-in-game-4-the-guardians-might-need-both-again-in-game-5.html",
+      "title": "Magical White Sox season rides on ‘top-shelf’ sneakerhead with unshakable aura",
+      "description": "Sean Burke reflects on the hard work, learning lessons and aura that helped him arrive at a winner-take-all ALDS start.",
+      "url": "https://www.nytimes.com/athletic/7675583/2026/10/10/sean-burke-chicago-white-sox-game-5-start/",
       "published": "",
-      "source": "Cleveland.com",
+      "source": "The Athletic",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "The Guardians fought their way home. Now Game 5 awaits at Cleveland’s house of magic",
+      "description": "The Guardians are one game away from pulling off a dramatic playoff comeback. They think they're in the best possible place to do it.",
+      "url": "https://www.nytimes.com/athletic/7675582/2026/10/10/cleveland-guardians-progressive-field-home-magic/",
+      "published": "",
+      "source": "The Athletic",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "teamAbbreviation": "CLE",
@@ -153,16 +177,16 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "How the Yankees’ final game could inform a few of their offseason decisions",
-      "description": "Jazz Chisholm Jr., Ryan McMahon and Trent Grisham were benched or unproductive in the Yankees'...",
-      "url": "https://www.nydailynews.com/2026/10/10/yankees-offseason-trent-grisham-ryan-mcmahon-jazz-chisholm-jr-rays/",
-      "published": "2026-10-10T11:00:25+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
+      "title": "White Sox vs. Guardians — Latest",
+      "description": "Follow our live coverage as Chicago and Cleveland play a winner-take-all Game 5 with an ALCS berth on the line.",
+      "url": "https://www.nytimes.com/athletic/live-blogs/white-sox-vs-guardians-live-updates-mlb-playoffs-game-5-score-result/jk3LZomLED5i/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
       "league": "AL",
-      "publishedSource": "publisher"
+      "publishedSource": "unverified"
     }
   ]
 }
