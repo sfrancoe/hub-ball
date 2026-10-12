@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Reds",
+      "description": "The Reds' season ended with a 5-1 loss to the Toronto Blue Jays on Sunday. Mark Blinch / Getty Images TORONTO — Ultimately, the only number that defines the failure of a 2026 Cincinnati Reds season is ...",
+      "published": "2026-09-27T16:46:00+00:00",
+      "title": "Reds’ disaster of a 2026 season defined by 9 numbers",
+      "url": "https://www.nytimes.com/athletic/7637634/2026/09/27/reds-2026-season-by-the-numbers-mlb/"
+    },
+    {
+      "category": "Reds",
       "description": "Outfielder Dane Myers dropped a routine fly ball that would have ended the game in a 5-4 Reds win. Katie Stratman / Reuters CINCINNATI — The Cincinnati Reds have lost 67 of their 128 games this season ...",
       "published": "2026-08-20T16:57:00+00:00",
       "title": "Cincinnati Reds’ 67th loss comes in stunning fashion: A routine fly ball on the last strike",
@@ -16,13 +23,6 @@
     },
     {
       "category": "Reds",
-      "description": "Elly De La Cruz has 28 stolen bases this season. Andy Lyons / Getty Images CINCINNATI — The Chicago Cubs left Great American Ball Park on Sunday with a chance to clinch their postseason berth when ...",
-      "published": "2026-09-21T04:00:00+00:00",
-      "title": "What to watch for in the Reds’ last 6 games",
-      "url": "https://www.nytimes.com/athletic/7615005/2026/09/21/what-to-watch-for-reds-games-2026/"
-    },
-    {
-      "category": "Reds",
       "description": "Kelsi and Tejay Antone meet with Dr. Timothy Kremchek prior to surgery in April 2024. Courtesy of Beacon Orthopedics and Sports Medicine CHICAGO — Stuck in Orlando at a work conference, Kelsi Antone ...",
       "published": "2026-05-18T03:00:00+00:00",
       "title": "Inside a Reds reliever’s improbable return from 3 Tommy John surgeries",
@@ -30,20 +30,20 @@
     },
     {
       "category": "Reds",
-      "description": "Ke'Bryan Hayes is hitting .130/.193/.208 with a home run in 83 plate appearances so far this season. (AP Photo/Ben Jackson) CINCINNATI — If Cincinnati Reds’ leadoff man TJ Friedl thought about feeling ...",
-      "published": "2026-05-01T03:14:00+00:00",
-      "title": "Ke’Bryan Hayes’ offense may be unlucky, but he feels fortunate to be a Red",
-      "url": "https://www.nytimes.com/athletic/7244640/2026/05/01/kebryan-hayes-offense-reds-unlucky/"
-    },
-    {
-      "category": "Reds",
       "description": "When Joey Votto realized he was bad at diving for ground balls, he taught himself how to dive by lunging into a pool. Emilee Chinn / Cincinnati Reds / Getty Images Peak newsletter | A version of this ...",
       "published": "2026-05-15T03:00:00+00:00",
       "title": "One hit is better than three? Why Joey Votto was happier after going 1-for-3",
       "url": "https://www.nytimes.com/athletic/7279423/2026/05/15/one-hit-is-better-than-three-why-joey-votto-was-happier-after-going-1-for-3/"
+    },
+    {
+      "category": "Reds",
+      "description": "Ronald Acuña Jr. left Tuesday's game against the Reds in the bottom of the third inning. Carmen Mandato / Getty Images ATLANTA — The tension inside Truist Park in Tuesday night’s 4-0 Atlanta Braves ...",
+      "published": "2026-09-21T17:00:00+00:00",
+      "title": "Braves’ Ronald Acuña Jr. day to day after fouling ball off leg",
+      "url": "https://www.nytimes.com/athletic/7621831/2026/09/22/ronald-acuna-jr-braves-injury-foul-ball-leg/"
     }
   ],
-  "generated_at": "2026-10-12T02:19:45.171976+00:00",
+  "generated_at": "2026-10-12T09:30:33.178265+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/reds/"
 }

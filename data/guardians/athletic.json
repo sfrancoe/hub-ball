@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "Will the Rays’ lineup perk up? And does Cleveland have any pitchers left? Here's what you need to know ahead of the ALCS.",
+      "published": "2026-10-12T02:20:00+00:00",
+      "title": "Guardians-Rays ALCS preview: Cleveland and Tampa Bay, two frugal contenders, face off",
+      "url": "https://www.nytimes.com/athletic/7677899/2026/10/12/guardians-rays-mlb-playoffs-alcs-preview/"
+    },
+    {
+      "category": "Guardians",
       "description": "At a season-ticket holder event in late May, the fan checked in about her note. Hedges assured her he glanced at it every day. When the team was fighting an uphill climb toward .500 this summer, he ...",
       "published": "2026-10-11T06:16:00+00:00",
       "title": "The fan note and team playlist that guided the Cleveland Guardians to the ALCS",
@@ -23,17 +30,17 @@
     },
     {
       "category": "Guardians",
-      "description": "Cleveland now moves on to meet the Tampa Bay Rays in the American League Championship Series. Game 1 is set for Monday night.",
-      "published": "2026-10-10T20:43:00+00:00",
-      "title": "Guardians complete ALDS comeback, take Game 5 to end a magical White Sox season",
-      "url": "https://www.nytimes.com/athletic/7677867/2026/10/10/white-sox-guardians-game-5-score-results-takeaways-mlb-alds-2026/"
-    },
-    {
-      "category": "Guardians",
       "description": "The Dodgers are nearly even money ahead of the start of the NLCS while Cleveland is the longshot of the four teams left.",
       "published": "2026-10-11T14:17:00+00:00",
       "title": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
       "url": "https://www.nytimes.com/athletic/7678829/2026/10/11/world-series-odds-dodgers-brewers-rays-guardians-alcs-nlcs/"
+    },
+    {
+      "category": "Guardians",
+      "description": "Cleveland now moves on to meet the Tampa Bay Rays in the American League Championship Series. Game 1 is set for Monday night.",
+      "published": "2026-10-10T20:43:00+00:00",
+      "title": "Guardians complete ALDS comeback, take Game 5 to end a magical White Sox season",
+      "url": "https://www.nytimes.com/athletic/7677867/2026/10/10/white-sox-guardians-game-5-score-results-takeaways-mlb-alds-2026/"
     },
     {
       "category": "Guardians",
@@ -44,13 +51,6 @@
     },
     {
       "category": "Guardians",
-      "description": "Ramírez rushed back from hand surgery. Now his team needs him to be his presurgery self, but time is running out.",
-      "published": "2026-10-07T04:48:00+00:00",
-      "title": "Guardians need José Ramírez to shake off his playoff woes. His wrist might not cooperate",
-      "url": "https://www.nytimes.com/athletic/7666993/2026/10/07/cleveland-guardians-jose-ramirez-playoff-woes-injury-wrist/"
-    },
-    {
-      "category": "Guardians",
       "description": "Acquired in a trade from San Francisco in May, Cleveland’s catcher is known for his defensive prowess. In Game 4, he showed another side.",
       "published": "2026-10-09T04:49:00+00:00",
       "title": "Patrick Bailey came to Cleveland for his glove. In Game 4, his bat changed everything",
@@ -58,27 +58,20 @@
     },
     {
       "category": "Guardians",
-      "description": "Gavin Williams came out of the bullpen for the first time since he was in college to help his team win. More of that could be on the way.",
-      "published": "2026-10-09T04:49:00+00:00",
-      "title": "The Guardians ripped up their pitching plan to win Game 4. Game 5 may be even wilder",
-      "url": "https://www.nytimes.com/athletic/7670103/2026/10/09/guardians-white-sox-game-4-alds-mlb-playoffs-pitching-chaos/"
+      "description": "Ramírez rushed back from hand surgery. Now his team needs him to be his presurgery self, but time is running out.",
+      "published": "2026-10-07T04:48:00+00:00",
+      "title": "Guardians need José Ramírez to shake off his playoff woes. His wrist might not cooperate",
+      "url": "https://www.nytimes.com/athletic/7666993/2026/10/07/cleveland-guardians-jose-ramirez-playoff-woes-injury-wrist/"
     },
     {
       "category": "Guardians",
-      "description": "José Ramírez is hitless and the first-round bye doesn’t appear to have cured the lingering discomfort in his left wrist following midseason hamate bone surgery. Angel Martínez, his protégé and the ...",
-      "published": "2026-10-05T14:12:00+00:00",
+      "description": "Guards Ball works, until it doesn't. (Nick Cammett / Getty Images) CLEVELAND — Where were you when Jo Adell’s moonshot clanged off the blue Meijer ad plastered onto the 19-foot-wall at Progressive ...",
+      "published": "2026-10-04T17:00:00+00:00",
       "title": "The Guardians keep waiting for a spark. Their offense is running out of time",
       "url": "https://www.nytimes.com/athletic/7656638/2026/10/05/guardians-white-sox-alds-game-2/"
-    },
-    {
-      "category": "Guardians",
-      "description": "Cleveland’s third baseman Wednesday delivered an all-encompassing performance for the Guardians, who faced a do-or-die Game 3. Lifted by Ramírez, the Guardians routed the Chicago White Sox 9-3 at Rate ...",
-      "published": "2026-10-08T03:00:00+00:00",
-      "title": "What makes a ‘José Ramírez game’? Cleveland’s Game 3 was full of examples",
-      "url": "https://www.nytimes.com/athletic/7670304/2026/10/08/jose-ramirez-game-3-guardians-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-12T02:19:27.180888+00:00",
+  "generated_at": "2026-10-12T09:30:28.454043+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

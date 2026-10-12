@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "The Ravens swung a surprise trade Wednesday for Eagles center Cam Jurgens, padding their interior offensive line after injuries to Jovaughn Gwyn and Ethan Pocic. But what is Baltimore getting in the ...",
-      "published": "2026-10-08T13:26:00+00:00",
-      "title": "WATCH: Ravens trade for Cam Jurgens; Orioles lay off staffers | Early Birds Podcast",
-      "url": "https://www.baltimoresun.com/2026/10/08/watch-ravens-cam-jurgens-trade-orioles-layoffs-early-birds-podcast/"
-    },
-    {
-      "category": "Orioles",
       "description": "The Orioles’ bullpen survived the extended absences of Ryan Helsley and Félix Bautista in 2026 with a collection of largely unproven arms.",
       "published": "2026-10-08T03:29:00+00:00",
       "title": "Orioles position in review: Some new, some old faces starred in 2026 bullpen",
@@ -20,6 +13,13 @@
       "published": "2026-10-06T13:46:00+00:00",
       "title": "Orioles make business ops layoffs; Oriole Bird, Mr. Splash employee cut",
       "url": "https://www.baltimoresun.com/2026/10/06/orioles-make-layoffs-within-business-operations-ahead-of-expected-mlb-lockout/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Ravens swung a surprise trade Wednesday for Eagles center Cam Jurgens, padding their interior offensive line after injuries to Jovaughn Gwyn and Ethan Pocic. But what is Baltimore getting in the ...",
+      "published": "2026-10-08T13:26:00+00:00",
+      "title": "WATCH: Ravens trade for Cam Jurgens; Orioles lay off staffers | Early Birds Podcast",
+      "url": "https://www.baltimoresun.com/2026/10/08/watch-ravens-cam-jurgens-trade-orioles-layoffs-early-birds-podcast/"
     },
     {
       "category": "Orioles",
@@ -37,17 +37,17 @@
     },
     {
       "category": "Orioles",
+      "description": "While MLB playoffs are in full swing, the Orioles’ offseason is already well underway. Baltimore was in mathematical contention until the regular season’s final week, but the club never shook off its ...",
+      "published": "2026-10-06T03:30:00+00:00",
+      "title": "Orioles 2026-27 offseason guide: Free agents, roster needs, lockout dates",
+      "url": "https://www.baltimoresun.com/2026/10/06/orioles-2026-2027-offseason-guide-free-agents-roster-needs-lockout-dates/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles’ rotation turned in strong innings totals and had an unlikely MVP in Brandon Young, making the unit a bright spot in 2026.",
       "published": "2026-10-07T04:30:00+00:00",
       "title": "Orioles position in review: Rotation bounced back, but still room to grow",
       "url": "https://www.baltimoresun.com/2026/10/07/orioles-position-review-rotation-bounced-back-still-room-grow/"
-    },
-    {
-      "category": "Orioles",
-      "description": "On a recent podcast appearance, Albert Belle discussed the end to his MLB career and his relationship with Orioles fans.",
-      "published": "2026-10-08T15:16:00+00:00",
-      "title": "Albert Belle on end of career with Orioles: ‘Fans didn’t like me there’",
-      "url": "https://www.baltimoresun.com/2026/10/08/albert-belle-end-career-orioles-fans-did-not-like-me/"
     },
     {
       "category": "Orioles",
@@ -62,9 +62,16 @@
       "published": "2026-09-30T03:30:00+00:00",
       "title": "Orioles’ Elias on Trevor Rogers: ‘Interest is very high’ in long-term deal",
       "url": "https://www.baltimoresun.com/2026/09/30/orioles-trevor-rogers-mike-elias-interest-very-high-long-term-deal/"
+    },
+    {
+      "category": "Orioles",
+      "description": "On a recent podcast appearance, Albert Belle discussed the end to his MLB career and his relationship with Orioles fans.",
+      "published": "2026-10-08T15:16:00+00:00",
+      "title": "Albert Belle on end of career with Orioles: ‘Fans didn’t like me there’",
+      "url": "https://www.baltimoresun.com/2026/10/08/albert-belle-end-career-orioles-fans-did-not-like-me/"
     }
   ],
-  "generated_at": "2026-10-12T02:19:22.056199+00:00",
+  "generated_at": "2026-10-12T09:30:27.211655+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
