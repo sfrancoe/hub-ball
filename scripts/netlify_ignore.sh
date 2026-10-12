@@ -23,6 +23,13 @@ if ! git rev-parse --verify --quiet "${commit_ref}^{commit}" >/dev/null; then
   build "target commit is unavailable or invalid"
 fi
 
+# Netlify sets CACHED_COMMIT_REF to COMMIT_REF when a build runs without cache
+# (first build, cleared cache, or a renamed repository), so there is no deployed
+# commit to compare against.
+if [[ "$(git rev-parse "${cached_ref}^{commit}")" == "$(git rev-parse "${commit_ref}^{commit}")" ]]; then
+  build "no previously deployed commit to compare against"
+fi
+
 changed_paths=$(mktemp)
 trap 'rm -f "$changed_paths"' EXIT
 # Treat renames as a deletion plus an addition so both the old and new paths
