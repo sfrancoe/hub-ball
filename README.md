@@ -12,12 +12,12 @@ review items.
 
 ## Product map
 
-There are two app identities:
+Hub Ball is the only active app identity:
 
 | Name | Status | Bundle ID | Source |
 |---|---|---|---|
 | **Hub Ball** | Active; all new work goes here | `com.sfrancoe.HubBall` | `main` → `ios/Hub Ball/` |
-| **Boston Baseball Hub** | Legacy; maintenance only until retirement | `com.sfrancoe.Red-Sox-Records` | Preserved in Git history, not duplicated in the working tree |
+| **Boston Baseball Hub** | Retired Oct 12, 2026 (App Store Connect record removed) | `com.sfrancoe.Red-Sox-Records` | Git history only |
 
 The New York Yankees are a supported team inside Hub Ball, not a separate app.
 The former standalone Yankees iOS project has been retired. See

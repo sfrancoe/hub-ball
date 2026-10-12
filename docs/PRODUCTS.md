@@ -1,12 +1,12 @@
 # Product map and release policy
 
-This repository has exactly two app identities. Use these names consistently in
+Hub Ball is the only active app identity. Use the names below consistently in
 code, documentation, App Store Connect, TestFlight, release notes, and conversation.
 
 | Canonical name | Status | Bundle ID | Working source |
 |---|---|---|---|
 | **Hub Ball** | Active product | `com.sfrancoe.HubBall` | `main` → `ios/Hub Ball/` |
-| **Boston Baseball Hub** | Legacy; maintenance only until retirement | `com.sfrancoe.Red-Sox-Records` | Git history only |
+| **Boston Baseball Hub** | Retired (removed from App Store Connect, Oct 12, 2026) | `com.sfrancoe.Red-Sox-Records` | Git history only |
 
 ## Hub Ball
 
@@ -24,13 +24,17 @@ worktree.
 
 ## Boston Baseball Hub
 
-Boston Baseball Hub is the canonical name for the legacy Boston-only App Store
-identity associated with `com.sfrancoe.Red-Sox-Records`. It receives only critical
-fixes needed before retirement; new features belong in Hub Ball.
+Boston Baseball Hub was the original Boston-only app, bundle ID
+`com.sfrancoe.Red-Sox-Records`. It never shipped to the App Store and is fully
+retired: the App Store Connect record was removed on October 12, 2026, and it
+receives no further builds or fixes. Its multi-team successor is Hub Ball.
 
-The current branch does not keep a duplicate Xcode source tree for this legacy app.
-If a final maintenance release is required, recover the appropriate historical source
-in a temporary worktree and label it explicitly as Boston Baseball Hub.
+Its source exists only in Git history, starting at `d1dec8b2b Add native Red Sox
+Records iOS app`; the `codex/archive-pre-consolidation-20260908` branch preserves
+the pre-consolidation workspace.
+
+Apple does not allow the bundle ID `com.sfrancoe.Red-Sox-Records` to be reused or
+deleted, so leave its App ID in Certificates, Identifiers & Profiles as is.
 
 ## Retired standalone Yankees app
 
@@ -40,17 +44,10 @@ Ball.
 
 Complete these account-level steps manually in App Store Connect and Apple Developer:
 
-1. Rename the old Boston app record to **Boston Baseball Hub**, retaining its bundle ID.
+1. ~~Rename the old Boston app record to **Boston Baseball Hub**.~~ Done; the record
+   was later removed entirely (Oct 12, 2026).
 2. Confirm `com.sfrancoe.HubBall` is the only record named **Hub Ball**.
 3. Retire the standalone Yankees record and obsolete provisioning assets when Apple
    permits it; do not remove Yankees team support from Hub Ball.
 4. Expire obsolete beta builds and label remaining groups with canonical product names.
 
-## Retirement sequence for Boston Baseball Hub
-
-1. Stop feature development.
-2. Direct users and support material to Hub Ball.
-3. Publish only critical compatibility or migration fixes.
-4. After the migration window, remove it from sale and expire remaining beta builds.
-5. Retain history and records needed for audit or recovery, without a second active
-   source tree.
