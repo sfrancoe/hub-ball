@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Phillies",
-      "description": "A move to second with time to transition to the outfield would benefit Turner and the Phillies, who could then go shopping for a shortstop.",
-      "published": "2026-10-09T08:31:00+00:00",
-      "title": "The most imaginative changes the Phillies can make begin with moving Trea Turner off shortstop",
-      "url": "https://www.inquirer.com/phillies/trea-turner-position-change-shortstops-trades-jeremy-pena-20261009.html"
-    },
-    {
-      "category": "Phillies",
       "description": "NBC will once again broadcast the game, with John Kruk in the booth alongside play-by-play announcer Matt Vasgersian and fellow analyst C.J. Nitkowski. Joey Votto is back as the pitching analyst, ...",
       "published": "2026-10-01T21:30:00+00:00",
       "title": "Phillies season ends in Game 3 loss to the Braves; NBC analyst's terrible prediction; live updates",
@@ -20,13 +13,6 @@
       "published": "2026-09-30T02:01:00+00:00",
       "title": "Don’t blame Don Mattingly for the Phillies’ Game 1 collapse. Can the season be saved?",
       "url": "https://www.inquirer.com/phillies/wild-card-game-2-braves-preview-sanchez-pitching-matchup-20260930.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "It was the Phillies’ roster construction that led to their demise in their wild-card series, from the lack of starting depth, a competent bullpen, and reliable right-handed hitters.",
-      "published": "2026-10-01T21:16:00+00:00",
-      "title": "Phillies’ weaknesses on display in season-ending loss to Braves: ‘Just as frustrating as last year’",
-      "url": "https://www.inquirer.com/phillies/wild-card-game-3-score-braves-nola-wheeler-20261001.html"
     },
     {
       "category": "Phillies",
@@ -65,6 +51,13 @@
     },
     {
       "category": "Phillies",
+      "description": "It was the Phillies’ roster construction that led to their demise in their wild-card series, from the lack of starting depth, a competent bullpen, and reliable right-handed hitters.",
+      "published": "2026-10-01T21:16:00+00:00",
+      "title": "Phillies’ weaknesses on display in season-ending loss to Braves: ‘Just as frustrating as last year’",
+      "url": "https://www.inquirer.com/phillies/wild-card-game-3-score-braves-nola-wheeler-20261001.html"
+    },
+    {
+      "category": "Phillies",
       "description": "Barkann's fiery voice has been noticeably absent following two high-profile losses by the Eagles and Phillies.",
       "published": "2026-10-06T07:19:00+00:00",
       "title": "NBC Sports Philadelphia’s Michael Barkann recovering after emergency procedure",
@@ -83,9 +76,16 @@
       "published": "2026-10-06T07:01:00+00:00",
       "title": "‘Phillies Extra’ offseason preview with Scott Franzke: Moving Trea Turner off SS, trade candidates, and more",
       "url": "https://www.inquirer.com/phillies/offseason-preview-franzke-trea-turner-free-agency-trades-20261006.html"
+    },
+    {
+      "category": "Phillies",
+      "description": "So just how far back do Kruk and Queen Latifah go? Also, the broadcasters seemingly reverse-jinxed J.T. Realmuto ... and Austin Riley.",
+      "published": "2026-09-29T14:55:00+00:00",
+      "title": "At second base, Queen Latifah? John Kruk’s revelation, broadcast magic highlight Phillies-Braves broadcast",
+      "url": "https://www.inquirer.com/phillies/phillies-braves-wild-card-broadcast-nbc-john-kruk-queen-latifah-20260929.html"
     }
   ],
-  "generated_at": "2026-10-11T23:07:38.557652+00:00",
+  "generated_at": "2026-10-12T02:19:39.210355+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }

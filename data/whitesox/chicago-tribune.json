@@ -9,17 +9,17 @@
     },
     {
       "category": "White Sox",
-      "description": "The Chicago White Sox couldn’t find sustained success at the plate all night as their improbable season ended with a 2-0 loss to the Cleveland Guardians.",
-      "published": "2026-10-09T22:30:00+00:00",
-      "title": "Chicago White Sox season ends with a record 21 strikeouts in a 2-0 loss in ALDS Game 5",
-      "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-cleveland-guardians-alds-game-5/"
-    },
-    {
-      "category": "White Sox",
       "description": "A storybook Chicago White Sox season turned into a fractured fairy tale in an ALDS collapse. Now they will have to get better to make it back to the postseason next year.",
       "published": "2026-10-10T22:26:00+00:00",
       "title": "Column: Chicago White Sox vow to get back up after a painful knockout blow in the ALDS",
       "url": "https://www.chicagotribune.com/2026/10/11/chicago-white-sox-alds-painful-knockout/"
+    },
+    {
+      "category": "White Sox",
+      "description": "The Chicago White Sox couldn’t find sustained success at the plate all night as their improbable season ended with a 2-0 loss to the Cleveland Guardians.",
+      "published": "2026-10-09T22:30:00+00:00",
+      "title": "Chicago White Sox season ends with a record 21 strikeouts in a 2-0 loss in ALDS Game 5",
+      "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-cleveland-guardians-alds-game-5/"
     },
     {
       "category": "White Sox",
@@ -85,7 +85,7 @@
       "url": "https://www.chicagotribune.com/2026/10/05/chicago-white-sox-alds-cubs-fans/"
     }
   ],
-  "generated_at": "2026-10-11T23:07:17.634358+00:00",
+  "generated_at": "2026-10-12T02:19:26.404860+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

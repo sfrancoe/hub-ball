@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Cleveland is pleased to still be in the postseason hunt, and manager Stephen Vogt has appreciation for how Tampa Bay’s staff helped him.",
+      "published": "2026-10-12T01:13:08+00:00",
+      "title": "Guardians have plenty of reasons to be happy about facing Rays in ALDS",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/11/cleveland-guardians-alcs-parker-messick-foster-griffin/"
+    },
+    {
+      "category": "Rays",
       "description": "First signed by Cleveland, the third baseman was traded after one pro season to Tampa Bay.",
       "published": "2026-10-11T22:31:47+00:00",
       "title": "Rays’ Junior Caminero gets peek at past, future in ALCS vs. Guardians",
@@ -104,16 +111,9 @@
       "published": "2026-10-06T21:35:28+00:00",
       "title": "With 2-0 ALDS lead, Rays are ready to celebrate again at Yankee Stadium",
       "url": "https://www.tampabay.com/sports/rays/2026/10/06/alds-yankees-nick-martinez-kevin-cash-aaron-boone-taylor-walls-bryan-baker/"
-    },
-    {
-      "category": "Rays",
-      "description": "A four-run rally in the fifth inning includes three hits, three softly hit balls and the usual hustle and havoc on the bases.",
-      "published": "2026-10-06T03:25:48+00:00",
-      "title": "Rays do what they do well, lead Yankees 2-0 in AL Division Series",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/05/richie-palacios-yankees-alds-game-2-freddy-peralta-cam-schlittler-ben-rice/"
     }
   ],
-  "generated_at": "2026-10-11T23:07:14.233738+00:00",
+  "generated_at": "2026-10-12T02:19:20.114789+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
