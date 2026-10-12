@@ -2,7 +2,7 @@ import { gameNarratives } from '../lib/game-narrative.mjs';
 import { MLB_TEAMS } from './team-registry.mjs';
 
 const MLB_ORIGIN = 'https://statsapi.mlb.com';
-const RAW_DATA_ROOT = 'https://raw.githubusercontent.com/sfrancoe/red-sox/main/data';
+const RAW_DATA_ROOT = 'https://raw.githubusercontent.com/sfrancoe/hub-ball/main/data';
 const FALLBACK_USER_AGENT = 'HubBall/1.0 (+https://api.autumnlane.io)';
 const LIVE_GAME_CACHE_CONTROL = 'public, max-age=5, stale-while-revalidate=15';
 const FINAL_GAME_CACHE_CONTROL = 'public, max-age=300, stale-while-revalidate=60';

@@ -136,7 +136,7 @@ globalThis.fetch = async url => {
     return new Response('{"error":"unavailable"}', { status: 502 });
   }
   assert.equal(String(url),
-    'https://raw.githubusercontent.com/sfrancoe/red-sox/main/data/redsox/standings.json');
+    'https://raw.githubusercontent.com/sfrancoe/hub-ball/main/data/redsox/standings.json');
   return new Response(JSON.stringify({
     generated_at: '2026-09-10T00:15:03Z', source: 'MLB Stats API', season: 2026,
     league: 'American League', divisions: [{ id: 201, name: 'AL East', teams: [] }],

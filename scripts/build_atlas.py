@@ -25,7 +25,7 @@ from pathlib import Path, PurePosixPath
 ROOT = Path(__file__).resolve().parents[1]
 TEMPLATE = ROOT / "docs" / "atlas" / "template.html"
 OUTPUT = ROOT / "docs" / "atlas" / "hub-ball-atlas.html"
-GITHUB_BLOB = "https://github.com/sfrancoe/red-sox/blob/main/"
+GITHUB_BLOB = "https://github.com/sfrancoe/hub-ball/blob/main/"
 IOS = "ios/Hub Ball/Hub Ball/"
 BINARY = {".png", ".jpg", ".jpeg", ".ttf", ".woff2", ".otf", ".ico", ".pdf"}
 # JSON that is configuration rather than data counts as code lines.
