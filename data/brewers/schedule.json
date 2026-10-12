@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T19:11:49.794712+00:00",
+  "generated_at": "2026-10-12T00:00:00.038652+00:00",
   "source": "MLB Stats API",
   "team": "Brewers",
   "regular_season_end": "2026-09-27",
@@ -7,7 +7,7 @@
     {
       "game_pk": 849809,
       "game_date": "2026-10-12T00:00:00Z",
-      "status": "Scheduled",
+      "status": "Warmup",
       "venue": "American Family Field",
       "location": "home",
       "opponent": "Dodgers",
