@@ -1,23 +1,23 @@
 {
-  "schemaVersion": 1,
   "enabled": true,
-  "revision": "scott-preview-cleveland-october11",
-  "publishedAt": "2026-10-11T16:26:44Z",
-  "notBefore": "2026-10-11T00:00:00Z",
-  "expiresAt": "2026-10-13T00:00:00Z",
-  "minimumBuild": 127,
   "entry": {
-    "fallback": "Cleveland struck out 21 White Sox batters in 27 outs to win ALDS Game 5, 2\u20130, on October 10, 2026.",
-    "id": "almost-every-out-a-k",
-    "minimumRendererVersion": 4,
-    "publishedAt": "2026-10-11T15:39:47Z",
-    "renderer": "inning-out-grid",
+    "fallback": "Griffin returned from Japan and pitched 172⅔ MLB innings in 2026. Before this year, his entire major-league career added up to eight.",
+    "id": "griffin-eight-innings-alcs",
+    "minimumRendererVersion": 5,
+    "publishedAt": "2026-10-12T15:02:15Z",
+    "renderer": "chart-trajectory",
     "rendererVersion": 1,
-    "revision": "ffb089a9e3df951d8fb35d53eb3289989780b8bd2d5489be2eda43bd1a29a30b",
-    "summary": "All 27 outs. Twenty-one strikeouts. Cleveland advances with a 2\u20130 Game 5 win.",
+    "revision": "3b898e555f41a1c36c9113f171c2d034d83639fe43ebeec52a04735347ae7174",
+    "summary": "Eight MLB innings before this season. Three years in Japan. Now, Cleveland’s Game 1 starter.",
     "teamIDs": [
       114
     ],
-    "title": "Almost every out a K"
-  }
+    "title": "Eight innings. Then an ALCS start."
+  },
+  "expiresAt": "2026-10-13T00:00:00Z",
+  "minimumBuild": 129,
+  "notBefore": "2026-10-12T00:00:00Z",
+  "publishedAt": "2026-10-12T21:20:57Z",
+  "revision": "griffin-october12-family",
+  "schemaVersion": 1
 }

@@ -1,8 +1,22 @@
 {
-  "publishedAt": "2026-10-09T01:06:47Z",
-  "revision": "release-ea2f71ab31254d1c96a6dc4b82eb447c",
+  "publishedAt": "2026-10-12T21:20:57Z",
+  "revision": "release-griffin-family-october12",
   "schemaVersion": 1,
   "stories": [
+    {
+      "fallback": "Griffin returned from Japan and pitched 172⅔ MLB innings in 2026. Before this year, his entire major-league career added up to eight.",
+      "id": "griffin-eight-innings-alcs",
+      "minimumRendererVersion": 5,
+      "publishedAt": "2026-10-12T15:02:15Z",
+      "renderer": "chart-trajectory",
+      "rendererVersion": 1,
+      "revision": "3b898e555f41a1c36c9113f171c2d034d83639fe43ebeec52a04735347ae7174",
+      "summary": "Eight MLB innings before this season. Three years in Japan. Now, Cleveland’s Game 1 starter.",
+      "teamIDs": [
+        114
+      ],
+      "title": "Eight innings. Then an ALCS start."
+    },
     {
       "fallback": "On June 23, Chicago had matched a whole season of wins. Win 42 came on June 26. By August 9, Chicago had passed 2025’s 60 wins, too. The 2026 finish: 84–78—43 more wins than two years earlier.",
       "id": "whole-season-by-june",

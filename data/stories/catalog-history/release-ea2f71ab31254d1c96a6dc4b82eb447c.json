@@ -1,0 +1,36 @@
+{
+  "publishedAt": "2026-10-09T01:06:47Z",
+  "revision": "release-ea2f71ab31254d1c96a6dc4b82eb447c",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "fallback": "On June 23, Chicago had matched a whole season of wins. Win 42 came on June 26. By August 9, Chicago had passed 2025’s 60 wins, too. The 2026 finish: 84–78—43 more wins than two years earlier.",
+      "id": "whole-season-by-june",
+      "minimumRendererVersion": 3,
+      "publishedAt": "2026-10-09T01:06:47Z",
+      "renderer": "chart-trajectory",
+      "rendererVersion": 1,
+      "revision": "6324811453827288472a78036847e5165dcdbf47cfd98b0b66d73c0c42eef2d1",
+      "summary": "Three seasons. First 2024, then 2025, then 2026. Watch Chicago match a whole season of wins before halfway through the year.",
+      "teamIDs": [
+        145
+      ],
+      "title": "A Whole Season of Wins. By June."
+    },
+    {
+      "fallback": "Ball A was caught. Ball B cleared the right-field wall. The shorter swing put a run on the board. Where a ball goes matters as much as how far it goes.",
+      "id": "this-stadium",
+      "minimumRendererVersion": 1,
+      "publishedAt": "2026-10-08T11:24:00Z",
+      "renderer": "guess-reveal",
+      "rendererVersion": 1,
+      "revision": "d202194b0b1475f12378c55486ef3c9a85da3665090a90677e3ca57f22efa2a2",
+      "summary": "Two Vilade swings: 356 feet and 340 feet. Guess which one left the yard, then take it around all 30 parks.",
+      "teamIDs": [
+        139,
+        147
+      ],
+      "title": "The home run that needed this stadium"
+    }
+  ]
+}

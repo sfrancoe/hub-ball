@@ -1,0 +1,120 @@
+{
+  "chart": {
+    "durationSeconds": 10,
+    "emphasis": [],
+    "kind": "bar",
+    "series": [
+      {
+        "color": "gold",
+        "id": "mlb-innings",
+        "label": "MLB regular-season innings",
+        "points": [
+          {
+            "x": 2020,
+            "y": 1.6666666666666667
+          },
+          {
+            "x": 2021,
+            "y": 0.0
+          },
+          {
+            "x": 2022,
+            "y": 6.333333333333333
+          },
+          {
+            "x": 2023,
+            "y": 0.0
+          },
+          {
+            "x": 2024,
+            "y": 0.0
+          },
+          {
+            "x": 2025,
+            "y": 0.0
+          },
+          {
+            "x": 2026,
+            "y": 172.66666666666666
+          }
+        ]
+      }
+    ],
+    "xAxis": {
+      "label": "SEASON",
+      "maximum": 2026,
+      "minimum": 2020,
+      "ticks": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "yAxis": {
+      "label": "MLB regular-season innings",
+      "maximum": 180,
+      "minimum": 0,
+      "ticks": [
+        0,
+        30,
+        60,
+        90,
+        120,
+        150,
+        180
+      ]
+    }
+  },
+  "conclusion": "8 MLB innings before 2026.\n172⅔ this year. An ALCS start next.",
+  "id": "griffin-eight-innings-alcs",
+  "intro": "Griffin returned from Japan and pitched 172⅔ MLB innings in 2026. Before this year, his entire major-league career added up to eight.",
+  "kicker": "FOSTER GRIFFIN · A VERY DIFFERENT CHAPTER",
+  "methodology": [
+    "Completed games through October 11, 2026 (MLB official game dates). Annual bars include only MLB regular-season innings, excluding postseason and Japan. Griffin pitched in Japan in 2023–25. The 2026 total covers 31 starts. “An ALCS start next” refers to his announced October 12 Game 1 assignment, not a completed result. Baseball .1/.2 notation is converted to one-third/two-thirds: 518 outs = 172⅔ innings, not 172.2 decimal innings.",
+    "Japan interval shading distinguishes no MLB innings from inactivity. No Japan innings are plotted. The chart retains the exact verified annual MLB totals, counting combined-season records once."
+  ],
+  "presentation": {
+    "headline": "Foster Griffin is scheduled to start tonight for Cleveland.",
+    "hookExpiresAt": "2026-10-13T00:00:00Z",
+    "intervals": [
+      {
+        "end": 2025.5,
+        "label": "JAPAN · 2023–25",
+        "start": 2022.5
+      }
+    ],
+    "numberFormat": "innings",
+    "openingSeconds": 1,
+    "style": "screening-room",
+    "subheadline": "In his entire Major League career he had pitched just eight innings up until this year. In 2026 he pitched 172⅔.",
+    "sweepSeconds": 7
+  },
+  "renderer": "chart-trajectory",
+  "rendererVersion": 1,
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "mlb-year-by-year",
+      "retrievedAt": "2026-10-12T15:02:15Z",
+      "title": "MLB official year-by-year pitching data",
+      "url": "https://statsapi.mlb.com/api/v1/people/656492/stats?stats=yearByYear&group=pitching&sportIds=1&gameType=R"
+    },
+    {
+      "id": "mlb-game1-assignment",
+      "retrievedAt": "2026-10-12T15:02:15Z",
+      "title": "MLB: Griffin named ALCS Game 1 starter; Japan 2023–25",
+      "url": "https://www.mlb.com/guardians/news/foster-griffin-guardians-alcs-game-1-start"
+    },
+    {
+      "id": "mlb-schedule",
+      "retrievedAt": "2026-10-12T15:02:15Z",
+      "title": "MLB official scheduled start and probable pitcher",
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=2026-10-12&hydrate=probablePitcher"
+    }
+  ],
+  "title": "Eight innings. Then an ALCS start."
+}
