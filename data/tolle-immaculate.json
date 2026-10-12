@@ -1,0 +1,79 @@
+{
+ "game_pk": 824708,
+ "date": "2026-09-13",
+ "venue": "Fenway Park",
+ "pitcher": "Payton Tolle",
+ "opponent": "Kansas City Royals",
+ "final_score": "Boston 4, Kansas City 1",
+ "batters": [
+  "Nick Loftin",
+  "Bobby Witt Jr.",
+  "Jac Caglianone"
+ ],
+ "pitches": [
+  {
+   "number": 1,
+   "batter": "Nick Loftin",
+   "description": "Swinging Strike",
+   "pitch_type": "Four-Seam Fastball",
+   "speed": 95.9
+  },
+  {
+   "number": 2,
+   "batter": "Nick Loftin",
+   "description": "Swinging Strike",
+   "pitch_type": "Four-Seam Fastball",
+   "speed": 96.6
+  },
+  {
+   "number": 3,
+   "batter": "Nick Loftin",
+   "description": "Called Strike",
+   "pitch_type": "Four-Seam Fastball",
+   "speed": 97.2
+  },
+  {
+   "number": 4,
+   "batter": "Bobby Witt Jr.",
+   "description": "Swinging Strike",
+   "pitch_type": "Four-Seam Fastball",
+   "speed": 97.8
+  },
+  {
+   "number": 5,
+   "batter": "Bobby Witt Jr.",
+   "description": "Swinging Strike",
+   "pitch_type": "Four-Seam Fastball",
+   "speed": 97.1
+  },
+  {
+   "number": 6,
+   "batter": "Bobby Witt Jr.",
+   "description": "Swinging Strike",
+   "pitch_type": "Four-Seam Fastball",
+   "speed": 97.0
+  },
+  {
+   "number": 7,
+   "batter": "Jac Caglianone",
+   "description": "Foul",
+   "pitch_type": "Sinker",
+   "speed": 97.2
+  },
+  {
+   "number": 8,
+   "batter": "Jac Caglianone",
+   "description": "Swinging Strike",
+   "pitch_type": "Four-Seam Fastball",
+   "speed": 97.6
+  },
+  {
+   "number": 9,
+   "batter": "Jac Caglianone",
+   "description": "Swinging Strike",
+   "pitch_type": "Four-Seam Fastball",
+   "speed": 97.9
+  }
+ ],
+ "source": "MLB Stats API live game feed"
+}
