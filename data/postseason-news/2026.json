@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-11T23:13:43.601969+00:00",
+  "generatedAt": "2026-10-12T02:29:07.182155+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 7,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Guardians have plenty of reasons to be happy about facing Rays in ALDS",
+      "description": "Cleveland is pleased to still be in the postseason hunt, and manager Stephen Vogt has appreciation for how Tampa Bay’s staff helped him.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/11/cleveland-guardians-alcs-parker-messick-foster-griffin/",
+      "published": "2026-10-12T01:13:08.069000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox’ Caleb Durbin has surgery to repair injured pinkie finger",
+      "description": "Boston's third baseman injured the pinkie on his left hand twice during the season, and both times elected to play through pain",
+      "url": "https://www.bostonglobe.com/2026/10/11/sports/caleb-durbin-red-sox-pinkie-surgery/",
+      "published": "2026-10-12T00:02:43.821000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Rays’ Junior Caminero gets peek at past, future in ALCS vs. Guardians",
       "description": "First signed by Cleveland, the third baseman was traded after one pro season to Tampa Bay.",
@@ -33,6 +57,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "'The Boss' resonates with the Brewers' on-field boss, Pat Murphy",
+      "description": "The four words tattooed on Pat Murphy's left forearm describe well the Milwaukee Brewers manager's mantra on the baseball field. They're also lyrics from the song \"No Surrender\" on Bruce Springsteen's ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/11/the-boss-resonates-with-the-brewers-on-field-boss-pat-murphy/92101766007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Nickel: Brewers ‘youngest’ veteran, Jackson Chourio, is calm and cool before Game 1",
+      "description": "Last year, the Brewers were swept by the Dodgers, but Chourio had some success at the plate. He had a leadoff home run against the otherwise un-hittable Yoshinobu Yamamoto in Game 2, on Oct. 14, 2025.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/11/nickel-brewers-youngest-veteran-jackson-chourio-is-calm-and-cool-before-game-1/92208803007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Red Sox’ Caleb Durbin undergoes surgery",
       "description": "Red Sox third baseman Caleb Durbin underwent surgery to repair his injured left pinkie finger.",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-injury.html",
@@ -45,23 +93,23 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Brewers faithful pack parking lots before NLCS opener",
+      "description": "Hours before first pitch, Brewers fans packed tailgates and celebrated the start of the NLCS.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/11/brewers-fans-tailgate-before-nlcs-game-1-in-milwaukee/92167212007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Red Sox’ Caleb Durbin undergoes surgery after playing through pinky injury",
       "description": "Caleb Durbin, who went into his first Red Sox season wanting to be a ‘Dirt Dog’ like his hero, Dustin Pedroia, finally underwent surgery on the injured pinky he played through for over three months",
       "url": "https://www.bostonherald.com/2026/10/11/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-pinky-injury-mlb-news/",
       "published": "2026-10-11T16:02:29+00:00",
       "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox’ Caleb Durbin has surgery to repair injured pinkie finger",
-      "description": "Boston's third baseman injured the pinkie on his left hand twice during the season, and both times elected to play through pain",
-      "url": "https://www.bostonglobe.com/2026/10/11/sports/caleb-durbin-red-sox-pinkie-surgery/",
-      "published": "2026-10-11T16:02:22.153000+00:00",
-      "source": "The Boston Globe",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
@@ -126,42 +174,6 @@
       "teamName": "Milwaukee Brewers",
       "teamAbbreviation": "MIL",
       "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Dodgers vs. Brewers live updates: MLB playoffs NLCS Game 1 start time, predictions and latest",
-      "description": "Follow our live coverage of Game 1 of the National League Championship Series between Los Angeles and Milwaukee.",
-      "url": "https://www.nytimes.com/athletic/live-blogs/dodgers-vs-brewers-live-updates-mlb-playoffs-game-1-score-result/gH9BqhlrWf8e/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Braves offseason outlook: 4 key questions Alex Anthopoulos must answer",
-      "description": "Let's explore the roster questions and offseason decisions facing Atlanta after Alex Anthopoulos' end-of-year news conference.",
-      "url": "https://www.nytimes.com/athletic/7681396/2026/10/11/braves-offseason-free-agency-roster/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "These are the Yankees’ biggest offseason questions",
-      "description": "The Yankees enter this offseason with no shortage of roster questions, including what to do...",
-      "url": "https://www.nydailynews.com/2026/10/10/yankees-biggest-questions-offseason-jazz-chisholm-trent-grisham-giancarlo-stanton/",
-      "published": "",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
       "publishedSource": "unverified"
     }
   ]
