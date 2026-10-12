@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-30T18:10:18.494953+00:00",
+  "generated_at": "2026-10-12T21:26:25.608277+00:00",
   "season": 2026,
   "team": "Tampa Bay Rays",
   "games_played": 162,
   "season_fraction": 1.0,
-  "method": "Actual FanGraphs pitching WAR is compared with preseason Steamer WAR prorated to New York's games played.",
+  "method": "Actual FanGraphs pitching WAR is compared with preseason Steamer WAR prorated to Tampa Bay's games played.",
   "sources": {
     "actual": "FanGraphs Major League Leaderboards",
     "forecast": "FanGraphs Steamer preseason projections",
@@ -34,7 +34,7 @@
         "ip_value": 172.0,
         "war": 4.97,
         "era": 2.67,
-        "fip": 2.82,
+        "fip": 2.81,
         "k_minus_bb_pct": 21.2
       },
       "forecast": {
@@ -162,7 +162,7 @@
         "ip_value": 132.667,
         "war": 1.55,
         "era": 4.21,
-        "fip": 4.1,
+        "fip": 4.09,
         "k_minus_bb_pct": 22.1
       },
       "forecast": {
@@ -224,7 +224,7 @@
       "actual": {
         "ip": "62.1",
         "ip_value": 62.333,
-        "war": 1.32,
+        "war": 1.33,
         "era": 1.44,
         "fip": 3.07,
         "k_minus_bb_pct": 16.8
@@ -354,7 +354,7 @@
         "ip_value": 19.0,
         "war": 0.55,
         "era": 5.21,
-        "fip": 3.0,
+        "fip": 2.99,
         "k_minus_bb_pct": 14.8
       },
       "forecast": {
@@ -657,7 +657,7 @@
         "ip": 137.6,
         "war": 2.0
       },
-      "war_gap": -2.03,
+      "war_gap": -2.04,
       "innings_share_pct": 5.6
     },
     {
@@ -825,7 +825,7 @@
       "actual": {
         "ip": "1.2",
         "ip_value": 1.667,
-        "war": -0.1,
+        "war": -0.11,
         "era": 27.0,
         "fip": 16.9,
         "k_minus_bb_pct": -9.1
@@ -921,7 +921,7 @@
       "actual": {
         "ip": "11.1",
         "ip_value": 11.333,
-        "war": -0.3,
+        "war": -0.31,
         "era": 3.97,
         "fip": 8.04,
         "k_minus_bb_pct": 5.6
@@ -953,7 +953,7 @@
       "actual": {
         "ip": "0.1",
         "ip_value": 0.333,
-        "war": -0.34,
+        "war": -0.35,
         "era": 81.0,
         "fip": 60.1,
         "k_minus_bb_pct": -50.0
@@ -970,7 +970,7 @@
         "ip": 1.0,
         "war": -0.0
       },
-      "war_gap": -0.34,
+      "war_gap": -0.35,
       "innings_share_pct": 0.0
     },
     {

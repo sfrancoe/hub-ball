@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:21.822362+00:00",
+  "generated_at": "2026-10-12T21:27:45.554456+00:00",
   "season": 2026,
   "team": "Houston Astros",
   "games_played": 162,
@@ -758,7 +758,7 @@
         "era": 4.37,
         "fip": 4.41,
         "k_minus_bb_pct": 10.4,
-        "team_at_fetch": "HOU"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 43.2,
@@ -907,7 +907,7 @@
       "actual": {
         "ip": "4.0",
         "ip_value": 4.0,
-        "war": -0.3,
+        "war": -0.31,
         "era": 15.75,
         "fip": 14.35,
         "k_minus_bb_pct": 0.0
@@ -924,7 +924,7 @@
         "ip": 54.0,
         "war": -0.11
       },
-      "war_gap": -0.19,
+      "war_gap": -0.2,
       "innings_share_pct": 0.3
     },
     {
@@ -941,7 +941,7 @@
         "ip_value": 94.667,
         "war": -0.38,
         "era": 5.99,
-        "fip": 5.64,
+        "fip": 5.63,
         "k_minus_bb_pct": 9.5
       },
       "forecast": {
@@ -1052,7 +1052,7 @@
         "ip": 24.0,
         "war": 0.12
       },
-      "war_gap": -0.59,
+      "war_gap": -0.6,
       "innings_share_pct": 0.6
     },
     {

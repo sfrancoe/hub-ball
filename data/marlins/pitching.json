@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:23.429474+00:00",
+  "generated_at": "2026-10-12T21:28:45.561081+00:00",
   "season": 2026,
   "team": "Miami Marlins",
   "games_played": 162,
@@ -130,7 +130,7 @@
         "ip_value": 123.667,
         "war": 1.99,
         "era": 4.22,
-        "fip": 4.14,
+        "fip": 4.13,
         "k_minus_bb_pct": 10.7
       },
       "forecast": {
@@ -209,7 +209,7 @@
         "ip": 64.0,
         "war": 0.23
       },
-      "war_gap": 0.93,
+      "war_gap": 0.94,
       "innings_share_pct": 4.8
     },
     {
@@ -322,7 +322,7 @@
         "ip_value": 28.667,
         "war": 0.26,
         "era": 3.77,
-        "fip": 3.21,
+        "fip": 3.2,
         "k_minus_bb_pct": 11.5
       },
       "forecast": {
@@ -480,7 +480,7 @@
       "actual": {
         "ip": "30.2",
         "ip_value": 30.667,
-        "war": 0.05,
+        "war": 0.06,
         "era": 7.63,
         "fip": 4.96,
         "k_minus_bb_pct": 11.6
@@ -514,7 +514,7 @@
         "ip_value": 30.667,
         "war": 0.03,
         "era": 3.23,
-        "fip": 4.54,
+        "fip": 4.53,
         "k_minus_bb_pct": 3.0
       },
       "forecast": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:47:43.351181+00:00",
+  "generated_at": "2026-10-12T21:29:35.610207+00:00",
   "season": 2026,
   "team": "Milwaukee Brewers",
   "games_played": 162,
@@ -162,7 +162,7 @@
         "ip_value": 115.667,
         "war": 1.65,
         "era": 4.2,
-        "fip": 4.03,
+        "fip": 4.02,
         "k_minus_bb_pct": 20.8
       },
       "forecast": {
@@ -608,7 +608,7 @@
       "actual": {
         "ip": "5.0",
         "ip_value": 5.0,
-        "war": 0.09,
+        "war": 0.08,
         "era": 3.6,
         "fip": 3.3,
         "k_minus_bb_pct": 0.0
@@ -985,7 +985,7 @@
       "actual": {
         "ip": "7.0",
         "ip_value": 7.0,
-        "war": -0.13,
+        "war": -0.12,
         "era": 9.0,
         "fip": 6.39,
         "k_minus_bb_pct": 0.0

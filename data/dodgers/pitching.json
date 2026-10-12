@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:26.109647+00:00",
+  "generated_at": "2026-10-12T21:30:25.701138+00:00",
   "season": 2026,
   "team": "Los Angeles Dodgers",
   "games_played": 162,
@@ -98,7 +98,7 @@
         "ip_value": 63.667,
         "war": 2.43,
         "era": 2.69,
-        "fip": 2.1,
+        "fip": 2.09,
         "k_minus_bb_pct": 26.7
       },
       "forecast": {
@@ -113,7 +113,7 @@
         "ip": 63.0,
         "war": 0.7
       },
-      "war_gap": 1.72,
+      "war_gap": 1.73,
       "innings_share_pct": 4.4
     },
     {
@@ -130,7 +130,7 @@
         "ip_value": 74.0,
         "war": 2.35,
         "era": 3.53,
-        "fip": 2.74,
+        "fip": 2.73,
         "k_minus_bb_pct": 25.3
       },
       "forecast": {
@@ -258,7 +258,7 @@
         "ip_value": 112.333,
         "war": 1.62,
         "era": 4.57,
-        "fip": 4.28,
+        "fip": 4.27,
         "k_minus_bb_pct": 21.0
       },
       "forecast": {
@@ -795,7 +795,7 @@
         "ip_value": 7.333,
         "war": -0.06,
         "era": 3.68,
-        "fip": 5.56,
+        "fip": 5.55,
         "k_minus_bb_pct": 12.1
       },
       "forecast": {
@@ -827,7 +827,7 @@
         "ip_value": 25.333,
         "war": -0.07,
         "era": 5.68,
-        "fip": 4.96,
+        "fip": 4.95,
         "k_minus_bb_pct": 8.3
       },
       "forecast": {

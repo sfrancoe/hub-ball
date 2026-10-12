@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:20.378326+00:00",
+  "generated_at": "2026-10-12T21:27:05.598203+00:00",
   "season": 2026,
   "team": "Cleveland Guardians",
   "games_played": 162,
@@ -96,7 +96,7 @@
       "actual": {
         "ip": "74.0",
         "ip_value": 74.0,
-        "war": 2.58,
+        "war": 2.59,
         "era": 1.95,
         "fip": 2.18,
         "k_minus_bb_pct": 28.5
@@ -113,7 +113,7 @@
         "ip": 70.0,
         "war": 1.05
       },
-      "war_gap": 1.52,
+      "war_gap": 1.53,
       "innings_share_pct": 5.1
     },
     {
@@ -416,7 +416,7 @@
       "actual": {
         "ip": "19.2",
         "ip_value": 19.667,
-        "war": 0.07,
+        "war": 0.08,
         "era": 4.58,
         "fip": 3.81,
         "k_minus_bb_pct": 25.9

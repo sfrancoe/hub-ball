@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:23.972792+00:00",
+  "generated_at": "2026-10-12T21:29:05.633997+00:00",
   "season": 2026,
   "team": "Washington Nationals",
   "games_played": 162,
@@ -448,7 +448,7 @@
       "actual": {
         "ip": "11.0",
         "ip_value": 11.0,
-        "war": 0.1,
+        "war": 0.11,
         "era": 2.45,
         "fip": 3.83,
         "k_minus_bb_pct": 11.1
@@ -482,7 +482,7 @@
         "ip_value": 11.0,
         "war": 0.1,
         "era": 2.45,
-        "fip": 3.56,
+        "fip": 3.55,
         "k_minus_bb_pct": 8.7
       },
       "forecast": {
@@ -845,7 +845,7 @@
         "ip_value": 36.667,
         "war": -0.11,
         "era": 2.7,
-        "fip": 4.96,
+        "fip": 4.95,
         "k_minus_bb_pct": 2.6
       },
       "forecast": {
@@ -886,7 +886,7 @@
         "era": 3.94,
         "fip": 4.0,
         "k_minus_bb_pct": 12.0,
-        "team_at_fetch": "WSN"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 58.0,
@@ -1020,7 +1020,7 @@
         "ip": 52.0,
         "war": -0.02
       },
-      "war_gap": -0.21,
+      "war_gap": -0.22,
       "innings_share_pct": 0.6
     },
     {
@@ -1101,7 +1101,7 @@
         "ip_value": 13.667,
         "war": -0.31,
         "era": 7.9,
-        "fip": 6.91,
+        "fip": 6.9,
         "k_minus_bb_pct": 11.4
       },
       "forecast": {
@@ -1174,7 +1174,7 @@
         "era": 4.32,
         "fip": 4.5,
         "k_minus_bb_pct": 11.6,
-        "team_at_fetch": "WSN"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 1.0,
@@ -1261,7 +1261,7 @@
         "ip_value": 27.667,
         "war": -0.46,
         "era": 4.23,
-        "fip": 5.78,
+        "fip": 5.77,
         "k_minus_bb_pct": 3.6
       },
       "forecast": {
@@ -1308,7 +1308,7 @@
         "ip": 151.7,
         "war": 1.48
       },
-      "war_gap": -1.99,
+      "war_gap": -2.0,
       "innings_share_pct": 7.8
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:22.304436+00:00",
+  "generated_at": "2026-10-12T21:28:05.881778+00:00",
   "season": 2026,
   "team": "Athletics",
   "games_played": 162,
@@ -113,7 +113,7 @@
         "ip": 78.1,
         "war": 0.45
       },
-      "war_gap": 0.48,
+      "war_gap": 0.49,
       "innings_share_pct": 5.1
     },
     {
@@ -145,7 +145,7 @@
         "ip": 124.0,
         "war": 1.46
       },
-      "war_gap": -0.65,
+      "war_gap": -0.64,
       "innings_share_pct": 8.6
     },
     {
@@ -160,7 +160,7 @@
       "actual": {
         "ip": "121.0",
         "ip_value": 121.0,
-        "war": 0.76,
+        "war": 0.77,
         "era": 6.1,
         "fip": 4.77,
         "k_minus_bb_pct": 16.5
@@ -226,7 +226,7 @@
         "ip_value": 43.0,
         "war": 0.66,
         "era": 6.07,
-        "fip": 3.64,
+        "fip": 3.63,
         "k_minus_bb_pct": 10.5
       },
       "forecast": {
@@ -256,7 +256,7 @@
       "actual": {
         "ip": "33.2",
         "ip_value": 33.667,
-        "war": 0.63,
+        "war": 0.64,
         "era": 4.28,
         "fip": 2.95,
         "k_minus_bb_pct": 18.8
@@ -273,7 +273,7 @@
         "ip": 64.0,
         "war": 0.51
       },
-      "war_gap": 0.12,
+      "war_gap": 0.13,
       "innings_share_pct": 2.4
     },
     {
@@ -322,7 +322,7 @@
         "ip_value": 35.333,
         "war": 0.4,
         "era": 3.31,
-        "fip": 3.53,
+        "fip": 3.52,
         "k_minus_bb_pct": 15.2
       },
       "forecast": {
@@ -546,7 +546,7 @@
         "ip_value": 2.667,
         "war": 0.08,
         "era": 0.0,
-        "fip": 2.73,
+        "fip": 2.72,
         "k_minus_bb_pct": 9.1
       },
       "forecast": {
@@ -1051,7 +1051,7 @@
         "ip_value": 16.0,
         "war": -0.62,
         "era": 13.5,
-        "fip": 9.98,
+        "fip": 9.97,
         "k_minus_bb_pct": -1.1
       },
       "forecast": {

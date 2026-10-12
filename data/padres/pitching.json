@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:26.355882+00:00",
+  "generated_at": "2026-10-12T21:30:35.540258+00:00",
   "season": 2026,
   "team": "San Diego Padres",
   "games_played": 162,
@@ -49,7 +49,7 @@
         "ip": 66.0,
         "war": 1.52
       },
-      "war_gap": 2.22,
+      "war_gap": 2.21,
       "innings_share_pct": 4.9
     },
     {
@@ -603,7 +603,7 @@
         "ip_value": 43.0,
         "war": -0.16,
         "era": 5.02,
-        "fip": 5.64,
+        "fip": 5.63,
         "k_minus_bb_pct": 3.2
       },
       "forecast": {
@@ -763,7 +763,7 @@
         "ip_value": 44.667,
         "war": -0.65,
         "era": 7.46,
-        "fip": 7.18,
+        "fip": 7.17,
         "k_minus_bb_pct": 2.9
       },
       "forecast": {

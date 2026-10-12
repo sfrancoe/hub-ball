@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:06:00.261116+00:00",
+  "generated_at": "2026-10-12T21:26:15.731834+00:00",
   "season": 2026,
   "team": "New York Mets",
   "games_played": 162,
@@ -130,7 +130,7 @@
         "ip_value": 113.667,
         "war": 1.17,
         "era": 4.99,
-        "fip": 4.46,
+        "fip": 4.45,
         "k_minus_bb_pct": 12.7
       },
       "forecast": {
@@ -465,7 +465,7 @@
         "ip": 1.0,
         "war": -0.0
       },
-      "war_gap": 0.55,
+      "war_gap": 0.56,
       "innings_share_pct": 2.1
     },
     {
@@ -843,7 +843,7 @@
         "era": 4.24,
         "fip": 4.4,
         "k_minus_bb_pct": 13.1,
-        "team_at_fetch": null
+        "team_at_fetch": "NYM"
       },
       "forecast_to_date": {
         "ip": 10.0,

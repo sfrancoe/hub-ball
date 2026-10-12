@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:22.577553+00:00",
+  "generated_at": "2026-10-12T21:28:15.623618+00:00",
   "season": 2026,
   "team": "Seattle Mariners",
   "games_played": 162,
@@ -34,7 +34,7 @@
         "ip_value": 173.0,
         "war": 4.08,
         "era": 4.01,
-        "fip": 3.25,
+        "fip": 3.24,
         "k_minus_bb_pct": 19.2
       },
       "forecast": {
@@ -192,7 +192,7 @@
       "actual": {
         "ip": "57.1",
         "ip_value": 57.333,
-        "war": 0.75,
+        "war": 0.76,
         "era": 4.24,
         "fip": 3.34,
         "k_minus_bb_pct": 27.1
@@ -251,7 +251,7 @@
         "ip_value": 99.667,
         "war": 0.62,
         "era": 5.06,
-        "fip": 4.58,
+        "fip": 4.57,
         "k_minus_bb_pct": 12.2
       },
       "forecast": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:47:43.928921+00:00",
+  "generated_at": "2026-10-12T21:29:45.650013+00:00",
   "season": 2026,
   "team": "Pittsburgh Pirates",
   "games_played": 162,
@@ -17,7 +17,7 @@
     "forecast_war_to_date": 18.0,
     "war_gap": 3.0,
     "innings": 1445.0,
-    "era": 4.15
+    "era": 4.14
   },
   "pitchers": [
     {
@@ -161,7 +161,7 @@
         "ip": "154.0",
         "ip_value": 154.0,
         "war": 2.02,
-        "era": 4.62,
+        "era": 4.5,
         "fip": 4.24,
         "k_minus_bb_pct": 8.9
       },
@@ -320,7 +320,7 @@
       "actual": {
         "ip": "42.1",
         "ip_value": 42.333,
-        "war": 0.67,
+        "war": 0.66,
         "era": 4.46,
         "fip": 3.22,
         "k_minus_bb_pct": 13.7
@@ -352,7 +352,7 @@
       "actual": {
         "ip": "44.2",
         "ip_value": 44.667,
-        "war": 0.44,
+        "war": 0.45,
         "era": 3.02,
         "fip": 3.73,
         "k_minus_bb_pct": 12.7
@@ -450,7 +450,7 @@
         "ip_value": 16.333,
         "war": 0.26,
         "era": 4.96,
-        "fip": 3.35,
+        "fip": 3.34,
         "k_minus_bb_pct": 21.7
       },
       "forecast": {
@@ -642,7 +642,7 @@
         "ip_value": 6.333,
         "war": 0.03,
         "era": 8.53,
-        "fip": 4.21,
+        "fip": 4.2,
         "k_minus_bb_pct": 11.1
       },
       "forecast": {
@@ -861,7 +861,7 @@
         "era": 3.94,
         "fip": 4.0,
         "k_minus_bb_pct": 12.0,
-        "team_at_fetch": "WSN"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 58.0,
@@ -916,7 +916,7 @@
         "ip_value": 15.667,
         "war": -0.34,
         "era": 6.32,
-        "fip": 7.19,
+        "fip": 7.18,
         "k_minus_bb_pct": 10.0
       },
       "forecast": {

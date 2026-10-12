@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:22.081090+00:00",
+  "generated_at": "2026-10-12T21:27:55.782818+00:00",
   "season": 2026,
   "team": "Los Angeles Angels",
   "games_played": 162,
@@ -49,7 +49,7 @@
         "ip": 150.7,
         "war": 1.97
       },
-      "war_gap": 2.93,
+      "war_gap": 2.92,
       "innings_share_pct": 12.9
     },
     {
@@ -145,7 +145,7 @@
         "ip": 22.0,
         "war": -0.03
       },
-      "war_gap": 1.16,
+      "war_gap": 1.15,
       "innings_share_pct": 2.2
     },
     {
@@ -482,7 +482,7 @@
         "ip_value": 64.0,
         "war": 0.19,
         "era": 6.19,
-        "fip": 4.98,
+        "fip": 4.97,
         "k_minus_bb_pct": 3.7
       },
       "forecast": {
@@ -674,7 +674,7 @@
         "ip_value": 3.667,
         "war": 0.06,
         "era": 0.0,
-        "fip": 2.56,
+        "fip": 2.55,
         "k_minus_bb_pct": 13.3
       },
       "forecast": {
@@ -980,7 +980,7 @@
         "ip_value": 8.667,
         "war": -0.29,
         "era": 11.42,
-        "fip": 7.49,
+        "fip": 7.48,
         "k_minus_bb_pct": 2.5
       },
       "forecast": {

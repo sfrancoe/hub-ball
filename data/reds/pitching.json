@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:47:42.924813+00:00",
+  "generated_at": "2026-10-12T21:29:25.646923+00:00",
   "season": 2026,
   "team": "Cincinnati Reds",
   "games_played": 162,
@@ -98,7 +98,7 @@
         "ip_value": 133.333,
         "war": 1.33,
         "era": 5.74,
-        "fip": 4.71,
+        "fip": 4.7,
         "k_minus_bb_pct": 7.8
       },
       "forecast": {
@@ -128,7 +128,7 @@
       "actual": {
         "ip": "74.1",
         "ip_value": 74.333,
-        "war": 0.85,
+        "war": 0.84,
         "era": 2.3,
         "fip": 3.76,
         "k_minus_bb_pct": 10.8
@@ -162,7 +162,7 @@
         "ip_value": 55.0,
         "war": 0.72,
         "era": 3.11,
-        "fip": 3.76,
+        "fip": 3.75,
         "k_minus_bb_pct": 17.1
       },
       "forecast": {
@@ -224,7 +224,7 @@
       "actual": {
         "ip": "42.2",
         "ip_value": 42.667,
-        "war": 0.48,
+        "war": 0.47,
         "era": 3.38,
         "fip": 4.18,
         "k_minus_bb_pct": 19.5
@@ -241,7 +241,7 @@
         "ip": 66.0,
         "war": 0.4
       },
-      "war_gap": 0.08,
+      "war_gap": 0.07,
       "innings_share_pct": 3.0
     },
     {
@@ -288,7 +288,7 @@
       "actual": {
         "ip": "35.1",
         "ip_value": 35.333,
-        "war": 0.37,
+        "war": 0.36,
         "era": 4.08,
         "fip": 3.69,
         "k_minus_bb_pct": 10.6
@@ -305,7 +305,7 @@
         "ip": 65.0,
         "war": 0.39
       },
-      "war_gap": -0.02,
+      "war_gap": -0.03,
       "innings_share_pct": 2.5
     },
     {
@@ -386,7 +386,7 @@
         "ip_value": 24.667,
         "war": 0.15,
         "era": 4.01,
-        "fip": 4.24,
+        "fip": 4.23,
         "k_minus_bb_pct": 10.1
       },
       "forecast": {
@@ -482,7 +482,7 @@
         "ip_value": 13.333,
         "war": 0.09,
         "era": 4.05,
-        "fip": 3.78,
+        "fip": 3.77,
         "k_minus_bb_pct": 13.3
       },
       "forecast": {
@@ -971,7 +971,7 @@
       "actual": {
         "ip": "13.0",
         "ip_value": 13.0,
-        "war": -0.23,
+        "war": -0.22,
         "era": 8.31,
         "fip": 6.56,
         "k_minus_bb_pct": 3.0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:22.822931+00:00",
+  "generated_at": "2026-10-12T21:28:25.652993+00:00",
   "season": 2026,
   "team": "Texas Rangers",
   "games_played": 162,
@@ -273,7 +273,7 @@
         "ip": 149.7,
         "war": 1.58
       },
-      "war_gap": -1.05,
+      "war_gap": -1.06,
       "innings_share_pct": 5.6
     },
     {
@@ -569,7 +569,7 @@
       "actual": {
         "ip": "11.2",
         "ip_value": 11.667,
-        "war": -0.0,
+        "war": -0.01,
         "era": 3.86,
         "fip": 4.56,
         "k_minus_bb_pct": 16.3

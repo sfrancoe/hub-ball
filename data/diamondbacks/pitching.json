@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:25.501856+00:00",
+  "generated_at": "2026-10-12T21:30:05.650366+00:00",
   "season": 2026,
   "team": "Arizona Diamondbacks",
   "games_played": 162,
@@ -145,7 +145,7 @@
         "ip": 54.0,
         "war": -0.04
       },
-      "war_gap": 1.63,
+      "war_gap": 1.62,
       "innings_share_pct": 4.5
     },
     {
@@ -209,7 +209,7 @@
         "ip": 60.0,
         "war": 0.31
       },
-      "war_gap": 0.81,
+      "war_gap": 0.8,
       "innings_share_pct": 4.6
     },
     {
@@ -354,7 +354,7 @@
         "ip_value": 13.333,
         "war": 0.19,
         "era": 2.03,
-        "fip": 2.88,
+        "fip": 2.87,
         "k_minus_bb_pct": 14.5
       },
       "forecast": {
@@ -756,7 +756,7 @@
         "ip_value": 2.667,
         "war": -0.09,
         "era": 3.38,
-        "fip": 7.98,
+        "fip": 7.97,
         "k_minus_bb_pct": -28.6
       },
       "forecast": {

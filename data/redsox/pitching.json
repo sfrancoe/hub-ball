@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:16.256497+00:00",
+  "generated_at": "2026-10-12T21:25:55.718571+00:00",
   "season": 2026,
   "team": "Boston Red Sox",
   "games_played": 162,
@@ -738,7 +738,7 @@
         "ip_value": 8.0,
         "war": 0.03,
         "era": 3.38,
-        "fip": 3.98,
+        "fip": 3.97,
         "k_minus_bb_pct": 12.5
       },
       "forecast": {
@@ -811,7 +811,7 @@
         "era": 4.77,
         "fip": 4.73,
         "k_minus_bb_pct": 9.5,
-        "team_at_fetch": "BOS"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 12.0,
@@ -819,38 +819,6 @@
       },
       "war_gap": 0.02,
       "innings_share_pct": 0.1
-    },
-    {
-      "id": 686747,
-      "name": "Joe La Sorsa",
-      "throws": "L",
-      "role": "Reliever",
-      "games": 1,
-      "starts": 0,
-      "saves": 0,
-      "holds": 0,
-      "actual": {
-        "ip": "0.1",
-        "ip_value": 0.333,
-        "war": -0.08,
-        "era": 27.0,
-        "fip": 36.1,
-        "k_minus_bb_pct": 50.0
-      },
-      "forecast": {
-        "ip": 16.0,
-        "war": -0.1,
-        "era": 4.73,
-        "fip": 4.85,
-        "k_minus_bb_pct": 6.5,
-        "team_at_fetch": null
-      },
-      "forecast_to_date": {
-        "ip": 16.0,
-        "war": -0.1
-      },
-      "war_gap": 0.02,
-      "innings_share_pct": 0.0
     },
     {
       "id": 700413,
@@ -883,6 +851,38 @@
       },
       "war_gap": -0.14,
       "innings_share_pct": 0.2
+    },
+    {
+      "id": 686747,
+      "name": "Joe La Sorsa",
+      "throws": "L",
+      "role": "Reliever",
+      "games": 1,
+      "starts": 0,
+      "saves": 0,
+      "holds": 0,
+      "actual": {
+        "ip": "0.1",
+        "ip_value": 0.333,
+        "war": -0.08,
+        "era": 27.0,
+        "fip": 36.1,
+        "k_minus_bb_pct": 50.0
+      },
+      "forecast": {
+        "ip": 16.0,
+        "war": -0.1,
+        "era": 4.73,
+        "fip": 4.85,
+        "k_minus_bb_pct": 6.5,
+        "team_at_fetch": null
+      },
+      "forecast_to_date": {
+        "ip": 16.0,
+        "war": -0.1
+      },
+      "war_gap": 0.02,
+      "innings_share_pct": 0.0
     },
     {
       "id": 592454,

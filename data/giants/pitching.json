@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:26.624642+00:00",
+  "generated_at": "2026-10-12T21:30:45.577730+00:00",
   "season": 2026,
   "team": "San Francisco Giants",
   "games_played": 162,
@@ -34,7 +34,7 @@
         "ip_value": 160.667,
         "war": 3.07,
         "era": 4.31,
-        "fip": 3.46,
+        "fip": 3.45,
         "k_minus_bb_pct": 13.9
       },
       "forecast": {
@@ -418,7 +418,7 @@
         "ip_value": 32.667,
         "war": 0.32,
         "era": 2.76,
-        "fip": 3.35,
+        "fip": 3.34,
         "k_minus_bb_pct": 16.2
       },
       "forecast": {
@@ -980,7 +980,7 @@
         "ip_value": 23.667,
         "war": -0.11,
         "era": 4.94,
-        "fip": 4.88,
+        "fip": 4.87,
         "k_minus_bb_pct": 5.8
       },
       "forecast": {

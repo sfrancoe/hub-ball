@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:06:25.075723+00:00",
+  "generated_at": "2026-10-12T21:30:15.603903+00:00",
   "season": 2026,
   "team": "Colorado Rockies",
   "games_played": 162,
@@ -64,7 +64,7 @@
       "actual": {
         "ip": "52.1",
         "ip_value": 52.333,
-        "war": 1.05,
+        "war": 1.04,
         "era": 3.61,
         "fip": 3.37,
         "k_minus_bb_pct": 13.2
@@ -160,7 +160,7 @@
       "actual": {
         "ip": "123.1",
         "ip_value": 123.333,
-        "war": 0.76,
+        "war": 0.75,
         "era": 5.4,
         "fip": 5.05,
         "k_minus_bb_pct": 7.1
@@ -354,7 +354,7 @@
         "ip_value": 25.667,
         "war": 0.38,
         "era": 4.21,
-        "fip": 4.04,
+        "fip": 4.03,
         "k_minus_bb_pct": 12.6
       },
       "forecast": {
@@ -561,7 +561,7 @@
         "ip": 64.0,
         "war": 0.25
       },
-      "war_gap": -0.16,
+      "war_gap": -0.17,
       "innings_share_pct": 2.5
     },
     {
@@ -788,7 +788,7 @@
         "ip_value": 2.667,
         "war": -0.06,
         "era": 10.13,
-        "fip": 9.48,
+        "fip": 9.47,
         "k_minus_bb_pct": 13.3
       },
       "forecast": {
@@ -946,7 +946,7 @@
       "actual": {
         "ip": "7.2",
         "ip_value": 7.667,
-        "war": -0.13,
+        "war": -0.12,
         "era": 8.22,
         "fip": 7.14,
         "k_minus_bb_pct": 13.9

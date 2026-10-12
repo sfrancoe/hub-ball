@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:50:15.299894+00:00",
+  "generated_at": "2026-10-12T21:26:35.681236+00:00",
   "season": 2026,
   "team": "Baltimore Orioles",
   "games_played": 161,
@@ -17,7 +17,7 @@
     "forecast_war_to_date": 14.6,
     "war_gap": 2.0,
     "innings": 1436.3,
-    "era": 4.09
+    "era": 4.07
   },
   "pitchers": [
     {
@@ -193,7 +193,7 @@
         "ip": "102.0",
         "ip_value": 102.0,
         "war": 1.01,
-        "era": 4.59,
+        "era": 4.41,
         "fip": 4.31,
         "k_minus_bb_pct": 7.8
       },
@@ -258,7 +258,7 @@
         "ip_value": 54.0,
         "war": 0.87,
         "era": 2.67,
-        "fip": 3.42,
+        "fip": 3.41,
         "k_minus_bb_pct": 19.0
       },
       "forecast": {
@@ -859,7 +859,7 @@
         "ip_value": 15.333,
         "war": -0.09,
         "era": 4.11,
-        "fip": 4.67,
+        "fip": 4.66,
         "k_minus_bb_pct": 17.6
       },
       "forecast": {
@@ -891,7 +891,7 @@
         "ip_value": 3.667,
         "war": -0.12,
         "era": 7.36,
-        "fip": 8.56,
+        "fip": 8.55,
         "k_minus_bb_pct": -5.9
       },
       "forecast": {
@@ -900,7 +900,7 @@
         "era": 4.07,
         "fip": 4.34,
         "k_minus_bb_pct": 9.5,
-        "team_at_fetch": null
+        "team_at_fetch": "BAL"
       },
       "forecast_to_date": {
         "ip": 31.8,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:47:39.970203+00:00",
+  "generated_at": "2026-10-12T21:28:35.650189+00:00",
   "season": 2026,
   "team": "Atlanta Braves",
   "games_played": 162,
@@ -66,7 +66,7 @@
         "ip_value": 67.0,
         "war": 2.08,
         "era": 3.09,
-        "fip": 2.15,
+        "fip": 2.14,
         "k_minus_bb_pct": 22.9
       },
       "forecast": {
@@ -290,7 +290,7 @@
         "ip_value": 151.667,
         "war": 0.84,
         "era": 3.44,
-        "fip": 4.76,
+        "fip": 4.75,
         "k_minus_bb_pct": 8.3
       },
       "forecast": {
@@ -386,7 +386,7 @@
         "ip_value": 49.667,
         "war": 0.46,
         "era": 2.54,
-        "fip": 3.83,
+        "fip": 3.82,
         "k_minus_bb_pct": 20.1
       },
       "forecast": {
@@ -450,7 +450,7 @@
         "ip_value": 27.667,
         "war": 0.36,
         "era": 1.63,
-        "fip": 3.25,
+        "fip": 3.24,
         "k_minus_bb_pct": 13.5
       },
       "forecast": {
@@ -555,7 +555,7 @@
         "era": 4.65,
         "fip": 4.64,
         "k_minus_bb_pct": 11.1,
-        "team_at_fetch": "ATL"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 74.0,
@@ -587,7 +587,7 @@
         "era": 3.87,
         "fip": 3.92,
         "k_minus_bb_pct": 13.8,
-        "team_at_fetch": "ATL"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 1.0,
@@ -987,7 +987,7 @@
         "ip_value": 73.333,
         "war": -0.32,
         "era": 4.91,
-        "fip": 5.56,
+        "fip": 5.55,
         "k_minus_bb_pct": 7.7
       },
       "forecast": {

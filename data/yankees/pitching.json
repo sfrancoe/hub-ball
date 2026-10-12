@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:16.983019+00:00",
+  "generated_at": "2026-10-12T21:26:05.576188+00:00",
   "season": 2026,
   "team": "New York Yankees",
   "games_played": 161,
@@ -17,7 +17,7 @@
     "forecast_war_to_date": 17.0,
     "war_gap": 4.8,
     "innings": 1441.3,
-    "era": 3.24
+    "era": 3.23
   },
   "pitchers": [
     {
@@ -209,7 +209,7 @@
         "ip": 41.7,
         "war": 0.15
       },
-      "war_gap": 1.94,
+      "war_gap": 1.95,
       "innings_share_pct": 5.4
     },
     {
@@ -224,7 +224,7 @@
       "actual": {
         "ip": "69.1",
         "ip_value": 69.333,
-        "war": 1.88,
+        "war": 1.89,
         "era": 2.47,
         "fip": 2.61,
         "k_minus_bb_pct": 20.0
@@ -321,7 +321,7 @@
         "ip": "85.0",
         "ip_value": 85.0,
         "war": 0.66,
-        "era": 1.69,
+        "era": 1.59,
         "fip": 3.75,
         "k_minus_bb_pct": 10.7
       },
@@ -384,7 +384,7 @@
       "actual": {
         "ip": "6.1",
         "ip_value": 6.333,
-        "war": 0.14,
+        "war": 0.15,
         "era": 1.42,
         "fip": 1.52,
         "k_minus_bb_pct": 26.1
@@ -450,7 +450,7 @@
         "ip_value": 5.333,
         "war": 0.1,
         "era": 1.69,
-        "fip": 1.98,
+        "fip": 1.97,
         "k_minus_bb_pct": 25.0
       },
       "forecast": {
@@ -810,7 +810,7 @@
         "ip": 1.0,
         "war": -0.0
       },
-      "war_gap": -0.23,
+      "war_gap": -0.24,
       "innings_share_pct": 0.5
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:21.069445+00:00",
+  "generated_at": "2026-10-12T21:27:25.656270+00:00",
   "season": 2026,
   "team": "Kansas City Royals",
   "games_played": 162,
@@ -13,7 +13,7 @@
     "forecast_url": "https://www.fangraphs.com/projections"
   },
   "team_summary": {
-    "actual_war": 5.1,
+    "actual_war": 5.0,
     "forecast_war_to_date": 15.1,
     "war_gap": -10.1,
     "innings": 1424.3,
@@ -820,7 +820,7 @@
         "ip_value": 35.333,
         "war": -0.24,
         "era": 4.84,
-        "fip": 6.19,
+        "fip": 6.18,
         "k_minus_bb_pct": 14.6
       },
       "forecast": {
@@ -884,7 +884,7 @@
         "ip_value": 5.333,
         "war": -0.27,
         "era": 10.13,
-        "fip": 10.98,
+        "fip": 10.97,
         "k_minus_bb_pct": -11.1
       },
       "forecast": {
@@ -1014,7 +1014,7 @@
         "era": 4.65,
         "fip": 4.64,
         "k_minus_bb_pct": 11.1,
-        "team_at_fetch": "ATL"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 74.0,
@@ -1084,7 +1084,7 @@
         "ip": 64.0,
         "war": 0.55
       },
-      "war_gap": -1.04,
+      "war_gap": -1.05,
       "innings_share_pct": 3.4
     },
     {
@@ -1131,7 +1131,7 @@
       "actual": {
         "ip": "60.0",
         "ip_value": 60.0,
-        "war": -1.06,
+        "war": -1.07,
         "era": 6.75,
         "fip": 5.87,
         "k_minus_bb_pct": 9.8

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:47:34.414492+00:00",
+  "generated_at": "2026-10-12T21:26:45.706504+00:00",
   "season": 2026,
   "team": "Toronto Blue Jays",
   "games_played": 162,
@@ -15,9 +15,9 @@
   "team_summary": {
     "actual_war": 16.2,
     "forecast_war_to_date": 26.2,
-    "war_gap": -10.0,
+    "war_gap": -9.9,
     "innings": 1436.0,
-    "era": 3.9
+    "era": 3.91
   },
   "pitchers": [
     {
@@ -64,7 +64,7 @@
       "actual": {
         "ip": "78.0",
         "ip_value": 78.0,
-        "war": 3.06,
+        "war": 3.07,
         "era": 1.27,
         "fip": 1.83,
         "k_minus_bb_pct": 24.1
@@ -129,7 +129,7 @@
         "ip": "95.2",
         "ip_value": 95.667,
         "war": 2.0,
-        "era": 2.63,
+        "era": 2.73,
         "fip": 2.65,
         "k_minus_bb_pct": 17.5
       },
@@ -217,7 +217,7 @@
       "actual": {
         "ip": "71.0",
         "ip_value": 71.0,
-        "war": 1.08,
+        "war": 1.09,
         "era": 1.77,
         "fip": 3.35,
         "k_minus_bb_pct": 6.1
@@ -345,7 +345,7 @@
       "actual": {
         "ip": "84.2",
         "ip_value": 84.667,
-        "war": 0.33,
+        "war": 0.32,
         "era": 5.74,
         "fip": 5.11,
         "k_minus_bb_pct": 9.1
@@ -441,7 +441,7 @@
       "actual": {
         "ip": "4.2",
         "ip_value": 4.667,
-        "war": 0.17,
+        "war": 0.18,
         "era": 0.0,
         "fip": 0.96,
         "k_minus_bb_pct": 31.2
@@ -859,7 +859,7 @@
         "ip_value": 22.0,
         "war": -0.01,
         "era": 4.91,
-        "fip": 4.56,
+        "fip": 4.55,
         "k_minus_bb_pct": 13.1
       },
       "forecast": {
@@ -948,7 +948,7 @@
         "ip_value": 18.333,
         "war": -0.06,
         "era": 3.93,
-        "fip": 4.96,
+        "fip": 4.95,
         "k_minus_bb_pct": 2.6
       },
       "forecast": {
@@ -1101,7 +1101,7 @@
         "ip_value": 28.333,
         "war": -0.21,
         "era": 6.35,
-        "fip": 4.94,
+        "fip": 4.93,
         "k_minus_bb_pct": 14.4
       },
       "forecast": {

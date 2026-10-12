@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:47:34.968260+00:00",
+  "generated_at": "2026-10-12T21:26:55.692397+00:00",
   "season": 2026,
   "team": "Chicago White Sox",
   "games_played": 162,
@@ -209,7 +209,7 @@
         "ip": 34.0,
         "war": 0.16
       },
-      "war_gap": 1.09,
+      "war_gap": 1.1,
       "innings_share_pct": 4.7
     },
     {
@@ -450,7 +450,7 @@
         "ip_value": 37.333,
         "war": 0.08,
         "era": 3.13,
-        "fip": 4.15,
+        "fip": 4.14,
         "k_minus_bb_pct": 3.9
       },
       "forecast": {
@@ -708,7 +708,7 @@
         "era": 5.05,
         "fip": 5.32,
         "k_minus_bb_pct": 7.6,
-        "team_at_fetch": "CHW"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 14.0,
@@ -835,7 +835,7 @@
         "ip": 52.9,
         "war": 0.22
       },
-      "war_gap": -0.3,
+      "war_gap": -0.31,
       "innings_share_pct": 0.0
     },
     {
