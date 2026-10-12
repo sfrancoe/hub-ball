@@ -43,7 +43,11 @@ nonisolated struct FeaturedStorySnapshot: Codable, Sendable {
         try manifest.validate()
         try StoryContract.check(manifest.eligible(build: build, now: now) && now >= savedAt && now.timeIntervalSince(savedAt) <= 86400)
         guard let entry = manifest.entry else { throw StoryContentError.invalid }
-        return try StoryContract.decodeDocument(payload, entry: entry)
+        let value = try StoryContract.decodeDocument(payload, entry: entry)
+        if case .trajectory(let story) = value, let presentation = story.presentation {
+            try StoryContract.check(manifest.expiresAt <= presentation.hookExpiresAt)
+        }
+        return value
     }
 }
 
@@ -81,6 +85,14 @@ actor FeaturedStoryCache {
     private let fetch: Fetch
     private let clock: @Sendable () -> Date
     private var snapshot: FeaturedStorySnapshot?
+    private let preview: FeaturedStorySnapshot?
+    private let previewDefaults: UserDefaults
+    private var previewRetirementKey: String? { preview.map { "hubFeaturedPreviewRetired/" + $0.manifest.revision } }
+    var previewLibraryItem: FeaturedStoryItem? {
+        guard let preview, let entry = preview.manifest.entry,
+              let document = try? StoryContract.decodeDocument(preview.payload, entry: entry) else { return nil }
+        return FeaturedStoryItem(entry: entry, document: document)
+    }
     private(set) var prepared = false
     @ObservationIgnored private var requestTask: Task<Void, Never>?
     @ObservationIgnored private var deadlineTask: Task<Void, Never>?
@@ -89,8 +101,10 @@ actor FeaturedStoryCache {
 
     init(root: URL = FeaturedStoryStore.liveRoot, cache: FeaturedStoryCache = FeaturedStoryCache(),
          build: Int = Int(Bundle.main.object(forInfoDictionaryKey: "CFBundleVersion") as? String ?? "") ?? 0,
-         clock: @escaping @Sendable () -> Date = Date.init, fetch: Fetch? = nil) {
+         clock: @escaping @Sendable () -> Date = Date.init, fetch: Fetch? = nil,
+         preview: FeaturedStorySnapshot? = FeaturedStoryPreview.bundled(), previewDefaults: UserDefaults = .standard) {
         self.root = root; self.cache = cache; self.build = build; self.clock = clock
+        self.preview = preview; self.previewDefaults = previewDefaults
         if let fetch { self.fetch = fetch }
         else {
             let configuration = URLSessionConfiguration.ephemeral
@@ -109,12 +123,15 @@ actor FeaturedStoryCache {
     func selected() -> FeaturedStoryItem? {
         guard let snapshot, let entry = snapshot.manifest.entry,
               let document = try? snapshot.document(build: build, now: clock()) else { return nil }
-        return FeaturedStoryItem(entry: entry, document: document)
+        return FeaturedStoryItem(entry: entry, document: document, offerExpiresAt: ISO8601DateFormatter().date(from: snapshot.manifest.expiresAt))
     }
     func prepare(timeout: Duration = .seconds(2)) async {
         guard !started else { return }
         started = true
-        if let saved = await cache.read(), (try? saved.document(build: build, now: clock())) != nil { snapshot = saved }
+        if let saved = await cache.read(), (try? saved.document(build: build, now: clock())) != nil,
+           preview == nil || saved.manifest.publishedAt >= preview!.manifest.publishedAt { snapshot = saved }
+        if snapshot == nil, let preview, let key = previewRetirementKey, !previewDefaults.bool(forKey: key),
+           (try? preview.document(build: build, now: clock())) != nil { snapshot = preview }
         await withCheckedContinuation { continuation in
             completion = continuation
             requestTask = Task { [weak self] in await self?.refresh() }
@@ -131,8 +148,10 @@ actor FeaturedStoryCache {
             try Task.checkCancellation()
             guard !prepared else { return }
             let manifest = try FeaturedStoryManifest.decode(bytes)
+            if let preview, manifest.publishedAt <= preview.manifest.publishedAt { finish(); return }
             // A valid authoritative disable/expiry/compatibility decision revokes saved launch content.
             guard manifest.eligible(build: build, now: clock()), let entry = manifest.entry else {
+                if let key = previewRetirementKey { previewDefaults.set(true, forKey: key) }
                 snapshot = nil; await cache.clear(); finish(); return
             }
             let payload = try await fetch(root.appending(path: entry.payloadPath), .returnCacheDataElseLoad)
@@ -140,6 +159,7 @@ actor FeaturedStoryCache {
             guard !prepared else { return }
             let incoming = FeaturedStorySnapshot(manifest: manifest, payload: payload, savedAt: clock())
             _ = try incoming.document(build: build, now: clock())
+            if let key = previewRetirementKey { previewDefaults.set(true, forKey: key) }
             snapshot = incoming
             await cache.save(incoming)
             finish()
@@ -158,6 +178,7 @@ actor FeaturedStoryCache {
 nonisolated struct FeaturedStoryItem: Identifiable, Sendable {
     let entry: StoryEntry
     let document: StoryDocument
+    var offerExpiresAt: Date? = nil
     var id: String { entry.cacheKey }
 }
 
@@ -181,5 +202,47 @@ struct FeaturedStoryDocumentView: View {
         }
         .accessibilityIdentifier("featured.document.\(item.entry.id)")
         .presentationDetents([.large]).presentationDragIndicator(.visible)
+    }
+}
+
+
+/// Generic reviewed JSON seed, present only in a private preview binary. No story IDs in code.
+nonisolated enum FeaturedStoryPreview {
+    struct Envelope: Codable { let manifest: FeaturedStoryManifest; let payloadBase64: String }
+    static func bundled(now: Date = Date()) -> FeaturedStorySnapshot? {
+        #if DEBUG
+        if ProcessInfo.processInfo.environment["HUB_UNIT_TESTS"] == "1" || ProcessInfo.processInfo.environment["HUB_FEATURED_ROOT"] != nil { return nil }
+        #endif
+        guard let url = Bundle.main.url(forResource: "featured-preview", withExtension: "json"),
+              let bytes = try? Data(contentsOf: url), bytes.count <= 750 * 1_024,
+              let value = try? JSONDecoder().decode(Envelope.self, from: bytes),
+              let payload = Data(base64Encoded: value.payloadBase64),
+              (try? value.manifest.validate()) != nil, let entry = value.manifest.entry,
+              (try? StoryContract.decodeDocument(payload, entry: entry)) != nil else { return nil }
+        return FeaturedStorySnapshot(manifest: value.manifest, payload: payload, savedAt: ISO8601DateFormatter().date(from: value.manifest.publishedAt) ?? now)
+    }
+}
+
+extension FeaturedStoryItem {
+    var hookTitle: String {
+        if case .trajectory(let value) = document, let presentation = value.presentation, presentation.hookIsCurrent() { return presentation.headline }
+        return entry.title
+    }
+    var hookSummary: String {
+        if case .trajectory(let value) = document, let presentation = value.presentation, presentation.hookIsCurrent() { return presentation.subheadline }
+        return entry.summary
+    }
+}
+
+
+/// Manual replay retains library navigation and never auto-dismisses it.
+struct FeaturedStoryManualView: View {
+    let item: FeaturedStoryItem
+    var body: some View {
+        switch item.document {
+        case .trajectory(let value): TrajectoryStoryView(story: value, refresh: {})
+        case .outGrid(let value): InningOutGridStoryView(story: value)
+        case .guess(let value): GuessRevealStoryView(story: value, refresh: {})
+        }
     }
 }

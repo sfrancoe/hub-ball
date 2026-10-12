@@ -30,7 +30,9 @@ def validate_tree(data_root: Path):
     if manifest['enabled']:
         entry = manifest['entry']; payload = (data_root/entry_path(entry)).read_bytes()
         require(digest(payload) == entry['revision'], 'Immutable payload hash mismatch')
-        validate_payload(decode(payload, PAYLOAD_LIMIT), entry)
+        document = validate_payload(decode(payload, PAYLOAD_LIMIT), entry)
+        if document.get('presentation'):
+            require(manifest['expiresAt'] <= document['presentation']['hookExpiresAt'], 'Opening cannot outlive its time-sensitive hook')
     return manifest
 
 def main():

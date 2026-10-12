@@ -72,6 +72,13 @@ struct StoriesView: View {
                                     StoryPreviewCard(title: "Three October 9 stories", summary: "Cleveland’s sixth. Milwaukee’s margins. Baker’s breakout. Watch all three and choose your favorite.", action: "COMPARE ALL THREE")
                                 }.buttonStyle(.plain).accessibilityIdentifier("stories.private-previews")
                             }
+                            if let item = model.featured.previewLibraryItem,
+                               (team == nil || item.entry.teamIDs.contains(team!.mlbID)),
+                               !remoteEntries.contains(where: { $0.id == item.entry.id }) {
+                                NavigationLink { FeaturedStoryManualView(item: item) } label: {
+                                    StoryPreviewCard(title: item.entry.title, summary: item.entry.summary, action: "PLAY")
+                                }.buttonStyle(.plain).accessibilityIdentifier("stories.preview.\(item.entry.id)")
+                            }
                             if !remoteEntries.isEmpty {
                                 teamHeading("NEW IN HUB BALL")
                                 ForEach(remoteEntries) { entry in

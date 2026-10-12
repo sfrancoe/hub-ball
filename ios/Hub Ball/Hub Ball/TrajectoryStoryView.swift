@@ -51,6 +51,11 @@ struct TrajectoryStoryView: View {
         story.chart.series.map { "\($0.label): \(numbers.axis($0.points.last?.y ?? 0)) \(story.chart.yAxis.label)" }.joined(separator: ". ")
     }
     var body: some View {
+        if let presentation = story.presentation {
+            ScreeningTrajectoryStoryView(story: story, presentation: presentation, onCompleted: onCompleted)
+        } else { legacyBody }
+    }
+    private var legacyBody: some View {
         GeometryReader { window in
             let compact = window.size.height < 750 && !typeSize.isAccessibilitySize
             ScrollViewReader { scroll in
@@ -235,23 +240,36 @@ private struct TrajectoryCanvas: View {
     let frame: TrajectoryStory.Chart.Frame
     var endpointLabels: [String]? = nil
     var numbers: TrajectoryNumberPresentation = .standard
+    var screening = false
+    var intervals: [TrajectoryStory.Presentation.Interval] = []
+    var elapsed: Double = 0
+    var presentation: TrajectoryStory.Presentation?
+    var largeAxes = false
     var body: some View {
         Canvas { context, size in
             let plot = CGRect(x: 30, y: 8, width: max(1, size.width - (endpointLabels != nil ? 128 : chart.kind == "bar" ? 110 : 72)), height: max(1, size.height - 38))
+            let ink = screening ? Color.white : TrajectoryStyle.ink
+            let axisSize: CGFloat = largeAxes ? 16 : 11
             let barInset = chart.kind == "bar" ? plot.width / CGFloat(chart.series[0].points.count) / 2 : 0
             func px(_ x: Double) -> CGFloat { plot.minX + barInset + (x - chart.xAxis.minimum) / (chart.xAxis.maximum - chart.xAxis.minimum) * (plot.width - 2 * barInset) }
             func py(_ y: Double) -> CGFloat { plot.maxY - (y - chart.yAxis.minimum) / (chart.yAxis.maximum - chart.yAxis.minimum) * plot.height }
+            for interval in intervals {
+                let start = px(max(chart.xAxis.minimum, interval.start)), end = px(min(chart.xAxis.maximum, interval.end))
+                let rect = CGRect(x: start, y: plot.minY, width: end - start, height: plot.height)
+                context.fill(Path(rect), with: .color(.white.opacity(0.06)))
+                context.draw(Text(interval.label).font(.system(size: axisSize, weight: .bold)).foregroundStyle(.white.opacity(0.8)), at: CGPoint(x: rect.midX, y: rect.minY + 14))
+            }
             for y in chart.yAxis.ticks {
                 var path = Path(); path.move(to: CGPoint(x: plot.minX, y: py(y))); path.addLine(to: CGPoint(x: plot.maxX, y: py(y)))
-                context.stroke(path, with: .color(TrajectoryStyle.ink.opacity(0.13)), style: StrokeStyle(lineWidth: 1, dash: [3, 4]))
-                context.draw(Text(numbers.axis(y)).font(.system(size: 11, weight: .medium)).foregroundStyle(TrajectoryStyle.ink), at: CGPoint(x: plot.minX - 7, y: py(y)), anchor: .trailing)
+                context.stroke(path, with: .color(ink.opacity(0.13)), style: StrokeStyle(lineWidth: 1, dash: [3, 4]))
+                context.draw(Text(numbers.axis(y)).font(.system(size: axisSize, weight: .medium)).foregroundStyle(ink), at: CGPoint(x: plot.minX - 7, y: py(y)), anchor: .trailing)
             }
             if chart.yAxis.minimum < 0 && chart.yAxis.maximum > 0 {
                 var baseline = Path(); baseline.move(to: CGPoint(x: plot.minX, y: py(0))); baseline.addLine(to: CGPoint(x: plot.maxX, y: py(0)))
-                context.stroke(baseline, with: .color(TrajectoryStyle.ink.opacity(0.55)), lineWidth: 1.5)
+                context.stroke(baseline, with: .color(ink.opacity(0.55)), lineWidth: 1.5)
             }
             for x in chart.xAxis.ticks {
-                context.draw(Text(numbers.axis(x, grouping: false)).font(.system(size: 11, weight: .medium)).foregroundStyle(TrajectoryStyle.ink), at: CGPoint(x: px(x), y: plot.maxY + 16))
+                context.draw(Text(numbers.axis(x, grouping: false)).font(.system(size: axisSize, weight: .medium)).foregroundStyle(ink), at: CGPoint(x: px(x), y: plot.maxY + 16))
             }
             if let beat = frame.beat, beat.comparison == nil, endpointLabels == nil {
                 var reference = Path(); reference.move(to: CGPoint(x: plot.minX, y: py(beat.y))); reference.addLine(to: CGPoint(x: plot.maxX, y: py(beat.y)))
@@ -260,14 +278,17 @@ private struct TrajectoryCanvas: View {
             }
             for (index, series) in chart.series.enumerated() {
                 guard let progress = frame.progresses[index] else { continue }
-                let color = TrajectoryStyle.color(series.color)
+                let palette = ["gold":"#F6C873", "coral":"#FB7185", "navy":"#7DB3E8", "teal":"#4DD0C8", "purple":"#B8A0FF", "gray":"#94A3B8"]
+                let color = screening ? Color(hubHex: palette[series.color] ?? "#7DB3E8") : TrajectoryStyle.color(series.color)
                 if chart.kind == "bar" {
                     let slot = plot.width / CGFloat(series.points.count) / CGFloat(chart.series.count)
-                    for point in series.points where point.x <= progress {
-                        let rect = CGRect(x: px(point.x) - slot * CGFloat(chart.series.count) / 2 + slot * CGFloat(index), y: min(py(0), py(point.y)), width: max(1, slot * 0.8), height: abs(py(0) - py(point.y)))
+                    for (pointIndex, point) in series.points.enumerated() where screening || point.x <= progress {
+                        let growth = presentation?.barGrowth(elapsed: elapsed, index: pointIndex, count: series.points.count) ?? 1
+                        let displayedY = point.y * growth
+                        let rect = CGRect(x: px(point.x) - slot * CGFloat(chart.series.count) / 2 + slot * CGFloat(index), y: min(py(0), py(displayedY)), width: max(1, slot * 0.8), height: abs(py(0) - py(displayedY)))
                         context.fill(Path(rect), with: .color(color))
-                        if series.points.count <= 8 {
-                            context.draw(Text(numbers.axis(point.y)).font(.system(size: 11, weight: .bold)).foregroundStyle(color), at: CGPoint(x: rect.midX, y: rect.minY - 9))
+                        if series.points.count <= 8 && growth >= 1 {
+                            context.draw(Text(numbers.axis(point.y)).font(.system(size: screening ? 17 : 11, weight: .bold)).foregroundStyle(color), at: CGPoint(x: rect.midX, y: rect.minY - 9))
                         }
                     }
                 } else {
@@ -316,5 +337,107 @@ private struct TrajectoryCanvas: View {
                 }
             }
         }
+    }
+}
+
+
+/// A finite, data-driven screening layout reusing the trajectory model, clock and canvas.
+private struct ScreeningTrajectoryStoryView: View {
+    let story: TrajectoryStory
+    let presentation: TrajectoryStory.Presentation
+    var onCompleted: (() -> Void)?
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @Environment(\.accessibilityVoiceOverEnabled) private var voiceOver
+    @Environment(\.dynamicTypeSize) private var typeSize
+    @Environment(\.scenePhase) private var scenePhase
+    @State private var playback = TrajectoryPlayback()
+    @State private var launched = false
+    @State private var completion = StoryCompletionHold()
+    @State private var completed = false
+    @State private var sources = false
+    private var now: TimeInterval { ProcessInfo.processInfo.systemUptime }
+    private var reduced: Bool {
+        #if DEBUG
+        reduceMotion || ProcessInfo.processInfo.environment["HUB_STORY_REDUCE_MOTION"] == "1"
+        #else
+        reduceMotion
+        #endif
+    }
+    private var numbers: TrajectoryNumberPresentation { presentation.numberFormat == "innings" ? .innings : .standard }
+    private var summary: String {
+        story.chart.series.map { row in row.label + ": " + row.points.map { "\(numbers.axis($0.x, grouping: false)): \(numbers.axis($0.y))" }.joined(separator: "; ") }.joined(separator: ". ") + ". " + presentation.intervals.map(\.label).joined(separator: ". ")
+    }
+    var body: some View {
+        GeometryReader { window in
+            ScrollView {
+                VStack(alignment: .leading, spacing: 20) {
+                    Text(presentation.hookIsCurrent() ? presentation.headline : story.title)
+                        .font(.system(.largeTitle, design: .rounded).weight(.heavy)).foregroundStyle(.white)
+                        .fixedSize(horizontal: false, vertical: true).accessibilityIdentifier("remote.title")
+                    Text(presentation.subheadline).font(.title3).foregroundStyle(Color(hubHex: "#F6C873"))
+                        .fixedSize(horizontal: false, vertical: true).accessibilityIdentifier("remote.intro")
+                    let controls = typeSize.isAccessibilitySize ? AnyLayout(VStackLayout(alignment: .leading, spacing: 12)) : AnyLayout(HStackLayout(spacing: 8))
+                    controls {
+                        Text(story.chart.yAxis.label.uppercased()).font(.caption.weight(.bold))
+                        if !typeSize.isAccessibilitySize { Spacer(minLength: 8) }
+                        Button { replay() } label: { Label("Replay", systemImage: "play.fill").fixedSize(horizontal: true, vertical: false) }
+                            .font(.subheadline.weight(.bold)).frame(minHeight: 44).accessibilityIdentifier("trajectory.replay")
+                    }.foregroundStyle(Color(hubHex: "#F6C873"))
+                    TimelineView(.animation(paused: reduced || scenePhase != .active || sources || completed)) { _ in
+                        let elapsed = playback.time(now: now, duration: story.chart.durationSeconds)
+                        let adjusted = max(0, min(1, (elapsed - presentation.openingSeconds) / presentation.sweepSeconds)) * story.chart.durationSeconds
+                        ScrollView(.horizontal) {
+                            TrajectoryCanvas(chart: story.chart, frame: story.chart.frame(at: adjusted), numbers: numbers,
+                                             screening: true, intervals: presentation.intervals, elapsed: elapsed,
+                                             presentation: presentation, largeAxes: typeSize.isAccessibilitySize)
+                                .frame(width: max(typeSize.isAccessibilitySize ? 650 : 350, min(780, window.size.width - 44)), height: window.size.width >= 650 ? 380 : 300)
+                                .accessibilityElement(children: .ignore).accessibilityLabel("\(story.chart.yAxis.label). Annual \(story.chart.kind) chart.")
+                                .accessibilityValue(summary).accessibilityIdentifier("trajectory.chart")
+                        }.accessibilityIdentifier("trajectory.plot-scroll")
+                    }
+                }.padding(22).frame(maxWidth: 824, alignment: .leading).frame(maxWidth: .infinity)
+            }
+        }.background(Color(hubHex: "#0B1628").ignoresSafeArea()).foregroundStyle(.white).tint(Color(hubHex: "#F6C873"))
+            .preferredColorScheme(.dark)
+            .toolbar { ToolbarItem(placement: .topBarTrailing) {
+                Button { sources = true } label: { Image(systemName: "info.circle").frame(minWidth: 44, minHeight: 44) }
+                    .accessibilityLabel("Data and sources").accessibilityIdentifier("trajectory.sources")
+            } }
+            .sheet(isPresented: $sources) {
+                NavigationStack {
+                    ScrollView {
+                        VStack(alignment: .leading, spacing: 18) {
+                            Text(summary).accessibilityIdentifier("trajectory.data-values")
+                            ForEach(story.methodology, id: \.self) { Text($0) }
+                            ForEach(story.sources) { source in
+                                if let url = StoryContract.sourceURL(source.url) { Link(source.title, destination: url) }
+                            }
+                        }.padding(22)
+                    }.navigationTitle("Data and sources")
+                        .toolbar { ToolbarItem(placement: .confirmationAction) { Button("Done") { sources = false } } }
+                }
+            }
+            .onAppear { if !launched { replay(); launched = true } }
+            .onDisappear { playback.pause(now: now, duration: story.chart.durationSeconds); completion.pause() }
+            .onChange(of: scenePhase) { _, phase in
+                completion.pause()
+                if phase == .active && !sources { playback.resume(now: now, duration: story.chart.durationSeconds) }
+                else { playback.pause(now: now, duration: story.chart.durationSeconds) }
+            }
+            .onChange(of: sources) { _, value in
+                completion.pause()
+                if value { playback.pause(now: now, duration: story.chart.durationSeconds) }
+                else if scenePhase == .active { playback.resume(now: now, duration: story.chart.durationSeconds) }
+            }
+            .background {
+                PlaybackClock(active: launched && scenePhase == .active && !sources && !completed) { clock in
+                    let finished = playback.time(now: clock, duration: story.chart.durationSeconds) >= story.chart.durationSeconds
+                    if let onCompleted, completion.tick(now: clock, complete: finished, duration: typeSize.isAccessibilitySize || voiceOver ? 15 : 6) { completed = true; onCompleted() }
+                }
+            }
+    }
+    private func replay() {
+        completion.reset(); completed = false
+        playback.start(now: now, reducedMotion: reduced, duration: story.chart.durationSeconds)
     }
 }

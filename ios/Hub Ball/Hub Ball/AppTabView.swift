@@ -218,9 +218,10 @@ struct AppTabView: View {
         .sheet(item: $remoteFeaturedStory, onDismiss: {
             launchStoryPresented = false
             postseasonLanding = true
+            if let id = model.featuredStoryLaunch.offeredID { model.featuredStoryLaunch.acknowledge(id) }
             model.launchFlow.storyDismissed()
         }) { item in
-            FeaturedStoryDocumentView(item: item) { remoteFeaturedStory = nil }
+            FeaturedStoryCardView(item: item, acknowledge: { model.featuredStoryLaunch.acknowledge(item.entry.id) }, close: { remoteFeaturedStory = nil })
         }
         .sheet(item: $featuredStory, onDismiss: {
             launchStoryPresented = false

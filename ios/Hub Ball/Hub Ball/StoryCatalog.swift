@@ -5,7 +5,7 @@ nonisolated enum StoryContentError: Error { case invalid, unsupported, oversized
 
 /// Content can select these bundled capabilities; it cannot supply code or formulas.
 nonisolated enum StoryContract {
-    static let rendererVersion = 4
+    static let rendererVersion = 5
     static let catalogLimit = 128 * 1_024
     static let payloadLimit = 512 * 1_024
 
@@ -56,7 +56,7 @@ nonisolated enum StoryContract {
         try check(entry.minimumRendererVersion >= 2)
         let story = try JSONDecoder().decode(TrajectoryStory.self, from: data)
         try story.validate()
-        try check(entry.minimumRendererVersion >= story.chart.minimumCapability)
+        try check(entry.minimumRendererVersion >= story.minimumCapability)
         try check(story.id == entry.id && story.title == entry.title && story.renderer == entry.renderer && story.rendererVersion == entry.rendererVersion)
         return .trajectory(story)
     }

@@ -113,6 +113,39 @@ nonisolated struct TrajectoryStory: Codable, Sendable {
     let intro: String
     let chart: Chart
     let conclusion: String
+    let presentation: Presentation?
+    var minimumCapability: Int { presentation == nil ? chart.minimumCapability : 5 }
+    struct Presentation: Codable, Sendable {
+        struct Interval: Codable, Sendable { let start: Double; let end: Double; let label: String }
+        let style: String
+        let headline: String
+        let subheadline: String
+        let hookExpiresAt: String
+        let numberFormat: String
+        let openingSeconds: Double
+        let sweepSeconds: Double
+        func barGrowth(elapsed: Double, index: Int, count: Int) -> Double {
+            let progress = min(1, max(0, (elapsed - openingSeconds) / sweepSeconds))
+            return min(1, max(0, progress * Double(count) - Double(index)))
+        }
+        let intervals: [Interval]
+        func hookIsCurrent(now: Date = Date()) -> Bool {
+            now < (ISO8601DateFormatter().date(from: hookExpiresAt) ?? .distantPast)
+        }
+        func validate(chart: Chart) throws {
+            try StoryContract.check(style == "screening-room" && ["standard", "innings"].contains(numberFormat))
+            try StoryContract.check(openingSeconds.isFinite && sweepSeconds.isFinite && openingSeconds >= 0 && openingSeconds <= 3 && sweepSeconds >= 1 && openingSeconds + sweepSeconds <= chart.durationSeconds)
+            try StoryContract.text(headline, limit: 160); try StoryContract.text(subheadline, limit: 400)
+            try StoryContract.check(StoryContract.timestamp(hookExpiresAt) && intervals.count <= 6)
+            for interval in intervals {
+                try StoryContract.check(interval.start.isFinite && interval.end.isFinite && interval.start < interval.end && interval.start >= chart.xAxis.minimum - 0.5 && interval.end <= chart.xAxis.maximum + 0.5)
+                try StoryContract.text(interval.label, limit: 80)
+            }
+            if numberFormat == "innings" {
+                try StoryContract.check(chart.kind == "bar" && chart.yAxis.minimum == 0 && chart.series.allSatisfy { $0.points.allSatisfy { $0.y >= 0 && abs($0.y * 3 - ($0.y * 3).rounded()) < 0.000001 } })
+            }
+        }
+    }
     let methodology: [String]
     let sources: [RemoteStory.Source]
     func validate() throws {
@@ -121,6 +154,7 @@ nonisolated struct TrajectoryStory: Codable, Sendable {
         try StoryContract.text(title, limit: 160); try StoryContract.text(kicker, limit: 160)
         try StoryContract.text(intro); try StoryContract.text(conclusion)
         try chart.validate()
+        try presentation?.validate(chart: chart)
         try StoryContract.check((1...12).contains(methodology.count) && (1...12).contains(sources.count) && Set(sources.map(\.id)).count == sources.count)
         for text in methodology { try StoryContract.text(text) }
         for source in sources {

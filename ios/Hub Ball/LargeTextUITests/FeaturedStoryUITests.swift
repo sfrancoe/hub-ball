@@ -10,7 +10,7 @@ final class FeaturedStoryUITests: XCTestCase {
         continueAfterFailure = false
         app = XCUIApplication(bundleIdentifier: "com.sfrancoe.HubBall")
         app.launchEnvironment = ["HUB_API_ROOT":"http://127.0.0.1:1","HUB_DATA_ROOT":"http://127.0.0.1:1/data","HUB_STORY_ROOT":"http://127.0.0.1:1/data",
-            "HUB_FEATURED_CACHE_NAME":"featured-"+UUID().uuidString,"HUB_UPDATE_ROOT":updateRoot.replacingOccurrences(of:"/beta-fixture",with:"/beta-disabled-fixture"),
+            "HUB_FEATURED_ACK_DEFAULTS":"featured-"+UUID().uuidString,"HUB_FEATURED_CACHE_NAME":"featured-"+UUID().uuidString,"HUB_UPDATE_ROOT":updateRoot.replacingOccurrences(of:"/beta-fixture",with:"/beta-disabled-fixture"),
             "HUB_UPDATE_TEST_BETA":"1","HUB_UPDATE_TEST_BUILD":"127","HUB_UPDATE_TEST_DEFAULTS":"featured-"+UUID().uuidString,"HUB_TESTFLIGHT_HANDOFF":"failure"]
         if !root.isEmpty { app.launchEnvironment["HUB_FEATURED_ROOT"] = root }
         app.launchArguments = ["-hubCompletedTeamOnboarding","YES","-hubSelectedTeam","rays","-UIPreferredContentSizeCategoryName","UICTContentSizeCategoryL"]
@@ -23,6 +23,7 @@ final class FeaturedStoryUITests: XCTestCase {
         XCTAssertEqual((response as? HTTPURLResponse)?.statusCode,200)
     }
     private func grid() {
+        if !app.staticTexts["out-grid.heading"].exists, app.buttons["featured.play"].waitForExistence(timeout:7) { app.buttons["featured.play"].tap() }
         XCTAssertTrue(app.staticTexts["out-grid.heading"].waitForExistence(timeout:7))
         XCTAssertEqual(app.staticTexts["out-grid.heading"].label,"Wow!")
         XCTAssertEqual(app.staticTexts["out-grid.commentary"].label,"Cleveland set a major league record (regular OR postseason) for the number of strikeouts in a 9-inning game going back to 1900. They did this in the deciding Game 5 of the ALDS. Guardians move on after winning 2-0.")
@@ -44,11 +45,12 @@ final class FeaturedStoryUITests: XCTestCase {
         XCTAssertFalse(app.staticTexts["out-grid.heading"].exists);shot("remote-notice-first")
         app.buttons["beta-update.later"].tap();grid();shot("remote-cleveland-approved")
         dismissGrid();XCUIDevice.shared.press(.home);app.activate();landing()
-        app.terminate();app.launch();grid();dismissGrid()
+        app.terminate();app.launch();landing()
     }
     @MainActor func testOfflineAndBadHashKeepVerifiedCacheThenDisabledRevokes() async throws {
         try await mode("good");app.launch();grid();dismissGrid();app.terminate()
         for value in ["offline","bad-hash"] {
+            app.launchEnvironment["HUB_FEATURED_ACK_DEFAULTS"]="cache-person-"+UUID().uuidString
             try await mode(value);app.launch();grid();shot("remote-cache-"+value);dismissGrid();app.terminate()
         }
         try await mode("disabled");app.launch();try await wait(3);landing();shot("remote-disabled-postseason");app.terminate()
@@ -64,6 +66,7 @@ final class FeaturedStoryUITests: XCTestCase {
     @MainActor func testDifferentRendererOnColdRelaunch() async throws {
         try await mode("good");app.launch();grid();dismissGrid();app.terminate()
         try await mode("trajectory");app.launch()
+        XCTAssertTrue(app.buttons["featured.play"].waitForExistence(timeout:7));app.buttons["featured.play"].tap()
         XCTAssertTrue(app.staticTexts["remote.title"].waitForExistence(timeout:7))
         XCTAssertEqual(app.staticTexts["remote.title"].label,"A Whole Season of Wins. By June.")
         XCTAssertFalse(app.staticTexts["out-grid.heading"].exists);shot("remote-trajectory")
@@ -126,7 +129,7 @@ final class FeaturedStoryUITests: XCTestCase {
         XCTAssertFalse(app.staticTexts["out-grid.heading"].exists);shot("live-same-installed-127-story-b")
         app.buttons["featured.close"].tap();landing();app.terminate();print("LIVE_SWAP_B_SEEN_RESTORE_A");fflush(nil)
         try await awaitRevision("scott-preview-cleveland-october11")
-        app.launch();grid();shot("live-same-installed-127-restored-a");dismissGrid()
+        app.launch();landing();shot("live-same-installed-restored-a-acknowledged")
         print("LIVE_SWAP_A_B_A_PASSED_NO_INSTALL_OR_REBUILD");fflush(nil)
     }
 }

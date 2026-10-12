@@ -144,6 +144,18 @@ def validate_trajectory(payload, entry=None):
     for field, limit in [('title', 160), ('kicker', 160), ('intro', 2000), ('conclusion', 2000)]:
         text(payload[field], limit)
     chart = payload['chart']
+    presentation = payload.get('presentation')
+    if presentation is not None:
+        require(presentation['style'] == 'screening-room' and presentation['numberFormat'] in ['standard', 'innings'], 'Unknown screening presentation')
+        text(presentation['headline'], 160); text(presentation['subheadline'], 400); timestamp(presentation['hookExpiresAt'])
+        require(type(presentation['openingSeconds']) in [int,float] and math.isfinite(presentation['openingSeconds']) and 0 <= presentation['openingSeconds'] <= 3, 'Invalid opening timing')
+        require(type(presentation['sweepSeconds']) in [int,float] and math.isfinite(presentation['sweepSeconds']) and 1 <= presentation['sweepSeconds'] and presentation['openingSeconds'] + presentation['sweepSeconds'] <= chart['durationSeconds'], 'Invalid sweep timing')
+        require(len(presentation['intervals']) <= 6, 'Too many intervals')
+        for interval in presentation['intervals']:
+            text(interval['label'],80)
+            require(all(type(interval[k]) in [int,float] and math.isfinite(interval[k]) for k in ['start','end']) and chart['xAxis']['minimum'] - .5 <= interval['start'] < interval['end'] <= chart['xAxis']['maximum'] + .5, 'Invalid interval bounds')
+        if presentation['numberFormat'] == 'innings':
+            require(chart['kind'] == 'bar' and chart['yAxis']['minimum'] == 0 and all(p['y'] >= 0 and abs(p['y']*3-round(p['y']*3)) < .000001 for r in chart['series'] for p in r['points']), 'Innings values must be exact outs divided by three')
     require(chart['kind'] in ['line', 'step', 'bar'], 'Unsupported chart kind')
     def number(value):
         require(type(value) in [int, float] and math.isfinite(value), 'Invalid finite chart number')
@@ -198,7 +210,7 @@ def validate_trajectory(payload, entry=None):
         require(url.scheme == 'https' and url.hostname and not url.username and not url.password and len(source['url']) <= 2000, 'Unsafe source URL')
     if entry:
         require(all(payload[k] == entry[k] for k in ['id', 'title', 'renderer', 'rendererVersion']) and entry['minimumRendererVersion'] >= 2, 'Chart capability or identity mismatch')
-        require(entry['minimumRendererVersion'] >= (3 if sequence or any(b.get('comparison') for b in beats) else 2), 'Sequence/comparison capability mismatch')
+        require(entry['minimumRendererVersion'] >= (5 if presentation else 3 if sequence or any(b.get('comparison') for b in beats) else 2), 'Presentation/sequence/comparison capability mismatch')
     return payload
 
 

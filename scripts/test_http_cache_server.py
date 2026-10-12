@@ -99,6 +99,23 @@ class Handler(BaseHTTPRequestHandler):
             with STATE.lock: mode = getattr(STATE, 'featured_mode', 'good')
             if mode == 'offline': self.send_json({'offline': True}, 'no-store', status=503); return
             if mode == 'slow': time.sleep(3)
+            if mode.startswith('screening'):
+                import base64, hashlib
+                envelope = json.loads((base/'ios/Hub Ball/Hub Ball/featured-preview.json').read_text())
+                payload = json.loads(base64.b64decode(envelope['payloadBase64']))
+                manifest = envelope['manifest']; entry = manifest['entry']
+                if mode == 'screening-b':
+                    payload['id'] = 'second-screening-story'; entry['id'] = payload['id']
+                    payload['presentation']['headline'] = 'A second story for the next opening.'
+                if mode == 'screening-revised': payload['presentation']['subheadline'] += ' Revised copy.'
+                body = (json.dumps(payload,ensure_ascii=False,sort_keys=True,indent=2)+'\n').encode()
+                entry['revision'] = hashlib.sha256(body).hexdigest()
+                if mode == 'screening-expired':
+                    now = datetime.now(timezone.utc)
+                    manifest['expiresAt'] = (now-timedelta(seconds=1)).strftime('%Y-%m-%dT%H:%M:%SZ')
+                    manifest['publishedAt'] = manifest['notBefore']
+                if parsed.path.endswith('/featured-v1.json'): self.send_json(manifest,'no-store'); return
+                self.send_response(200); self.send_header('Content-Type','application/json'); self.send_header('Content-Length',str(len(body))); self.end_headers(); self.wfile.write(body); return
             if parsed.path.endswith('/featured-v1.json'):
                 now = datetime.now(timezone.utc).replace(microsecond=0)
                 entry = json.loads((base/'ios/Hub Ball/Hub Ball/story-private-cleveland-catalog.json').read_text())['stories'][0]
