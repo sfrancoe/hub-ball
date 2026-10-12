@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T15:54:08.588057+00:00",
-  "roster_as_of": "October 3, 2026",
+  "generated_at": "2026-10-12T19:14:17.366708+00:00",
+  "roster_as_of": "October 12, 2026",
   "team": {
     "id": 114,
     "name": "Cleveland Guardians"
@@ -578,8 +578,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
-      "is_active_roster": false,
+      "roster_status": "Active",
+      "is_active_roster": true,
       "birth_date": "1999-06-24",
       "age": 27,
       "birthplace": "Oviedo",
@@ -2419,8 +2419,8 @@
         "group": "Outfielder",
         "abbreviation": "CF"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "Inactive roster",
+      "is_active_roster": false,
       "birth_date": "1997-01-23",
       "age": 29,
       "birthplace": "San Diego, California, U.S.",
