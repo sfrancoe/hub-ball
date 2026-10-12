@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T13:42:10+00:00",
+ "generated_at": "2026-09-14T00:05:12+00:00",
  "source": "MLB Stats API (statsapi.mlb.com)",
  "war_source": "Baseball Reference daily bWAR (baseball-reference.com/data)",
  "team_id": 111,
@@ -377,18 +377,18 @@
    }
   },
   "2026": {
-   "record": "77-65",
-   "games": 142,
+   "record": "82-68",
+   "games": 150,
    "in_progress": true,
    "checkpoint_record": "57-51",
    "war_leader": {
     "name": "Wilyer Abreu",
-    "war": 5.5
+    "war": 6.0
    },
    "war_leaders": [
     {
      "name": "Wilyer Abreu",
-     "war": 5.5
+     "war": 6.0
     },
     {
      "name": "Ceddanne Rafaela",
@@ -404,15 +404,15 @@
      "top": [
       {
        "name": "Garrett Whitlock",
-       "value": "0.85"
+       "value": "0.83"
       },
       {
        "name": "Jake Bennett",
-       "value": "1.02"
+       "value": "1.07"
       },
       {
        "name": "Payton Tolle",
-       "value": "1.10"
+       "value": "1.07"
       }
      ]
     }
@@ -430,11 +430,11 @@
       },
       {
        "name": "Wilyer Abreu",
-       "value": 23
+       "value": 24
       },
       {
        "name": "Jarren Duran",
-       "value": 19
+       "value": 20
       }
      ]
     },
@@ -449,11 +449,11 @@
        "value": 79
       },
       {
-       "name": "Ceddanne Rafaela",
-       "value": 70
+       "name": "Wilyer Abreu",
+       "value": 74
       },
       {
-       "name": "Wilyer Abreu",
+       "name": "Ceddanne Rafaela",
        "value": 70
       }
      ]
@@ -470,7 +470,7 @@
       },
       {
        "name": "Willson Contreras",
-       "value": ".274"
+       "value": ".277"
       },
       {
        "name": "Wilyer Abreu",
@@ -482,11 +482,11 @@
      "names": [
       "Willson Contreras"
      ],
-     "value": ".900",
+     "value": ".904",
      "top": [
       {
        "name": "Willson Contreras",
-       "value": ".900"
+       "value": ".904"
       },
       {
        "name": "Wilyer Abreu",

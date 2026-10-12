@@ -64,9 +64,11 @@ struct HeadlinesView: View {
 
     private func newspaperQuadrant(_ source: NewsSource) -> some View {
         VStack(spacing: 0) {
-            Text(store.feeds[source]?.source ?? source.shortName)
-                .font(.system(size: 20, weight: .black))
-                .foregroundStyle(.black)
+            newspaperName(
+                store.feeds[source]?.source ?? source.shortName,
+                source: source,
+                font: .system(size: 20, weight: .black)
+            )
                 .multilineTextAlignment(.center)
                 .frame(maxWidth: .infinity, alignment: .center)
                 .padding(.horizontal, 14)
@@ -139,7 +141,7 @@ struct HeadlinesView: View {
             ScrollView {
                 LazyVStack(spacing: 8) {
                     if let feed = store.feeds[selection.wrappedValue] {
-                        feedHeader(feed)
+                        feedHeader(feed, source: selection.wrappedValue)
 
                         ForEach(feed.articles) { article in
                             articleCard(article)
@@ -167,13 +169,14 @@ struct HeadlinesView: View {
                 Button {
                     selection.wrappedValue = source
                 } label: {
-                    Text(source.shortName)
-                        .font(
-                            .system(
-                                size: selection.wrappedValue == source ? 16 : 13,
-                                weight: selection.wrappedValue == source ? .black : .semibold
-                            )
+                    newspaperName(
+                        source.shortName,
+                        source: source,
+                        font: .system(
+                            size: selection.wrappedValue == source ? 16 : 13,
+                            weight: selection.wrappedValue == source ? .black : .semibold
                         )
+                    )
                         .lineLimit(1)
                         .minimumScaleFactor(0.72)
                         .frame(maxWidth: .infinity)
@@ -196,11 +199,9 @@ struct HeadlinesView: View {
         .padding(.vertical, 10)
     }
 
-    private func feedHeader(_ feed: NewsFeed) -> some View {
+    private func feedHeader(_ feed: NewsFeed, source: NewsSource) -> some View {
         HStack(alignment: .firstTextBaseline) {
-            Text(feed.source)
-                .font(.system(size: 14, weight: .black))
-                .foregroundStyle(.black)
+            newspaperName(feed.source, source: source, font: .system(size: 14, weight: .black))
 
             Spacer()
 
@@ -208,6 +209,21 @@ struct HeadlinesView: View {
                 .font(.system(size: 9, weight: .medium))
                 .foregroundStyle(Color.black.opacity(0.78))
                 .multilineTextAlignment(.trailing)
+        }
+    }
+
+    private func newspaperName(_ name: String, source: NewsSource, font: Font) -> some View {
+        TimelineView(.periodic(from: .now, by: 60)) { timeline in
+            let hasNewStory = store.feeds[source]?.articles.contains {
+                $0.isNew(asOf: timeline.date)
+            } ?? false
+            let badge = Text(hasNewStory ? " ⚡" : "")
+                .foregroundColor(AppColor.red)
+
+            Text("\(Text(name))\(badge)")
+                .font(font)
+                .foregroundStyle(.black)
+                .accessibilityLabel(hasNewStory ? "\(name), new stories available" : name)
         }
     }
 

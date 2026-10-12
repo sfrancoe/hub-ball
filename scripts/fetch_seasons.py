@@ -37,6 +37,13 @@ PITCHING_API = ("https://statsapi.mlb.com/api/v1/stats"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CHECKPOINT = 108  # the game the whole story hangs on
 
+# A one-inning visual story. Keep the game and pitcher IDs here—not in the
+# browser—so the published page is fed by the same generated-data pipeline as
+# the season story.
+IMMACULATE_GAME_PK = 824708
+IMMACULATE_PITCHER_ID = 801139  # Payton Tolle
+GAME_FEED_API = "https://statsapi.mlb.com/api/v1.1/game/{game_pk}/feed/live"
+
 # WAR is not in the MLB Stats API — it's a derived stat. Baseball Reference
 # publishes its bWAR as two plain-text CSVs, rebuilt daily, so the live season's
 # leader stays current. Free, no key, stdlib-parseable.
@@ -301,6 +308,59 @@ def build_season(year: int) -> dict:
     return out
 
 
+def immaculate_inning() -> dict:
+    """Extract Tolle's nine-pitch first inning from the authoritative game feed."""
+    print("\nFetching Payton Tolle's immaculate inning from MLB Stats API")
+    payload = fetch_json(GAME_FEED_API.format(game_pk=IMMACULATE_GAME_PK))
+    game_data = payload.get("gameData", {})
+    plays = payload.get("liveData", {}).get("plays", {}).get("allPlays", [])
+    batters, pitches = [], []
+
+    for play in plays:
+        about = play.get("about", {})
+        matchup = play.get("matchup", {})
+        pitcher = matchup.get("pitcher", {})
+        if (about.get("inning") != 1 or about.get("halfInning") != "top"
+                or pitcher.get("id") != IMMACULATE_PITCHER_ID):
+            continue
+        if play.get("result", {}).get("eventType") != "strikeout":
+            raise RuntimeError("immaculate inning source no longer has three strikeouts")
+        batters.append(matchup.get("batter", {}).get("fullName", "Unknown batter"))
+        for event in play.get("playEvents", []):
+            if not event.get("isPitch"):
+                continue
+            details = event.get("details", {})
+            pitch_data = event.get("pitchData", {})
+            pitches.append({
+                "number": len(pitches) + 1,
+                "batter": matchup.get("batter", {}).get("fullName", "Unknown batter"),
+                "description": details.get("description", "Strike"),
+                "pitch_type": details.get("type", {}).get("description", "Pitch"),
+                "speed": pitch_data.get("startSpeed"),
+            })
+
+    if len(batters) != 3 or len(pitches) != 9:
+        raise RuntimeError(
+            f"immaculate inning check failed: {len(batters)} batters, {len(pitches)} pitches")
+    if any(pitch["speed"] is None for pitch in pitches):
+        raise RuntimeError("immaculate inning source is missing pitch velocity")
+
+    teams = game_data.get("teams", {})
+    out = {
+        "game_pk": IMMACULATE_GAME_PK,
+        "date": game_data.get("datetime", {}).get("originalDate", ""),
+        "venue": game_data.get("venue", {}).get("name", "Fenway Park"),
+        "pitcher": "Payton Tolle",
+        "opponent": teams.get("away", {}).get("name", "Kansas City Royals"),
+        "final_score": "Boston 4, Kansas City 1",
+        "batters": batters,
+        "pitches": pitches,
+        "source": "MLB Stats API live game feed",
+    }
+    print("    confirmed: 9 pitches · 9 strikes · 3 strikeouts")
+    return out
+
+
 def main() -> int:
     years = [int(a) for a in sys.argv[1:]] or SEASONS
     print(f"Fetching Red Sox seasons {years} from MLB Stats API")
@@ -351,6 +411,8 @@ def main() -> int:
 
     (ROOT / "data").mkdir(exist_ok=True)
     (ROOT / "data/seasons.json").write_text(json.dumps(seasons, indent=1) + "\n")
+    immaculate = immaculate_inning()
+    (ROOT / "data/tolle-immaculate.json").write_text(json.dumps(immaculate, indent=1) + "\n")
 
     meta = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -369,7 +431,7 @@ def main() -> int:
         "premise_holds": bool(all_match),
     }
     (ROOT / "data/meta.json").write_text(json.dumps(meta, indent=1) + "\n")
-    print("Wrote data/seasons.json and data/meta.json")
+    print("Wrote data/seasons.json, data/tolle-immaculate.json, and data/meta.json")
     return 0
 
 
