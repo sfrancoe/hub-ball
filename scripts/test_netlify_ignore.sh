@@ -118,5 +118,6 @@ expect_result 0 "$IGNORED_MOVE" "$IGNORED_TO_IGNORED" "move within ignored direc
 expect_result 1 missing "$IGNORED_TO_IGNORED" "missing cached ref builds"
 expect_result 1 "$IGNORED_TO_IGNORED" invalid "invalid target ref builds"
 expect_result 1 "" "$IGNORED_TO_IGNORED" "empty cached ref builds"
+expect_result 1 "$IGNORED_TO_IGNORED" "$IGNORED_TO_IGNORED" "cache-less build with equal refs builds"
 
 printf 'netlify ignore checks passed\n'
