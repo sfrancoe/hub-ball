@@ -839,7 +839,7 @@ function renderPanel() {
   if (canOpen(sel)) h += isOpen(sel) ? `<button data-act="collapse">Close group</button>` : `<button class="primary" data-act="expand">Open ${n.children.length} parts</button>`;
   h += `<button data-act="focus">Fly to</button>`;
   if (n.url) h += `<a href="${esc(n.url)}" target="_blank" rel="noopener">View on GitHub ↗</a>`;
-  else if (n.path && n.kind === 'leafgroup') h += `<a href="https://github.com/sfrancoe/red-sox/tree/main/${esc(n.path)}" target="_blank" rel="noopener">Folder on GitHub ↗</a>`;
+  else if (n.path && n.kind === 'leafgroup') h += `<a href="https://github.com/sfrancoe/hub-ball/tree/main/${esc(n.path)}" target="_blank" rel="noopener">Folder on GitHub ↗</a>`;
   h += `</div>`;
   if (n.types && n.types.length) h += `<div class="sec"><h4>Swift types declared</h4><div class="chips">${n.types.map(t => `<span>${esc(t)}</span>`).join('')}</div></div>`;
   // contents

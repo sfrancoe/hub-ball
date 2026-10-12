@@ -8,7 +8,7 @@ Updated October 9, 2026 from the canonical checkout at
 Hub Ball is a native SwiftUI baseball companion for all 30 MLB teams, backed by
 generated JSON feeds and Netlify Functions. The repository also contains the original
 Boston baseball website and canvas stories. The repository is
-`https://github.com/sfrancoe/red-sox`; `main` is the only release and device-installation
+`https://github.com/sfrancoe/hub-ball`; `main` is the only release and device-installation
 source. The git database now lives in `~/Projects/Hub Ball`; the old MLB Apps checkout
 was retired on Oct 12, 2026.
 

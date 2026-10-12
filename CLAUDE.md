@@ -14,7 +14,7 @@ navigation and current source as the feature inventory; preserve source wording 
 news feeds.
 
 **Primary developer:** Scott Francoe
-**GitHub repo:** https://github.com/sfrancoe/red-sox (public)
+**GitHub repo:** https://github.com/sfrancoe/hub-ball (public)
 **Hosting:** Netlify (auto-deploys from `main`)
 **Local path:** `/Users/sfrancoe/Projects/Hub Ball` (the Red-Sox checkout is archived)
 

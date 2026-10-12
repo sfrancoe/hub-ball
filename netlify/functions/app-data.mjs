@@ -1,7 +1,7 @@
 import { MLB_TEAMS } from './team-registry.mjs';
 import { createHash } from 'node:crypto';
 
-const RAW_DATA_ROOT = 'https://raw.githubusercontent.com/sfrancoe/red-sox/main/data';
+const RAW_DATA_ROOT = 'https://raw.githubusercontent.com/sfrancoe/hub-ball/main/data';
 const FALLBACK_USER_AGENT = 'HubBall/1.0 (+https://api.autumnlane.io)';
 
 const STANDARD_FILES = [
