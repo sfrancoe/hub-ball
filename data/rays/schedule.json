@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:37:59.647270+00:00",
+  "generated_at": "2026-10-12T06:33:45.580129+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -10,13 +10,13 @@
       "status": "Scheduled",
       "venue": "Tropicana Field",
       "location": "home",
-      "opponent": "CLE/CWS",
+      "opponent": "Guardians",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
-      "favorite_team_pitcher": "",
-      "opponent_pitcher": "",
-      "favorite_team_pitcher_record": "—",
-      "opponent_pitcher_record": "—",
+      "favorite_team_pitcher": "Drew Rasmussen",
+      "opponent_pitcher": "Foster Griffin",
+      "favorite_team_pitcher_record": "16-5",
+      "opponent_pitcher_record": "15-6",
       "show_probables": true,
       "series_description": "AL Championship Series",
       "doubleheader": false,
@@ -25,28 +25,28 @@
         {
           "name": "TBS/HBO MAX",
           "is_national": true,
+          "home_away": "away",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TBS/HBO MAX",
+          "is_national": true,
           "home_away": "home",
           "availability": "national",
           "available_for_streaming": true
         },
         {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
-          "name": "TruTV",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
           "name": "TruTV",
           "is_national": true,
           "home_away": "home",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TruTV",
+          "is_national": true,
+          "home_away": "away",
           "availability": "national",
           "available_for_streaming": false
         }
@@ -58,7 +58,55 @@
       "status": "Scheduled",
       "venue": "Tropicana Field",
       "location": "home",
-      "opponent": "CLE/CWS",
+      "opponent": "Guardians",
+      "opponent_record": "0-0",
+      "favorite_team_record": "0-0",
+      "favorite_team_pitcher": "",
+      "opponent_pitcher": "",
+      "favorite_team_pitcher_record": "—",
+      "opponent_pitcher_record": "—",
+      "show_probables": true,
+      "series_description": "AL Championship Series",
+      "doubleheader": false,
+      "game_number": 1,
+      "broadcasts": [
+        {
+          "name": "TBS/HBO MAX",
+          "is_national": true,
+          "home_away": "away",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TBS/HBO MAX",
+          "is_national": true,
+          "home_away": "home",
+          "availability": "national",
+          "available_for_streaming": true
+        },
+        {
+          "name": "TruTV",
+          "is_national": true,
+          "home_away": "home",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TruTV",
+          "is_national": true,
+          "home_away": "away",
+          "availability": "national",
+          "available_for_streaming": false
+        }
+      ]
+    },
+    {
+      "game_pk": 849818,
+      "game_date": "2026-10-15T22:00:00Z",
+      "status": "Scheduled",
+      "venue": "Progressive Field",
+      "location": "away",
+      "opponent": "Guardians",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
       "favorite_team_pitcher": "",
@@ -101,78 +149,23 @@
       ]
     },
     {
-      "game_pk": 849818,
-      "game_date": "2026-10-15T22:00:00Z",
-      "status": "Scheduled",
-      "venue": "AL Stadium",
-      "location": "away",
-      "opponent": "CLE/CWS",
-      "opponent_record": "0-0",
-      "favorite_team_record": "0-0",
-      "favorite_team_pitcher": "",
-      "opponent_pitcher": "",
-      "favorite_team_pitcher_record": "—",
-      "opponent_pitcher_record": "—",
-      "show_probables": false,
-      "series_description": "AL Championship Series",
-      "doubleheader": false,
-      "game_number": 1,
-      "broadcasts": [
-        {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
-          "home_away": "home",
-          "availability": "national",
-          "available_for_streaming": true
-        },
-        {
-          "name": "TruTV",
-          "is_national": true,
-          "home_away": "home",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
-          "name": "TruTV",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        }
-      ]
-    },
-    {
       "game_pk": 849817,
       "game_date": "2026-10-16T22:00:00Z",
       "status": "Scheduled",
-      "venue": "AL Stadium",
+      "venue": "Progressive Field",
       "location": "away",
-      "opponent": "CLE/CWS",
+      "opponent": "Guardians",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
       "favorite_team_pitcher": "",
       "opponent_pitcher": "",
       "favorite_team_pitcher_record": "—",
       "opponent_pitcher_record": "—",
-      "show_probables": false,
+      "show_probables": true,
       "series_description": "AL Championship Series",
       "doubleheader": false,
       "game_number": 1,
       "broadcasts": [
-        {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
         {
           "name": "TBS/HBO MAX",
           "is_national": true,
@@ -181,9 +174,9 @@
           "available_for_streaming": true
         },
         {
-          "name": "TruTV",
+          "name": "TBS/HBO MAX",
           "is_national": true,
-          "home_away": "home",
+          "home_away": "away",
           "availability": "national",
           "available_for_streaming": false
         },
@@ -191,6 +184,13 @@
           "name": "TruTV",
           "is_national": true,
           "home_away": "away",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TruTV",
+          "is_national": true,
+          "home_away": "home",
           "availability": "national",
           "available_for_streaming": false
         }
@@ -200,9 +200,9 @@
       "game_pk": 849816,
       "game_date": "2026-10-18T00:00:00Z",
       "status": "Scheduled",
-      "venue": "AL Stadium",
+      "venue": "Progressive Field",
       "location": "away",
-      "opponent": "CLE/CWS",
+      "opponent": "Guardians",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
       "favorite_team_pitcher": "",
@@ -217,21 +217,14 @@
         {
           "name": "TBS/HBO MAX",
           "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
           "home_away": "home",
           "availability": "national",
           "available_for_streaming": true
         },
         {
-          "name": "TruTV",
+          "name": "TBS/HBO MAX",
           "is_national": true,
-          "home_away": "home",
+          "home_away": "away",
           "availability": "national",
           "available_for_streaming": false
         },
@@ -239,6 +232,13 @@
           "name": "TruTV",
           "is_national": true,
           "home_away": "away",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TruTV",
+          "is_national": true,
+          "home_away": "home",
           "availability": "national",
           "available_for_streaming": false
         }
@@ -250,7 +250,7 @@
       "status": "Scheduled",
       "venue": "Tropicana Field",
       "location": "home",
-      "opponent": "CLE/CWS",
+      "opponent": "Guardians",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
       "favorite_team_pitcher": "",
@@ -265,28 +265,28 @@
         {
           "name": "TBS/HBO MAX",
           "is_national": true,
+          "home_away": "away",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TBS/HBO MAX",
+          "is_national": true,
           "home_away": "home",
           "availability": "national",
           "available_for_streaming": true
         },
         {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
-          "name": "TruTV",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
           "name": "TruTV",
           "is_national": true,
           "home_away": "home",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TruTV",
+          "is_national": true,
+          "home_away": "away",
           "availability": "national",
           "available_for_streaming": false
         }
@@ -298,7 +298,7 @@
       "status": "Scheduled",
       "venue": "Tropicana Field",
       "location": "home",
-      "opponent": "CLE/CWS",
+      "opponent": "Guardians",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
       "favorite_team_pitcher": "",
@@ -313,28 +313,28 @@
         {
           "name": "TBS/HBO MAX",
           "is_national": true,
+          "home_away": "away",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TBS/HBO MAX",
+          "is_national": true,
           "home_away": "home",
           "availability": "national",
           "available_for_streaming": true
         },
         {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
-          "name": "TruTV",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
           "name": "TruTV",
           "is_national": true,
           "home_away": "home",
+          "availability": "national",
+          "available_for_streaming": false
+        },
+        {
+          "name": "TruTV",
+          "is_national": true,
+          "home_away": "away",
           "availability": "national",
           "available_for_streaming": false
         }

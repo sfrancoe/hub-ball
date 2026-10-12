@@ -1,11 +1,35 @@
 {
- "2023": {
+ "2026": {
   "diff": [
+   -1,
+   -2,
+   -1,
+   0,
+   -1,
+   -2,
+   -3,
+   -2,
+   -1,
+   0,
+   -1,
+   -2,
+   -1,
+   0,
+   1,
+   2,
+   3,
+   4,
+   3,
+   4,
+   3,
+   2,
    1,
    2,
    3,
    4,
    5,
+   6,
+   7,
    6,
    7,
    8,
@@ -15,8 +39,44 @@
    12,
    13,
    12,
+   13,
+   14,
+   15,
+   14,
+   15,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   18,
+   17,
+   16,
+   15,
+   16,
+   15,
+   16,
+   15,
+   14,
+   13,
+   14,
+   13,
+   12,
+   13,
+   14,
+   15,
+   14,
+   13,
+   14,
+   13,
+   12,
    11,
    12,
+   11,
+   12,
+   11,
+   10,
    11,
    12,
    13,
@@ -24,44 +84,54 @@
    15,
    16,
    17,
+   18,
+   19,
+   18,
+   17,
    16,
+   17,
+   18,
+   17,
+   18,
+   19,
+   18,
+   17,
+   16,
+   15,
+   14,
    15,
    16,
    17,
-   18,
+   16,
    17,
    18,
    19,
+   18,
+   19,
    20,
-   21,
-   20,
-   21,
-   22,
-   21,
-   20,
-   21,
+   19,
    20,
    19,
    20,
    21,
-   20,
-   19,
-   20,
-   21,
-   20,
-   21,
-   20,
-   21,
    22,
    23,
-   22,
+   24,
+   25,
+   26,
+   27,
+   28,
+   27,
+   26,
+   25,
+   26,
+   25,
+   26,
+   25,
+   24,
    23,
-   22,
-   21,
-   22,
-   21,
-   22,
-   23,
+   24,
+   25,
    24,
    25,
    26,
@@ -73,180 +143,110 @@
    26,
    27,
    28,
-   29,
-   28,
-   27,
-   26,
-   27,
-   26,
-   27,
-   26,
-   27,
-   26,
    27,
    28,
    29,
    28,
-   27,
-   26,
-   25,
-   24,
-   23,
-   22,
-   23,
-   24,
-   25,
-   24,
-   23,
-   22,
-   21,
-   20,
-   21,
-   20,
-   19,
-   20,
-   19,
-   20,
-   19,
-   20,
-   21,
-   22,
-   21,
-   22,
-   21,
-   22,
-   23,
-   22,
-   21,
-   22,
-   23,
-   22,
-   23,
-   22,
-   23,
-   24,
-   23,
-   24,
-   25,
-   26,
-   27,
-   26,
-   27,
-   28,
-   29,
-   30,
-   29,
-   28,
-   29,
-   28,
-   29,
-   30,
    29,
    30,
    31,
    32,
    33,
-   32,
-   33,
-   34,
-   35,
-   34,
-   33,
-   34,
-   33,
-   34,
-   33,
    34,
    33,
    34,
    35,
    34,
    35,
-   36
+   34,
+   33,
+   34,
+   35,
+   34
   ],
-  "seq": "WWWWWWWWWWWWWLLWLWWWWWWLLWWWLWWWWLWWLLWLLWWLLWWLWLWWWLWLLWLWWWWWWWLWLLWWWLLLWLWLWLWWWLLLLLLLWWWLLLLLWLLWLWLWWWLWLWWLLWWLWLWWLWWWWLWWWWLLWLWWLWWWWLWWWLLWLWLWLWWLWW",
-  "record": "99-63",
+  "seq": "LLWWLLLWWWLLWWWWWWLWLLLWWWWWWLWWWWWWWLWWWLWLWWWWWLLLLWLWLLLWLLWWWLLWLLLWLWLLWWWWWWWWWLLLWWLWWLLLLLWWWLWWWLWWLWLWWWWWWWWWLLLWLWLLLWWLWWWWLWLLWWLWWLWWWWWWLWWLWLLWWL",
+  "record": "98-64",
   "end_game": 162,
   "in_progress": false,
-  "last_game_date": "2023-10-01",
+  "last_game_date": "2026-09-27",
   "batting_leaders": {
    "hr": {
     "names": [
-     "Isaac Paredes"
+     "Junior Caminero"
     ],
-    "value": 31,
+    "value": 42,
     "top": [
      {
-      "name": "Isaac Paredes",
-      "value": 31
+      "name": "Junior Caminero",
+      "value": 42
      },
      {
-      "name": "Jose Siri",
-      "value": 25
+      "name": "Jonathan Aranda",
+      "value": 22
      },
      {
-      "name": "Randy Arozarena",
-      "value": 23
+      "name": "Yandy D\u00edaz",
+      "value": 22
      }
     ]
    },
    "rbi": {
     "names": [
-     "Isaac Paredes"
+     "Junior Caminero"
     ],
-    "value": 98,
+    "value": 101,
     "top": [
      {
-      "name": "Isaac Paredes",
-      "value": 98
+      "name": "Junior Caminero",
+      "value": 101
      },
      {
-      "name": "Josh Lowe",
-      "value": 83
+      "name": "Jonathan Aranda",
+      "value": 92
      },
      {
-      "name": "Randy Arozarena",
-      "value": 83
+      "name": "Yandy D\u00edaz",
+      "value": 85
      }
     ]
    },
    "avg": {
     "names": [
-     "Yandy D\u00edaz"
+     "Chandler Simpson"
     ],
-    "value": ".330",
+    "value": ".306",
     "top": [
      {
+      "name": "Chandler Simpson",
+      "value": ".306"
+     },
+     {
       "name": "Yandy D\u00edaz",
-      "value": ".330"
+      "value": ".293"
      },
      {
-      "name": "Randy Arozarena",
-      "value": ".254"
-     },
-     {
-      "name": "Isaac Paredes",
-      "value": ".250"
+      "name": "Junior Caminero",
+      "value": ".276"
      }
     ]
    },
    "ops": {
     "names": [
-     "Yandy D\u00edaz"
+     "Junior Caminero"
     ],
-    "value": ".932",
+    "value": ".884",
     "top": [
      {
+      "name": "Junior Caminero",
+      "value": ".884"
+     },
+     {
       "name": "Yandy D\u00edaz",
-      "value": ".932"
+      "value": ".805"
      },
      {
-      "name": "Isaac Paredes",
-      "value": ".840"
-     },
-     {
-      "name": "Randy Arozarena",
-      "value": ".789"
+      "name": "Jonathan Aranda",
+      "value": ".792"
      }
     ]
    }
@@ -255,310 +255,37 @@
    "whip": {
     "top": [
      {
-      "name": "Shawn Armstrong",
+      "name": "Cam Booser",
+      "value": "0.76"
+     },
+     {
+      "name": "Kevin Kelly",
       "value": "0.90"
      },
      {
-      "name": "Jason Adam",
-      "value": "1.01"
-     },
-     {
-      "name": "Kevin Kelly",
-      "value": "1.01"
+      "name": "Bryan Baker",
+      "value": "0.91"
      }
     ]
    }
   },
   "war_leaders": [
    {
-    "name": "Wander Franco",
-    "war": 5.4
+    "name": "Junior Caminero",
+    "war": 5.7
    },
    {
-    "name": "Yandy D\u00edaz",
-    "war": 5.1
+    "name": "Drew Rasmussen",
+    "war": 4.7
    },
    {
-    "name": "Isaac Paredes",
-    "war": 4.2
+    "name": "Nick Martinez",
+    "war": 3.9
    }
   ],
   "war_leader": {
-   "name": "Wander Franco",
-   "war": 5.4
-  }
- },
- "2024": {
-  "diff": [
-   -1,
-   0,
-   1,
-   0,
-   -1,
-   0,
-   -1,
-   -2,
-   -1,
-   0,
-   -1,
-   0,
-   1,
-   2,
-   1,
-   2,
-   1,
-   2,
-   1,
-   2,
-   1,
-   2,
-   1,
-   0,
-   -1,
-   0,
-   -1,
-   -2,
-   -3,
-   -2,
-   -3,
-   -4,
-   -3,
-   -2,
-   -1,
-   0,
-   1,
-   0,
-   -1,
-   0,
-   -1,
-   0,
-   -1,
-   0,
-   1,
-   2,
-   3,
-   2,
-   1,
-   0,
-   -1,
-   -2,
-   -3,
-   -2,
-   -3,
-   -2,
-   -1,
-   -2,
-   -3,
-   -2,
-   -1,
-   0,
-   -1,
-   -2,
-   -3,
-   -4,
-   -3,
-   -4,
-   -3,
-   -4,
-   -5,
-   -4,
-   -5,
-   -4,
-   -3,
-   -2,
-   -3,
-   -2,
-   -1,
-   0,
-   -1,
-   0,
-   -1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   -1,
-   -2,
-   -1,
-   -2,
-   -1,
-   0,
-   -1,
-   0,
-   -1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   2,
-   3,
-   2,
-   1,
-   2,
-   3,
-   2,
-   1,
-   2,
-   1,
-   0,
-   1,
-   0,
-   -1,
-   -2,
-   -1,
-   0,
-   1,
-   0,
-   1,
-   2,
-   1,
-   0,
-   1,
-   0,
-   -1,
-   0,
-   -1,
-   -2,
-   -1,
-   -2,
-   -3,
-   -2,
-   -1,
-   -2,
-   -3,
-   -2,
-   -1,
-   -2,
-   -3,
-   -4,
-   -3,
-   -2,
-   -3,
-   -4,
-   -3,
-   -4,
-   -3,
-   -2,
-   -1,
-   0,
-   -1,
-   -2,
-   -3,
-   -2,
-   -1,
-   -2
-  ],
-  "seq": "LWWLLWLLWWLWWWLWLWLWLWLLLWLLLWLLWWWWWLLWLWLWWWWLLLLLLWLWWLLWWWLLLLWLWLLWLWWWLWWWLWLWWLWLLLWLWWLWLWWLWLWLWWWLLWWLLWLLWLLLWWWLWWLLWLLWLLWLLWWLLWWLLLWWLLWLWWWWLLLWWL",
-  "record": "80-82",
-  "end_game": 162,
-  "in_progress": false,
-  "last_game_date": "2024-09-29",
-  "batting_leaders": {
-   "hr": {
-    "names": [
-     "Brandon Lowe"
-    ],
-    "value": 21,
-    "top": [
-     {
-      "name": "Brandon Lowe",
-      "value": 21
-     },
-     {
-      "name": "Jose Siri",
-      "value": 18
-     },
-     {
-      "name": "Yandy D\u00edaz",
-      "value": 14
-     }
-    ]
-   },
-   "rbi": {
-    "names": [
-     "Yandy D\u00edaz"
-    ],
-    "value": 65,
-    "top": [
-     {
-      "name": "Yandy D\u00edaz",
-      "value": 65
-     },
-     {
-      "name": "Brandon Lowe",
-      "value": 58
-     },
-     {
-      "name": "Jose Siri",
-      "value": 47
-     }
-    ]
-   },
-   "avg": {
-    "names": [
-     "Yandy D\u00edaz"
-    ],
-    "value": ".281",
-    "top": [
-     {
-      "name": "Yandy D\u00edaz",
-      "value": ".281"
-     }
-    ]
-   },
-   "ops": {
-    "names": [
-     "Yandy D\u00edaz"
-    ],
-    "value": ".755",
-    "top": [
-     {
-      "name": "Yandy D\u00edaz",
-      "value": ".755"
-     }
-    ]
-   }
-  },
-  "pitching_leaders": {
-   "whip": {
-    "top": [
-     {
-      "name": "Edwin Uceta",
-      "value": "0.82"
-     },
-     {
-      "name": "Jason Adam",
-      "value": "0.89"
-     },
-     {
-      "name": "Kevin Kelly",
-      "value": "0.96"
-     }
-    ]
-   }
-  },
-  "war_leaders": [
-   {
-    "name": "Zack Littell",
-    "war": 2.8
-   },
-   {
-    "name": "Brandon Lowe",
-    "war": 2.4
-   },
-   {
-    "name": "Isaac Paredes",
-    "war": 2.4
-   }
-  ],
-  "war_leader": {
-   "name": "Zack Littell",
-   "war": 2.8
+   "name": "Junior Caminero",
+   "war": 5.7
   }
  },
  "2025": {
@@ -850,12 +577,64 @@
    "war": 4.4
   }
  },
- "2026": {
+ "2024": {
   "diff": [
+   -1,
+   0,
+   1,
+   0,
+   -1,
+   0,
    -1,
    -2,
    -1,
    0,
+   -1,
+   0,
+   1,
+   2,
+   1,
+   2,
+   1,
+   2,
+   1,
+   2,
+   1,
+   2,
+   1,
+   0,
+   -1,
+   0,
+   -1,
+   -2,
+   -3,
+   -2,
+   -3,
+   -4,
+   -3,
+   -2,
+   -1,
+   0,
+   1,
+   0,
+   -1,
+   0,
+   -1,
+   0,
+   -1,
+   0,
+   1,
+   2,
+   3,
+   2,
+   1,
+   0,
+   -1,
+   -2,
+   -3,
+   -2,
+   -3,
+   -2,
    -1,
    -2,
    -3,
@@ -864,23 +643,220 @@
    0,
    -1,
    -2,
+   -3,
+   -4,
+   -3,
+   -4,
+   -3,
+   -4,
+   -5,
+   -4,
+   -5,
+   -4,
+   -3,
+   -2,
+   -3,
+   -2,
    -1,
+   0,
+   -1,
+   0,
+   -1,
+   0,
+   1,
+   0,
+   1,
+   0,
+   -1,
+   -2,
+   -1,
+   -2,
+   -1,
+   0,
+   -1,
+   0,
+   -1,
+   0,
+   1,
+   0,
+   1,
+   0,
+   1,
    0,
    1,
    2,
    3,
-   4,
-   3,
-   4,
+   2,
+   1,
+   2,
    3,
    2,
+   1,
+   2,
+   1,
+   0,
+   1,
+   0,
+   -1,
+   -2,
+   -1,
+   0,
+   1,
+   0,
+   1,
+   2,
+   1,
+   0,
+   1,
+   0,
+   -1,
+   0,
+   -1,
+   -2,
+   -1,
+   -2,
+   -3,
+   -2,
+   -1,
+   -2,
+   -3,
+   -2,
+   -1,
+   -2,
+   -3,
+   -4,
+   -3,
+   -2,
+   -3,
+   -4,
+   -3,
+   -4,
+   -3,
+   -2,
+   -1,
+   0,
+   -1,
+   -2,
+   -3,
+   -2,
+   -1,
+   -2
+  ],
+  "seq": "LWWLLWLLWWLWWWLWLWLWLWLLLWLLLWLLWWWWWLLWLWLWWWWLLLLLLWLWWLLWWWLLLLWLWLLWLWWWLWWWLWLWWLWLLLWLWWLWLWWLWLWLWWWLLWWLLWLLWLLLWWWLWWLLWLLWLLWLLWWLLWWLLLWWLLWLWWWWLLLWWL",
+  "record": "80-82",
+  "end_game": 162,
+  "in_progress": false,
+  "last_game_date": "2024-09-29",
+  "batting_leaders": {
+   "hr": {
+    "names": [
+     "Brandon Lowe"
+    ],
+    "value": 21,
+    "top": [
+     {
+      "name": "Brandon Lowe",
+      "value": 21
+     },
+     {
+      "name": "Jose Siri",
+      "value": 18
+     },
+     {
+      "name": "Yandy D\u00edaz",
+      "value": 14
+     }
+    ]
+   },
+   "rbi": {
+    "names": [
+     "Yandy D\u00edaz"
+    ],
+    "value": 65,
+    "top": [
+     {
+      "name": "Yandy D\u00edaz",
+      "value": 65
+     },
+     {
+      "name": "Brandon Lowe",
+      "value": 58
+     },
+     {
+      "name": "Jose Siri",
+      "value": 47
+     }
+    ]
+   },
+   "avg": {
+    "names": [
+     "Yandy D\u00edaz"
+    ],
+    "value": ".281",
+    "top": [
+     {
+      "name": "Yandy D\u00edaz",
+      "value": ".281"
+     }
+    ]
+   },
+   "ops": {
+    "names": [
+     "Yandy D\u00edaz"
+    ],
+    "value": ".755",
+    "top": [
+     {
+      "name": "Yandy D\u00edaz",
+      "value": ".755"
+     }
+    ]
+   }
+  },
+  "pitching_leaders": {
+   "whip": {
+    "top": [
+     {
+      "name": "Edwin Uceta",
+      "value": "0.82"
+     },
+     {
+      "name": "Jason Adam",
+      "value": "0.89"
+     },
+     {
+      "name": "Kevin Kelly",
+      "value": "0.96"
+     }
+    ]
+   }
+  },
+  "war_leaders": [
+   {
+    "name": "Zack Littell",
+    "war": 2.8
+   },
+   {
+    "name": "Brandon Lowe",
+    "war": 2.4
+   },
+   {
+    "name": "Isaac Paredes",
+    "war": 2.4
+   }
+  ],
+  "war_leader": {
+   "name": "Zack Littell",
+   "war": 2.8
+  }
+ },
+ "2023": {
+  "diff": [
    1,
    2,
    3,
    4,
    5,
-   6,
-   7,
    6,
    7,
    8,
@@ -890,80 +866,50 @@
    12,
    13,
    12,
-   13,
-   14,
-   15,
-   14,
-   15,
-   14,
-   15,
-   16,
-   17,
-   18,
-   19,
-   18,
-   17,
-   16,
-   15,
-   16,
-   15,
-   16,
-   15,
-   14,
-   13,
-   14,
-   13,
-   12,
-   13,
-   14,
-   15,
-   14,
-   13,
-   14,
-   13,
-   12,
    11,
    12,
    11,
    12,
-   11,
-   10,
-   11,
-   12,
    13,
    14,
    15,
    16,
    17,
-   18,
-   19,
-   18,
-   17,
-   16,
-   17,
-   18,
-   17,
-   18,
-   19,
-   18,
-   17,
    16,
    15,
-   14,
-   15,
-   16,
-   17,
    16,
    17,
    18,
-   19,
+   17,
    18,
    19,
    20,
-   19,
+   21,
+   20,
+   21,
+   22,
+   21,
+   20,
+   21,
    20,
    19,
    20,
+   21,
+   20,
+   19,
+   20,
+   21,
+   20,
+   21,
+   20,
+   21,
+   22,
+   23,
+   22,
+   23,
+   22,
+   21,
+   22,
    21,
    22,
    23,
@@ -973,131 +919,185 @@
    27,
    28,
    27,
+   28,
+   27,
    26,
-   25,
+   27,
+   28,
+   29,
+   28,
+   27,
    26,
-   25,
+   27,
+   26,
+   27,
+   26,
+   27,
+   26,
+   27,
+   28,
+   29,
+   28,
+   27,
    26,
    25,
    24,
    23,
+   22,
+   23,
    24,
    25,
+   24,
+   23,
+   22,
+   21,
+   20,
+   21,
+   20,
+   19,
+   20,
+   19,
+   20,
+   19,
+   20,
+   21,
+   22,
+   21,
+   22,
+   21,
+   22,
+   23,
+   22,
+   21,
+   22,
+   23,
+   22,
+   23,
+   22,
+   23,
+   24,
+   23,
    24,
    25,
    26,
    27,
-   28,
-   27,
-   28,
-   27,
    26,
    27,
    28,
-   27,
+   29,
+   30,
+   29,
    28,
    29,
    28,
    29,
    30,
+   29,
+   30,
    31,
    32,
    33,
+   32,
+   33,
+   34,
+   35,
+   34,
+   33,
+   34,
+   33,
+   34,
+   33,
    34,
    33,
    34,
    35,
    34,
    35,
-   34,
-   33,
-   34,
-   35,
-   34
+   36
   ],
-  "seq": "LLWWLLLWWWLLWWWWWWLWLLLWWWWWWLWWWWWWWLWWWLWLWWWWWLLLLWLWLLLWLLWWWLLWLLLWLWLLWWWWWWWWWLLLWWLWWLLLLLWWWLWWWLWWLWLWWWWWWWWWLLLWLWLLLWWLWWWWLWLLWWLWWLWWWWWWLWWLWLLWWL",
-  "record": "98-64",
+  "seq": "WWWWWWWWWWWWWLLWLWWWWWWLLWWWLWWWWLWWLLWLLWWLLWWLWLWWWLWLLWLWWWWWWWLWLLWWWLLLWLWLWLWWWLLLLLLLWWWLLLLLWLLWLWLWWWLWLWWLLWWLWLWWLWWWWLWWWWLLWLWWLWWWWLWWWLLWLWLWLWWLWW",
+  "record": "99-63",
   "end_game": 162,
   "in_progress": false,
-  "last_game_date": "2026-09-27",
+  "last_game_date": "2023-10-01",
   "batting_leaders": {
    "hr": {
     "names": [
-     "Junior Caminero"
+     "Isaac Paredes"
     ],
-    "value": 42,
+    "value": 31,
     "top": [
      {
-      "name": "Junior Caminero",
-      "value": 42
+      "name": "Isaac Paredes",
+      "value": 31
      },
      {
-      "name": "Jonathan Aranda",
-      "value": 22
+      "name": "Jose Siri",
+      "value": 25
      },
      {
-      "name": "Yandy D\u00edaz",
-      "value": 22
+      "name": "Randy Arozarena",
+      "value": 23
      }
     ]
    },
    "rbi": {
     "names": [
-     "Junior Caminero"
+     "Isaac Paredes"
     ],
-    "value": 101,
+    "value": 98,
     "top": [
      {
-      "name": "Junior Caminero",
-      "value": 101
+      "name": "Isaac Paredes",
+      "value": 98
      },
      {
-      "name": "Jonathan Aranda",
-      "value": 92
+      "name": "Josh Lowe",
+      "value": 83
      },
      {
-      "name": "Yandy D\u00edaz",
-      "value": 85
+      "name": "Randy Arozarena",
+      "value": 83
      }
     ]
    },
    "avg": {
     "names": [
-     "Chandler Simpson"
+     "Yandy D\u00edaz"
     ],
-    "value": ".306",
+    "value": ".330",
     "top": [
      {
-      "name": "Chandler Simpson",
-      "value": ".306"
-     },
-     {
       "name": "Yandy D\u00edaz",
-      "value": ".293"
+      "value": ".330"
      },
      {
-      "name": "Junior Caminero",
-      "value": ".276"
+      "name": "Randy Arozarena",
+      "value": ".254"
+     },
+     {
+      "name": "Isaac Paredes",
+      "value": ".250"
      }
     ]
    },
    "ops": {
     "names": [
-     "Junior Caminero"
+     "Yandy D\u00edaz"
     ],
-    "value": ".884",
+    "value": ".932",
     "top": [
      {
-      "name": "Junior Caminero",
-      "value": ".884"
-     },
-     {
       "name": "Yandy D\u00edaz",
-      "value": ".805"
+      "value": ".932"
      },
      {
-      "name": "Jonathan Aranda",
-      "value": ".792"
+      "name": "Isaac Paredes",
+      "value": ".840"
+     },
+     {
+      "name": "Randy Arozarena",
+      "value": ".789"
      }
     ]
    }
@@ -1106,37 +1106,37 @@
    "whip": {
     "top": [
      {
-      "name": "Cam Booser",
-      "value": "0.76"
-     },
-     {
-      "name": "Kevin Kelly",
+      "name": "Shawn Armstrong",
       "value": "0.90"
      },
      {
-      "name": "Bryan Baker",
-      "value": "0.91"
+      "name": "Jason Adam",
+      "value": "1.01"
+     },
+     {
+      "name": "Kevin Kelly",
+      "value": "1.01"
      }
     ]
    }
   },
   "war_leaders": [
    {
-    "name": "Junior Caminero",
-    "war": 5.7
+    "name": "Wander Franco",
+    "war": 5.4
    },
    {
-    "name": "Drew Rasmussen",
-    "war": 4.7
+    "name": "Yandy D\u00edaz",
+    "war": 5.1
    },
    {
-    "name": "Nick Martinez",
-    "war": 3.9
+    "name": "Isaac Paredes",
+    "war": 4.2
    }
   ],
   "war_leader": {
-   "name": "Junior Caminero",
-   "war": 5.7
+   "name": "Wander Franco",
+   "war": 5.4
   }
  }
 }

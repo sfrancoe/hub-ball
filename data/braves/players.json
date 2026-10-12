@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T16:33:04.713057+00:00",
-  "roster_as_of": "October 7, 2026",
+  "generated_at": "2026-10-11T16:00:08.802631+00:00",
+  "roster_as_of": "October 10, 2026",
   "team": {
     "id": 144,
     "name": "Atlanta Braves"
@@ -1077,7 +1077,7 @@
       "wikidata_id": "Q33043957",
       "slug": "ronald-acuna-jr",
       "name": "Ronald Acuña Jr.",
-      "full_name": "Ronald Acuña Jr",
+      "full_name": "Ronald Acuña Jr.",
       "number": "13",
       "position": {
         "name": "Outfielder",
@@ -3231,92 +3231,6 @@
       }
     },
     {
-      "id": 663897,
-      "mlb_id": 663897,
-      "wikidata_id": "Q107210196",
-      "slug": "luke-williams",
-      "name": "Luke Williams",
-      "full_name": "Luke Williams",
-      "number": "37",
-      "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-08-09",
-      "age": 30,
-      "birthplace": "Park Ridge, Illinois, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 8, 2021",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Dana Hills High School"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "San Francisco Giants",
-        "Miami Marlins",
-        "Los Angeles Dodgers",
-        "Atlanta Braves"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q107210196",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Williams_%28baseball%29",
-      "retrosheet_id": "willl001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 230,
-          "plate_appearances": 349,
-          "at_bats": 321,
-          "runs": 43,
-          "hits": 68,
-          "doubles": 14,
-          "triples": 1,
-          "home_runs": 2,
-          "runs_batted_in": 21,
-          "walks": 24,
-          "strikeouts": 96,
-          "stolen_bases": 25,
-          "caught_stealing": 6,
-          "average": 0.212,
-          "on_base_percentage": 0.27,
-          "slugging_percentage": 0.28,
-          "ops": 0.55
-        },
-        "pitching": {
-          "games": 10,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 33,
-          "hits": 11,
-          "runs": 4,
-          "earned_runs": 4,
-          "home_runs": 1,
-          "walks": 2,
-          "strikeouts": 4,
-          "hit_batters": 1,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.27,
-          "whip": 1.182
-        }
-      }
-    },
-    {
       "id": 573262,
       "mlb_id": 573262,
       "wikidata_id": "Q18159259",
@@ -3397,6 +3311,90 @@
           "complete_games": 0,
           "era": 18.0,
           "whip": 4.0
+        }
+      }
+    },
+    {
+      "id": 664849,
+      "mlb_id": 664849,
+      "wikidata_id": "Q111893675",
+      "slug": "danny-young",
+      "name": "Danny Young",
+      "full_name": "Danny Young",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1994-05-27",
+      "age": 32,
+      "birthplace": "Boynton Beach",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "May 9, 2022",
+      "debut_team": "Seattle Mariners",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Saint Andrew's School"
+          }
+        ]
+      },
+      "teams": [
+        "Seattle Mariners",
+        "Atlanta Braves",
+        "New York Mets"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q111893675",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Danny_Young_%28pitcher%2C_born_1994%29",
+      "retrosheet_id": "yound005",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 63,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 63,
+          "games_started": 0,
+          "wins": 4,
+          "losses": 1,
+          "saves": 0,
+          "innings_outs": 182,
+          "hits": 56,
+          "runs": 31,
+          "earned_runs": 27,
+          "home_runs": 4,
+          "walks": 25,
+          "strikeouts": 78,
+          "hit_batters": 11,
+          "wild_pitches": 5,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 4.01,
+          "whip": 1.335
         }
       }
     }

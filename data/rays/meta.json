@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-09T17:28:15+00:00",
+ "generated_at": "2026-10-11T16:47:31+00:00",
  "source": "MLB Stats API (statsapi.mlb.com)",
  "war_source": "Baseball Reference daily bWAR (baseball-reference.com/data)",
  "team_id": 139,
  "seasons": {
-  "2023": {
-   "record": "99-63",
+  "2026": {
+   "record": "98-64",
    "games": 162,
    "in_progress": false,
    "war_leader": {
-    "name": "Wander Franco",
-    "war": 5.4
+    "name": "Junior Caminero",
+    "war": 5.7
    },
    "war_leaders": [
     {
-     "name": "Wander Franco",
-     "war": 5.4
+     "name": "Junior Caminero",
+     "war": 5.7
     },
     {
-     "name": "Yandy D\u00edaz",
-     "war": 5.1
+     "name": "Drew Rasmussen",
+     "war": 4.7
     },
     {
-     "name": "Isaac Paredes",
-     "war": 4.2
+     "name": "Nick Martinez",
+     "war": 3.9
     }
    ],
    "pitching_leaders": {
     "whip": {
      "top": [
       {
-       "name": "Shawn Armstrong",
+       "name": "Cam Booser",
+       "value": "0.76"
+      },
+      {
+       "name": "Kevin Kelly",
        "value": "0.90"
       },
       {
-       "name": "Jason Adam",
-       "value": "1.01"
-      },
-      {
-       "name": "Kevin Kelly",
-       "value": "1.01"
+       "name": "Bryan Baker",
+       "value": "0.91"
       }
      ]
     }
@@ -47,188 +47,81 @@
    "batting_leaders": {
     "hr": {
      "names": [
-      "Isaac Paredes"
+      "Junior Caminero"
      ],
-     "value": 31,
+     "value": 42,
      "top": [
       {
-       "name": "Isaac Paredes",
-       "value": 31
+       "name": "Junior Caminero",
+       "value": 42
       },
       {
-       "name": "Jose Siri",
-       "value": 25
+       "name": "Jonathan Aranda",
+       "value": 22
       },
       {
-       "name": "Randy Arozarena",
-       "value": 23
+       "name": "Yandy D\u00edaz",
+       "value": 22
       }
      ]
     },
     "rbi": {
      "names": [
-      "Isaac Paredes"
+      "Junior Caminero"
      ],
-     "value": 98,
+     "value": 101,
      "top": [
       {
-       "name": "Isaac Paredes",
-       "value": 98
+       "name": "Junior Caminero",
+       "value": 101
       },
       {
-       "name": "Josh Lowe",
-       "value": 83
+       "name": "Jonathan Aranda",
+       "value": 92
       },
       {
-       "name": "Randy Arozarena",
-       "value": 83
+       "name": "Yandy D\u00edaz",
+       "value": 85
       }
      ]
     },
     "avg": {
      "names": [
-      "Yandy D\u00edaz"
+      "Chandler Simpson"
      ],
-     "value": ".330",
+     "value": ".306",
      "top": [
       {
+       "name": "Chandler Simpson",
+       "value": ".306"
+      },
+      {
        "name": "Yandy D\u00edaz",
-       "value": ".330"
+       "value": ".293"
       },
       {
-       "name": "Randy Arozarena",
-       "value": ".254"
-      },
-      {
-       "name": "Isaac Paredes",
-       "value": ".250"
+       "name": "Junior Caminero",
+       "value": ".276"
       }
      ]
     },
     "ops": {
      "names": [
-      "Yandy D\u00edaz"
+      "Junior Caminero"
      ],
-     "value": ".932",
+     "value": ".884",
      "top": [
       {
-       "name": "Yandy D\u00edaz",
-       "value": ".932"
-      },
-      {
-       "name": "Isaac Paredes",
-       "value": ".840"
-      },
-      {
-       "name": "Randy Arozarena",
-       "value": ".789"
-      }
-     ]
-    }
-   }
-  },
-  "2024": {
-   "record": "80-82",
-   "games": 162,
-   "in_progress": false,
-   "war_leader": {
-    "name": "Zack Littell",
-    "war": 2.8
-   },
-   "war_leaders": [
-    {
-     "name": "Zack Littell",
-     "war": 2.8
-    },
-    {
-     "name": "Brandon Lowe",
-     "war": 2.4
-    },
-    {
-     "name": "Isaac Paredes",
-     "war": 2.4
-    }
-   ],
-   "pitching_leaders": {
-    "whip": {
-     "top": [
-      {
-       "name": "Edwin Uceta",
-       "value": "0.82"
-      },
-      {
-       "name": "Jason Adam",
-       "value": "0.89"
-      },
-      {
-       "name": "Kevin Kelly",
-       "value": "0.96"
-      }
-     ]
-    }
-   },
-   "batting_leaders": {
-    "hr": {
-     "names": [
-      "Brandon Lowe"
-     ],
-     "value": 21,
-     "top": [
-      {
-       "name": "Brandon Lowe",
-       "value": 21
-      },
-      {
-       "name": "Jose Siri",
-       "value": 18
+       "name": "Junior Caminero",
+       "value": ".884"
       },
       {
        "name": "Yandy D\u00edaz",
-       "value": 14
-      }
-     ]
-    },
-    "rbi": {
-     "names": [
-      "Yandy D\u00edaz"
-     ],
-     "value": 65,
-     "top": [
-      {
-       "name": "Yandy D\u00edaz",
-       "value": 65
+       "value": ".805"
       },
       {
-       "name": "Brandon Lowe",
-       "value": 58
-      },
-      {
-       "name": "Jose Siri",
-       "value": 47
-      }
-     ]
-    },
-    "avg": {
-     "names": [
-      "Yandy D\u00edaz"
-     ],
-     "value": ".281",
-     "top": [
-      {
-       "name": "Yandy D\u00edaz",
-       "value": ".281"
-      }
-     ]
-    },
-    "ops": {
-     "names": [
-      "Yandy D\u00edaz"
-     ],
-     "value": ".755",
-     "top": [
-      {
-       "name": "Yandy D\u00edaz",
-       "value": ".755"
+       "name": "Jonathan Aranda",
+       "value": ".792"
       }
      ]
     }
@@ -357,42 +250,42 @@
     }
    }
   },
-  "2026": {
-   "record": "98-64",
+  "2024": {
+   "record": "80-82",
    "games": 162,
    "in_progress": false,
    "war_leader": {
-    "name": "Junior Caminero",
-    "war": 5.7
+    "name": "Zack Littell",
+    "war": 2.8
    },
    "war_leaders": [
     {
-     "name": "Junior Caminero",
-     "war": 5.7
+     "name": "Zack Littell",
+     "war": 2.8
     },
     {
-     "name": "Drew Rasmussen",
-     "war": 4.7
+     "name": "Brandon Lowe",
+     "war": 2.4
     },
     {
-     "name": "Nick Martinez",
-     "war": 3.9
+     "name": "Isaac Paredes",
+     "war": 2.4
     }
    ],
    "pitching_leaders": {
     "whip": {
      "top": [
       {
-       "name": "Cam Booser",
-       "value": "0.76"
+       "name": "Edwin Uceta",
+       "value": "0.82"
+      },
+      {
+       "name": "Jason Adam",
+       "value": "0.89"
       },
       {
        "name": "Kevin Kelly",
-       "value": "0.90"
-      },
-      {
-       "name": "Bryan Baker",
-       "value": "0.91"
+       "value": "0.96"
       }
      ]
     }
@@ -400,81 +293,188 @@
    "batting_leaders": {
     "hr": {
      "names": [
-      "Junior Caminero"
+      "Brandon Lowe"
      ],
-     "value": 42,
+     "value": 21,
      "top": [
       {
-       "name": "Junior Caminero",
-       "value": 42
+       "name": "Brandon Lowe",
+       "value": 21
       },
       {
-       "name": "Jonathan Aranda",
-       "value": 22
+       "name": "Jose Siri",
+       "value": 18
       },
       {
        "name": "Yandy D\u00edaz",
-       "value": 22
+       "value": 14
       }
      ]
     },
     "rbi": {
      "names": [
-      "Junior Caminero"
+      "Yandy D\u00edaz"
      ],
-     "value": 101,
+     "value": 65,
      "top": [
       {
-       "name": "Junior Caminero",
-       "value": 101
-      },
-      {
-       "name": "Jonathan Aranda",
-       "value": 92
-      },
-      {
        "name": "Yandy D\u00edaz",
-       "value": 85
+       "value": 65
+      },
+      {
+       "name": "Brandon Lowe",
+       "value": 58
+      },
+      {
+       "name": "Jose Siri",
+       "value": 47
       }
      ]
     },
     "avg": {
      "names": [
-      "Chandler Simpson"
+      "Yandy D\u00edaz"
      ],
-     "value": ".306",
+     "value": ".281",
      "top": [
       {
-       "name": "Chandler Simpson",
-       "value": ".306"
-      },
-      {
        "name": "Yandy D\u00edaz",
-       "value": ".293"
-      },
-      {
-       "name": "Junior Caminero",
-       "value": ".276"
+       "value": ".281"
       }
      ]
     },
     "ops": {
      "names": [
-      "Junior Caminero"
+      "Yandy D\u00edaz"
      ],
-     "value": ".884",
+     "value": ".755",
      "top": [
       {
-       "name": "Junior Caminero",
-       "value": ".884"
+       "name": "Yandy D\u00edaz",
+       "value": ".755"
+      }
+     ]
+    }
+   }
+  },
+  "2023": {
+   "record": "99-63",
+   "games": 162,
+   "in_progress": false,
+   "war_leader": {
+    "name": "Wander Franco",
+    "war": 5.4
+   },
+   "war_leaders": [
+    {
+     "name": "Wander Franco",
+     "war": 5.4
+    },
+    {
+     "name": "Yandy D\u00edaz",
+     "war": 5.1
+    },
+    {
+     "name": "Isaac Paredes",
+     "war": 4.2
+    }
+   ],
+   "pitching_leaders": {
+    "whip": {
+     "top": [
+      {
+       "name": "Shawn Armstrong",
+       "value": "0.90"
       },
+      {
+       "name": "Jason Adam",
+       "value": "1.01"
+      },
+      {
+       "name": "Kevin Kelly",
+       "value": "1.01"
+      }
+     ]
+    }
+   },
+   "batting_leaders": {
+    "hr": {
+     "names": [
+      "Isaac Paredes"
+     ],
+     "value": 31,
+     "top": [
+      {
+       "name": "Isaac Paredes",
+       "value": 31
+      },
+      {
+       "name": "Jose Siri",
+       "value": 25
+      },
+      {
+       "name": "Randy Arozarena",
+       "value": 23
+      }
+     ]
+    },
+    "rbi": {
+     "names": [
+      "Isaac Paredes"
+     ],
+     "value": 98,
+     "top": [
+      {
+       "name": "Isaac Paredes",
+       "value": 98
+      },
+      {
+       "name": "Josh Lowe",
+       "value": 83
+      },
+      {
+       "name": "Randy Arozarena",
+       "value": 83
+      }
+     ]
+    },
+    "avg": {
+     "names": [
+      "Yandy D\u00edaz"
+     ],
+     "value": ".330",
+     "top": [
       {
        "name": "Yandy D\u00edaz",
-       "value": ".805"
+       "value": ".330"
       },
       {
-       "name": "Jonathan Aranda",
-       "value": ".792"
+       "name": "Randy Arozarena",
+       "value": ".254"
+      },
+      {
+       "name": "Isaac Paredes",
+       "value": ".250"
+      }
+     ]
+    },
+    "ops": {
+     "names": [
+      "Yandy D\u00edaz"
+     ],
+     "value": ".932",
+     "top": [
+      {
+       "name": "Yandy D\u00edaz",
+       "value": ".932"
+      },
+      {
+       "name": "Isaac Paredes",
+       "value": ".840"
+      },
+      {
+       "name": "Randy Arozarena",
+       "value": ".789"
       }
      ]
     }

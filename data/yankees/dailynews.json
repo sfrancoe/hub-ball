@@ -2,8 +2,22 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "As much as I like Aaron Boone personally, as much as I think he’s a...",
+      "published": "2026-10-10T14:51:59+00:00",
+      "title": "Bill Madden: Yankees need to dump Aaron Boone and call Buck Showalter",
+      "url": "https://www.nydailynews.com/2026/10/10/bill-madden-yankees-aaron-boone-buck-showalter-manager-steinbrenner/"
+    },
+    {
+      "category": "Yankees",
+      "description": "Let’s say Hal Steinbrenner and the other owners get the salary cap they’re almost certain...",
+      "published": "2026-10-10T13:33:29+00:00",
+      "title": "Mike Lupica: The Yankees couldn’t buy a winner, now comes a level playing field",
+      "url": "https://www.nydailynews.com/2026/10/10/mike-lupica-yankees-salary-cap-steinbrenner-boone-cashman-spending/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees enter this offseason with no shortage of roster questions, including what to do...",
-      "published": "2026-10-10T11:30:11+00:00",
+      "published": "2026-10-11T13:39:37+00:00",
       "title": "These are the Yankees’ biggest offseason questions",
       "url": "https://www.nydailynews.com/2026/10/10/yankees-biggest-questions-offseason-jazz-chisholm-trent-grisham-giancarlo-stanton/"
     },
@@ -125,23 +139,9 @@
       "published": "2026-10-07T16:02:41+00:00",
       "title": "Yankee Sam McDowell, who inspired ‘Cheers’ character Sam Malone, dies at 84",
       "url": "https://www.nydailynews.com/2026/10/07/yankee-sam-mcdowell-dead-sam-malone-cheers/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Long before Rays tapped him to start ALDS Game 3 in the Bronx, Nick Martinez...",
-      "published": "2026-10-07T15:03:27+00:00",
-      "title": "How Fordham shaped career of Nick Martinez, the Rays’ ALDS Game 3 starter vs. the Yankees",
-      "url": "https://www.nydailynews.com/2026/10/07/fordham-nick-martinez-rays-alds-game-3-starter-yankees/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Now more than ever, the Yankees have a need for Max Fried.",
-      "published": "2026-10-06T21:21:06+00:00",
-      "title": "With Yankees’ season on the line, Game 3 starter Max Fried ready to ‘leave everything out on the field’",
-      "url": "https://www.nydailynews.com/2026/10/06/yankees-game-3-max-fried-alds-rays/"
     }
   ],
-  "generated_at": "2026-10-10T11:46:10.355635+00:00",
+  "generated_at": "2026-10-11T19:30:23.489790+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

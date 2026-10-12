@@ -1,46 +1,45 @@
 {
- "generated_at": "2026-10-09T17:21:56+00:00",
+ "generated_at": "2026-10-11T16:47:30+00:00",
  "source": "MLB Stats API (statsapi.mlb.com)",
  "war_source": "Baseball Reference daily bWAR (baseball-reference.com/data)",
  "team_id": 111,
  "seasons": {
-  "2023": {
-   "record": "78-84",
+  "2026": {
+   "record": "87-75",
    "games": 162,
    "in_progress": false,
-   "checkpoint_record": "57-51",
    "war_leader": {
-    "name": "Rafael Devers",
-    "war": 3.5
+    "name": "Wilyer Abreu",
+    "war": 5.8
    },
    "war_leaders": [
     {
-     "name": "Rafael Devers",
-     "war": 3.5
+     "name": "Wilyer Abreu",
+     "war": 5.8
     },
     {
-     "name": "Chris Martin",
-     "war": 3.2
+     "name": "Ceddanne Rafaela",
+     "war": 5.7
     },
     {
-     "name": "Brayan Bello",
-     "war": 3.1
+     "name": "Willson Contreras",
+     "war": 4.6
     }
    ],
    "pitching_leaders": {
     "whip": {
      "top": [
       {
-       "name": "Chris Martin",
-       "value": "1.03"
+       "name": "Garrett Whitlock",
+       "value": "0.90"
       },
       {
-       "name": "Kutter Crawford",
-       "value": "1.11"
+       "name": "Jake Bennett",
+       "value": "1.10"
       },
       {
-       "name": "Nick Pivetta",
-       "value": "1.12"
+       "name": "Payton Tolle",
+       "value": "1.10"
       }
      ]
     }
@@ -48,205 +47,81 @@
    "batting_leaders": {
     "hr": {
      "names": [
-      "Rafael Devers"
+      "Willson Contreras"
      ],
-     "value": 33,
+     "value": 27,
      "top": [
       {
-       "name": "Rafael Devers",
-       "value": 33
+       "name": "Willson Contreras",
+       "value": 27
       },
       {
-       "name": "Triston Casas",
+       "name": "Wilyer Abreu",
        "value": 24
       },
       {
-       "name": "Justin Turner",
-       "value": 23
-      }
-     ]
-    },
-    "rbi": {
-     "names": [
-      "Rafael Devers"
-     ],
-     "value": 100,
-     "top": [
-      {
-       "name": "Rafael Devers",
-       "value": 100
-      },
-      {
-       "name": "Justin Turner",
-       "value": 96
-      },
-      {
-       "name": "Masataka Yoshida",
-       "value": 72
-      }
-     ]
-    },
-    "avg": {
-     "names": [
-      "Masataka Yoshida"
-     ],
-     "value": ".289",
-     "top": [
-      {
-       "name": "Masataka Yoshida",
-       "value": ".289"
-      },
-      {
-       "name": "Justin Turner",
-       "value": ".276"
-      },
-      {
-       "name": "Rafael Devers",
-       "value": ".271"
-      }
-     ]
-    },
-    "ops": {
-     "names": [
-      "Triston Casas"
-     ],
-     "value": ".857",
-     "top": [
-      {
-       "name": "Triston Casas",
-       "value": ".857"
-      },
-      {
-       "name": "Rafael Devers",
-       "value": ".851"
-      },
-      {
-       "name": "Justin Turner",
-       "value": ".800"
-      }
-     ]
-    }
-   }
-  },
-  "2024": {
-   "record": "81-81",
-   "games": 162,
-   "in_progress": false,
-   "checkpoint_record": "57-51",
-   "war_leader": {
-    "name": "Jarren Duran",
-    "war": 9.0
-   },
-   "war_leaders": [
-    {
-     "name": "Jarren Duran",
-     "war": 9.0
-    },
-    {
-     "name": "Rafael Devers",
-     "war": 3.9
-    },
-    {
-     "name": "Wilyer Abreu",
-     "war": 3.6
-    }
-   ],
-   "pitching_leaders": {
-    "whip": {
-     "top": [
-      {
-       "name": "Justin Slaten",
-       "value": "1.01"
-      },
-      {
-       "name": "Kenley Jansen",
-       "value": "1.06"
-      },
-      {
-       "name": "Kutter Crawford",
-       "value": "1.12"
-      }
-     ]
-    }
-   },
-   "batting_leaders": {
-    "hr": {
-     "names": [
-      "Tyler O'Neill"
-     ],
-     "value": 31,
-     "top": [
-      {
-       "name": "Tyler O'Neill",
-       "value": 31
-      },
-      {
-       "name": "Rafael Devers",
-       "value": 28
-      },
-      {
        "name": "Jarren Duran",
-       "value": 21
+       "value": 20
       }
      ]
     },
     "rbi": {
      "names": [
-      "Rafael Devers"
+      "Willson Contreras"
      ],
-     "value": 83,
+     "value": 81,
      "top": [
       {
-       "name": "Rafael Devers",
-       "value": 83
+       "name": "Willson Contreras",
+       "value": 81
+      },
+      {
+       "name": "Wilyer Abreu",
+       "value": 76
       },
       {
        "name": "Ceddanne Rafaela",
-       "value": 75
-      },
-      {
-       "name": "Jarren Duran",
-       "value": 75
+       "value": 70
       }
      ]
     },
     "avg": {
      "names": [
-      "Jarren Duran"
+      "Ceddanne Rafaela"
      ],
      "value": ".285",
      "top": [
       {
-       "name": "Jarren Duran",
+       "name": "Ceddanne Rafaela",
        "value": ".285"
       },
       {
-       "name": "Rafael Devers",
-       "value": ".272"
+       "name": "Willson Contreras",
+       "value": ".275"
       },
       {
-       "name": "Ceddanne Rafaela",
-       "value": ".246"
+       "name": "Caleb Durbin",
+       "value": ".248"
       }
      ]
     },
     "ops": {
      "names": [
-      "Rafael Devers"
+      "Willson Contreras"
      ],
-     "value": ".870",
+     "value": ".902",
      "top": [
       {
-       "name": "Rafael Devers",
-       "value": ".870"
+       "name": "Willson Contreras",
+       "value": ".902"
       },
       {
-       "name": "Jarren Duran",
-       "value": ".834"
+       "name": "Wilyer Abreu",
+       "value": ".773"
       },
       {
        "name": "Ceddanne Rafaela",
-       "value": ".664"
+       "value": ".765"
       }
      ]
     }
@@ -256,7 +131,6 @@
    "record": "89-73",
    "games": 162,
    "in_progress": false,
-   "checkpoint_record": "57-51",
    "war_leader": {
     "name": "Garrett Crochet",
     "war": 6.0
@@ -376,43 +250,42 @@
     }
    }
   },
-  "2026": {
-   "record": "87-75",
+  "2024": {
+   "record": "81-81",
    "games": 162,
    "in_progress": false,
-   "checkpoint_record": "57-51",
    "war_leader": {
-    "name": "Wilyer Abreu",
-    "war": 5.8
+    "name": "Jarren Duran",
+    "war": 9.0
    },
    "war_leaders": [
     {
+     "name": "Jarren Duran",
+     "war": 9.0
+    },
+    {
+     "name": "Rafael Devers",
+     "war": 3.9
+    },
+    {
      "name": "Wilyer Abreu",
-     "war": 5.8
-    },
-    {
-     "name": "Ceddanne Rafaela",
-     "war": 5.7
-    },
-    {
-     "name": "Willson Contreras",
-     "war": 4.6
+     "war": 3.6
     }
    ],
    "pitching_leaders": {
     "whip": {
      "top": [
       {
-       "name": "Garrett Whitlock",
-       "value": "0.90"
+       "name": "Justin Slaten",
+       "value": "1.01"
       },
       {
-       "name": "Jake Bennett",
-       "value": "1.10"
+       "name": "Kenley Jansen",
+       "value": "1.06"
       },
       {
-       "name": "Payton Tolle",
-       "value": "1.10"
+       "name": "Kutter Crawford",
+       "value": "1.12"
       }
      ]
     }
@@ -420,87 +293,208 @@
    "batting_leaders": {
     "hr": {
      "names": [
-      "Willson Contreras"
+      "Tyler O'Neill"
      ],
-     "value": 27,
+     "value": 31,
      "top": [
       {
-       "name": "Willson Contreras",
-       "value": 27
+       "name": "Tyler O'Neill",
+       "value": 31
       },
       {
-       "name": "Wilyer Abreu",
-       "value": 24
+       "name": "Rafael Devers",
+       "value": 28
       },
       {
        "name": "Jarren Duran",
-       "value": 20
+       "value": 21
       }
      ]
     },
     "rbi": {
      "names": [
-      "Willson Contreras"
+      "Rafael Devers"
      ],
-     "value": 81,
+     "value": 83,
      "top": [
       {
-       "name": "Willson Contreras",
-       "value": 81
-      },
-      {
-       "name": "Wilyer Abreu",
-       "value": 76
+       "name": "Rafael Devers",
+       "value": 83
       },
       {
        "name": "Ceddanne Rafaela",
-       "value": 70
+       "value": 75
+      },
+      {
+       "name": "Jarren Duran",
+       "value": 75
       }
      ]
     },
     "avg": {
      "names": [
-      "Ceddanne Rafaela"
+      "Jarren Duran"
      ],
      "value": ".285",
      "top": [
       {
-       "name": "Ceddanne Rafaela",
+       "name": "Jarren Duran",
        "value": ".285"
       },
       {
-       "name": "Willson Contreras",
-       "value": ".275"
+       "name": "Rafael Devers",
+       "value": ".272"
       },
       {
-       "name": "Caleb Durbin",
-       "value": ".248"
+       "name": "Ceddanne Rafaela",
+       "value": ".246"
       }
      ]
     },
     "ops": {
      "names": [
-      "Willson Contreras"
+      "Rafael Devers"
      ],
-     "value": ".902",
+     "value": ".870",
      "top": [
       {
-       "name": "Willson Contreras",
-       "value": ".902"
+       "name": "Rafael Devers",
+       "value": ".870"
       },
       {
-       "name": "Wilyer Abreu",
-       "value": ".773"
+       "name": "Jarren Duran",
+       "value": ".834"
       },
       {
        "name": "Ceddanne Rafaela",
-       "value": ".765"
+       "value": ".664"
+      }
+     ]
+    }
+   }
+  },
+  "2023": {
+   "record": "78-84",
+   "games": 162,
+   "in_progress": false,
+   "war_leader": {
+    "name": "Rafael Devers",
+    "war": 3.5
+   },
+   "war_leaders": [
+    {
+     "name": "Rafael Devers",
+     "war": 3.5
+    },
+    {
+     "name": "Chris Martin",
+     "war": 3.2
+    },
+    {
+     "name": "Brayan Bello",
+     "war": 3.1
+    }
+   ],
+   "pitching_leaders": {
+    "whip": {
+     "top": [
+      {
+       "name": "Chris Martin",
+       "value": "1.03"
+      },
+      {
+       "name": "Kutter Crawford",
+       "value": "1.11"
+      },
+      {
+       "name": "Nick Pivetta",
+       "value": "1.12"
+      }
+     ]
+    }
+   },
+   "batting_leaders": {
+    "hr": {
+     "names": [
+      "Rafael Devers"
+     ],
+     "value": 33,
+     "top": [
+      {
+       "name": "Rafael Devers",
+       "value": 33
+      },
+      {
+       "name": "Triston Casas",
+       "value": 24
+      },
+      {
+       "name": "Justin Turner",
+       "value": 23
+      }
+     ]
+    },
+    "rbi": {
+     "names": [
+      "Rafael Devers"
+     ],
+     "value": 100,
+     "top": [
+      {
+       "name": "Rafael Devers",
+       "value": 100
+      },
+      {
+       "name": "Justin Turner",
+       "value": 96
+      },
+      {
+       "name": "Masataka Yoshida",
+       "value": 72
+      }
+     ]
+    },
+    "avg": {
+     "names": [
+      "Masataka Yoshida"
+     ],
+     "value": ".289",
+     "top": [
+      {
+       "name": "Masataka Yoshida",
+       "value": ".289"
+      },
+      {
+       "name": "Justin Turner",
+       "value": ".276"
+      },
+      {
+       "name": "Rafael Devers",
+       "value": ".271"
+      }
+     ]
+    },
+    "ops": {
+     "names": [
+      "Triston Casas"
+     ],
+     "value": ".857",
+     "top": [
+      {
+       "name": "Triston Casas",
+       "value": ".857"
+      },
+      {
+       "name": "Rafael Devers",
+       "value": ".851"
+      },
+      {
+       "name": "Justin Turner",
+       "value": ".800"
       }
      ]
     }
    }
   }
- },
- "checkpoint_game": 108,
- "premise_holds": true
+ }
 }

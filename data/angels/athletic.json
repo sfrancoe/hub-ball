@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Angels",
-      "description": "As Moreno’s tenure as owner is set to officially expire before the start of next season, this is a fitting way for him to go out. The Angels haven’t had a winning season in 11 years, a playoff ...",
-      "published": "2026-09-27T16:15:00+00:00",
-      "title": "Angels lose 100 games, end Arte Moreno’s tenure as owner with franchise-worst season",
-      "url": "https://www.nytimes.com/athletic/7626675/2026/09/27/los-angeles-angels-100-loss-season/"
-    },
-    {
-      "category": "Angels",
       "description": "Sam Blum's time as the Angels beat writer for The Athletic was, to put it mildly, never boring. Courtesy of the Los Angeles Angels When I first interviewed to cover the Angels for The Athletic, my ...",
       "published": "2026-02-26T08:00:00+00:00",
       "title": "Sam Blum: The Angels may have stunk, but covering them sure didn’t",
@@ -16,20 +9,20 @@
     },
     {
       "category": "Angels",
-      "description": "New coach Peter Laviolette has preached an attacking mindset to a Kings team that often seemed risk-averse last season.",
-      "published": "2026-09-28T06:00:00+00:00",
-      "title": "Six key questions for the Los Angeles Kings after training camp",
-      "url": "https://www.nytimes.com/athletic/7637570/2026/09/28/los-angels-kings-training-camp-six-questions/"
-    },
-    {
-      "category": "Angels",
       "description": "Shohei Ohtani hits a grand slam against the Rays in an August 2023 game while playing for the Angels. Gary A. Vasquez / USA Today Sports Imagine, if in 2023, Shohei Ohtani had unleashed his two-way ...",
       "published": "2026-05-21T02:45:00+00:00",
       "title": "Shohei Ohtani, Tampa Bay Ray? The proposed 2023 deadline deal that would’ve shocked baseball",
       "url": "https://www.nytimes.com/athletic/7296204/2026/05/21/shohei-ohtani-trade-rays-angels-2023-moreno/"
+    },
+    {
+      "category": "Angels",
+      "description": "New coach Peter Laviolette has preached an attacking mindset to a Kings team that often seemed risk-averse last season.",
+      "published": "2026-09-28T06:00:00+00:00",
+      "title": "Six key questions for the Los Angeles Kings after training camp",
+      "url": "https://www.nytimes.com/athletic/7637570/2026/09/28/los-angels-kings-training-camp-six-questions/"
     }
   ],
-  "generated_at": "2026-10-09T14:22:31.839159+00:00",
+  "generated_at": "2026-10-12T02:19:34.004768+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/angels/"
 }

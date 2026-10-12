@@ -1,59 +1,13 @@
 {
- "2023": {
+ "2026": {
   "diff": [
    1,
-   0,
+   2,
    1,
    2,
    1,
    0,
    -1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   2,
-   3,
-   4,
-   5,
-   4,
-   5,
-   6,
-   7,
-   6,
-   5,
-   4,
-   3,
-   4,
-   3,
-   2,
-   3,
-   2,
-   1,
-   0,
-   1,
-   0,
-   -1,
-   -2,
-   -1,
-   -2,
-   -1,
-   -2,
-   -1,
-   -2,
-   -3,
-   -2,
-   -1,
-   0,
-   1,
-   2,
-   1,
-   0,
-   1,
-   2,
-   1,
    0,
    1,
    2,
@@ -65,47 +19,37 @@
    -2,
    -3,
    -4,
-   -3,
-   -4,
-   -5,
-   -4,
-   -3,
-   -4,
-   -5,
-   -4,
    -5,
    -6,
    -7,
-   -6,
-   -7,
+   -8,
+   -9,
    -8,
    -7,
    -8,
    -9,
    -10,
    -9,
+   -10,
+   -11,
+   -10,
+   -11,
+   -10,
+   -9,
+   -8,
+   -9,
+   -8,
+   -9,
+   -10,
+   -9,
+   -8,
+   -7,
    -8,
    -7,
    -6,
    -5,
-   -4,
-   -5,
    -6,
    -7,
-   -8,
-   -7,
-   -6,
-   -5,
-   -6,
-   -5,
-   -6,
-   -7,
-   -6,
-   -7,
-   -6,
-   -5,
-   -6,
-   -5,
    -6,
    -7,
    -8,
@@ -113,41 +57,93 @@
    -10,
    -11,
    -10,
-   -11,
+   -9,
+   -8,
+   -7,
+   -8,
+   -9,
+   -8,
+   -7,
+   -8,
+   -7,
+   -8,
+   -9,
+   -8,
+   -7,
+   -8,
+   -7,
+   -8,
+   -9,
+   -8,
+   -7,
+   -8,
+   -9,
    -10,
    -11,
    -12,
    -13,
-   -12,
-   -11,
-   -12,
-   -11,
-   -10,
-   -9,
-   -8,
-   -9,
-   -8,
-   -9,
-   -10,
-   -11,
-   -12,
-   -11,
+   -14,
+   -13,
+   -14,
+   -15,
+   -14,
+   -15,
+   -16,
+   -17,
+   -16,
+   -15,
+   -16,
+   -15,
+   -14,
+   -15,
+   -16,
+   -17,
+   -16,
+   -17,
+   -16,
+   -17,
+   -16,
+   -17,
+   -18,
+   -19,
+   -18,
+   -17,
+   -16,
+   -17,
+   -16,
+   -17,
+   -18,
+   -19,
+   -18,
+   -17,
+   -16,
+   -15,
+   -16,
+   -15,
+   -14,
+   -15,
+   -16,
+   -15,
+   -14,
+   -13,
    -12,
    -13,
    -12,
-   -11,
-   -12,
-   -11,
-   -10,
-   -11,
-   -12,
    -13,
    -12,
    -13,
    -12,
-   -11,
-   -10,
-   -11,
+   -13,
+   -14,
+   -15,
+   -14,
+   -15,
+   -14,
+   -15,
+   -14,
+   -13,
+   -14,
+   -13,
    -12,
    -11,
    -10,
@@ -157,96 +153,100 @@
    -12,
    -13,
    -14,
+   -15,
+   -14,
    -13,
    -14,
    -13,
    -12,
-   -11,
-   -12
+   -13,
+   -14,
+   -13,
+   -14
   ],
-  "seq": "WLWWLLLWWLWLWWWWWLWWWLLLLWLLWLLLWLLLWLWLWLLWWWWWLLWWLLWWWLLLLLLLWLLWWLLWLLLWLLWLLLWWWWWWLLLLWWWLWLLWLWWLWLLLLLLWLWLLLWWLWWWWLWLLLLWLLWWLWWLLLWLWWWLLWWLWLLLLWLWWWL",
-  "record": "75-87",
+  "seq": "WWLWLLLWWWWLLLLLLLLLLLLWWLLLWLLWLWWWLWLLWWWLWWWLLWLLLLLWWWWLLWWLWLLWWLWLLWWLLLLLLLWLLWLLLWWLWWLLLWLWLWLLLWWWLWLLLWWWWLWWLLWWWWLWLWLWLLLWLWLWWLWWWWLWLLLLLWWLWWLLWL",
+  "record": "74-88",
   "end_game": 162,
   "in_progress": false,
-  "last_game_date": "2023-10-01",
+  "last_game_date": "2026-09-27",
   "batting_leaders": {
    "hr": {
     "names": [
-     "Pete Alonso"
+     "Juan Soto"
     ],
-    "value": 46,
+    "value": 27,
     "top": [
      {
-      "name": "Pete Alonso",
-      "value": 46
+      "name": "Juan Soto",
+      "value": 27
      },
      {
       "name": "Francisco Lindor",
-      "value": 31
+      "value": 21
      },
      {
-      "name": "Francisco Alvarez",
-      "value": 25
+      "name": "Carson Benge",
+      "value": 20
      }
     ]
    },
    "rbi": {
     "names": [
-     "Pete Alonso"
+     "Bo Bichette"
     ],
-    "value": 118,
+    "value": 78,
     "top": [
      {
-      "name": "Pete Alonso",
-      "value": 118
+      "name": "Bo Bichette",
+      "value": 78
      },
      {
-      "name": "Francisco Lindor",
-      "value": 98
-     },
-     {
-      "name": "Brandon Nimmo",
+      "name": "Juan Soto",
       "value": 68
+     },
+     {
+      "name": "Carson Benge",
+      "value": 65
      }
     ]
    },
    "avg": {
     "names": [
-     "Brandon Nimmo"
+     "Carson Benge"
     ],
-    "value": ".274",
+    "value": ".282",
     "top": [
      {
-      "name": "Brandon Nimmo",
-      "value": ".274"
+      "name": "Carson Benge",
+      "value": ".282"
      },
      {
-      "name": "Jeff McNeil",
-      "value": ".270"
+      "name": "Bo Bichette",
+      "value": ".260"
      },
      {
-      "name": "Francisco Lindor",
-      "value": ".254"
+      "name": "Marcus Semien",
+      "value": ".215"
      }
     ]
    },
    "ops": {
     "names": [
-     "Brandon Nimmo"
+     "Carson Benge"
     ],
-    "value": ".829",
+    "value": ".776",
     "top": [
      {
-      "name": "Brandon Nimmo",
-      "value": ".829"
+      "name": "Carson Benge",
+      "value": ".776"
      },
      {
-      "name": "Pete Alonso",
-      "value": ".822"
+      "name": "Bo Bichette",
+      "value": ".702"
      },
      {
-      "name": "Francisco Lindor",
-      "value": ".806"
+      "name": "Marcus Semien",
+      "value": ".620"
      }
     ]
    }
@@ -255,36 +255,325 @@
    "whip": {
     "top": [
      {
-      "name": "David Robertson",
-      "value": "1.00"
+      "name": "Luke Weaver",
+      "value": "0.82"
      },
      {
-      "name": "Justin Verlander",
-      "value": "1.14"
+      "name": "Huascar Brazob\u00e1n",
+      "value": "1.01"
      },
      {
-      "name": "Max Scherzer",
-      "value": "1.19"
+      "name": "Brooks Raley",
+      "value": "1.09"
      }
     ]
    }
   },
   "war_leaders": [
    {
-    "name": "Francisco Lindor",
-    "war": 6.1
+    "name": "Carson Benge",
+    "war": 4.2
    },
    {
-    "name": "Kodai Senga",
-    "war": 4.5
+    "name": "A.J. Ewing",
+    "war": 3.1
    },
    {
-    "name": "Brandon Nimmo",
-    "war": 4.0
+    "name": "Juan Soto",
+    "war": 3.0
    }
   ],
   "war_leader": {
-   "name": "Francisco Lindor",
+   "name": "Carson Benge",
+   "war": 4.2
+  }
+ },
+ "2025": {
+  "diff": [
+   -1,
+   0,
+   -1,
+   0,
+   -1,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   4,
+   5,
+   4,
+   5,
+   6,
+   5,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   10,
+   11,
+   10,
+   11,
+   12,
+   11,
+   10,
+   11,
+   10,
+   9,
+   10,
+   9,
+   10,
+   11,
+   10,
+   11,
+   12,
+   13,
+   12,
+   11,
+   12,
+   11,
+   10,
+   9,
+   10,
+   9,
+   10,
+   11,
+   12,
+   13,
+   12,
+   13,
+   14,
+   15,
+   16,
+   15,
+   16,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   20,
+   19,
+   18,
+   17,
+   16,
+   15,
+   14,
+   15,
+   14,
+   13,
+   12,
+   13,
+   14,
+   13,
+   12,
+   11,
+   10,
+   11,
+   12,
+   13,
+   14,
+   13,
+   14,
+   13,
+   12,
+   13,
+   14,
+   13,
+   12,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   17,
+   16,
+   15,
+   14,
+   15,
+   14,
+   13,
+   12,
+   11,
+   10,
+   9,
+   8,
+   9,
+   8,
+   7,
+   6,
+   7,
+   8,
+   9,
+   8,
+   7,
+   8,
+   9,
+   8,
+   9,
+   10,
+   11,
+   10,
+   11,
+   10,
+   9,
+   10,
+   11,
+   10,
+   11,
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   4,
+   5,
+   4,
+   5,
+   6,
+   5,
+   4,
+   5,
+   4,
+   5,
+   4,
+   5,
+   4
+  ],
+  "seq": "LWLWLWWWWWWLWLWWLLWWWWWWWLWLWWLLWLLWLWWLWWWLLWLLLWLWWWWLWWWWLWLWWWWWWLLLLLLLWLLLWWLLLLWWWWLWLLWWLLLWWWWWWWLLLLWLLLLLLLWLLLWWWLLWWLWWWLWLLWWLWLLLLLLLLWWLWWLLWLWLWL",
+  "record": "83-79",
+  "end_game": 162,
+  "in_progress": false,
+  "last_game_date": "2025-09-28",
+  "batting_leaders": {
+   "hr": {
+    "names": [
+     "Juan Soto"
+    ],
+    "value": 43,
+    "top": [
+     {
+      "name": "Juan Soto",
+      "value": 43
+     },
+     {
+      "name": "Pete Alonso",
+      "value": 38
+     },
+     {
+      "name": "Francisco Lindor",
+      "value": 31
+     }
+    ]
+   },
+   "rbi": {
+    "names": [
+     "Pete Alonso"
+    ],
+    "value": 126,
+    "top": [
+     {
+      "name": "Pete Alonso",
+      "value": 126
+     },
+     {
+      "name": "Juan Soto",
+      "value": 105
+     },
+     {
+      "name": "Brandon Nimmo",
+      "value": 92
+     }
+    ]
+   },
+   "avg": {
+    "names": [
+     "Pete Alonso"
+    ],
+    "value": ".272",
+    "top": [
+     {
+      "name": "Pete Alonso",
+      "value": ".272"
+     },
+     {
+      "name": "Francisco Lindor",
+      "value": ".267"
+     },
+     {
+      "name": "Juan Soto",
+      "value": ".263"
+     }
+    ]
+   },
+   "ops": {
+    "names": [
+     "Juan Soto"
+    ],
+    "value": ".921",
+    "top": [
+     {
+      "name": "Juan Soto",
+      "value": ".921"
+     },
+     {
+      "name": "Pete Alonso",
+      "value": ".871"
+     },
+     {
+      "name": "Francisco Lindor",
+      "value": ".812"
+     }
+    ]
+   }
+  },
+  "pitching_leaders": {
+   "whip": {
+    "top": [
+     {
+      "name": "Edwin D\u00edaz",
+      "value": "0.87"
+     },
+     {
+      "name": "Nolan McLean",
+      "value": "1.04"
+     },
+     {
+      "name": "Sean Manaea",
+      "value": "1.22"
+     }
+    ]
+   }
+  },
+  "war_leaders": [
+   {
+    "name": "Juan Soto",
+    "war": 6.1
+   },
+   {
+    "name": "Francisco Lindor",
+    "war": 5.8
+   },
+   {
+    "name": "Pete Alonso",
+    "war": 3.3
+   }
+  ],
+  "war_leader": {
+   "name": "Juan Soto",
    "war": 6.1
   }
  },
@@ -577,13 +866,19 @@
    "war": 6.8
   }
  },
- "2025": {
+ "2023": {
   "diff": [
-   -1,
+   1,
+   0,
+   1,
+   2,
+   1,
    0,
    -1,
    0,
-   -1,
+   1,
+   0,
+   1,
    0,
    1,
    2,
@@ -592,289 +887,40 @@
    5,
    4,
    5,
-   4,
-   5,
    6,
-   5,
-   4,
-   5,
-   6,
-   7,
-   8,
-   9,
-   10,
-   11,
-   10,
-   11,
-   10,
-   11,
-   12,
-   11,
-   10,
-   11,
-   10,
-   9,
-   10,
-   9,
-   10,
-   11,
-   10,
-   11,
-   12,
-   13,
-   12,
-   11,
-   12,
-   11,
-   10,
-   9,
-   10,
-   9,
-   10,
-   11,
-   12,
-   13,
-   12,
-   13,
-   14,
-   15,
-   16,
-   15,
-   16,
-   15,
-   16,
-   17,
-   18,
-   19,
-   20,
-   21,
-   20,
-   19,
-   18,
-   17,
-   16,
-   15,
-   14,
-   15,
-   14,
-   13,
-   12,
-   13,
-   14,
-   13,
-   12,
-   11,
-   10,
-   11,
-   12,
-   13,
-   14,
-   13,
-   14,
-   13,
-   12,
-   13,
-   14,
-   13,
-   12,
-   11,
-   12,
-   13,
-   14,
-   15,
-   16,
-   17,
-   18,
-   17,
-   16,
-   15,
-   14,
-   15,
-   14,
-   13,
-   12,
-   11,
-   10,
-   9,
-   8,
-   9,
-   8,
-   7,
-   6,
-   7,
-   8,
-   9,
-   8,
-   7,
-   8,
-   9,
-   8,
-   9,
-   10,
-   11,
-   10,
-   11,
-   10,
-   9,
-   10,
-   11,
-   10,
-   11,
-   10,
-   9,
-   8,
    7,
    6,
    5,
    4,
    3,
    4,
-   5,
-   4,
-   5,
-   6,
-   5,
-   4,
-   5,
-   4,
-   5,
-   4,
-   5,
-   4
-  ],
-  "seq": "LWLWLWWWWWWLWLWWLLWWWWWWWLWLWWLLWLLWLWWLWWWLLWLLLWLWWWWLWWWWLWLWWWWWWLLLLLLLWLLLWWLLLLWWWWLWLLWWLLLWWWWWWWLLLLWLLLLLLLWLLLWWWLLWWLWWWLWLLWWLWLLLLLLLLWWLWWLLWLWLWL",
-  "record": "83-79",
-  "end_game": 162,
-  "in_progress": false,
-  "last_game_date": "2025-09-28",
-  "batting_leaders": {
-   "hr": {
-    "names": [
-     "Juan Soto"
-    ],
-    "value": 43,
-    "top": [
-     {
-      "name": "Juan Soto",
-      "value": 43
-     },
-     {
-      "name": "Pete Alonso",
-      "value": 38
-     },
-     {
-      "name": "Francisco Lindor",
-      "value": 31
-     }
-    ]
-   },
-   "rbi": {
-    "names": [
-     "Pete Alonso"
-    ],
-    "value": 126,
-    "top": [
-     {
-      "name": "Pete Alonso",
-      "value": 126
-     },
-     {
-      "name": "Juan Soto",
-      "value": 105
-     },
-     {
-      "name": "Brandon Nimmo",
-      "value": 92
-     }
-    ]
-   },
-   "avg": {
-    "names": [
-     "Pete Alonso"
-    ],
-    "value": ".272",
-    "top": [
-     {
-      "name": "Pete Alonso",
-      "value": ".272"
-     },
-     {
-      "name": "Francisco Lindor",
-      "value": ".267"
-     },
-     {
-      "name": "Juan Soto",
-      "value": ".263"
-     }
-    ]
-   },
-   "ops": {
-    "names": [
-     "Juan Soto"
-    ],
-    "value": ".921",
-    "top": [
-     {
-      "name": "Juan Soto",
-      "value": ".921"
-     },
-     {
-      "name": "Pete Alonso",
-      "value": ".871"
-     },
-     {
-      "name": "Francisco Lindor",
-      "value": ".812"
-     }
-    ]
-   }
-  },
-  "pitching_leaders": {
-   "whip": {
-    "top": [
-     {
-      "name": "Edwin D\u00edaz",
-      "value": "0.87"
-     },
-     {
-      "name": "Nolan McLean",
-      "value": "1.04"
-     },
-     {
-      "name": "Sean Manaea",
-      "value": "1.22"
-     }
-    ]
-   }
-  },
-  "war_leaders": [
-   {
-    "name": "Juan Soto",
-    "war": 6.1
-   },
-   {
-    "name": "Francisco Lindor",
-    "war": 5.8
-   },
-   {
-    "name": "Pete Alonso",
-    "war": 3.3
-   }
-  ],
-  "war_leader": {
-   "name": "Juan Soto",
-   "war": 6.1
-  }
- },
- "2026": {
-  "diff": [
-   1,
+   3,
    2,
+   3,
+   2,
+   1,
+   0,
+   1,
+   0,
+   -1,
+   -2,
+   -1,
+   -2,
+   -1,
+   -2,
+   -1,
+   -2,
+   -3,
+   -2,
+   -1,
+   0,
    1,
    2,
    1,
    0,
-   -1,
+   1,
+   2,
+   1,
    0,
    1,
    2,
@@ -886,131 +932,89 @@
    -2,
    -3,
    -4,
+   -3,
+   -4,
    -5,
-   -6,
-   -7,
-   -8,
-   -9,
-   -8,
-   -7,
-   -8,
-   -9,
-   -10,
-   -9,
-   -10,
-   -11,
-   -10,
-   -11,
-   -10,
-   -9,
-   -8,
-   -9,
-   -8,
-   -9,
-   -10,
-   -9,
-   -8,
-   -7,
-   -8,
-   -7,
-   -6,
+   -4,
+   -3,
+   -4,
+   -5,
+   -4,
    -5,
    -6,
    -7,
    -6,
    -7,
    -8,
+   -7,
+   -8,
+   -9,
+   -10,
+   -9,
+   -8,
+   -7,
+   -6,
+   -5,
+   -4,
+   -5,
+   -6,
+   -7,
+   -8,
+   -7,
+   -6,
+   -5,
+   -6,
+   -5,
+   -6,
+   -7,
+   -6,
+   -7,
+   -6,
+   -5,
+   -6,
+   -5,
+   -6,
+   -7,
+   -8,
    -9,
    -10,
    -11,
    -10,
+   -11,
+   -10,
+   -11,
+   -12,
+   -13,
+   -12,
+   -11,
+   -12,
+   -11,
+   -10,
    -9,
    -8,
-   -7,
-   -8,
    -9,
-   -8,
-   -7,
-   -8,
-   -7,
-   -8,
-   -9,
-   -8,
-   -7,
-   -8,
-   -7,
-   -8,
-   -9,
-   -8,
-   -7,
    -8,
    -9,
    -10,
    -11,
    -12,
+   -11,
+   -12,
    -13,
-   -14,
-   -13,
-   -14,
-   -15,
-   -14,
-   -15,
-   -16,
-   -17,
-   -16,
-   -15,
-   -16,
-   -15,
-   -14,
-   -15,
-   -16,
-   -17,
-   -16,
-   -17,
-   -16,
-   -17,
-   -16,
-   -17,
-   -18,
-   -19,
-   -18,
-   -17,
-   -16,
-   -17,
-   -16,
-   -17,
-   -18,
-   -19,
-   -18,
-   -17,
-   -16,
-   -15,
-   -16,
-   -15,
-   -14,
-   -15,
-   -16,
-   -15,
-   -14,
-   -13,
+   -12,
+   -11,
+   -12,
+   -11,
+   -10,
+   -11,
    -12,
    -13,
    -12,
    -13,
    -12,
-   -13,
-   -12,
-   -13,
-   -14,
-   -15,
-   -14,
-   -15,
-   -14,
-   -15,
-   -14,
-   -13,
-   -14,
-   -13,
+   -11,
+   -10,
+   -11,
    -12,
    -11,
    -10,
@@ -1020,100 +1024,96 @@
    -12,
    -13,
    -14,
-   -15,
-   -14,
    -13,
    -14,
    -13,
    -12,
-   -13,
-   -14,
-   -13,
-   -14
+   -11,
+   -12
   ],
-  "seq": "WWLWLLLWWWWLLLLLLLLLLLLWWLLLWLLWLWWWLWLLWWWLWWWLLWLLLLLWWWWLLWWLWLLWWLWLLWWLLLLLLLWLLWLLLWWLWWLLLWLWLWLLLWWWLWLLLWWWWLWWLLWWWWLWLWLWLLLWLWLWWLWWWWLWLLLLLWWLWWLLWL",
-  "record": "74-88",
+  "seq": "WLWWLLLWWLWLWWWWWLWWWLLLLWLLWLLLWLLLWLWLWLLWWWWWLLWWLLWWWLLLLLLLWLLWWLLWLLLWLLWLLLWWWWWWLLLLWWWLWLLWLWWLWLLLLLLWLWLLLWWLWWWWLWLLLLWLLWWLWWLLLWLWWWLLWWLWLLLLWLWWWL",
+  "record": "75-87",
   "end_game": 162,
   "in_progress": false,
-  "last_game_date": "2026-09-27",
+  "last_game_date": "2023-10-01",
   "batting_leaders": {
    "hr": {
     "names": [
-     "Juan Soto"
+     "Pete Alonso"
     ],
-    "value": 27,
+    "value": 46,
     "top": [
      {
-      "name": "Juan Soto",
-      "value": 27
+      "name": "Pete Alonso",
+      "value": 46
      },
      {
       "name": "Francisco Lindor",
-      "value": 21
+      "value": 31
      },
      {
-      "name": "Carson Benge",
-      "value": 20
+      "name": "Francisco Alvarez",
+      "value": 25
      }
     ]
    },
    "rbi": {
     "names": [
-     "Bo Bichette"
+     "Pete Alonso"
     ],
-    "value": 78,
+    "value": 118,
     "top": [
      {
-      "name": "Bo Bichette",
-      "value": 78
+      "name": "Pete Alonso",
+      "value": 118
      },
      {
-      "name": "Juan Soto",
+      "name": "Francisco Lindor",
+      "value": 98
+     },
+     {
+      "name": "Brandon Nimmo",
       "value": 68
-     },
-     {
-      "name": "Carson Benge",
-      "value": 65
      }
     ]
    },
    "avg": {
     "names": [
-     "Carson Benge"
+     "Brandon Nimmo"
     ],
-    "value": ".282",
+    "value": ".274",
     "top": [
      {
-      "name": "Carson Benge",
-      "value": ".282"
+      "name": "Brandon Nimmo",
+      "value": ".274"
      },
      {
-      "name": "Bo Bichette",
-      "value": ".260"
+      "name": "Jeff McNeil",
+      "value": ".270"
      },
      {
-      "name": "Marcus Semien",
-      "value": ".215"
+      "name": "Francisco Lindor",
+      "value": ".254"
      }
     ]
    },
    "ops": {
     "names": [
-     "Carson Benge"
+     "Brandon Nimmo"
     ],
-    "value": ".776",
+    "value": ".829",
     "top": [
      {
-      "name": "Carson Benge",
-      "value": ".776"
+      "name": "Brandon Nimmo",
+      "value": ".829"
      },
      {
-      "name": "Bo Bichette",
-      "value": ".702"
+      "name": "Pete Alonso",
+      "value": ".822"
      },
      {
-      "name": "Marcus Semien",
-      "value": ".620"
+      "name": "Francisco Lindor",
+      "value": ".806"
      }
     ]
    }
@@ -1122,37 +1122,37 @@
    "whip": {
     "top": [
      {
-      "name": "Luke Weaver",
-      "value": "0.82"
+      "name": "David Robertson",
+      "value": "1.00"
      },
      {
-      "name": "Huascar Brazob\u00e1n",
-      "value": "1.01"
+      "name": "Justin Verlander",
+      "value": "1.14"
      },
      {
-      "name": "Brooks Raley",
-      "value": "1.09"
+      "name": "Max Scherzer",
+      "value": "1.19"
      }
     ]
    }
   },
   "war_leaders": [
    {
-    "name": "Carson Benge",
-    "war": 4.2
+    "name": "Francisco Lindor",
+    "war": 6.1
    },
    {
-    "name": "A.J. Ewing",
-    "war": 3.1
+    "name": "Kodai Senga",
+    "war": 4.5
    },
    {
-    "name": "Juan Soto",
-    "war": 3.0
+    "name": "Brandon Nimmo",
+    "war": 4.0
    }
   ],
   "war_leader": {
-   "name": "Carson Benge",
-   "war": 4.2
+   "name": "Francisco Lindor",
+   "war": 6.1
   }
  }
 }

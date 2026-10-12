@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-09T17:30:05+00:00",
+ "generated_at": "2026-10-11T16:47:30+00:00",
  "source": "MLB Stats API (statsapi.mlb.com)",
  "war_source": "Baseball Reference daily bWAR (baseball-reference.com/data)",
  "team_id": 147,
  "seasons": {
-  "2023": {
-   "record": "82-80",
-   "games": 162,
-   "in_progress": false,
+  "2026": {
+   "record": "93-68",
+   "games": 161,
+   "in_progress": true,
    "war_leader": {
-    "name": "Gerrit Cole",
-    "war": 7.4
+    "name": "Cam Schlittler",
+    "war": 7.0
    },
    "war_leaders": [
     {
-     "name": "Gerrit Cole",
-     "war": 7.4
+     "name": "Cam Schlittler",
+     "war": 7.0
     },
     {
-     "name": "Aaron Judge",
-     "war": 4.5
+     "name": "Cody Bellinger",
+     "war": 4.6
     },
     {
-     "name": "Michael King",
-     "war": 3.3
+     "name": "Max Fried",
+     "war": 3.7
     }
    ],
    "pitching_leaders": {
     "whip": {
      "top": [
       {
-       "name": "Gerrit Cole",
-       "value": "0.98"
+       "name": "Cam Schlittler",
+       "value": "0.92"
       },
       {
-       "name": "Domingo Germ\u00e1n",
-       "value": "1.08"
+       "name": "Max Fried",
+       "value": "0.99"
       },
       {
-       "name": "Tommy Kahnle",
-       "value": "1.11"
+       "name": "David Bednar",
+       "value": "1.04"
       }
      ]
     }
@@ -47,204 +47,82 @@
    "batting_leaders": {
     "hr": {
      "names": [
-      "Aaron Judge"
+      "Ben Rice"
      ],
-     "value": 37,
+     "value": 41,
      "top": [
       {
-       "name": "Aaron Judge",
-       "value": 37
-      },
-      {
-       "name": "Gleyber Torres",
-       "value": 25
-      },
-      {
-       "name": "Giancarlo Stanton",
-       "value": 24
-      }
-     ]
-    },
-    "rbi": {
-     "names": [
-      "Aaron Judge"
-     ],
-     "value": 75,
-     "top": [
-      {
-       "name": "Aaron Judge",
-       "value": 75
-      },
-      {
-       "name": "Gleyber Torres",
-       "value": 68
-      },
-      {
-       "name": "Anthony Volpe",
-       "value": 60
-      }
-     ]
-    },
-    "avg": {
-     "names": [
-      "Gleyber Torres"
-     ],
-     "value": ".273",
-     "top": [
-      {
-       "name": "Gleyber Torres",
-       "value": ".273"
-      },
-      {
-       "name": "DJ LeMahieu",
-       "value": ".243"
-      },
-      {
-       "name": "Anthony Volpe",
-       "value": ".209"
-      }
-     ]
-    },
-    "ops": {
-     "names": [
-      "Gleyber Torres"
-     ],
-     "value": ".800",
-     "top": [
-      {
-       "name": "Gleyber Torres",
-       "value": ".800"
-      },
-      {
-       "name": "DJ LeMahieu",
-       "value": ".717"
-      },
-      {
-       "name": "Anthony Volpe",
-       "value": ".666"
-      }
-     ]
-    }
-   }
-  },
-  "2024": {
-   "record": "94-68",
-   "games": 162,
-   "in_progress": false,
-   "war_leader": {
-    "name": "Aaron Judge",
-    "war": 10.9
-   },
-   "war_leaders": [
-    {
-     "name": "Aaron Judge",
-     "war": 10.9
-    },
-    {
-     "name": "Juan Soto",
-     "war": 8.0
-    },
-    {
-     "name": "Anthony Volpe",
-     "war": 3.5
-    }
-   ],
-   "pitching_leaders": {
-    "whip": {
-     "top": [
-      {
-       "name": "Luke Weaver",
-       "value": "0.93"
-      },
-      {
-       "name": "Tim Hill",
-       "value": "1.02"
-      },
-      {
-       "name": "Gerrit Cole",
-       "value": "1.13"
-      }
-     ]
-    }
-   },
-   "batting_leaders": {
-    "hr": {
-     "names": [
-      "Aaron Judge"
-     ],
-     "value": 58,
-     "top": [
-      {
-       "name": "Aaron Judge",
-       "value": 58
-      },
-      {
-       "name": "Juan Soto",
+       "name": "Ben Rice",
        "value": 41
       },
       {
-       "name": "Giancarlo Stanton",
-       "value": 27
+       "name": "Jazz Chisholm Jr.",
+       "value": 19
+      },
+      {
+       "name": "Aaron Judge",
+       "value": 18
       }
      ]
     },
     "rbi": {
      "names": [
-      "Aaron Judge"
+      "Ben Rice"
      ],
-     "value": 144,
+     "value": 97,
      "top": [
       {
-       "name": "Aaron Judge",
-       "value": 144
+       "name": "Ben Rice",
+       "value": 97
       },
       {
-       "name": "Juan Soto",
-       "value": 109
+       "name": "Cody Bellinger",
+       "value": 73
       },
       {
-       "name": "Giancarlo Stanton",
-       "value": 72
+       "name": "Trent Grisham",
+       "value": 59
       }
      ]
     },
     "avg": {
      "names": [
-      "Aaron Judge"
+      "Ben Rice",
+      "Cody Bellinger"
      ],
-     "value": ".322",
+     "value": ".264",
      "top": [
       {
-       "name": "Aaron Judge",
-       "value": ".322"
+       "name": "Ben Rice",
+       "value": ".264"
       },
       {
-       "name": "Juan Soto",
-       "value": ".288"
+       "name": "Cody Bellinger",
+       "value": ".264"
       },
       {
-       "name": "Gleyber Torres",
-       "value": ".257"
+       "name": "Jazz Chisholm Jr.",
+       "value": ".231"
       }
      ]
     },
     "ops": {
      "names": [
-      "Aaron Judge"
+      "Ben Rice"
      ],
-     "value": "1.159",
+     "value": ".897",
      "top": [
       {
-       "name": "Aaron Judge",
-       "value": "1.159"
+       "name": "Ben Rice",
+       "value": ".897"
       },
       {
-       "name": "Juan Soto",
-       "value": ".988"
+       "name": "Cody Bellinger",
+       "value": ".767"
       },
       {
-       "name": "Gleyber Torres",
-       "value": ".708"
+       "name": "Jazz Chisholm Jr.",
+       "value": ".711"
       }
      ]
     }
@@ -373,42 +251,42 @@
     }
    }
   },
-  "2026": {
-   "record": "93-68",
-   "games": 161,
-   "in_progress": true,
+  "2024": {
+   "record": "94-68",
+   "games": 162,
+   "in_progress": false,
    "war_leader": {
-    "name": "Cam Schlittler",
-    "war": 7.0
+    "name": "Aaron Judge",
+    "war": 10.9
    },
    "war_leaders": [
     {
-     "name": "Cam Schlittler",
-     "war": 7.0
+     "name": "Aaron Judge",
+     "war": 10.9
     },
     {
-     "name": "Cody Bellinger",
-     "war": 4.6
+     "name": "Juan Soto",
+     "war": 8.0
     },
     {
-     "name": "Max Fried",
-     "war": 3.7
+     "name": "Anthony Volpe",
+     "war": 3.5
     }
    ],
    "pitching_leaders": {
     "whip": {
      "top": [
       {
-       "name": "Cam Schlittler",
-       "value": "0.92"
+       "name": "Luke Weaver",
+       "value": "0.93"
       },
       {
-       "name": "Max Fried",
-       "value": "0.99"
+       "name": "Tim Hill",
+       "value": "1.02"
       },
       {
-       "name": "David Bednar",
-       "value": "1.04"
+       "name": "Gerrit Cole",
+       "value": "1.13"
       }
      ]
     }
@@ -416,82 +294,204 @@
    "batting_leaders": {
     "hr": {
      "names": [
-      "Ben Rice"
+      "Aaron Judge"
      ],
-     "value": 41,
+     "value": 58,
      "top": [
       {
-       "name": "Ben Rice",
+       "name": "Aaron Judge",
+       "value": 58
+      },
+      {
+       "name": "Juan Soto",
        "value": 41
       },
       {
-       "name": "Jazz Chisholm Jr.",
-       "value": 19
-      },
-      {
-       "name": "Aaron Judge",
-       "value": 18
+       "name": "Giancarlo Stanton",
+       "value": 27
       }
      ]
     },
     "rbi": {
      "names": [
-      "Ben Rice"
+      "Aaron Judge"
      ],
-     "value": 97,
+     "value": 144,
      "top": [
       {
-       "name": "Ben Rice",
-       "value": 97
+       "name": "Aaron Judge",
+       "value": 144
       },
       {
-       "name": "Cody Bellinger",
-       "value": 73
+       "name": "Juan Soto",
+       "value": 109
       },
       {
-       "name": "Trent Grisham",
-       "value": 59
+       "name": "Giancarlo Stanton",
+       "value": 72
       }
      ]
     },
     "avg": {
      "names": [
-      "Ben Rice",
-      "Cody Bellinger"
+      "Aaron Judge"
      ],
-     "value": ".264",
+     "value": ".322",
      "top": [
       {
-       "name": "Ben Rice",
-       "value": ".264"
+       "name": "Aaron Judge",
+       "value": ".322"
       },
       {
-       "name": "Cody Bellinger",
-       "value": ".264"
+       "name": "Juan Soto",
+       "value": ".288"
       },
       {
-       "name": "Jazz Chisholm Jr.",
-       "value": ".231"
+       "name": "Gleyber Torres",
+       "value": ".257"
       }
      ]
     },
     "ops": {
      "names": [
-      "Ben Rice"
+      "Aaron Judge"
      ],
-     "value": ".897",
+     "value": "1.159",
      "top": [
       {
-       "name": "Ben Rice",
-       "value": ".897"
+       "name": "Aaron Judge",
+       "value": "1.159"
       },
       {
-       "name": "Cody Bellinger",
-       "value": ".767"
+       "name": "Juan Soto",
+       "value": ".988"
       },
       {
-       "name": "Jazz Chisholm Jr.",
-       "value": ".711"
+       "name": "Gleyber Torres",
+       "value": ".708"
+      }
+     ]
+    }
+   }
+  },
+  "2023": {
+   "record": "82-80",
+   "games": 162,
+   "in_progress": false,
+   "war_leader": {
+    "name": "Gerrit Cole",
+    "war": 7.4
+   },
+   "war_leaders": [
+    {
+     "name": "Gerrit Cole",
+     "war": 7.4
+    },
+    {
+     "name": "Aaron Judge",
+     "war": 4.5
+    },
+    {
+     "name": "Michael King",
+     "war": 3.3
+    }
+   ],
+   "pitching_leaders": {
+    "whip": {
+     "top": [
+      {
+       "name": "Gerrit Cole",
+       "value": "0.98"
+      },
+      {
+       "name": "Domingo Germ\u00e1n",
+       "value": "1.08"
+      },
+      {
+       "name": "Tommy Kahnle",
+       "value": "1.11"
+      }
+     ]
+    }
+   },
+   "batting_leaders": {
+    "hr": {
+     "names": [
+      "Aaron Judge"
+     ],
+     "value": 37,
+     "top": [
+      {
+       "name": "Aaron Judge",
+       "value": 37
+      },
+      {
+       "name": "Gleyber Torres",
+       "value": 25
+      },
+      {
+       "name": "Giancarlo Stanton",
+       "value": 24
+      }
+     ]
+    },
+    "rbi": {
+     "names": [
+      "Aaron Judge"
+     ],
+     "value": 75,
+     "top": [
+      {
+       "name": "Aaron Judge",
+       "value": 75
+      },
+      {
+       "name": "Gleyber Torres",
+       "value": 68
+      },
+      {
+       "name": "Anthony Volpe",
+       "value": 60
+      }
+     ]
+    },
+    "avg": {
+     "names": [
+      "Gleyber Torres"
+     ],
+     "value": ".273",
+     "top": [
+      {
+       "name": "Gleyber Torres",
+       "value": ".273"
+      },
+      {
+       "name": "DJ LeMahieu",
+       "value": ".243"
+      },
+      {
+       "name": "Anthony Volpe",
+       "value": ".209"
+      }
+     ]
+    },
+    "ops": {
+     "names": [
+      "Gleyber Torres"
+     ],
+     "value": ".800",
+     "top": [
+      {
+       "name": "Gleyber Torres",
+       "value": ".800"
+      },
+      {
+       "name": "DJ LeMahieu",
+       "value": ".717"
+      },
+      {
+       "name": "Anthony Volpe",
+       "value": ".666"
       }
      ]
     }

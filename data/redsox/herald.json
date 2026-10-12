@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Caleb Durbin, who went into his first Red Sox season wanting to be a ‘Dirt Dog’ like his hero, Dustin Pedroia, finally underwent surgery on the injured pinky he played through for over three months",
+      "published": "2026-10-11T16:02:29Z",
+      "title": "Red Sox’ Caleb Durbin undergoes surgery after playing through pinky injury",
+      "url": "https://www.bostonherald.com/2026/10/11/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-pinky-injury-mlb-news/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Who is most at risk of being non-tendered by the Red Sox this offseason? That and other reader questions answered in this week’s Herald mailbag.",
+      "published": "2026-10-11T09:30:33Z",
+      "title": "Red Sox mailbag: Who is most at risk of being non-tendered this offseason?",
+      "url": "https://www.bostonherald.com/2026/10/11/red-sox-mailbag-who-is-most-at-risk-of-being-non-tendered-this-offseason/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Internal player development is key to Craig Breslow’s offseason plans to improve the Red Sox from within, but the impending MLB lockout will make that difficult.",
       "published": "2026-10-10T09:45:55Z",
       "title": "Starr’s 7 Questions: How can Red Sox improve internally with MLB lockout looming?",
@@ -97,23 +111,9 @@
       "published": "2026-10-01T21:54:03Z",
       "title": "Red Sox fans mourn wasted summer after Yankees sweep, demand ownership to care: ‘No hope’",
       "url": "https://www.bostonherald.com/2026/10/01/red-sox-fans-mourn-wasted-summer-after-yankees-sweep-demand-ownership-to-care-no-hope/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Chad Tracy gave his starting pitchers a quick hook in both games of this week’s Wild Card Series, and the decision to pull Sonny Gray after 70 pitches wasn’t well received by many of the Red Sox players.",
-      "published": "2026-10-01T12:37:29Z",
-      "title": "Red Sox players miffed by Chad Tracy’s decision to pull Sonny Gray early",
-      "url": "https://www.bostonherald.com/2026/10/01/red-sox-players-miffed-by-chad-tracys-decision-to-pull-stater-early/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "After their postseason elimination on Wednesday night, some of the most veteran players on the Red Sox hinted at, or outright stated that the organization is relying too heavily on analytics",
-      "published": "2026-10-01T09:30:39Z",
-      "title": "Red Sox veterans candid about internal strife after playoff elimination",
-      "url": "https://www.bostonherald.com/2026/10/01/red-sox-frustrated-players-sonny-gray-willson-contreras-isiah-kiner-falefa-mlb-postseason/"
     }
   ],
-  "generated_at": "2026-10-10T11:46:08.229363+00:00",
+  "generated_at": "2026-10-11T19:30:21.467541+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

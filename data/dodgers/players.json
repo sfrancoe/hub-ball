@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T16:40:00.516073+00:00",
-  "roster_as_of": "October 3, 2026",
+  "generated_at": "2026-10-11T16:07:04.755256+00:00",
+  "roster_as_of": "October 11, 2026",
   "team": {
     "id": 119,
     "name": "Los Angeles Dodgers"
@@ -1522,8 +1522,8 @@
         "group": "Infielder",
         "abbreviation": "SS"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "Inactive roster",
+      "is_active_roster": false,
       "birth_date": "1999-01-27",
       "age": 27,
       "birthplace": "Goyang",
@@ -3359,8 +3359,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
-      "is_active_roster": false,
+      "roster_status": "Active",
+      "is_active_roster": true,
       "birth_date": "2000-07-14",
       "age": 26,
       "birthplace": "Hoffman Estates",
