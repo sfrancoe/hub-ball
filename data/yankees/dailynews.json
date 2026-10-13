@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Matt Blake and Tanner Swanson are two impending free agents the Yankees would be wise...",
+      "published": "2026-10-13T13:43:33+00:00",
+      "title": "Plenty up in the air for Yankees’ coaching staff",
+      "url": "https://www.nydailynews.com/2026/10/13/plenty-up-in-the-air-for-yankees-coaching-staff/"
+    },
+    {
+      "category": "Yankees",
       "description": "As much as I like Aaron Boone personally, as much as I think he’s a...",
       "published": "2026-10-10T14:51:59+00:00",
       "title": "Bill Madden: Yankees need to dump Aaron Boone and call Buck Showalter",
@@ -132,16 +139,9 @@
       "published": "2026-10-07T23:18:00+00:00",
       "title": "Yankees bench Jazz Chisholm Jr., Ryan McMahon for Game 3 with season on the line",
       "url": "https://www.nydailynews.com/2026/10/07/yankees-bench-jazz-chisholm-jr-ryan-mcmahon-for-game-3-with-season-on-the-line/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Former Yankees pitcher Sam McDowell died in Florida. He was 84. The left-handed hurler is...",
-      "published": "2026-10-07T16:02:41+00:00",
-      "title": "Yankee Sam McDowell, who inspired ‘Cheers’ character Sam Malone, dies at 84",
-      "url": "https://www.nydailynews.com/2026/10/07/yankee-sam-mcdowell-dead-sam-malone-cheers/"
     }
   ],
-  "generated_at": "2026-10-11T19:30:23.489790+00:00",
+  "generated_at": "2026-10-13T15:30:06.742323+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

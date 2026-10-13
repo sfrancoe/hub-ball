@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Over the past year the Red Sox have traded away a haul of pitching prospects, but one recent draft pick has emerged as a potential impact arm.",
+      "published": "2026-10-13T09:30:34Z",
+      "title": "Skilled lefty emerges as Red Sox fast-rising pitching prospect",
+      "url": "https://www.bostonherald.com/2026/10/13/eighth-round-pick-emerges-as-red-sox-top-rising-pitching-prospect/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Caleb Durbin, who went into his first Red Sox season wanting to be a ‘Dirt Dog’ like his hero, Dustin Pedroia, finally underwent surgery on the injured pinky he played through for over three months",
       "published": "2026-10-11T16:02:29Z",
       "title": "Red Sox’ Caleb Durbin undergoes surgery after playing through pinky injury",
@@ -104,16 +111,9 @@
       "published": "2026-10-02T15:38:32Z",
       "title": "Unlikely 2026 Red Sox hero Mickey Gasper undergoes surgery",
       "url": "https://www.bostonherald.com/2026/10/02/red-sox-injuries-mickey-gasper-successful-surgery-biceps-tendon-repair-boston-mgh-hospital-mlb-news/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Outscored 18-2 in New York, the Red Sox enter a long offseason facing angry fans who say ownership doesn’t care about delivering playoff wins anymore: “Hopefully, they can show us differently”",
-      "published": "2026-10-01T21:54:03Z",
-      "title": "Red Sox fans mourn wasted summer after Yankees sweep, demand ownership to care: ‘No hope’",
-      "url": "https://www.bostonherald.com/2026/10/01/red-sox-fans-mourn-wasted-summer-after-yankees-sweep-demand-ownership-to-care-no-hope/"
     }
   ],
-  "generated_at": "2026-10-11T19:30:21.467541+00:00",
+  "generated_at": "2026-10-13T15:30:04.178238+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

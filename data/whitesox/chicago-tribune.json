@@ -2,10 +2,17 @@
   "articles": [
     {
       "category": "White Sox",
-      "description": "Photos from Game 5 of the Chicago White Sox’s AL Division Series against the Cleveland Guardians on Oct. 10, 2026, at Progressive Field.",
-      "published": "2026-10-09T22:32:00+00:00",
-      "title": "Game 5 photos: Chicago White Sox season ends with ALDS loss to Cleveland Guardians",
-      "url": "https://www.chicagotribune.com/2026/10/10/game-5-photos-chicago-white-sox-vs-cleveland-guardians-in-al-division-series/"
+      "description": "It was a fun ride for the 2026 Chicago White Sox. But changes have to be made to ensure they’re back in the postseason next year.",
+      "published": "2026-10-13T04:00:00+00:00",
+      "title": "Column: Despite a fun season, the Chicago White Sox rebuild isn’t complete. Changes are needed for 2027",
+      "url": "https://www.chicagotribune.com/2026/10/13/chicago-white-sox-rebuild-2027-season/"
+    },
+    {
+      "category": "White Sox",
+      "description": "I don’t want a $20 beer at a yuppie bar where nobody knows my name or cares about the game. I want a $7 beer and a local bartender.",
+      "published": "2026-10-13T03:00:00+00:00",
+      "title": "Letters: Moving the White Sox out of Bridgeport would be a disservice to the community and an insult to fans",
+      "url": "https://www.chicagotribune.com/2026/10/13/letters-101326-white-sox-mike-ditka/"
     },
     {
       "category": "White Sox",
@@ -44,6 +51,13 @@
     },
     {
       "category": "White Sox",
+      "description": "Photos from Game 5 of the Chicago White Sox’s AL Division Series against the Cleveland Guardians on Oct. 10, 2026, at Progressive Field.",
+      "published": "2026-10-09T22:32:00+00:00",
+      "title": "Game 5 photos: Chicago White Sox season ends with ALDS loss to Cleveland Guardians",
+      "url": "https://www.chicagotribune.com/2026/10/10/game-5-photos-chicago-white-sox-vs-cleveland-guardians-in-al-division-series/"
+    },
+    {
+      "category": "White Sox",
       "description": "Chicago White Sox reliever Grant Taylor imploded during a six-run sixth inning Thursday as the Cleveland Guardians forced a decisive ALDS Game 5 with a 9-5 win.",
       "published": "2026-10-08T23:34:00+00:00",
       "title": "Chicago White Sox bullpen and Grant Taylor run dry in Game 4, setting up winner-take-all ALDS finale",
@@ -69,23 +83,9 @@
       "published": "2026-10-09T15:04:00+00:00",
       "title": "ALDS Game 5 lookahead: Sean Burke starts for Chicago White Sox, who vow the ‘anything and everything’ approach",
       "url": "https://www.chicagotribune.com/2026/10/09/alds-game-5-white-sox-guardians-lookahead/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Photos from Game 4 of the Chicago White Sox’s AL Division Series against the Cleveland Guardians on Oct. 8, 2026, at Rate Field.",
-      "published": "2026-10-08T21:14:00+00:00",
-      "title": "Game 4 photos: Chicago White Sox lose 9-5 to Cleveland Guardians in ALDS",
-      "url": "https://www.chicagotribune.com/2026/10/08/game-4-photos-chicago-white-sox-vs-cleveland-guardians-at-the-alds-at-rate-field/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Photos from Game 3 of the Chicago White Sox’s AL Division Series against the Cleveland Guardians on Oct. 7, 2026, at Rate Field.",
-      "published": "2026-10-07T12:36:00+00:00",
-      "title": "Game 3 photos: Chicago White Sox lose 9-3 to Cleveland Guardians in ALDS at Rate Field",
-      "url": "https://www.chicagotribune.com/2026/10/07/alds-game-3-photos-chicago-white-sox-cleveland-guardians/"
     }
   ],
-  "generated_at": "2026-10-13T07:55:47.381220+00:00",
+  "generated_at": "2026-10-13T15:30:23.204680+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

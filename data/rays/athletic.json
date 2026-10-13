@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Six years later, Cash is still being second-guessed in October, after ace Drew Rasmussen gave up a game-tying home run to the Guardians.",
+      "published": "2026-10-13T09:30:02+00:00",
+      "title": "Kevin Cash once pulled his ace too soon. This time, he may have waited too long",
+      "url": "https://www.nytimes.com/athletic/7679168/2026/10/13/rays-alcs-game-1-mlb-playoffs-guardians/"
+    },
+    {
+      "category": "Rays",
       "description": "Nathaniel Lowe haunted his former team as the Guardians took the ALCS opener, with help from a questionable call by Rays manager Kevin Cash.",
       "published": "2026-10-13T03:09:33+00:00",
       "title": "Cleveland’s hitters keep proving they belong, this time in taking Game 1 from Tampa Bay",
@@ -132,16 +139,9 @@
       "published": "2026-10-03T14:26:21+00:00",
       "title": "Aaron Judge not on Yankees' ALDS roster vs. Rays, but Ryan Weathers added to pen",
       "url": "https://www.nytimes.com/athletic/7655606/2026/10/03/aaron-judge-out-yankees-rays-alds/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Rays, Brewers and Guardians have first-round byes or home-field edges, but not everyone on the staff is buying it.",
-      "published": "2026-10-03T10:11:38+00:00",
-      "title": "Division Series predictions: Can the Yankees take down the Rays? Will the Dodgers advance?",
-      "url": "https://www.nytimes.com/athletic/7653257/2026/10/03/mlb-division-series-staff-predictions-2026/"
     }
   ],
-  "generated_at": "2026-10-13T07:55:43.723326+00:00",
+  "generated_at": "2026-10-13T15:30:20.496515+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

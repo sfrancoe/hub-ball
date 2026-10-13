@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "Will the Phillies re-sign Edmundo Sosa? Edward M. Pio Roda / After Edmundo Sosa took grounders at third base before the Philadelphia Phillies’ final game of the postseason, Alec Bohm took his place ...",
+      "published": "2026-10-13T03:01:00+00:00",
+      "title": "Five more questions the Phillies must answer this offseason",
+      "url": "https://www.nytimes.com/athletic/7684810/2026/10/13/phillies-offseason-questions/"
+    },
+    {
+      "category": "Phillies",
       "description": "The Phillies have work to do across the roster this offseason, but the outfield could be the easiest target for change.",
       "published": "2026-10-09T03:01:00+00:00",
       "title": "Four questions that could shape the Phillies’ outfield this offseason",
@@ -23,13 +30,6 @@
     },
     {
       "category": "Phillies",
-      "description": "Three years, three Game 1s, three blown leads in the seventh inning or later. After another soul-crushing loss, the season is on the line.",
-      "published": "2026-09-29T16:42:00+00:00",
-      "title": "Another Phillies postseason, another painful round of ‘what-ifs’ about the bullpen",
-      "url": "https://www.nytimes.com/athletic/7644381/2026/09/29/phillies-bullpen-wild-card-loss-braves/"
-    },
-    {
-      "category": "Phillies",
       "description": "Three mighty swings propelled the Phillies to a late-game comeback against the Braves, forcing a deciding Game 3 in the NL Wild Card Series.",
       "published": "2026-09-30T14:26:00+00:00",
       "title": "Phillies power past Braves to tie NL Wild Card Series. Are we in for a Game 3 classic?",
@@ -37,34 +37,27 @@
     },
     {
       "category": "Phillies",
+      "description": "Three years, three Game 1s, three blown leads in the seventh inning or later. After another soul-crushing loss, the season is on the line.",
+      "published": "2026-09-29T16:42:00+00:00",
+      "title": "Another Phillies postseason, another painful round of ‘what-ifs’ about the bullpen",
+      "url": "https://www.nytimes.com/athletic/7644381/2026/09/29/phillies-bullpen-wild-card-loss-braves/"
+    },
+    {
+      "category": "Phillies",
+      "description": "Sam Fuld, right, joined Dave Dombrowski's brain trust with the Phillies after his playing days ended. Nathan Ray Seebeck / USA Today Sports Philadelphia Phillies president of business operations Sam ...",
+      "published": "2026-10-10T14:03:00+00:00",
+      "title": "Sam Fuld turns down A’s front-office job offer, stays with Phillies",
+      "url": "https://www.nytimes.com/athletic/7670846/2026/10/10/phillies-sam-fuld-athletics-front-office/"
+    },
+    {
+      "category": "Phillies",
       "description": "If the Phillies ask Trea Turner to change positions, is he willing? “We’ll see,” Turner said Thursday night. Rich von Biberstein / Icon Sportswire via Getty Images ATLANTA — Before the Philadelphia ...",
       "published": "2026-10-02T12:57:00+00:00",
       "title": "Phillies face many pressing offseason questions: Trea Turner’s 2027 position tops the list",
       "url": "https://www.nytimes.com/athletic/7653391/2026/10/02/phillies-offseason-questions-trea-turner-position-change/"
-    },
-    {
-      "category": "Phillies",
-      "description": "Alec Bohm homered in the 10th inning on Wednesday and the Phillies took Game 2 of their Wild Card Series. Edward M. Pio Roda / ATLANTA — Forty-five minutes after Alec Bohm hit the home run that saved ...",
-      "published": "2026-09-29T17:00:00+00:00",
-      "title": "Alec Bohm’s season was at times a nightmare. His Game 2 moment? Anything but",
-      "url": "https://www.nytimes.com/athletic/7647559/2026/09/30/alec-bohm-phillies-wild-card-game-2-home-run/"
-    },
-    {
-      "category": "Phillies",
-      "description": "The Phillies are not going to rebuild, not when they’re still drawing 3 million fans to Citizens Bank Park, not when their three best starting pitchers — Zack Wheeler, Jesús Luzardo and Cristopher ...",
-      "published": "2026-10-02T02:00:00+00:00",
-      "title": "These Phillies can’t get it done. It’s time for dramatic action",
-      "url": "https://www.nytimes.com/athletic/7651175/2026/10/02/phillies-playoffs-problems/"
-    },
-    {
-      "category": "Phillies",
-      "description": "The Phillies' 4-3 win over the Braves in 10 innings was one of their greatest playoff comebacks. Rich von Biberstein / Icon Sportswire via Getty Images ATLANTA — Thirty-two minutes after one of the ...",
-      "published": "2026-09-29T17:00:00+00:00",
-      "title": "Six outs from elimination, the Phillies dug deep and willed a win. They are still alive",
-      "url": "https://www.nytimes.com/athletic/7647575/2026/09/30/phillies-game-2-wild-card-comeback-win-braves/"
     }
   ],
-  "generated_at": "2026-10-13T07:56:24.855140+00:00",
+  "generated_at": "2026-10-13T15:30:30.926795+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/phillies/"
 }

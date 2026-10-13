@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Diamondbacks",
+      "description": "The Diamondbacks rewarded mediocrity by extending Torey Lovullo despite his losing record and questionable game management.",
+      "published": "2026-10-12T22:02:00+00:00",
+      "title": "Diamondbacks settle for ‘good enough’ | Letters",
+      "url": "https://www.azcentral.com/story/sports/mlb/2026/10/13/arizona-diamondbacks-lovullo-extension-rewards-mediocrity-letters/92223074007/"
+    },
+    {
+      "category": "Diamondbacks",
       "description": "The Arizona Diamondbacks selected the Arizona native Demetrio Crisantes in the 2022 MLB draft and he overcame formidable odds.",
       "published": "2026-10-09T00:51:00+00:00",
       "title": "Diamondbacks top prospect chasing MLB dream in Arizona Fall League",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Diamondbacks",
-      "description": "The Diamondbacks are parting ways with longtime broadcaster Steve Berthiaume, opting not to bring him back after 14 seasons as their television play-by-play voice. “His contract is up and we felt it ...",
-      "published": "2026-10-05T03:45:00+00:00",
-      "title": "Diamondbacks make major change on television broadcasts | Exclusive",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/05/steve-berthiaume-arizona-diamondbacks-news/92107489007/"
-    },
-    {
-      "category": "Diamondbacks",
       "description": "General manager Mike Hazen was asked about more than just Torey Lovullo's status at his end-of-year session, including Ketel Marte's future.",
       "published": "2026-10-02T03:18:00+00:00",
       "title": "Diamondbacks takeaways. What to do with Ketel Marte, offseason upgrades",
@@ -51,20 +51,20 @@
     },
     {
       "category": "Diamondbacks",
+      "description": "The Diamondbacks are parting ways with longtime broadcaster Steve Berthiaume, opting not to bring him back after 14 seasons as their television play-by-play voice. “His contract is up and we felt it ...",
+      "published": "2026-10-05T03:45:00+00:00",
+      "title": "Diamondbacks make major change on television broadcasts | Exclusive",
+      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/05/steve-berthiaume-arizona-diamondbacks-news/92107489007/"
+    },
+    {
+      "category": "Diamondbacks",
       "description": "Arizona Diamondbacks owner Ken Kendrick told The Burns & Gambo Show on Arizona Sports that the team will have a lower payroll in 2027 than 2026.",
       "published": "2026-10-02T14:25:00+00:00",
       "title": "Arizona Diamondbacks owner reveals how much team will spend in 2027",
       "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/02/arizona-diamondbacks-owner-ken-kendrick-deflating-update-2027-payroll/92066729007/"
-    },
-    {
-      "category": "Diamondbacks",
-      "description": "The Diamondbacks sent pitching prospect Brian Curley to the St. Louis Cardinals to complete the deal that brought outfielder Lars Nootbaar to Arizona.",
-      "published": "2026-10-01T06:54:00+00:00",
-      "title": "Diamondbacks send pitcher to Cardinals to complete Lars Nootbaar trade",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/01/diamondbacks-cardinals-lars-nootbaar-trade/92044377007/"
     }
   ],
-  "generated_at": "2026-10-13T07:56:44.335213+00:00",
+  "generated_at": "2026-10-13T15:30:34.010213+00:00",
   "source": "Arizona Republic",
   "source_url": "https://www.azcentral.com/sports/diamondbacks/"
 }

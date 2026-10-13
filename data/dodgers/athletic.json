@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "It’s difficult to imagine the Dodgers taking four of the next five games. But it’s also difficult to imagine them just fading away.",
+      "published": "2026-10-13T02:31:00+00:00",
+      "title": "Can the Dodgers, unraveling in the NLCS, bounce back? It’s becoming hard to see how",
+      "url": "https://www.nytimes.com/athletic/7685716/2026/10/13/dodgers-brewers-mlb-playoffs-nlcs/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "No Brewers team has ever led a best-of-seven playoff series by two games — until now. But they know \"how quickly things can shift.\" ...",
+      "published": "2026-10-13T04:00:00+00:00",
+      "title": "Up 2, Brewers don’t mind the historic view, but they know Dodgers won’t go quietly",
+      "url": "https://www.nytimes.com/athletic/7685932/2026/10/13/brewers-two-game-lead-dodgers-nlcs-mlb-playoff-history/"
+    },
+    {
+      "category": "Dodgers",
       "description": "MILWAUKEE — Before his afternoon collapsed and before the Los Angeles Dodgers backed toward the ropes in this National League Championship Series, Yoshinobu Yamamoto hesitated. He felt that, for the ...",
       "published": "2026-10-12T21:10:00+00:00",
       "title": "The Dodgers held back on a few ABS challenges. It may have cost them Game 2",
@@ -16,31 +30,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "It doesn't help that two of the Dodgers' middle-of-the-order hitters, Shohei Ohtani and Will Smith, are slumping.",
-      "published": "2026-10-12T12:12:00+00:00",
-      "title": "Dodgers’ offense searching after quiet Game 1 against Misiorowski, Brewers’ pen",
-      "url": "https://www.nytimes.com/athletic/7679146/2026/10/12/dodgers-nlcs-game-1-mlb-playoffs/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Brewers don't hit many homers, but they're patient and create chaos on the bases. The Dodgers are still searching for their own formula.",
-      "published": "2026-10-12T12:12:00+00:00",
-      "title": "Dodgers’ clear advantage over Brewers is gone: ‘It’s gonna be a good series’",
-      "url": "https://www.nytimes.com/athletic/7679152/2026/10/12/dodgers-mlb-playoffs-nlcs-game-1/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The slumping Smith will slide down two spots and hit fifth in Game 2 of the National League Series after manager Dave Roberts decided to make the move as the Dodgers search for more offense following ...",
-      "published": "2026-10-12T10:56:00+00:00",
-      "title": "Will Smith addresses his 1-for-19 playoff slump, drops to fifth in lineup",
-      "url": "https://www.nytimes.com/athletic/7684376/2026/10/12/dodgers-mlb-will-smith-slump-nlcs/"
-    },
-    {
-      "category": "Dodgers",
       "description": "Benching Ohtani requires far more than a conversation between player and manager, and the Dodgers have made no formal decision.",
       "published": "2026-10-12T20:07:00+00:00",
       "title": "As Shohei Ohtani struggles, Dodgers will discuss benching superstar in Game 3",
       "url": "https://www.nytimes.com/athletic/7685422/2026/10/12/shohei-ohtani-playing-benching-dodgers-brewers-mlb-playoffs/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Brewers don't hit many homers, but they're patient and create chaos on the bases. The Dodgers are still searching for their own formula.",
+      "published": "2026-10-12T04:40:00+00:00",
+      "title": "Dodgers’ clear advantage over Brewers is gone: ‘It’s gonna be a good series’",
+      "url": "https://www.nytimes.com/athletic/7679152/2026/10/12/dodgers-mlb-playoffs-nlcs-game-1/"
     },
     {
       "category": "Dodgers",
@@ -51,15 +51,15 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Dodgers will get familiarity. In a rematch of last year’s NLCS, the Dodgers will play the Milwaukee Brewers. It’s a mismatch in terms of payroll but not caliber of play as Milwaukee, with 103 wins ...",
-      "published": "2026-10-10T12:13:00+00:00",
-      "title": "Things I think about the Dodgers heading into an NLCS rematch against the Brewers",
-      "url": "https://www.nytimes.com/athletic/7676195/2026/10/10/dodgers-brewers-nlcs-rematch/"
+      "description": "It doesn't help that two of the Dodgers' middle-of-the-order hitters, Shohei Ohtani and Will Smith, are slumping.",
+      "published": "2026-10-12T12:12:00+00:00",
+      "title": "Dodgers’ offense searching after quiet Game 1 against Misiorowski, Brewers’ pen",
+      "url": "https://www.nytimes.com/athletic/7679146/2026/10/12/dodgers-nlcs-game-1-mlb-playoffs/"
     },
     {
       "category": "Dodgers",
       "description": "The Dodgers are nearly even money ahead of the start of the NLCS while Cleveland is the longshot of the four teams left.",
-      "published": "2026-10-11T14:01:00+00:00",
+      "published": "2026-10-11T04:42:00+00:00",
       "title": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
       "url": "https://www.nytimes.com/athletic/7678829/2026/10/11/world-series-odds-dodgers-brewers-rays-guardians-alcs-nlcs/"
     },
@@ -72,20 +72,20 @@
     },
     {
       "category": "Dodgers",
-      "description": "Does the Dodgers' rotation depth give them the edge over the Brewers' strong top-two starters and deep bullpen?",
-      "published": "2026-10-10T12:13:00+00:00",
-      "title": "Arms race: Do the Dodgers or Brewers have the NLCS pitching edge?",
-      "url": "https://www.nytimes.com/athletic/7672092/2026/10/10/nlcs-preview-pitching-analysis-brewers-dodgers/"
+      "description": "I love trying to figure it out,” said Turang, who rediscoverd his bat path just in time to deliver a key homer against the Dodgers.",
+      "published": "2026-10-12T02:30:00+00:00",
+      "title": "Brice Turang spent 2 days trying to fix his swing. Tarik Skubal paid the price in Game 1",
+      "url": "https://www.nytimes.com/athletic/7683381/2026/10/12/mlb-playoffs-brice-turang-brewers-nlds-game-1/"
     },
     {
       "category": "Dodgers",
-      "description": "LOS ANGELES — In a rematch of last year’s National League Championship Series, the Los Angeles Dodgers will start Tarik Skubal in Game 1 and Yoshinobu Yamamoto in Game 2 against the Milwaukee Brewers, ...",
-      "published": "2026-10-09T12:12:00+00:00",
-      "title": "Dodgers name Tarik Skubal, Yoshinobu Yamamoto as starters for NLCS Games 1 and 2",
-      "url": "https://www.nytimes.com/athletic/7676199/2026/10/09/dodgers-tarik-skubal-yoshinobu-yamamoto-nlcs-game-1-2-starters/"
+      "description": "The Dodgers will get familiarity. In a rematch of last year’s NLCS, the Dodgers will play the Milwaukee Brewers. It’s a mismatch in terms of payroll but not caliber of play as Milwaukee, with 103 wins ...",
+      "published": "2026-10-10T12:13:00+00:00",
+      "title": "Things I think about the Dodgers heading into an NLCS rematch against the Brewers",
+      "url": "https://www.nytimes.com/athletic/7676195/2026/10/10/dodgers-brewers-nlcs-rematch/"
     }
   ],
-  "generated_at": "2026-10-13T07:56:49.060155+00:00",
+  "generated_at": "2026-10-13T15:30:35.439099+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

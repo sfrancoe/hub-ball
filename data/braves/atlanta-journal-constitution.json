@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Braves",
+      "description": "Ronald Acuña Jr. and Ozzie Albies — are at a crossroads, with the Braves having to decide whether to allow them to become free agents.",
+      "published": "2026-10-13T08:06:00+00:00",
+      "title": "Braves have decisions to make on future with Acuña, Albies",
+      "url": "https://www.ajc.com/sports/2026/10/braves-acuna-albies-contract-option-decision/"
+    },
+    {
+      "category": "Braves",
       "description": "The Braves are facing elimination from the National League Division Series after their 3-2 Game 3 loss to the Los Angeles Dodgers Tuesday night at Truist Park.",
       "published": "2026-10-06T20:43:00+00:00",
       "title": "Braves again facing tall odds after Game 3 loss, which won’t faze them",
@@ -69,16 +76,9 @@
       "published": "2026-10-07T11:35:00+00:00",
       "title": "The Win Column: Is Freddie Freeman now an Atlanta villain?",
       "url": "https://www.ajc.com/sports/2026/10/the-win-column-is-freddie-freeman-now-an-atlanta-villain/"
-    },
-    {
-      "category": "Braves",
-      "description": "The Braves’ offense went ice cold at the worst possible time, and the NL East champs are now headed home after losing the NL Division Series in four games to the two-time defending world champion ...",
-      "published": "2026-10-08T04:56:00+00:00",
-      "title": "Dodgers dominate as Braves’ offense struggles in season-ending loss",
-      "url": "https://www.ajc.com/sports/2026/10/dodgers-dominate-as-braves-offense-struggles-in-season-ending-loss/"
     }
   ],
-  "generated_at": "2026-10-13T01:24:40.772930+00:00",
+  "generated_at": "2026-10-13T15:30:29.529600+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }
