@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:07:31.716966+00:00",
+  "generated_at": "2026-10-13T21:34:03.316441+00:00",
   "source": "MLB Stats API",
   "team": "Dodgers",
   "regular_season_end": "2026-09-27",
@@ -13,9 +13,9 @@
       "opponent": "Brewers",
       "opponent_record": "2-0",
       "favorite_team_record": "0-2",
-      "favorite_team_pitcher": "",
+      "favorite_team_pitcher": "Blake Snell",
       "opponent_pitcher": "Robert Gasser",
-      "favorite_team_pitcher_record": "—",
+      "favorite_team_pitcher_record": "4-1",
       "opponent_pitcher_record": "5-5",
       "show_probables": true,
       "series_description": "NL Championship Series",
