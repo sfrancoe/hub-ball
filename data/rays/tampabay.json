@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Trop’s highest seats are a novel playoff treat — and some of the best in the ballpark, fans say.",
+      "published": "2026-10-13T19:38:26+00:00",
+      "title": "At Tropicana Field, upper deck Rays fans are back in the game",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/13/rays-playoffs-upper-deck-seats-tropicana-field/"
+    },
+    {
+      "category": "Rays",
+      "description": "In a heated land-use meeting, Hillsborough Commission chairperson Ken Hagan asked to schedule the required hearing for Nov. 10.",
+      "published": "2026-10-13T17:59:15+00:00",
+      "title": "Hillsborough sets sales tax hearing for proposed Rays stadium",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/13/new-rays-stadium-hearing-tampa/"
+    },
+    {
+      "category": "Rays",
       "description": "Cleveland shows fight at the plate, scoring all seven of its runs over the final four innings, and determination on the mound.",
       "published": "2026-10-13T03:15:37+00:00",
       "title": "Rays let early lead get away, lose ALCS opener to gritty Guardians",
@@ -111,23 +125,9 @@
       "published": "2026-10-08T03:22:10+00:00",
       "title": "Rays celebrate in New York again with sweep of Yankees, advance to ALCS",
       "url": "https://www.tampabay.com/sports/rays/2026/10/07/rays-sweep-yankees-alds-game-3-clinch-alcs-ryan-vilade-victor-mesa-jonathan-aranda-anthony-volpe/"
-    },
-    {
-      "category": "Rays",
-      "description": "Anthony Volpe’s shot is ruled a run-scoring double instead in the sixth inning.",
-      "published": "2026-10-08T02:56:23+00:00",
-      "title": "Fan-interference call eliminates Yankees’ tying home run vs. Rays",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/07/anthony-volpe-fan-interference-alds-new-york-yankees/"
-    },
-    {
-      "category": "Rays",
-      "description": "Right-hander Ryan Vilade, who hits well vs. lefties, starts in rightfield; lefty swinger Victor Mesa Jr. moves to left.",
-      "published": "2026-10-07T20:55:13+00:00",
-      "title": "Kevin Cash’s changes to Rays lineup vs. Yankees’ Max Fried prove pivotal",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/07/chandler-simpson-alds-game-3-yankees-ryan-vilade-max-fried-jose-caballero-anthony-volpe/"
     }
   ],
-  "generated_at": "2026-10-13T07:55:43.061416+00:00",
+  "generated_at": "2026-10-13T20:48:32.432855+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

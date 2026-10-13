@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "What will the Mariners' payroll look like next season? We dive into the numbers to project what the M's will have available to spend on upgrading their roster.",
+      "published": "2026-10-13T05:00:00+00:00",
+      "title": "Projecting Mariners’ payroll budget for 2027 season",
+      "url": "https://www.seattletimes.com/sports/mariners/what-will-mariners-2027-payroll-budget-look-like/"
+    },
+    {
+      "category": "Mariners",
+      "description": "As the Mariners begin calls with managerial candidates this week, the first name publicly linked to the team has surfaced, and it's a familiar one.",
+      "published": "2026-10-13T02:53:00+00:00",
+      "title": "Mariners to meet with Astros’ Joe Espada about managerial opening",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-to-meet-with-astros-joe-espada-about-managerial-opening/"
+    },
+    {
+      "category": "Mariners",
       "description": "As the Mariners begin the process for hiring their next manager, we take a look at some potential candidates worth considering.",
       "published": "2026-10-10T23:01:00+00:00",
       "title": "Looking at possible candidates for Mariners’ open manager search",
@@ -37,10 +51,10 @@
     },
     {
       "category": "Mariners",
-      "description": "Mariners chairman John Stanton called the team’s 2026 flop ‘brutal.’ In a Q&A, he discussed the team’s expectations, manager change, payroll budget and more.",
-      "published": "2026-09-29T03:48:00+00:00",
-      "title": "Mariners chairman John Stanton on 2026 flop: ‘I’m embarrassed’ | Q&A",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-chairman-john-stanton-on-2026-flop-im-embarrassed-qa/"
+      "description": "First baseman-outfielder Michael Toglia is expected to compete for a bench spot on the Mariners’ roster next spring. He may also offer valuable Triple-A depth.",
+      "published": "2026-10-02T06:25:00+00:00",
+      "title": "Mariners claim Gig Harbor grad Michael Toglia off waivers",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-claim-gig-harbor-grad-michael-toglia-off-waivers/"
     },
     {
       "category": "Mariners",
@@ -51,10 +65,10 @@
     },
     {
       "category": "Mariners",
-      "description": "First baseman-outfielder Michael Toglia is expected to compete for a bench spot on the Mariners’ roster next spring. He may also offer valuable Triple-A depth.",
-      "published": "2026-10-02T06:25:00+00:00",
-      "title": "Mariners claim Gig Harbor grad Michael Toglia off waivers",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-claim-gig-harbor-grad-michael-toglia-off-waivers/"
+      "description": "Alone, John Stanton exited the Rogers Centre in Toronto and began to walk back to the team hotel shortly after the Mariners’ Game 7 loss in the American League Championship Series last October. An ...",
+      "published": "2026-09-29T03:48:00+00:00",
+      "title": "Mariners chairman John Stanton on 2026 flop: ‘I’m embarrassed’ | Q&A",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-chairman-john-stanton-on-2026-flop-im-embarrassed-qa/"
     },
     {
       "category": "Mariners",
@@ -64,7 +78,7 @@
       "url": "https://www.seattletimes.com/sports/mariners/three-reasons-the-mariners-are-unlikely-to-re-sign-randy-arozarena/"
     }
   ],
-  "generated_at": "2026-10-13T15:30:27.687124+00:00",
+  "generated_at": "2026-10-13T20:48:57.903191+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

@@ -2,17 +2,10 @@
   "articles": [
     {
       "category": "Royals",
-      "description": "Carter Jensen, Noah Cameron and Vinnie Pasquantino were all involved in a bit of drama because of an unusual rule in the Royals’ fantasy football league.",
-      "published": "2026-10-13T02:07:00+00:00",
+      "description": "Carter Jensen, Noah Cameron and Vinnie Pasquantino were involved in some drama because of an odd rule in the Royals fantasy football league.",
+      "published": "2026-10-13T02:40:00+00:00",
       "title": "Vinnie Pasquantino reveals a special rule in the Royals’ fantasy football league",
       "url": "https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article317601969.html"
-    },
-    {
-      "category": "Royals",
-      "description": "Kiyoshi Omakase opened in the spring in Overland Park, and the sushi restaurant quickly become a favorite of Royals shortstop Bobby Witt Jr. and his wife, Maggie. When it opened a ...",
-      "published": "2026-10-12T05:04:00+00:00",
-      "title": "A Johnson County sushi spot has become a favorite for Royals’ Bobby Witt Jr.",
-      "url": "https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article317583343.html"
     },
     {
       "category": "Royals",
@@ -20,6 +13,13 @@
       "published": "2026-10-11T00:30:00+00:00",
       "title": "Royals plan to be aggressive in free agency this offseason. Here’s what’s ahead",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317572377.html"
+    },
+    {
+      "category": "Royals",
+      "description": "Kiyoshi Omakase opened in the spring in Overland Park, and the sushi restaurant quickly become a favorite of Royals shortstop Bobby Witt Jr. and his wife, Maggie. When it opened a ...",
+      "published": "2026-10-12T05:04:00+00:00",
+      "title": "A Johnson County sushi spot has become a favorite for Royals’ Bobby Witt Jr.",
+      "url": "https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article317583343.html"
     },
     {
       "category": "Royals",
@@ -57,7 +57,7 @@
       "url": "https://www.kansascity.com/news/local/article317545028.html"
     }
   ],
-  "generated_at": "2026-10-13T15:30:24.762406+00:00",
+  "generated_at": "2026-10-13T20:48:45.929027+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }
