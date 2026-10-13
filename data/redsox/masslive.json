@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Despite the Red Sox early playoff exit, their former players and coaches remain present across all four LCS teams, including stars like Mookie Betts with the Dodgers and key contributors with Tampa Bay, Cleveland, and Milwaukee.",
+      "published": "2026-10-12T19:31:07+00:00",
+      "title": "The Red Sox may be done, but their fingerprints are all over the 2026 playoffs — here's where to find them",
+      "url": "https://www.masslive.com/redsox/2026/10/a-red-sox-fans-guide-to-rooting-in-the-baseball-postseason.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Red Sox third baseman Caleb Durbin underwent surgery to repair his injured left pinkie finger.",
       "published": "2026-10-11T16:57:05+00:00",
       "title": "Red Sox’ Caleb Durbin undergoes surgery",
@@ -97,23 +104,9 @@
       "published": "2026-10-06T16:55:47+00:00",
       "title": "Are the Red Sox in a better place as an organization compared to last year?",
       "url": "https://www.masslive.com/redsox/2026/10/are-the-red-sox-in-a-better-place-as-an-organization-compared-to-last-year-the-fenway-rundown.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Sam Kennedy, Craig Breslow and Chad Tracy provided updates on Curtis Mead's role for 2027, Jason Varitek's status in the organization, the coaching staff, Garrett Crochet's shoulder and more during Monday's end-of-season press conference.",
-      "published": "2026-10-05T22:00:31+00:00",
-      "title": "What role will Curtis Mead have on ‘27 Red Sox? Plus Jason Varitek, coaching updates",
-      "url": "https://www.masslive.com/redsox/2026/10/what-role-will-curtis-mead-have-on-27-red-sox-plus-jason-varitek-coaching-update-notebook.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Roman Anthony's hand injury does not require surgery, with Red Sox officials indicating that complete rest this offseason is the best path to recovery.",
-      "published": "2026-10-05T21:13:57+00:00",
-      "title": "Red Sox: Roman Anthony's recovery path is rest, not surgery",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-recovery-plan-for-roman-anthony-this-winter-more-rest-no-surgical-intervention.html"
     }
   ],
-  "generated_at": "2026-10-11T19:30:22.927945+00:00",
+  "generated_at": "2026-10-13T01:24:27.206617+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

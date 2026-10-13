@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Nationals",
+      "description": "BALTIMORE — On Thursday night, as the Washington Nationals drove from Nationals Park into Maryland, Jake Irvin stood up on the bus. Irvin and Luis García Jr. are the only players who have been in the ...",
+      "published": "2026-06-28T16:19:00+00:00",
+      "title": "Nationals win series vs. Orioles, bouncing back from tough stretch",
+      "url": "https://www.washingtonpost.com/sports/2026/06/28/nationals-win-series-vs-orioles-bouncing-back-tough-stretch/"
+    },
+    {
+      "category": "Nationals",
+      "description": "Playing in Cincinnati, just about 100 miles away from his hometown of Louisville, Daylen Lile demolished a home run in the 10th inning on Wednesday to help the Washington Nationals earn an 8-7 ...",
+      "published": "2026-05-13T19:37:00+00:00",
+      "title": "Lile, Nationals roar back to hold off Reds in 10 innings",
+      "url": "https://www.washingtonpost.com/sports/2026/05/14/lile-nationals-roar-back-hold-off-reds-10-innings/"
+    },
+    {
+      "category": "Nationals",
+      "description": "Surely it couldn’t happen three nights in a row. Surely the Washington Nationals’ bullpen couldn’t possibly blow the game in the ninth inning yet again. But it did. The bullpen was handed a 5-2 ...",
+      "published": "2026-06-24T17:00:00+00:00",
+      "title": "Third consecutive bullpen collapse leaves Nationals reeling and back at .500",
+      "url": "https://www.washingtonpost.com/sports/2026/06/25/third-consecutive-bullpen-collapse-leaves-nationals-reeling-back-500/"
+    },
+    {
+      "category": "Nationals",
       "description": "Nationals Park will host the barnstorming baseball league’s inaugural title game. When Jesse Cole opens his banana-yellow notebook and rattles off the handwritten thoughts within, the avalanche of ...",
       "published": "2026-10-07T02:00:00+00:00",
       "title": "Savannah Bananas are bringing the Banana Bowl, their ‘craziest show’ yet, to D.C.",
@@ -16,13 +37,6 @@
     },
     {
       "category": "Nationals",
-      "description": "Nick Morabito passed by Nationals Park hundreds of times as he drove from his home in McLean, Virginia, to Gonzaga College High School. He has been inside the park a “good amount” to watch former ...",
-      "published": "2026-05-19T16:37:00+00:00",
-      "title": "Nick Morabito’s Mets debut is a homecoming for Gonzaga College High alumnus",
-      "url": "https://www.washingtonpost.com/sports/2026/05/19/nick-morabitos-mets-debut-is-homecoming-gonzaga-college-high-alumnus/"
-    },
-    {
-      "category": "Nationals",
       "description": "The leader of Myanmar’s military-backed government is traveling to Malaysia for talks with its leaders as the two Southeast Asian nations work to repatriate thousands of Myanmar nationals ...",
       "published": "2026-10-06T20:24:00+00:00",
       "title": "Myanmar military leader arrives in Malaysia as repatriations draw criticism",
@@ -34,16 +48,9 @@
       "published": "2025-02-20T14:32:00+00:00",
       "title": "The baseball mind helping some of the young Nats find their swings",
       "url": "https://www.washingtonpost.com/sports/2025/02/19/james-wood-coach-g-nationals-offseason-training/"
-    },
-    {
-      "category": "Nationals",
-      "description": "Nine vehicles were set alight during clashes between South Africans and foreign nationals in Soweto, Johannesburg on Thursday, police said, amid protests over a court ruling that has brought crowds of ...",
-      "published": "2026-10-08T13:08:00+00:00",
-      "title": "Vehicles torched in South Africa as protests over asylum ruling rage on",
-      "url": "https://www.washingtonpost.com/world/2026/10/08/south-africa-clashes-protests-migration-asylum-immigration-cars-burned/257445ae-c343-11f1-8170-681419af1cc9_story.html"
     }
   ],
-  "generated_at": "2026-10-12T09:30:32.338485+00:00",
+  "generated_at": "2026-10-13T01:24:42.593177+00:00",
   "source": "Washington Post",
   "source_url": "https://www.washingtonpost.com/sports/nationals/"
 }

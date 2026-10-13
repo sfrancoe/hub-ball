@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Our experts predict who will represent the American League in this year's World Series.",
+      "published": "2026-10-12T09:30:36+00:00",
+      "title": "ALCS staff predictions: The Rays look like heavy favorites over the Guardians",
+      "url": "https://www.nytimes.com/athletic/7681375/2026/10/12/alcs-expert-predictions-rays-guardians-mlb-playoffs/"
+    },
+    {
+      "category": "Rays",
       "description": "Will the Rays’ lineup perk up? And does Cleveland have any pitchers left? Here's what you need to know ahead of the ALCS.",
       "published": "2026-10-12T09:21:32+00:00",
       "title": "Guardians-Rays ALCS preview: Cleveland and Tampa Bay, two frugal contenders, face off",
@@ -132,16 +139,9 @@
       "published": "2026-10-02T16:16:41+00:00",
       "title": "2026 World Series odds: Dodgers still favored, but Yankees now in top spot for AL pennant",
       "url": "https://www.nytimes.com/athletic/7651546/2026/10/02/world-series-odds-division-series-dodgers-yankees-rays-brewers/"
-    },
-    {
-      "category": "Rays",
-      "description": "Can the Yankees solve their Drew Rasmussen problem? Can the Rays keep Ben Rice from doing damage? Here's what our writers will be watching.",
-      "published": "2026-10-02T06:00:30+00:00",
-      "title": "Yankees vs. Rays ALDS predictions: Ben Rice, Cam Schlittler and the matchups that could decide the series",
-      "url": "https://www.nytimes.com/athletic/7650711/2026/10/02/yankees-rays-predictions-alds/"
     }
   ],
-  "generated_at": "2026-10-12T09:30:25.999994+00:00",
+  "generated_at": "2026-10-13T01:24:33.171456+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

@@ -2,6 +2,34 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Photo gallery | Tampa Bay is one series victory from advancing to its third World Series and first since 2020.",
+      "published": "2026-10-13T00:12:08+00:00",
+      "title": "See images from Rays’ AL Championship Series opener against Guardians",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/12/guardians-alcs-game-1-photos-drew-rasmussen-foster-griffin-junior-caminero-yandy-diaz/"
+    },
+    {
+      "category": "Rays",
+      "description": "Between repairs to the Trop, approval for a new stadium and increased excitement for the team, the new owners have had a strong rookie year.",
+      "published": "2026-10-12T23:36:36+00:00",
+      "title": "MLB commissioner ‘excited’ by what Rays have done, what’s to come",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/12/rob-manfred-mlb-commissioner-tampa-stadium/"
+    },
+    {
+      "category": "Rays",
+      "description": "Messick started Games 1 and 4 of the American League Division Series against the White Sox, working 6 ⅔ innings.",
+      "published": "2026-10-12T22:45:05+00:00",
+      "title": "Plant City’s Parker Messick to start ALCS Game 2 for Guardians vs. Rays",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/12/parker-messick-alcs-game-2-cleveland-guardians-plant-city-stephen-vogt/"
+    },
+    {
+      "category": "Rays",
+      "description": "Notes | It’s the same 12-pitcher, 14-player breakdown except for lefty Garrett Cleavinger, who is dropped.",
+      "published": "2026-10-12T15:13:20+00:00",
+      "title": "Rays add hard-throwing rookie Brody Hopkins as only ALCS roster change",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/12/brody-hopkins-rotation-bullpen-alcs-guardians/"
+    },
+    {
+      "category": "Rays",
       "description": "Cleveland is pleased to still be in the postseason hunt, and manager Stephen Vogt has appreciation for how Tampa Bay’s staff helped him.",
       "published": "2026-10-12T01:13:08+00:00",
       "title": "Guardians have plenty of reasons to be happy about facing Rays in ALDS",
@@ -97,23 +125,9 @@
       "published": "2026-10-07T12:00:00+00:00",
       "title": "New Tampa Bay Rays ‘experience center’ will offer first glimpse at the ballpark",
       "url": "https://www.tampabay.com/sports/rays/2026/10/07/tampa-bay-rays-baseball-development-experience-westshore/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | Though the veteran right-hander made eight previous playoff appearances with the Padres and Reds, Game 3 will be his first start.",
-      "published": "2026-10-06T22:04:43+00:00",
-      "title": "Nick Martinez ‘fully aware what’s at stake’ as he takes mound vs. Yankees",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/06/nick-martinez-alds-game-3-yankees-max-fried-kevin-cash-aaron-boone/"
-    },
-    {
-      "category": "Rays",
-      "description": "Two weeks ago, they strolled into the Bronx and left with the AL East title. Now there’s a bigger prize at stake — the chance to play for a berth in the World Series.",
-      "published": "2026-10-06T21:35:28+00:00",
-      "title": "With 2-0 ALDS lead, Rays are ready to celebrate again at Yankee Stadium",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/06/alds-yankees-nick-martinez-kevin-cash-aaron-boone-taylor-walls-bryan-baker/"
     }
   ],
-  "generated_at": "2026-10-12T02:19:20.114789+00:00",
+  "generated_at": "2026-10-13T01:24:32.847204+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
