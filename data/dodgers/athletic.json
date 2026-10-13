@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "The series is now headed back to Los Angeles for three games. The Dodgers have rotation depth — two-time Cy Young winner Blake Snell and All-Star Tyler Glasnow — that Milwaukee does not. A 2-0 lead is ...",
-      "published": "2026-10-13T12:03:00+00:00",
-      "title": "Time for Dodgers to bench Shohei Ohtani? Plus: Cleveland strikes first",
-      "url": "https://www.nytimes.com/athletic/7687222/2026/10/13/ohtani-dogders-bench-mlb-playoffs-the-windup/"
-    },
-    {
-      "category": "Dodgers",
       "description": "It’s difficult to imagine the Dodgers taking four of the next five games. But it’s also difficult to imagine them just fading away.",
       "published": "2026-10-13T02:31:00+00:00",
       "title": "Can the Dodgers, unraveling in the NLCS, bounce back? It’s becoming hard to see how",
@@ -27,6 +20,13 @@
       "published": "2026-10-13T04:00:00+00:00",
       "title": "Up 2, Brewers don’t mind the historic view, but they know Dodgers won’t go quietly",
       "url": "https://www.nytimes.com/athletic/7685932/2026/10/13/brewers-two-game-lead-dodgers-nlcs-mlb-playoff-history/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The series is now headed back to Los Angeles for three games. The Dodgers have rotation depth — two-time Cy Young winner Blake Snell and All-Star Tyler Glasnow — that Milwaukee does not. A 2-0 lead is ...",
+      "published": "2026-10-13T12:03:00+00:00",
+      "title": "Time for Dodgers to bench Shohei Ohtani? Plus: Cleveland strikes first",
+      "url": "https://www.nytimes.com/athletic/7687222/2026/10/13/ohtani-dogders-bench-mlb-playoffs-the-windup/"
     },
     {
       "category": "Dodgers",
@@ -51,13 +51,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "Follow our live coverage of Game 1 of the National League Championship Series between Los Angeles and Milwaukee.",
-      "published": "2026-10-11T10:00:00+00:00",
-      "title": "Brewers bullpen shuts down Dodgers for 2-1 win in NLCS Game 1: Live updates, reaction",
-      "url": "https://www.nytimes.com/athletic/live-blogs/dodgers-vs-brewers-live-updates-mlb-playoffs-game-1-score-result/gH9BqhlrWf8e/"
-    },
-    {
-      "category": "Dodgers",
       "description": "It doesn't help that two of the Dodgers' middle-of-the-order hitters, Shohei Ohtani and Will Smith, are slumping.",
       "published": "2026-10-12T04:41:00+00:00",
       "title": "Dodgers’ offense searching after quiet Game 1 against Misiorowski, Brewers’ pen",
@@ -65,8 +58,15 @@
     },
     {
       "category": "Dodgers",
+      "description": "Follow our live coverage of Game 1 of the National League Championship Series between Los Angeles and Milwaukee.",
+      "published": "2026-10-11T13:59:00+00:00",
+      "title": "Brewers bullpen shuts down Dodgers for 2-1 win in NLCS Game 1: Live updates, reaction",
+      "url": "https://www.nytimes.com/athletic/live-blogs/dodgers-vs-brewers-live-updates-mlb-playoffs-game-1-score-result/gH9BqhlrWf8e/"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Dodgers are nearly even money ahead of the start of the NLCS while Cleveland is the longshot of the four teams left.",
-      "published": "2026-10-11T04:42:00+00:00",
+      "published": "2026-10-11T14:15:00+00:00",
       "title": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
       "url": "https://www.nytimes.com/athletic/7678829/2026/10/11/world-series-odds-dodgers-brewers-rays-guardians-alcs-nlcs/"
     },
@@ -79,13 +79,13 @@
     },
     {
       "category": "Dodgers",
-      "description": "Our MLB experts weigh in on how the battle between the National League's two best teams will play out. Can Milwaukee slay the dragon?",
-      "published": "2026-10-09T04:39:00+00:00",
-      "title": "NLCS predictions: Will the Dodgers-Brewers rematch have a different outcome?",
-      "url": "https://www.nytimes.com/athletic/7672426/2026/10/09/nlcs-expert-predictions-brewers-dodgers-mlb-playoffs/"
+      "description": "The Dodgers will get familiarity. In a rematch of last year’s NLCS, the Dodgers will play the Milwaukee Brewers. It’s a mismatch in terms of payroll but not caliber of play as Milwaukee, with 103 wins ...",
+      "published": "2026-10-10T12:13:00+00:00",
+      "title": "Things I think about the Dodgers heading into an NLCS rematch against the Brewers",
+      "url": "https://www.nytimes.com/athletic/7676195/2026/10/10/dodgers-brewers-nlcs-rematch/"
     }
   ],
-  "generated_at": "2026-10-13T20:49:28.779525+00:00",
+  "generated_at": "2026-10-13T23:58:20.559285+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

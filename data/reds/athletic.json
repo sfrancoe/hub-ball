@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Reds",
-      "description": "Current ownership is not interested in selling the team, he said, even in light of the recent record-setting purchase prices of MLB teams.",
-      "published": "2026-10-01T12:52:00+00:00",
-      "title": "Reds owner Phil Castellini on team’s goals: ‘Championship baseball. Period’",
-      "url": "https://www.nytimes.com/athletic/7649684/2026/10/01/reds-owner-phil-castellini-teams-goals-championship-baseball/"
-    },
-    {
-      "category": "Reds",
       "description": "Outfielder Dane Myers dropped a routine fly ball that would have ended the game in a 5-4 Reds win. Katie Stratman / Reuters CINCINNATI — The Cincinnati Reds have lost 67 of their 128 games this season ...",
       "published": "2026-08-20T16:57:00+00:00",
       "title": "Cincinnati Reds’ 67th loss comes in stunning fashion: A routine fly ball on the last strike",
@@ -16,10 +9,24 @@
     },
     {
       "category": "Reds",
+      "description": "Current ownership is not interested in selling the team, he said, even in light of the recent record-setting purchase prices of MLB teams.",
+      "published": "2026-10-01T12:52:00+00:00",
+      "title": "Reds owner Phil Castellini on team’s goals: ‘Championship baseball. Period’",
+      "url": "https://www.nytimes.com/athletic/7649684/2026/10/01/reds-owner-phil-castellini-teams-goals-championship-baseball/"
+    },
+    {
+      "category": "Reds",
       "description": "Elly De La Cruz has 28 stolen bases this season. Andy Lyons / Getty Images CINCINNATI — The Chicago Cubs left Great American Ball Park on Sunday with a chance to clinch their postseason berth when ...",
       "published": "2026-09-21T04:00:00+00:00",
       "title": "What to watch for in the Reds’ last 6 games",
       "url": "https://www.nytimes.com/athletic/7615005/2026/09/21/what-to-watch-for-reds-games-2026/"
+    },
+    {
+      "category": "Reds",
+      "description": "Chase Petty wasn't able to record his first major-league victory. The kanji on the webbing of his glove means \"pain.\" Sage Zipeto / Getty Images CHICAGO — About three hours before he was scheduled to ...",
+      "published": "2026-05-05T03:00:00+00:00",
+      "title": "Reds’ Chase Petty finds pain and peace in first start of 2026",
+      "url": "https://www.nytimes.com/athletic/7254528/2026/05/05/reds-chase-petty-first-start-2026/"
     },
     {
       "category": "Reds",
@@ -34,16 +41,9 @@
       "published": "2026-05-01T03:14:00+00:00",
       "title": "Ke’Bryan Hayes’ offense may be unlucky, but he feels fortunate to be a Red",
       "url": "https://www.nytimes.com/athletic/7244640/2026/05/01/kebryan-hayes-offense-reds-unlucky/"
-    },
-    {
-      "category": "Reds",
-      "description": "When Joey Votto realized he was bad at diving for ground balls, he taught himself how to dive by lunging into a pool. Emilee Chinn / Cincinnati Reds / Getty Images Peak newsletter | A version of this ...",
-      "published": "2026-05-15T03:00:00+00:00",
-      "title": "One hit is better than three? Why Joey Votto was happier after going 1-for-3",
-      "url": "https://www.nytimes.com/athletic/7279423/2026/05/15/one-hit-is-better-than-three-why-joey-votto-was-happier-after-going-1-for-3/"
     }
   ],
-  "generated_at": "2026-10-13T20:49:19.899971+00:00",
+  "generated_at": "2026-10-13T23:58:18.157500+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/reds/"
 }

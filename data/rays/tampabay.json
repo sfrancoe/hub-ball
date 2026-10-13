@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Notes | After a scary collision during the ninth inning Monday, both are back in the lineup and feeling fine.",
+      "published": "2026-10-13T21:51:43+00:00",
+      "title": "Rays happy Caminero and DeLuca feeling good, able to start ALCS Game 2",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/13/junior-caminero-jonny-deluca-collision-alcs-rangers-nathaniel-lowe-drew-rasmussen/"
+    },
+    {
+      "category": "Rays",
       "description": "The Trop’s highest seats are a novel playoff treat — and some of the best in the ballpark, fans say.",
       "published": "2026-10-13T19:38:26+00:00",
       "title": "At Tropicana Field, upper deck Rays fans are back in the game",
@@ -118,16 +125,9 @@
       "published": "2026-10-08T13:37:04+00:00",
       "title": "Once obscure outfielders, Victor Mesa Jr., Ryan Vilade power Rays’ sweep",
       "url": "https://www.tampabay.com/sports/rays/2026/10/08/ryan-vilade-victor-mesa-jr-yankees-sweep-alds/"
-    },
-    {
-      "category": "Rays",
-      "description": "They will face the Guardians or White Sox starting Monday at Tropicana Field, with a berth in the World Series at stake.",
-      "published": "2026-10-08T03:22:10+00:00",
-      "title": "Rays celebrate in New York again with sweep of Yankees, advance to ALCS",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/07/rays-sweep-yankees-alds-game-3-clinch-alcs-ryan-vilade-victor-mesa-jonathan-aranda-anthony-volpe/"
     }
   ],
-  "generated_at": "2026-10-13T20:48:32.432855+00:00",
+  "generated_at": "2026-10-13T23:58:08.873482+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
