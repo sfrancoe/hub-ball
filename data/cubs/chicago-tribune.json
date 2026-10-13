@@ -9,17 +9,17 @@
     },
     {
       "category": "Cubs",
-      "description": "Now that the Cubs have bowed out of the postseason and the White Sox are in the ALDS, is it time for detente in the intense Chicago baseball rivalry?",
-      "published": "2026-10-05T04:00:00+00:00",
-      "title": "Column: White Sox welcoming Cubs fans to hop on the playoff bandwagon … with a few caveats",
-      "url": "https://www.chicagotribune.com/2026/10/05/chicago-white-sox-alds-cubs-fans/"
-    },
-    {
-      "category": "Cubs",
       "description": "The Chicago Cubs were eliminated from an NL wild-card series against the San Diego Padres, falling 4-1 late Wednesday. The Cubs had only one extra-base hit in the two-game sweep.",
       "published": "2026-10-01T04:54:00+00:00",
       "title": "Chicago Cubs quickly KO’d from playoffs after bats quiet again in 4-1 loss to San Diego Padres",
       "url": "https://www.chicagotribune.com/2026/10/01/mlb-playoffs-chicago-cubs-padres-sweep/"
+    },
+    {
+      "category": "Cubs",
+      "description": "Now that the Cubs have bowed out of the postseason and the White Sox are in the ALDS, is it time for detente in the intense Chicago baseball rivalry?",
+      "published": "2026-10-05T04:00:00+00:00",
+      "title": "Column: White Sox welcoming Cubs fans to hop on the playoff bandwagon … with a few caveats",
+      "url": "https://www.chicagotribune.com/2026/10/05/chicago-white-sox-alds-cubs-fans/"
     },
     {
       "category": "Cubs",
@@ -30,7 +30,7 @@
     },
     {
       "category": "Cubs",
-      "description": "This wasn’t the story the Chicago Cubs envisioned writing in 2026. Their goal since last year ended painfully with the decisive Game 5 loss in the National League Division Series was to make a deeper ...",
+      "description": "After the Chicago Cubs fall short in the playoffs, those within the organization must diagnose what went wrong and look ahead to getting another shot in 2027.",
       "published": "2026-10-04T04:00:00+00:00",
       "title": "Where do the Chicago Cubs go after falling short in the playoffs again? ‘We let it slip away.’",
       "url": "https://www.chicagotribune.com/2026/10/04/chicago-cubs-playoff-exit-what-next/"
@@ -44,13 +44,27 @@
     },
     {
       "category": "Cubs",
+      "description": "The latest Chicago Media Report tackles Jarrett Payton’s first month on The Score, the debut of “The Late Show” set at the Museum of Broadcast Communications, and more.",
+      "published": "2026-09-30T03:00:00+00:00",
+      "title": "Chicago Media Report: Jarrett Payton’s 1st month at The Score — and an ex-Cubs radio voice up for Hall of Fame",
+      "url": "https://www.chicagotribune.com/2026/09/30/chicago-media-report-jarrett-payton-cubs/"
+    },
+    {
+      "category": "Cubs",
+      "description": "Due to overlap, two games the first two days of the wild-card round were on NBC and Peacock, and the other two were on Peacock and NBCSN. Naturally, the New York Yankees-Boston Red Sox games were on ...",
+      "published": "2026-09-30T14:35:00+00:00",
+      "title": "Column: With both teams on Peacock, finding a Chicago playoff game on TV never has been so maddening",
+      "url": "https://www.chicagotribune.com/2026/09/30/chicago-white-sox-cubs-peacock/"
+    },
+    {
+      "category": "Cubs",
       "description": "The Chicago Cubs opted for 12 pitchers in the best-of-three series, with the most notable exclusions being Caleb Thielbar and Edward Cabrera.",
       "published": "2026-09-29T15:51:00+00:00",
       "title": "Chicago Cubs set NL wild-card series roster: Pitchers Caleb Thielbar and Edward Cabrera left off",
       "url": "https://www.chicagotribune.com/2026/09/29/chicago-cubs-wild-card-roster/"
     }
   ],
-  "generated_at": "2026-10-13T01:24:43.065365+00:00",
+  "generated_at": "2026-10-13T07:56:33.897722+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

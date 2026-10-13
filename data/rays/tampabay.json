@@ -2,14 +2,21 @@
   "articles": [
     {
       "category": "Rays",
-      "description": "Photo gallery | Tampa Bay is one series victory from advancing to its third World Series and first since 2020.",
+      "description": "Cleveland shows fight at the plate, scoring all seven of its runs over the final four innings, and determination on the mound.",
+      "published": "2026-10-13T03:15:37+00:00",
+      "title": "Rays let early lead get away, lose ALCS opener to gritty Guardians",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/12/alcs-game-1-guardians-chase-delauter-patrick-bailey-drew-rasmussen-junior-caminero/"
+    },
+    {
+      "category": "Rays",
+      "description": "Photo gallery | Cleveland strikes first in the best-of-seven series.",
       "published": "2026-10-13T00:12:08+00:00",
       "title": "See images from Rays’ AL Championship Series opener against Guardians",
       "url": "https://www.tampabay.com/sports/rays/2026/10/12/guardians-alcs-game-1-photos-drew-rasmussen-foster-griffin-junior-caminero-yandy-diaz/"
     },
     {
       "category": "Rays",
-      "description": "Between repairs to the Trop, approval for a new stadium and increased excitement for the team, the new owners have had a strong rookie year.",
+      "description": "Notes | Between Trop repairs, approval for a new stadium and increased excitement for the team, new owners have had strong rookie year.",
       "published": "2026-10-12T23:36:36+00:00",
       "title": "MLB commissioner ‘excited’ by what Rays have done, what’s to come",
       "url": "https://www.tampabay.com/sports/rays/2026/10/12/rob-manfred-mlb-commissioner-tampa-stadium/"
@@ -118,16 +125,9 @@
       "published": "2026-10-07T20:55:13+00:00",
       "title": "Kevin Cash’s changes to Rays lineup vs. Yankees’ Max Fried prove pivotal",
       "url": "https://www.tampabay.com/sports/rays/2026/10/07/chandler-simpson-alds-game-3-yankees-ryan-vilade-max-fried-jose-caballero-anthony-volpe/"
-    },
-    {
-      "category": "Rays",
-      "description": "Fans and investors can stop by in person to learn more about the forthcoming Rays baseball stadium development.",
-      "published": "2026-10-07T12:00:00+00:00",
-      "title": "New Tampa Bay Rays ‘experience center’ will offer first glimpse at the ballpark",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/07/tampa-bay-rays-baseball-development-experience-westshore/"
     }
   ],
-  "generated_at": "2026-10-13T01:24:32.847204+00:00",
+  "generated_at": "2026-10-13T07:55:43.061416+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
