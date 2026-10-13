@@ -1,22 +1,65 @@
 {
-  "generated_at": "2026-10-11T13:04:57.186773+00:00",
+  "generated_at": "2026-10-13T00:49:45.217818+00:00",
   "source": "X",
   "source_url": "https://x.com/Dbacks",
   "recent": [
     {
-      "id": "2108597695040626945",
-      "text": "We know them, @Jeopardy! https://t.co/lNs31pXpHx",
-      "url": "https://x.com/Dbacks/status/2108597695040626945",
-      "published": "2026-10-09T16:37:21+00:00",
-      "likes": 632,
+      "id": "2109679139158708635",
+      "text": "RT @MLBazFallLeague: It takes a village 🫶 @Dbacks No. 1 prospect and Tucson native Demetrio Crisantes had close to a hundred family member…",
+      "url": "https://x.com/Dbacks/status/2109679139158708635",
+      "published": "2026-10-12T16:14:37+00:00",
+      "likes": 0,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2101674053904072704/bC8CJ5P2_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HUM6yp5bUAUsxrH.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2109678815878524989",
+      "text": "Happy birthday, Ketel 🥳 https://t.co/nltTRr24Ld",
+      "url": "https://x.com/Dbacks/status/2109678815878524989",
+      "published": "2026-10-12T16:13:20+00:00",
+      "likes": 844,
+      "author": "Arizona Diamondbacks",
+      "handle": "Dbacks",
+      "avatar": "https://pbs.twimg.com/profile_images/2101674053904072704/bC8CJ5P2_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HUcUYexaQAEB1D6.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2109678815878524989",
+      "text": "Happy birthday, Ketel 🥳 https://t.co/nltTRr24Ld",
+      "url": "https://x.com/Dbacks/status/2109678815878524989",
+      "published": "2026-10-12T16:13:20+00:00",
+      "likes": 844,
+      "author": "Arizona Diamondbacks",
+      "handle": "Dbacks",
+      "avatar": "https://pbs.twimg.com/profile_images/2101674053904072704/bC8CJ5P2_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HUcUYexaQAEB1D6.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2109679139158708635",
+      "text": "RT @MLBazFallLeague: It takes a village 🫶 @Dbacks No. 1 prospect and Tucson native Demetrio Crisantes had close to a hundred family member…",
+      "url": "https://x.com/Dbacks/status/2109679139158708635",
+      "published": "2026-10-12T16:14:37+00:00",
+      "likes": 0,
+      "author": "Arizona Diamondbacks",
+      "handle": "Dbacks",
+      "avatar": "https://pbs.twimg.com/profile_images/2101674053904072704/bC8CJ5P2_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
