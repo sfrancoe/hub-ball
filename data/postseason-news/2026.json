@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-13T21:35:01.434885+00:00",
+  "generatedAt": "2026-10-14T00:38:52.591861+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 9,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "A Cy Young Award won’t fill ace’s Yankees championship void",
+      "description": "",
+      "url": "https://nypost.com/2026/10/13/sports/a-cy-young-award-wont-fill-cam-schlittlers-yankees-title-void/",
+      "published": "2026-10-13T22:37:13+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays happy Caminero and DeLuca feeling good, able to start ALCS Game 2",
+      "description": "Notes | After a scary collision during the ninth inning Monday, both are back in the lineup and feeling fine.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/13/junior-caminero-jonny-deluca-collision-alcs-rangers-nathaniel-lowe-drew-rasmussen/",
+      "published": "2026-10-13T21:51:43.274000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "At Tropicana Field, upper deck Rays fans are back in the game",
       "description": "The Trop’s highest seats are a novel playoff treat — and some of the best in the ballpark, fans say.",
@@ -45,6 +69,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Guardians stun Rays, 7-3, with late rally to take Game 1 of ALCS",
+      "description": "The Guardians rally late to beat the Rays in Game 1 of the ALCS. It was their fourth straight win this postseason.",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-stun-rays-7-3-with-late-rally-to-take-game-1-of-alcs.html",
+      "published": "",
+      "source": "Cleveland.com",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Nathaniel Lowe’s biggest swing in ALCS opener shows why Guardians needed a ‘professional hitter’",
+      "description": "Nathaniel Lowe ripped a go-ahead two-run single against his former team in Game 1 of the ALCS, showing why the Cleveland Guardians acquired him.",
+      "url": "https://www.cleveland.com/guardians/2026/10/nathaniel-lowes-professional-approach-pays-off-in-biggest-moment-of-guardians-alcs-opener.html",
+      "published": "",
+      "source": "Cleveland.com",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "5 big-picture questions as Braves enter offseason",
       "description": "Outside speculation has centered on Acuña, an all-world talent with two team-friendly club options remaining ($17 million) before he’s set to explore free agency for the first time. He’s undoubtedly ...",
       "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-offseason-questions/",
@@ -69,103 +117,7 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Time for Dodgers to bench Shohei Ohtani? Plus: Cleveland strikes first",
-      "description": "The series is now headed back to Los Angeles for three games. The Dodgers have rotation depth — two-time Cy Young winner Blake Snell and All-Star Tyler Glasnow — that Milwaukee does not. A 2-0 lead is ...",
-      "url": "https://www.nytimes.com/athletic/7687222/2026/10/13/ohtani-dogders-bench-mlb-playoffs-the-windup/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Plenty up in the air for Yankees’ coaching staff",
-      "description": "Matt Blake and Tanner Swanson are two impending free agents the Yankees would be wise...",
-      "url": "https://www.nydailynews.com/2026/10/13/plenty-up-in-the-air-for-yankees-coaching-staff/",
-      "published": "2026-10-13T12:00:44+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Atlanta kid who grew up to play for his hometown Braves",
-      "description": "His rotation of walk-up songs is headlined by Atlanta rappers, including “Met Gala” by Gunna. The “Money Mike” nickname. The sideways-hat swagger after victories with star right fielder Ronald Acuña ...",
-      "url": "https://www.ajc.com/sports/2026/10/the-brave-atlanta-raised/",
-      "published": "2026-10-13T12:00:00+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Mariners to interview Astros’ Joe Espada for managerial vacancy: Source",
-      "description": "HOUSTON — Houston Astros manager Joe Espada, whose status with the franchise remains in doubt, will meet with the Seattle Mariners regarding their managerial vacancy, a source who spoke on condition ...",
-      "url": "https://www.nytimes.com/athletic/7686764/2026/10/13/mariners-interview-joe-espada-manager/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Column: Despite a fun season, the Chicago White Sox rebuild isn’t complete. Changes are needed for 2027",
-      "description": "It was a fun ride for the 2026 Chicago White Sox. But changes have to be made to ensure they’re back in the postseason next year.",
-      "url": "https://www.chicagotribune.com/2026/10/13/chicago-white-sox-rebuild-2027-season/",
-      "published": "2026-10-13T11:00:40+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The 6 Red Sox players with the biggest questions to answer entering the offseason",
-      "description": "Though Boston's roster doesn't have many glaring holes, upgrades are needed after Wild Card Series losses in consecutive seasons.",
-      "url": "https://www.nytimes.com/athletic/7675408/2026/10/13/red-sox-offseason-questions-roman-anthony-garrett-crochet/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Predicting outcomes for all 10 of Yankees' free agents: Who stays, who goes?",
-      "description": "Our thoughts on each impending free agent, including our predictions on who might stay with the Yankees and who might depart.",
-      "url": "https://www.nytimes.com/athletic/7682085/2026/10/13/yankees-free-agents-predictions-stay-go/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Letters: Moving the White Sox out of Bridgeport would be a disservice to the community and an insult to fans",
-      "description": "I don’t want a $20 beer at a yuppie bar where nobody knows my name or cares about the game. I want a $7 beer and a local bartender.",
-      "url": "https://www.chicagotribune.com/2026/10/13/letters-101326-white-sox-mike-ditka/",
-      "published": "2026-10-13T10:00:50+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Guardians vs. Rays live updates: MLB playoffs ALCS Game 2 start time, predictions and latest",
+      "title": "Guardians vs. Rays score, live updates: Cleveland, Tampa Bay scoreless in second inning",
       "description": "Follow live coverage as Tampa Bay hosts Cleveland in Game 2 of the ALCS at Tropicana Field.",
       "url": "https://www.nytimes.com/athletic/live-blogs/guardians-vs-rays-live-updates-mlb-playoffs-game-2-score-result/cNw8Rm1ZEKCK/",
       "published": "",
@@ -177,39 +129,15 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "How Dodgers’ Will Smith altered the course of NLCS Game 2 — to Yoshinobu Yamamoto’s detriment",
-      "description": "Yoshinobu Yamamoto’s performance was a gut punch and a psyche-rattling blow for the Dodgers. But why didn't his catcher, Will Smith, use the team's ABS challenges?",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-13/how-dodgers-will-smith-altered-course-of-game-2-of-nlcs",
-      "published": "2026-10-13T10:00:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Dodgers send SOS to Blake Snell and Tyler Glasnow: Save our season",
-      "description": "The Dodgers mapped out their NLCS rotation a while ago, but the map has led them to a 2-0 deficit against Milwaukee.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-13/dodgers-blake-snell-tyler-glasnow",
-      "published": "2026-10-13T10:00:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Milwaukee Brewers announce NLCS Game 3 watch party (already sold out)",
-      "description": "Brewers fans snapped up all 3,000 tickets to the team's watch party in less than an hour for Game 3 of the NLCS.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/13/milwaukee-brewers-announce-nlcs-game-3-watch-party/92231603007/",
+      "title": "Guardians Stephen Vogt stays with Austin Hedges as Parker Messick’s personal catcher in ALCS Game 2",
+      "description": "Stephen Vogt spent 10 years in the big leagues. He spent most of that time as a catcher, kneeling behind the plate encouraging pitchers to throw strikes. He wasn’t all that crazy about pitchers having ...",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-stephen-vogt-stays-with-austin-hedges-as-parker-messicks-personal-catcher-in-alcs-game-2.html",
       "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
+      "source": "Cleveland.com",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
       "publishedSource": "unverified"
     }
   ]
