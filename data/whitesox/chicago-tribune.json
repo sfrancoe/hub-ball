@@ -2,9 +2,16 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "Chicago White Sox GM Chris Getz reflected on the regular-season success and postseason run, and previewed some offseason plans on Wednesday.",
+      "published": "2026-10-14T14:10:00+00:00",
+      "title": "Chicago White Sox GM Chris Getz reflects on 2026, plus the helpful advice he received about looking ahead",
+      "url": "https://www.chicagotribune.com/2026/10/14/chicago-white-sox-chris-getz-2026-review/"
+    },
+    {
+      "category": "White Sox",
       "description": "The Chicago Cubs, who had MLB’s best team defense, have five Gold Glove Award finalists. Chicago White Sox second baseman Chase Meidroth also is a finalist.",
       "published": "2026-10-14T10:10:00+00:00",
-      "title": "Gold Glove finalists are announced, including 5 Cubs and 1 White Sox player",
+      "title": "Gold Glove Award finalists are announced, including 5 Cubs and 1 White Sox player",
       "url": "https://www.chicagotribune.com/2026/10/14/chicago-cubs-white-sox-gold-glove-finalists/"
     },
     {
@@ -48,30 +55,9 @@
       "published": "2026-10-08T18:39:00+00:00",
       "title": "Chicago White Sox: What to know about ALDS Game 4 vs. Guardians",
       "url": "https://www.chicagotribune.com/2026/10/08/chicago-white-soxs-alds-game-4-preview/"
-    },
-    {
-      "category": "White Sox",
-      "description": "The Chicago White Sox’s ALDS Game 5 will see a lineup change with Brenton Doyle starting in CF, Tristan Peters in RF and Braden Montgomery off the bench.",
-      "published": "2026-10-10T17:16:00+00:00",
-      "title": "What to know about Chicago White Sox’s ALDS Game 5, including the thought process behind a lineup change",
-      "url": "https://www.chicagotribune.com/2026/10/10/chicago-white-sox-alds-game-5-preview/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Chicago White Sox reliever Grant Taylor imploded during a six-run sixth inning Thursday as the Cleveland Guardians forced a decisive ALDS Game 5 with a 9-5 win.",
-      "published": "2026-10-08T23:34:00+00:00",
-      "title": "Chicago White Sox bullpen and Grant Taylor run dry in Game 4, setting up winner-take-all ALDS finale",
-      "url": "https://www.chicagotribune.com/2026/10/09/chicago-white-sox-alds-game-4-bullpen/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Photos from Game 5 of the Chicago White Sox’s AL Division Series against the Cleveland Guardians on Oct. 10, 2026, at Progressive Field.",
-      "published": "2026-10-09T22:32:00+00:00",
-      "title": "Game 5 photos: Chicago White Sox season ends with ALDS loss to Cleveland Guardians",
-      "url": "https://www.chicagotribune.com/2026/10/10/game-5-photos-chicago-white-sox-vs-cleveland-guardians-in-al-division-series/"
     }
   ],
-  "generated_at": "2026-10-14T18:51:19.350874+00:00",
+  "generated_at": "2026-10-14T21:59:26.722181+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

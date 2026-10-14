@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Three Red Sox players have been named finalists for the 2026 Gold Glove Awards.",
+      "published": "2026-10-14T19:58:33Z",
+      "title": "Three Red Sox players named Gold Glove finalists",
+      "url": "https://www.bostonherald.com/2026/10/14/three-red-sox-players-named-gold-glove-finalists/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox starting rotation was expected to be good from the beginning, but even with Garrett Crochet’s injury the group still exceeded all expectations.",
       "published": "2026-10-14T09:30:34Z",
       "title": "Red Sox Report Cards: Starting rotation surpasses high expectations",
@@ -104,16 +111,9 @@
       "published": "2026-10-04T09:30:39Z",
       "title": "MLB notes: With lockout looming, Red Sox face tough offseason decisions",
       "url": "https://www.bostonherald.com/2026/10/04/mlb-notes-with-lockout-looming-red-sox-face-tough-offseason-decisions/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Ditch the analytics. The Red Sox would do well to go back to basics. And big bats.",
-      "published": "2026-10-03T10:30:51Z",
-      "title": "Starr: Less math, more bats should be Red Sox offseason strategy",
-      "url": "https://www.bostonherald.com/2026/10/03/red-sox-starr-less-math-more-bats-should-be-offseason-strategy/"
     }
   ],
-  "generated_at": "2026-10-14T14:29:33.389531+00:00",
+  "generated_at": "2026-10-14T21:59:06.729708+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

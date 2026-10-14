@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "Orioles Hall of Famer Mike Bordick says the team’s recent layoffs after two subpar seasons are a “slap in the face” to Baltimore’s fanbase.",
+      "published": "2026-10-14T13:40:00+00:00",
+      "title": "Orioles Hall of Famer Mike Bordick on team’s layoffs: ‘Slap in the face’",
+      "url": "https://www.baltimoresun.com/2026/10/14/mike-bordick-orioles-layoffs/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The latest episode of the BMore Baseball Podcast is here. Orioles Hall of Famer Mike Bordick and sportscaster Jerry Coleman are joined by former Orioles pitcher and Orioles Hall of Famer Gregg Olson.",
+      "published": "2026-10-14T12:22:00+00:00",
+      "title": "WATCH: Orioles Hall of Famer Gregg Olson joins the BMore Baseball Podcast",
+      "url": "https://www.baltimoresun.com/2026/10/14/watch-orioles-hall-of-famer-gregg-olson-bmore-baseball-podcast/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
       "published": "2026-10-14T03:30:00+00:00",
       "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
@@ -62,23 +76,9 @@
       "published": "2026-10-08T15:16:00+00:00",
       "title": "Albert Belle on end of career with Orioles: ‘Fans didn’t like me there’",
       "url": "https://www.baltimoresun.com/2026/10/08/albert-belle-end-career-orioles-fans-did-not-like-me/"
-    },
-    {
-      "category": "Orioles",
-      "description": "While MLB playoffs are in full swing, the Orioles’ offseason is already well underway. Baltimore was in mathematical contention until the regular season’s final week, but the club never shook off its ...",
-      "published": "2026-10-06T03:30:00+00:00",
-      "title": "Orioles 2026-27 offseason guide: Free agents, roster needs, lockout dates",
-      "url": "https://www.baltimoresun.com/2026/10/06/orioles-2026-2027-offseason-guide-free-agents-roster-needs-lockout-dates/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Orioles legend Jim Palmer explains what he thinks went wrong for Baltimore in 2026 on the latest BMore Baseball Podcast.",
-      "published": "2026-10-01T15:03:00+00:00",
-      "title": "WATCH: Orioles legend Jim Palmer joins the BMore Baseball Podcast",
-      "url": "https://www.baltimoresun.com/2026/10/01/orioles-jim-palmer-joins-bmore-baseball-podcast/"
     }
   ],
-  "generated_at": "2026-10-14T18:51:18.507244+00:00",
+  "generated_at": "2026-10-14T21:59:21.899352+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

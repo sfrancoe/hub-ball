@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "Manny Machado was the only third baseman in MLB this season to eclipse double digits in Statcast’s Outs Above Average metric, yet the San Diego Padres star wasn’t a Gold Glove ...",
-      "published": "2026-10-14T11:35:00+00:00",
+      "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
+      "published": "2026-10-14T14:00:00+00:00",
+      "title": "Brewers vs. Dodgers live updates: MLB playoffs NLCS Game 3 start time, predictions and latest",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Machado finished with 12 OAA, three more than Cubs star Alex Bregman, who finished with nine. Bregman, Los Angeles’ Max Muncy and Miami’s Javier Sanoja were the three finalists for the National League ...",
+      "published": "2026-10-14T11:45:00+00:00",
       "title": "After ‘best’ defensive year, Manny Machado snubbed for Dodgers rival as Gold Glove finalist",
       "url": "https://www.nytimes.com/athletic/7690317/2026/10/14/gold-glove-finalists-snubs-manny-machado-max-muncy/"
     },
@@ -44,17 +51,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "It doesn't help that two of the Dodgers' middle-of-the-order hitters, Shohei Ohtani and Will Smith, are slumping.",
-      "published": "2026-10-12T04:30:00+00:00",
-      "title": "Dodgers’ offense searching after quiet Game 1 against Misiorowski, Brewers’ pen",
-      "url": "https://www.nytimes.com/athletic/7679146/2026/10/12/dodgers-nlcs-game-1-mlb-playoffs/"
-    },
-    {
-      "category": "Dodgers",
       "description": "Benching Ohtani requires far more than a conversation between player and manager, and the Dodgers have made no formal decision.",
       "published": "2026-10-11T17:00:00+00:00",
       "title": "As Shohei Ohtani struggles, Dodgers will discuss benching superstar in Game 3",
       "url": "https://www.nytimes.com/athletic/7685422/2026/10/12/shohei-ohtani-playing-benching-dodgers-brewers-mlb-playoffs/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "It doesn't help that two of the Dodgers' middle-of-the-order hitters, Shohei Ohtani and Will Smith, are slumping.",
+      "published": "2026-10-12T04:30:00+00:00",
+      "title": "Dodgers’ offense searching after quiet Game 1 against Misiorowski, Brewers’ pen",
+      "url": "https://www.nytimes.com/athletic/7679146/2026/10/12/dodgers-nlcs-game-1-mlb-playoffs/"
     },
     {
       "category": "Dodgers",
@@ -76,16 +83,9 @@
       "published": "2026-10-12T12:00:00+00:00",
       "title": "Guardians defeat Rays in ALCS Game 1 after Brewers beat Dodgers: MLB playoffs live updates, reaction",
       "url": "https://www.nytimes.com/athletic/live-blogs/mlb-playoffs-live-scores-updates-results-nlcs-alcs-news-highlights/TE6EXnGZdKBn/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Dodgers’ game plan for Misiorowski was simple: Draw out at-bats, drive up the pitch count and force him out early. They succeeded — Misiorowski recorded one out in the fifth before Brewers manager ...",
-      "published": "2026-10-10T17:00:00+00:00",
-      "title": "Brewers capture Game 1 behind Miz, bullpen. Will Dodgers’ bats bounce back?",
-      "url": "https://www.nytimes.com/athletic/7679131/2026/10/11/dodgers-brewers-game-1-score-results-takeaways-mlb-nlcs-2026/"
     }
   ],
-  "generated_at": "2026-10-14T18:51:28.975669+00:00",
+  "generated_at": "2026-10-14T22:00:01.162327+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }
