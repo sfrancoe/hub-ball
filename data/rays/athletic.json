@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Weather in Cleveland could affect the next three games of the tied series.",
+      "published": "2026-10-14T16:18:37+00:00",
+      "title": "ALCS Game 3 in Cleveland moved to afternoon because of expected inclement weather",
+      "url": "https://www.nytimes.com/athletic/7690031/2026/10/14/alcs-game-3-weather-guardians-rays-mlb-playoffs/"
+    },
+    {
+      "category": "Rays",
       "description": "The Rays and Brewers have overcome smaller payrolls by investing in technology and having novel approaches to coaching and roster construction.",
       "published": "2026-10-14T10:05:01+00:00",
       "title": "Rays, Brewers always outperform expectations. These 'Moneyball'-like edges are the key",
@@ -132,16 +139,9 @@
       "published": "2026-10-06T09:30:49+00:00",
       "title": "The Rays’ brand of baseball is suffocating the Yankees — and New York is running out of time",
       "url": "https://www.nytimes.com/athletic/7664820/2026/10/06/rays-yankees-differences-mlb-playoffs/"
-    },
-    {
-      "category": "Rays",
-      "description": "It was a sloppy day of low-scoring baseball in the ALDS, with the White Sox and Rays taking commanding 2-0 leads in their series.",
-      "published": "2026-10-06T07:00:14+00:00",
-      "title": "MLB Division Series results: Scores, highlights and ALDS Game 2 takeaways",
-      "url": "https://www.nytimes.com/athletic/7664016/2026/10/06/mlb-division-series-scores-highlights-takeaways-alds-game-2/"
     }
   ],
-  "generated_at": "2026-10-14T14:29:47.800158+00:00",
+  "generated_at": "2026-10-14T18:51:17.787648+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

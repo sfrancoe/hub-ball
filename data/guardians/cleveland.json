@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "The Guardians, up 1-0 in the ALCS, face the Rays in Game 2 with Parker Messick starting in his hometown against Freddy Peralta. Follow along for live updates, analysis and all the key moments.",
+      "published": "2026-10-13T14:02:00+00:00",
+      "title": "Guardians vs. Rays ALCS Game 2 Live Blog: Can Cleveland take a 2-0 series lead?",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-rays-alcs-game-2-live-blog-can-cleveland-take-a-2-0-series-lead.html"
+    },
+    {
+      "category": "Guardians",
       "description": "The Guardians wasted a strong start by Parker Messick and stranded nine runners in their ALCS Game 2 loss to Tampa Bay. Breaking down the numbers.",
       "published": "2026-10-13T22:17:00+00:00",
       "title": "Guardians by the numbers: José Ramírez’s costly error, missed chances sink Cleveland in ALCS Game 2",
@@ -13,13 +20,6 @@
       "published": "2026-10-13T12:04:00+00:00",
       "title": "Cleveland’s newest superstar will throw out the first pitch for Game 3 of the ALCS between Guardians and Rays",
       "url": "https://www.cleveland.com/guardians/2026/10/clevelands-newest-superstar-will-throw-out-the-first-pitch-for-game-3-of-the-alcs-between-guardians-and-rays.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Guardians, up 1-0 in the ALCS, face the Rays in Game 2 with Parker Messick starting in his hometown against Freddy Peralta. Follow along for live updates, analysis and all the key moments.",
-      "published": "2026-10-13T14:02:00+00:00",
-      "title": "Guardians vs. Rays ALCS Game 2 Live Blog: Can Cleveland take a 2-0 series lead?",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-rays-alcs-game-2-live-blog-can-cleveland-take-a-2-0-series-lead.html"
     },
     {
       "category": "Guardians",
@@ -51,13 +51,6 @@
     },
     {
       "category": "Guardians",
-      "description": "Gavin Williams struck out 12, José Ramírez homered and the Guardians advanced to the ALCS. Here are 15 remarkable numbers from Cleveland's Game 5 win.",
-      "published": "2026-10-10T22:02:00+00:00",
-      "title": "Guardians win Game 5 by the numbers: Historic strikeouts, José Ramírez’s heroics send Cleveland to ALCS",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-win-game-5-by-the-numbers-historic-strikeouts-jose-ramirezs-heroics-send-cleveland-to-alcs.html"
-    },
-    {
-      "category": "Guardians",
       "description": "The Guardians and White Sox meet in a winner-take-all ALDS Game 5 at Progressive Field, with Cleveland seeking to complete a comeback from an 0-2 series deficit behind starter Gavin Williams.",
       "published": "2026-10-10T09:02:00+00:00",
       "title": "Cleveland Guardians, Chicago White Sox starting lineups for Oct. 10, 2026: ALDS Game 5",
@@ -65,10 +58,10 @@
     },
     {
       "category": "Guardians",
-      "description": "José Ramírez's two defensive mistakes in the fourth inning allowed three unearned runs, as the Guardians fell 3-1 to Tampa Bay in Game 2, evening the ALCS at one game apiece.",
-      "published": "2026-10-14T01:51:00+00:00",
-      "title": "José Ramírez’s rough fourth inning costs Guardians three runs and a chance to take control of ALCS",
-      "url": "https://www.cleveland.com/guardians/2026/10/jose-ramirezs-rough-fourth-inning-costs-guardians-three-runs-and-a-chance-to-take-control-of-alcs.html"
+      "description": "Gavin Williams struck out 12, José Ramírez homered and the Guardians advanced to the ALCS. Here are 15 remarkable numbers from Cleveland's Game 5 win.",
+      "published": "2026-10-10T22:02:00+00:00",
+      "title": "Guardians win Game 5 by the numbers: Historic strikeouts, José Ramírez’s heroics send Cleveland to ALCS",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-win-game-5-by-the-numbers-historic-strikeouts-jose-ramirezs-heroics-send-cleveland-to-alcs.html"
     },
     {
       "category": "Guardians",
@@ -79,13 +72,20 @@
     },
     {
       "category": "Guardians",
-      "description": "Paul Hoynes and Joe Noga break down the Guardians’ ALCS Game 1 win, the impact of key trade additions, Chase DeLauter’s breakout and José Ramírez’s hot streak.",
-      "published": "2026-10-13T04:39:00+00:00",
-      "title": "José Ramírez, Chase DeLauter and Guardians are giving Rays plenty to worry about – Cleveland Baseball Talk Podcast",
-      "url": "https://www.cleveland.com/guardians/2026/10/jose-ramirez-chase-delauter-and-guardians-are-giving-rays-plenty-to-worry-about-cleveland-baseball-talk-podcast.html"
+      "description": "José Ramírez's two defensive mistakes in the fourth inning allowed three unearned runs, as the Guardians fell 3-1 to Tampa Bay in Game 2, evening the ALCS at one game apiece.",
+      "published": "2026-10-14T01:51:00+00:00",
+      "title": "José Ramírez’s rough fourth inning costs Guardians three runs and a chance to take control of ALCS",
+      "url": "https://www.cleveland.com/guardians/2026/10/jose-ramirezs-rough-fourth-inning-costs-guardians-three-runs-and-a-chance-to-take-control-of-alcs.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "If they had played an errorless game, it’s possible the Guards would have left Tropicana Field with a 2-0 lead. The only earned run of the game belonged to them when Chase DeLauter doubled home ...",
+      "published": "2026-10-14T03:15:00+00:00",
+      "title": "Homeward bound: Guardians happy to get home after splitting first two games of ALCS",
+      "url": "https://www.cleveland.com/guardians/2026/10/homeward-bound-guardians-happy-to-get-home-after-splitting-first-two-games-of-alcs.html"
     }
   ],
-  "generated_at": "2026-10-14T14:29:51.438676+00:00",
+  "generated_at": "2026-10-14T18:51:19.702431+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

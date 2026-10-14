@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "It is a rare move at a time when some organizations are cutting their pro scouting departments in favor of video.",
+      "published": "2026-10-14T18:38:35+00:00",
+      "title": "Mets to expand pro scouting department, likely leading to more in-person evaluation: Sources",
+      "url": "https://www.nytimes.com/athletic/7690416/2026/10/14/mets-expand-pro-scouting-department/"
+    },
+    {
+      "category": "Mets",
       "description": "If a cap were coming in two years, the Mets would presumably offer the aggressive, short-term deals they’ve preferred lately.",
       "published": "2026-10-12T10:30:51+00:00",
       "title": "How would a salary cap hamstring the Mets? What kind of team can they build at different budgets?",
@@ -132,16 +139,9 @@
       "published": "2026-09-22T20:32:29+00:00",
       "title": "Andy Green is staying. Why the Mets believe he's the right manager for their future",
       "url": "https://www.nytimes.com/athletic/7620372/2026/09/22/mets-manager-andy-green-hired/"
-    },
-    {
-      "category": "Mets",
-      "description": "The Mets have failed to make the postseason in consecutive years despite carrying large payrolls.",
-      "published": "2026-09-21T20:50:43+00:00",
-      "title": "Steve Cohen plans to add 'certain voices' to Mets' front office. What would that mean?",
-      "url": "https://www.nytimes.com/athletic/7618263/2026/09/21/mets-steven-cohen-front-office-changes/"
     }
   ],
-  "generated_at": "2026-10-13T01:24:32.033438+00:00",
+  "generated_at": "2026-10-14T18:51:16.225219+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

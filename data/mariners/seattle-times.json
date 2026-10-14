@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Mariners",
-      "description": "As the Mariners begin calls with managerial candidates this week, the first name publicly linked to the team has surfaced, and it's a familiar one.",
-      "published": "2026-10-13T02:53:00+00:00",
-      "title": "Mariners to meet with Astros’ Joe Espada about managerial opening",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-to-meet-with-astros-joe-espada-about-managerial-opening/"
-    },
-    {
-      "category": "Mariners",
       "description": "What will the Mariners' payroll look like next season? We dive into the numbers to project what the M's will have available to spend on upgrading their roster.",
       "published": "2026-10-13T05:00:00+00:00",
       "title": "Projecting Mariners’ payroll budget for 2027 season",
@@ -16,10 +9,24 @@
     },
     {
       "category": "Mariners",
+      "description": "As the Mariners begin calls with managerial candidates this week, the first name publicly linked to the team has surfaced, and it's a familiar one.",
+      "published": "2026-10-13T02:53:00+00:00",
+      "title": "Mariners to meet with Astros’ Joe Espada about managerial opening",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-to-meet-with-astros-joe-espada-about-managerial-opening/"
+    },
+    {
+      "category": "Mariners",
       "description": "As the Mariners begin the process for hiring their next manager, we take a look at some potential candidates worth considering.",
       "published": "2026-10-10T23:00:00+00:00",
       "title": "Looking at possible candidates for Mariners’ open manager search",
       "url": "https://www.seattletimes.com/sports/mariners/looking-at-possible-candidates-for-mariners-open-manager-search/"
+    },
+    {
+      "category": "Mariners",
+      "description": "The Mariners’ 23-year-old second baseman was named one of three finalists for the Gold Glove Award, a distinct recognition of his defensive transformation.",
+      "published": "2026-10-14T02:54:00+00:00",
+      "title": "Mariners second baseman Cole Young named a Gold Glove Award finalist",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-second-baseman-cole-young-named-a-gold-glove-award-finalist/"
     },
     {
       "category": "Mariners",
@@ -55,16 +62,9 @@
       "published": "2026-10-02T06:25:00+00:00",
       "title": "Mariners claim Gig Harbor grad Michael Toglia off waivers",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-claim-gig-harbor-grad-michael-toglia-off-waivers/"
-    },
-    {
-      "category": "Mariners",
-      "description": "Scott Boras stepped into the elevator of Angel Stadium to head to a field-level suite near the first-base dugout. Baseball’s mega-agent always checks in with his clients from visiting teams at least ...",
-      "published": "2026-09-30T23:02:00+00:00",
-      "title": "Three reasons the Mariners are unlikely to re-sign Randy Arozarena",
-      "url": "https://www.seattletimes.com/sports/mariners/three-reasons-the-mariners-are-unlikely-to-re-sign-randy-arozarena/"
     }
   ],
-  "generated_at": "2026-10-14T14:30:04.089581+00:00",
+  "generated_at": "2026-10-14T18:51:23.235431+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

@@ -1,9 +1,23 @@
 {
   "articles": [
     {
+      "category": "MLB",
+      "description": "Cora said no to the Phillies after being fired by the Red Sox in late April and again after the season ended. Mattingly had the interim tag removed and received a two-year contract.",
+      "published": "2026-10-14T18:30:37.137Z",
+      "title": "After twice being rejected by former Red Sox manager Alex Cora, Phillies keep Don Mattingly in place",
+      "url": "https://www.bostonglobe.com/2026/10/14/sports/alex-cora-phillies-manager-don-mattingly/"
+    },
+    {
+      "category": "RED SOX",
+      "description": "While Rafaela (2025) and Abreu ('24, '25) are the reigning Gold Glovers at their positions, Durbin is a first time finalist after his first season in Boston.",
+      "published": "2026-10-14T16:55:18.67Z",
+      "title": "Caleb Durbin an AL Gold Glove Award finalist, along with past Red Sox winners Ceddanne Rafaela and Wilyer Abreu",
+      "url": "https://www.bostonglobe.com/2026/10/14/sports/red-sox-gold-glove-finalists/"
+    },
+    {
       "category": "Red Sox",
       "description": "Because of the lack of a new CBA, teams don't know what levels of spending will trigger penalties. Here's what we do know about the roster make-up.",
-      "published": "2026-10-14T11:58:10.75Z",
+      "published": "2026-10-14T15:23:32.87Z",
       "title": "2027 Red Sox payroll: Looming labor fight clouds possibilities to improve. See our projections.",
       "url": "https://www.bostonglobe.com/2026/10/14/sports/red-sox-offseason-strategy-cba/"
     },
@@ -97,16 +111,9 @@
       "published": "2026-10-09T05:04:43.241Z",
       "title": "José Ramírez homers as the Guardians beat the White Sox to force a decisive Game 5 in ALDS",
       "url": "https://www.bostonglobe.com/2026/10/09/sports/alds-guardians-white-sox-jose-ramirez/"
-    },
-    {
-      "category": "MLB",
-      "description": "Baseball’s five-year labor contract expires Dec. 1, and management is expected to lock out players in a confrontation that could delay or wipe out the 2027 season.",
-      "published": "2026-10-09T00:20:29.935Z",
-      "title": "MLB proposes shortening regular season to 154 games in 2029, expanding Division Series to best-of-7",
-      "url": "https://www.bostonglobe.com/2026/10/08/sports/mlb-labor-schedule-length/"
     }
   ],
-  "generated_at": "2026-10-14T14:29:32.940117+00:00",
+  "generated_at": "2026-10-14T18:51:02.540009+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

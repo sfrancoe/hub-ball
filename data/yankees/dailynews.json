@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Don Mattingly isn’t going anywhere, as the Phillies named the Yankees great their full-time manager.",
+      "published": "2026-10-14T14:43:07+00:00",
+      "title": "Phillies name Don Mattingly their full-time manager, reach contract through 2028",
+      "url": "https://www.nydailynews.com/2026/10/14/phillies-don-mattingly-manager-yankees-mlb/"
+    },
+    {
+      "category": "Yankees",
       "description": "Matt Blake and Tanner Swanson are two impending free agents the Yankees would be wise...",
       "published": "2026-10-13T13:43:33+00:00",
       "title": "Plenty up in the air for Yankees’ coaching staff",
@@ -132,16 +139,9 @@
       "published": "2026-10-07T23:13:48+00:00",
       "title": "Why the Yankees moved Trent Grisham to leadoff spot for must-win ALDS Game 3 amid his struggles",
       "url": "https://www.nydailynews.com/2026/10/07/yankees-trent-grisham-leadoff-spot-alds-game-3-ben-rice-rays/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Aaron Boone said he was considering some lineup changes for Game 3 of the ALDS...",
-      "published": "2026-10-07T23:18:00+00:00",
-      "title": "Yankees bench Jazz Chisholm Jr., Ryan McMahon for Game 3 with season on the line",
-      "url": "https://www.nydailynews.com/2026/10/07/yankees-bench-jazz-chisholm-jr-ryan-mcmahon-for-game-3-with-season-on-the-line/"
     }
   ],
-  "generated_at": "2026-10-14T03:50:58.505825+00:00",
+  "generated_at": "2026-10-14T18:51:06.386736+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

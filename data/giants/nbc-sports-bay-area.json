@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "On \"Giants Talk,\" Alex Pavlovic and Cole Kuiper break down Rafael Devers' stellar second half while San Francisco stumbled throughout 2026 season.",
+      "published": "2026-10-13T17:30:00+00:00",
+      "title": "Giants Talk: Rafael Devers shines throughout San Francisco's poor 2026 season",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/rafael-devers-season-recap-watch/1971120/"
+    },
+    {
+      "category": "Giants",
       "description": "SAN FRANCISCO -- The game at Chase Field on April 2, 2017 is one of the most memorable losses in recent Giants history, which is saying something, given the kind of baseball they have played over the ...",
       "published": "2026-10-01T03:53:00+00:00",
       "title": "Buster Posey, Giants aim to solve puzzle of fixing their bullpen this offseason",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Giants",
-      "description": "NBC Sports Bay Area’s Alex Pavlovic sits down with Giants president of baseball operations Buster Posey.",
-      "published": "2026-10-01T11:59:00+00:00",
-      "title": "Buster Posey, Giants ‘take ownership' of San Francisco's brutal 2026 season",
-      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/buster-posey-interview-watch-9/1967922/"
-    },
-    {
-      "category": "Giants",
       "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic react to the first round of the MLB postseason. Plus, Alex sits down with manager Tony Vitello.",
       "published": "2026-10-08T01:40:00+00:00",
       "title": "Giants Talk: What Tony Vitello learned in first season as San Francisco manager",
@@ -44,13 +44,13 @@
     },
     {
       "category": "Giants",
-      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic do a deep dive into Bryce Eldridge's eye-opening rookie season and what's next for the 21-year-old.",
-      "published": "2026-10-12T14:43:00+00:00",
-      "title": "Giants Talk: Analyzing 21-year-old Bryce Eldridge's breakout 2026 rookie season",
-      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/bryce-eldridge-rookie-season-watch/1970935/"
+      "description": "NBC Sports Bay Area’s Alex Pavlovic sits down with Giants president of baseball operations Buster Posey.",
+      "published": "2026-10-01T11:59:00+00:00",
+      "title": "Buster Posey, Giants ‘take ownership' of San Francisco's brutal 2026 season",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/buster-posey-interview-watch-9/1967922/"
     }
   ],
-  "generated_at": "2026-10-14T14:30:21.766742+00:00",
+  "generated_at": "2026-10-14T18:51:29.929011+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"
 }

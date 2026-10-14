@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The game, originally scheduled to start at 6 p.m. on Thursday, has been moved up to 1 due to forecast rain in Cleveland.",
+      "published": "2026-10-14T17:12:37+00:00",
+      "title": "Start time for ALCS Game 3 between Rays and Guardians is moved up",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/14/alcs-game-3-start-moved-up-forecast-rain-cleveland-guardians/"
+    },
+    {
+      "category": "Rays",
       "description": "Tampa Mayor Jane Castor says a groundbreaking on the stadium is “imminent,” with team leaders promising completion by 2029.",
       "published": "2026-10-14T10:00:01+00:00",
       "title": "Rays face tight stadium construction timeline. Are they on pace?",
@@ -120,7 +127,7 @@
       "url": "https://www.tampabay.com/sports/rays/2026/10/10/liam-hicks-catcher-miami-marlins-alcs-nick-martinez/"
     }
   ],
-  "generated_at": "2026-10-14T14:29:47.507685+00:00",
+  "generated_at": "2026-10-14T18:51:17.360791+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

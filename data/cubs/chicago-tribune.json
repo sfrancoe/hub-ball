@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "The Chicago Cubs, who had MLB’s best team defense, have five Gold Glove Award finalists. Chicago White Sox second baseman Chase Meidroth also is a finalist.",
+      "published": "2026-10-14T10:10:00+00:00",
+      "title": "Gold Glove finalists are announced, including 5 Cubs and 1 White Sox player",
+      "url": "https://www.chicagotribune.com/2026/10/14/chicago-cubs-white-sox-gold-glove-finalists/"
+    },
+    {
+      "category": "Cubs",
       "description": "After the Chicago Cubs fall short in the playoffs, those within the organization must diagnose what went wrong and look ahead to getting another shot in 2027.",
       "published": "2026-10-04T04:00:00+00:00",
       "title": "Where do the Chicago Cubs go after falling short in the playoffs again? ‘We let it slip away.’",
@@ -30,27 +37,13 @@
     },
     {
       "category": "Cubs",
-      "description": "The Chicago Cubs and White Sox‘s postseason runs have included triumphs and tears for the last 120 years. The last time both teams made the postseason was 2020. The last time they met in the ...",
-      "published": "2026-10-01T12:38:00+00:00",
-      "title": "Vintage Chicago Tribune: How the Cubs and White Sox have fared in the postseason since 1906",
-      "url": "https://www.chicagotribune.com/2026/10/01/vintage-chicago-tribune-cubs-white-sox-postseason-history/"
-    },
-    {
-      "category": "Cubs",
-      "description": "The Chicago Cubs’ early exit from the playoffs with a 4-1 loss to the San Diego Padres on Wednesday brought a harsh reality in the postgame clubhouse.",
-      "published": "2026-10-01T13:16:00+00:00",
-      "title": "‘He’s the Chicago Cubs’: Ian Happ — team’s longest-tenured player — faces uncertain future after playoff exit",
-      "url": "https://www.chicagotribune.com/2026/10/01/ian-happ-chicago-cubs-future/"
-    },
-    {
-      "category": "Cubs",
-      "description": "Due to overlap, two games the first two days of the wild-card round were on NBC and Peacock, and the other two were on Peacock and NBCSN. Naturally, the New York Yankees-Boston Red Sox games were on ...",
-      "published": "2026-09-30T14:35:00+00:00",
-      "title": "Column: With both teams on Peacock, finding a Chicago playoff game on TV never has been so maddening",
-      "url": "https://www.chicagotribune.com/2026/09/30/chicago-white-sox-cubs-peacock/"
+      "description": "Thirty-seven hours after the Chicago Cubs season ended unceremoniously with a wild-card-round sweep in San Diego, president of baseball operations Jed Hoyer tried to put the year in context Friday ...",
+      "published": "2026-10-02T15:56:00+00:00",
+      "title": "3 Chicago Cubs takeaways from Jed Hoyer’s end-of-season news conference, including his ‘poor job’ building pen",
+      "url": "https://www.chicagotribune.com/2026/10/02/chicago-cubs-jed-hoyer-season-takeaways/"
     }
   ],
-  "generated_at": "2026-10-14T14:30:09.699491+00:00",
+  "generated_at": "2026-10-14T18:51:25.419577+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox haven't given out No. 21 since Roger Clemens left, but it still hasn't been retired. Should it join the other legendary numbers on the right field facade? Matt Vautour and Chris Mason weigh in for MassLive's latest Extra Point video.",
+      "published": "2026-10-14T18:19:46+00:00",
+      "title": "Should the Red Sox retire Roger Clemens’ number?",
+      "url": "https://www.masslive.com/redsox/2026/10/should-the-red-sox-retire-roger-clemens-number.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Wilyer Abreu, Ceddanne Rafaela, and Caelb Durbin are Boston's three AL Gold Glove finalists, with Abreu seeking his third consecutive award.",
+      "published": "2026-10-14T16:33:30+00:00",
+      "title": "Red Sox could match rare feat with three Gold Glove winners",
+      "url": "https://www.masslive.com/redsox/2026/10/three-red-sox-named-as-al-gold-glove-finalists.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Aroldis Chapman's 35-save campaign and Garrett Whitlock's dominant setup work anchored the Red Sox bullpen in 2026, but Justin Slaten's D grade and Eric Miller's October collapse exposed costly depth problems.",
       "published": "2026-10-14T13:10:40+00:00",
       "title": "Red Sox Grades: Chapman and Whitlock were elite. The rest of the bullpen wasn’t always",
@@ -97,16 +111,9 @@
       "published": "2026-10-08T15:00:00+00:00",
       "title": "Fenway Insider Live: Sean McAdam on what comes next for Red Sox",
       "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-live-sean-mcadam-on-what-comes-next-for-red-sox.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "In the latest episode of MassLive’s Extra Point, Matt Vautour and Chris Mason debate arbitration projections for Red Sox players this offseason. They also dive into the biggest area of concern for the Patriots against the Raiders this weekend.",
-      "published": "2026-10-07T16:47:31+00:00",
-      "title": "Should the Red Sox move on from Jarren Duran, Triston Casas or other arb eligible players?",
-      "url": "https://www.masslive.com/redsox/2026/10/should-the-red-sox-move-on-from-jarren-duran-triston-casas-or-other-arb-eligible-players.html"
     }
   ],
-  "generated_at": "2026-10-14T14:29:35.025326+00:00",
+  "generated_at": "2026-10-14T18:51:05.551967+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

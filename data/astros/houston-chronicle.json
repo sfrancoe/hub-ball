@@ -2,9 +2,23 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Who will be the Houston Astros next manager? With Joe Espada fired, owner Jim Crane is on the hunt for a new skipper. These guys all would make sense.",
+      "published": "2026-10-14T08:29:00+00:00",
+      "title": "10 names that would make sense in Houston Astros’ manager search",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/next-manager-candidates-names-22463657.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Joe Esapada’s time as Astros manager is over after three seasons. Here’s a look back at key events during his tenure in Houston.",
+      "published": "2026-10-14T08:20:00+00:00",
+      "title": "Timeline: A look at key events during Joe Espada's tenure as Houston Astros manager",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-timeline-houston-manager-22457312.php"
+    },
+    {
+      "category": "Astros",
       "description": "Jeremy Peña has proved to be a catalyst atop the Astros' lineup for two straight seasons, but had an injury-marred 2026 and is heading into the last year of team control.",
       "published": "2026-10-14T04:00:00+00:00",
-      "title": "Houston Astros roster analysis: Shortstop. Will Jeremy Peña get extension and buck trend?",
+      "title": "Will shortstop Jeremy Peña get extension and buck trend? | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-astros-roster-analysis-jeremy-pe-a-22475893.php"
     },
     {
@@ -51,13 +65,6 @@
     },
     {
       "category": "Astros",
-      "description": "The Astros have just a couple key contributors entering free agency. Yordan Alvarez and Jose Altuve are locked up for multiple years, but what about Jeremy Peña's long-term future?",
-      "published": "2026-10-01T08:10:00+00:00",
-      "title": "Who can become a free agent? Contract situation for every Astros player entering 2026-27 offseason",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/free-agents-contracts-offseason-22457322.php"
-    },
-    {
-      "category": "Astros",
       "description": "The Astros' lone trade-deadline acquisition struggled at the plate after arriving from Toronto and won't return for any playoff action if the team advances.",
       "published": "2026-09-30T12:30:00+00:00",
       "title": "Daulton Varsho won't return to Houston Astros this season after undergoing wrist surgery",
@@ -65,13 +72,13 @@
     },
     {
       "category": "Astros",
-      "description": "The Astros look to stave off playoff elimination in Game 2 of the AL wild-card series. We'll have updates and analysis from Daikin Park throughout the day.",
-      "published": "2026-09-30T12:16:00+00:00",
-      "title": "White Sox 7, Astros 3: How Chicago ended Houston's season with AL wild-card sweep",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-chicago-white-sox-score-game-2-22455855.php"
+      "description": "From his struggles to stop the bleeding to the shoddy defense behind him, Hunter Brown's hopes of extending the Astros' season promptly went awry in Game 2 against the White Sox.",
+      "published": "2026-09-30T22:27:00+00:00",
+      "title": "With Houston Astros' season on the line, nothing goes right for Hunter Brown in disastrous start",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/hunter-brown-white-sox-struggles-22457247.php"
     }
   ],
-  "generated_at": "2026-10-14T14:29:59.651097+00:00",
+  "generated_at": "2026-10-14T18:51:21.820842+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

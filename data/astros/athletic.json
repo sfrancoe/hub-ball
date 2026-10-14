@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Espada and Dana Brown entered the season with one year remaining on their contracts. Now Houston will replace both.",
+      "published": "2026-10-14T08:10:00+00:00",
+      "title": "Astros dismiss manager Joe Espada to finish franchise’s housecleaning",
+      "url": "https://www.nytimes.com/athletic/6673462/2026/10/14/astros-fire-manager-joe-espada/"
+    },
+    {
+      "category": "Astros",
       "description": "HOUSTON — Houston Astros manager Joe Espada, whose status with the franchise remains in doubt, will meet with the Seattle Mariners regarding their managerial vacancy, a source who spoke on condition ...",
       "published": "2026-10-13T11:34:00+00:00",
       "title": "Mariners to interview Astros’ Joe Espada for managerial vacancy: Source",
@@ -23,20 +30,13 @@
     },
     {
       "category": "Astros",
-      "description": "Tatsuya Imai allowed two earned runs over six innings against the Brewers. Tim Warner / Getty Images HOUSTON — Every fifth or sixth day, thresholds are crossed, limits are tested and new wrinkles are ...",
-      "published": "2026-05-31T16:37:00+00:00",
-      "title": "Astros’ Tatsuya Imai leans on a left heel to turn the corner in duel with Jacob Misiorowski",
-      "url": "https://www.nytimes.com/athletic/7322535/2026/05/31/astros-tatsuya-imai-jacob-misiorowski/"
-    },
-    {
-      "category": "Astros",
       "description": "Bennett Sousa expressed regret for criticizing fans, saying he 'was emotional in the wrong way.' Alex Slitz / Getty Images HOUSTON — A day after he called Houston Astros fans who booed him “spoiled,” ...",
       "published": "2026-09-30T12:17:00+00:00",
       "title": "Astros reliever Bennett Sousa apologizes after calling fanbase ‘spoiled’",
       "url": "https://www.nytimes.com/athletic/7646661/2026/09/30/houston-astros-fan-boo-wild-card-bennett-sousa/"
     }
   ],
-  "generated_at": "2026-10-14T14:30:00.916066+00:00",
+  "generated_at": "2026-10-14T18:51:22.069772+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/astros/"
 }

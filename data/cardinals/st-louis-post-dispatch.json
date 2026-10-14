@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Cardinals",
+      "description": "While Masyn Winn seeks his second Gold Glove, JJ Wetherholt and Michael McGreevy were named Gold Glove finalists for the first time in their respective careers.",
+      "published": "2026-10-14T10:34:00+00:00",
+      "title": "Cardinals' Masyn Winn, JJ Wetherholt and Michael McGreevy named Gold Glove finalists",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_f210e410-fbe4-4ffa-a261-eda70d9901ec.html"
+    },
+    {
+      "category": "Cardinals",
       "description": "Cardinals' pitcher Jesse Haines on the mound during Game 3 of the 1926 World Series at Sportsman's Park in St. Louis. Haines pitched a six-hit shutout and hit a two-run homer in at 4-0 victory.",
       "published": "2026-10-09T02:59:00+00:00",
       "title": "1926 Cardinals World Series in photos",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/collection_51988583-d0fd-4ea5-a09a-d6dd9e7b464b.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "In his first outing since July 2025, Cardinals prospect Tekoah Roby struck out six batters and allowed one walk over three scoreless innings Friday in the Arizona Fall League.",
-      "published": "2026-10-10T04:00:00+00:00",
-      "title": "Cardinals prospect Tekoah Roby spins scoreless start in first outing back from surgery",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_4b9446b8-189f-48c6-9ade-3886dbbcd243.html"
     },
     {
       "category": "Cardinals",
@@ -37,6 +37,13 @@
     },
     {
       "category": "Cardinals",
+      "description": "Baseball America's Geoff Pontes joins StlToday writer Derrick Goold to discuss major developments in the Cardinals' minor league system.",
+      "published": "2026-10-14T09:46:00+00:00",
+      "title": "Cardinals go on the power play with major developments in minors: Best Podcast in Baseball",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_6af632f3-a9a4-4b77-8f02-a3cfd29fdbf4.html"
+    },
+    {
+      "category": "Cardinals",
       "description": "Readers submit questions that hint at potential friction for this offseason: When they and the standings believe Cardinals are closer to contending than the club.",
       "published": "2026-10-12T13:45:00+00:00",
       "title": "Ask Goold: How did Brewers lap the Cardinals? Could Sonny Gray, Alec Bohm close gap?",
@@ -51,13 +58,6 @@
     },
     {
       "category": "Cardinals",
-      "description": "It was 100 years ago Saturday when the Cardinals' Bob O'Farrell threw out Babe Ruth at second to win Game 7 of the 1926 World Series.",
-      "published": "2026-10-11T04:03:00+00:00",
-      "title": "Hochman: This Cardinals C threw out a stealing Babe Ruth to win WS — do you know his name?",
-      "url": "https://www.stltoday.com/sports/column/benjamin-hochman/article_dbdf82d8-2b2e-440f-89b8-5703628f5c58.html"
-    },
-    {
-      "category": "Cardinals",
       "description": "When is a step back in standings a stride forward toward contention? Cardinals believe it happened this season. 'It’s a really good time to be a fan,' says manager.",
       "published": "2026-10-04T06:30:00+00:00",
       "title": "Goold: Cardinals 'excited' by rebuild's progress, but did they gain ground on rivals?",
@@ -65,10 +65,10 @@
     },
     {
       "category": "Cardinals",
-      "description": "The iconic Cardinals franchise has been forever fueled by its forward-thinking — from Branch Rickey’s farm system to Whitey Herzog’s “Runnin’ Redbirds” to Tony La Russ ...",
-      "published": "2026-10-04T04:00:00+00:00",
-      "title": "Hochman: Tarps Off Cardinals fan tells tales of body paint, heckling, messaging Marmol",
-      "url": "https://www.stltoday.com/sports/column/benjamin-hochman/article_aca8032d-2424-4471-ab18-86d9d87e6420.html"
+      "description": "It was 100 years ago Saturday when the Cardinals' Bob O'Farrell threw out Babe Ruth at second to win Game 7 of the 1926 World Series.",
+      "published": "2026-10-11T04:03:00+00:00",
+      "title": "Hochman: This Cardinals C threw out a stealing Babe Ruth to win WS — do you know his name?",
+      "url": "https://www.stltoday.com/sports/column/benjamin-hochman/article_dbdf82d8-2b2e-440f-89b8-5703628f5c58.html"
     },
     {
       "category": "Cardinals",
@@ -85,7 +85,7 @@
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_9f4874f9-f255-53b1-95cf-155d4094d909.html"
     }
   ],
-  "generated_at": "2026-10-14T14:30:13.415712+00:00",
+  "generated_at": "2026-10-14T18:51:27.337717+00:00",
   "source": "Post-Dispatch",
   "source_url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
 }
