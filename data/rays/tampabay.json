@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Freddy Peralta delivers a strong six-inning start, and a small-ball fourth inning provides the offense for Tampa Bay.",
+      "published": "2026-10-14T03:05:07+00:00",
+      "title": "Rays, looking like themselves, bounce back to beat Guardians, even ALCS",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/13/alcs-game-2-guardians-freddy-peralta-liam-hicks-chandler-simpson-jose-ramirez-parker-messick/"
+    },
+    {
+      "category": "Rays",
       "description": "Notes | After a scary collision during the ninth inning Monday, both are back in the lineup and feeling fine.",
       "published": "2026-10-13T21:51:43+00:00",
       "title": "Rays happy Caminero and DeLuca feeling good, able to start ALCS Game 2",
@@ -118,16 +125,9 @@
       "published": "2026-10-08T15:23:14+00:00",
       "title": "Florida notables cheer Rays’ ALDS win on social media",
       "url": "https://www.tampabay.com/sports/rays/2026/10/08/rays-win-social-media-reactions-yankees-florida/"
-    },
-    {
-      "category": "Rays",
-      "description": "Vilade delivers a home run in the fourth inning while Mesa follows suit in the sixth.",
-      "published": "2026-10-08T13:37:04+00:00",
-      "title": "Once obscure outfielders, Victor Mesa Jr., Ryan Vilade power Rays’ sweep",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/08/ryan-vilade-victor-mesa-jr-yankees-sweep-alds/"
     }
   ],
-  "generated_at": "2026-10-13T23:58:08.873482+00:00",
+  "generated_at": "2026-10-14T03:51:03.678088+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

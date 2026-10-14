@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Cardinals",
-      "description": "It was 100 years ago Saturday when the Cardinals' Bob O'Farrell threw out Babe Ruth at second to win Game 7 of the 1926 World Series.",
-      "published": "2026-10-11T04:03:00+00:00",
-      "title": "Hochman: This Cardinals C threw out a stealing Babe Ruth to win WS — do you know his name?",
-      "url": "https://www.stltoday.com/sports/column/benjamin-hochman/article_dbdf82d8-2b2e-440f-89b8-5703628f5c58.html"
-    },
-    {
-      "category": "Cardinals",
       "description": "Cardinals' pitcher Jesse Haines on the mound during Game 3 of the 1926 World Series at Sportsman's Park in St. Louis. Haines pitched a six-hit shutout and hit a two-run homer in at 4-0 victory.",
       "published": "2026-10-09T02:59:00+00:00",
       "title": "1926 Cardinals World Series in photos",
@@ -51,6 +44,13 @@
     },
     {
       "category": "Cardinals",
+      "description": "It was 100 years ago Saturday when the Cardinals' Bob O'Farrell threw out Babe Ruth at second to win Game 7 of the 1926 World Series.",
+      "published": "2026-10-11T04:03:00+00:00",
+      "title": "Hochman: This Cardinals C threw out a stealing Babe Ruth to win WS — do you know his name?",
+      "url": "https://www.stltoday.com/sports/column/benjamin-hochman/article_dbdf82d8-2b2e-440f-89b8-5703628f5c58.html"
+    },
+    {
+      "category": "Cardinals",
       "description": "A rotation that had been anchored by veterans had been turned over to starters looking to establish themselves in the majors. What that allowed for, Chaim Bloom said, was the ability for the young ...",
       "published": "2026-10-06T04:00:00+00:00",
       "title": "Cardinals head into winter feeling ‘deeper’ with rotation options, Chaim Bloom says",
@@ -72,20 +72,20 @@
     },
     {
       "category": "Cardinals",
-      "description": "The iconic Cardinals franchise has been forever fueled by its forward-thinking — from Branch Rickey’s farm system to Whitey Herzog’s “Runnin’ Redbirds” to Tony La Russ ...",
-      "published": "2026-10-04T04:00:00+00:00",
-      "title": "Hochman: Tarps Off Cardinals fan tells tales of body paint, heckling, messaging Marmol",
-      "url": "https://www.stltoday.com/sports/column/benjamin-hochman/article_aca8032d-2424-4471-ab18-86d9d87e6420.html"
-    },
-    {
-      "category": "Cardinals",
       "description": "A century ago this Saturday, Rogers Hornsby tagged out Babe Ruth at second base to clinch the first of the Cardinals' 11 titles and launch a legacy brand.",
       "published": "2026-10-09T08:05:00+00:00",
       "title": "100 years after Cardinals' 1st World Series, quest for a Hornsby bat connects championships",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_38be625e-71de-4550-a16c-7291d87f3f36.html"
+    },
+    {
+      "category": "Cardinals",
+      "description": "Brian Curley completes deal, becomes Cardinal shortly after pitching the D-Backs' Class AA club over Cardinals affiliate for Texas League title.",
+      "published": "2026-10-01T13:50:00+00:00",
+      "title": "Cardinals complete Lars Nootbaar trade with Arizona, acquire Class AA starter",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_3f617e3e-bfd2-49ec-bc24-67712ef38e6a.html"
     }
   ],
-  "generated_at": "2026-10-13T23:58:19.146038+00:00",
+  "generated_at": "2026-10-14T03:51:20.285592+00:00",
   "source": "Post-Dispatch",
   "source_url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
 }

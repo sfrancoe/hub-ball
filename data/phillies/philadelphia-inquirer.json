@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Phillies",
-      "description": "With a work stoppage looming, the Phillies could decide to make Don Mattingly the full-time manager. The Phillies went 79-55 under Mattingly after firing Rob Thomson in late April.",
-      "published": "2026-10-06T22:52:00+00:00",
-      "title": "Source: Alex Cora turns down the Phillies again, doesn’t intend to return to managing in 2027",
-      "url": "https://www.inquirer.com/phillies/alex-cora-future-phillies-manager-decision-2027-20261007.html"
-    },
-    {
-      "category": "Phillies",
       "description": "NBC will once again broadcast the game, with John Kruk in the booth alongside play-by-play announcer Matt Vasgersian and fellow analyst C.J. Nitkowski. Joey Votto is back as the pitching analyst, ...",
       "published": "2026-10-01T21:30:00+00:00",
       "title": "Phillies season ends in Game 3 loss to the Braves; NBC analyst's terrible prediction; live updates",
       "url": "https://www.inquirer.com/phillies/live/phillies-braves-game-3-today-score-live-updates-20261001.html"
+    },
+    {
+      "category": "Phillies",
+      "description": "With a work stoppage looming, the Phillies could decide to make Don Mattingly the full-time manager. The Phillies went 79-55 under Mattingly after firing Rob Thomson in late April.",
+      "published": "2026-10-06T22:52:00+00:00",
+      "title": "Source: Alex Cora turns down the Phillies again, doesn’t intend to return to managing in 2027",
+      "url": "https://www.inquirer.com/phillies/alex-cora-future-phillies-manager-decision-2027-20261007.html"
     },
     {
       "category": "Phillies",
@@ -23,17 +23,17 @@
     },
     {
       "category": "Phillies",
-      "description": "Once the leadoff hitter of the future, Stott is hitting .162 in the last three playoff runs and a power-free .252 in last three regular seasons. A free agent after next season, will he stay around?",
-      "published": "2026-10-03T03:00:00+00:00",
-      "title": "Can Bryson Stott save his future with the Phillies after his 3 playoff collapses and 3 seasons of mediocrity?",
-      "url": "https://www.inquirer.com/phillies/phillies-bryson-stott-dave-dombrowski-playoffs-trea-turner-20261003.html"
-    },
-    {
-      "category": "Phillies",
       "description": "It was the Phillies’ roster construction that led to their demise in their wild-card series, from the lack of starting depth, a competent bullpen, and reliable right-handed hitters.",
       "published": "2026-10-01T21:16:00+00:00",
       "title": "Phillies’ weaknesses on display in season-ending loss to Braves: ‘Just as frustrating as last year’",
       "url": "https://www.inquirer.com/phillies/wild-card-game-3-score-braves-nola-wheeler-20261001.html"
+    },
+    {
+      "category": "Phillies",
+      "description": "Once the leadoff hitter of the future, Stott is hitting .162 in the last three playoff runs and a power-free .252 in last three regular seasons. A free agent after next season, will he stay around?",
+      "published": "2026-10-03T03:00:00+00:00",
+      "title": "Can Bryson Stott save his future with the Phillies after his 3 playoff collapses and 3 seasons of mediocrity?",
+      "url": "https://www.inquirer.com/phillies/phillies-bryson-stott-dave-dombrowski-playoffs-trea-turner-20261003.html"
     },
     {
       "category": "Phillies",
@@ -48,13 +48,6 @@
       "published": "2026-10-08T03:01:00+00:00",
       "title": "The Eagles, Flyers, and Phillies have crushed people’s spirits. Worse, they’ve bored us to death.",
       "url": "https://www.inquirer.com/eagles/phillies-eagles-flyers-struggles-opinion-losing-boring-20261008.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "The Phillies will pin their hopes to Sánchez in Game 2, but the conundrum of how to get the last three, six, or more outs from a few trustworthy options again awaits Don Mattingly.",
-      "published": "2026-09-29T16:59:00+00:00",
-      "title": "Short of a Cristopher Sánchez complete game, the Phillies will again face the issue that cost them Game 1",
-      "url": "https://www.inquirer.com/phillies/nl-wild-card-duran-cristopher-sanchez-pitching-bullpen-20260929.html"
     },
     {
       "category": "Phillies",
@@ -76,9 +69,16 @@
       "published": "2026-10-06T07:19:00+00:00",
       "title": "NBC Sports Philadelphia’s Michael Barkann recovering after emergency procedure",
       "url": "https://www.inquirer.com/eagles/nbc-sports-philadelphia-michael-barkann-eagles-phillies-20261006.html"
+    },
+    {
+      "category": "Phillies",
+      "description": "The Phillies’ October run ends earlier than ever, a cheesesteak gets thrown through Pat’s window, and Orifice the Awebot rolls into Old City. Plus, there may still be hope for the Academy.",
+      "published": "2026-10-03T03:00:00+00:00",
+      "title": "The Phillies run backward, a cheesesteak becomes a weapon, and Philly gets an even weirder robot | Weekly Report Card",
+      "url": "https://www.inquirer.com/news/philadelphia/phillies-wild-card-loss-cheesesteak-assault-robot-report-card-20261003.html"
     }
   ],
-  "generated_at": "2026-10-13T23:58:16.680097+00:00",
+  "generated_at": "2026-10-14T03:51:14.180848+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }

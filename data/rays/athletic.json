@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Freddy Peralta delivered a dominant outing for Tampa Bay on Tuesday, and the fourth inning played out in typical Rays fashion.",
+      "published": "2026-10-14T03:00:59+00:00",
+      "title": "Rays capitalize on Guardians' defensive blunders, top Cleveland in Game 2 to even ALCS",
+      "url": "https://www.nytimes.com/athletic/7686878/2026/10/13/rays-guardians-game-2-score-results-takeaways-mlb-alcs-2026/"
+    },
+    {
+      "category": "Rays",
       "description": "Six years later, Cash is still being second-guessed in October, after ace Drew Rasmussen gave up a game-tying home run to the Guardians.",
       "published": "2026-10-13T09:30:02+00:00",
       "title": "Kevin Cash once pulled his ace too soon. This time, he may have waited too long",
@@ -132,16 +139,9 @@
       "published": "2026-10-03T23:11:52+00:00",
       "title": "Three years after sparse crowds in playoffs, Rays draw packed house vs. Yankees",
       "url": "https://www.nytimes.com/athletic/7656597/2026/10/03/rays-attendance-playoffs-yankees/"
-    },
-    {
-      "category": "Rays",
-      "description": "Judge (calf sprain) also wasn’t on the roster for the Wild Card Series vs. Boston this week. Weathers adds a new option out of the bullpen.",
-      "published": "2026-10-03T14:26:21+00:00",
-      "title": "Aaron Judge not on Yankees' ALDS roster vs. Rays, but Ryan Weathers added to pen",
-      "url": "https://www.nytimes.com/athletic/7655606/2026/10/03/aaron-judge-out-yankees-rays-alds/"
     }
   ],
-  "generated_at": "2026-10-13T15:30:20.496515+00:00",
+  "generated_at": "2026-10-14T03:51:04.037193+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }
