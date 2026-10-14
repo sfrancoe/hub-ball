@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:02:01.914360+00:00",
+  "generated_at": "2026-10-14T18:54:58.366987+00:00",
   "source": "MLB Stats API",
   "team": "Dodgers",
   "regular_season_end": "2026-09-27",
@@ -47,9 +47,9 @@
       "opponent": "Brewers",
       "opponent_record": "2-0",
       "favorite_team_record": "0-2",
-      "favorite_team_pitcher": "",
+      "favorite_team_pitcher": "Tyler Glasnow",
       "opponent_pitcher": "",
-      "favorite_team_pitcher_record": "—",
+      "favorite_team_pitcher_record": "5-2",
       "opponent_pitcher_record": "—",
       "show_probables": true,
       "series_description": "NL Championship Series",

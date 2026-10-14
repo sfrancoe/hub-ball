@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:02:00.499004+00:00",
+  "generated_at": "2026-10-14T18:54:56.742580+00:00",
   "source": "MLB Stats API",
   "team": "Brewers",
   "regular_season_end": "2026-09-27",
@@ -48,9 +48,9 @@
       "opponent_record": "0-2",
       "favorite_team_record": "2-0",
       "favorite_team_pitcher": "",
-      "opponent_pitcher": "",
+      "opponent_pitcher": "Tyler Glasnow",
       "favorite_team_pitcher_record": "—",
-      "opponent_pitcher_record": "—",
+      "opponent_pitcher_record": "5-2",
       "show_probables": true,
       "series_description": "NL Championship Series",
       "doubleheader": false,
