@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:54:49.955310+00:00",
+  "generated_at": "2026-10-14T23:27:22.410091+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -14,9 +14,9 @@
       "opponent_record": "1-1",
       "favorite_team_record": "1-1",
       "favorite_team_pitcher": "Griffin Jax",
-      "opponent_pitcher": "",
+      "opponent_pitcher": "Gavin Williams",
       "favorite_team_pitcher_record": "8-10",
-      "opponent_pitcher_record": "—",
+      "opponent_pitcher_record": "14-8",
       "show_probables": true,
       "series_description": "AL Championship Series",
       "doubleheader": false,

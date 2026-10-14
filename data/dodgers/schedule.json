@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:54:58.366987+00:00",
+  "generated_at": "2026-10-14T23:27:39.169417+00:00",
   "source": "MLB Stats API",
   "team": "Dodgers",
   "regular_season_end": "2026-09-27",
@@ -7,7 +7,7 @@
     {
       "game_pk": 849811,
       "game_date": "2026-10-15T00:00:00Z",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "venue": "UNIQLO Field at Dodger Stadium",
       "location": "home",
       "opponent": "Brewers",
@@ -40,7 +40,7 @@
     },
     {
       "game_pk": 849810,
-      "game_date": "2026-10-16T01:00:00Z",
+      "game_date": "2026-10-16T00:00:00Z",
       "status": "Scheduled",
       "venue": "UNIQLO Field at Dodger Stadium",
       "location": "home",
