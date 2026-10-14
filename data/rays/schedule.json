@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:33:46.263036+00:00",
+  "generated_at": "2026-10-14T01:24:15.881289+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -7,7 +7,7 @@
     {
       "game_pk": 849813,
       "game_date": "2026-10-14T00:00:00Z",
-      "status": "Pre-Game",
+      "status": "In Progress",
       "venue": "Tropicana Field",
       "location": "home",
       "opponent": "Guardians",
