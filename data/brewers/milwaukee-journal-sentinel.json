@@ -2,24 +2,10 @@
   "articles": [
     {
       "category": "Brewers",
-      "description": "Buy tickets to see the Milwaukee Brewers this season. Or was it all the above? And, more importantly, you believed – deep down, you believed – in each of those moments, didn't you? If there was ...",
-      "published": "2026-10-12T07:04:00+00:00",
-      "title": "At long last, these Milwaukee Brewers are making you believe",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/12/brewers-making-milwaukee-believe-in-possible-world-series/92168583007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Brewers fans snapped up all 3,000 tickets to the team's watch party in less than an hour for Game 3 of the NLCS.",
       "published": "2026-10-13T09:59:00+00:00",
       "title": "Milwaukee Brewers announce NLCS Game 3 watch party (already sold out)",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/13/milwaukee-brewers-announce-nlcs-game-3-watch-party/92231603007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Brewers are sitting pretty, and here's a look at what national (and Los Angeles) writers had to say about Game 2 and Milwaukee's series lead.",
-      "published": "2026-10-13T11:17:00+00:00",
-      "title": "What national writers are saying about the Brewers' Game 2 win in NLCS",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/13/brewers-nlcs-lead-dodgers-playing-nationally/92233285007/"
     },
     {
       "category": "Brewers",
@@ -30,10 +16,10 @@
     },
     {
       "category": "Brewers",
-      "description": "MILWAUKEE — The Los Angeles Dodgers find themselves in a very unfamiliar position. Game 3 is Wednesday, Oct. 14. William Contreras homered and then singled in the go-ahead run in the sixth of a wild ...",
-      "published": "2026-10-12T21:25:00+00:00",
-      "title": "Brewers have juggernaut Dodgers on the ropes in NLCS: Game 2 takeaways",
-      "url": "https://www.jsonline.com/story/sports/mlb/playoffs/2026/10/12/dodgers-brewers-watch-score-time-nlcs-channel-highlights--live/92212868007/"
+      "description": "Buy tickets to see the Milwaukee Brewers this season. Or was it all the above? And, more importantly, you believed – deep down, you believed – in each of those moments, didn't you? If there was ...",
+      "published": "2026-10-12T07:04:00+00:00",
+      "title": "At long last, these Milwaukee Brewers are making you believe",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/12/brewers-making-milwaukee-believe-in-possible-world-series/92168583007/"
     },
     {
       "category": "Brewers",
@@ -65,6 +51,20 @@
     },
     {
       "category": "Brewers",
+      "description": "The Los Angeles Dodgers and Milwaukee Brewers play Game 2 of the NLCS Monday at 5 p.m. ET in Milwaukee, Wisconsin, with the Brewers leading 1-0.",
+      "published": "2026-10-12T08:31:00+00:00",
+      "title": "Los Angeles Dodgers at Milwaukee Brewers odds, picks and predictions",
+      "url": "https://www.jsonline.com/story/sports/mlb/2026/10/12/dodgers-at-brewers-nlcs-game-2-odds-picks-and-predictions/92215124007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "DL Hall, Abner Uribe, Aaron Ashby and Trevor Megill were nails once more as the Brewers bullpen continued its remarkable October in a 2-1 NLCS win.",
+      "published": "2026-10-11T01:13:00+00:00",
+      "title": "Brewers bullpen has been unstoppable through five playoff games",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/11/bullpen-superb-again-as-brewers-narrowly-defeat-dodgers-in-nlcs-game-1/92133900007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Well, the 2026 Milwaukee Brewers bullpen looks even nastier in these playoffs. Milwaukee relievers have allowed just a single run in 28⅔ innings during the first six games of the National League ...",
       "published": "2026-10-12T21:44:00+00:00",
       "title": "Brewers bullpen's historic game gets social media's attention",
@@ -79,13 +79,13 @@
     },
     {
       "category": "Brewers",
-      "description": "DL Hall, Abner Uribe, Aaron Ashby and Trevor Megill were nails once more as the Brewers bullpen continued its remarkable October in a 2-1 NLCS win.",
-      "published": "2026-10-11T01:13:00+00:00",
-      "title": "Brewers bullpen has been unstoppable through five playoff games",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/11/bullpen-superb-again-as-brewers-narrowly-defeat-dodgers-in-nlcs-game-1/92133900007/"
+      "description": "MILWAUKEE — The Los Angeles Dodgers find themselves in a very unfamiliar position. Game 3 is Wednesday, Oct. 14. William Contreras homered and then singled in the go-ahead run in the sixth of a wild ...",
+      "published": "2026-10-12T21:25:00+00:00",
+      "title": "Brewers have juggernaut Dodgers on the ropes in NLCS: Game 2 takeaways",
+      "url": "https://www.jsonline.com/story/sports/mlb/playoffs/2026/10/12/dodgers-brewers-watch-score-time-nlcs-channel-highlights--live/92212868007/"
     }
   ],
-  "generated_at": "2026-10-14T03:51:16.101570+00:00",
+  "generated_at": "2026-10-14T09:09:11.021770+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

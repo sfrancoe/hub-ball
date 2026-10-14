@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Giants",
-      "description": "SAN FRANCISCO -- The game at Chase Field on April 2, 2017 is one of the most memorable losses in recent Giants history, which is saying something, given the kind of baseball they have played over the ...",
-      "published": "2026-10-01T03:53:00+00:00",
-      "title": "Buster Posey, Giants aim to solve puzzle of fixing their bullpen this offseason",
-      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/buster-posey-offseason-bullpen-puzzle/1967880/"
-    },
-    {
-      "category": "Giants",
       "description": "The Giants finally beat the Dodgers, but in one of the worst ways possible. The Dodgers led all of MLB in injured list days for three straight seasons, but in 2026, San Francisco took the crown.",
       "published": "2026-10-07T07:39:00+00:00",
       "title": "Giants snap Dodgers' three-year streak for MLB-worst stat in 2026 season",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Giants",
-      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic do a deep dive into Bryce Eldridge's eye-opening rookie season and what's next for the 21-year-old.",
-      "published": "2026-10-12T14:43:00+00:00",
-      "title": "Giants Talk: Analyzing 21-year-old Bryce Eldridge's breakout 2026 rookie season",
-      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/bryce-eldridge-rookie-season-watch/1970935/"
+      "description": "SAN FRANCISCO -- The game at Chase Field on April 2, 2017 is one of the most memorable losses in recent Giants history, which is saying something, given the kind of baseball they have played over the ...",
+      "published": "2026-10-01T03:53:00+00:00",
+      "title": "Buster Posey, Giants aim to solve puzzle of fixing their bullpen this offseason",
+      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/buster-posey-offseason-bullpen-puzzle/1967880/"
     },
     {
       "category": "Giants",
@@ -27,6 +20,13 @@
       "published": "2026-10-08T14:26:00+00:00",
       "title": "Giants Talk: Does San Francisco currently have enough depth at catcher position?",
       "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/giants-talk-catcher-depth/1969835/"
+    },
+    {
+      "category": "Giants",
+      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic do a deep dive into Bryce Eldridge's eye-opening rookie season and what's next for the 21-year-old.",
+      "published": "2026-10-12T14:43:00+00:00",
+      "title": "Giants Talk: Analyzing 21-year-old Bryce Eldridge's breakout 2026 rookie season",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/bryce-eldridge-rookie-season-watch/1970935/"
     },
     {
       "category": "Giants",
@@ -57,7 +57,7 @@
       "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/giants-talk-watch-rebuild/1969361/"
     }
   ],
-  "generated_at": "2026-10-14T03:51:26.249008+00:00",
+  "generated_at": "2026-10-14T09:09:13.583625+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"
 }

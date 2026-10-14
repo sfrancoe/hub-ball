@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Jose Ramirez’s error in the fourth inning proves costly for Cleveland vs. the Rays.",
+      "published": "2026-10-14T04:36:03+00:00",
+      "title": "Plant City’s Parker Messick doesn’t allow an earned run, but takes Game 2 loss",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/14/parker-messick-jose-ramirez-error-game-2-alcs/"
+    },
+    {
+      "category": "Rays",
       "description": "Freddy Peralta delivers a strong six-inning start, and a small-ball fourth inning provides the offense for Tampa Bay.",
       "published": "2026-10-14T03:05:07+00:00",
       "title": "Rays, looking like themselves, bounce back to beat Guardians, even ALCS",
@@ -9,9 +16,9 @@
     },
     {
       "category": "Rays",
-      "description": "Notes | After a scary collision during the ninth inning Monday, both are back in the lineup and feeling fine.",
+      "description": "Notes | Plus: Everyone OK after collision aftermath, a familiar face reports for first-pitch duties.",
       "published": "2026-10-13T21:51:43+00:00",
-      "title": "Rays happy Caminero and DeLuca feeling good, able to start ALCS Game 2",
+      "title": "Rays’ Griffin Jax gets the nod to start Game 3 of ALCS in Cleveland",
       "url": "https://www.tampabay.com/sports/rays/2026/10/13/junior-caminero-jonny-deluca-collision-alcs-rangers-nathaniel-lowe-drew-rasmussen/"
     },
     {
@@ -111,23 +118,9 @@
       "published": "2026-10-09T21:02:55+00:00",
       "title": "Rays resting and waiting to see if they play Guardians or White Sox",
       "url": "https://www.tampabay.com/sports/rays/2026/10/09/alcs-guardians-white-sox-drew-rasmussen-griffin-jax-ian-seymour-kevin-cash/"
-    },
-    {
-      "category": "Rays",
-      "description": "Though only three were needed to start games, all five members of the rotation pitched key innings in beating the Yankees.",
-      "published": "2026-10-08T19:52:32+00:00",
-      "title": "Key to Rays’ ALDS sweep? Starters making their pitch in various roles",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/08/drew-rasmussen-freddy-peralta-nick-martinez-griffin-jax-ian-seymour-alds-yankees/"
-    },
-    {
-      "category": "Rays",
-      "description": "Tampa Bay swept the series with a 4-3 win against the Yankees in Game 3.",
-      "published": "2026-10-08T15:23:14+00:00",
-      "title": "Florida notables cheer Rays’ ALDS win on social media",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/08/rays-win-social-media-reactions-yankees-florida/"
     }
   ],
-  "generated_at": "2026-10-14T03:51:03.678088+00:00",
+  "generated_at": "2026-10-14T09:09:03.599908+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

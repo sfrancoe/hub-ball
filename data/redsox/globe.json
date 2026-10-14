@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "Red Sox",
+      "description": "Because of the lack of a new CBA, teams don't know what levels of spending will trigger penalties.",
+      "published": "2026-10-14T09:00:00Z",
+      "title": "The Red Sox need to improve this offseason, but that will be complicated by baseball’s labor fight",
+      "url": "https://www.bostonglobe.com/2026/10/14/sports/red-sox-offseason-strategy-cba/"
+    },
+    {
+      "category": "Rays 3, Guardians 1",
+      "description": "Three unearned runs in the fourth inning were enough for the Rays.",
+      "published": "2026-10-14T04:01:32.961Z",
+      "title": "Freddy Peralta, Liam Hicks help Rays even series with Guardians at 1-1",
+      "url": "https://www.bostonglobe.com/2026/10/14/sports/rays-guardians-game-2-alcs/"
+    },
+    {
       "category": "GUARDIANS 7, RAYS 3",
       "description": "Nathaniel Lowe hit a tiebreaking, two-run single in the eighth inning, and DeLauter and Patrick Bailey hit solo homers to power Cleveland to the Game 1 victory on the road.",
       "published": "2026-10-13T03:44:26.257Z",
@@ -90,23 +104,9 @@
       "published": "2026-10-09T00:20:29.935Z",
       "title": "MLB proposes shortening regular season to 154 games in 2029, expanding Division Series to best-of-7",
       "url": "https://www.bostonglobe.com/2026/10/08/sports/mlb-labor-schedule-length/"
-    },
-    {
-      "category": "RED SOX",
-      "description": "They were a team capable of contending, maybe, but nothing beyond that — at least when you look at run differential.",
-      "published": "2026-10-08T09:00:00Z",
-      "title": "The Red Sox brass say it is ‘complicated’ to evaluate 2026. Beyond the streak, what to make of it?",
-      "url": "https://www.bostonglobe.com/2026/10/08/sports/red-sox-how-to-view-2026-season/"
-    },
-    {
-      "category": "RAYS 4, YANKEES 3",
-      "description": "Victor Mesa Jr. hit a tiebreaking, two-run homer in the sixth inning, and Tampa Bay ousted host New York with the help of a fan interference call.",
-      "published": "2026-10-08T03:32:08.807Z",
-      "title": "Rays sweep away Yankees, head to ALCS for first time since 2020",
-      "url": "https://www.bostonglobe.com/2026/10/07/sports/baseball-alds-game-3-rays-yankees-score/"
     }
   ],
-  "generated_at": "2026-10-13T15:30:03.627128+00:00",
+  "generated_at": "2026-10-14T09:08:56.617482+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
