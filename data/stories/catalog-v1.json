@@ -1,8 +1,22 @@
 {
-  "publishedAt": "2026-10-12T21:20:57Z",
-  "revision": "release-griffin-family-october12",
+  "publishedAt": "2026-10-14T00:00:43Z",
+  "revision": "release-pages-corrected-october12-snapshot",
   "schemaVersion": 1,
   "stories": [
+    {
+      "fallback": "Six postseason games through October 12. Pages: 2 for 3.\nEveryone else: 0 for 23.",
+      "id": "pages-two-of-twenty-six",
+      "minimumRendererVersion": 6,
+      "publishedAt": "2026-10-14T00:00:43Z",
+      "renderer": "grouped-unit-grid",
+      "rendererVersion": 1,
+      "revision": "e45b7069243459ad82bf989cc4d7d04633187a02ba3606a16cae191957f61e5f",
+      "summary": "Six postseason games through October 12. 26 at-bats with runners in scoring position. Two hits. Both by Andy Pages.",
+      "teamIDs": [
+        119
+      ],
+      "title": "One man. Both hits."
+    },
     {
       "fallback": "Griffin returned from Japan and pitched 172⅔ MLB innings in 2026. Before this year, his entire major-league career added up to eight.",
       "id": "griffin-eight-innings-alcs",

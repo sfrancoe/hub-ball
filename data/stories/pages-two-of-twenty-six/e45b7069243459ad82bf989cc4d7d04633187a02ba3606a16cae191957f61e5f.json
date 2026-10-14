@@ -1,0 +1,47 @@
+{
+  "caveat": "Six postseason games through October 12. A small sample of at-bats, not plate appearances. Squares are grouped by batter and outcome, not game order. Runners in scoring position means a runner on second or third base.",
+  "deck": "26 at-bats with runners in scoring position. Two hits. Both by Andy Pages.",
+  "durationSeconds": 10,
+  "finalCaption": "TWO HITS. BOTH FROM PAGES.",
+  "groupedCaption": "GROUPED AT-BATS · NOT A TIMELINE",
+  "groups": [
+    {
+      "atBats": 3,
+      "hits": 2,
+      "id": "pages",
+      "label": "Andy Pages of the Dodgers",
+      "revealEndSeconds": 8,
+      "revealStartSeconds": 5.5
+    },
+    {
+      "atBats": 23,
+      "hits": 0,
+      "id": "other-dodgers",
+      "label": "Everyone else",
+      "revealEndSeconds": 5.3,
+      "revealStartSeconds": 1
+    }
+  ],
+  "id": "pages-two-of-twenty-six",
+  "methodology": [
+    "grouped by batter and outcome; no chronology inferred",
+    "Official MLB report directly supports Pages 2 for 3 and the other Dodgers 0 for 23. Team 2 for 26 is arithmetic; StatsAPI was not independently recomputed.",
+    "Hitless at-bats are not labelled outs. At-bats are not plate appearances. The snapshot covers six postseason games through October 12, 2026."
+  ],
+  "openingSeconds": 1,
+  "payoff": "Pages: 2 for 3.\nEveryone else: 0 for 23.",
+  "payoffSeconds": 8,
+  "renderer": "grouped-unit-grid",
+  "rendererVersion": 1,
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "mlb-game2",
+      "retrievedAt": "2026-10-13T12:40:12Z",
+      "title": "MLB · Dodgers lose NLCS Game 2 · October 12",
+      "url": "https://www.mlb.com/dodgers/news/dodgers-lose-nlcs-game-2-2026"
+    }
+  ],
+  "title": "One man. Both hits.",
+  "unit": "at-bat"
+}

@@ -1,23 +1,23 @@
 {
   "enabled": true,
   "entry": {
-    "fallback": "Griffin returned from Japan and pitched 172⅔ MLB innings in 2026. Before this year, his entire major-league career added up to eight.",
-    "id": "griffin-eight-innings-alcs",
-    "minimumRendererVersion": 5,
-    "publishedAt": "2026-10-12T15:02:15Z",
-    "renderer": "chart-trajectory",
+    "fallback": "Six postseason games through October 12. Pages: 2 for 3.\nEveryone else: 0 for 23.",
+    "id": "pages-two-of-twenty-six",
+    "minimumRendererVersion": 6,
+    "publishedAt": "2026-10-14T00:00:43Z",
+    "renderer": "grouped-unit-grid",
     "rendererVersion": 1,
-    "revision": "3b898e555f41a1c36c9113f171c2d034d83639fe43ebeec52a04735347ae7174",
-    "summary": "Eight MLB innings before this season. Three years in Japan. Now, Cleveland’s Game 1 starter.",
+    "revision": "e45b7069243459ad82bf989cc4d7d04633187a02ba3606a16cae191957f61e5f",
+    "summary": "Six postseason games through October 12. 26 at-bats with runners in scoring position. Two hits. Both by Andy Pages.",
     "teamIDs": [
-      114
+      119
     ],
-    "title": "Eight innings. Then an ALCS start."
+    "title": "One man. Both hits."
   },
-  "expiresAt": "2026-10-13T00:00:00Z",
-  "minimumBuild": 129,
-  "notBefore": "2026-10-12T00:00:00Z",
-  "publishedAt": "2026-10-12T21:20:57Z",
-  "revision": "griffin-october12-family",
+  "expiresAt": "2026-10-15T00:00:43Z",
+  "minimumBuild": 130,
+  "notBefore": "2026-10-14T00:00:43Z",
+  "publishedAt": "2026-10-14T00:00:43Z",
+  "revision": "pages-dated-snapshot-public-130",
   "schemaVersion": 1
 }
