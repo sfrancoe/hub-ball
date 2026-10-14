@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "Nicholas Grunauer, owner of the Crossroads Austrian restaurant says the multi-billion-dollar investment could open the door to more.",
+      "published": "2026-10-13T22:00:00+00:00",
+      "title": "This KC business owner thinks Royals stadium will boost development. ‘We all win’",
+      "url": "https://www.kansascity.com/news/local/article317502449.html"
+    },
+    {
+      "category": "Royals",
       "description": "Carter Jensen, Noah Cameron and Vinnie Pasquantino were involved in some drama because of an odd rule in the Royals fantasy football league.",
       "published": "2026-10-13T02:40:00+00:00",
       "title": "Vinnie Pasquantino reveals a special rule in the Royals’ fantasy football league",
@@ -41,23 +48,9 @@
       "published": "2026-10-08T07:21:00+00:00",
       "title": "‘Unsafe’: Report for Royals TIF plan finds Crown Center buildings to be blighted",
       "url": "https://www.kansascity.com/news/local/article317541485.html"
-    },
-    {
-      "category": "Royals",
-      "description": "The City Council approved a tax increment financing plan and authorized issuing bonds to pay for a $600 million contribution to the ballpark.",
-      "published": "2026-10-08T09:52:00+00:00",
-      "title": "Finalized Royals stadium financing will cost KC nearly $1.4 billion over 30 years",
-      "url": "https://www.kansascity.com/news/local/article317545028.html"
-    },
-    {
-      "category": "Royals",
-      "description": "The Royals reassigned Alec Zumwalt to the minors as part of a succession plan. Zumwalt will keep his title but no longer serve as the club's lead hitting coach. Kansas City finished 22nd in runs ...",
-      "published": "2026-09-30T11:14:00+00:00",
-      "title": "The Royals are shaking up their hitting staff. It’s a plan years in the making",
-      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317447268.html"
     }
   ],
-  "generated_at": "2026-10-14T03:51:09.940151+00:00",
+  "generated_at": "2026-10-14T14:29:56.603709+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

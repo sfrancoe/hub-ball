@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
+      "published": "2026-10-14T03:30:00+00:00",
+      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
+      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
+    },
+    {
+      "category": "Orioles",
       "description": "With the Orioles’ season in the books, The Baltimore Sun is looking back on its preseason roster previews position by position and examining how each group made good on its expectations. After a ...",
       "published": "2026-10-13T03:30:00+00:00",
       "title": "Orioles position in review: Rutschman-Basallo catching duo was underwhelming, short-lived",
@@ -51,13 +58,6 @@
     },
     {
       "category": "Orioles",
-      "description": "With Trevor Rogers set to hit free agency for the first time, Orioles president Mike Elias left open the possibility of an extension.",
-      "published": "2026-09-30T03:30:00+00:00",
-      "title": "Orioles’ Elias on Trevor Rogers: ‘Interest is very high’ in long-term deal",
-      "url": "https://www.baltimoresun.com/2026/09/30/orioles-trevor-rogers-mike-elias-interest-very-high-long-term-deal/"
-    },
-    {
-      "category": "Orioles",
       "description": "On a recent podcast appearance, Albert Belle discussed the end to his MLB career and his relationship with Orioles fans.",
       "published": "2026-10-08T15:16:00+00:00",
       "title": "Albert Belle on end of career with Orioles: ‘Fans didn’t like me there’",
@@ -72,13 +72,13 @@
     },
     {
       "category": "Orioles",
-      "description": "While MLB playoffs are in full swing, the Orioles’ offseason is already well underway. Baltimore was in mathematical contention until the regular season’s final week, but the club never shook off its ...",
-      "published": "2026-10-06T03:30:00+00:00",
-      "title": "Orioles 2026-27 offseason guide: Free agents, roster needs, lockout dates",
-      "url": "https://www.baltimoresun.com/2026/10/06/orioles-2026-2027-offseason-guide-free-agents-roster-needs-lockout-dates/"
+      "description": "With Trevor Rogers set to hit free agency for the first time, Orioles president Mike Elias left open the possibility of an extension.",
+      "published": "2026-09-30T03:30:00+00:00",
+      "title": "Orioles’ Elias on Trevor Rogers: ‘Interest is very high’ in long-term deal",
+      "url": "https://www.baltimoresun.com/2026/09/30/orioles-trevor-rogers-mike-elias-interest-very-high-long-term-deal/"
     }
   ],
-  "generated_at": "2026-10-14T09:09:04.519095+00:00",
+  "generated_at": "2026-10-14T14:29:49.089613+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

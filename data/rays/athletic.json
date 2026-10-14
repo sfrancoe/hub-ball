@@ -2,6 +2,41 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Rays and Brewers have overcome smaller payrolls by investing in technology and having novel approaches to coaching and roster construction.",
+      "published": "2026-10-14T10:05:01+00:00",
+      "title": "Rays, Brewers always outperform expectations. These 'Moneyball'-like edges are the key",
+      "url": "https://www.nytimes.com/athletic/7684373/2026/10/14/brewers-rays-analytics-moneyball-mlb-playoffs/"
+    },
+    {
+      "category": "Rays",
+      "description": "Ramírez’s fourth-inning error opened a door for the Tampa Bay Rays, who tied the ALCS at a game apiece.",
+      "published": "2026-10-14T10:00:58+00:00",
+      "title": "José Ramírez knows baseball can be stupid or good. In Game 2? Well, it wasn't good",
+      "url": "https://www.nytimes.com/athletic/7686862/2026/10/14/jose-ramirez-guardians-mlb-playoffs-alcs-game-2/"
+    },
+    {
+      "category": "Rays",
+      "description": "The Rays want a home-field advantage. Fans? They want to know what their tickets are supposed to cost.",
+      "published": "2026-10-14T10:00:28+00:00",
+      "title": "The Rays can’t fill the Trop in the ALCS. Fans point to ticket prices",
+      "url": "https://www.nytimes.com/athletic/7688793/2026/10/14/tampa-bay-rays-alcs-ticket-prices-tropicana-field/"
+    },
+    {
+      "category": "Rays",
+      "description": "Ferg’s, a popular St. Petersburg sports bar built to herald the arrival of the Tampa Bay Rays, now must face a future without the team.",
+      "published": "2026-10-14T09:30:42+00:00",
+      "title": "For 30 years, Ferg’s grew with the Tampa Bay Rays. Now the team may leave the bar behind",
+      "url": "https://www.nytimes.com/athletic/7688023/2026/10/14/tampa-bay-rays-fergs-bar-playoffs-relocation/"
+    },
+    {
+      "category": "Rays",
+      "description": "The Rays knotted the ALCS at a game apiece Tuesday night because they did things their way.",
+      "published": "2026-10-14T09:30:00+00:00",
+      "title": "Freddy Peralta, Junior Caminero and the Game 2 scenes that capture Rays' winning ways",
+      "url": "https://www.nytimes.com/athletic/7686869/2026/10/14/junior-caminero-freddy-peralta-rays-win-alcs-game-2-mlb-playoffs/"
+    },
+    {
+      "category": "Rays",
       "description": "Freddy Peralta delivered a dominant outing for Tampa Bay on Tuesday, and the fourth inning played out in typical Rays fashion.",
       "published": "2026-10-14T03:00:59+00:00",
       "title": "Rays capitalize on Guardians' defensive blunders, top Cleveland in Game 2 to even ALCS",
@@ -104,44 +139,9 @@
       "published": "2026-10-06T07:00:14+00:00",
       "title": "MLB Division Series results: Scores, highlights and ALDS Game 2 takeaways",
       "url": "https://www.nytimes.com/athletic/7664016/2026/10/06/mlb-division-series-scores-highlights-takeaways-alds-game-2/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Yankees looked shaken. They made mistake after mistake, committing four errors. Now they must win three straight games to stay alive.",
-      "published": "2026-10-06T03:30:19+00:00",
-      "title": "Sloppy Yankees implode in gaffe-filled Game 2 as Rays push them to the brink",
-      "url": "https://www.nytimes.com/athletic/7664530/2026/10/05/yankees-rays-game-2-takeaways-mlb-playoffs/"
-    },
-    {
-      "category": "Rays",
-      "description": "How Peralta reclaimed his mojo as “Fastball Freddy” began with one pitch during his poor Rays debut — but his turnaround involves much more.",
-      "published": "2026-10-05T09:40:47+00:00",
-      "title": "Inside Freddy Peralta's revival with Rays, from Mets disappointment to playoff starter",
-      "url": "https://www.nytimes.com/athletic/7661024/2026/10/05/freddy-peralta-rays-revival-alds-playoffs/"
-    },
-    {
-      "category": "Rays",
-      "description": "Rasmussen is a pitching savant. He pours over scouting reports. He obsesses over pitch sequences.",
-      "published": "2026-10-04T09:10:43+00:00",
-      "title": "Drew Rasmussen's Yankees mastery continues in Game 1. 'Dialed in' Rays ace looks untouchable",
-      "url": "https://www.nytimes.com/athletic/7657200/2026/10/04/drew-rasmussen-mlb-playoffs-no-hitter-rays-yankees/"
-    },
-    {
-      "category": "Rays",
-      "description": "Rasmussen threw 7 2/3 innings of no-hit ball and struck out 10 in a dominant performance that stymied the Yankees' offense.",
-      "published": "2026-10-04T01:20:24+00:00",
-      "title": "Rays ride Drew Rasmussen's no-hit bid to Game 1 win. Can Yankees' bats bounce back?",
-      "url": "https://www.nytimes.com/athletic/7656889/2026/10/03/rays-yankees-score-results-drew-rasmussen-jonathan-aranda/"
-    },
-    {
-      "category": "Rays",
-      "description": "\"I've never seen it like this,\" Florida resident and Rays fan Ray Crawford, 43, said Saturday at Tropicana Field. \"This is crazy.\"",
-      "published": "2026-10-03T23:11:52+00:00",
-      "title": "Three years after sparse crowds in playoffs, Rays draw packed house vs. Yankees",
-      "url": "https://www.nytimes.com/athletic/7656597/2026/10/03/rays-attendance-playoffs-yankees/"
     }
   ],
-  "generated_at": "2026-10-14T03:51:04.037193+00:00",
+  "generated_at": "2026-10-14T14:29:47.800158+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

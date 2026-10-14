@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Aroldis Chapman's 35-save campaign and Garrett Whitlock's dominant setup work anchored the Red Sox bullpen in 2026, but Justin Slaten's D grade and Eric Miller's October collapse exposed costly depth problems.",
+      "published": "2026-10-14T13:10:40+00:00",
+      "title": "Red Sox Grades: Chapman and Whitlock were elite. The rest of the bullpen wasn’t always",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-grades-aroldis-chapman-and-garrett-whitlock-were-elite-the-rest-of-the-bullpen-wasnt-always.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Who would you give an A after the 2026 season?",
+      "published": "2026-10-14T12:13:04+00:00",
+      "title": "What grade did we give each member of the Boston Red Sox' pitching staff?",
+      "url": "https://www.masslive.com/redsox/2026/10/grading-the-boston-red-sox-2026-pitching-staff-the-fenway-rundown.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Do the Red Sox have enough talent left in their farm system to trade for a slugger who can bash 30 home runs?",
+      "published": "2026-10-14T10:06:09+00:00",
+      "title": "Do Red Sox have enough left in farm system to trade for 30-home run slugger?",
+      "url": "https://www.masslive.com/redsox/2026/10/do-red-sox-have-enough-left-in-farm-system-to-trade-for-30-home-run-slugger.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "What questions do you have for Sean McAdam this week? Drop them in the comments or send an email to fenwayinsider@masslive.com",
       "published": "2026-10-14T09:00:00+00:00",
       "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
@@ -83,16 +104,9 @@
       "published": "2026-10-07T16:47:31+00:00",
       "title": "Should the Red Sox move on from Jarren Duran, Triston Casas or other arb eligible players?",
       "url": "https://www.masslive.com/redsox/2026/10/should-the-red-sox-move-on-from-jarren-duran-triston-casas-or-other-arb-eligible-players.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Red Sox outfield prospect Andrews Opata stole 54 bases this season, second in the Carolina League and just one behind the leader.",
-      "published": "2026-10-07T10:00:01+00:00",
-      "title": "Overlooked Red Sox prospect (54 stolen bases) didn’t ‘let up on the gas’",
-      "url": "https://www.masslive.com/redsox/2026/10/overlooked-red-sox-prospect-54-stolen-bases-didnt-let-up-on-the-gas.html"
     }
   ],
-  "generated_at": "2026-10-14T09:08:57.911363+00:00",
+  "generated_at": "2026-10-14T14:29:35.025326+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

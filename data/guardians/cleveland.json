@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "The Guardians wasted a strong start by Parker Messick and stranded nine runners in their ALCS Game 2 loss to Tampa Bay. Breaking down the numbers.",
+      "published": "2026-10-13T22:17:00+00:00",
+      "title": "Guardians by the numbers: José Ramírez’s costly error, missed chances sink Cleveland in ALCS Game 2",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-by-the-numbers-jose-ramirezs-costly-error-missed-chances-sink-cleveland-in-alcs-game-2.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Cavs star will throw out the first pitch at Game 3 of the ALCS, a nod to his deep baseball roots and growing bond with Cleveland.",
+      "published": "2026-10-13T12:04:00+00:00",
+      "title": "Cleveland’s newest superstar will throw out the first pitch for Game 3 of the ALCS between Guardians and Rays",
+      "url": "https://www.cleveland.com/guardians/2026/10/clevelands-newest-superstar-will-throw-out-the-first-pitch-for-game-3-of-the-alcs-between-guardians-and-rays.html"
+    },
+    {
+      "category": "Guardians",
       "description": "The Guardians, up 1-0 in the ALCS, face the Rays in Game 2 with Parker Messick starting in his hometown against Freddy Peralta. Follow along for live updates, analysis and all the key moments.",
       "published": "2026-10-13T14:02:00+00:00",
       "title": "Guardians vs. Rays ALCS Game 2 Live Blog: Can Cleveland take a 2-0 series lead?",
@@ -13,13 +27,6 @@
       "published": "2026-10-13T08:08:00+00:00",
       "title": "Cleveland Monsters game time changed because of potential Guardians’ Game 5",
       "url": "https://www.cleveland.com/entertainment/2026/10/cleveland-monsters-game-time-changed-because-of-potential-guardians-game-5.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Cavs star will throw out the first pitch at Game 3 of the ALCS, a nod to his deep baseball roots and growing bond with Cleveland.",
-      "published": "2026-10-13T12:04:00+00:00",
-      "title": "Cleveland’s newest superstar will throw out the first pitch for Game 3 of the ALCS between Guardians and Rays",
-      "url": "https://www.cleveland.com/guardians/2026/10/clevelands-newest-superstar-will-throw-out-the-first-pitch-for-game-3-of-the-alcs-between-guardians-and-rays.html"
     },
     {
       "category": "Guardians",
@@ -58,24 +65,17 @@
     },
     {
       "category": "Guardians",
-      "description": "The White Sox lead the ALDS 2-1, with Cleveland needing consecutive wins to advance, starting with an elimination game Thursday night.",
-      "published": "2026-10-08T12:00:00+00:00",
-      "title": "Guardians vs. White Sox ALDS Game 4: Live updates as Cleveland tries to stay alive",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-white-sox-alds-game-4-live-updates-as-cleveland-tries-to-stay-alive.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Guardians rookie Chase DeLauter is putting a season of big league lessons to work in the ALCS after a three-hit Game 1 performance against Tampa Bay.",
-      "published": "2026-10-13T11:33:00+00:00",
-      "title": "Chase DeLauter’s growing Rolodex of pitches has become a dangerous weapon for Guardians in ALCS",
-      "url": "https://www.cleveland.com/guardians/2026/10/chase-delauters-growing-rolodex-of-pitches-has-become-a-dangerous-weapon-for-guardians-in-alcs.html"
-    },
-    {
-      "category": "Guardians",
       "description": "José Ramírez's two defensive mistakes in the fourth inning allowed three unearned runs, as the Guardians fell 3-1 to Tampa Bay in Game 2, evening the ALCS at one game apiece.",
       "published": "2026-10-14T01:51:00+00:00",
       "title": "José Ramírez’s rough fourth inning costs Guardians three runs and a chance to take control of ALCS",
       "url": "https://www.cleveland.com/guardians/2026/10/jose-ramirezs-rough-fourth-inning-costs-guardians-three-runs-and-a-chance-to-take-control-of-alcs.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The White Sox lead the ALDS 2-1, with Cleveland needing consecutive wins to advance, starting with an elimination game Thursday night.",
+      "published": "2026-10-08T12:00:00+00:00",
+      "title": "Guardians vs. White Sox ALDS Game 4: Live updates as Cleveland tries to stay alive",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-white-sox-alds-game-4-live-updates-as-cleveland-tries-to-stay-alive.html"
     },
     {
       "category": "Guardians",
@@ -85,7 +85,7 @@
       "url": "https://www.cleveland.com/guardians/2026/10/jose-ramirez-chase-delauter-and-guardians-are-giving-rays-plenty-to-worry-about-cleveland-baseball-talk-podcast.html"
     }
   ],
-  "generated_at": "2026-10-14T09:09:05.881064+00:00",
+  "generated_at": "2026-10-14T14:29:51.438676+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

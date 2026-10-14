@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Tampa Mayor Jane Castor says a groundbreaking on the stadium is “imminent,” with team leaders promising completion by 2029.",
+      "published": "2026-10-14T10:00:01+00:00",
+      "title": "Rays face tight stadium construction timeline. Are they on pace?",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/14/tampa-bay-rays-stadium-construction-timeline-open/"
+    },
+    {
+      "category": "Rays",
       "description": "Jose Ramirez’s error in the fourth inning proves costly for Cleveland vs. the Rays.",
       "published": "2026-10-14T04:36:03+00:00",
       "title": "Plant City’s Parker Messick doesn’t allow an earned run, but takes Game 2 loss",
@@ -111,16 +118,9 @@
       "published": "2026-10-10T18:00:00+00:00",
       "title": "Liam Hicks has been a big boost for Rays after catching on quickly",
       "url": "https://www.tampabay.com/sports/rays/2026/10/10/liam-hicks-catcher-miami-marlins-alcs-nick-martinez/"
-    },
-    {
-      "category": "Rays",
-      "description": "A taxed and tired opponent will show up at the Trop for Monday’s ALCS opener. The Rays should be ready with four days off.",
-      "published": "2026-10-09T21:02:55+00:00",
-      "title": "Rays resting and waiting to see if they play Guardians or White Sox",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/09/alcs-guardians-white-sox-drew-rasmussen-griffin-jax-ian-seymour-kevin-cash/"
     }
   ],
-  "generated_at": "2026-10-14T09:09:03.599908+00:00",
+  "generated_at": "2026-10-14T14:29:47.507685+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

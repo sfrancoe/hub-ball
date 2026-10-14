@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "The insane sequence that ended the Commanders' 27-27 tie with the Giants has been picked over incessantly — and still needs some explaining.",
+      "published": "2026-10-14T05:21:00+00:00",
+      "title": "Inside that Washington Commanders’ botched final play: What we know and still don’t know",
+      "url": "https://www.nytimes.com/athletic/7687268/2026/10/14/commanders-final-botched-play-questions-process/"
+    },
+    {
+      "category": "Giants",
       "description": "Jayden Daniels scored twice, Jameis Winston rallied New York to OT, Cam Skattebo fumbled and Washington couldn't stop the clock at the end.",
       "published": "2026-10-11T13:59:00+00:00",
       "title": "Commanders, Giants commit gaffes in OT, leading to bizarre tie. What just happened?",
@@ -16,10 +23,10 @@
     },
     {
       "category": "Giants",
-      "description": "The Giants didn't have any good answers for what happened this season, and it was more of the same in their postseason media availability.",
-      "published": "2026-09-30T05:31:00+00:00",
-      "title": "Buster Posey says Giants can contend in 2027, but whom is he convincing?",
-      "url": "https://www.nytimes.com/athletic/7644566/2026/09/30/buster-posey-sf-giants-contend-2027/"
+      "description": "After calling games together in the dugout as players, Mike Krukow and Duane Kuiper became one of the most beloved broadcasting duos in baseball. Tony Avelar / Associated Press SAN FRANCISCO — First ...",
+      "published": "2026-09-28T06:58:00+00:00",
+      "title": "In good times and bad, Mike Krukow and Duane Kuiper were the soul of Giants baseball",
+      "url": "https://www.nytimes.com/athletic/7638793/2026/09/28/sf-giants-mike-krukow-retirement-ceremony/"
     },
     {
       "category": "Giants",
@@ -34,23 +41,9 @@
       "published": "2026-05-02T17:00:00+00:00",
       "title": "Giants to call up Bryce Eldridge, Jesus Rodriguez after disastrous road trip: Source",
       "url": "https://www.nytimes.com/athletic/7251132/2026/05/03/sf-giants-bryce-eldridge-jesus-rodriguez-call-up/"
-    },
-    {
-      "category": "Giants",
-      "description": "Kyle Harrison would look pretty good atop the Giants' rotation this season. Patrick McDermott / Getty Images Every time you log onto the Internet, it seems like there’s something designed to break the ...",
-      "published": "2026-07-02T10:28:00+00:00",
-      "title": "Who’s having the better 2026: The current Giants or the ex-Giants?",
-      "url": "https://www.nytimes.com/athletic/7416665/2026/07/02/sf-giants-roster-analysis-former-players/"
-    },
-    {
-      "category": "Giants",
-      "description": "Home fans booed Rafael Devers and the Giants during Saturday night's loss to the Pirates. Thearon W. Henderson / Getty Images SAN FRANCISCO — Giants president Buster Posey understood the value that ...",
-      "published": "2026-05-10T04:54:00+00:00",
-      "title": "Bryce Eldridge hits his first homer, but boo birds emerge in Giants’ 13-3 loss",
-      "url": "https://www.nytimes.com/athletic/7267303/2026/05/10/giants-loss-boo-birds-bryce-eldridge/"
     }
   ],
-  "generated_at": "2026-10-14T09:09:13.768552+00:00",
+  "generated_at": "2026-10-14T14:30:21.983352+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/giants/"
 }

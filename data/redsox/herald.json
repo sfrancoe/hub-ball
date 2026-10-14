@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox starting rotation was expected to be good from the beginning, but even with Garrett Crochet’s injury the group still exceeded all expectations.",
+      "published": "2026-10-14T09:30:34Z",
+      "title": "Red Sox Report Cards: Starting rotation surpasses high expectations",
+      "url": "https://www.bostonherald.com/2026/10/14/red-sox-report-cards-starting-rotation-surpasses-high-expectations/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Over the past year the Red Sox have traded away a haul of pitching prospects, but one recent draft pick has emerged as a potential impact arm.",
       "published": "2026-10-13T09:30:34Z",
       "title": "Skilled lefty emerges as Red Sox fast-rising pitching prospect",
@@ -104,16 +111,9 @@
       "published": "2026-10-03T10:30:51Z",
       "title": "Starr: Less math, more bats should be Red Sox offseason strategy",
       "url": "https://www.bostonherald.com/2026/10/03/red-sox-starr-less-math-more-bats-should-be-offseason-strategy/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "One of the Red Sox’s biggest second-half contributors underwent successful surgery on Friday.",
-      "published": "2026-10-02T15:38:32Z",
-      "title": "Unlikely 2026 Red Sox hero Mickey Gasper undergoes surgery",
-      "url": "https://www.bostonherald.com/2026/10/02/red-sox-injuries-mickey-gasper-successful-surgery-biceps-tendon-repair-boston-mgh-hospital-mlb-news/"
     }
   ],
-  "generated_at": "2026-10-13T15:30:04.178238+00:00",
+  "generated_at": "2026-10-14T14:29:33.389531+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Jeremy Peña has proved to be a catalyst atop the Astros' lineup for two straight seasons, but had an injury-marred 2026 and is heading into the last year of team control.",
+      "published": "2026-10-14T04:00:00+00:00",
+      "title": "Houston Astros roster analysis: Shortstop. Will Jeremy Peña get extension and buck trend?",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-astros-roster-analysis-jeremy-pe-a-22475893.php"
+    },
+    {
+      "category": "Astros",
       "description": "Jose Altuve had his moments in 2026 but his production dipped and questions remained about his defense creating an issue of how best to use him.",
       "published": "2026-10-13T04:00:00+00:00",
       "title": "Houston Astros roster analysis: Second base. How best can team use Jose Altuve?",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Astros",
-      "description": "The Astros' lone trade-deadline acquisition struggled at the plate after arriving from Toronto and won't return for any playoff action if the team advances.",
-      "published": "2026-09-30T12:30:00+00:00",
-      "title": "Daulton Varsho won't return to Houston Astros this season after undergoing wrist surgery",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/daulton-varsho-wrist-surgery-season-over-22456664.php"
-    },
-    {
-      "category": "Astros",
       "description": "A closer look at five key moments from Game 2 as the White Sox ended the Astros' season with a wild-card round sweep.",
       "published": "2026-09-29T17:00:00+00:00",
       "title": "5 key moments from Houston Astros' Game 2 loss to Chicago White Sox in AL wild-card series",
@@ -58,10 +58,10 @@
     },
     {
       "category": "Astros",
-      "description": "Some Houston Astros fans booed the home team during Tuesday's Game 1 loss. Before Game 2, Joe Espada talked to his team about it, then publicly said how much he loves Houston fans.",
-      "published": "2026-09-30T08:09:00+00:00",
-      "title": "Astros' Joe Espada acknowledges boos from Houston crowd in playoffs but adds 'I love our fans'",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/crowd-boos-joe-espada-bennett-sousa-22456506.php"
+      "description": "The Astros' lone trade-deadline acquisition struggled at the plate after arriving from Toronto and won't return for any playoff action if the team advances.",
+      "published": "2026-09-30T12:30:00+00:00",
+      "title": "Daulton Varsho won't return to Houston Astros this season after undergoing wrist surgery",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/daulton-varsho-wrist-surgery-season-over-22456664.php"
     },
     {
       "category": "Astros",
@@ -71,7 +71,7 @@
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-chicago-white-sox-score-game-2-22455855.php"
     }
   ],
-  "generated_at": "2026-10-14T09:09:07.263971+00:00",
+  "generated_at": "2026-10-14T14:29:59.651097+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

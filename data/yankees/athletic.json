@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Stanton, who turns 37 in November, doesn't have a clear fit on the roster. Will the Yankees move on from him?",
+      "published": "2026-10-14T11:00:30+00:00",
+      "title": "Yankees' 3 pressing roster questions: What to do with Giancarlo Stanton?",
+      "url": "https://www.nytimes.com/athletic/7688231/2026/10/14/yankees-roster-questions-giancarlo-stanton/"
+    },
+    {
+      "category": "Yankees",
       "description": "Our thoughts on each impending free agent, including our predictions on who might stay with the Yankees and who might depart.",
       "published": "2026-10-13T10:01:56+00:00",
       "title": "Predicting outcomes for all 10 of Yankees' free agents: Who stays, who goes?",
@@ -132,16 +139,9 @@
       "published": "2026-10-05T09:00:02+00:00",
       "title": "Ben Rice’s rise from Ivy League to Yankees star can be explained by 5 words (in Spanish)",
       "url": "https://www.nytimes.com/athletic/7660449/2026/10/05/ben-rice-yankees-college-routine/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Rasmussen is a pitching savant. He pours over scouting reports. He obsesses over pitch sequences.",
-      "published": "2026-10-04T09:10:43+00:00",
-      "title": "Drew Rasmussen's Yankees mastery continues in Game 1. 'Dialed in' Rays ace looks untouchable",
-      "url": "https://www.nytimes.com/athletic/7657200/2026/10/04/drew-rasmussen-mlb-playoffs-no-hitter-rays-yankees/"
     }
   ],
-  "generated_at": "2026-10-13T15:30:14.952247+00:00",
+  "generated_at": "2026-10-14T14:29:41.645412+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }
