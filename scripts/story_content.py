@@ -88,6 +88,8 @@ def validate_payload(payload, entry=None):
         return validate_out_grid(payload, entry)
     if payload['renderer'] == 'chart-trajectory':
         return validate_trajectory(payload, entry)
+    if payload['renderer'] == 'grouped-unit-grid':
+        return validate_grouped_grid(payload, entry)
     require(payload['renderer'] == 'guess-reveal' and type(payload['rendererVersion']) is int and payload['rendererVersion'] == 1, 'Unsupported story renderer')
     for field, limit in [('title', 160), ('kicker', 160), ('intro', 2000), ('question', 300), ('answerTitle', 200), ('answer', 2000), ('conclusion', 2000)]:
         text(payload[field], limit)
@@ -249,4 +251,32 @@ def validate_out_grid(payload, entry=None):
         require(url.scheme == 'https' and url.hostname and not url.username and not url.password and len(source['url']) <= 2000, 'Unsafe source URL')
     if entry:
         require(all(payload[k] == entry[k] for k in ['id', 'title', 'renderer', 'rendererVersion']) and entry['minimumRendererVersion'] >= 4, 'Grid capability or identity mismatch')
+    return payload
+
+
+def validate_grouped_grid(payload, entry=None):
+    require(type(payload['rendererVersion']) is int and payload['rendererVersion'] == 1 and payload['unit'] == 'at-bat', 'Unsupported grouped at-bat grid')
+    for field, limit in [('title',160),('deck',800),('payoff',400),('caveat',2000),('groupedCaption',160),('finalCaption',160)]:
+        text(payload[field], limit)
+    opening, payoff, duration = (payload[k] for k in ['openingSeconds','payoffSeconds','durationSeconds'])
+    for value in [opening, payoff, duration]:
+        require(type(value) in [int,float] and math.isfinite(value), 'Non-finite grouped-grid timing')
+    require(2 <= duration <= 20 and 0 <= opening <= 3 and opening < payoff <= duration - 1, 'Invalid grouped-grid timing')
+    groups = payload['groups']; require(isinstance(groups,list) and 1 <= len(groups) <= 6, 'Invalid group count'); unique(groups)
+    total = 0
+    for group in groups:
+        identifier(group['id']); text(group['label'],60); integer(group['atBats'],1,120); integer(group['hits'],0,group['atBats'])
+        start,end = group['revealStartSeconds'],group['revealEndSeconds']
+        require(all(type(v) in [int,float] and math.isfinite(v) for v in [start,end]) and opening <= start < end <= payoff, 'Invalid group reveal')
+        total += group['atBats']
+    require(total <= 120, 'Too many grouped at-bats')
+    ordered = sorted(groups,key=lambda g:g['revealStartSeconds'])
+    require(all(g['revealStartSeconds'] >= ordered[i-1]['revealEndSeconds'] for i,g in enumerate(ordered) if i), 'Overlapping group reveals')
+    require(1 <= len(payload['methodology']) <= 12 and 1 <= len(payload['sources']) <= 12, 'Missing provenance'); unique(payload['sources'])
+    for paragraph in payload['methodology']: text(paragraph)
+    for source in payload['sources']:
+        identifier(source['id']); text(source['title'],200); timestamp(source['retrievedAt'])
+        url = urlsplit(source['url']); require(url.scheme == 'https' and url.hostname and not url.username and not url.password and len(source['url']) <= 2000,'Unsafe source URL')
+    if entry:
+        require(all(payload[k] == entry[k] for k in ['id','title','renderer','rendererVersion']) and entry['minimumRendererVersion'] >= 6, 'Grouped-grid capability or identity mismatch')
     return payload

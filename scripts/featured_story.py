@@ -20,7 +20,7 @@ def validate(value):
     require(dates['publishedAt'] <= dates['expiresAt'], 'Publication after expiry')
     if value['enabled']:
         validate_entry(value['entry'])
-        require(value['entry']['rendererVersion'] == 1 and value['entry']['renderer'] in ['guess-reveal','chart-trajectory','inning-out-grid'], 'Unsupported bundled renderer')
+        require(value['entry']['rendererVersion'] == 1 and value['entry']['renderer'] in ['guess-reveal','chart-trajectory','inning-out-grid','grouped-unit-grid'], 'Unsupported bundled renderer')
     else:
         require(value['entry'] is None, 'Disabled pointer must have no entry')
     return value
