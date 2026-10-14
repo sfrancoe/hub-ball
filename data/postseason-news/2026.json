@@ -1,13 +1,97 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-14T00:38:52.591861+00:00",
+  "generatedAt": "2026-10-14T05:29:53.700006+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Plant City’s Parker Messick doesn’t allow an earned run, but takes Game 2 loss",
+      "description": "Jose Ramirez’s error in the fourth inning proves costly for Cleveland vs. the Rays.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/14/parker-messick-jose-ramirez-error-game-2-alcs/",
+      "published": "2026-10-14T04:36:03.282000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Freddy Peralta, Liam Hicks help Rays even series with Guardians at 1-1",
+      "description": "Three unearned runs in the fourth inning were enough for the Rays.",
+      "url": "https://www.bostonglobe.com/2026/10/14/sports/rays-guardians-game-2-alcs/",
+      "published": "2026-10-14T04:01:32.961000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Joe Girardi believes Yankees have accountability issue after another playoff flop",
+      "description": "",
+      "url": "https://nypost.com/2026/10/13/sports/joe-girardi-thinks-yankees-have-accountability-issue/",
+      "published": "2026-10-14T03:48:15+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays, looking like themselves, bounce back to beat Guardians, even ALCS",
+      "description": "Freddy Peralta delivers a strong six-inning start, and a small-ball fourth inning provides the offense for Tampa Bay.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/13/alcs-game-2-guardians-freddy-peralta-liam-hicks-chandler-simpson-jose-ramirez-parker-messick/",
+      "published": "2026-10-14T03:05:07.229000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Dodgers should have taken Shohei Ohtani off the postseason roster",
+      "description": "The Dodgers failed Shohei Ohtani this summer, but now they need to do what is best and set him down for the duration of the playoffs.",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-13/dodgers-shohei-ohtani-postseason-roster",
+      "published": "2026-10-14T02:31:06.377000+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "In letter, Padres’ new owners reaffirm commitment to World Series aim",
+      "description": "The Padres’ new owners continue to pledge action. In an email sent to season-ticket holders on Tuesday, Kwanza Jones and José E. Feliciano thanked fans for their support and reaffirmed their ...",
+      "url": "https://www.sandiegouniontribune.com/2026/10/13/padres-owners-reaffirm-commitment-to-world-series-aim/",
+      "published": "2026-10-14T01:02:19+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Ex-Yankees manager defends Aaron Boone after latest bitter exit",
+      "description": "",
+      "url": "https://nypost.com/2026/10/13/sports/joe-girardi-defends-aaron-boone-after-bitter-yankees-exit/",
+      "published": "2026-10-14T00:53:39+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "A Cy Young Award won’t fill ace’s Yankees championship void",
       "description": "",
@@ -21,8 +105,8 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Rays happy Caminero and DeLuca feeling good, able to start ALCS Game 2",
-      "description": "Notes | After a scary collision during the ninth inning Monday, both are back in the lineup and feeling fine.",
+      "title": "Rays’ Griffin Jax gets the nod to start Game 3 of ALCS in Cleveland",
+      "description": "Notes | Plus: Everyone OK after collision aftermath, a familiar face reports for first-pitch duties.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/13/junior-caminero-jonny-deluca-collision-alcs-rangers-nathaniel-lowe-drew-rasmussen/",
       "published": "2026-10-13T21:51:43.274000+00:00",
       "source": "Tampa Bay Times",
@@ -31,6 +115,18 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays capitalize on Guardians’ defensive blunders, top Cleveland in Game 2 to even ALCS",
+      "description": "Freddy Peralta delivered a dominant outing for Tampa Bay on Tuesday, and the fourth inning played out in typical Rays fashion.",
+      "url": "https://www.nytimes.com/athletic/7686878/2026/10/13/rays-guardians-game-2-score-results-takeaways-mlb-alcs-2026/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
     },
     {
       "title": "At Tropicana Field, upper deck Rays fans are back in the game",
@@ -69,9 +165,9 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Guardians stun Rays, 7-3, with late rally to take Game 1 of ALCS",
-      "description": "The Guardians rally late to beat the Rays in Game 1 of the ALCS. It was their fourth straight win this postseason.",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-stun-rays-7-3-with-late-rally-to-take-game-1-of-alcs.html",
+      "title": "Rays score three times after Jose Ramirez’s error to beat Guardians, 3-1; ALCS tied at 1-1",
+      "description": "Ramirez’s error at third base allowed the Rays to score three unearned runs in the fourth inning in a 3-1 win in Game 2 of the American League Championship Series at Tropicana Field. The best-of-seven ...",
+      "url": "https://www.cleveland.com/guardians/2026/10/rays-score-three-times-after-jose-ramirezs-error-to-beat-guardians-3-1-alcs-tied-at-1-1.html",
       "published": "",
       "source": "Cleveland.com",
       "teamId": 114,
@@ -81,63 +177,15 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Nathaniel Lowe’s biggest swing in ALCS opener shows why Guardians needed a ‘professional hitter’",
-      "description": "Nathaniel Lowe ripped a go-ahead two-run single against his former team in Game 1 of the ALCS, showing why the Cleveland Guardians acquired him.",
-      "url": "https://www.cleveland.com/guardians/2026/10/nathaniel-lowes-professional-approach-pays-off-in-biggest-moment-of-guardians-alcs-opener.html",
-      "published": "",
-      "source": "Cleveland.com",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "5 big-picture questions as Braves enter offseason",
-      "description": "Outside speculation has centered on Acuña, an all-world talent with two team-friendly club options remaining ($17 million) before he’s set to explore free agency for the first time. He’s undoubtedly ...",
-      "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-offseason-questions/",
-      "published": "2026-10-13T15:45:15.300000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Braves have decisions to make on future with Acuña, Albies",
-      "description": "Ronald Acuña Jr. and Ozzie Albies — are at a crossroads, with the Braves having to decide whether to allow them to become free agents.",
-      "url": "https://www.ajc.com/sports/2026/10/braves-acuna-albies-contract-option-decision/",
-      "published": "2026-10-13T15:06:43.110000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Guardians vs. Rays score, live updates: Cleveland, Tampa Bay scoreless in second inning",
-      "description": "Follow live coverage as Tampa Bay hosts Cleveland in Game 2 of the ALCS at Tropicana Field.",
-      "url": "https://www.nytimes.com/athletic/live-blogs/guardians-vs-rays-live-updates-mlb-playoffs-game-2-score-result/cNw8Rm1ZEKCK/",
+      "title": "Shohei Ohtani to remain in Dodgers’ lineup for Game 3, Dave Roberts says",
+      "description": "LOS ANGELES — Shohei Ohtani will remain in the Los Angeles Dodgers’ lineup for Game 3 of the National League Championship Series, manager Dave Roberts said Tuesday.",
+      "url": "https://www.nytimes.com/athletic/7688064/2026/10/13/shohei-ohtani-playing-nlcs-dodgers-brewers/",
       "published": "",
       "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Guardians Stephen Vogt stays with Austin Hedges as Parker Messick’s personal catcher in ALCS Game 2",
-      "description": "Stephen Vogt spent 10 years in the big leagues. He spent most of that time as a catcher, kneeling behind the plate encouraging pitchers to throw strikes. He wasn’t all that crazy about pitchers having ...",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-stephen-vogt-stays-with-austin-hedges-as-parker-messicks-personal-catcher-in-alcs-game-2.html",
-      "published": "",
-      "source": "Cleveland.com",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
       "publishedSource": "unverified"
     }
   ]
