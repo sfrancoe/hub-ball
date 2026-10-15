@@ -1,23 +1,24 @@
 {
   "enabled": true,
   "entry": {
-    "fallback": "Six postseason games through October 12. Pages: 2 for 3.\nEveryone else: 0 for 23.",
-    "id": "pages-two-of-twenty-six",
-    "minimumRendererVersion": 6,
-    "publishedAt": "2026-10-14T00:00:43Z",
-    "renderer": "grouped-unit-grid",
+    "fallback": "Chourio’s 18 RBI set the before-23 postseason record. Jones: 17 RBI · 128 at-bats; Chourio: 18 RBI · 74 at-bats",
+    "id": "chourio-before-23",
+    "minimumRendererVersion": 2,
+    "publishedAt": "2026-10-15T13:28:25Z",
+    "renderer": "chart-trajectory",
     "rendererVersion": 1,
-    "revision": "e45b7069243459ad82bf989cc4d7d04633187a02ba3606a16cae191957f61e5f",
-    "summary": "Six postseason games through October 12. 26 at-bats with runners in scoring position. Two hits. Both by Andy Pages.",
+    "revision": "a5153ffa87569f31a74557f9a5545978a2ec69303724248de0370ede0c76af71",
+    "summary": "Jackson Chourio · Milwaukee Brewers; Andruw Jones · Atlanta Braves. Postseason before age 23.",
     "teamIDs": [
-      119
+      158,
+      144
     ],
-    "title": "One man. Both hits."
+    "title": "Milwaukee’s Chourio’s 18 RBI set the before-23 postseason record."
   },
-  "expiresAt": "2026-10-15T00:00:43Z",
+  "expiresAt": "2026-10-15T17:00:00Z",
   "minimumBuild": 130,
-  "notBefore": "2026-10-14T00:00:43Z",
-  "publishedAt": "2026-10-14T00:00:43Z",
-  "revision": "pages-dated-snapshot-public-130",
+  "notBefore": "2026-10-15T13:28:25Z",
+  "publishedAt": "2026-10-15T13:28:25Z",
+  "revision": "chourio-october15-approved",
   "schemaVersion": 1
 }

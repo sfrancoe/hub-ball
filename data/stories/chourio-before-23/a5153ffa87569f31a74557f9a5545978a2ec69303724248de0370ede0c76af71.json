@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "chourio-before-23",
+  "renderer": "chart-trajectory",
+  "rendererVersion": 1,
+  "title": "Milwaukee’s Chourio’s 18 RBI set the before-23 postseason record.",
+  "kicker": "POSTSEASON BEFORE AGE 23",
+  "intro": "Jackson Chourio · Milwaukee Brewers; Andruw Jones · Atlanta Braves. Postseason before age 23.",
+  "chart": {
+    "kind": "bar",
+    "durationSeconds": 3,
+    "xAxis": {
+      "label": "1 = Andruw Jones; 2 = Jackson Chourio",
+      "minimum": 1,
+      "maximum": 2,
+      "ticks": [
+        1,
+        2
+      ]
+    },
+    "yAxis": {
+      "label": "Count",
+      "minimum": 0,
+      "maximum": 140,
+      "ticks": [
+        0,
+        20,
+        40,
+        60,
+        80,
+        100,
+        120,
+        140
+      ]
+    },
+    "series": [
+      {
+        "id": "rbi",
+        "label": "RBI",
+        "color": "navy",
+        "points": [
+          {
+            "x": 1,
+            "y": 17
+          },
+          {
+            "x": 2,
+            "y": 18
+          }
+        ]
+      },
+      {
+        "id": "at-bats",
+        "label": "At-bats",
+        "color": "coral",
+        "points": [
+          {
+            "x": 1,
+            "y": 128
+          },
+          {
+            "x": 2,
+            "y": 74
+          }
+        ]
+      }
+    ],
+    "emphasis": []
+  },
+  "conclusion": "Chourio’s 18 RBI set the before-23 postseason record. Jones: 17 RBI · 128 at-bats; Chourio: 18 RBI · 74 at-bats",
+  "methodology": [
+    "Chourio through October 14, 2026; Jones, 1996–1999. At-bats provide context, not equal RBI opportunities.",
+    "RBI and at-bats are distinct counts, not components of a whole. Jones 17 RBI / 128 AB; Chourio 18 RBI / 74 AB. No hit or RBI percentage is plotted or asserted.",
+    "Chourio 2024–2026 through October 14; Jones 1996–1999, before his 23rd birthday. MLB reports the record, official year-by-year statistics reproduce the counts."
+  ],
+  "sources": [
+    {
+      "id": "chourio-rbi-ab-source-1",
+      "title": "MLB · Chourio’s postseason RBI record before age 23",
+      "url": "https://www.mlb.com/news/jackson-chourio-hits-first-pitch-home-run-in-nlcs-game-3",
+      "retrievedAt": "2026-10-15T12:07:03Z"
+    },
+    {
+      "id": "chourio-rbi-ab-source-2",
+      "title": "MLB official · Jackson Chourio postseason year-by-year",
+      "url": "https://statsapi.mlb.com/api/v1/people/694192/stats?stats=yearByYear&group=hitting&gameType=P",
+      "retrievedAt": "2026-10-15T12:14:42Z"
+    },
+    {
+      "id": "chourio-rbi-ab-source-3",
+      "title": "MLB official · Andruw Jones postseason year-by-year",
+      "url": "https://statsapi.mlb.com/api/v1/people/116662/stats?stats=yearByYear&group=hitting&gameType=P",
+      "retrievedAt": "2026-10-15T12:14:42Z"
+    }
+  ]
+}

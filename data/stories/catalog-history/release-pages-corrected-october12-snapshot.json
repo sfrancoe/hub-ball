@@ -1,0 +1,64 @@
+{
+  "publishedAt": "2026-10-14T00:00:43Z",
+  "revision": "release-pages-corrected-october12-snapshot",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "fallback": "Six postseason games through October 12. Pages: 2 for 3.\nEveryone else: 0 for 23.",
+      "id": "pages-two-of-twenty-six",
+      "minimumRendererVersion": 6,
+      "publishedAt": "2026-10-14T00:00:43Z",
+      "renderer": "grouped-unit-grid",
+      "rendererVersion": 1,
+      "revision": "e45b7069243459ad82bf989cc4d7d04633187a02ba3606a16cae191957f61e5f",
+      "summary": "Six postseason games through October 12. 26 at-bats with runners in scoring position. Two hits. Both by Andy Pages.",
+      "teamIDs": [
+        119
+      ],
+      "title": "One man. Both hits."
+    },
+    {
+      "fallback": "Griffin returned from Japan and pitched 172⅔ MLB innings in 2026. Before this year, his entire major-league career added up to eight.",
+      "id": "griffin-eight-innings-alcs",
+      "minimumRendererVersion": 5,
+      "publishedAt": "2026-10-12T15:02:15Z",
+      "renderer": "chart-trajectory",
+      "rendererVersion": 1,
+      "revision": "3b898e555f41a1c36c9113f171c2d034d83639fe43ebeec52a04735347ae7174",
+      "summary": "Eight MLB innings before this season. Three years in Japan. Now, Cleveland’s Game 1 starter.",
+      "teamIDs": [
+        114
+      ],
+      "title": "Eight innings. Then an ALCS start."
+    },
+    {
+      "fallback": "On June 23, Chicago had matched a whole season of wins. Win 42 came on June 26. By August 9, Chicago had passed 2025’s 60 wins, too. The 2026 finish: 84–78—43 more wins than two years earlier.",
+      "id": "whole-season-by-june",
+      "minimumRendererVersion": 3,
+      "publishedAt": "2026-10-09T01:06:47Z",
+      "renderer": "chart-trajectory",
+      "rendererVersion": 1,
+      "revision": "6324811453827288472a78036847e5165dcdbf47cfd98b0b66d73c0c42eef2d1",
+      "summary": "Three seasons. First 2024, then 2025, then 2026. Watch Chicago match a whole season of wins before halfway through the year.",
+      "teamIDs": [
+        145
+      ],
+      "title": "A Whole Season of Wins. By June."
+    },
+    {
+      "fallback": "Ball A was caught. Ball B cleared the right-field wall. The shorter swing put a run on the board. Where a ball goes matters as much as how far it goes.",
+      "id": "this-stadium",
+      "minimumRendererVersion": 1,
+      "publishedAt": "2026-10-08T11:24:00Z",
+      "renderer": "guess-reveal",
+      "rendererVersion": 1,
+      "revision": "d202194b0b1475f12378c55486ef3c9a85da3665090a90677e3ca57f22efa2a2",
+      "summary": "Two Vilade swings: 356 feet and 340 feet. Guess which one left the yard, then take it around all 30 parks.",
+      "teamIDs": [
+        139,
+        147
+      ],
+      "title": "The home run that needed this stadium"
+    }
+  ]
+}
