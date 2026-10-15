@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Brewers",
-      "description": "Snell marveled that Milwaukee's Jake Bauers fought him off for so long before belting a homer: 'What an at-bat. I threw everything I had.' ...",
-      "published": "2026-10-15T05:00:00+00:00",
-      "title": "The Brewers erased the Dodgers’ pitching advantage by blasting Blake Snell",
-      "url": "https://www.nytimes.com/athletic/7685332/2026/10/15/dodgers-nlcs-game-3-mlb-playoffs-blake-snell/"
-    },
-    {
-      "category": "Brewers",
       "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
       "published": "2026-10-14T14:00:00+00:00",
       "title": "Milwaukee powers past Los Angeles in MLB playoffs NLCS Game 3: Brewers vs. Dodgers live updates, reaction",
@@ -23,6 +16,13 @@
     },
     {
       "category": "Brewers",
+      "description": "Snell marveled that Milwaukee's Jake Bauers fought him off for so long before belting a homer: 'What an at-bat. I threw everything I had.' ...",
+      "published": "2026-10-15T05:00:00+00:00",
+      "title": "The Brewers erased the Dodgers’ pitching advantage by blasting Blake Snell",
+      "url": "https://www.nytimes.com/athletic/7685332/2026/10/15/dodgers-nlcs-game-3-mlb-playoffs-blake-snell/"
+    },
+    {
+      "category": "Brewers",
       "description": "With an impressive 11-pitch at-bat in the seventh inning, Jake Bauers helped lift the Brewers to a Game 3 win.",
       "published": "2026-10-15T03:00:00+00:00",
       "title": "Jake Bauers never gave up. That resilient spirit helped deliver October glory",
@@ -31,7 +31,7 @@
     {
       "category": "Brewers",
       "description": "Don't go halfway, make the extra trade and homers are overrated are just some of the takeaways we've learned this season.",
-      "published": "2026-10-15T02:24:00+00:00",
+      "published": "2026-10-15T08:34:00+00:00",
       "title": "One important lesson to draw from each of MLB’s remaining postseason teams",
       "url": "https://www.nytimes.com/athletic/7687797/2026/10/15/mlb-playoffs-dodgers-brewers-guardians-rays/"
     },
@@ -52,7 +52,7 @@
     {
       "category": "Brewers",
       "description": "The Rays and Brewers have overcome smaller payrolls by investing in technology and having novel approaches to coaching and roster construction.",
-      "published": "2026-10-14T12:28:00+00:00",
+      "published": "2026-10-14T08:34:00+00:00",
       "title": "Rays, Brewers always outperform expectations. These ‘Moneyball’-like edges are the key",
       "url": "https://www.nytimes.com/athletic/7684373/2026/10/14/brewers-rays-analytics-moneyball-mlb-playoffs/"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.nytimes.com/athletic/7685932/2026/10/13/brewers-two-game-lead-dodgers-nlcs-mlb-playoff-history/"
     }
   ],
-  "generated_at": "2026-10-15T18:27:25.178570+00:00",
+  "generated_at": "2026-10-15T21:37:03.642740+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }

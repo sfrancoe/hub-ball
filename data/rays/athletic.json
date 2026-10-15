@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Guardians seized control of the American League Championship Series with a 3-2 victory over the Rays in Game 3 on Thursday.",
+      "published": "2026-10-15T19:45:49+00:00",
+      "title": "Guardians, lifted by a Gavin Williams gem and Petey Halpin blast, roll to a Game 3 win",
+      "url": "https://www.nytimes.com/athletic/7691066/2026/10/15/rays-guardians-game-3-score-results-takeaways-mlb-alcs-2026/"
+    },
+    {
+      "category": "Rays",
       "description": "Junior Caminero wasn't the Rays' first choice when in trade talks with Cleveland. But dealing him has become the Guardians' biggest regret.",
       "published": "2026-10-15T09:30:34+00:00",
       "title": "The Guardians traded Junior Caminero to the Rays. Now he's a superstar blocking their World Series path",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T04:36:21+00:00",
       "title": "Junior Caminero adopts familiar troll after Rays sweep New York: 'Theeee Yankees lose!'",
       "url": "https://www.nytimes.com/athletic/7670560/2026/10/08/junior-caminero-yankees-rays-sweep-trolling/"
-    },
-    {
-      "category": "Rays",
-      "description": "An overturned homer loomed large as the Rays, perhaps the most complete team remaining, ended their rival's season in sweeping fashion.",
-      "published": "2026-10-08T03:40:58+00:00",
-      "title": "Yankees can't grab a game as they're swept away by Rays in disappointing ALDS",
-      "url": "https://www.nytimes.com/athletic/7670332/2026/10/07/yankees-rays-takeaways-game-3-alds-score/"
     }
   ],
-  "generated_at": "2026-10-15T18:27:03.134496+00:00",
+  "generated_at": "2026-10-15T21:36:51.486178+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

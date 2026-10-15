@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Diamondbacks",
+      "description": "The Arizona Diamondbacks are expected to stay in-house by making Chris Garagiola their next TV play-by-play voice.",
+      "published": "2026-10-15T04:34:00+00:00",
+      "title": "Diamondbacks decide their next TV play-by-play announcer | Exclusive",
+      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/15/chris-garagiola-diamondbacks-play-by-play-broadcast/92267249007/"
+    },
+    {
+      "category": "Diamondbacks",
       "description": "The Diamondbacks rewarded mediocrity by extending Torey Lovullo despite his losing record and questionable game management.",
       "published": "2026-10-12T22:02:00+00:00",
       "title": "Diamondbacks settle for ‘good enough’ | Letters",
@@ -37,20 +44,6 @@
     },
     {
       "category": "Diamondbacks",
-      "description": "Arizona is betting on continuity, keeping Torey Lovullo alongside GM Mike Hazen through 2028 despite a third straight playoff miss.",
-      "published": "2026-10-01T11:38:00+00:00",
-      "title": "Season 'not good enough' but Diamondbacks, Lovullo agree to 2-year deal",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/01/arizona-diamondbacks-manager-torey-lovullo-sign-contract-latest-news/91907956007/"
-    },
-    {
-      "category": "Diamondbacks",
-      "description": "The Diamondbacks are parting ways with longtime broadcaster Steve Berthiaume, opting not to bring him back after 14 seasons as their television play-by-play voice. “His contract is up and we felt it ...",
-      "published": "2026-10-05T03:45:00+00:00",
-      "title": "Diamondbacks make major change on television broadcasts | Exclusive",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/05/steve-berthiaume-arizona-diamondbacks-news/92107489007/"
-    },
-    {
-      "category": "Diamondbacks",
       "description": "Arizona Diamondbacks owner Ken Kendrick told The Burns & Gambo Show on Arizona Sports that the team will have a lower payroll in 2027 than 2026.",
       "published": "2026-10-02T14:25:00+00:00",
       "title": "Arizona Diamondbacks owner reveals how much team will spend in 2027",
@@ -58,13 +51,13 @@
     },
     {
       "category": "Diamondbacks",
-      "description": "The Diamondbacks’ end-of-year press conferences on Thursday, Oct. 1, largely were dominated by talk of manager Torey Lovullo’s return for another year. Coming off another playoff miss, it seemed ...",
-      "published": "2026-10-02T03:18:00+00:00",
-      "title": "Diamondbacks takeaways. What to do with Ketel Marte, offseason upgrades",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/02/arizona-diamondbacks-takeaways-2026-season/92057705007/"
+      "description": "The Diamondbacks are parting ways with longtime broadcaster Steve Berthiaume, opting not to bring him back after 14 seasons as their television play-by-play voice. “His contract is up and we felt it ...",
+      "published": "2026-10-05T03:45:00+00:00",
+      "title": "Diamondbacks make major change on television broadcasts | Exclusive",
+      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/05/steve-berthiaume-arizona-diamondbacks-news/92107489007/"
     }
   ],
-  "generated_at": "2026-10-15T18:27:30.780356+00:00",
+  "generated_at": "2026-10-15T21:37:05.082237+00:00",
   "source": "Arizona Republic",
   "source_url": "https://www.azcentral.com/sports/diamondbacks/"
 }

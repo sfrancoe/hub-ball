@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rockies",
+      "description": "After the trade deadline on Aug. 3, the Rockies’ starters posted a roughly 7.00 ERA. Couple that with the failed pitch-calling experiment and it became enough for the Rockies to move on.",
+      "published": "2026-10-15T14:08:00+00:00",
+      "title": "Rockies fire pitching coach Alon Leichman after one season, per source",
+      "url": "https://www.denverpost.com/2026/10/15/rockies-fire-pitching-coach-alon-leichman/"
+    },
+    {
+      "category": "Rockies",
       "description": "Once again, the Rockies were the worst team in baseball, finishing with 104 losses. That was a 15-win improvement from the disastrous 119-loss season in 2025, which led to a front-office housecleaning ...",
       "published": "2026-10-06T17:06:00+00:00",
       "title": "Paul DePodesta on 2026 Rockies: ‘I’m sort of very dissatisfied with some of the results’",
@@ -36,7 +43,7 @@
       "url": "https://www.denverpost.com/2026/10/09/rockies-pedro-astacio-fixing-rotation/"
     }
   ],
-  "generated_at": "2026-10-15T14:35:14.351709+00:00",
+  "generated_at": "2026-10-15T21:37:05.788590+00:00",
   "source": "Denver Post",
   "source_url": "https://www.denverpost.com/sports/colorado-rockies/"
 }

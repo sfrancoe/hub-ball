@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Twins",
+      "description": "Reith replaces Pete Maki, who was fired after the 2026 season. He spent the past five seasons as pitching coach at Class AAA Durham in the Rays’ farm system.",
+      "published": "2026-10-14T03:10:00+00:00",
+      "title": "Twins hire Brian Reith from Tampa Bay as new pitching coach",
+      "url": "https://www.startribune.com/minnesota-twins-pitching-coach-brian-reith-tampa-bay-rays-pete-maki-derek-shelton-staff-2027-mlb/601901106"
+    },
+    {
+      "category": "Twins",
       "description": "With Derek Falvey, Thad Levine and Daniel Adler gone, Twins GM Jeremy Zoll is weighing whether to bring another experienced voice into baseball operations.",
       "published": "2026-10-14T20:45:00+00:00",
       "title": "Twins have a chance to reshape their front office after leadership departures",
@@ -51,13 +58,6 @@
     },
     {
       "category": "Twins",
-      "description": "A light-rail passenger boarded a Blue Line train full of fans leaving the Minnesota Twins’ Pride Day game one Saturday afternoon in June. Within a few stops of Target Field, the passenger messaged ...",
-      "published": "2025-10-06T06:57:00+00:00",
-      "title": "What a week’s worth of rider text messages reveals about Metro Transit’s problems",
-      "url": "https://www.startribune.com/metro-transit-light-rail-safety/601444850"
-    },
-    {
-      "category": "Twins",
       "description": "Bradley finished 12-6 with a 3.73 ERA and 205 strikeouts in his first full season with the Twins, transforming his preparation and approach along the way.",
       "published": "2026-10-06T20:45:00+00:00",
       "title": "How Twins helped Taj Bradley find his swagger — and his best season yet",
@@ -72,13 +72,13 @@
     },
     {
       "category": "Twins",
-      "description": "The Twins had one of MLB’s worst defenses in 2026. Seven of the 10 best defensive teams made the playoffs, reinforcing Minnesota’s push to get younger, more athletic and better defensively in 2027.",
-      "published": "2026-10-07T20:30:00+00:00",
-      "title": "Twins GM Jeremy Zoll sees team ‘leaving value on the table’ in one key area",
-      "url": "https://www.startribune.com/minnesota-twins-2027-roster-defense-mlb-offseason-moves-walker-jenkins-kaelen-culpepper-brooks-lee/601897947"
+      "description": "A light-rail passenger boarded a Blue Line train full of fans leaving the Minnesota Twins’ Pride Day game one Saturday afternoon in June. Within a few stops of Target Field, the passenger messaged ...",
+      "published": "2025-10-06T06:57:00+00:00",
+      "title": "What a week’s worth of rider text messages reveals about Metro Transit’s problems",
+      "url": "https://www.startribune.com/metro-transit-light-rail-safety/601444850"
     }
   ],
-  "generated_at": "2026-10-15T18:27:15.521261+00:00",
+  "generated_at": "2026-10-15T21:36:56.095655+00:00",
   "source": "Star Tribune",
   "source_url": "https://www.startribune.com/sports/twins/"
 }

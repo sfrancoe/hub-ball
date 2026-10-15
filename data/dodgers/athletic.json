@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
+      "published": "2026-10-14T14:00:00+00:00",
+      "title": "Milwaukee powers past Los Angeles in MLB playoffs NLCS Game 3: Brewers vs. Dodgers live updates, reaction",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Dodgers' season, their pursuit of a World Series three-peat and their dynasty dreams — all are on the brink.",
-      "published": "2026-10-15T04:30:00+00:00",
+      "published": "2026-10-15T09:22:00+00:00",
       "title": "The Dodgers keep squandering chance after chance. It could define their postseason",
       "url": "https://www.nytimes.com/athletic/7685327/2026/10/15/dodgers-mlb-playoffs-offense-nlcs-game-3/"
     },
@@ -16,24 +23,10 @@
     },
     {
       "category": "Dodgers",
-      "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
-      "published": "2026-10-14T14:00:00+00:00",
-      "title": "Milwaukee powers past Los Angeles in MLB playoffs NLCS Game 3: Brewers vs. Dodgers live updates, reaction",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/"
-    },
-    {
-      "category": "Dodgers",
       "description": "What makes the Brewers so tough to beat: small ball or home runs? Well, both. The formula has Milwaukee on the verge of the World Series.",
       "published": "2026-10-15T02:40:00+00:00",
       "title": "Small ball or home runs? Yes. Brewers’ winning formula pushes Dodgers to the brink",
       "url": "https://www.nytimes.com/athletic/7685338/2026/10/15/brewers-small-ball-home-runs-dodgers-nlcs/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Machado finished with 12 OAA, three more than Cubs star Alex Bregman, who finished with nine. Bregman, Los Angeles’ Max Muncy and Miami’s Javier Sanoja were the three finalists for the National League ...",
-      "published": "2026-10-14T11:45:00+00:00",
-      "title": "After ‘best’ defensive year, Manny Machado snubbed for Dodgers rival as Gold Glove finalist",
-      "url": "https://www.nytimes.com/athletic/7690317/2026/10/14/gold-glove-finalists-snubs-manny-machado-max-muncy/"
     },
     {
       "category": "Dodgers",
@@ -72,6 +65,13 @@
     },
     {
       "category": "Dodgers",
+      "description": "Machado finished with 12 OAA, three more than Cubs star Alex Bregman, who finished with nine. Bregman, Los Angeles’ Max Muncy and Miami’s Javier Sanoja were the three finalists for the National League ...",
+      "published": "2026-10-14T11:45:00+00:00",
+      "title": "After ‘best’ defensive year, Manny Machado snubbed for Dodgers rival as Gold Glove finalist",
+      "url": "https://www.nytimes.com/athletic/7690317/2026/10/14/gold-glove-finalists-snubs-manny-machado-max-muncy/"
+    },
+    {
+      "category": "Dodgers",
       "description": "No Brewers team has ever led a best-of-seven playoff series by two games — until now. But they know \"how quickly things can shift.\" ...",
       "published": "2026-10-13T04:00:00+00:00",
       "title": "Up 2, Brewers don’t mind the historic view, but they know Dodgers won’t go quietly",
@@ -85,7 +85,7 @@
       "url": "https://www.nytimes.com/athletic/live-blogs/mlb-playoffs-live-scores-updates-results-nlcs-alcs-news-highlights/TE6EXnGZdKBn/"
     }
   ],
-  "generated_at": "2026-10-15T18:27:31.918870+00:00",
+  "generated_at": "2026-10-15T21:37:06.606651+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }
