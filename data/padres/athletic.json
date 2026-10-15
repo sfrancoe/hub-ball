@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Padres",
-      "description": "The Brewers snapped a streak of 12 road playoff losses, dating to a win over the Dodgers in Game 3 of the 2018 NLCS. They dropped that series in seven games, and the Dodgers swept their rematch last ...",
-      "published": "2026-10-07T22:21:00+00:00",
-      "title": "Brewers dispatch Padres in Game 4, now face rematch with Dodgers in NLCS",
-      "url": "https://www.nytimes.com/athletic/7668347/2026/10/08/brewers-padres-game-4-score-results-takeaways-mlb-nlds-2026/"
-    },
-    {
-      "category": "Padres",
       "description": "After a \"heartbreaking\" end to their season Wednesday night, the Padres face the possibility that a lot is about to change.",
       "published": "2026-10-08T04:54:00+00:00",
       "title": "Another Padres playoff run ends in heartbreak, with offseason questions looming",
@@ -44,20 +37,27 @@
     },
     {
       "category": "Padres",
-      "description": "The 2026 MLB postseason continues today as the Division Series continue with all eight remaining teams in action. In the American League, the Guardians and Rays both have opportunities to clinch spots ...",
-      "published": "2026-10-07T22:48:00+00:00",
-      "title": "Brewers eliminate Padres from Division Series after Dodgers, Rays also clinch: MLB Playoffs live updates, reaction",
-      "url": "https://www.nytimes.com/athletic/live-blogs/mlb-playoffs-live-scores-updates-results-alds-nlds-news-highlights/inE8qsHMcoZh/"
-    },
-    {
-      "category": "Padres",
       "description": "Fernando Tatis Jr. and the San Diego Padres dispatched the Chicago Cubs in the wild-card round. Sean M. Haffey / One of the treats of October is the chance to see something for the first time. Both ...",
       "published": "2026-10-02T03:45:00+00:00",
       "title": "Padres-Brewers NLDS bold predictions and preview: San Diego’s explosive lineup meets the Miz",
       "url": "https://www.nytimes.com/athletic/7651005/2026/10/02/padres-brewers-predictions-preview/"
+    },
+    {
+      "category": "Padres",
+      "description": "The Brewers snapped a streak of 12 road playoff losses, dating to a win over the Dodgers in Game 3 of the 2018 NLCS. They dropped that series in seven games, and the Dodgers swept their rematch last ...",
+      "published": "2026-10-07T22:21:00+00:00",
+      "title": "Brewers dispatch Padres in Game 4, now face rematch with Dodgers in NLCS",
+      "url": "https://www.nytimes.com/athletic/7668347/2026/10/08/brewers-padres-game-4-score-results-takeaways-mlb-nlds-2026/"
+    },
+    {
+      "category": "Padres",
+      "description": "Machado's speech at a team dinner in July helped spring the Padres from what had been a dreary season, and they haven't looked back.",
+      "published": "2026-10-07T05:46:00+00:00",
+      "title": "How Manny Machado and a sushi dinner helped revitalize the Padres",
+      "url": "https://www.nytimes.com/athletic/7662476/2026/10/07/padres-manny-machado-revitalized-win-nlds-brewers/"
     }
   ],
-  "generated_at": "2026-10-15T04:56:31.115273+00:00",
+  "generated_at": "2026-10-15T09:35:35.963651+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/padres/"
 }

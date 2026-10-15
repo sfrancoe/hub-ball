@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Junior Caminero wasn't the Rays' first choice when in trade talks with Cleveland. But dealing him has become the Guardians' biggest regret.",
+      "published": "2026-10-15T09:30:34+00:00",
+      "title": "How the Rays snagged Junior Caminero, the former Guardian prospect now blocking Cleveland's World Series path",
+      "url": "https://www.nytimes.com/athletic/7691299/2026/10/15/junior-caminero-cleveland-guardians-tampa-bay-rays-trade-regret/"
+    },
+    {
+      "category": "Rays",
+      "description": "Don't go halfway, make the extra trade and homers are overrated are just some of the takeaways we've learned this season.",
+      "published": "2026-10-15T09:24:33+00:00",
+      "title": "One important lesson to draw from each of MLB’s remaining postseason teams",
+      "url": "https://www.nytimes.com/athletic/7687797/2026/10/15/mlb-playoffs-dodgers-brewers-guardians-rays/"
+    },
+    {
+      "category": "Rays",
       "description": "Weather in Cleveland could affect the next three games of the tied series.",
       "published": "2026-10-14T16:18:37+00:00",
       "title": "ALCS Game 3 in Cleveland moved to afternoon because of expected inclement weather",
@@ -125,23 +139,9 @@
       "published": "2026-10-08T03:40:58+00:00",
       "title": "Yankees can't grab a game as they're swept away by Rays in disappointing ALDS",
       "url": "https://www.nytimes.com/athletic/7670332/2026/10/07/yankees-rays-takeaways-game-3-alds-score/"
-    },
-    {
-      "category": "Rays",
-      "description": "What seemed like a two-run homer to tie the score in Game 3 of the ALDS was instead ruled an RBI double due to fan interference.",
-      "published": "2026-10-08T02:29:05+00:00",
-      "title": "Anthony Volpe's tying home run in Game 3 overturned after Yankees fan interference",
-      "url": "https://www.nytimes.com/athletic/7670379/2026/10/07/yankees-fan-interference-anthony-volpe-rays/"
-    },
-    {
-      "category": "Rays",
-      "description": "When the Yankees couldn’t get out of their own way in a pressure-packed moment, the Rays turned up the stress level. Again. And again.",
-      "published": "2026-10-06T09:30:49+00:00",
-      "title": "The Rays’ brand of baseball is suffocating the Yankees — and New York is running out of time",
-      "url": "https://www.nytimes.com/athletic/7664820/2026/10/06/rays-yankees-differences-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-14T18:51:17.787648+00:00",
+  "generated_at": "2026-10-15T09:35:25.815715+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

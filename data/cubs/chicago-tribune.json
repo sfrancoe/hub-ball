@@ -30,20 +30,6 @@
     },
     {
       "category": "Cubs",
-      "description": "The Chicago Cubs were eliminated from an NL wild-card series against the San Diego Padres, falling 4-1 late Wednesday. The Cubs had only one extra-base hit in the two-game sweep.",
-      "published": "2026-09-30T22:19:00+00:00",
-      "title": "Chicago Cubs quickly KO’d from playoffs after bats quiet again in 4-1 loss to San Diego Padres",
-      "url": "https://www.chicagotribune.com/2026/10/01/mlb-playoffs-chicago-cubs-padres-sweep/"
-    },
-    {
-      "category": "Cubs",
-      "description": "The Chicago Cubs’ early exit from the playoffs with a 4-1 loss to the San Diego Padres on Wednesday brought a harsh reality in the postgame clubhouse.",
-      "published": "2026-10-01T13:16:00+00:00",
-      "title": "‘He’s the Chicago Cubs’: Ian Happ — team’s longest-tenured player — faces uncertain future after playoff exit",
-      "url": "https://www.chicagotribune.com/2026/10/01/ian-happ-chicago-cubs-future/"
-    },
-    {
-      "category": "Cubs",
       "description": "The Chicago Cubs and White Sox‘s postseason runs have included triumphs and tears for the last 120 years. The last time both teams made the postseason was 2020. The last time they met in the ...",
       "published": "2026-10-01T12:38:00+00:00",
       "title": "Vintage Chicago Tribune: How the Cubs and White Sox have fared in the postseason since 1906",
@@ -55,9 +41,16 @@
       "published": "2026-10-02T15:56:00+00:00",
       "title": "3 Chicago Cubs takeaways from Jed Hoyer’s end-of-season news conference, including his ‘poor job’ building pen",
       "url": "https://www.chicagotribune.com/2026/10/02/chicago-cubs-jed-hoyer-season-takeaways/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The Chicago Cubs’ early exit from the playoffs with a 4-1 loss to the San Diego Padres on Wednesday brought a harsh reality in the postgame clubhouse.",
+      "published": "2026-10-01T13:16:00+00:00",
+      "title": "‘He’s the Chicago Cubs’: Ian Happ — team’s longest-tenured player — faces uncertain future after playoff exit",
+      "url": "https://www.chicagotribune.com/2026/10/01/ian-happ-chicago-cubs-future/"
     }
   ],
-  "generated_at": "2026-10-15T04:56:27.857485+00:00",
+  "generated_at": "2026-10-15T09:35:32.874477+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }
