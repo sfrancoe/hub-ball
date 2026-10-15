@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "Before going with Mattingly at manager, the Phillies requested permission from the Dodgers to contact Utley and Ibanez about the position.",
+      "published": "2026-10-15T03:00:00+00:00",
+      "title": "Phillies reached out to Chase Utley, Raul Ibanez before rehiring Don Mattingly: Sources",
+      "url": "https://www.nytimes.com/athletic/7691356/2026/10/15/phillies-manager-search-chase-utley-raul-ibanez/"
+    },
+    {
+      "category": "Phillies",
       "description": "Long, who was under contract through 2028, has been a hitting coach in the major leagues for 20 consecutive seasons.",
       "published": "2026-10-14T18:26:00+00:00",
       "title": "Phillies fire hitting coach Kevin Long, infield coach Bobby Dickerson: Sources",
@@ -48,16 +55,9 @@
       "published": "2026-10-02T02:00:00+00:00",
       "title": "These Phillies can’t get it done. It’s time for dramatic action",
       "url": "https://www.nytimes.com/athletic/7651175/2026/10/02/phillies-playoffs-problems/"
-    },
-    {
-      "category": "Phillies",
-      "description": "As the Athletics establish Las Vegas as their new headquarters, the search for their next top executive includes Philadelphia Phillies president of business operations Sam Fuld and Chicago Cubs ...",
-      "published": "2026-10-07T08:15:00+00:00",
-      "title": "Phillies’ Sam Fuld, Cubs’ Jared Banner among candidates for A’s top executive job",
-      "url": "https://www.nytimes.com/athletic/7668498/2026/10/07/sam-fuld-jared-banner-athletics-search/"
     }
   ],
-  "generated_at": "2026-10-15T09:35:32.350444+00:00",
+  "generated_at": "2026-10-15T14:34:54.139532+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/phillies/"
 }

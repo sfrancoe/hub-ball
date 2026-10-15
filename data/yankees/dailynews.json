@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Stanton has reached a point in his contract where the Yankees could be comfortable moving...",
+      "published": "2026-10-15T14:18:34+00:00",
+      "title": "Yankees faced with big Giancarlo Stanton question after another injury-riddled year",
+      "url": "https://www.nydailynews.com/2026/10/15/yankees-faced-with-big-giancarlo-stanton-question-after-another-injury-riddled-year/"
+    },
+    {
+      "category": "Yankees",
       "description": "Don Mattingly isn’t going anywhere, as the Phillies named the Yankees great their full-time manager.",
       "published": "2026-10-14T14:43:07+00:00",
       "title": "Phillies name Don Mattingly their full-time manager, reach contract through 2028",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T05:49:23+00:00",
       "title": "Once again, the Yankees’ season ends with a division rival partying at their place",
       "url": "https://www.nydailynews.com/2026/10/07/once-again-the-yankees-season-ends-with-a-division-rival-partying-at-their-place/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Trent Grisham moved up to the leadoff spot for a win-or-go-home ALDS Game 3 as...",
-      "published": "2026-10-07T23:13:48+00:00",
-      "title": "Why the Yankees moved Trent Grisham to leadoff spot for must-win ALDS Game 3 amid his struggles",
-      "url": "https://www.nydailynews.com/2026/10/07/yankees-trent-grisham-leadoff-spot-alds-game-3-ben-rice-rays/"
     }
   ],
-  "generated_at": "2026-10-14T18:51:06.386736+00:00",
+  "generated_at": "2026-10-15T14:33:55.883985+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "The Guardians wasted a strong start by Parker Messick and stranded nine runners in their ALCS Game 2 loss to Tampa Bay. Breaking down the numbers.",
-      "published": "2026-10-13T22:17:00+00:00",
-      "title": "Guardians by the numbers: José Ramírez’s costly error, missed chances sink Cleveland in ALCS Game 2",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-by-the-numbers-jose-ramirezs-costly-error-missed-chances-sink-cleveland-in-alcs-game-2.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Weather concerns in Cleveland have prompted MLB to adjust the start time for Guardians vs. Rays ALCS Game 3 on Thursday. Here's the updated schedule.",
       "published": "2026-10-14T05:02:00+00:00",
       "title": "Guardians, MLB change start time for ALCS Game 3 due to Cleveland weather forecast",
@@ -23,6 +16,13 @@
     },
     {
       "category": "Guardians",
+      "description": "The Guardians wasted a strong start by Parker Messick and stranded nine runners in their ALCS Game 2 loss to Tampa Bay. Breaking down the numbers.",
+      "published": "2026-10-13T22:17:00+00:00",
+      "title": "Guardians by the numbers: José Ramírez’s costly error, missed chances sink Cleveland in ALCS Game 2",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-by-the-numbers-jose-ramirezs-costly-error-missed-chances-sink-cleveland-in-alcs-game-2.html"
+    },
+    {
+      "category": "Guardians",
       "description": "The Guardians, up 1-0 in the ALCS, face the Rays in Game 2 with Parker Messick starting in his hometown against Freddy Peralta. Follow along for live updates, analysis and all the key moments.",
       "published": "2026-10-13T14:02:00+00:00",
       "title": "Guardians vs. Rays ALCS Game 2 Live Blog: Can Cleveland take a 2-0 series lead?",
@@ -30,17 +30,17 @@
     },
     {
       "category": "Guardians",
-      "description": "The Cleveland Guardians open the ALCS against the Tampa Bay Rays on Monday, with Foster Griffin starting against Drew Rasmussen at Tropicana Field.",
-      "published": "2026-10-12T09:11:00+00:00",
-      "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 12, 2026: ALCS Game 1",
-      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-12-2026-alcs-game-1.html"
-    },
-    {
-      "category": "Guardians",
       "description": "The Guardians face Drew Rasmussen in ALCS Game 1, and Cleveland must disrupt his six-pitch arsenal through discipline and count management.",
       "published": "2026-10-12T04:20:00+00:00",
       "title": "Drew Rasmussen is the first ALCS challenge for the Guardians. Here’s how Cleveland can make him work",
       "url": "https://www.cleveland.com/guardians/2026/10/drew-rasmussen-is-the-first-alcs-challenge-for-the-guardians-heres-how-cleveland-can-make-him-work.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Cleveland Guardians face the Tampa Bay Rays in ALCS Game 2, with rookie Parker Messick starting against Freddy Peralta as Cleveland aims to extend its four-game postseason winning streak.",
+      "published": "2026-10-13T10:01:00+00:00",
+      "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 13, 2026: ALCS Game 2",
+      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-13-2026-alcs-game-2.html"
     },
     {
       "category": "Guardians",
@@ -72,10 +72,10 @@
     },
     {
       "category": "Guardians",
-      "description": "Paul Hoynes and Joe Noga break down Gavin Williams' ALCS Game 3 start, Daniel Espino's rise, Steven Kwan's Gold Glove chances and Cleveland's outlook.",
-      "published": "2026-10-14T12:28:00+00:00",
-      "title": "Guardians face a different challenge in ALCS Game 3, and Gavin Williams knows it – Cleveland Baseball Talk Podcast",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-face-a-different-challenge-in-alcs-game-3-and-gavin-williams-knows-it-cleveland-baseball-talk-podcast.html"
+      "description": "Cleveland's Game 2 loss wasn't about being outmatched; it was about the kind of defensive lapses and hesitation plays that October baseball simply will not forgive.",
+      "published": "2026-10-14T22:51:00+00:00",
+      "title": "The Rays beat the Guardians at their own game — and it only took one inning to do it",
+      "url": "https://www.cleveland.com/guardians/2026/10/the-rays-beat-the-guardians-at-their-own-game-and-it-only-took-one-inning-to-do-it.html"
     },
     {
       "category": "Guardians",
@@ -85,7 +85,7 @@
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-white-sox-alds-game-4-live-updates-as-cleveland-tries-to-stay-alive.html"
     }
   ],
-  "generated_at": "2026-10-15T09:35:27.982831+00:00",
+  "generated_at": "2026-10-15T14:34:19.570630+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
