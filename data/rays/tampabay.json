@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Notes | There is mutual admiration between the dynamic right-hander and his bosses. Nick Martinez is in line for Game 4 of the ALCS.",
+      "published": "2026-10-15T00:44:30+00:00",
+      "title": "Why is Griffin Jax starting Game 3 for Rays? Talent, confidence, more",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/14/griffin-jax-alcs-game-3-nick-martinez-gavin-williams-guardians-junior-caminero/"
+    },
+    {
+      "category": "Rays",
       "description": "The speedy outfielder was determined to get better in leftfield and is rewarded for his hard work. Shortstop Taylor Walls also is a finalist for a third time.",
       "published": "2026-10-14T23:43:01+00:00",
       "title": "Rays’ Chandler Simpson makes another amazing dash to Gold Glove finalist",
@@ -111,16 +118,9 @@
       "published": "2026-10-11T19:17:25+00:00",
       "title": "Rays make obvious choice to start Drew Rasmussen in Game 1 vs. Guardians",
       "url": "https://www.tampabay.com/sports/rays/2026/10/11/drew-rasmussen-shane-mcclanahan-alcs-cleveland-guardians/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Rays were 5-1 against Cleveland this season. Game 1 of the ALDS is Monday at Tropicana Field.",
-      "published": "2026-10-11T02:58:35+00:00",
-      "title": "Guardians top White Sox, get Rays next in the ALCS",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/10/cleveland-guardians-american-league-championship-series-tropicana-field/"
     }
   ],
-  "generated_at": "2026-10-15T00:21:23.283839+00:00",
+  "generated_at": "2026-10-15T04:56:20.266071+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

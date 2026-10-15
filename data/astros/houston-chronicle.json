@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "The Houston Astros have parted ways with manager Joe Espada after deciding not to renew his expiring contract. The team announced the decision Wednesday while also moving on from several members ...",
-      "published": "2026-10-14T14:43:00+00:00",
-      "title": "Houston Astros do not renew Joe Espada’s contract, part ways with their manager",
-      "url": "https://www.houstonchronicle.com/sports/article/houston-astros-do-not-renew-joe-espada-s-22476774.php"
-    },
-    {
-      "category": "Astros",
       "description": "Joe Espada was the 20th full-time manager in Houston Astros history. With his chapter closed, we rank the franchise's Top 10 all-time managers to see where Espada fits on the list.",
       "published": "2026-10-14T14:23:00+00:00",
       "title": "Where does Joe Espada rank about Top 10 manager in Houston Astros history?",
@@ -20,6 +13,13 @@
       "published": "2026-10-14T08:29:00+00:00",
       "title": "10 names that would make sense in Houston Astros’ manager search",
       "url": "https://www.houstonchronicle.com/sports/astros/article/next-manager-candidates-names-22463657.php"
+    },
+    {
+      "category": "Astros",
+      "description": "The Houston Astros have parted ways with manager Joe Espada after deciding not to renew his expiring contract. The team announced the decision Wednesday while also moving on from several members ...",
+      "published": "2026-10-14T14:43:00+00:00",
+      "title": "Houston Astros do not renew Joe Espada’s contract, part ways with their manager",
+      "url": "https://www.houstonchronicle.com/sports/article/houston-astros-do-not-renew-joe-espada-s-22476774.php"
     },
     {
       "category": "Astros",
@@ -46,7 +46,7 @@
       "category": "Astros",
       "description": "Christian Walker will be entering final year of contract with Houston and has yet to be the consistent run-producer team had hoped for.",
       "published": "2026-10-12T04:00:00+00:00",
-      "title": "Houston Astros roster analysis: First base. Christian Walker's inconsistency and trade questions",
+      "title": "First baseman Christian Walker's inconsistency and trade questions | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-first-base-2026-christian-walker-22471465.php"
     },
     {
@@ -62,9 +62,16 @@
       "published": "2026-10-08T09:06:00+00:00",
       "title": "Like Astros earlier in playoffs, Yankees' Jazz Chisholm questions getting booed by home fans",
       "url": "https://www.houstonchronicle.com/sports/astros/article/boos-fans-jazz-chisholm-yankees-home-crowd-22468946.php"
+    },
+    {
+      "category": "Astros",
+      "description": "The Astros have just a couple key contributors entering free agency. Yordan Alvarez and Jose Altuve are locked up for multiple years, but what about Jeremy Peña's long-term future?",
+      "published": "2026-10-01T08:10:00+00:00",
+      "title": "Who can become a free agent? Contract situation for every Astros player entering 2026-27 offseason",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/free-agents-contracts-offseason-22457322.php"
     }
   ],
-  "generated_at": "2026-10-15T00:21:35.592699+00:00",
+  "generated_at": "2026-10-15T04:56:24.404826+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

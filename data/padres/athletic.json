@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Padres",
-      "description": "After a \"heartbreaking\" end to their season Wednesday night, the Padres face the possibility that a lot is about to change.",
-      "published": "2026-10-08T04:54:00+00:00",
-      "title": "Another Padres playoff run ends in heartbreak, with offseason questions looming",
-      "url": "https://www.nytimes.com/athletic/7668353/2026/10/08/padres-nlds-loss-heartbreak-brewers/"
-    },
-    {
-      "category": "Padres",
       "description": "The Brewers snapped a streak of 12 road playoff losses, dating to a win over the Dodgers in Game 3 of the 2018 NLCS. They dropped that series in seven games, and the Dodgers swept their rematch last ...",
       "published": "2026-10-07T22:21:00+00:00",
       "title": "Brewers dispatch Padres in Game 4, now face rematch with Dodgers in NLCS",
@@ -16,10 +9,24 @@
     },
     {
       "category": "Padres",
+      "description": "After a \"heartbreaking\" end to their season Wednesday night, the Padres face the possibility that a lot is about to change.",
+      "published": "2026-10-08T04:54:00+00:00",
+      "title": "Another Padres playoff run ends in heartbreak, with offseason questions looming",
+      "url": "https://www.nytimes.com/athletic/7668353/2026/10/08/padres-nlds-loss-heartbreak-brewers/"
+    },
+    {
+      "category": "Padres",
       "description": "After 355 days, the National League winds up in the same place with the Brewers facing the Dodgers in the Championship Series.",
       "published": "2026-10-07T19:31:00+00:00",
       "title": "Brewers surge into NLCS, where a familiar foe – and a larger battleground – awaits",
       "url": "https://www.nytimes.com/athletic/7671037/2026/10/08/brewers-padres-game-4-nlds-mlb-playoffs/"
+    },
+    {
+      "category": "Padres",
+      "description": "President of baseball operations A.J. Preller says the goal every year is a championship. \"There's all different ways to do that,\" he said.",
+      "published": "2026-10-14T17:25:00+00:00",
+      "title": "Padres’ end-of-season news conference takeaways: What does ‘all in’ really mean?",
+      "url": "https://www.nytimes.com/athletic/7691233/2026/10/14/padres-end-of-season-interviews-takeaways-all-in/"
     },
     {
       "category": "Padres",
@@ -38,7 +45,7 @@
     {
       "category": "Padres",
       "description": "The 2026 MLB postseason continues today as the Division Series continue with all eight remaining teams in action. In the American League, the Guardians and Rays both have opportunities to clinch spots ...",
-      "published": "2026-10-07T10:59:00+00:00",
+      "published": "2026-10-07T22:48:00+00:00",
       "title": "Brewers eliminate Padres from Division Series after Dodgers, Rays also clinch: MLB Playoffs live updates, reaction",
       "url": "https://www.nytimes.com/athletic/live-blogs/mlb-playoffs-live-scores-updates-results-alds-nlds-news-highlights/inE8qsHMcoZh/"
     },
@@ -50,7 +57,7 @@
       "url": "https://www.nytimes.com/athletic/7651005/2026/10/02/padres-brewers-predictions-preview/"
     }
   ],
-  "generated_at": "2026-10-15T00:21:49.808121+00:00",
+  "generated_at": "2026-10-15T04:56:31.115273+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/padres/"
 }

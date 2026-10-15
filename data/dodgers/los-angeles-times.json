@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
+      "published": "2026-10-14T08:38:00+00:00",
+      "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Bex Castillo asked the Times’ sports desk at Game 3 of the NLCS where the Los Angeles Dodgers faced off against the Milwaukee Brewers. Rebecca Castillo is a content creator for the Los Angeles Times.",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "How do our reporters stay sane while covering the Dodgers?",
+      "url": "https://www.latimes.com/000001a1-3d19-d7d4-a9f5-ff9d8b430000-123"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Dodgers failed Shohei Ohtani this summer, but now they need to do what is best and set him down for the duration of the playoffs.",
       "published": "2026-10-13T20:31:00+00:00",
       "title": "Dodgers should have taken Shohei Ohtani off the postseason roster",
@@ -30,10 +44,10 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Dodgers push to rebound from an 0-2 deficit in Game 3 of the NLCS as the series shifts to Dodger Stadium at 5 p.m. PDT Wednesday. The game will air on FS1.",
-      "published": "2026-10-14T14:42:00+00:00",
-      "title": "Dodgers vs. Brewers in NLCS live updates: Dodgers trail in first inning",
-      "url": "https://www.latimes.com/sports/dodgers/live/dodgers-vs-brewers-in-nlcs-live-update-start-time-how-to-watch-and-odds"
+      "description": "The Los Angeles Dodgers are one game away from being swept out of the playoffs and missing their chance at three-peat history after losing Game 3 to the Milwaukee Brewers 6-2. Los Angeles Times beat ...",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "Dodgers Debate NLCS GAME 3: Dodgers stare down a sweep",
+      "url": "https://www.latimes.com/ytmvvjfnltg-123"
     },
     {
       "category": "Dodgers",
@@ -69,23 +83,9 @@
       "published": "2026-10-12T17:55:00+00:00",
       "title": "Dodgers will consider sitting Shohei Ohtani after offense struggles in Game 2 NLCS loss",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/yoshinobu-yamamoto-game-2-nlcs-dodgers-brewers"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Maddie Lee covers the Dodgers for the Los Angeles Times. She joined the paper in March 2026 after six years in Chicago, where she was a Cubs beat writer for the Chicago Sun-Times and NBC Sports ...",
-      "published": "2026-10-03T06:55:00+00:00",
-      "title": "Dodgers Debate: Dodgers and Braves",
-      "url": "https://www.latimes.com/dkticdjbdy0-123"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Milwaukee Brewers are up next for the Dodgers in the NLCS, so here's a reminder that nothing is guaranteed in October.",
-      "published": "2026-10-08T03:00:00+00:00",
-      "title": "In NLCS, four reasons to believe in Dodgers, and four reasons for concern",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-08/nlcs-dodgers-good-bad"
     }
   ],
-  "generated_at": "2026-10-15T00:21:49.064070+00:00",
+  "generated_at": "2026-10-15T04:56:30.552127+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

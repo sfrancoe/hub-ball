@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
-      "published": "2026-10-14T03:30:00+00:00",
-      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
-      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
-    },
-    {
-      "category": "Orioles",
       "description": "Orioles Hall of Famer Mike Bordick says the team’s recent layoffs after two subpar seasons are a “slap in the face” to Baltimore’s fanbase.",
       "published": "2026-10-14T13:40:00+00:00",
       "title": "Orioles Hall of Famer Mike Bordick on team’s layoffs: ‘Slap in the face’",
@@ -20,6 +13,13 @@
       "published": "2026-10-14T12:22:00+00:00",
       "title": "WATCH: Orioles Hall of Famer Gregg Olson joins the BMore Baseball Podcast",
       "url": "https://www.baltimoresun.com/2026/10/14/watch-orioles-hall-of-famer-gregg-olson-bmore-baseball-podcast/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
+      "published": "2026-10-14T03:30:00+00:00",
+      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
+      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
     },
     {
       "category": "Orioles",
@@ -44,10 +44,10 @@
     },
     {
       "category": "Orioles",
-      "description": "Orioles legend and MASN broadcaster Jim Palme joins the BMore Baseball Podcast for the second portion of a two-part conversation.",
-      "published": "2026-10-07T14:45:00+00:00",
-      "title": "WATCH: Jim Palmer joins BMore Baseball Podcast for Part 2 of conversation",
-      "url": "https://www.baltimoresun.com/2026/10/07/orioles-jim-palmer-bmore-baseball-podcast/"
+      "description": "The Orioles enter the 2026-27 offseason with plenty of roster questions, though an impending lockout looms over MLB heading into the winter.",
+      "published": "2026-10-06T03:30:00+00:00",
+      "title": "Orioles 2026-27 offseason guide: Free agents, roster needs, lockout dates",
+      "url": "https://www.baltimoresun.com/2026/10/06/orioles-2026-2027-offseason-guide-free-agents-roster-needs-lockout-dates/"
     },
     {
       "category": "Orioles",
@@ -69,16 +69,9 @@
       "published": "2026-10-08T09:41:00+00:00",
       "title": "Orioles laid off the wrong employees | READER COMMENTARY",
       "url": "https://www.baltimoresun.com/2026/10/08/orioles-layoffs-mascots-splash/"
-    },
-    {
-      "category": "Orioles",
-      "description": "On a recent podcast appearance, Albert Belle discussed the end to his MLB career and his relationship with Orioles fans.",
-      "published": "2026-10-08T15:16:00+00:00",
-      "title": "Albert Belle on end of career with Orioles: ‘Fans didn’t like me there’",
-      "url": "https://www.baltimoresun.com/2026/10/08/albert-belle-end-career-orioles-fans-did-not-like-me/"
     }
   ],
-  "generated_at": "2026-10-15T00:21:25.736545+00:00",
+  "generated_at": "2026-10-15T04:56:21.612368+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
