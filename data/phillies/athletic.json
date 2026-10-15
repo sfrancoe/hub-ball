@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "Mattingly said he wants to prioritize defense and believes the Phillies' offense can build upon its success from August.",
+      "published": "2026-10-15T15:45:00+00:00",
+      "title": "How manager Don Mattingly wants to change the Phillies as focus shifts to 2027",
+      "url": "https://www.nytimes.com/athletic/7693659/2026/10/15/don-mattingly-phillies-manager-2027-season-priorities/"
+    },
+    {
+      "category": "Phillies",
+      "description": "Mayza, who logged a career-high 67 1/3 innings for the Phillies this season, signed a one-year-deal for $2.75 million, according to sources.",
+      "published": "2026-10-15T08:24:00+00:00",
+      "title": "Phillies bring back lefty reliever Tim Mayza on 1-year-deal",
+      "url": "https://www.nytimes.com/athletic/7692705/2026/10/15/tim-mayza-contract-signing-one-year-phillies/"
+    },
+    {
+      "category": "Phillies",
       "description": "Before going with Mattingly at manager, the Phillies requested permission from the Dodgers to contact Utley and Ibanez about the position.",
       "published": "2026-10-15T03:00:00+00:00",
       "title": "Phillies reached out to Chase Utley, Raul Ibanez before rehiring Don Mattingly: Sources",
@@ -41,23 +55,9 @@
       "published": "2026-10-15T11:55:00+00:00",
       "title": "‘Mandatory’ for Trea Turner’s defense to improve, Dave Dombrowski says: Phillies takeaways",
       "url": "https://www.nytimes.com/athletic/7693228/2026/10/15/phillies-trea-turner-shortstop-dave-dombrowski-takeaways/"
-    },
-    {
-      "category": "Phillies",
-      "description": "Now, the Phillies could conduct a wider search for their next manager. Or they could turn to Don Mattingly for another season, sources said.",
-      "published": "2026-10-06T21:42:00+00:00",
-      "title": "Phillies’ manager search might land on Don Mattingly after Alex Cora opts to sit out 2027: Sources",
-      "url": "https://www.nytimes.com/athletic/7667450/2026/10/07/phillies-alex-cora-manager-search-don-mattingly/"
-    },
-    {
-      "category": "Phillies",
-      "description": "If the Phillies ask Trea Turner to change positions, is he willing? “We’ll see,” Turner said Thursday night. Rich von Biberstein / Icon Sportswire via Getty Images ATLANTA — Before the Philadelphia ...",
-      "published": "2026-10-02T12:57:00+00:00",
-      "title": "Phillies face many pressing offseason questions: Trea Turner’s 2027 position tops the list",
-      "url": "https://www.nytimes.com/athletic/7653391/2026/10/02/phillies-offseason-questions-trea-turner-position-change/"
     }
   ],
-  "generated_at": "2026-10-15T21:37:00.699173+00:00",
+  "generated_at": "2026-10-15T23:49:55.993263+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/phillies/"
 }

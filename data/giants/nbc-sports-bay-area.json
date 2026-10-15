@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "The Giants finally beat the Dodgers, but in one of the worst ways possible. The Dodgers led all of MLB in injured list days for three straight seasons, but in 2026, San Francisco took the crown.",
+      "published": "2026-10-07T07:39:00+00:00",
+      "title": "Giants snap Dodgers' three-year streak for MLB-worst stat in 2026 season",
+      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/injured-list-league-leaders-2026/1969597/"
+    },
+    {
+      "category": "Giants",
       "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic present the good and the bad from second base this season. Plus, the guys take a look at the MLB playoffs.",
       "published": "2026-10-15T10:14:00+00:00",
       "title": "Giants Talk: What to expect from San Francisco at second base position in 2027",
@@ -9,10 +16,10 @@
     },
     {
       "category": "Giants",
-      "description": "The Giants finally beat the Dodgers, but in one of the worst ways possible. The Dodgers led all of MLB in injured list days for three straight seasons, but in 2026, San Francisco took the crown.",
-      "published": "2026-10-07T07:39:00+00:00",
-      "title": "Giants snap Dodgers' three-year streak for MLB-worst stat in 2026 season",
-      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/injured-list-league-leaders-2026/1969597/"
+      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic predict who will take the second base job next season in San Francisco.",
+      "published": "2026-10-15T14:34:00+00:00",
+      "title": "Giants Talk: Why Marcelo Mayer, Casey Schmitt are frontrunners for second base",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/second-base-predicitions-watch/1971420/"
     },
     {
       "category": "Giants",
@@ -37,20 +44,13 @@
     },
     {
       "category": "Giants",
-      "description": "On \"Giants Talk,\" Alex Pavlovic and Cole Kuiper break down the possibility of San Francisco rebuilding while managing big contracts.",
-      "published": "2026-10-06T12:35:00+00:00",
-      "title": "Giants Talk: Can San Francisco rebuild with large contracts throughout lineup?",
-      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/giants-talk-watch-rebuild/1969361/"
-    },
-    {
-      "category": "Giants",
-      "description": "On \"Giants Talk,\" Alex Pavlovic and Cole Kuiper break down San Francisco's end-of-season press conferences and what may change during the offseason.",
-      "published": "2026-10-01T15:51:00+00:00",
-      "title": "Giants Talk: Can San Francisco fans expect big changes from team this offseason?",
-      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/giants-talk-watch-offseason-changes-inbound/1967992/"
+      "description": "SAN FRANCISCO -- The game at Chase Field on April 2, 2017 is one of the most memorable losses in recent Giants history, which is saying something, given the kind of baseball they have played over the ...",
+      "published": "2026-10-01T03:53:00+00:00",
+      "title": "Buster Posey, Giants aim to solve puzzle of fixing their bullpen this offseason",
+      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/buster-posey-offseason-bullpen-puzzle/1967880/"
     }
   ],
-  "generated_at": "2026-10-15T21:37:07.394380+00:00",
+  "generated_at": "2026-10-15T23:50:13.400568+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"
 }
