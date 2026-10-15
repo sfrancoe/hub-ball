@@ -1,13 +1,73 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-14T22:42:37.272437+00:00",
+  "generatedAt": "2026-10-15T00:58:17.389235+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 11,
   "articles": [
+    {
+      "title": "Why is Griffin Jax starting Game 3 for Rays? Talent, confidence, more",
+      "description": "Notes | There is mutual admiration between the dynamic right-hander and his bosses. Nick Martinez is in line for Game 4 of the ALCS.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/14/griffin-jax-alcs-game-3-nick-martinez-gavin-williams-guardians-junior-caminero/",
+      "published": "2026-10-15T00:44:30.908000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "A.J. Preller, Craig Stammen know Padres have to get better to accomplish goal",
+      "description": "There is no arguing the Padres have been one of Major League Baseball’s biggest successes by virtually every measure — except one.",
+      "url": "https://www.sandiegouniontribune.com/2026/10/14/a-j-preller-craig-stammen-know-padres-have-to-get-better-to-accomplish-goal/",
+      "published": "2026-10-15T00:03:18+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays’ Chandler Simpson makes another amazing dash to Gold Glove finalist",
+      "description": "The speedy outfielder was determined to get better in leftfield and is rewarded for his hard work. Shortstop Taylor Walls also is a finalist for a third time.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/14/chandler-simpson-gold-glove-finalist-taylor-walls/",
+      "published": "2026-10-14T23:43:01.085000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Why the Braves’ offseason could be less active than you expect",
+      "description": "The Braves will likely try to prioritize outfield depth with Acuña in mind, but they likely believe they can keep him in the lineup more consistently by occasionally keeping him off his legs with DH ...",
+      "url": "https://www.ajc.com/sports/2026/10/why-the-atlanta-braves-offseason-could-be-less-active-than-you-expect/",
+      "published": "2026-10-14T23:41:01.751000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Padres notes: Craig Stammen has more in tank; Joe Musgrove’s future; health updates",
+      "description": "Craig Stammen well aware of the turnstile that came before he was talked into interviewing for Padres’ managerial job ...",
+      "url": "https://www.sandiegouniontribune.com/2026/10/14/padres-notes-craig-stammen-has-more-in-tank-joe-musgroves-future-health-updates/",
+      "published": "2026-10-14T23:11:01+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Caleb Durbin an AL Gold Glove Award finalist, along with past Red Sox winners Ceddanne Rafaela and Wilyer Abreu",
       "description": "While Rafaela (2025) and Abreu ('24, '25) are the reigning Gold Glovers at their positions, Durbin is a first-time finalist after his first season in Boston.",
@@ -81,6 +141,18 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Dodgers vs. Brewers in NLCS live updates: Dodgers trail in first inning",
+      "description": "The Dodgers push to rebound from an 0-2 deficit in Game 3 of the NLCS as the series shifts to Dodger Stadium at 5 p.m. PDT Wednesday. The game will air on FS1.",
+      "url": "https://www.latimes.com/sports/dodgers/live/dodgers-vs-brewers-in-nlcs-live-update-start-time-how-to-watch-and-odds",
+      "published": "2026-10-14T18:00:00+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
       "title": "Padres’ Ty France, Freddy Fermin named finalists for NL Gold Gloves",
       "description": "Both France and catcher Freddy Fermin were named finalists for an NL Gold Glove on Wednesday. The 32-year-old France leads all first basemen with 15 defensive runs saved. Braves finalist Matt Olson ...",
       "url": "https://www.sandiegouniontribune.com/2026/10/14/the-padres-ty-france-freddy-fermin-named-finalists-for-nl-gold-glove/",
@@ -105,6 +177,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Padres’ end-of-season news conference takeaways: What does ‘all in’ really mean?",
+      "description": "President of baseball operations A.J. Preller says the goal every year is a championship. \"There's all different ways to do that,\" he said.",
+      "url": "https://www.nytimes.com/athletic/7691233/2026/10/14/padres-end-of-season-interviews-takeaways-all-in/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Start time for ALCS Game 3 between Rays and Guardians is moved up",
       "description": "The game, originally scheduled to start at 6 p.m. on Thursday, has been moved up to 1 due to forecast rain in Cleveland.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/14/alcs-game-3-start-moved-up-forecast-rain-cleveland-guardians/",
@@ -127,6 +211,18 @@
       "teamAbbreviation": "CWS",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Phillies fire hitting coach Kevin Long, infield coach Bobby Dickerson: Sources",
+      "description": "Long, who was under contract through 2028, has been a hitting coach in the major leagues for 20 consecutive seasons.",
+      "url": "https://www.nytimes.com/athletic/7663052/2026/10/14/phillies-kevin-long-fired/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "teamAbbreviation": "PHI",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Red Sox could match rare feat with three Gold Glove winners",
@@ -201,7 +297,7 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Brewers vs. Dodgers live updates: MLB playoffs NLCS Game 3 start time, predictions and latest",
+      "title": "Brewers vs. Dodgers — Latest",
       "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
       "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/",
       "published": "",
@@ -234,6 +330,18 @@
       "teamName": "Milwaukee Brewers",
       "teamAbbreviation": "MIL",
       "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Ten questions with Guardians Chris Antonetti, president of baseball operations on eve of ALCS Game 3",
+      "description": "Chris Antonetti, president of baseball operations, talks all things Guardians with the ALCS tied at 1-1 with the Rays.",
+      "url": "https://www.cleveland.com/guardians/2026/10/ten-questions-with-guardians-chris-antonetti-president-of-baseball-operations-on-eve-of-alcs-game-3.html",
+      "published": "",
+      "source": "Cleveland.com",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
       "publishedSource": "unverified"
     },
     {
@@ -293,66 +401,6 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "What grade did we give each member of the Boston Red Sox' pitching staff?",
-      "description": "Who would you give an A after the 2026 season?",
-      "url": "https://www.masslive.com/redsox/2026/10/grading-the-boston-red-sox-2026-pitching-staff-the-fenway-rundown.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Wisconsin resident presale for Brewers World Series tickets starts Oct. 15",
-      "description": "The Brewers are nearing their first World Series appearance since 1982. Wisconsin residents will be able to buy tickets starting Thursday, Oct. 15.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/14/brewers-world-series-wisconsin-resident-presale-starts-thursday/92249529007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "After ‘best’ defensive year, Manny Machado snubbed for Dodgers rival as Gold Glove finalist",
-      "description": "Machado finished with 12 OAA, three more than Cubs star Alex Bregman, who finished with nine. Bregman, Los Angeles’ Max Muncy and Miami’s Javier Sanoja were the three finalists for the National League ...",
-      "url": "https://www.nytimes.com/athletic/7690317/2026/10/14/gold-glove-finalists-snubs-manny-machado-max-muncy/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees' 3 pressing roster questions: What to do with Giancarlo Stanton?",
-      "description": "Stanton, who turns 37 in November, doesn't have a clear fit on the roster. Will the Yankees move on from him?",
-      "url": "https://www.nytimes.com/athletic/7688231/2026/10/14/yankees-roster-questions-giancarlo-stanton/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Guardians turn to Gavin Williams for ALCS Game 3 start",
-      "description": "The Guardians named Gavin Williams their ALCS Game 3 starter against Tampa Bay. A weather-related time change could work in his favor.",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-turn-to-gavin-williams-for-alcs-game-3-start.html",
-      "published": "",
-      "source": "Cleveland.com",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
       "league": "AL",
       "publishedSource": "unverified"
     }
