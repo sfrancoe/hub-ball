@@ -30,6 +30,13 @@
     },
     {
       "category": "Dodgers",
+      "description": "The Dodgers push to rebound from an 0-2 deficit in Game 3 of the NLCS as the series shifts to Dodger Stadium at 5 p.m. PDT Wednesday. The game will air on FS1.",
+      "published": "2026-10-14T14:42:00+00:00",
+      "title": "Dodgers vs. Brewers in NLCS live updates: Dodgers trail in first inning",
+      "url": "https://www.latimes.com/sports/dodgers/live/dodgers-vs-brewers-in-nlcs-live-update-start-time-how-to-watch-and-odds"
+    },
+    {
+      "category": "Dodgers",
       "description": "Andrew Friedman wants \"chaos,\" and he could see a lot of it when the Dodgers face a talented 103-win Milwaukee Brewers team in an NLCS rematch.",
       "published": "2026-10-09T04:00:00+00:00",
       "title": "‘I just want chaos.’ Don’t expect Dodgers to sweep Brewers again in NLCS",
@@ -41,13 +48,6 @@
       "published": "2026-10-08T05:25:00+00:00",
       "title": "The Sports Report: Dodgers advance to the NLCS",
       "url": "https://www.latimes.com/sports/newsletter/2026-10-08/dodgers-braves"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Brewers break a postseason road losing streak by defeating the Padres to advance to the NLCS for the second year in a row.",
-      "published": "2026-10-08T00:15:00+00:00",
-      "title": "Brewers eliminate Padres, will face Dodgers in NLCS",
-      "url": "https://www.latimes.com/sports/story/2026-10-07/brewers-padres"
     },
     {
       "category": "Dodgers",
@@ -85,7 +85,7 @@
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-08/nlcs-dodgers-good-bad"
     }
   ],
-  "generated_at": "2026-10-14T22:00:00.913258+00:00",
+  "generated_at": "2026-10-15T00:21:49.064070+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

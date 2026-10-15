@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The speedy outfielder was determined to get better in leftfield and is rewarded for his hard work. Shortstop Taylor Walls also is a finalist for a third time.",
+      "published": "2026-10-14T23:43:01+00:00",
+      "title": "Rays’ Chandler Simpson makes another amazing dash to Gold Glove finalist",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/14/chandler-simpson-gold-glove-finalist-taylor-walls/"
+    },
+    {
+      "category": "Rays",
       "description": "The game, originally scheduled to start at 6 p.m. on Thursday, has been moved up to 1 due to forecast rain in Cleveland.",
       "published": "2026-10-14T17:12:37+00:00",
       "title": "Start time for ALCS Game 3 between Rays and Guardians is moved up",
@@ -111,16 +118,9 @@
       "published": "2026-10-11T02:58:35+00:00",
       "title": "Guardians top White Sox, get Rays next in the ALCS",
       "url": "https://www.tampabay.com/sports/rays/2026/10/10/cleveland-guardians-american-league-championship-series-tropicana-field/"
-    },
-    {
-      "category": "Rays",
-      "description": "Tales | Getting to the World Series has been done. Now it’s a question of when Tampa Bay will win its first World Series.",
-      "published": "2026-10-10T19:41:09+00:00",
-      "title": "2008, 2020 Rays won ALCS, now the 2026 team is trying. Which is better?",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/10/2008-2020-rays-won-alcs-now-2026-team-is-trying-which-is-better/"
     }
   ],
-  "generated_at": "2026-10-14T21:59:18.667618+00:00",
+  "generated_at": "2026-10-15T00:21:23.283839+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
+      "published": "2026-10-14T03:30:00+00:00",
+      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
+      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
+    },
+    {
+      "category": "Orioles",
       "description": "Orioles Hall of Famer Mike Bordick says the team’s recent layoffs after two subpar seasons are a “slap in the face” to Baltimore’s fanbase.",
       "published": "2026-10-14T13:40:00+00:00",
       "title": "Orioles Hall of Famer Mike Bordick on team’s layoffs: ‘Slap in the face’",
@@ -13,13 +20,6 @@
       "published": "2026-10-14T12:22:00+00:00",
       "title": "WATCH: Orioles Hall of Famer Gregg Olson joins the BMore Baseball Podcast",
       "url": "https://www.baltimoresun.com/2026/10/14/watch-orioles-hall-of-famer-gregg-olson-bmore-baseball-podcast/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
-      "published": "2026-10-14T03:30:00+00:00",
-      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
-      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
     },
     {
       "category": "Orioles",
@@ -78,7 +78,7 @@
       "url": "https://www.baltimoresun.com/2026/10/08/albert-belle-end-career-orioles-fans-did-not-like-me/"
     }
   ],
-  "generated_at": "2026-10-14T21:59:21.899352+00:00",
+  "generated_at": "2026-10-15T00:21:25.736545+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
