@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Detroit Tigers shared good news on their Troy Melton injury update, after he ended the season on the injured list with an issue in his throwing arm.",
+      "published": "2026-10-15T09:01:00+00:00",
+      "title": "Detroit Tigers announce Troy Melton injury update with good news",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/15/troy-melton-injury-detroit-tigers-news/92263197007/"
+    },
+    {
+      "category": "Tigers",
       "description": "Two Detroit Tigers were named 2026 Rawlings American League Gold Glove finalists: catcher Dillon Dingler and utility player Zach McKinstry.",
       "published": "2026-10-14T14:04:00+00:00",
       "title": "Tigers' Dillon Dingler, Zach McKinstry named Gold Glove finalists",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Tigers",
-      "description": "The Detroit Tigers have decided to give shortstop John Peck some extra work, inviting him to play in the Arizona Fall League.",
-      "published": "2026-10-01T09:51:00+00:00",
-      "title": "Tigers send John Peck to Arizona Fall League to see what his bat can do",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/01/detroit-tigers-shortstop-john-peck-added-to-arizona-fall-league-roster/92037612007/"
-    },
-    {
-      "category": "Tigers",
       "description": "The season is over for the Detroit Tigers, but questions still remain about a disappointing campaign and what the future will look like. The Tigers finished the season 76-86 after a season-ending, 4-2 ...",
       "published": "2026-09-28T07:20:00+00:00",
       "title": "Tigers president Scott Harris says he doesn't regret Tarik Skubal trade",
@@ -55,9 +55,16 @@
       "published": "2026-09-30T02:10:00+00:00",
       "title": "Predicting if Tigers pick up Kenley Jansen and Drew Anderson options",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/09/30/detroit-tigers-free-agents-2027-kenley-jansen-contract-drew-anderson-option/91919713007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "The Detroit Tigers have decided to give shortstop John Peck some extra work, inviting him to play in the Arizona Fall League, which begins this weekend. Peck, 24, played in 24 games for the Tigers, ...",
+      "published": "2026-10-01T09:51:00+00:00",
+      "title": "Tigers send John Peck to Arizona Fall League to see what his bat can do",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/01/detroit-tigers-shortstop-john-peck-added-to-arizona-fall-league-roster/92037612007/"
     }
   ],
-  "generated_at": "2026-10-15T14:34:23.174290+00:00",
+  "generated_at": "2026-10-15T18:27:14.653932+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

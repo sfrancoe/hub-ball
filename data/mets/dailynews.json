@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Carlos Mendoza has found a landing spot with the Mets' NL East rivals.",
+      "published": "2026-10-15T16:50:26+00:00",
+      "title": "Ex-Mets manager Carlos Mendoza lands with Phillies as third base coach",
+      "url": "https://www.nydailynews.com/2026/10/15/mets-carlos-mendoza-phillies-mlb-infield-coach-dave-dombrowski-don-mattingly/"
+    },
+    {
+      "category": "Mets",
       "description": "In 2026, Manaea stayed healthy, but he wasn't always effective.",
       "published": "2026-10-13T22:46:44+00:00",
       "title": "Mets’ Sean Manaea trying to shake off disappointment of 2026",
@@ -132,16 +139,9 @@
       "published": "2026-09-20T21:15:44+00:00",
       "title": "Mets move Howie Rose’s retirement ceremony to 2027 due to weather, then celebrate him throughout home finale",
       "url": "https://www.nydailynews.com/2026/09/20/mets-reschedule-howie-rose-retirement-ceremony-2027-weather/"
-    },
-    {
-      "category": "Mets",
-      "description": "The Mets are poised to make meaningful additions this offseason — on and off the...",
-      "published": "2026-09-20T00:43:37+00:00",
-      "title": "Mets aim to add front-office ‘voices’ to support David Stearns, owner Steve Cohen says",
-      "url": "https://www.nydailynews.com/2026/09/19/mets-front-office-voices-david-stearns-steve-cohen/"
     }
   ],
-  "generated_at": "2026-10-13T23:58:05.039121+00:00",
+  "generated_at": "2026-10-15T18:26:56.781779+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

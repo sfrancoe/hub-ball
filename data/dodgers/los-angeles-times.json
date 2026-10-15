@@ -9,17 +9,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
-      "published": "2026-10-14T22:38:00+00:00",
-      "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
-    },
-    {
-      "category": "Dodgers",
       "description": "Bex Castillo asked the Times’ sports desk at Game 3 of the NLCS where the Los Angeles Dodgers faced off against the Milwaukee Brewers. Rebecca Castillo is a content creator for the Los Angeles Times.",
       "published": "2026-10-14T17:00:00+00:00",
       "title": "How do our reporters stay sane while covering the Dodgers?",
       "url": "https://www.latimes.com/000001a1-3d19-d7d4-a9f5-ff9d8b430000-123"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
+      "published": "2026-10-14T22:38:00+00:00",
+      "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
     },
     {
       "category": "Dodgers",
@@ -51,16 +51,9 @@
     },
     {
       "category": "Dodgers",
-      "description": "Another dominant win by Milwaukee has the Dodgers on the brink of elimination in their quest for a three-peat.",
-      "published": "2026-10-14T17:55:00+00:00",
-      "title": "Dodgers Dugout: Random thoughts on Game 3 of the NLCS",
-      "url": "https://www.latimes.com/sports/dodgers/newsletter/2026-10-15/nlcs-game-3"
-    },
-    {
-      "category": "Dodgers",
       "description": "The Los Angeles Dodgers are one game away from being swept out of the playoffs and missing their chance at three-peat history after losing Game 3 to the Milwaukee Brewers 6-2. Los Angeles Times beat ...",
       "published": "2026-10-14T21:38:00+00:00",
-      "title": "Dodgers Debate NLCS GAME 3: Dodgers stare down a sweep",
+      "title": "Dodgers Debate NLCS Game 3: Dodgers stare down a sweep",
       "url": "https://www.latimes.com/ytmvvjfnltg-123"
     },
     {
@@ -83,9 +76,16 @@
       "published": "2026-10-12T17:55:00+00:00",
       "title": "Dodgers will consider sitting Shohei Ohtani after offense struggles in Game 2 NLCS loss",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/yoshinobu-yamamoto-game-2-nlcs-dodgers-brewers"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Another dominant win by Milwaukee has the Dodgers on the brink of elimination in their quest for a three-peat.",
+      "published": "2026-10-15T07:55:00+00:00",
+      "title": "Dodgers Dugout: Random thoughts on Game 3 of the NLCS",
+      "url": "https://www.latimes.com/sports/dodgers/newsletter/2026-10-15/nlcs-game-3"
     }
   ],
-  "generated_at": "2026-10-15T14:35:14.728249+00:00",
+  "generated_at": "2026-10-15T18:27:31.617947+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

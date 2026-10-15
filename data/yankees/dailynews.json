@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Three years after a brief stint with the Yankees, Jake Bauers has emerged as an...",
+      "published": "2026-10-15T14:38:53+00:00",
+      "title": "Briefly a Yankee, Jake Bauers emerges as NLCS hero for Brewers",
+      "url": "https://www.nydailynews.com/2026/10/15/yankees-jake-bauers-nlcs-brewers-dodgers/"
+    },
+    {
+      "category": "Yankees",
       "description": "Stanton has reached a point in his contract where the Yankees could be comfortable moving...",
       "published": "2026-10-15T14:18:34+00:00",
       "title": "Yankees faced with big Giancarlo Stanton question after another injury-riddled year",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T16:36:34+00:00",
       "title": "Fan gets the boot as interference at center of Yankees Game 3 loss to Rays",
       "url": "https://www.nydailynews.com/2026/10/07/yankees-mlb-rays-fan-interference-anthony-volpe-ejection/"
-    },
-    {
-      "category": "Yankees",
-      "description": "This time, it was the Rays who eliminated the Yankees. Now an uncertain offseason awaits.",
-      "published": "2026-10-08T05:49:23+00:00",
-      "title": "Once again, the Yankees’ season ends with a division rival partying at their place",
-      "url": "https://www.nydailynews.com/2026/10/07/once-again-the-yankees-season-ends-with-a-division-rival-partying-at-their-place/"
     }
   ],
-  "generated_at": "2026-10-15T14:33:55.883985+00:00",
+  "generated_at": "2026-10-15T18:26:48.510236+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

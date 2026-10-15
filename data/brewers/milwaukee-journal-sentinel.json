@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "The stands inside Dodger Stadium started to empty as the Milwaukee Brewers added to their lead late in Game 3 of the National League Championship Series.",
+      "published": "2026-10-15T10:17:00+00:00",
+      "title": "Brewers fans react to empty seats at Dodger Stadium during NLCS Game 3",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/15/fans-react-on-social-media-to-dodger-stadium-open-seats-in-nlcs-game-3/92263223007/"
+    },
+    {
+      "category": "Brewers",
       "description": "After the back-to-back home runs by Jake Bauers and Garrett Mitchell propelled the Brewers to a 6-2 Game 3 victory at Dodger Stadium and a 3-0 lead in the National League Championship Series, ...",
-      "published": "2026-10-15T00:03:00+00:00",
+      "published": "2026-10-15T08:18:00+00:00",
       "title": "Brewers fans still upset with Fox coverage of 2026 NLCS vs Dodgers",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/15/brewers-fans-upset-fox-coverage-nlcs/92259600007/"
     },
@@ -16,6 +23,13 @@
     },
     {
       "category": "Brewers",
+      "description": "The Brewers and Dodgers play Game 3 of their best-of-seven playoff series at 7 p.m. Wednesday, Oct. 14, at Dodger Stadium in Los Angeles. Live stream: You can stream the game on the Fox One or Fox ...",
+      "published": "2026-10-14T13:38:00+00:00",
+      "title": "What channel is the Brewers game on tonight? TV, Game 3 start time",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/14/watch-brewers-vs-dodgers-tonight-tv-channel-game-3-start-time/92237862007/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Milwaukee Brewers go for a 3-0 series lead over the Los Angeles Dodgers in the 2026 NLCS. Follow for live game and score updates.",
       "published": "2026-10-13T23:21:00+00:00",
       "title": "Bauers, Mitchell go back-to-back, launch Brewers to 3-0 series lead",
@@ -24,7 +38,7 @@
     {
       "category": "Brewers",
       "description": "Robert Gasser puffed on a cigar amidst the madness in the visiting clubhouse at Petco Park and revealed his game plan for his start that evening in the clinching game of the National League Division ...",
-      "published": "2026-10-14T23:53:00+00:00",
+      "published": "2026-10-15T10:18:00+00:00",
       "title": "Robert Gasser is on his way to becoming an October legend in Milwaukee",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/15/robert-gasser-on-his-way-to-becoming-a-brewers-playoff-hero/92246430007/"
     },
@@ -51,13 +65,6 @@
     },
     {
       "category": "Brewers",
-      "description": "The Brewers are nearing their first World Series appearance since 1982. Wisconsin residents will be able to buy tickets starting Thursday, Oct. 15.",
-      "published": "2026-10-14T11:51:00+00:00",
-      "title": "Wisconsin resident presale for Brewers World Series tickets starts Oct. 15",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/14/brewers-world-series-wisconsin-resident-presale-starts-thursday/92249529007/"
-    },
-    {
-      "category": "Brewers",
       "description": "The Milwaukee Brewers and Los Angeles Dodgers were originally scheduled to play Game 4 of the NLCS at 8 p.m. CT, but now it's an hour earlier.",
       "published": "2026-10-14T13:22:00+00:00",
       "title": "Brewers, Dodgers Game 4 of NLCS on Thursday will start an hour earlier",
@@ -76,16 +83,9 @@
       "published": "2026-10-12T07:04:00+00:00",
       "title": "At long last, these Milwaukee Brewers are making you believe",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/12/brewers-making-milwaukee-believe-in-possible-world-series/92168583007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Brewers are sitting pretty, and here's a look at what national (and Los Angeles) writers had to say about Game 2 and Milwaukee's series lead.",
-      "published": "2026-10-13T11:17:00+00:00",
-      "title": "What national writers are saying about the Brewers' Game 2 win in NLCS",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/13/brewers-nlcs-lead-dodgers-playing-nationally/92233285007/"
     }
   ],
-  "generated_at": "2026-10-15T14:35:04.006961+00:00",
+  "generated_at": "2026-10-15T18:27:24.917300+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "MassLive’s Fenway Insider Sean McAdam hosted a mailbag Thursday, Oct. 15 to highlight the latest news from the Boston Red Sox.",
+      "published": "2026-10-15T15:00:00+00:00",
+      "title": "Fenway Insider Live: Sean McAdam on Red Sox medical staff, free agency and more",
+      "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-live-sean-mcadam-on-red-sox-medical-staff-free-agency-and-more.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox haven't given out No. 21 since Roger Clemens left, but it still hasn't been retired. Should it join the other legendary numbers on the right field facade? Matt Vautour and Chris Mason weigh in for MassLive's latest Extra Point video.",
       "published": "2026-10-14T18:19:46+00:00",
       "title": "Should the Red Sox retire Roger Clemens’ number?",
@@ -97,23 +104,9 @@
       "published": "2026-10-08T19:46:46+00:00",
       "title": "The Red Sox paid a steep price to land Adley Rutschman — now comes the harder question",
       "url": "https://www.masslive.com/redsox/2026/10/why-the-red-sox-will-extend-adley-rutschman-and-why-they-wont-chris-cotillo.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "A potential lockout is around the corner in MLB with the CBA expiring on Dec. 1. Should fans be rooting for a salary cap? MassLive’s Sean McAdam shares his thoughts from the latest Fenway Insider Live.",
-      "published": "2026-10-08T17:52:19+00:00",
-      "title": "Should MLB fans be rooting for a salary cap with the next CBA?",
-      "url": "https://www.masslive.com/redsox/2026/10/should-mlb-fans-be-rooting-for-a-salary-cap-with-the-next-cba.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "MassLive’s Fenway Insider Sean McAdam hosted a mailbag Thursday, Oct. 8 to highlight the latest news from the Boston Red Sox.",
-      "published": "2026-10-08T15:00:00+00:00",
-      "title": "Fenway Insider Live: Sean McAdam on what comes next for Red Sox",
-      "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-live-sean-mcadam-on-what-comes-next-for-red-sox.html"
     }
   ],
-  "generated_at": "2026-10-14T18:51:05.551967+00:00",
+  "generated_at": "2026-10-15T18:26:48.162936+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
