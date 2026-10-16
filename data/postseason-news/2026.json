@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-15T22:41:42.018473+00:00",
+  "generatedAt": "2026-10-16T00:49:45.774341+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 7,
+  "coveredTeamCount": 8,
   "articles": [
+    {
+      "title": "Grading the Boston Red Sox’ 2026 position players| The Fenway Rundown",
+      "description": "The latest \"Fenway Rundown\" episode features Chris Cotillo Sean McAdam giving out their grades for the Red Sox position players.",
+      "url": "https://www.masslive.com/redsox/2026/10/grading-the-boston-red-sox-2026-position-players-the-fenway-rundown.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "MLB officials mulling whether to postpone ALCS Game 4 due to bad weather",
+      "description": "Notes | With forecasts calling for day/night rain Friday, there may be a proactive move to push Games 4 and 5 back a day in Cleveland.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/15/mlb-officials-mulling-whether-postpone-alcs-game-4-due-bad-weather/",
+      "published": "2026-10-16T00:00:19.418000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees lefty took his first step in breaking out — now he has sights on bigger goal",
+      "description": "",
+      "url": "https://nypost.com/2026/10/15/sports/yankees-ryan-weathers-took-his-first-step-in-breaking-out/",
+      "published": "2026-10-15T23:32:34+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "In a battle of similar styles, Rays are being beaten at their own game",
       "description": "The Guardians and the Rays both play a small-ball, run-prevention style of game. So far in the ALCS, the Guardians are doing it better.",
@@ -105,6 +141,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Brewers vs. Dodgers score, live updates: Milwaukee-Los Angeles scoreless in NLCS Game 4",
+      "description": "The Milwaukee Brewers hold a 3-0 series lead over the Los Angeles Dodgers entering Game 4 of the NLCS tonight at Dodger Stadium. Propelled by the long ball Wednesday night, the Brewers took a ...",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "For the Guardians, an unlikely October hero arrived in Game 3. His name is Petey",
+      "description": "Halpin's home run on Thursday pushed the Cleveland Guardians to within two wins of their first World Series trip in a decade.",
+      "url": "https://www.nytimes.com/athletic/7691104/2026/10/15/petey-halpin-guardians-alcs-game-3-home-run-mlb-playoffs/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "The proof that Yankees’ shortstop rollercoaster is finally over",
       "description": "",
       "url": "https://nypost.com/2026/10/15/sports/the-proof-that-yankees-shortstop-rollercoaster-is-finally-over/",
@@ -115,6 +175,54 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "One important lesson to draw from each of MLB’s remaining postseason teams",
+      "description": "Don't go halfway, make the extra trade and homers are overrated are just some of the takeaways we've learned this season.",
+      "url": "https://www.nytimes.com/athletic/7687797/2026/10/15/mlb-playoffs-dodgers-brewers-guardians-rays/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "How manager Don Mattingly wants to change the Phillies as focus shifts to 2027",
+      "description": "Mattingly said he wants to prioritize defense and believes the Phillies' offense can build upon its success from August.",
+      "url": "https://www.nytimes.com/athletic/7693659/2026/10/15/don-mattingly-phillies-manager-2027-season-priorities/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "teamAbbreviation": "PHI",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "The Brewers erased the Dodgers’ pitching advantage by blasting Blake Snell",
+      "description": "Snell marveled that Milwaukee's Jake Bauers fought him off for so long before belting a homer: 'What an at-bat. I threw everything I had.' ...",
+      "url": "https://www.nytimes.com/athletic/7685332/2026/10/15/dodgers-nlcs-game-3-mlb-playoffs-blake-snell/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Small ball or home runs? Yes. Brewers’ winning formula pushes Dodgers to the brink",
+      "description": "What makes the Brewers so tough to beat: small ball or home runs? Well, both. The formula has Milwaukee on the verge of the World Series.",
+      "url": "https://www.nytimes.com/athletic/7685338/2026/10/15/brewers-small-ball-home-runs-dodgers-nlcs/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Braves go into 2027 season without clear-cut choice at shortstop",
@@ -138,30 +246,6 @@
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers vs. Dodgers live updates: MLB playoffs NLCS Game 4 start time, predictions and latest",
-      "description": "The Milwaukee Brewers hold a 3-0 series lead over the Los Angeles Dodgers entering Game 4 of the NLCS tonight at Dodger Stadium. Propelled by the long ball Wednesday night, the Brewers took a ...",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "How manager Don Mattingly wants to change the Phillies as focus shifts to 2027",
-      "description": "Mattingly said he wants to prioritize defense and believes the Phillies' offense can build upon its success from August.",
-      "url": "https://www.nytimes.com/athletic/7693659/2026/10/15/don-mattingly-phillies-manager-2027-season-priorities/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -189,6 +273,18 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Cleveland beats Tampa Bay thanks to Petey Halpin clutch homer in MLB playoffs ALCS Game 3: Rays vs. Guardians live updates, reaction",
+      "description": "Overall, Williams has pitched 11 2/3 innings for Cleveland this October, tallying a tidy 1.54 ERA with 24 strikeouts and just two runs allowed. It will be interesting to monitor how his ability to ...",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-mlb-playoffs-game-3-score-result/n2xcBsufwYxd/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "What channel is the Brewers game on tonight? TV, Game 4 start time",
       "description": "The Brewers and Dodgers play Game 4 of their best-of-seven playoff series at 7 p.m. Thursday, Oct. 15, at Dodger Stadium in Los Angeles.",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/15/watch-brewers-vs-dodgers-tonight-tv-channel-game-4-start-time/92260275007/",
@@ -211,66 +307,6 @@
       "teamAbbreviation": "MIL",
       "league": "NL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "NLCS ticket prices in Los Angeles go as low as $72 as Brewers take lead",
-      "description": "Most tickets available on StubHub for Game 4, scheduled for 7 p.m. Thursday, Oct. 15 in Los Angeles, ranged in price from $72 to $369, though some seats especially close to the field were going for ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/15/nlcs-ticket-prices-for-los-angeles-games-fall-as-brewers-take-3-0-lead/92267012007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Caleb Durbin, Ceddanne Rafaela, and Wilyer Abreu named Gold Glove Award finalists",
-      "description": "While Rafaela (2025) and Abreu ('24, '25) are the reigning Gold Glovers at their positions, Durbin is a first-time finalist after his first season in Boston.",
-      "url": "https://www.bostonglobe.com/2026/10/14/sports/red-sox-gold-glove-finalists/",
-      "published": "2026-10-15T12:31:09.811000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees faced with big Giancarlo Stanton question after another injury-riddled year",
-      "description": "Stanton has reached a point in his contract where the Yankees could be comfortable moving...",
-      "url": "https://www.nydailynews.com/2026/10/15/yankees-faced-with-big-giancarlo-stanton-question-after-another-injury-riddled-year/",
-      "published": "2026-10-15T12:30:32+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "‘Mandatory’ for Trea Turner’s defense to improve, Dave Dombrowski says: Phillies takeaways",
-      "description": "Dombrowski is entering the offseason with the assumption Turner is the 2027 shortstop. \"At this point. ... We'll see what happens.",
-      "url": "https://www.nytimes.com/athletic/7693228/2026/10/15/phillies-trea-turner-shortstop-dave-dombrowski-takeaways/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The Sports Report: Dodgers are in a deep NLCS hole",
-      "description": "The Milwaukee Brewers seem to have the Dodgers number as they win Wednesday to take a commanding 3-0 lead in the NLCS.",
-      "url": "https://www.latimes.com/sports/newsletter/2026-10-15/dodgers-nlcs-game-3",
-      "published": "2026-10-15T11:25:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
     }
   ]
 }
