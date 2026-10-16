@@ -1,24 +1,24 @@
 {
   "enabled": true,
   "entry": {
-    "fallback": "Chourio’s 18 RBI set the before-23 postseason record. Jones: 17 RBI · 128 at-bats; Chourio: 18 RBI · 74 at-bats",
-    "id": "chourio-before-23",
+    "fallback": "2025: Dodgers sweep. 2026: Brewers sweep. Milwaukee goes from 4 runs to 21.",
+    "id": "same-teams-opposite-sweep",
     "minimumRendererVersion": 2,
-    "publishedAt": "2026-10-15T13:28:25Z",
+    "publishedAt": "2026-10-16T11:54:11Z",
     "renderer": "chart-trajectory",
     "rendererVersion": 1,
-    "revision": "a5153ffa87569f31a74557f9a5545978a2ec69303724248de0370ede0c76af71",
-    "summary": "Jackson Chourio · Milwaukee Brewers; Andruw Jones · Atlanta Braves. Postseason before age 23.",
+    "revision": "5a9a6ae5f399c8a3ef4fd77c0c0a7019e36aef9fe08783096bf37dd212d2d29b",
+    "summary": "Los Angeles swept Milwaukee in 2025. One year later, Milwaukee returned the favor.",
     "teamIDs": [
-      158,
-      144
+      119,
+      158
     ],
-    "title": "Milwaukee’s Chourio’s 18 RBI set the before-23 postseason record."
+    "title": "Same teams. Opposite sweep."
   },
-  "expiresAt": "2026-10-15T17:00:00Z",
+  "expiresAt": "2026-10-17T00:00:00Z",
   "minimumBuild": 130,
-  "notBefore": "2026-10-15T13:28:25Z",
-  "publishedAt": "2026-10-15T13:28:25Z",
-  "revision": "chourio-october15-approved",
+  "notBefore": "2026-10-16T11:54:11Z",
+  "publishedAt": "2026-10-16T11:54:11Z",
+  "revision": "same-teams-october16-approved",
   "schemaVersion": 1
 }

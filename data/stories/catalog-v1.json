@@ -1,8 +1,23 @@
 {
-  "publishedAt": "2026-10-15T13:28:25Z",
-  "revision": "release-4681d9fd7ee242618d2a5a20f0a6c206",
+  "publishedAt": "2026-10-16T11:54:11Z",
+  "revision": "release-65b51782024f40228cea98736c1dadd7",
   "schemaVersion": 1,
   "stories": [
+    {
+      "fallback": "2025: Dodgers sweep. 2026: Brewers sweep. Milwaukee goes from 4 runs to 21.",
+      "id": "same-teams-opposite-sweep",
+      "minimumRendererVersion": 2,
+      "publishedAt": "2026-10-16T11:54:11Z",
+      "renderer": "chart-trajectory",
+      "rendererVersion": 1,
+      "revision": "5a9a6ae5f399c8a3ef4fd77c0c0a7019e36aef9fe08783096bf37dd212d2d29b",
+      "summary": "Los Angeles swept Milwaukee in 2025. One year later, Milwaukee returned the favor.",
+      "teamIDs": [
+        119,
+        158
+      ],
+      "title": "Same teams. Opposite sweep."
+    },
     {
       "fallback": "Chourio’s 18 RBI set the before-23 postseason record. Jones: 17 RBI · 128 at-bats; Chourio: 18 RBI · 74 at-bats",
       "id": "chourio-before-23",

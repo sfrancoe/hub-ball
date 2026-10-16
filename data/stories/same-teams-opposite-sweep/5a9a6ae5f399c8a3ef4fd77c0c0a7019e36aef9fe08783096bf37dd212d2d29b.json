@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "same-teams-opposite-sweep",
+  "renderer": "chart-trajectory",
+  "rendererVersion": 1,
+  "title": "Same teams. Opposite sweep.",
+  "kicker": "DODGERS × BREWERS · TWO NLCS MEETINGS",
+  "intro": "Los Angeles swept Milwaukee in 2025. One year later, Milwaukee returned the favor.",
+  "chart": {
+    "kind": "bar",
+    "durationSeconds": 3,
+    "xAxis": {
+      "label": "NLCS year",
+      "minimum": 2025,
+      "maximum": 2026,
+      "ticks": [
+        2025,
+        2026
+      ]
+    },
+    "yAxis": {
+      "label": "Runs in four games",
+      "minimum": 0,
+      "maximum": 25,
+      "ticks": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ]
+    },
+    "series": [
+      {
+        "id": "dodgers",
+        "label": "Los Angeles Dodgers",
+        "color": "navy",
+        "points": [
+          {
+            "x": 2025,
+            "y": 15
+          },
+          {
+            "x": 2026,
+            "y": 11
+          }
+        ]
+      },
+      {
+        "id": "brewers",
+        "label": "Milwaukee Brewers",
+        "color": "coral",
+        "points": [
+          {
+            "x": 2025,
+            "y": 4
+          },
+          {
+            "x": 2026,
+            "y": 21
+          }
+        ]
+      }
+    ],
+    "emphasis": []
+  },
+  "conclusion": "2025: Dodgers sweep. 2026: Brewers sweep. Milwaukee goes from 4 runs to 21.",
+  "methodology": [
+    "Four games in each NLCS. Different rosters, pitching matchups and game situations; equal game counts do not mean identical opportunities. Runs are series totals, not win probabilities or a forecast.",
+    "Final games through October 15, 2026. Source retrieval October 16, approximately 11:38–11:40 UTC."
+  ],
+  "sources": [
+    {
+      "id": "same-teams-opposite-sweep-source-1",
+      "title": "Official MLB data",
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=158&startDate=2025-10-01&endDate=2025-10-31&gameTypes=L",
+      "retrievedAt": "2026-10-16T11:53:54Z"
+    },
+    {
+      "id": "same-teams-opposite-sweep-source-2",
+      "title": "Official MLB data",
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=158&startDate=2026-10-01&endDate=2026-10-16&gameTypes=L",
+      "retrievedAt": "2026-10-16T11:53:54Z"
+    },
+    {
+      "id": "same-teams-opposite-sweep-source-3",
+      "title": "Official MLB report",
+      "url": "https://www.mlb.com/brewers/news/brewers-win-nlcs-2026",
+      "retrievedAt": "2026-10-16T11:53:54Z"
+    }
+  ]
+}
