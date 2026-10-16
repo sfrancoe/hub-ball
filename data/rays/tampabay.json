@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Notes | With forecasts calling for day/night rain Friday, there may be a proactive move to push Games 4 and 5 back a day in Cleveland.",
+      "published": "2026-10-16T00:00:19+00:00",
+      "title": "MLB officials mulling whether to postpone ALCS Game 4 due to bad weather",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/15/mlb-officials-mulling-whether-postpone-alcs-game-4-due-bad-weather/"
+    },
+    {
+      "category": "Rays",
       "description": "Tampa Bay takes a one-run lead on Chandler Simpson’s two-run triple in the fourth inning, but it doesn’t last long.",
       "published": "2026-10-15T22:35:47+00:00",
       "title": "Rays fall short in ALCS Game 3 as Guardians rally against Griffin Jax",
@@ -104,16 +111,9 @@
       "published": "2026-10-12T15:13:20+00:00",
       "title": "Rays add hard-throwing rookie Brody Hopkins as only ALCS roster change",
       "url": "https://www.tampabay.com/sports/rays/2026/10/12/brody-hopkins-rotation-bullpen-alcs-guardians/"
-    },
-    {
-      "category": "Rays",
-      "description": "Cleveland is pleased to still be in the postseason hunt, and manager Stephen Vogt has appreciation for how Tampa Bay’s staff helped him.",
-      "published": "2026-10-12T01:13:08+00:00",
-      "title": "Guardians have plenty of reasons to be happy about facing Rays in ALDS",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/11/cleveland-guardians-alcs-parker-messick-foster-griffin/"
     }
   ],
-  "generated_at": "2026-10-15T23:49:32.641034+00:00",
+  "generated_at": "2026-10-16T02:17:51.284253+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
