@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:58:21.144809+00:00",
+  "generated_at": "2026-10-16T21:43:38.157377+00:00",
   "source": "MLB Stats API",
   "team": "Guardians",
   "regular_season_end": "2026-09-27",
@@ -7,7 +7,7 @@
     {
       "game_pk": 849817,
       "game_date": "2026-10-17T00:00:00Z",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "venue": "Progressive Field",
       "location": "home",
       "opponent": "Rays",
