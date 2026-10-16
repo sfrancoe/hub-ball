@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rangers",
+      "description": "The 2027 schedule announced Thursday night includes return trips to Globe Life Field in Arlington and Riders Field in Frisco.",
+      "published": "2026-10-16T07:11:00+00:00",
+      "title": "Savannah Bananas announce 2027 schedule. When will they stop in North Texas?",
+      "url": "https://www.dallasnews.com/sports/rangers/article/savannah-bananas-announce-2027-schedule-stop-22480022.php"
+    },
+    {
+      "category": "Rangers",
       "description": "After some backward steps from players like Jacob deGrom and Nathan Eovaldi, the Rangers have more questions than answers about their rotation.",
       "published": "2026-10-15T04:01:00+00:00",
       "title": "Rangers starting pitching analysis: What went right, wrong, an overall grade and what's next?",
@@ -57,7 +64,7 @@
       "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-corey-seager-trade-contract-injury-22467530.php"
     }
   ],
-  "generated_at": "2026-10-16T12:32:40.207548+00:00",
+  "generated_at": "2026-10-16T16:54:44.793088+00:00",
   "source": "Dallas Morning News",
   "source_url": "https://www.dallasnews.com/sports/rangers/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "MLB in mid-morning announces plans for an 8:08 p.m. start but will continue to monitor the forecast.",
+      "published": "2026-10-16T15:34:18+00:00",
+      "title": "Rays, Guardians set for Game 4 tonight, though weather still an issue",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/16/alcs-game-4-start-time-weather-forecast-cleveland-guardians-nick-martinez/"
+    },
+    {
+      "category": "Rays",
       "description": "Notes | With forecasts calling for day/night rain Friday, there may be a proactive move to push Games 4 and 5 back a day in Cleveland.",
       "published": "2026-10-16T00:00:19+00:00",
       "title": "MLB officials mulling whether to postpone ALCS Game 4 due to bad weather",
@@ -104,16 +111,9 @@
       "published": "2026-10-12T22:45:05+00:00",
       "title": "Plant City’s Parker Messick to start ALCS Game 2 for Guardians vs. Rays",
       "url": "https://www.tampabay.com/sports/rays/2026/10/12/parker-messick-alcs-game-2-cleveland-guardians-plant-city-stephen-vogt/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | It’s the same 12-pitcher, 14-player breakdown except for lefty Garrett Cleavinger, who is dropped.",
-      "published": "2026-10-12T15:13:20+00:00",
-      "title": "Rays add hard-throwing rookie Brody Hopkins as only ALCS roster change",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/12/brody-hopkins-rotation-bullpen-alcs-guardians/"
     }
   ],
-  "generated_at": "2026-10-16T02:17:51.284253+00:00",
+  "generated_at": "2026-10-16T16:54:37.165366+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
