@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "In the final weekend of the regular season, the Milwaukee Brewers named a team captain for the first time in franchise history. Christian Yelich, the oldest player on their roster, began to wear a C ...",
+      "published": "2026-10-16T02:29:00+00:00",
+      "title": "Building the Brewers: Ten moves that brought Milwaukee to the World Series",
+      "url": "https://www.nytimes.com/athletic/7694850/2026/10/16/building-brewers-10-moves-world-series/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Don’t call it a fairy tale, not when a team has won 110 times this year. Call it a chance to prove, at last, that Milwaukee can win it all.",
+      "published": "2026-10-16T04:44:00+00:00",
+      "title": "A new bunch of Brewers folk heroes steamroll into World Series, ending 44-year drought",
+      "url": "https://www.nytimes.com/athletic/7691517/2026/10/16/brewers-sweep-dodgers-milwaukee-world-series-drought/"
+    },
+    {
+      "category": "Brewers",
+      "description": "The two-time defending World Series champions have been dethroned, leaving them to ponder the changes that will come next.",
+      "published": "2026-10-15T17:01:00+00:00",
+      "title": "Has the Dodgers’ dynasty reached its end? Maybe not. But hard questions await",
+      "url": "https://www.nytimes.com/athletic/7691509/2026/10/16/dodgers-dynasty-brewers-sweep-nlcs/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Milwaukee Brewers hold a 3-0 series lead over the Los Angeles Dodgers entering Game 4 of the NLCS tonight at Dodger Stadium. Propelled by the long ball Wednesday night, the Brewers took a ...",
       "published": "2026-10-15T21:45:00+00:00",
       "title": "How the Brewers swept the Dodgers in NLCS to head to World Series for first time since 1982",
@@ -9,31 +30,10 @@
     },
     {
       "category": "Brewers",
-      "description": "What makes the Brewers so tough to beat: small ball or home runs? Well, both. The formula has Milwaukee on the verge of the World Series.",
-      "published": "2026-10-15T15:42:00+00:00",
-      "title": "Small ball or home runs? Yes. Brewers’ winning formula pushes Dodgers to the brink",
-      "url": "https://www.nytimes.com/athletic/7685338/2026/10/15/brewers-small-ball-home-runs-dodgers-nlcs/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Snell marveled that Milwaukee's Jake Bauers fought him off for so long before belting a homer: 'What an at-bat. I threw everything I had.' ...",
-      "published": "2026-10-15T15:42:00+00:00",
-      "title": "The Brewers erased the Dodgers’ pitching advantage by blasting Blake Snell",
-      "url": "https://www.nytimes.com/athletic/7685332/2026/10/15/dodgers-nlcs-game-3-mlb-playoffs-blake-snell/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Don't go halfway, make the extra trade and homers are overrated are just some of the takeaways we've learned this season.",
-      "published": "2026-10-15T15:46:00+00:00",
-      "title": "One important lesson to draw from each of MLB’s remaining postseason teams",
-      "url": "https://www.nytimes.com/athletic/7687797/2026/10/15/mlb-playoffs-dodgers-brewers-guardians-rays/"
-    },
-    {
-      "category": "Brewers",
-      "description": "With an impressive 11-pitch at-bat in the seventh inning, Jake Bauers helped lift the Brewers to a Game 3 win.",
-      "published": "2026-10-15T03:00:00+00:00",
-      "title": "Jake Bauers never gave up. That resilient spirit helped deliver October glory",
-      "url": "https://www.nytimes.com/athletic/7691455/2026/10/15/jake-bauers-brewers-nlcs-game-3-home-run-mlb-playoffs-2026/"
+      "description": "That’s how many days it’s been since the Brewers appeared in a World Series game, and the 44-year streak will be snapped soon after Milwaukee’s incredible 6-4 win in Los Angeles last night. With it, ...",
+      "published": "2026-10-16T03:13:00+00:00",
+      "title": "Milwaukee snaps 44-year streak, plus an incredible bat flip",
+      "url": "https://www.nytimes.com/athletic/7693237/2026/10/16/brewers-dodgers-world-series-the-pulse/"
     },
     {
       "category": "Brewers",
@@ -48,16 +48,9 @@
       "published": "2026-10-14T15:43:00+00:00",
       "title": "Brewers’ blasts push Dodgers to the brink. Is three-peat dream over for champs?",
       "url": "https://www.nytimes.com/athletic/7685322/2026/10/14/dodgers-brewers-game-3-score-results-takeaways-mlb-nlcs-2026/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Rays and Brewers have overcome smaller payrolls by investing in technology and having novel approaches to coaching and roster construction.",
-      "published": "2026-10-14T15:43:00+00:00",
-      "title": "Rays, Brewers always outperform expectations. These ‘Moneyball’-like edges are the key",
-      "url": "https://www.nytimes.com/athletic/7684373/2026/10/14/brewers-rays-analytics-moneyball-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-16T07:19:18.529095+00:00",
+  "generated_at": "2026-10-16T12:32:58.495952+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }

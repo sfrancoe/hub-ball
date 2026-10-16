@@ -1,18 +1,18 @@
 {
   "articles": [
     {
+      "category": "Brewers 6, Dodgers 4",
+      "description": "Garrett Mitchell and David Hamilton homered for the Brewers, who knocked out the two-time defending World Series champions.",
+      "published": "2026-10-16T11:18:36.156Z",
+      "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982",
+      "url": "https://www.bostonglobe.com/2026/10/15/sports/brewers-dodgers-nlcs-game-4-score/"
+    },
+    {
       "category": "BASEBALL",
       "description": "The 2027 schedule includes 79 stadiums across 74 cities. Bananas owner and Scituate native Jesse Cole expects the tour to draw an estimated 4.3 million fans.",
       "published": "2026-10-16T04:59:08.034Z",
-      "title": "Worcester, Portland to host Banana Ball games as part of 2027 world tour",
+      "title": "Worcester, Portland to host Banana Ball games as part of viral phenomenon’s 2027 world tour",
       "url": "https://www.bostonglobe.com/2026/10/16/sports/banana-ball-2027-schedule-worcester-portland/"
-    },
-    {
-      "category": "Brewers 6, Dodgers 4",
-      "description": "Garrett Mitchell and David Hamilton homered for the Brewers, who knocked out the two-time defending World Series champions.",
-      "published": "2026-10-16T03:34:30.356Z",
-      "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982",
-      "url": "https://www.bostonglobe.com/2026/10/15/sports/brewers-dodgers-nlcs-game-4-score/"
     },
     {
       "category": "Guardians 3, Rays 2",
@@ -113,7 +113,7 @@
       "url": "https://www.bostonglobe.com/2026/10/09/sports/red-sox-garrett-whitlock-injury/"
     }
   ],
-  "generated_at": "2026-10-16T07:18:52.753771+00:00",
+  "generated_at": "2026-10-16T12:32:09.424045+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

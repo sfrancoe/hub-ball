@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees could make the easy decision and give Volpe every chance to win the second base job, but that doesn't make sense. This does.",
+      "published": "2026-10-16T10:09:17+00:00",
+      "title": "Aaron Judge believes Yankees need Anthony Volpe to win a World Series. Where does he fit?",
+      "url": "https://www.nytimes.com/athletic/7690615/2026/10/16/aaron-judge-anthony-volpe-yankees-world-series/"
+    },
+    {
+      "category": "Yankees",
       "description": "Stanton, who turns 37 in November, doesn't have a clear fit on the roster. Will the Yankees move on from him?",
       "published": "2026-10-14T11:00:30+00:00",
       "title": "Yankees' 3 pressing roster questions: What to do with Giancarlo Stanton?",
@@ -132,16 +139,9 @@
       "published": "2026-10-05T10:00:17+00:00",
       "title": "Yankees' Cam Schlittler has been 'shaped' by playoff adversity. He'll lean on it now",
       "url": "https://www.nytimes.com/athletic/7661416/2026/10/05/yankees-cam-schlittler-playoff-adversity/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Dartmouth’s dining hall smelled of chocolate chip cookies. Ben Rice stuck to chicken and broccoli. It’s a small window into his success.",
-      "published": "2026-10-05T09:00:02+00:00",
-      "title": "Ben Rice’s rise from Ivy League to Yankees star can be explained by 5 words (in Spanish)",
-      "url": "https://www.nytimes.com/athletic/7660449/2026/10/05/ben-rice-yankees-college-routine/"
     }
   ],
-  "generated_at": "2026-10-14T14:29:41.645412+00:00",
+  "generated_at": "2026-10-16T12:32:14.028912+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

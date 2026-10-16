@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox face a pivotal offseason decision on top prospect Franklin Arias, weighing whether to build around him or trade him for proven major league talent.",
+      "published": "2026-10-16T09:00:00+00:00",
+      "title": "State of the Sox: The Red Sox have a prized asset in Franklin Arias — but figuring out where he fits, or whether to trade him, could define their offseason",
+      "url": "https://www.masslive.com/redsox/2026/10/state-of-the-sox-decision-on-top-prospect-could-hold-key-to-offseason.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The latest \"Fenway Rundown\" episode features Chris Cotillo Sean McAdam giving out their grades for the Red Sox position players.",
       "published": "2026-10-16T00:33:52+00:00",
       "title": "Grading the Boston Red Sox’ 2026 position players | The Fenway Rundown",
@@ -90,23 +97,9 @@
       "published": "2026-10-09T22:59:27+00:00",
       "title": "Sonny Gray wants to keep pitching — and Boston is still an option",
       "url": "https://www.masslive.com/redsox/2026/10/sonny-gray-makes-quick-decision-on-playing-career.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox face key offseason decisions on coaching, roster construction, budget constraints, prospect depth, and aging contracts as they prepare for the 2027 season.",
-      "published": "2026-10-09T10:00:01+00:00",
-      "title": "State of the Sox: From Trevor Story's future to a potential salary cap, here's what the Red Sox must sort out before the 2027 season takes shape",
-      "url": "https://www.masslive.com/redsox/2026/10/state-of-the-sox-five-questions-team-must-answer-before-offseason-gets-underway.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "A decade and a half without a title would have meant multiple firings under the Boss. Under Hal, it means business as usual.",
-      "published": "2026-10-09T09:00:00+00:00",
-      "title": "Matt Vautour: George Steinbrenner would never have stood for this",
-      "url": "https://www.masslive.com/redsox/2026/10/george-steinbrenner-would-never-have-stood-for-so-much-yankee-playoff-failure.html"
     }
   ],
-  "generated_at": "2026-10-16T07:18:55.696433+00:00",
+  "generated_at": "2026-10-16T12:32:10.861453+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
