@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "BASEBALL",
+      "description": "The 2027 schedule includes 79 stadiums across 74 cities. Bananas owner and Scituate native Jesse Cole expects the tour to draw an estimated 4.3 million fans.",
+      "published": "2026-10-16T04:59:08.034Z",
+      "title": "Worcester, Portland to host Banana Ball games as part of 2027 world tour",
+      "url": "https://www.bostonglobe.com/2026/10/16/sports/banana-ball-2027-schedule-worcester-portland/"
+    },
+    {
+      "category": "Brewers 6, Dodgers 4",
+      "description": "Garrett Mitchell and David Hamilton homered for the Brewers, who knocked out the two-time defending World Series champions.",
+      "published": "2026-10-16T03:34:30.356Z",
+      "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982",
+      "url": "https://www.bostonglobe.com/2026/10/15/sports/brewers-dodgers-nlcs-game-4-score/"
+    },
+    {
       "category": "Guardians 3, Rays 2",
       "description": "Game 4 in the best-of-seven matchup is scheduled for Friday, though rain is forecast.",
       "published": "2026-10-15T21:18:37.655Z",
@@ -97,23 +111,9 @@
       "published": "2026-10-10T01:35:49.448Z",
       "title": "Garrett Whitlock pitched through a broken leg down the stretch for the Red Sox, tests reveal",
       "url": "https://www.bostonglobe.com/2026/10/09/sports/red-sox-garrett-whitlock-injury/"
-    },
-    {
-      "category": "Dan Shaughnessy",
-      "description": "The NLCS starts Sunday when Mookie Betts and the defending champion Dodgers play Game 1 in Milwaukee.",
-      "published": "2026-10-10T01:05:32.649Z",
-      "title": "The playoffs remind us why baseball will always be the greatest game, and other thoughts",
-      "url": "https://www.bostonglobe.com/2026/10/09/sports/baseball-playoffs-on-tv/"
-    },
-    {
-      "category": "MLB",
-      "description": "The St. John's (Shrewsbury) graduate will be making his fifth appearance and third start against Cleveland this year. He is 3-0 with a 1.19 ERA.",
-      "published": "2026-10-10T00:54:32.547Z",
-      "title": "White Sox turn to Sutton’s Sean Burke in winner-take-all ALDS Game 5 vs. Guardians",
-      "url": "https://www.bostonglobe.com/2026/10/09/sports/alds-white-sox-guardians-sean-burke/"
     }
   ],
-  "generated_at": "2026-10-15T21:36:39.339051+00:00",
+  "generated_at": "2026-10-16T07:18:52.753771+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

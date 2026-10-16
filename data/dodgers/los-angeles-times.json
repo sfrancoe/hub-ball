@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "Los Angeles Dodgers manager Dave Roberts on losing the NLCS, not going to the World Series for a third time in a row, and not having regrets with how he managed the series.",
+      "published": "2026-10-15T17:01:00+00:00",
+      "title": "Dave Roberts on Dodgers losing the NLCS and having no regrets",
+      "url": "https://www.latimes.com/vs6zlsi4ghm-123"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Milwaukee Brewers seem to have the Dodgers number as they win Wednesday to take a commanding 3-0 lead in the NLCS.",
       "published": "2026-10-15T05:25:00+00:00",
       "title": "The Sports Report: Dodgers are in a deep NLCS hole",
@@ -9,17 +16,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
-      "published": "2026-10-14T22:38:00+00:00",
-      "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
-    },
-    {
-      "category": "Dodgers",
       "description": "Bex Castillo asked the Times’ sports desk at Game 3 of the NLCS where the Los Angeles Dodgers faced off against the Milwaukee Brewers. Rebecca Castillo is a content creator for the Los Angeles Times.",
       "published": "2026-10-14T17:00:00+00:00",
       "title": "How do our reporters stay sane while covering the Dodgers?",
       "url": "https://www.latimes.com/000001a1-3d19-d7d4-a9f5-ff9d8b430000-123"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
+      "published": "2026-10-14T22:38:00+00:00",
+      "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
     },
     {
       "category": "Dodgers",
@@ -51,6 +58,13 @@
     },
     {
       "category": "Dodgers",
+      "description": "Dodgers veteran infielder Miguel Rojas announces his retirement immediately after the team's season-ending loss to the Milwaukee Brewers in the NLCS.",
+      "published": "2026-10-15T10:20:00+00:00",
+      "title": "Miguel Rojas announces his retirement following Dodgers’ NLCS loss",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-15/miguel-rojas-announces-his-retirement-dodgers-nlcs-brewers"
+    },
+    {
+      "category": "Dodgers",
       "description": "Andrew Friedman wants \"chaos,\" and he could see a lot of it when the Dodgers face a talented 103-win Milwaukee Brewers team in an NLCS rematch.",
       "published": "2026-10-09T04:00:00+00:00",
       "title": "‘I just want chaos.’ Don’t expect Dodgers to sweep Brewers again in NLCS",
@@ -58,34 +72,20 @@
     },
     {
       "category": "Dodgers",
+      "description": "The Los Angeles Dodgers will not be going to the World Series. They will not win a third consecutive title. They were swept by the Milwaukee Brewers in the NLCS. Los Angeles Times beat writer Maddie ...",
+      "published": "2026-10-15T17:01:00+00:00",
+      "title": "Dodgers Debate NLCS Game 4: Dodgers are swept, no three-peat",
+      "url": "https://www.latimes.com/lwabbaygmbk-123"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Los Angeles Dodgers are one game away from being swept out of the playoffs and missing their chance at three-peat history after losing Game 3 to the Milwaukee Brewers 6-2. Los Angeles Times beat ...",
       "published": "2026-10-14T21:38:00+00:00",
       "title": "Dodgers Debate NLCS Game 3: Dodgers stare down a sweep",
       "url": "https://www.latimes.com/ytmvvjfnltg-123"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Los Angeles Dodgers struck first, but not enough, losing Game 1 of the NLCS to the Milwaukee Brewers 2-1. Los Angeles Times beat writer Maddie Lee and columnists Bill Plaschke and Mirjam Swanson ...",
-      "published": "2026-10-11T21:49:00+00:00",
-      "title": "Dodgers Debate NLCS Game 1: Great pitching but no offense",
-      "url": "https://www.latimes.com/l-yr-vkl8ac-123"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Yoshinobu Yamamoto lasted just 2⅔ innings, and the Dodgers couldn’t hold multiple leads in a 7-4 loss to Milwaukee in Game 2 of the National League Championship Series. The Brewers’ relievers shut ...",
-      "published": "2026-10-12T21:40:00+00:00",
-      "title": "Dodgers will consider sitting Shohei Ohtani after offense struggles in Game 2 NLCS loss",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/yoshinobu-yamamoto-game-2-nlcs-dodgers-brewers"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Maddie Lee covers the Dodgers for the Los Angeles Times. She joined the paper in March 2026 after six years in Chicago, where she was a Cubs beat writer for the Chicago Sun-Times and NBC Sports ...",
-      "published": "2026-10-03T06:55:00+00:00",
-      "title": "Dodgers Debate: Dodgers and Braves",
-      "url": "https://www.latimes.com/dkticdjbdy0-123"
     }
   ],
-  "generated_at": "2026-10-16T02:18:01.914849+00:00",
+  "generated_at": "2026-10-16T07:19:20.366284+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }
