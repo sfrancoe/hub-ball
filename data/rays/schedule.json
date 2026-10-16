@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:08:17.068937+00:00",
+  "generated_at": "2026-10-16T16:58:17.890978+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -14,9 +14,9 @@
       "opponent_record": "2-1",
       "favorite_team_record": "1-2",
       "favorite_team_pitcher": "Nick Martinez",
-      "opponent_pitcher": "",
+      "opponent_pitcher": "Shawn Armstrong",
       "favorite_team_pitcher_record": "15-6",
-      "opponent_pitcher_record": "—",
+      "opponent_pitcher_record": "2-1",
       "show_probables": true,
       "series_description": "AL Championship Series",
       "doubleheader": false,
