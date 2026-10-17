@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "A Q&A yields some interesting answers about who Neander is happiest for, what led to this season’s success, what it’s like working for new owners.",
+      "published": "2026-10-17T17:30:00+00:00",
+      "title": "Rays baseball boss Erik Neander on best part of 2026 so far, future",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/17/rays-baseball-boss-erik-neander-best-part-2026-so-far-future/"
+    },
+    {
+      "category": "Rays",
       "description": "Yandy Diaz, Jonathan Aranda and Junior Caminero going a combined 5-for-34 is a big part of Tampa Bay’s 2-1 series deficit.",
       "published": "2026-10-17T04:34:27+00:00",
       "title": "With ‘Big 3′ struggling, Rays need to return to a team-offense approach",
@@ -97,16 +104,9 @@
       "published": "2026-10-13T03:15:37+00:00",
       "title": "Rays let early lead get away, lose ALCS opener to gritty Guardians",
       "url": "https://www.tampabay.com/sports/rays/2026/10/12/alcs-game-1-guardians-chase-delauter-patrick-bailey-drew-rasmussen-junior-caminero/"
-    },
-    {
-      "category": "Rays",
-      "description": "Photo gallery | Cleveland strikes first in the best-of-seven series.",
-      "published": "2026-10-13T00:12:08+00:00",
-      "title": "See images from Rays’ AL Championship Series opener against Guardians",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/12/guardians-alcs-game-1-photos-drew-rasmussen-foster-griffin-junior-caminero-yandy-diaz/"
     }
   ],
-  "generated_at": "2026-10-17T15:58:28.829460+00:00",
+  "generated_at": "2026-10-17T18:15:41.035893+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

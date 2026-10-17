@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "David Rubenstein’s lament about owning a baseball team “not being easy” starts and stops with him (“ Orioles’ David Rubenstein says owning club ‘not as easy as I thought,’ ” Oct. 15). The biggest ...",
+      "published": "2026-10-17T10:28:00+00:00",
+      "title": "Orioles need better personnel | READER COMMENTARY",
+      "url": "https://www.baltimoresun.com/2026/10/17/orioles-personnel-rubenstein/"
+    },
+    {
+      "category": "Orioles",
       "description": "Layoffs and poor performance reflect poorly on David Rubenstein’s ownership of the Orioles, writes Patrick R. Lynch.",
       "published": "2026-10-16T10:19:00+00:00",
       "title": "Orioles owner has shown poor judgment | READER COMMENTARY",
@@ -16,10 +23,10 @@
     },
     {
       "category": "Orioles",
-      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
-      "published": "2026-10-14T03:30:00+00:00",
-      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
-      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
+      "description": "Why aren’t the Orioles’ first-round outfielders reaching their potential in the major leagues? The group needs better performance in a hurry.",
+      "published": "2026-10-15T03:30:00+00:00",
+      "title": "Orioles position in review: 1st-round outfielders stagnated in 2026",
+      "url": "https://www.baltimoresun.com/2026/10/15/orioles-position-in-review-first-round-outfielders-not-reaching-ceilings-colton-cowser-dylan-beavers/"
     },
     {
       "category": "Orioles",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Orioles",
-      "description": "Why aren’t the Orioles’ first-round outfielders reaching their potential in the major leagues? The group needs better performance in a hurry.",
-      "published": "2026-10-15T03:30:00+00:00",
-      "title": "Orioles position in review: 1st-round outfielders stagnated in 2026",
-      "url": "https://www.baltimoresun.com/2026/10/15/orioles-position-in-review-first-round-outfielders-not-reaching-ceilings-colton-cowser-dylan-beavers/"
-    },
-    {
-      "category": "Orioles",
       "description": "The latest episode of the BMore Baseball Podcast is here. Orioles Hall of Famer Mike Bordick and sportscaster Jerry Coleman are joined by former Orioles pitcher and Orioles Hall of Famer Gregg Olson.",
       "published": "2026-10-14T12:22:00+00:00",
       "title": "WATCH: Orioles Hall of Famer Gregg Olson joins the BMore Baseball Podcast",
@@ -44,27 +44,13 @@
     },
     {
       "category": "Orioles",
-      "description": "With the Orioles’ season in the books, The Baltimore Sun is looking back on its preseason roster previews position by position and examining how each group made good on its expectations. After a ...",
-      "published": "2026-10-13T03:30:00+00:00",
-      "title": "Orioles position in review: Rutschman-Basallo catching duo was underwhelming, short-lived",
-      "url": "https://www.baltimoresun.com/2026/10/13/orioles-position-review-adley-rutschman-samuel-basallo-catching-duo-underwhelming-short-lived/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles’ bullpen survived the extended absences of Ryan Helsley and Félix Bautista in 2026 with a collection of largely unproven arms.",
-      "published": "2026-10-08T03:29:00+00:00",
-      "title": "Orioles position in review: Some new, some old faces starred in 2026 bullpen",
-      "url": "https://www.baltimoresun.com/2026/10/08/orioles-position-review-new-old-faces-starred-bullpen/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles’ rotation turned in strong innings totals and had an unlikely MVP in Brandon Young, making the unit a bright spot in 2026.",
-      "published": "2026-10-07T04:30:00+00:00",
-      "title": "Orioles position in review: Rotation bounced back, but still room to grow",
-      "url": "https://www.baltimoresun.com/2026/10/07/orioles-position-review-rotation-bounced-back-still-room-grow/"
+      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
+      "published": "2026-10-14T03:30:00+00:00",
+      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
+      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
     }
   ],
-  "generated_at": "2026-10-17T15:58:30.704266+00:00",
+  "generated_at": "2026-10-17T18:15:42.403538+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
