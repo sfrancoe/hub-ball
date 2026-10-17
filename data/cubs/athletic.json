@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Cubs",
-      "description": "\"We struggled with Edward,\" Cubs president of baseball operations Jed Hoyer said of the right-hander, who had a career-worst 5.96 ERA.",
-      "published": "2026-10-07T04:13:00+00:00",
-      "title": "The Cubs hope to put Edward Cabrera’s blister issues, poor season in the past",
-      "url": "https://www.nytimes.com/athletic/7665913/2026/10/07/edward-cabrera-cubs-struggles/"
-    },
-    {
-      "category": "Cubs",
       "description": "Forced to play the San Diego Padres on the road in a best-of-three series, the Cubs started Matthew Boyd and Kevin Gausman, who was dealing with a sore left shoulder. Holmes did not throw a pitch as ...",
       "published": "2026-10-04T04:45:00+00:00",
       "title": "The Cubs thought Clay Holmes was a ‘perfect fit.’ What happened?",
       "url": "https://www.nytimes.com/athletic/7656536/2026/10/04/clay-holmes-cubs-season-future/"
+    },
+    {
+      "category": "Cubs",
+      "description": "\"We struggled with Edward,\" Cubs president of baseball operations Jed Hoyer said of the right-hander, who had a career-worst 5.96 ERA.",
+      "published": "2026-10-07T04:13:00+00:00",
+      "title": "The Cubs hope to put Edward Cabrera’s blister issues, poor season in the past",
+      "url": "https://www.nytimes.com/athletic/7665913/2026/10/07/edward-cabrera-cubs-struggles/"
     },
     {
       "category": "Cubs",
@@ -44,6 +44,13 @@
     },
     {
       "category": "Cubs",
+      "description": "Rainy conditions could impact this weekend's series between the Chicago Cubs and Boston Red Sox at Fenway Park. Joe Buglewicz / Getty Images BOSTON — The forecast calls for rain in Boston this weekend ...",
+      "published": "2026-09-22T02:59:00+00:00",
+      "title": "How potential inclement weekend weather at Fenway could impact NL wild-card race",
+      "url": "https://www.nytimes.com/athletic/7618266/2026/09/22/boston-red-sox-chicago-cubs-fenway-park-rain/"
+    },
+    {
+      "category": "Cubs",
       "description": "Thursday's 2-1 win over Miami nailed down a postseason spot, but uncertainty about the near future remains. Matt Marton / Imagn Images for Reuters Connect CHICAGO — Right before the All-Star break, ...",
       "published": "2026-09-23T17:00:00+00:00",
       "title": "For calloused Cubs, challenges mount with Bregman, Gausman concerns and travel drama",
@@ -57,7 +64,7 @@
       "url": "https://www.nytimes.com/athletic/7357918/2026/06/14/seiya-suzuki-key-to-unlocking-cubs/"
     }
   ],
-  "generated_at": "2026-10-17T20:40:14.718503+00:00",
+  "generated_at": "2026-10-17T22:41:27.729600+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

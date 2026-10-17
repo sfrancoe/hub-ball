@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Royals",
-      "description": "On Thursday, the Kansas City Royals and architecture firm Populous revealed new renderings for the stadium, which will be housed in Crown Center. The new renderings gave a first look at the stadium ...",
-      "published": "2026-10-16T10:12:00+00:00",
-      "title": "Kansas Citians are impressed with Royals stadium design, but question the logistics",
-      "url": "https://www.kansascity.com/news/local/article317650872.html"
-    },
-    {
-      "category": "Royals",
       "description": "More details are to come about development in the planned sports entertainment district, including new possible housing, dining and shops.",
       "published": "2026-10-16T22:00:00+00:00",
       "title": "New Royals stadium designs leave some questions unanswered. Here are the biggest",
@@ -20,6 +13,13 @@
       "published": "2026-10-16T22:29:00+00:00",
       "title": "Why it’s OK to be excited, if still a bit cautious, about Royals’ planned stadium",
       "url": "https://www.kansascity.com/sports/spt-columns-blogs/vahe-gregorian/article317657430.html"
+    },
+    {
+      "category": "Royals",
+      "description": "On Thursday, the Kansas City Royals ( Shop Royals Fan Gear) and architecture firm Populous revealed new renderings for the stadium, which will be housed in Crown Center. The new renderings gave a ...",
+      "published": "2026-10-16T10:12:00+00:00",
+      "title": "Kansas Citians are impressed with Royals stadium design, but question the logistics",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317650872.html"
     },
     {
       "category": "Royals",
@@ -71,7 +71,7 @@
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317572377.html"
     }
   ],
-  "generated_at": "2026-10-17T18:15:45.045691+00:00",
+  "generated_at": "2026-10-17T22:41:22.033324+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }
