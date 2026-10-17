@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-17T21:31:11.291003+00:00",
+  "generatedAt": "2026-10-17T23:30:17.125282+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "The Brewers, Guardians, and Rays have proven this MLB postseason that money doesn’t equal might",
+      "description": "The Dodgers are spending more on their luxury tax bill than the Brewers are on payroll, but it's Milwaukee headed to the World Series as LA's two-year championship reign ends.",
+      "url": "https://www.bostonglobe.com/2026/10/17/sports/sunday-baseball-notes-brewers-dodgers/",
+      "published": "2026-10-17T21:44:55.522000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Rays’ Chandler Simpson: ‘It means a lot’ to be a role model for kids",
       "description": "Knowing he’s in a position to show Black youth there can be a place for them in baseball is a responsibility the outfielder says he enjoys.",
@@ -45,16 +57,16 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "The Brewers, Guardians, and Rays have proven this MLB postseason that money doesn’t equal might",
-      "description": "The Dodgers are spending more on their luxury tax bill than the Brewers are on payroll, but it's Milwaukee headed to the World Series as LA's two-year championship reign ends.",
-      "url": "https://www.bostonglobe.com/2026/10/17/sports/sunday-baseball-notes-brewers-dodgers/",
-      "published": "2026-10-17T14:14:30.965000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
+      "title": "Rays vs. Guardians live updates: MLB playoffs ALCS rescheduled Game 4 start time, predictions, latest",
+      "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
       "league": "AL",
-      "publishedSource": "publisher"
+      "publishedSource": "unverified"
     },
     {
       "title": "The Dodgers’ dream of a three-peat was shattered. What went wrong and what are fans saying?",
@@ -67,42 +79,6 @@
       "teamAbbreviation": "LAD",
       "league": "NL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Letters to Sports: The good and the bad to Brewers’ sweep of the Dodgers",
-      "description": "Readers of the Los Angeles Times Sports section share their thoughts on the Dodgers' stunning loss as well as the Rams' and Chargers' downfalls.",
-      "url": "https://www.latimes.com/sports/story/2026-10-17/letters-good-bad-to-brewers-sweep-of-dodgers",
-      "published": "2026-10-17T11:00:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Zach Top toasts Brewers, takes '90s country torch at Milwaukee concert",
-      "description": "Top performed at Fiserv Forum Oct. 16 with guest Marty Stuart the night after after the Brewers won the NLCS and a ticket to the World Series.",
-      "url": "https://www.jsonline.com/story/entertainment/music/2026/10/17/zach-top-toasts-brewers-takes-90s-country-torch-at-milwaukee-concert/92194501007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays vs. Guardians live updates: MLB playoffs ALCS rescheduled Game 4 start time, predictions, latest",
-      "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
-      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
