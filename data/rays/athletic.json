@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "“The rain didn’t change,” Rays manager Kevin Cash said. “It never cleared out the way they were hoping.\"",
+      "published": "2026-10-17T01:10:05+00:00",
+      "title": "'It just wasn’t in the cards': ALCS Game 4 postponed amid inclement weather in Cleveland",
+      "url": "https://www.nytimes.com/athletic/7692670/2026/10/16/rays-guardians-postponed-weather-alcs-game-4/"
+    },
+    {
+      "category": "Rays",
       "description": "The Guardians and the Rays both play a small-ball, run-prevention style of game. So far in the ALCS, the Guardians are doing it better.",
       "published": "2026-10-15T21:52:58+00:00",
       "title": "In a battle of similar styles, Rays are being beaten at their own game",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T11:06:57+00:00",
       "title": "Division Series Weird & Wild: Brewers, Padres kept it close, but Yankees never led Rays",
       "url": "https://www.nytimes.com/athletic/7671079/2026/10/08/brewers-padres-yankees-rays-white-sox-strikeout-record/"
-    },
-    {
-      "category": "Rays",
-      "description": "Mesa was in mix during the most action-packed moments of Game 3, and he's a big reason why Tampa Bay's unselfish roster is so cohesive.",
-      "published": "2026-10-08T09:30:05+00:00",
-      "title": "Start spreading the news: Victor Mesa Jr., Rays are headed to ALCS after sweeping Yankees",
-      "url": "https://www.nytimes.com/athletic/7670757/2026/10/08/rays-alcs-victor-mesa-jr-yankees-sweep/"
     }
   ],
-  "generated_at": "2026-10-15T23:49:33.020295+00:00",
+  "generated_at": "2026-10-17T04:56:10.594347+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

@@ -2,9 +2,16 @@
   "articles": [
     {
       "category": "Rays",
-      "description": "The league in mid-morning announced plans for an 8:08 p.m. first pitch, but rain lingered. Officials still expect the game to be played.",
-      "published": "2026-10-16T23:58:43+00:00",
-      "title": "Rays-Guardians ALCS Game 4 won’t start on time, but MLB still hopeful",
+      "description": "Yandy Diaz, Jonathan Aranda and Junior Caminero being a combined 5-for-34 would seem to be a big part of Tampa Bay’s 2-1 series deficit.",
+      "published": "2026-10-17T04:34:27+00:00",
+      "title": "With ‘Big 3′ struggling, Rays need return to a team-offense approach",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/17/junior-caminero-alcs-guardians-jonathan-aranda-yandy-diaz-chandler-simpson/"
+    },
+    {
+      "category": "Rays",
+      "description": "The game, originally scheduled for Friday, has been moved to Saturday night due to inclement weather in Cleveland.",
+      "published": "2026-10-17T01:11:15+00:00",
+      "title": "Rays-Guardians ALCS Game 4 postponed until Saturday",
       "url": "https://www.tampabay.com/sports/rays/2026/10/16/alcs-game-4-start-time-weather-forecast-cleveland-guardians-nick-martinez/"
     },
     {
@@ -104,16 +111,9 @@
       "published": "2026-10-12T23:36:36+00:00",
       "title": "MLB commissioner ‘excited’ by what Rays have done, what’s to come",
       "url": "https://www.tampabay.com/sports/rays/2026/10/12/rob-manfred-mlb-commissioner-tampa-stadium/"
-    },
-    {
-      "category": "Rays",
-      "description": "Messick started Games 1 and 4 of the American League Division Series against the White Sox, working 6 ⅔ innings.",
-      "published": "2026-10-12T22:45:05+00:00",
-      "title": "Plant City’s Parker Messick to start ALCS Game 2 for Guardians vs. Rays",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/12/parker-messick-alcs-game-2-cleveland-guardians-plant-city-stephen-vogt/"
     }
   ],
-  "generated_at": "2026-10-17T00:31:21.147051+00:00",
+  "generated_at": "2026-10-17T04:56:10.137788+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
