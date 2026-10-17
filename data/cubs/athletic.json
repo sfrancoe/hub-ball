@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Cubs",
-      "description": "Forced to play the San Diego Padres on the road in a best-of-three series, the Cubs started Matthew Boyd and Kevin Gausman, who was dealing with a sore left shoulder. Holmes did not throw a pitch as ...",
-      "published": "2026-10-04T04:45:00+00:00",
-      "title": "The Cubs thought Clay Holmes was a ‘perfect fit.’ What happened?",
-      "url": "https://www.nytimes.com/athletic/7656536/2026/10/04/clay-holmes-cubs-season-future/"
-    },
-    {
-      "category": "Cubs",
       "description": "I think it’s safe to say that the biggest part of our focus going into the offseason is going to be on pitching,” Hoyer said Friday.",
       "published": "2026-10-03T04:00:00+00:00",
       "title": "After playoff exit, Jed Hoyer says the Cubs’ offseason focus is clear",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Cubs",
-      "description": "\"It starts now for everybody in this organization. Assess the year and come back and be better next year. Because it wasn't good enough.\" ...",
-      "published": "2026-10-06T04:00:00+00:00",
-      "title": "Why Alex Bregman sees the Cubs’ season as a ‘failure’",
-      "url": "https://www.nytimes.com/athletic/7664456/2026/10/06/alex-bregman-health-cubs-failure/"
+      "description": "Forced to play the San Diego Padres on the road in a best-of-three series, the Cubs started Matthew Boyd and Kevin Gausman, who was dealing with a sore left shoulder. Holmes did not throw a pitch as ...",
+      "published": "2026-10-04T04:45:00+00:00",
+      "title": "The Cubs thought Clay Holmes was a ‘perfect fit.’ What happened?",
+      "url": "https://www.nytimes.com/athletic/7656536/2026/10/04/clay-holmes-cubs-season-future/"
     },
     {
       "category": "Cubs",
@@ -30,6 +23,13 @@
     },
     {
       "category": "Cubs",
+      "description": "\"It starts now for everybody in this organization. Assess the year and come back and be better next year. Because it wasn't good enough.\" ...",
+      "published": "2026-10-06T04:00:00+00:00",
+      "title": "Why Alex Bregman sees the Cubs’ season as a ‘failure’",
+      "url": "https://www.nytimes.com/athletic/7664456/2026/10/06/alex-bregman-health-cubs-failure/"
+    },
+    {
+      "category": "Cubs",
       "description": "“They’ve had the best record in baseball the last two years,” Jed Hoyer said of the Brewers on Friday. “There’s no denying that.” Michael Reaves / Getty Images CHICAGO — Within the Wrigleyville empire ...",
       "published": "2026-10-03T04:00:00+00:00",
       "title": "Rise of the Brewers and wasted opportunities will gnaw at Jed Hoyer all offseason",
@@ -37,24 +37,10 @@
     },
     {
       "category": "Cubs",
-      "description": "As Happ approaches free agency for the first time, the 32-year-old outfielder can already see the writing on the wall. That uncertainty made the scene at Petco Park so emotional l ...",
+      "description": "“I’ve never had to go through the free-agent-year thing,” Ian Happ said. “When you’re in a place for 10 years, and you love it, and it’s special and it means something to you, it’s a beautiful thing.",
       "published": "2026-10-05T03:00:00+00:00",
       "title": "‘Everything’s on the table’ for Cubs and Ian Happ heading into a pivotal offseason",
       "url": "https://www.nytimes.com/athletic/7660047/2026/10/05/ian-happ-cubs-free-agency-future/"
-    },
-    {
-      "category": "Cubs",
-      "description": "Seiya Suzuki needed to mentally separate his hitting from his defense to play up to his potential defensively. He wants to continue that approach for the rest of the season. Thearon W. Henderson / ...",
-      "published": "2026-06-14T04:00:00+00:00",
-      "title": "Why Seiya Suzuki is a key to unlocking the rest of this Cubs season",
-      "url": "https://www.nytimes.com/athletic/7357918/2026/06/14/seiya-suzuki-key-to-unlocking-cubs/"
-    },
-    {
-      "category": "Cubs",
-      "description": "Cubs manager Craig Counsell is searching for answers to help Chicago snap a seven-game losing skid. Griffin Quinn / Getty Images CHICAGO — Craig Counsell’s style isn’t for everyone. The Chicago Cubs ...",
-      "published": "2026-05-22T17:00:00+00:00",
-      "title": "When will the bigger shake-up happen to a Cubs team that is spiraling?",
-      "url": "https://www.nytimes.com/athletic/7303670/2026/05/23/chicago-cubs-spiraling-shake-up-mlb/"
     },
     {
       "category": "Cubs",
@@ -69,9 +55,16 @@
       "published": "2026-09-23T17:00:00+00:00",
       "title": "For calloused Cubs, challenges mount with Bregman, Gausman concerns and travel drama",
       "url": "https://www.nytimes.com/athletic/7627465/2026/09/24/cubs-playoffs-bregman-gausman-boston-weather-travel/"
+    },
+    {
+      "category": "Cubs",
+      "description": "Seiya Suzuki needed to mentally separate his hitting from his defense to play up to his potential defensively. He wants to continue that approach for the rest of the season. Thearon W. Henderson / ...",
+      "published": "2026-06-14T04:00:00+00:00",
+      "title": "Why Seiya Suzuki is a key to unlocking the rest of this Cubs season",
+      "url": "https://www.nytimes.com/athletic/7357918/2026/06/14/seiya-suzuki-key-to-unlocking-cubs/"
     }
   ],
-  "generated_at": "2026-10-17T04:56:42.272113+00:00",
+  "generated_at": "2026-10-17T08:59:13.499748+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

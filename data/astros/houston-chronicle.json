@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "The Savannah Bananas are bringing their unique brand of baseball to several giant football stadiums in 2027, including in Houston, San Antonio and Waco.",
-      "published": "2026-10-15T22:19:00+00:00",
-      "title": "Savannah Bananas will try to fill Houston's Reliant Stadium with pair of wild games in 2027",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/savannah-bananas-2027-schedule-football-stadiums-22479702.php"
-    },
-    {
-      "category": "Astros",
       "description": "Joe Espada posts a farewell to his players, staff and fans in Houston after not being retained as Astros manager.",
       "published": "2026-10-15T18:38:00+00:00",
       "title": "Former Astros manager Joe Espada says thank you and goodbye to Houston",
@@ -23,17 +16,17 @@
     },
     {
       "category": "Astros",
-      "description": "Joe Espada was the 20th full-time manager in Houston Astros history. With his chapter closed, we rank the franchise's Top 10 all-time managers to see where Espada fits on the list.",
-      "published": "2026-10-14T14:23:00+00:00",
-      "title": "Where does Joe Espada rank among top 10 managers in Houston Astros history?",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/managers-history-ranking-all-time-best-dusty-hinch-22477386.php"
-    },
-    {
-      "category": "Astros",
       "description": "Jeremy Peña has proved to be a catalyst atop the Astros' lineup for two straight seasons, but had an injury-marred 2026 and is heading into the last year of team control.",
       "published": "2026-10-14T04:00:00+00:00",
       "title": "Will shortstop Jeremy Peña get extension and buck trend? | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-astros-roster-analysis-jeremy-pe-a-22475893.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Joe Espada was the 20th full-time manager in Houston Astros history. With his chapter closed, we rank the franchise's Top 10 all-time managers to see where Espada fits on the list.",
+      "published": "2026-10-14T14:23:00+00:00",
+      "title": "Where does Joe Espada rank among top 10 managers in Houston Astros history?",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/managers-history-ranking-all-time-best-dusty-hinch-22477386.php"
     },
     {
       "category": "Astros",
@@ -48,6 +41,13 @@
       "published": "2026-10-14T08:20:00+00:00",
       "title": "Timeline: A look at key events during Joe Espada's tenure as Houston Astros manager",
       "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-timeline-houston-manager-22457312.php"
+    },
+    {
+      "category": "Astros",
+      "description": "The Savannah Bananas are bringing their unique brand of baseball to several giant football stadiums in 2027, including in Houston, San Antonio and Waco.",
+      "published": "2026-10-15T22:19:00+00:00",
+      "title": "Savannah Bananas will try to fill Houston's Reliant Stadium with pair of wild games in 2027",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/savannah-bananas-2027-schedule-football-stadiums-22479702.php"
     },
     {
       "category": "Astros",
@@ -71,7 +71,7 @@
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-first-base-2026-christian-walker-22471465.php"
     }
   ],
-  "generated_at": "2026-10-17T04:56:24.907049+00:00",
+  "generated_at": "2026-10-17T08:59:09.313033+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "Layoffs and poor performance reflect poorly on David Rubenstein’s ownership of the Orioles, writes Patrick R. Lynch.",
-      "published": "2026-10-16T10:19:00+00:00",
-      "title": "Orioles owner has shown poor judgment | READER COMMENTARY",
-      "url": "https://www.baltimoresun.com/2026/10/16/orioles-rubenstein-layoffs/"
-    },
-    {
-      "category": "Orioles",
       "description": "In his first public comments since the Orioles’ season ended, owner David Rubenstein expressed his disappointment about his ballclub’s struggles.",
       "published": "2026-10-15T19:20:00+00:00",
       "title": "Orioles’ David Rubenstein says owning club ‘not as easy as I thought’",
       "url": "https://www.baltimoresun.com/2026/10/15/orioles-david-rubenstein-owning-club-not-easy/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Layoffs and poor performance reflect poorly on David Rubenstein’s ownership of the Orioles, writes Patrick R. Lynch.",
+      "published": "2026-10-16T10:19:00+00:00",
+      "title": "Orioles owner has shown poor judgment | READER COMMENTARY",
+      "url": "https://www.baltimoresun.com/2026/10/16/orioles-rubenstein-layoffs/"
     },
     {
       "category": "Orioles",
@@ -64,7 +64,7 @@
       "url": "https://www.baltimoresun.com/2026/10/15/orioles-pitcher-cade-povich-elbow-surgery/"
     }
   ],
-  "generated_at": "2026-10-17T00:31:23.491488+00:00",
+  "generated_at": "2026-10-17T08:59:06.520839+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
