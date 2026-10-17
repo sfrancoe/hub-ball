@@ -9,13 +9,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "Bex Castillo asked the Times’ sports desk at Game 3 of the NLCS where the Los Angeles Dodgers faced off against the Milwaukee Brewers. Rebecca Castillo is a content creator for the Los Angeles Times.",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "How do our reporters stay sane while covering the Dodgers?",
-      "url": "https://www.latimes.com/000001a1-3d19-d7d4-a9f5-ff9d8b430000-123"
-    },
-    {
-      "category": "Dodgers",
       "description": "Los Angeles Dodgers manager Dave Roberts on losing the NLCS, not going to the World Series for a third time in a row, and not having regrets with how he managed the series.",
       "published": "2026-10-15T20:53:00+00:00",
       "title": "Dave Roberts on Dodgers losing the NLCS and having no regrets",
@@ -37,17 +30,17 @@
     },
     {
       "category": "Dodgers",
+      "description": "Bex Castillo asked the Times’ sports desk at Game 3 of the NLCS where the Los Angeles Dodgers faced off against the Milwaukee Brewers. Rebecca Castillo is a content creator for the Los Angeles Times.",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "How do our reporters stay sane while covering the Dodgers?",
+      "url": "https://www.latimes.com/000001a1-3d19-d7d4-a9f5-ff9d8b430000-123"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Dodgers failed Shohei Ohtani this summer, but now they need to do what is best and set him down for the duration of the playoffs.",
       "published": "2026-10-13T20:31:00+00:00",
       "title": "Dodgers should have taken Shohei Ohtani off the postseason roster",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-13/dodgers-shohei-ohtani-postseason-roster"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Dodgers miss out on three straight rings, the fast-moving Norte fire is burning homes in south Orange County and more big stories.",
-      "published": "2026-10-17T07:30:00+00:00",
-      "title": "The Dodgers’ dream of a three-peat was shattered. What went wrong and what are fans saying?",
-      "url": "https://www.latimes.com/california/newsletter/2026-10-17/heres-why-the-dodgers-missed-a-three-peat-and-what-fans-are-saying"
     },
     {
       "category": "Dodgers",
@@ -62,6 +55,13 @@
       "published": "2026-10-12T21:12:00+00:00",
       "title": "In the NLCS, the Dodgers are seeing what money can’t buy: a bullpen such as Milwaukee’s",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/nlcs-dodgers-brewers-bullpen-matchup-abner-uribe"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Dodgers miss out on three straight rings, the fast-moving Norte fire is burning homes in south Orange County and more big stories.",
+      "published": "2026-10-17T07:30:00+00:00",
+      "title": "The Dodgers’ dream of a three-peat was shattered. What went wrong and what are fans saying?",
+      "url": "https://www.latimes.com/california/newsletter/2026-10-17/heres-why-the-dodgers-missed-a-three-peat-and-what-fans-are-saying"
     },
     {
       "category": "Dodgers",
@@ -85,7 +85,7 @@
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-15/miguel-rojas-announces-his-retirement-dodgers-nlcs-brewers"
     }
   ],
-  "generated_at": "2026-10-17T18:15:54.126124+00:00",
+  "generated_at": "2026-10-17T20:40:17.286344+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Knowing he’s in a position to show Black youth there can be a place for them in baseball is a responsibility the outfielder says he enjoys.",
+      "published": "2026-10-17T18:30:00+00:00",
+      "title": "Rays’ Chandler Simpson: ‘It means a lot’ to be a role model for kids",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/17/chandler-simpson-role-model-alcs-omega-psi-phi-fraternity-gold-glove-finalist/"
+    },
+    {
+      "category": "Rays",
       "description": "A Q&A yields some interesting answers about who Neander is happiest for, what led to this season’s success, what it’s like working for new owners.",
       "published": "2026-10-17T17:30:00+00:00",
       "title": "Rays baseball boss Erik Neander on best part of 2026 so far, future",
@@ -97,16 +104,9 @@
       "published": "2026-10-13T17:59:15+00:00",
       "title": "Hillsborough sets sales tax hearing for proposed Rays stadium",
       "url": "https://www.tampabay.com/sports/rays/2026/10/13/new-rays-stadium-hearing-tampa/"
-    },
-    {
-      "category": "Rays",
-      "description": "Cleveland shows fight at the plate, scoring all seven of its runs over the final four innings, and determination on the mound.",
-      "published": "2026-10-13T03:15:37+00:00",
-      "title": "Rays let early lead get away, lose ALCS opener to gritty Guardians",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/12/alcs-game-1-guardians-chase-delauter-patrick-bailey-drew-rasmussen-junior-caminero/"
     }
   ],
-  "generated_at": "2026-10-17T18:15:41.035893+00:00",
+  "generated_at": "2026-10-17T20:40:06.500689+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
