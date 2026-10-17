@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-17T16:30:40.070310+00:00",
+  "generatedAt": "2026-10-17T18:53:03.507004+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Rays’ Chandler Simpson: ‘It means a lot’ to be a role model for kids",
+      "description": "Knowing he’s in a position to show Black youth there can be a place for them in baseball is a responsibility the outfielder says he enjoys.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/17/chandler-simpson-role-model-alcs-omega-psi-phi-fraternity-gold-glove-finalist/",
+      "published": "2026-10-17T18:30:00+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays baseball boss Erik Neander on best part of 2026 so far, future",
+      "description": "A Q&A yields some interesting answers about who Neander is happiest for, what led to this season’s success, what it’s like working for new owners.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/17/rays-baseball-boss-erik-neander-best-part-2026-so-far-future/",
+      "published": "2026-10-17T17:30:00+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "The Yankees’ outfield road map largely centers on one key piece — and the questions that surround him",
+      "description": "",
+      "url": "https://nypost.com/2026/10/17/sports/the-yankees-outfield-road-map-largely-centers-spencer-jones/",
+      "published": "2026-10-17T17:18:26+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "The Brewers, Guardians, and Rays have proven this MLB postseason that money doesn’t equal might",
       "description": "The Dodgers are spending more on their luxury tax bill than the Brewers are on payroll, but it's Milwaukee headed to the World Series as LA's two-year championship reign ends.",
@@ -45,6 +81,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Zach Top toasts Brewers, takes '90s country torch at Milwaukee concert",
+      "description": "Top performed at Fiserv Forum Oct. 16 with guest Marty Stuart the night after after the Brewers won the NLCS and a ticket to the World Series.",
+      "url": "https://www.jsonline.com/story/entertainment/music/2026/10/17/zach-top-toasts-brewers-takes-90s-country-torch-at-milwaukee-concert/92194501007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Red Sox Report Cards: Mixed reviews for talented outfield group",
       "description": "The Red Sox boast one of the best outfields in baseball, but some of the club’s young standouts enjoyed better seasons than others.",
       "url": "https://www.bostonherald.com/2026/10/17/red-sox-report-cards-mixed-reviews-for-talented-outfield-group/",
@@ -69,18 +117,6 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Sorry, Phillies fans, Dave Dombrowski is not going anywhere for a long, long time. Is that a bad thing?",
-      "description": "Dealin' Dave, President for Life, denied offering a job to Alex Cora, said Trea Turner must audition at shortstop, and said the farm system is A-OK. Seriously: I hope John Middleton never fires him.",
-      "url": "https://www.inquirer.com/phillies/phillies-dave-dombrowski-trea-turner-bryce-harper-20261017.html",
-      "published": "2026-10-17T09:01:01+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
       "title": "MLB saw the rain coming and gave us an unnecessary night of nonsense anyway",
       "description": "MLB's handling of the American League Championship Series could result in Cleveland and Tampa Bay playing four games in four nights.",
       "url": "https://www.nytimes.com/athletic/7697773/2026/10/17/mlb-game-4-postponed-guardian-rays/",
@@ -103,30 +139,6 @@
       "teamAbbreviation": "MIL",
       "league": "NL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "What comes next for a dynasty? Setting the stage for the Dodgers’ offseason",
-      "description": "More than 30 minutes after the fall of the Los Angeles Dodgers’ dynasty, the players who made it happen sat in silent acceptance. The Dodgers, trounced in four games by the Milwaukee Brewers in the ...",
-      "url": "https://www.nytimes.com/athletic/7697036/2026/10/17/dodgers-offseason-plans/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "With ‘Big 3′ struggling, Rays need to return to a team-offense approach",
-      "description": "Yandy Diaz, Jonathan Aranda and Junior Caminero going a combined 5-for-34 is a big part of Tampa Bay’s 2-1 series deficit.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/17/junior-caminero-alcs-guardians-jonathan-aranda-yandy-diaz-chandler-simpson/",
-      "published": "2026-10-17T04:34:27.163000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
