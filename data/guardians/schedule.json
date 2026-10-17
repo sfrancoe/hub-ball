@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T05:02:58.616713+00:00",
+  "generated_at": "2026-10-17T15:56:57.548102+00:00",
   "source": "MLB Stats API",
   "team": "Guardians",
   "regular_season_end": "2026-09-27",
   "games": [
     {
       "game_pk": 849816,
-      "game_date": "2026-10-18T00:00:00Z",
+      "game_date": "2026-10-18T00:08:00Z",
       "status": "Scheduled",
       "venue": "Progressive Field",
       "location": "home",
@@ -54,7 +54,7 @@
     },
     {
       "game_pk": 849817,
-      "game_date": "2026-10-18T21:00:00Z",
+      "game_date": "2026-10-18T21:08:00Z",
       "status": "Scheduled",
       "venue": "Progressive Field",
       "location": "home",
@@ -102,7 +102,7 @@
     },
     {
       "game_pk": 849815,
-      "game_date": "2026-10-20T00:00:00Z",
+      "game_date": "2026-10-20T00:08:00Z",
       "status": "Scheduled",
       "venue": "Tropicana Field",
       "location": "away",
@@ -150,7 +150,7 @@
     },
     {
       "game_pk": 849814,
-      "game_date": "2026-10-21T00:00:00Z",
+      "game_date": "2026-10-21T00:08:00Z",
       "status": "Scheduled",
       "venue": "Tropicana Field",
       "location": "away",
