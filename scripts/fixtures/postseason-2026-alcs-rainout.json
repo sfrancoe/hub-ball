@@ -1,0 +1,318 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "dates": [
+    {
+      "date": "2026-10-12",
+      "games": [
+        {
+          "gamePk": 849820,
+          "gameType": "L",
+          "gameDate": "2026-10-13T00:00:00Z",
+          "officialDate": "2026-10-12",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "F",
+            "detailedState": "Final",
+            "statusCode": "F",
+            "startTimeTBD": false,
+            "abstractGameCode": "F"
+          },
+          "teams": {
+            "away": {
+              "team": {
+                "id": 114,
+                "name": "Cleveland Guardians"
+              },
+              "score": 7,
+              "isWinner": true
+            },
+            "home": {
+              "team": {
+                "id": 139,
+                "name": "Tampa Bay Rays"
+              },
+              "score": 3,
+              "isWinner": false
+            }
+          },
+          "description": "ALCS Game 1",
+          "seriesGameNumber": 1,
+          "seriesDescription": "AL Championship Series",
+          "ifNecessary": "N"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "games": [
+        {
+          "gamePk": 849813,
+          "gameType": "L",
+          "gameDate": "2026-10-14T00:00:00Z",
+          "officialDate": "2026-10-13",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "F",
+            "detailedState": "Final",
+            "statusCode": "F",
+            "startTimeTBD": false,
+            "abstractGameCode": "F"
+          },
+          "teams": {
+            "away": {
+              "team": {
+                "id": 114,
+                "name": "Cleveland Guardians"
+              },
+              "score": 1,
+              "isWinner": false
+            },
+            "home": {
+              "team": {
+                "id": 139,
+                "name": "Tampa Bay Rays"
+              },
+              "score": 3,
+              "isWinner": true
+            }
+          },
+          "description": "ALCS Game 2",
+          "seriesGameNumber": 2,
+          "seriesDescription": "AL Championship Series",
+          "ifNecessary": "N"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "games": [
+        {
+          "gamePk": 849818,
+          "gameType": "L",
+          "gameDate": "2026-10-15T17:00:00Z",
+          "officialDate": "2026-10-15",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "F",
+            "detailedState": "Final",
+            "statusCode": "F",
+            "startTimeTBD": false,
+            "abstractGameCode": "F"
+          },
+          "teams": {
+            "away": {
+              "team": {
+                "id": 139,
+                "name": "Tampa Bay Rays"
+              },
+              "score": 2,
+              "isWinner": false
+            },
+            "home": {
+              "team": {
+                "id": 114,
+                "name": "Cleveland Guardians"
+              },
+              "score": 3,
+              "isWinner": true
+            }
+          },
+          "description": "ALCS Game 3",
+          "seriesGameNumber": 3,
+          "seriesDescription": "AL Championship Series",
+          "ifNecessary": "N"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "games": [
+        {
+          "gamePk": 849817,
+          "gameType": "L",
+          "gameDate": "2026-10-17T00:00:00Z",
+          "officialDate": "2026-10-18",
+          "rescheduleDate": "2026-10-18T21:00:00Z",
+          "rescheduleGameDate": "2026-10-18",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "D",
+            "detailedState": "Postponed",
+            "statusCode": "DR",
+            "startTimeTBD": false,
+            "reason": "Rain",
+            "abstractGameCode": "F"
+          },
+          "teams": {
+            "away": {
+              "team": {
+                "id": 139,
+                "name": "Tampa Bay Rays"
+              }
+            },
+            "home": {
+              "team": {
+                "id": 114,
+                "name": "Cleveland Guardians"
+              }
+            }
+          },
+          "description": "ALCS Game 4",
+          "seriesGameNumber": 4,
+          "seriesDescription": "AL Championship Series",
+          "ifNecessary": "N"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "games": [
+        {
+          "gamePk": 849816,
+          "gameType": "L",
+          "gameDate": "2026-10-18T00:00:00Z",
+          "officialDate": "2026-10-17",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "S",
+            "detailedState": "Scheduled",
+            "statusCode": "S",
+            "startTimeTBD": false,
+            "abstractGameCode": "P"
+          },
+          "teams": {
+            "away": {
+              "team": {
+                "id": 139,
+                "name": "Tampa Bay Rays"
+              }
+            },
+            "home": {
+              "team": {
+                "id": 114,
+                "name": "Cleveland Guardians"
+              }
+            }
+          },
+          "description": "ALCS Game 4",
+          "seriesGameNumber": 4,
+          "seriesDescription": "AL Championship Series",
+          "ifNecessary": "N"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "games": [
+        {
+          "gamePk": 849817,
+          "gameType": "L",
+          "gameDate": "2026-10-18T21:00:00Z",
+          "officialDate": "2026-10-18",
+          "rescheduledFrom": "2026-10-17T00:00:00Z",
+          "rescheduledFromDate": "2026-10-16",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "S",
+            "detailedState": "Scheduled",
+            "statusCode": "S",
+            "startTimeTBD": false,
+            "abstractGameCode": "P"
+          },
+          "teams": {
+            "away": {
+              "team": {
+                "id": 139,
+                "name": "Tampa Bay Rays"
+              }
+            },
+            "home": {
+              "team": {
+                "id": 114,
+                "name": "Cleveland Guardians"
+              }
+            }
+          },
+          "description": "ALCS Game 5, Makeup of 10/16",
+          "seriesGameNumber": 5,
+          "seriesDescription": "AL Championship Series",
+          "ifNecessary": "N"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "games": [
+        {
+          "gamePk": 849815,
+          "gameType": "L",
+          "gameDate": "2026-10-20T00:00:00Z",
+          "officialDate": "2026-10-19",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "S",
+            "detailedState": "Scheduled",
+            "statusCode": "S",
+            "startTimeTBD": false,
+            "abstractGameCode": "P"
+          },
+          "teams": {
+            "away": {
+              "team": {
+                "id": 114,
+                "name": "Cleveland Guardians"
+              }
+            },
+            "home": {
+              "team": {
+                "id": 139,
+                "name": "Tampa Bay Rays"
+              }
+            }
+          },
+          "description": "ALCS Game 6",
+          "seriesGameNumber": 6,
+          "seriesDescription": "AL Championship Series",
+          "ifNecessary": "Y"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "games": [
+        {
+          "gamePk": 849814,
+          "gameType": "L",
+          "gameDate": "2026-10-21T00:00:00Z",
+          "officialDate": "2026-10-20",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "S",
+            "detailedState": "Scheduled",
+            "statusCode": "S",
+            "startTimeTBD": false,
+            "abstractGameCode": "P"
+          },
+          "teams": {
+            "away": {
+              "team": {
+                "id": 114,
+                "name": "Cleveland Guardians"
+              }
+            },
+            "home": {
+              "team": {
+                "id": 139,
+                "name": "Tampa Bay Rays"
+              }
+            }
+          },
+          "description": "ALCS Game 7",
+          "seriesGameNumber": 7,
+          "seriesDescription": "AL Championship Series",
+          "ifNecessary": "Y"
+        }
+      ]
+    }
+  ]
+}

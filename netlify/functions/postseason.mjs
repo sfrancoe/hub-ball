@@ -77,17 +77,43 @@ function advancementSlot(season, gameType, league, bracketSlot) {
   return null;
 }
 
+function isMakeupReplacement(postponed, replacement) {
+  if (postponed.status?.codedGameState !== 'D'
+    || postponed.status?.detailedState !== 'Postponed'
+    || !['Preview', 'Live', 'Final'].includes(replacement.status?.abstractGameState)
+    || replacement.status?.codedGameState === 'D'
+    || postponed.gameType !== replacement.gameType
+    || !leagueFor(postponed) || leagueFor(postponed) !== leagueFor(replacement)) return false;
+  for (const side of ['away', 'home']) {
+    const old = postponed.teams?.[side], next = replacement.teams?.[side];
+    if (!Number.isInteger(old?.team?.id) || old.team.id !== next?.team?.id
+      || typeof old.team.name !== 'string' || old.team.name !== next.team.name
+      || old.score != null || old.isWinner === true) return false;
+  }
+  const originalDate = Date.parse(postponed.gameDate), makeupDate = Date.parse(replacement.gameDate);
+  if (!Number.isFinite(originalDate) || !Number.isFinite(makeupDate) || makeupDate <= originalDate) return false;
+  // MLB may retain the rainout row alongside its explicitly linked makeup,
+  // even when the makeup has a different series game number/description.
+  const forward = postponed.rescheduleDate, backward = replacement.rescheduledFrom;
+  if (forward != null && forward !== replacement.gameDate) return false;
+  if (backward != null && backward !== postponed.gameDate) return false;
+  return forward === replacement.gameDate || backward === postponed.gameDate;
+}
+
 export function normalizePostseason(payload, season, checkedAt = new Date().toISOString()) {
   const sourceGames = (payload.dates || []).flatMap(date => date.games || []);
   const seenGames = new Map();
   const duplicateConflicts = new Set();
-  const rawGames = sourceGames.filter(raw => {
-    if (!Number.isInteger(raw.gamePk)) return true;
+  const unidentifiedGames = [];
+  for (const raw of sourceGames) {
+    if (!Number.isInteger(raw.gamePk)) { unidentifiedGames.push(raw); continue; }
     const prior = seenGames.get(raw.gamePk);
     if (!prior) {
       seenGames.set(raw.gamePk, raw);
-      return true;
+      continue;
     }
+    if (isMakeupReplacement(prior, raw)) { seenGames.set(raw.gamePk, raw); continue; }
+    if (isMakeupReplacement(raw, prior)) continue;
     const facts = value => JSON.stringify({
       gameType: value.gameType,
       description: value.description,
@@ -96,8 +122,8 @@ export function normalizePostseason(payload, season, checkedAt = new Date().toIS
       home: [value.teams?.home?.team?.id, value.teams?.home?.team?.name, value.teams?.home?.score, value.teams?.home?.isWinner],
     });
     if (facts(prior) !== facts(raw)) duplicateConflicts.add(raw.gamePk);
-    return false;
-  });
+  }
+  const rawGames = [...seenGames.values(), ...unidentifiedGames];
   const grouped = new Map();
   const games = rawGames.flatMap(raw => {
     const round = ROUND_BY_TYPE[raw.gameType];
