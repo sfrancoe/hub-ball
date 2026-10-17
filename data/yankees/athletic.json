@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "In covering the Yankees teams after 2001, I’ve seen what happens when a dynasty ends. Here are 10 things that may await the Dodgers.",
+      "published": "2026-10-17T09:30:08+00:00",
+      "title": "I covered the end of the Yankees' dynasty. Here's what happens next for the Dodgers",
+      "url": "https://www.nytimes.com/athletic/7697325/2026/10/17/odgers-yankees-mlb-dynasties-future/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees could make the easy decision and give Volpe every chance to win the second base job, but that doesn't make sense. This does.",
       "published": "2026-10-16T10:09:17+00:00",
       "title": "Aaron Judge believes Yankees need Anthony Volpe to win a World Series. Where does he fit?",
@@ -132,16 +139,9 @@
       "published": "2026-10-06T03:30:19+00:00",
       "title": "Sloppy Yankees implode in gaffe-filled Game 2 as Rays push them to the brink",
       "url": "https://www.nytimes.com/athletic/7664530/2026/10/05/yankees-rays-game-2-takeaways-mlb-playoffs/"
-    },
-    {
-      "category": "Yankees",
-      "description": "\"The only thing that matters is what you do in October,\" said Schlittler, who has a 0.87 ERA in three career postseason starts.",
-      "published": "2026-10-05T10:00:17+00:00",
-      "title": "Yankees' Cam Schlittler has been 'shaped' by playoff adversity. He'll lean on it now",
-      "url": "https://www.nytimes.com/athletic/7661416/2026/10/05/yankees-cam-schlittler-playoff-adversity/"
     }
   ],
-  "generated_at": "2026-10-16T12:32:14.028912+00:00",
+  "generated_at": "2026-10-17T12:47:10.406231+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

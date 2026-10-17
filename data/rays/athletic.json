@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "MLB's handling of the American League Championship Series could result in Cleveland and Tampa Bay playing four games in four nights.",
+      "published": "2026-10-17T09:00:19+00:00",
+      "title": "MLB saw the rain coming and gave us an unnecessary night of nonsense anyway",
+      "url": "https://www.nytimes.com/athletic/7697773/2026/10/17/mlb-game-4-postponed-guardian-rays/"
+    },
+    {
+      "category": "Rays",
       "description": "“The rain didn’t change,” Rays manager Kevin Cash said. “It never cleared out the way they were hoping.\"",
       "published": "2026-10-17T01:10:05+00:00",
       "title": "'It just wasn’t in the cards': ALCS Game 4 postponed amid inclement weather in Cleveland",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T18:57:40+00:00",
       "title": "The Rays are known for doing more with less. Here are 5 case studies",
       "url": "https://www.nytimes.com/athletic/7672045/2026/10/08/rays-victor-mesa-jr-finding-talent/"
-    },
-    {
-      "category": "Rays",
-      "description": "It was the last postseason quadrupleheader of 2026, and I watched every darned minute of it. Here are the highlights and lowlights.",
-      "published": "2026-10-08T11:06:57+00:00",
-      "title": "Division Series Weird & Wild: Brewers, Padres kept it close, but Yankees never led Rays",
-      "url": "https://www.nytimes.com/athletic/7671079/2026/10/08/brewers-padres-yankees-rays-white-sox-strikeout-record/"
     }
   ],
-  "generated_at": "2026-10-17T04:56:10.594347+00:00",
+  "generated_at": "2026-10-17T12:47:16.000136+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

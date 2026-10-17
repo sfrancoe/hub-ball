@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "In his first public comments since the Orioles’ season ended, owner David Rubenstein expressed his disappointment about his ballclub’s struggles.",
-      "published": "2026-10-15T19:20:00+00:00",
-      "title": "Orioles’ David Rubenstein says owning club ‘not as easy as I thought’",
-      "url": "https://www.baltimoresun.com/2026/10/15/orioles-david-rubenstein-owning-club-not-easy/"
-    },
-    {
-      "category": "Orioles",
       "description": "Layoffs and poor performance reflect poorly on David Rubenstein’s ownership of the Orioles, writes Patrick R. Lynch.",
       "published": "2026-10-16T10:19:00+00:00",
       "title": "Orioles owner has shown poor judgment | READER COMMENTARY",
       "url": "https://www.baltimoresun.com/2026/10/16/orioles-rubenstein-layoffs/"
+    },
+    {
+      "category": "Orioles",
+      "description": "In his first public comments since the Orioles’ season ended, owner David Rubenstein expressed his disappointment about his ballclub’s struggles.",
+      "published": "2026-10-15T19:20:00+00:00",
+      "title": "Orioles’ David Rubenstein says owning club ‘not as easy as I thought’",
+      "url": "https://www.baltimoresun.com/2026/10/15/orioles-david-rubenstein-owning-club-not-easy/"
     },
     {
       "category": "Orioles",
@@ -55,16 +55,9 @@
       "published": "2026-10-08T03:29:00+00:00",
       "title": "Orioles position in review: Some new, some old faces starred in 2026 bullpen",
       "url": "https://www.baltimoresun.com/2026/10/08/orioles-position-review-new-old-faces-starred-bullpen/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Orioles pitcher Cade Povich underwent surgery Wednesday to remove loose bodies from his elbow, according to a source with direct knowledge.",
-      "published": "2026-10-15T09:48:00+00:00",
-      "title": "Orioles pitcher Cade Povich undergoes elbow surgery to begin offseason",
-      "url": "https://www.baltimoresun.com/2026/10/15/orioles-pitcher-cade-povich-elbow-surgery/"
     }
   ],
-  "generated_at": "2026-10-17T08:59:06.520839+00:00",
+  "generated_at": "2026-10-17T12:47:16.952814+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
