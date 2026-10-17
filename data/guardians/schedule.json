@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-17T00:46:53.696027+00:00",
+  "generated_at": "2026-10-17T05:02:58.616713+00:00",
   "source": "MLB Stats API",
   "team": "Guardians",
   "regular_season_end": "2026-09-27",
   "games": [
     {
-      "game_pk": 849817,
-      "game_date": "2026-10-17T00:00:00Z",
-      "status": "Delayed Start",
+      "game_pk": 849816,
+      "game_date": "2026-10-18T00:00:00Z",
+      "status": "Scheduled",
       "venue": "Progressive Field",
       "location": "home",
       "opponent": "Rays",
@@ -53,8 +53,8 @@
       ]
     },
     {
-      "game_pk": 849816,
-      "game_date": "2026-10-18T00:00:00Z",
+      "game_pk": 849817,
+      "game_date": "2026-10-18T21:00:00Z",
       "status": "Scheduled",
       "venue": "Progressive Field",
       "location": "home",
