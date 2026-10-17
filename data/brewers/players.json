@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:17:34.072422+00:00",
+  "generated_at": "2026-10-17T13:17:31.463147+00:00",
   "roster_as_of": "October 4, 2026",
   "team": {
     "id": 158,
@@ -1898,7 +1898,11 @@
       "debut_team": "Milwaukee Brewers",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "Magnolia Heights School"
+          }
+        ]
       },
       "teams": [
         "Milwaukee Brewers"
