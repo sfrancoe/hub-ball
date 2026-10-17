@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "More than 30 minutes after the fall of the Los Angeles Dodgers’ dynasty, the players who made it happen sat in silent acceptance. The Dodgers, trounced in four games by the Milwaukee Brewers in the ...",
+      "published": "2026-10-17T06:00:00+00:00",
+      "title": "What comes next for a dynasty? Setting the stage for the Dodgers’ offseason",
+      "url": "https://www.nytimes.com/athletic/7697036/2026/10/17/dodgers-offseason-plans/"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Brewers overcame an early deficit to reach the World Series for the first time since '82, ending the Dodgers' bid for three-peat.",
       "published": "2026-10-15T10:18:00+00:00",
       "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
       "url": "https://www.nytimes.com/athletic/7691528/2026/10/15/dodgers-brewers-game-4-score-results-takeaways-mlb-nlcs-2026/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Today was the last time that I wore that uniform as a player and my cleats,\" Rojas said. \"It’s really hard to take them off right now.\" ...",
-      "published": "2026-10-15T21:36:00+00:00",
-      "title": "Miguel Rojas, hero of the 2025 World Series for the Dodgers, announces retirement",
-      "url": "https://www.nytimes.com/athletic/7695095/2026/10/16/miguel-rojas-dodgers-retirement/"
     },
     {
       "category": "Dodgers",
@@ -30,13 +30,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "By the time Ohtani returned, the damage was done. Ohtani’s struggles continued into October, where he looked overmatched at times and batted as low as sixth in the Dodgers’ order. He moved back to ...",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "After Dodgers’ shocking elimination, here are their 4 biggest offseason questions",
-      "url": "https://www.nytimes.com/athletic/7694069/2026/10/15/dodgers-offseason-questions/"
-    },
-    {
-      "category": "Dodgers",
       "description": "The two-time defending World Series champions have been dethroned, leaving them to ponder the changes that will come next.",
       "published": "2026-10-16T10:04:00+00:00",
       "title": "Has the Dodgers’ dynasty reached its end? Maybe not. But hard questions await",
@@ -44,10 +37,24 @@
     },
     {
       "category": "Dodgers",
+      "description": "By the time Ohtani returned, the damage was done. Ohtani’s struggles continued into October, where he looked overmatched at times and batted as low as sixth in the Dodgers’ order. He moved back to ...",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "After Dodgers’ shocking elimination, here are their 4 biggest offseason questions",
+      "url": "https://www.nytimes.com/athletic/7694069/2026/10/15/dodgers-offseason-questions/"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Dodgers' season, their pursuit of a World Series three-peat and their dynasty dreams — all are on the brink.",
       "published": "2026-10-15T04:30:00+00:00",
       "title": "The Dodgers keep squandering chance after chance. It could define their postseason",
       "url": "https://www.nytimes.com/athletic/7685327/2026/10/15/dodgers-mlb-playoffs-offense-nlcs-game-3/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Today was the last time that I wore that uniform as a player and my cleats,\" Rojas said. \"It’s really hard to take them off right now.\" ...",
+      "published": "2026-10-15T21:36:00+00:00",
+      "title": "Miguel Rojas, hero of the 2025 World Series for the Dodgers, announces retirement",
+      "url": "https://www.nytimes.com/athletic/7695095/2026/10/16/miguel-rojas-dodgers-retirement/"
     },
     {
       "category": "Dodgers",
@@ -73,19 +80,12 @@
     {
       "category": "Dodgers",
       "description": "What makes the Brewers so tough to beat: small ball or home runs? Well, both. The formula has Milwaukee on the verge of the World Series.",
-      "published": "2026-10-15T04:09:00+00:00",
+      "published": "2026-10-15T02:40:00+00:00",
       "title": "Small ball or home runs? Yes. Brewers’ winning formula pushes Dodgers to the brink",
       "url": "https://www.nytimes.com/athletic/7685338/2026/10/15/brewers-small-ball-home-runs-dodgers-nlcs/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Machado finished with 12 OAA, three more than Cubs star Alex Bregman, who finished with nine. Bregman, Los Angeles’ Max Muncy and Miami’s Javier Sanoja were the three finalists for the National League ...",
-      "published": "2026-10-14T04:09:00+00:00",
-      "title": "After ‘best’ defensive year, Manny Machado snubbed for Dodgers rival as Gold Glove finalist",
-      "url": "https://www.nytimes.com/athletic/7690317/2026/10/14/gold-glove-finalists-snubs-manny-machado-max-muncy/"
     }
   ],
-  "generated_at": "2026-10-17T12:47:27.801961+00:00",
+  "generated_at": "2026-10-17T15:58:42.277992+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Top performed at Fiserv Forum Oct. 16, the night after the Brewers won the NLCS to advance to the World Series for the first time since 1982.",
+      "published": "2026-10-17T07:57:00+00:00",
+      "title": "Zach Top, fans celebrate World Series-bound Milwaukee Brewers at show",
+      "url": "https://www.jsonline.com/videos/entertainment/music/2026/10/17/zach-top-fans-celebrate-world-series-bound-milwaukee-brewers-at-show/92299704007/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Brewers returned to Milwaukee Oct. 16, less than 24 hours after sweeping the Los Angeles Dodgers to clinch a spot in the World Series.",
-      "published": "2026-10-16T20:51:00+00:00",
+      "published": "2026-10-16T06:52:00+00:00",
       "title": "The Brewers return to Milwaukee after making history in Los Angeles",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-return-to-milwaukee-after-beating-dodgers-world-series-next/92287393007/"
     },
@@ -13,13 +20,6 @@
       "published": "2026-10-17T04:15:00+00:00",
       "title": "Brandon Woodruff to push to be on Brewers World Series roster",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/17/brandon-woodruff-will-push-to-be-on-brewers-world-series-roster/92284691007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The crowd for the watch party in Milwaukee was about one-third the size of the crowd at Dodger Stadium in Los Angeles for the game itself.",
-      "published": "2026-10-16T10:55:00+00:00",
-      "title": "16,000 fans pack Milwaukee watch party as Brewers sweep Dodgers",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-draw-16000-fans-for-watch-party-as-brewers-sweep-dodgers/92279384007/"
     },
     {
       "category": "Brewers",
@@ -51,6 +51,13 @@
     },
     {
       "category": "Brewers",
+      "description": "In Los Angeles and across the country, baseball pundits and players, both current and former, reacted to the Milwaukee Brewers sweeping the two-time defending champion Dodgers on their way to the ...",
+      "published": "2026-10-16T13:52:00+00:00",
+      "title": "'We got outplayed': Dodgers, national media react to Brewers sweep",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/the-brewers-are-in-the-world-series-here-is-what-the-media-is-saying/92284548007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Fans couldn't wait to get their pick of National League champions merch after the Brewers' sweep of the Dodgers. See what's available online.",
       "published": "2026-10-16T10:52:00+00:00",
       "title": "Brewers NLCS, World Series shirts, hats, jerseys already for sale",
@@ -62,13 +69,6 @@
       "published": "2026-10-16T13:14:00+00:00",
       "title": "Yes, the Brewers are aware of that song. And they absolutely love it.",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-players-embracing-viral-team-song-during-2026-playoffs/92278085007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "In Los Angeles and across the country, baseball pundits and players, both current and former, reacted to the Milwaukee Brewers sweeping the two-time defending champion Dodgers on their way to the ...",
-      "published": "2026-10-16T13:52:00+00:00",
-      "title": "'We got outplayed': Dodgers, national media react to Brewers sweep",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/the-brewers-are-in-the-world-series-here-is-what-the-media-is-saying/92284548007/"
     },
     {
       "category": "Brewers",
@@ -85,7 +85,7 @@
       "url": "https://www.jsonline.com/story/news/local/milwaukee/2026/10/16/brewers-post-season-performance-has-been-full-of-historic-firsts/92285016007/"
     }
   ],
-  "generated_at": "2026-10-17T12:47:25.375533+00:00",
+  "generated_at": "2026-10-17T15:58:39.627966+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

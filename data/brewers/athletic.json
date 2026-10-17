@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "More than 30 minutes after the fall of the Los Angeles Dodgers’ dynasty, the players who made it happen sat in silent acceptance. The Dodgers, trounced in four games by the Milwaukee Brewers in the ...",
+      "published": "2026-10-17T06:00:00+00:00",
+      "title": "What comes next for a dynasty? Setting the stage for the Dodgers’ offseason",
+      "url": "https://www.nytimes.com/athletic/7697036/2026/10/17/dodgers-offseason-plans/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Brewers overcame an early deficit to reach the World Series for the first time since '82, ending the Dodgers' bid for three-peat.",
       "published": "2026-10-15T10:18:00+00:00",
       "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
@@ -10,7 +17,7 @@
     {
       "category": "Brewers",
       "description": "In the final weekend of the regular season, the Milwaukee Brewers named a team captain for the first time in franchise history. Christian Yelich, the oldest player on their roster, began to wear a C ...",
-      "published": "2026-10-16T06:54:00+00:00",
+      "published": "2026-10-16T14:58:00+00:00",
       "title": "Building the Brewers: 10 moves that brought Milwaukee to the World Series",
       "url": "https://www.nytimes.com/athletic/7694850/2026/10/16/building-brewers-10-moves-world-series/"
     },
@@ -38,7 +45,7 @@
     {
       "category": "Brewers",
       "description": "What makes the Brewers so tough to beat: small ball or home runs? Well, both. The formula has Milwaukee on the verge of the World Series.",
-      "published": "2026-10-15T04:09:00+00:00",
+      "published": "2026-10-15T02:40:00+00:00",
       "title": "Small ball or home runs? Yes. Brewers’ winning formula pushes Dodgers to the brink",
       "url": "https://www.nytimes.com/athletic/7685338/2026/10/15/brewers-small-ball-home-runs-dodgers-nlcs/"
     },
@@ -57,7 +64,7 @@
       "url": "https://www.nytimes.com/athletic/7685332/2026/10/15/dodgers-nlcs-game-3-mlb-playoffs-blake-snell/"
     }
   ],
-  "generated_at": "2026-10-17T12:47:25.594873+00:00",
+  "generated_at": "2026-10-17T15:58:39.903698+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }
