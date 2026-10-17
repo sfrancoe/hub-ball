@@ -27,6 +27,10 @@ on:
       - '.github/news-status/expansion.json'
       - 'config/pitching-refresh.json'
       - '.github/workflows/refresh-*.yml'
+      - 'netlify/functions/workflow-timer.mjs'
+      - 'netlify/functions/workflow-schedules.mjs'
+      - 'scripts/generate_workflow_schedules.py'
+      - 'scripts/test_workflow_timer.mjs'
       - '.github/workflows/validate-refresh.yml'
   workflow_dispatch:
 
@@ -54,6 +58,10 @@ jobs:
           python3 scripts/test_postseason_schedules.py
       - name: No new team-specific fetch scripts or workflows
         run: python3 scripts/test_no_team_specific_fetchers.py
+      - name: Workflow timer schedule table is current and correct
+        run: |
+          python3 scripts/generate_workflow_schedules.py --check
+          node scripts/test_workflow_timer.mjs
       - name: Offline news status and publication transactions
         run: python3 scripts/test_news_alert_publication.py
   live:
