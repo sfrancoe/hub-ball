@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Tales | Kevin Cash is MLB’s longest-tenured manager with his current team. It’s the same with hitting coach Chad Mottola. Pitching coach Kyle Snyder is tied for second.",
+      "published": "2026-10-18T12:00:00+00:00",
+      "title": "For Rays, stability in dugout is a big part of their onfield success",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/18/kevin-cash-chad-mottola-kyle-snyder-carson-williams-rocco-baldelli/"
+    },
+    {
+      "category": "Rays",
       "description": "Notes | Cleveland will turn to lefty and Plant City native Parker Messick as its starter.",
       "published": "2026-10-18T04:28:42+00:00",
       "title": "Rays look to ace Drew Rasmussen for ALCS Game 5 start vs. Guardians",
@@ -104,16 +111,9 @@
       "published": "2026-10-13T21:51:43+00:00",
       "title": "Rays’ Griffin Jax gets the nod to start Game 3 of ALCS in Cleveland",
       "url": "https://www.tampabay.com/sports/rays/2026/10/13/junior-caminero-jonny-deluca-collision-alcs-rangers-nathaniel-lowe-drew-rasmussen/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Trop’s highest seats are a novel playoff treat — and some of the best in the ballpark, fans say.",
-      "published": "2026-10-13T19:38:26+00:00",
-      "title": "At Tropicana Field, upper deck Rays fans are back in the game",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/13/rays-playoffs-upper-deck-seats-tropicana-field/"
     }
   ],
-  "generated_at": "2026-10-18T04:51:42.925143+00:00",
+  "generated_at": "2026-10-18T13:19:53.387144+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Brewers",
-      "description": "The Brewers returned to Milwaukee Oct. 16, less than 24 hours after sweeping the Los Angeles Dodgers to clinch a spot in the World Series.",
-      "published": "2026-10-16T06:52:00+00:00",
-      "title": "The Brewers return to Milwaukee after making history in Los Angeles",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-return-to-milwaukee-after-beating-dodgers-world-series-next/92287393007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Top performed at Fiserv Forum Oct. 16 with guest Marty Stuart the night after after the Brewers won the NLCS and a ticket to the World Series.",
       "published": "2026-10-17T10:45:00+00:00",
       "title": "Zach Top toasts Brewers, takes '90s country torch at Milwaukee concert",
@@ -23,10 +16,10 @@
     },
     {
       "category": "Brewers",
-      "description": "The longest-tenured Brewers player says he is ready to pitch in the World Series after not throwing in a game in more than three months ...",
-      "published": "2026-10-17T04:15:00+00:00",
-      "title": "Brandon Woodruff to push to be on Brewers World Series roster",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/17/brandon-woodruff-will-push-to-be-on-brewers-world-series-roster/92284691007/"
+      "description": "The Brewers returned to Milwaukee Oct. 16, less than 24 hours after sweeping the Los Angeles Dodgers to clinch a spot in the World Series.",
+      "published": "2026-10-16T06:52:00+00:00",
+      "title": "The Brewers return to Milwaukee after making history in Los Angeles",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-return-to-milwaukee-after-beating-dodgers-world-series-next/92287393007/"
     },
     {
       "category": "Brewers",
@@ -65,6 +58,13 @@
     },
     {
       "category": "Brewers",
+      "description": "The longest-tenured Brewers player says he is ready to pitch in the World Series after not throwing in a game in more than three months ...",
+      "published": "2026-10-17T04:15:00+00:00",
+      "title": "Brandon Woodruff to push to be on Brewers World Series roster",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/17/brandon-woodruff-will-push-to-be-on-brewers-world-series-roster/92284691007/"
+    },
+    {
+      "category": "Brewers",
       "description": "From unwashed jerseys to lucky hats, Milwaukee Brewers fans share the superstitions they believe helped propel their team to the World Series.",
       "published": "2026-10-15T23:26:00+00:00",
       "title": "Brewers fans share superstitions, including lucky jerseys, game-day rituals",
@@ -72,20 +72,20 @@
     },
     {
       "category": "Brewers",
-      "description": "Brewers reliever Aaron Ashby pitched more innings than any NL reliever all year and is still at his best this October ...",
-      "published": "2026-10-16T15:01:00+00:00",
-      "title": "Aaron Ashby cements himself as Brewers legend with performance in NLCS",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/aaron-ashby-cements-himself-as-brewers-legend-with-performance-in-ncls/92278066007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Milwaukee arts institutions are relishing the Brewers' historic run to the World Series with congratulatory messages on social media.",
       "published": "2026-10-16T10:30:00+00:00",
       "title": "Milwaukee arts institutions celebrate Brewers' historic win",
       "url": "https://www.jsonline.com/story/entertainment/arts/2026/10/16/milwaukee-art-museum-ballet-public-library-brewers-win-world-series/92282301007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "The crowd for the watch party in Milwaukee was about one-third the size of the crowd at Dodger Stadium in Los Angeles for the game itself.",
+      "published": "2026-10-16T10:55:00+00:00",
+      "title": "16,000 fans pack Milwaukee watch party as Brewers sweep Dodgers",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-draw-16000-fans-for-watch-party-as-brewers-sweep-dodgers/92279384007/"
     }
   ],
-  "generated_at": "2026-10-18T09:14:30.296240+00:00",
+  "generated_at": "2026-10-18T13:20:02.267157+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

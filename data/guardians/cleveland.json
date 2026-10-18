@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "The Cleveland Guardians, leading the ALCS 2-1, host the Tampa Bay Rays in Game 4, with rain threatening to disrupt play at Progressive Field.",
-      "published": "2026-10-16T09:00:00+00:00",
-      "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 16, 2026: ALCS Game 4",
-      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-16-2026-alcs-game-4.html"
-    },
-    {
-      "category": "Guardians",
       "description": "His 385-foot homer off Griffin Jax traveled into the right-center field seats at 105 mph, turning a 2-1 deficit into a 3-2 Cleveland lead. Halpin celebrated with a towering bat flip, then soaked in ...",
       "published": "2026-10-16T09:07:00+00:00",
       "title": "Guardians players say Cleveland fans delivered when it mattered most in ALCS Game 3",
@@ -23,10 +16,10 @@
     },
     {
       "category": "Guardians",
-      "description": "The Guardians needed one big swing from Petey Halpin and another dominant pitching performance from Gavin Williams to regain control of the American League Championship Series. Halpin launched a ...",
-      "published": "2026-10-15T22:17:00+00:00",
-      "title": "Gavin Williams’ historic strikeouts, Petey Halpin’s blast lead Cleveland to ALCS Game 3 win: Guardians by the numbers",
-      "url": "https://www.cleveland.com/guardians/2026/10/gavin-williams-historic-strikeouts-petey-halpins-blast-lead-cleveland-to-alcs-game-3-win-guardians-by-the-numbers.html"
+      "description": "The Cleveland Guardians, leading the ALCS 2-1, host the Tampa Bay Rays in Game 4, with rain threatening to disrupt play at Progressive Field.",
+      "published": "2026-10-16T09:00:00+00:00",
+      "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 16, 2026: ALCS Game 4",
+      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-16-2026-alcs-game-4.html"
     },
     {
       "category": "Guardians",
@@ -34,6 +27,20 @@
       "published": "2026-10-16T03:38:00+00:00",
       "title": "MLB sets start time for Guardians-Rays ALCS Game 4 on Friday; Cleveland names Shawn Armstrong opener",
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-rays-alcs-game-4-set-for-810-pm-friday-cleveland-names-shawn-armstrong-opener.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians needed one big swing from Petey Halpin and another dominant pitching performance from Gavin Williams to regain control of the American League Championship Series. Halpin launched a ...",
+      "published": "2026-10-15T22:17:00+00:00",
+      "title": "Gavin Williams’ historic strikeouts, Petey Halpin’s blast lead Cleveland to ALCS Game 3 win: Guardians by the numbers",
+      "url": "https://www.cleveland.com/guardians/2026/10/gavin-williams-historic-strikeouts-petey-halpins-blast-lead-cleveland-to-alcs-game-3-win-guardians-by-the-numbers.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians wasted a strong start by Parker Messick and stranded nine runners in their ALCS Game 2 loss to Tampa Bay. Breaking down the numbers.",
+      "published": "2026-10-13T22:17:00+00:00",
+      "title": "Guardians by the numbers: José Ramírez’s costly error, missed chances sink Cleveland in ALCS Game 2",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-by-the-numbers-jose-ramirezs-costly-error-missed-chances-sink-cleveland-in-alcs-game-2.html"
     },
     {
       "category": "Guardians",
@@ -65,13 +72,6 @@
     },
     {
       "category": "Guardians",
-      "description": "The Guardians wasted a strong start by Parker Messick and stranded nine runners in their ALCS Game 2 loss to Tampa Bay. Breaking down the numbers.",
-      "published": "2026-10-13T22:17:00+00:00",
-      "title": "Guardians by the numbers: José Ramírez’s costly error, missed chances sink Cleveland in ALCS Game 2",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-by-the-numbers-jose-ramirezs-costly-error-missed-chances-sink-cleveland-in-alcs-game-2.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Weather concerns in Cleveland have prompted MLB to adjust the start time for Guardians vs. Rays ALCS Game 3 on Thursday. Here's the updated schedule.",
       "published": "2026-10-14T05:02:00+00:00",
       "title": "Guardians, MLB change start time for ALCS Game 3 due to Cleveland weather forecast",
@@ -79,13 +79,13 @@
     },
     {
       "category": "Guardians",
-      "description": "Gavin Williams struck out 12, José Ramírez homered and the Guardians advanced to the ALCS. Here are 15 remarkable numbers from Cleveland's Game 5 win.",
-      "published": "2026-10-10T22:02:00+00:00",
-      "title": "Guardians win Game 5 by the numbers: Historic strikeouts, José Ramírez’s heroics send Cleveland to ALCS",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-win-game-5-by-the-numbers-historic-strikeouts-jose-ramirezs-heroics-send-cleveland-to-alcs.html"
+      "description": "CLEVELAND, Ohio – Because of the American League Championship Series Game 5 at Progressive Field, the Cleveland Monsters have changed the time of their game on Saturday, Oct. 17. The Monsters will ...",
+      "published": "2026-10-13T08:08:00+00:00",
+      "title": "Cleveland Monsters game time changed because of potential Guardians’ Game 5",
+      "url": "https://www.cleveland.com/entertainment/2026/10/cleveland-monsters-game-time-changed-because-of-potential-guardians-game-5.html"
     }
   ],
-  "generated_at": "2026-10-18T09:14:23.293044+00:00",
+  "generated_at": "2026-10-18T13:19:55.676184+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "Daniels shares the blame for Washington’s botched finish. But the Commanders need their quarterback to own his mistake and lead them.",
+      "published": "2026-10-18T03:01:00+00:00",
+      "title": "Fair or not, Jayden Daniels must own the Commanders’ blunder — and learn from it",
+      "url": "https://www.nytimes.com/athletic/7698297/2026/10/18/commanders-49ers-jayden-daniels-giants-blunder/"
+    },
+    {
+      "category": "Giants",
       "description": "ASHBURN, Va. — Four days after the Commanders’ overtime clock-management gaffe against the Giants, Washington quarterback Jayden Daniels said the blame falls on him.",
       "published": "2026-10-15T13:11:00+00:00",
       "title": "Jayden Daniels takes blame for Commanders’ botched final play: ‘Ultimately, it’s on me’",
@@ -34,23 +41,9 @@
       "published": "2026-09-28T06:58:00+00:00",
       "title": "In good times and bad, Mike Krukow and Duane Kuiper were the soul of Giants baseball",
       "url": "https://www.nytimes.com/athletic/7638793/2026/09/28/sf-giants-mike-krukow-retirement-ceremony/"
-    },
-    {
-      "category": "Giants",
-      "description": "Former Giant Otto López and current Giant Luis Arraez exchange pleasantries at second base during the All-Star Game. Emilee Chinn / Getty Images The 2026 MLB All-Star Game was as forgettable for San ...",
-      "published": "2026-07-15T08:47:00+00:00",
-      "title": "When the All-Star Game comes back to San Francisco, the Giants will be more fan-friendly",
-      "url": "https://www.nytimes.com/athletic/7447332/2026/07/15/sf-giants-all-star-game-2028-roster-building/"
-    },
-    {
-      "category": "Giants",
-      "description": "Bryce Eldridge is hitting .333/.445/.518 in 30 games for Triple-A Sacramento. Mark J. Rebilas / Imagn Images The reeling San Francisco Giants, sitting in last place in the NL West and coming off a ...",
-      "published": "2026-05-02T17:00:00+00:00",
-      "title": "Giants to call up Bryce Eldridge, Jesus Rodriguez after disastrous road trip: Source",
-      "url": "https://www.nytimes.com/athletic/7251132/2026/05/03/sf-giants-bryce-eldridge-jesus-rodriguez-call-up/"
     }
   ],
-  "generated_at": "2026-10-18T09:14:33.766713+00:00",
+  "generated_at": "2026-10-18T13:20:05.679005+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/giants/"
 }
