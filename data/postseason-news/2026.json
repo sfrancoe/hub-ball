@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-18T14:53:56.882280+00:00",
+  "generatedAt": "2026-10-18T18:12:13.858321+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Why Yankees should exercise caution with pitching trade temptation",
+      "description": "",
+      "url": "https://nypost.com/2026/10/18/sports/why-yankees-should-exercise-caution-with-pitching-trade-temptation/",
+      "published": "2026-10-18T17:11:45+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "For Rays, stability in dugout is a big part of their onfield success",
       "description": "Tales | Kevin Cash is MLB’s longest-tenured manager with his current team. It’s the same with hitting coach Chad Mottola. Pitching coach Kyle Snyder is tied for second.",
@@ -65,90 +77,6 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays look to ace Drew Rasmussen for ALCS Game 5 start vs. Guardians",
-      "description": "Notes | Cleveland will turn to lefty and Plant City native Parker Messick as its starter.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/18/drew-rasmussen-alcs-game-5-cleveland-guardians-parker-messick-plant-city/",
-      "published": "2026-10-18T04:28:42.026000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Rays take advantage of errors to beat Guardians in Game 4, even ALCS",
-      "description": "Game 5 is Sunday in Cleveland.",
-      "url": "https://www.bostonglobe.com/2026/10/17/sports/mlb-playoffs-alcs-rays-guardians/",
-      "published": "2026-10-18T04:20:39.407000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "More questions about Carlos Correa and Isaac Paredes at third base | Houston Astros roster analysis",
-      "description": "The Astros' infield logjam was solved in unfortunate fashion last spring, but this offseason brings more intrigue when it comes to fitting in Carlos Correa and Isaac Paredes.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-correa-paredes-22478699.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays hang on to beat Guardians and even ALCS, ensuring a return to Trop",
-      "description": "Hits from each of the previously quiet “Big Three” play a large role as Tampa Bay scores in four different innings.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/17/yandy-diaz-alcs-game-4-guardians-junior-caminero-jonathan-aranda-nick-martinez/",
-      "published": "2026-10-18T03:36:26.520000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Guardians took their licks in Game 4. They feel better heading into Game 5",
-      "description": "After a 7-3 loss to the Rays on Saturday night, the Guardians are set to give the ball to Parker Messick and a rested bullpen on Sunday.",
-      "url": "https://www.nytimes.com/athletic/7693862/2026/10/18/guardians-game-4-alcs-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Guardians, Rays proving baseball’s next innovation might be hiding starters in the bullpen",
-      "description": "Freddy Peralta's between-start session came in the sixth inning of Game 4, and he recorded two huge outs in Tampa Bay's 7-3 win.",
-      "url": "https://www.nytimes.com/athletic/7700243/2026/10/18/guardians-rays-innovation-alcs-game-4-bullpen-starters/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Junior Caminero found redemption as the Rays got even with the Guardians in the ALCS",
-      "description": "Caminero hit the tiebreaking double in Game 4 on Saturday night, and Tampa Bay finally got its offense on track.",
-      "url": "https://www.nytimes.com/athletic/7693873/2026/10/18/rays-junior-caminero-game-4-alcs-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
       "league": "AL",
       "publishedSource": "unverified"
     }
