@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Random thoughts about (mostly) sports topics.",
+      "published": "2026-10-18T09:00:00+00:00",
+      "title": "Some Things I Think I Think: Despite early elimination, Red Sox aren’t that far from contention",
+      "url": "https://www.masslive.com/redsox/2026/10/some-things-i-think-i-think-despite-early-elimination-red-sox-arent-that-far-from-contention.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox face a pivotal offseason decision on top prospect Franklin Arias, weighing whether to build around him or trade him for proven major league talent.",
       "published": "2026-10-16T09:00:00+00:00",
       "title": "State of the Sox: The Red Sox have a prized asset in Franklin Arias — but figuring out where he fits, or whether to trade him, could define their offseason",
@@ -76,16 +83,9 @@
       "published": "2026-10-11T16:57:05+00:00",
       "title": "Red Sox’ Caleb Durbin undergoes surgery",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-injury.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Random thoughts about (mostly) sports topics.",
-      "published": "2026-10-11T09:00:00+00:00",
-      "title": "Some Things I Think I Think: Full review of Red Sox’ training, medical staff needed",
-      "url": "https://www.masslive.com/sports/2026/10/some-things-i-think-i-think-full-review-of-red-sox-training-medical-staff-needed.html"
     }
   ],
-  "generated_at": "2026-10-17T15:58:22.323119+00:00",
+  "generated_at": "2026-10-18T09:14:14.422591+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

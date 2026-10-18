@@ -16,6 +16,13 @@
     },
     {
       "category": "Dodgers",
+      "description": "The two-time defending World Series champions have been dethroned, leaving them to ponder the changes that will come next.",
+      "published": "2026-10-16T13:07:00+00:00",
+      "title": "Has the Dodgers’ dynasty reached its end? Maybe not. But hard questions await",
+      "url": "https://www.nytimes.com/athletic/7691509/2026/10/16/dodgers-dynasty-brewers-sweep-nlcs/"
+    },
+    {
+      "category": "Dodgers",
       "description": "By the time Ohtani returned, the damage was done. Ohtani’s struggles continued into October, where he looked overmatched at times and batted as low as sixth in the Dodgers’ order. He moved back to ...",
       "published": "2026-10-14T17:00:00+00:00",
       "title": "After Dodgers’ shocking elimination, here are their 4 biggest offseason questions",
@@ -30,27 +37,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "Snell marveled that Milwaukee's Jake Bauers fought him off for so long before belting a homer: 'What an at-bat. I threw everything I had.' ...",
-      "published": "2026-10-15T05:00:00+00:00",
-      "title": "The Brewers erased the Dodgers’ pitching advantage by blasting Blake Snell",
-      "url": "https://www.nytimes.com/athletic/7685332/2026/10/15/dodgers-nlcs-game-3-mlb-playoffs-blake-snell/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The two-time defending World Series champions have been dethroned, leaving them to ponder the changes that will come next.",
-      "published": "2026-10-16T10:04:00+00:00",
-      "title": "Has the Dodgers’ dynasty reached its end? Maybe not. But hard questions await",
-      "url": "https://www.nytimes.com/athletic/7691509/2026/10/16/dodgers-dynasty-brewers-sweep-nlcs/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Seven months after the last Ohtani game-used jersey record price was set, another jersey has surpassed it by a considerable margin.",
-      "published": "2026-10-17T19:57:00+00:00",
-      "title": "Shohei Ohtani Dodgers Tokyo Series jersey sells for record $2 million",
-      "url": "https://www.nytimes.com/athletic/7699851/2026/10/17/shohei-ohtani-dodgers-jersey-tokyo-series-sale/"
-    },
-    {
-      "category": "Dodgers",
       "description": "The Dodgers' season, their pursuit of a World Series three-peat and their dynasty dreams — all are on the brink.",
       "published": "2026-10-15T04:30:00+00:00",
       "title": "The Dodgers keep squandering chance after chance. It could define their postseason",
@@ -58,10 +44,24 @@
     },
     {
       "category": "Dodgers",
+      "description": "Snell marveled that Milwaukee's Jake Bauers fought him off for so long before belting a homer: 'What an at-bat. I threw everything I had.' ...",
+      "published": "2026-10-15T05:00:00+00:00",
+      "title": "The Brewers erased the Dodgers’ pitching advantage by blasting Blake Snell",
+      "url": "https://www.nytimes.com/athletic/7685332/2026/10/15/dodgers-nlcs-game-3-mlb-playoffs-blake-snell/"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Milwaukee Brewers hold a 3-0 series lead over the Los Angeles Dodgers entering Game 4 of the NLCS tonight at Dodger Stadium. Propelled by the long ball Wednesday night, the Brewers took a ...",
       "published": "2026-10-15T21:45:00+00:00",
       "title": "How the Brewers swept the Dodgers in NLCS to head to World Series for first time since 1982",
       "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Seven months after the last Ohtani game-used jersey record price was set, another jersey has surpassed it by a considerable margin.",
+      "published": "2026-10-17T19:57:00+00:00",
+      "title": "Shohei Ohtani Dodgers Tokyo Series jersey sells for record $2 million",
+      "url": "https://www.nytimes.com/athletic/7699851/2026/10/17/shohei-ohtani-dodgers-jersey-tokyo-series-sale/"
     },
     {
       "category": "Dodgers",
@@ -85,7 +85,7 @@
       "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/"
     }
   ],
-  "generated_at": "2026-10-18T04:52:29.174714+00:00",
+  "generated_at": "2026-10-18T09:14:32.951746+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }
