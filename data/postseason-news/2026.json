@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-18T01:34:36.556141+00:00",
+  "generatedAt": "2026-10-18T06:38:49.779973+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Rays look to ace Drew Rasmussen for ALCS Game 5 start vs. Guardians",
+      "description": "Notes | Cleveland will turn to lefty and Plant City native Parker Messick as its starter.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/18/drew-rasmussen-alcs-game-5-cleveland-guardians-parker-messick-plant-city/",
+      "published": "2026-10-18T04:28:42.026000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays take advantage of errors to beat Guardians in Game 4, even ALCS",
+      "description": "Game 5 is Sunday in Cleveland.",
+      "url": "https://www.bostonglobe.com/2026/10/17/sports/mlb-playoffs-alcs-rays-guardians/",
+      "published": "2026-10-18T04:20:39.407000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays hang on to beat Guardians and even ALCS, ensuring a return to Trop",
+      "description": "Hits from each of the previously quiet “Big Three” play a large role as Tampa Bay scores in four different innings.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/17/yandy-diaz-alcs-game-4-guardians-junior-caminero-jonathan-aranda-nick-martinez/",
+      "published": "2026-10-18T03:36:26.520000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Tom Krasovic: Be careful what you wish for, Padres fans — Brewers look like a juggernaut",
       "description": "“They control the zone,” Padres manager Craig Stammen said Wednesday, while noting also that Jackson Chourio, age 22, William Contreras, 28, and Brice Turang, 26, have good home run power. Stammen ...",
@@ -33,51 +69,27 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Rays’ Chandler Simpson: ‘It means a lot’ to be a role model for kids",
-      "description": "Knowing he’s in a position to show Black youth there can be a place for them in baseball is a responsibility the outfielder says he enjoys.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/17/chandler-simpson-role-model-alcs-omega-psi-phi-fraternity-gold-glove-finalist/",
-      "published": "2026-10-17T18:30:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Rays baseball boss Erik Neander on best part of 2026 so far, future",
-      "description": "A Q&A yields some interesting answers about who Neander is happiest for, what led to this season’s success, what it’s like working for new owners.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/17/rays-baseball-boss-erik-neander-best-part-2026-so-far-future/",
-      "published": "2026-10-17T17:30:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Yankees’ outfield road map largely centers on one key piece — and the questions that surround him",
-      "description": "",
-      "url": "https://nypost.com/2026/10/17/sports/the-yankees-outfield-road-map-largely-centers-spencer-jones/",
-      "published": "2026-10-17T17:18:26+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Rays vs. Guardians live updates: Latest from tied ALCS Game 4 into 6th inning",
-      "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
-      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/",
+      "title": "Rays fight back in Game 4 to even ALCS against Guardians. Did their offense wake up?",
+      "description": "The Rays and Guardians have traded blows in the ALCS, with Tampa Bay taking Game 4 on Saturday night, 7-3. As the National League champion Milwaukee Brewers kick their feet up for more than a week, ...",
+      "url": "https://www.nytimes.com/athletic/7694062/2026/10/17/rays-guardians-game-4-score-results-takeaways-mlb-alcs-2026/",
       "published": "",
       "source": "The Athletic",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "teamAbbreviation": "CLE",
       "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Shohei Ohtani Dodgers Tokyo Series jersey sells for record $2 million",
+      "description": "Seven months after the last Ohtani game-used jersey record price was set, another jersey has surpassed it by a considerable margin.",
+      "url": "https://www.nytimes.com/athletic/7699851/2026/10/17/shohei-ohtani-dodgers-jersey-tokyo-series-sale/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
       "publishedSource": "unverified"
     }
   ]
