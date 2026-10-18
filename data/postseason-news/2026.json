@@ -1,13 +1,61 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-18T06:38:49.779973+00:00",
+  "generatedAt": "2026-10-18T11:46:36.322869+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 7,
   "articles": [
+    {
+      "title": "Column: Milwaukee Brewers making World Series is unfortunate for Chicago Cubs — but great for baseball fans",
+      "description": "The Milwaukee Brewers in the World Series is an unfortunate turn of events for almost everyone except real baseball fans.",
+      "url": "https://www.chicagotribune.com/2026/10/18/milwaukee-brewers-world-series-chicago-cubs/",
+      "published": "2026-10-18T11:00:12+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "After a turnaround for the ages, Chicago White Sox eye pitching and outfield depth in their offseason plans",
+      "description": "The Chicago White Sox had a turnaround for the ages. So what’s the next step for a franchise that went from three consecutive 100-plus-loss seasons between 2023-25 to the postseason in 2026?",
+      "url": "https://www.chicagotribune.com/2026/10/18/chicago-white-sox-offseason-plans/",
+      "published": "2026-10-18T11:00:11+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "MLB notes: Breaking down salary cap, other proposals as labor talks heat up",
+      "description": "MLB wants to institute a salary cap, but how would the new system actually work? Here’s a rundown of the league’s and players’ proposals as the ongoing labor talks heat up.",
+      "url": "https://www.bostonherald.com/2026/10/18/mlb-notes-breaking-down-salary-cap-other-proposals-as-labor-talks-heat-up/",
+      "published": "2026-10-18T09:30:00+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Some Things I Think I Think: Despite early elimination, Red Sox aren’t that far from contention",
+      "description": "Random thoughts about (mostly) sports topics.",
+      "url": "https://www.masslive.com/redsox/2026/10/some-things-i-think-i-think-despite-early-elimination-red-sox-arent-that-far-from-contention.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Rays look to ace Drew Rasmussen for ALCS Game 5 start vs. Guardians",
       "description": "Notes | Cleveland will turn to lefty and Plant City native Parker Messick as its starter.",
@@ -33,6 +81,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "More questions about Carlos Correa and Isaac Paredes at third base | Houston Astros roster analysis",
+      "description": "The Astros' infield logjam was solved in unfortunate fashion last spring, but this offseason brings more intrigue when it comes to fitting in Carlos Correa and Isaac Paredes.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-correa-paredes-22478699.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Rays hang on to beat Guardians and even ALCS, ensuring a return to Trop",
       "description": "Hits from each of the previously quiet “Big Three” play a large role as Tampa Bay scores in four different innings.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/17/yandy-diaz-alcs-game-4-guardians-junior-caminero-jonathan-aranda-nick-martinez/",
@@ -45,6 +105,42 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "The Guardians took their licks in Game 4. They feel better heading into Game 5",
+      "description": "After a 7-3 loss to the Rays on Saturday night, the Guardians are set to give the ball to Parker Messick and a rested bullpen on Sunday.",
+      "url": "https://www.nytimes.com/athletic/7693862/2026/10/18/guardians-game-4-alcs-mlb-playoffs/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Guardians, Rays proving baseball’s next innovation might be hiding starters in the bullpen",
+      "description": "Freddy Peralta's between-start session came in the sixth inning of Game 4, and he recorded two huge outs in Tampa Bay's 7-3 win.",
+      "url": "https://www.nytimes.com/athletic/7700243/2026/10/18/guardians-rays-innovation-alcs-game-4-bullpen-starters/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Junior Caminero found redemption as the Rays got even with the Guardians in the ALCS",
+      "description": "Caminero hit the tiebreaking double in Game 4 on Saturday night, and Tampa Bay finally got its offense on track.",
+      "url": "https://www.nytimes.com/athletic/7693873/2026/10/18/rays-junior-caminero-game-4-alcs-mlb-playoffs/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Tom Krasovic: Be careful what you wish for, Padres fans — Brewers look like a juggernaut",
       "description": "“They control the zone,” Padres manager Craig Stammen said Wednesday, while noting also that Jackson Chourio, age 22, William Contreras, 28, and Brice Turang, 26, have good home run power. Stammen ...",
       "url": "https://www.sandiegouniontribune.com/2026/10/17/tom-krasovic-be-careful-what-you-wish-for-padres-fans-brewers-are-looking-like-a-juggernaut/",
@@ -55,42 +151,6 @@
       "teamAbbreviation": "SD",
       "league": "NL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "The Brewers, Guardians, and Rays have proven this MLB postseason that money doesn’t equal might",
-      "description": "The Dodgers are spending more on their luxury tax bill than the Brewers are on payroll, but it's Milwaukee headed to the World Series as LA's two-year championship reign ends.",
-      "url": "https://www.bostonglobe.com/2026/10/17/sports/sunday-baseball-notes-brewers-dodgers/",
-      "published": "2026-10-17T21:44:55.522000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Rays fight back in Game 4 to even ALCS against Guardians. Did their offense wake up?",
-      "description": "The Rays and Guardians have traded blows in the ALCS, with Tampa Bay taking Game 4 on Saturday night, 7-3. As the National League champion Milwaukee Brewers kick their feet up for more than a week, ...",
-      "url": "https://www.nytimes.com/athletic/7694062/2026/10/17/rays-guardians-game-4-score-results-takeaways-mlb-alcs-2026/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Shohei Ohtani Dodgers Tokyo Series jersey sells for record $2 million",
-      "description": "Seven months after the last Ohtani game-used jersey record price was set, another jersey has surpassed it by a considerable margin.",
-      "url": "https://www.nytimes.com/athletic/7699851/2026/10/17/shohei-ohtani-dodgers-jersey-tokyo-series-sale/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
