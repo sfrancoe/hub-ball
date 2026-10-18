@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-18T18:12:13.858321+00:00",
+  "generatedAt": "2026-10-18T20:53:32.597534+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 6,
   "articles": [
     {
       "title": "Why Yankees should exercise caution with pitching trade temptation",
@@ -57,6 +57,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Junior Caminero found redemption as the Rays got even with the Guardians in the ALCS",
+      "description": "Caminero hit the tiebreaking double in Game 4 on Saturday night, and Tampa Bay finally got its offense on track.",
+      "url": "https://www.nytimes.com/athletic/7693873/2026/10/18/rays-junior-caminero-game-4-alcs-mlb-playoffs/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "MLB notes: Breaking down salary cap, other proposals as labor talks heat up",
       "description": "MLB wants to institute a salary cap, but how would the new system actually work? Here’s a rundown of the league’s and players’ proposals as the ongoing labor talks heat up.",
       "url": "https://www.bostonherald.com/2026/10/18/mlb-notes-breaking-down-salary-cap-other-proposals-as-labor-talks-heat-up/",
@@ -77,6 +89,18 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Guardians vs. Rays ALCS Game 5 Live Updates: Can Parker Messick push Cleveland one win away from the World Series?",
+      "description": "Now, they’ll get another look at familiar arms with very different résumés: rookie left-hander Parker Messick takes the ball for Cleveland, while Rays ace Drew Rasmussen gets the call for Tampa Bay.",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-rays-alcs-game-5-live-updates-can-parker-messick-push-cleveland-one-win-away-from-the-world-series.html",
+      "published": "",
+      "source": "Cleveland.com",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
       "league": "AL",
       "publishedSource": "unverified"
     }
