@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Notes | Cleveland will turn to lefty and Plant City native Parker Messick as its starter.",
+      "published": "2026-10-18T04:28:42+00:00",
+      "title": "Rays look to ace Drew Rasmussen for ALCS Game 5 start vs. Guardians",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/18/drew-rasmussen-alcs-game-5-cleveland-guardians-parker-messick-plant-city/"
+    },
+    {
+      "category": "Rays",
+      "description": "Hits from each of the previously quiet “Big Three” play a large role as Tampa Bay scores in four different innings.",
+      "published": "2026-10-18T03:36:26+00:00",
+      "title": "Rays hang on to beat Guardians and even ALCS, ensuring a return to Trop",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/17/yandy-diaz-alcs-game-4-guardians-junior-caminero-jonathan-aranda-nick-martinez/"
+    },
+    {
+      "category": "Rays",
       "description": "Knowing he’s in a position to show Black youth there can be a place for them in baseball is a responsibility the outfielder says he enjoys.",
       "published": "2026-10-17T18:30:00+00:00",
       "title": "Rays’ Chandler Simpson: ‘It means a lot’ to be a role model for kids",
@@ -97,16 +111,9 @@
       "published": "2026-10-13T19:38:26+00:00",
       "title": "At Tropicana Field, upper deck Rays fans are back in the game",
       "url": "https://www.tampabay.com/sports/rays/2026/10/13/rays-playoffs-upper-deck-seats-tropicana-field/"
-    },
-    {
-      "category": "Rays",
-      "description": "In a heated land-use meeting, Hillsborough Commission chairperson Ken Hagan asked to schedule the required hearing for Nov. 10.",
-      "published": "2026-10-13T17:59:15+00:00",
-      "title": "Hillsborough sets sales tax hearing for proposed Rays stadium",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/13/new-rays-stadium-hearing-tampa/"
     }
   ],
-  "generated_at": "2026-10-17T20:40:06.500689+00:00",
+  "generated_at": "2026-10-18T04:51:42.925143+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

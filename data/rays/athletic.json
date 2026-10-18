@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Junior Caminero and Jonathan Aranda had key hits as Tampa Bay beat Cleveland in Game 4 on Saturday night.",
+      "published": "2026-10-18T03:19:22+00:00",
+      "title": "Rays fight back in Game 4 to even ALCS against Guardians. Did their offense wake up?",
+      "url": "https://www.nytimes.com/athletic/7694062/2026/10/17/rays-guardians-game-4-score-results-takeaways-mlb-alcs-2026/"
+    },
+    {
+      "category": "Rays",
       "description": "MLB's handling of the American League Championship Series could result in Cleveland and Tampa Bay playing four games in four nights.",
       "published": "2026-10-17T09:00:19+00:00",
       "title": "MLB saw the rain coming and gave us an unnecessary night of nonsense anyway",
@@ -132,16 +139,9 @@
       "published": "2026-10-11T02:45:36+00:00",
       "title": "In MLB’s final 4, it's the sport’s biggest spender and 3 budget-savvy rivals",
       "url": "https://www.nytimes.com/athletic/7673621/2026/10/10/mlb-playoffs-2026-dodgers-brewers-guardians-rays-payroll/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Rays do not win every transaction. But they do leverage their deep scouting department and analytic models to find undervalued talent.",
-      "published": "2026-10-08T18:57:40+00:00",
-      "title": "The Rays are known for doing more with less. Here are 5 case studies",
-      "url": "https://www.nytimes.com/athletic/7672045/2026/10/08/rays-victor-mesa-jr-finding-talent/"
     }
   ],
-  "generated_at": "2026-10-17T12:47:16.000136+00:00",
+  "generated_at": "2026-10-18T04:51:43.307427+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

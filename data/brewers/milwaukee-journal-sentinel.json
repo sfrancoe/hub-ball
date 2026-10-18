@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Brewers",
-      "description": "Top performed at Fiserv Forum Oct. 16 with guest Marty Stuart the night after after the Brewers won the NLCS and a ticket to the World Series.",
-      "published": "2026-10-17T10:45:00+00:00",
-      "title": "Zach Top toasts Brewers, takes '90s country torch at Milwaukee concert",
-      "url": "https://www.jsonline.com/story/entertainment/music/2026/10/17/zach-top-toasts-brewers-takes-90s-country-torch-at-milwaukee-concert/92194501007/"
-    },
-    {
-      "category": "Brewers",
       "description": "The Brewers returned to Milwaukee Oct. 16, less than 24 hours after sweeping the Los Angeles Dodgers to clinch a spot in the World Series.",
       "published": "2026-10-16T06:52:00+00:00",
       "title": "The Brewers return to Milwaukee after making history in Los Angeles",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-return-to-milwaukee-after-beating-dodgers-world-series-next/92287393007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Top performed at Fiserv Forum Oct. 16 with guest Marty Stuart the night after after the Brewers won the NLCS and a ticket to the World Series.",
+      "published": "2026-10-17T10:45:00+00:00",
+      "title": "Zach Top toasts Brewers, takes '90s country torch at Milwaukee concert",
+      "url": "https://www.jsonline.com/story/entertainment/music/2026/10/17/zach-top-toasts-brewers-takes-90s-country-torch-at-milwaukee-concert/92194501007/"
     },
     {
       "category": "Brewers",
@@ -23,13 +23,6 @@
     },
     {
       "category": "Brewers",
-      "description": "Celebrate the Milwaukee Brewers' historic World Series appearance with the Journal Sentinel's Oct. 17 front page. Here's how to get a copy.",
-      "published": "2026-10-16T13:02:00+00:00",
-      "title": "Get the Milwaukee Journal Sentinel's historic Brewers front page",
-      "url": "https://www.jsonline.com/story/news/local/2026/10/16/milwaukee-brewers-world-series-2026-journal-sentinel-front-page/92289034007/"
-    },
-    {
-      "category": "Brewers",
       "description": "The longest-tenured Brewers player says he is ready to pitch in the World Series after not throwing in a game in more than three months ...",
       "published": "2026-10-17T04:15:00+00:00",
       "title": "Brandon Woodruff to push to be on Brewers World Series roster",
@@ -37,10 +30,17 @@
     },
     {
       "category": "Brewers",
-      "description": "The start times for all of the Milwaukee Brewers ' World Series games have been released. And it's easy to remember the times. Every game will start at 7 p.m., home or away. The Brewers, who are ...",
-      "published": "2026-10-16T18:11:00+00:00",
-      "title": "Start times released for all of the Brewers' World Series games",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/world-series-schedule-start-times/92289745007/"
+      "description": "Celebrate the Milwaukee Brewers' historic World Series appearance with the Journal Sentinel's Oct. 17 front page. Here's how to get a copy.",
+      "published": "2026-10-16T13:02:00+00:00",
+      "title": "Get the Milwaukee Journal Sentinel's historic Brewers front page",
+      "url": "https://www.jsonline.com/story/news/local/2026/10/16/milwaukee-brewers-world-series-2026-journal-sentinel-front-page/92289034007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "After 44 years of waiting, the time has come for a World Series. Milwaukee deserves it. And these Brewers have delivered.",
+      "published": "2026-10-16T09:40:00+00:00",
+      "title": "Milwaukee deserves a World Series. Now, it finally gets its shot",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/milwaukee-deserves-a-world-series-now-it-finally-gets-one/92262018007/"
     },
     {
       "category": "Brewers",
@@ -51,20 +51,6 @@
     },
     {
       "category": "Brewers",
-      "description": "Now that the Brewers are headed to the World Series, here's what to know about their fellow small-market brethren in the ALCS.",
-      "published": "2026-10-16T10:54:00+00:00",
-      "title": "Who would Brewers face in the World Series? Stats and stories to know",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/what-to-know-cleveland-guardians-tampa-bay-rays-alcs/92272445007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "After 44 years of waiting, the time has come for a World Series. Milwaukee deserves it. And these Brewers have delivered.",
-      "published": "2026-10-16T10:54:00+00:00",
-      "title": "Milwaukee deserves a World Series. Now, it finally gets its shot",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/milwaukee-deserves-a-world-series-now-it-finally-gets-one/92262018007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Things looked bleak in Game 4 of the NLCS after a Shohei Ohtani homer. But the Brewers rallied and swept the Dodgers to clinch a World Series berth.",
       "published": "2026-10-16T10:56:00+00:00",
       "title": "'A bunch of savages' | Scrappy Brewers rally from early four-run deficit",
@@ -72,20 +58,34 @@
     },
     {
       "category": "Brewers",
-      "description": "Milwaukee arts institutions are relishing the Brewers' historic run to the World Series with congratulatory messages on social media.",
-      "published": "2026-10-16T10:30:00+00:00",
-      "title": "Milwaukee arts institutions celebrate Brewers' historic win",
-      "url": "https://www.jsonline.com/story/entertainment/arts/2026/10/16/milwaukee-art-museum-ballet-public-library-brewers-win-world-series/92282301007/"
+      "description": "The start times for all of the Milwaukee Brewers ' World Series games have been released. And it's easy to remember the times. Every game will start at 7 p.m., home or away. The Brewers, who are ...",
+      "published": "2026-10-16T18:11:00+00:00",
+      "title": "Start times released for all of the Brewers' World Series games",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/world-series-schedule-start-times/92289745007/"
     },
     {
       "category": "Brewers",
-      "description": "Fans couldn't wait to get their pick of National League champions merch after the Brewers' sweep of the Dodgers. See what's available online.",
-      "published": "2026-10-16T10:52:00+00:00",
-      "title": "Brewers NLCS, World Series shirts, hats, jerseys already for sale",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/how-to-buy-brewers-world-series-jerseys-hats-and-other-gear/92280556007/"
+      "description": "The Brewers weren't assuming anything after their Game 3 NLCS victory. Then they rebounded from a slow start in Game 4 to sweep away the Dodgers.",
+      "published": "2026-10-16T10:56:00+00:00",
+      "title": "After years of falling short in the playoffs, the Brewers left no doubt",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/after-years-of-falling-short-in-the-playoffs-brewers-left-no-doubt/92237441007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "From unwashed jerseys to lucky hats, Milwaukee Brewers fans share the superstitions they believe helped propel their team to the World Series.",
+      "published": "2026-10-15T23:26:00+00:00",
+      "title": "Brewers fans share superstitions, including lucky jerseys, game-day rituals",
+      "url": "https://www.jsonline.com/story/news/local/2026/10/16/milwaukee-brewers-fans-superstitions-lucky-jerseys-world-series/92275438007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Milwaukee Brewers owner Mark Attansio leaned against the visiting clubhouse wall Wednesday night, standing under a picture of clouds hovering over Dodger Stadium, and feeling as if he were on Cloud 9 ...",
+      "published": "2026-10-15T06:47:00+00:00",
+      "title": "One win from World Series, these Milwaukee Brewers are simply 'remarkable'",
+      "url": "https://www.jsonline.com/story/sports/mlb/columnist/bob-nightengale/2026/10/15/milwaukee-brewers-nlcs-3-0-lead-dodgers-playoffs/92260139007/"
     }
   ],
-  "generated_at": "2026-10-17T22:41:28.498728+00:00",
+  "generated_at": "2026-10-18T04:52:19.570162+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

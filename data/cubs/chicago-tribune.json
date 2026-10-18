@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Cubs",
-      "description": "The Chicago Cubs, who had MLB’s best team defense, have five Gold Glove Award finalists. Chicago White Sox second baseman Chase Meidroth also is a finalist.",
-      "published": "2026-10-14T12:00:00+00:00",
-      "title": "Gold Glove Award finalists are announced, including 5 Cubs and 1 White Sox player",
-      "url": "https://www.chicagotribune.com/2026/10/14/chicago-cubs-white-sox-gold-glove-finalists/"
-    },
-    {
-      "category": "Cubs",
       "description": "After the Chicago Cubs fall short in the playoffs, those within the organization must diagnose what went wrong and look ahead to getting another shot in 2027.",
       "published": "2026-10-04T04:00:00+00:00",
       "title": "Where do the Chicago Cubs go after falling short in the playoffs again? ‘We let it slip away.’",
       "url": "https://www.chicagotribune.com/2026/10/04/chicago-cubs-playoff-exit-what-next/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The Chicago Cubs, who had MLB’s best team defense, have five Gold Glove Award finalists. Chicago White Sox second baseman Chase Meidroth also is a finalist.",
+      "published": "2026-10-14T12:00:00+00:00",
+      "title": "Gold Glove Award finalists are announced, including 5 Cubs and 1 White Sox player",
+      "url": "https://www.chicagotribune.com/2026/10/14/chicago-cubs-white-sox-gold-glove-finalists/"
     },
     {
       "category": "Cubs",
@@ -29,7 +29,7 @@
       "url": "https://www.chicagotribune.com/2026/10/09/october-9-chicago-history/"
     }
   ],
-  "generated_at": "2026-10-17T04:56:42.061934+00:00",
+  "generated_at": "2026-10-18T04:52:15.605684+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Rays 7, Guardians 3",
+      "description": "Game 5 is Sunday in Cleveland.",
+      "published": "2026-10-18T03:50:15.005Z",
+      "title": "Rays take advantage of errors to beat Guardians in Game 4, even ALCS",
+      "url": "https://www.bostonglobe.com/2026/10/17/sports/mlb-playoffs-alcs-rays-guardians/"
+    },
+    {
       "category": "Sunday baseball notes",
       "description": "The Dodgers are spending more on their luxury tax bill than the Brewers are on payroll, but it's Milwaukee headed to the World Series as LA's two-year championship reign ends.",
       "published": "2026-10-17T14:14:30.965Z",
@@ -104,16 +111,9 @@
       "published": "2026-10-11T16:02:22.153Z",
       "title": "Red Sox’ Caleb Durbin has surgery to repair injured pinkie finger",
       "url": "https://www.bostonglobe.com/2026/10/11/sports/caleb-durbin-red-sox-pinkie-surgery/"
-    },
-    {
-      "category": "GUARDIANS 2, WHITE SOX 0",
-      "description": "Williams fanned 12, while Ramírez's two-run shot was all host Cleveland needed to punch its ticket to Tampa Bay.",
-      "published": "2026-10-11T03:01:24.748Z",
-      "title": "Gavin Williams, José Ramírez lead Guardians over White Sox to cap ALDS comeback in five games",
-      "url": "https://www.bostonglobe.com/2026/10/10/sports/baseball-alds-game-5-score-guardians-white-sox/"
     }
   ],
-  "generated_at": "2026-10-17T15:58:20.279544+00:00",
+  "generated_at": "2026-10-18T04:51:32.110805+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
