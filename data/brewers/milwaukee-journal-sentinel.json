@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Brewers",
-      "description": "Top performed at Fiserv Forum Oct. 16 with guest Marty Stuart the night after after the Brewers won the NLCS and a ticket to the World Series.",
-      "published": "2026-10-17T10:45:00+00:00",
-      "title": "Zach Top toasts Brewers, takes '90s country torch at Milwaukee concert",
-      "url": "https://www.jsonline.com/story/entertainment/music/2026/10/17/zach-top-toasts-brewers-takes-90s-country-torch-at-milwaukee-concert/92194501007/"
-    },
-    {
-      "category": "Brewers",
       "description": "The Brewers returned to Milwaukee Oct. 16, less than 24 hours after sweeping the Los Angeles Dodgers to clinch a spot in the World Series.",
       "published": "2026-10-16T06:52:00+00:00",
       "title": "The Brewers return to Milwaukee after making history in Los Angeles",
@@ -65,6 +58,13 @@
     },
     {
       "category": "Brewers",
+      "description": "Top performed at Fiserv Forum Oct. 16 with guest Marty Stuart the night after after the Brewers won the NLCS and a ticket to the World Series.",
+      "published": "2026-10-17T10:45:00+00:00",
+      "title": "Zach Top toasts Brewers, takes '90s country torch at Milwaukee concert",
+      "url": "https://www.jsonline.com/story/entertainment/music/2026/10/17/zach-top-toasts-brewers-takes-90s-country-torch-at-milwaukee-concert/92194501007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Milwaukee arts institutions are relishing the Brewers' historic run to the World Series with congratulatory messages on social media.",
       "published": "2026-10-16T10:30:00+00:00",
       "title": "Milwaukee arts institutions celebrate Brewers' historic win",
@@ -85,7 +85,7 @@
       "url": "https://www.jsonline.com/story/sports/mlb/columnist/bob-nightengale/2026/10/15/milwaukee-brewers-nlcs-3-0-lead-dodgers-playoffs/92260139007/"
     }
   ],
-  "generated_at": "2026-10-18T16:39:32.767512+00:00",
+  "generated_at": "2026-10-18T18:58:33.603041+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

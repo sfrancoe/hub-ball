@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "The Guardians send rookie Parker Messick to the mound against Drew Rasmussen and the Tampa Bay Rays in a pivotal ALCS Game 5.",
+      "published": "2026-10-18T06:01:00+00:00",
+      "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 18, 2026: ALCS Game 5",
+      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-18-2026-alcs-game-5.html"
+    },
+    {
+      "category": "Guardians",
       "description": "His 385-foot homer off Griffin Jax traveled into the right-center field seats at 105 mph, turning a 2-1 deficit into a 3-2 Cleveland lead. Halpin celebrated with a towering bat flip, then soaked in ...",
       "published": "2026-10-16T09:07:00+00:00",
       "title": "Guardians players say Cleveland fans delivered when it mattered most in ALCS Game 3",
@@ -13,13 +20,6 @@
       "published": "2026-10-16T05:30:00+00:00",
       "title": "Nick Martinez has shut out the Guardians twice. Cleveland’s Game 4 challenge is making him come to them",
       "url": "https://www.cleveland.com/guardians/2026/10/nick-martinez-has-shut-out-the-guardians-twice-clevelands-game-4-challenge-is-making-him-come-to-them.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Cleveland Guardians, leading the ALCS 2-1, host the Tampa Bay Rays in Game 4, with rain threatening to disrupt play at Progressive Field.",
-      "published": "2026-10-16T09:00:00+00:00",
-      "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 16, 2026: ALCS Game 4",
-      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-16-2026-alcs-game-4.html"
     },
     {
       "category": "Guardians",
@@ -85,7 +85,7 @@
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-by-the-numbers-114-strikeouts-costly-mistakes-and-a-historic-homer-in-alcs-game-4-loss-to-rays.html"
     }
   ],
-  "generated_at": "2026-10-18T16:39:25.698875+00:00",
+  "generated_at": "2026-10-18T18:58:27.294100+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
