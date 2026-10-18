@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-17T23:30:17.125282+00:00",
+  "generatedAt": "2026-10-18T01:34:36.556141+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Tom Krasovic: Be careful what you wish for, Padres fans — Brewers look like a juggernaut",
+      "description": "“They control the zone,” Padres manager Craig Stammen said Wednesday, while noting also that Jackson Chourio, age 22, William Contreras, 28, and Brice Turang, 26, have good home run power. Stammen ...",
+      "url": "https://www.sandiegouniontribune.com/2026/10/17/tom-krasovic-be-careful-what-you-wish-for-padres-fans-brewers-are-looking-like-a-juggernaut/",
+      "published": "2026-10-18T01:18:28+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "The Brewers, Guardians, and Rays have proven this MLB postseason that money doesn’t equal might",
       "description": "The Dodgers are spending more on their luxury tax bill than the Brewers are on payroll, but it's Milwaukee headed to the World Series as LA's two-year championship reign ends.",
@@ -57,7 +69,7 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Rays vs. Guardians live updates: MLB playoffs ALCS rescheduled Game 4 start time, predictions, latest",
+      "title": "Rays vs. Guardians live updates: Latest from tied ALCS Game 4 into 6th inning",
       "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
       "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/",
       "published": "",
@@ -67,18 +79,6 @@
       "teamAbbreviation": "CLE",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "The Dodgers’ dream of a three-peat was shattered. What went wrong and what are fans saying?",
-      "description": "The Dodgers miss out on three straight rings, the fast-moving Norte fire is burning homes in south Orange County and more big stories.",
-      "url": "https://www.latimes.com/california/newsletter/2026-10-17/heres-why-the-dodgers-missed-a-three-peat-and-what-fans-are-saying",
-      "published": "2026-10-17T13:30:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
     }
   ]
 }
