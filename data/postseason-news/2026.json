@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-18T20:53:32.597534+00:00",
+  "generatedAt": "2026-10-18T23:21:19.715460+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 3,
   "articles": [
     {
       "title": "Why Yankees should exercise caution with pitching trade temptation",
@@ -21,6 +21,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Rays vs. Guardians score, live updates: Tampa Bay leading Cleveland in MLB playoffs ALCS Game 5",
+      "description": "Follow live as Tampa Bay and Cleveland face off with the 2026 American League Championship Series tied at 2-2.",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-mlb-playoffs-game-5-score-result/91kYGY4RvnjQ/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "For Rays, stability in dugout is a big part of their onfield success",
       "description": "Tales | Kevin Cash is MLB’s longest-tenured manager with his current team. It’s the same with hitting coach Chad Mottola. Pitching coach Kyle Snyder is tied for second.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/18/kevin-cash-chad-mottola-kyle-snyder-carson-williams-rocco-baldelli/",
@@ -31,78 +43,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Column: Milwaukee Brewers making World Series is unfortunate for Chicago Cubs — but great for baseball fans",
-      "description": "The Milwaukee Brewers in the World Series is an unfortunate turn of events for almost everyone except real baseball fans.",
-      "url": "https://www.chicagotribune.com/2026/10/18/milwaukee-brewers-world-series-chicago-cubs/",
-      "published": "2026-10-18T11:00:12+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "After a turnaround for the ages, Chicago White Sox eye pitching and outfield depth in their offseason plans",
-      "description": "The Chicago White Sox had a turnaround for the ages. So what’s the next step for a franchise that went from three consecutive 100-plus-loss seasons between 2023-25 to the postseason in 2026?",
-      "url": "https://www.chicagotribune.com/2026/10/18/chicago-white-sox-offseason-plans/",
-      "published": "2026-10-18T11:00:11+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Junior Caminero found redemption as the Rays got even with the Guardians in the ALCS",
-      "description": "Caminero hit the tiebreaking double in Game 4 on Saturday night, and Tampa Bay finally got its offense on track.",
-      "url": "https://www.nytimes.com/athletic/7693873/2026/10/18/rays-junior-caminero-game-4-alcs-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "MLB notes: Breaking down salary cap, other proposals as labor talks heat up",
-      "description": "MLB wants to institute a salary cap, but how would the new system actually work? Here’s a rundown of the league’s and players’ proposals as the ongoing labor talks heat up.",
-      "url": "https://www.bostonherald.com/2026/10/18/mlb-notes-breaking-down-salary-cap-other-proposals-as-labor-talks-heat-up/",
-      "published": "2026-10-18T09:30:00+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Some Things I Think I Think: Despite early elimination, Red Sox aren’t that far from contention",
-      "description": "Random thoughts about (mostly) sports topics.",
-      "url": "https://www.masslive.com/redsox/2026/10/some-things-i-think-i-think-despite-early-elimination-red-sox-arent-that-far-from-contention.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Guardians vs. Rays ALCS Game 5 Live Updates: Can Parker Messick push Cleveland one win away from the World Series?",
-      "description": "Now, they’ll get another look at familiar arms with very different résumés: rookie left-hander Parker Messick takes the ball for Cleveland, while Rays ace Drew Rasmussen gets the call for Tampa Bay.",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-rays-alcs-game-5-live-updates-can-parker-messick-push-cleveland-one-win-away-from-the-world-series.html",
-      "published": "",
-      "source": "Cleveland.com",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
