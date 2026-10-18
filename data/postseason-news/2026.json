@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-18T11:46:36.322869+00:00",
+  "generatedAt": "2026-10-18T14:53:56.882280+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 7,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "For Rays, stability in dugout is a big part of their onfield success",
+      "description": "Tales | Kevin Cash is MLB’s longest-tenured manager with his current team. It’s the same with hitting coach Chad Mottola. Pitching coach Kyle Snyder is tied for second.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/18/kevin-cash-chad-mottola-kyle-snyder-carson-williams-rocco-baldelli/",
+      "published": "2026-10-18T12:00:00+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Column: Milwaukee Brewers making World Series is unfortunate for Chicago Cubs — but great for baseball fans",
       "description": "The Milwaukee Brewers in the World Series is an unfortunate turn of events for almost everyone except real baseball fans.",
@@ -139,18 +151,6 @@
       "teamAbbreviation": "CLE",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "Tom Krasovic: Be careful what you wish for, Padres fans — Brewers look like a juggernaut",
-      "description": "“They control the zone,” Padres manager Craig Stammen said Wednesday, while noting also that Jackson Chourio, age 22, William Contreras, 28, and Brice Turang, 26, have good home run power. Stammen ...",
-      "url": "https://www.sandiegouniontribune.com/2026/10/17/tom-krasovic-be-careful-what-you-wish-for-padres-fans-brewers-are-looking-like-a-juggernaut/",
-      "published": "2026-10-18T01:18:28+00:00",
-      "source": "Union-Tribune",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "teamAbbreviation": "SD",
-      "league": "NL",
-      "publishedSource": "publisher"
     }
   ]
 }
