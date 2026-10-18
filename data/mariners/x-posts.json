@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-10-18T11:21:50.653697+00:00",
+  "generated_at": "2026-10-18T20:53:20.579427+00:00",
   "source": "X",
   "source_url": "https://x.com/Mariners",
   "recent": [
+    {
+      "id": "2111856718359753175",
+      "text": "Happy birthday, @AngieMentink and @GaryHillJr 🥳🎉 https://t.co/8Jeox87h83",
+      "url": "https://x.com/Mariners/status/2111856718359753175",
+      "published": "2026-10-18T16:27:32+00:00",
+      "likes": 446,
+      "author": "Seattle Mariners",
+      "handle": "Mariners",
+      "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HU7SdvTaMAAcKye.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2111218125182304590",
       "text": "More than just a pair of shoes 🥹 Earlier this year, @BJW002 was gifted custom cleats designed by patients at @seattlechildren, creating a connection that goes beyond the game. https://t.co/rcIYyjlmMp",
       "url": "https://x.com/Mariners/status/2111218125182304590",
       "published": "2026-10-16T22:10:00+00:00",
-      "likes": 171,
+      "likes": 175,
       "author": "Seattle Mariners",
       "handle": "Mariners",
       "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
@@ -32,5 +46,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2111856718359753175",
+      "text": "Happy birthday, @AngieMentink and @GaryHillJr 🥳🎉 https://t.co/8Jeox87h83",
+      "url": "https://x.com/Mariners/status/2111856718359753175",
+      "published": "2026-10-18T16:27:32+00:00",
+      "likes": 446,
+      "author": "Seattle Mariners",
+      "handle": "Mariners",
+      "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HU7SdvTaMAAcKye.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
