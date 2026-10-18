@@ -23,17 +23,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Brewers overcame an early deficit to reach the World Series for the first time since '82, ending the Dodgers' bid for three-peat.",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
-      "url": "https://www.nytimes.com/athletic/7691528/2026/10/15/dodgers-brewers-game-4-score-results-takeaways-mlb-nlcs-2026/"
-    },
-    {
-      "category": "Dodgers",
       "description": "The two-time defending World Series champions have been dethroned, leaving them to ponder the changes that will come next.",
       "published": "2026-10-16T13:07:00+00:00",
       "title": "Has the Dodgers’ dynasty reached its end? Maybe not. But hard questions await",
       "url": "https://www.nytimes.com/athletic/7691509/2026/10/16/dodgers-dynasty-brewers-sweep-nlcs/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Brewers overcame an early deficit to reach the World Series for the first time since '82, ending the Dodgers' bid for three-peat.",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
+      "url": "https://www.nytimes.com/athletic/7691528/2026/10/15/dodgers-brewers-game-4-score-results-takeaways-mlb-nlcs-2026/"
     },
     {
       "category": "Dodgers",
@@ -85,7 +85,7 @@
       "url": "https://www.nytimes.com/athletic/7685332/2026/10/15/dodgers-nlcs-game-3-mlb-playoffs-blake-snell/"
     }
   ],
-  "generated_at": "2026-10-18T21:19:16.637488+00:00",
+  "generated_at": "2026-10-18T23:23:05.057667+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

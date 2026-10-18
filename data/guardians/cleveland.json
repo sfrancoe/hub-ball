@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "CLEVELAND, Ohio — When the Guardians left Progressive Field on Sunday after Game 5 of the American League Championship Series for Tropicana Field and the resumption of the best-of-seven series Monday ...",
+      "published": "2026-10-18T11:07:00+00:00",
+      "title": "Haunted hotel least of Cleveland’s ALCS problems: Guardians takeaways",
+      "url": "https://www.cleveland.com/guardians/2026/10/haunted-hotel-least-of-clevelands-alcs-problems-guardians-takeaways.html"
+    },
+    {
+      "category": "Guardians",
       "description": "The Guardians send rookie Parker Messick to the mound against Drew Rasmussen and the Tampa Bay Rays in a pivotal ALCS Game 5.",
       "published": "2026-10-18T06:01:00+00:00",
       "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 18, 2026: ALCS Game 5",
@@ -23,17 +30,17 @@
     },
     {
       "category": "Guardians",
-      "description": "Guardians vs. Rays ALCS Game 4 moves to 8:10 p.m. Friday at Progressive Field. Shawn Armstrong will open for Cleveland against Nick Martinez.",
-      "published": "2026-10-16T03:38:00+00:00",
-      "title": "MLB sets start time for Guardians-Rays ALCS Game 4 on Friday; Cleveland names Shawn Armstrong opener",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-rays-alcs-game-4-set-for-810-pm-friday-cleveland-names-shawn-armstrong-opener.html"
-    },
-    {
-      "category": "Guardians",
       "description": "The Guardians needed one big swing from Petey Halpin and another dominant pitching performance from Gavin Williams to regain control of the American League Championship Series. Halpin launched a ...",
       "published": "2026-10-15T22:17:00+00:00",
       "title": "Gavin Williams’ historic strikeouts, Petey Halpin’s blast lead Cleveland to ALCS Game 3 win: Guardians by the numbers",
       "url": "https://www.cleveland.com/guardians/2026/10/gavin-williams-historic-strikeouts-petey-halpins-blast-lead-cleveland-to-alcs-game-3-win-guardians-by-the-numbers.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Guardians vs. Rays ALCS Game 4 moves to 8:10 p.m. Friday at Progressive Field. Shawn Armstrong will open for Cleveland against Nick Martinez.",
+      "published": "2026-10-16T03:38:00+00:00",
+      "title": "MLB sets start time for Guardians-Rays ALCS Game 4 on Friday; Cleveland names Shawn Armstrong opener",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-rays-alcs-game-4-set-for-810-pm-friday-cleveland-names-shawn-armstrong-opener.html"
     },
     {
       "category": "Guardians",
@@ -65,13 +72,6 @@
     },
     {
       "category": "Guardians",
-      "description": "Should the Guardians add Rhys Hoskins and Slade Cecconi for the ALCS? Three roster questions Cleveland must answer before facing Tampa Bay.",
-      "published": "2026-10-12T05:16:00+00:00",
-      "title": "Guardians have roster decisions to make before ALCS: Three questions facing Cleveland",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-have-roster-decisions-to-make-before-alcs-three-questions-facing-cleveland.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Weather concerns in Cleveland have prompted MLB to adjust the start time for Guardians vs. Rays ALCS Game 3 on Thursday. Here's the updated schedule.",
       "published": "2026-10-14T05:02:00+00:00",
       "title": "Guardians, MLB change start time for ALCS Game 3 due to Cleveland weather forecast",
@@ -79,13 +79,13 @@
     },
     {
       "category": "Guardians",
-      "description": "CLEVELAND, Ohio — Tanner Bibee started opening day for the Guardians. Now, with Cleveland two wins away from the World Series, the right-hander has become something of an enigma for manager Stephen ...",
-      "published": "2026-10-18T08:46:00+00:00",
-      "title": "What is Tanner Bibee’s role with the Guardians? Stephen Vogt explains his postseason plans",
-      "url": "https://www.cleveland.com/guardians/2026/10/what-is-tanner-bibees-role-with-the-guardians-stephen-vogt-explains-his-postseason-plans.html"
+      "description": "Should the Guardians add Rhys Hoskins and Slade Cecconi for the ALCS? Three roster questions Cleveland must answer before facing Tampa Bay.",
+      "published": "2026-10-12T05:16:00+00:00",
+      "title": "Guardians have roster decisions to make before ALCS: Three questions facing Cleveland",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-have-roster-decisions-to-make-before-alcs-three-questions-facing-cleveland.html"
     }
   ],
-  "generated_at": "2026-10-18T21:19:04.742233+00:00",
+  "generated_at": "2026-10-18T23:22:20.853859+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
