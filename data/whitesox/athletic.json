@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "White Sox",
-      "description": "The Sox can put together some productive innings and are pretty fun to watch, but they've struck out 31 times over the past two games, ...",
-      "published": "2026-10-09T02:30:00+00:00",
-      "title": "White Sox ran out of gas, magic in Chicago. Now they must find some more in Cleveland",
-      "url": "https://www.nytimes.com/athletic/7673919/2026/10/09/white-sox-guardians-alds-game-4-lost-magic/"
-    },
-    {
-      "category": "White Sox",
       "description": "It will take some time to sit down and look at it,” Sam Antonacci said after Chicago's Game 5 loss. “The goal is the World Series.\" ...",
       "published": "2026-10-11T03:03:00+00:00",
       "title": "The White Sox are no longer a laughingstock. It doesn’t ease the sting of a Game 5 loss",
       "url": "https://www.nytimes.com/athletic/7677892/2026/10/11/white-sox-alds-game-5-loss-mlb-playoffs/"
+    },
+    {
+      "category": "White Sox",
+      "description": "The Sox can put together some productive innings and are pretty fun to watch, but they've struck out 31 times over the past two games, ...",
+      "published": "2026-10-09T02:30:00+00:00",
+      "title": "White Sox ran out of gas, magic in Chicago. Now they must find some more in Cleveland",
+      "url": "https://www.nytimes.com/athletic/7673919/2026/10/09/white-sox-guardians-alds-game-4-lost-magic/"
     },
     {
       "category": "White Sox",
@@ -27,9 +27,16 @@
       "published": "2026-10-08T04:00:00+00:00",
       "title": "White Sox’s perfect run through postseason is over. Can they recover in Game 4?",
       "url": "https://www.nytimes.com/athletic/7670237/2026/10/08/white-sox-guardians-alds-game-3-loss-chicago/"
+    },
+    {
+      "category": "White Sox",
+      "description": "Follow our live coverage as Chicago and Cleveland play a winner-take-all Game 5 with an ALCS berth on the line.",
+      "published": "2026-10-10T21:25:00+00:00",
+      "title": "How the Guardians defeated the White Sox in Game 5 to advance to the ALCS",
+      "url": "https://www.nytimes.com/athletic/live-blogs/white-sox-vs-guardians-live-updates-mlb-playoffs-game-5-score-result/jk3LZomLED5i/"
     }
   ],
-  "generated_at": "2026-10-18T23:22:17.251745+00:00",
+  "generated_at": "2026-10-19T01:27:33.373886+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/white-sox/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The American League Championship Series now shifts back to Florida, with Game 6 scheduled for Monday night.",
+      "published": "2026-10-19T00:06:28+00:00",
+      "title": "Rays cruise in Game 5, push Guardians to the brink in ALCS. Can Cleveland recover?",
+      "url": "https://www.nytimes.com/athletic/7697461/2026/10/18/rays-guardians-game-5-score-results-takeaways-mlb-alcs-2026/"
+    },
+    {
+      "category": "Rays",
       "description": "Freddy Peralta's between-start session came in the sixth inning of Game 4, and he recorded two huge outs in Tampa Bay's 7-3 win.",
       "published": "2026-10-18T10:00:38+00:00",
       "title": "Guardians, Rays proving baseball's next innovation might be hiding starters in the bullpen",
@@ -132,16 +139,9 @@
       "published": "2026-10-13T03:09:33+00:00",
       "title": "Cleveland’s hitters keep proving they belong, this time in taking Game 1 from Tampa Bay",
       "url": "https://www.nytimes.com/athletic/7679119/2026/10/12/rays-guardians-game-1-score-results-takeaways-mlb-alcs-2026/"
-    },
-    {
-      "category": "Rays",
-      "description": "Our experts predict who will represent the American League in this year's World Series.",
-      "published": "2026-10-12T09:30:36+00:00",
-      "title": "ALCS staff predictions: The Rays look like heavy favorites over the Guardians",
-      "url": "https://www.nytimes.com/athletic/7681375/2026/10/12/alcs-expert-predictions-rays-guardians-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-18T13:19:53.702319+00:00",
+  "generated_at": "2026-10-19T01:27:30.920067+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Drew Rasmussen works seven dominant innings, and Tampa Bay scores in each of the first three innings to win Game 5 of the ALCS.",
+      "published": "2026-10-19T00:12:34+00:00",
+      "title": "Rays beat Guardians again, return home one win from World Series berth",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/18/rays-beat-guardians-again-return-home-one-win-world-series-berth/"
+    },
+    {
+      "category": "Rays",
       "description": "Tales | Kevin Cash is MLB’s longest-tenured manager with his current team. It’s the same with hitting coach Chad Mottola. Pitching coach Kyle Snyder is tied for second.",
       "published": "2026-10-18T12:00:00+00:00",
       "title": "For Rays, stability in dugout is a big part of their onfield success",
@@ -113,7 +120,7 @@
       "url": "https://www.tampabay.com/sports/rays/2026/10/13/junior-caminero-jonny-deluca-collision-alcs-rangers-nathaniel-lowe-drew-rasmussen/"
     }
   ],
-  "generated_at": "2026-10-18T13:19:53.387144+00:00",
+  "generated_at": "2026-10-19T01:27:30.151722+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
