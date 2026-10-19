@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Boone has a 790-565 (.583) regular-season record and a 27-30 (.474) postseason mark over nine years as Yankees manager.",
+      "published": "2026-10-19T21:58:32+00:00",
+      "title": "Yankees to keep Aaron Boone as manager in 2027: Source",
+      "url": "https://www.nytimes.com/athletic/7675201/2026/10/19/aaron-boone-yankees-manager-return/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees catcher believes taking foul tips to the head negatively affected his hitting during a difficult first half of the season.",
       "published": "2026-10-19T11:00:50+00:00",
       "title": "Yankees' Austin Wells says foul tips sidetracked his season: 'Multiple blows to the head'",
@@ -132,16 +139,9 @@
       "published": "2026-10-06T09:41:20+00:00",
       "title": "For Yankees, a harsh reality after embarrassing Game 2 meltdown: 'We beat ourselves'",
       "url": "https://www.nytimes.com/athletic/7664898/2026/10/06/yankees-game-2-alds-mistakes-errors-rays/"
-    },
-    {
-      "category": "Yankees",
-      "description": "When the Yankees couldn’t get out of their own way in a pressure-packed moment, the Rays turned up the stress level. Again. And again.",
-      "published": "2026-10-06T09:30:49+00:00",
-      "title": "The Rays’ brand of baseball is suffocating the Yankees — and New York is running out of time",
-      "url": "https://www.nytimes.com/athletic/7664820/2026/10/06/rays-yankees-differences-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-19T13:52:38.945821+00:00",
+  "generated_at": "2026-10-19T23:03:06.814785+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

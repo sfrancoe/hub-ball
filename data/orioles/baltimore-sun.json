@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "The Orioles hired Jared Banner to be their new general manager under Mike Elias. Does the move change your outlook on the franchise?",
+      "published": "2026-10-19T13:57:00+00:00",
+      "title": "READER POLL: Does hiring Jared Banner as GM change your outlook on the Orioles?",
+      "url": "https://www.baltimoresun.com/2026/10/19/reader-poll-jared-banner-orioles-general-manager-team-outlook/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles are set to hire Cubs executive Jared Banner as general manager under Mike Elias, a source with direct knowledge confirmed.",
-      "published": "2026-10-19T09:11:00+00:00",
+      "published": "2026-10-19T14:15:00+00:00",
       "title": "Orioles hire Cubs’ Jared Banner as general manager under Mike Elias",
       "url": "https://www.baltimoresun.com/2026/10/19/jared-banner-orioles-gm/"
     },
@@ -64,7 +71,7 @@
       "url": "https://www.baltimoresun.com/2026/10/14/watch-orioles-hall-of-famer-gregg-olson-bmore-baseball-podcast/"
     }
   ],
-  "generated_at": "2026-10-19T19:34:10.524939+00:00",
+  "generated_at": "2026-10-19T23:03:11.425088+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

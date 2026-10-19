@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Cubs are bringing on longtime scout Steve Miller, who helped small-market Tampa Bay regularly outperform expectations.",
+      "published": "2026-10-19T22:19:40+00:00",
+      "title": "Cubs adding Rays official to international scouting as front office reshuffles",
+      "url": "https://www.nytimes.com/athletic/7705901/2026/10/19/cubs-international-scouting-changes/"
+    },
+    {
+      "category": "Rays",
       "description": "The Rays won Game 5 in fitting fashion — death by 1,000 paper cuts.",
       "published": "2026-10-19T09:30:14+00:00",
       "title": "The Rays, headed home on the cusp of the World Series, know a 'great opportunity' awaits",
@@ -132,16 +139,9 @@
       "published": "2026-10-14T03:00:59+00:00",
       "title": "Rays capitalize on Guardians' defensive blunders, top Cleveland in Game 2 to even ALCS",
       "url": "https://www.nytimes.com/athletic/7686878/2026/10/13/rays-guardians-game-2-score-results-takeaways-mlb-alcs-2026/"
-    },
-    {
-      "category": "Rays",
-      "description": "Six years later, Cash is still being second-guessed in October, after ace Drew Rasmussen gave up a game-tying home run to the Guardians.",
-      "published": "2026-10-13T09:30:02+00:00",
-      "title": "Kevin Cash once pulled his ace too soon. This time, he may have waited too long",
-      "url": "https://www.nytimes.com/athletic/7679168/2026/10/13/rays-alcs-game-1-mlb-playoffs-guardians/"
     }
   ],
-  "generated_at": "2026-10-19T13:52:44.614419+00:00",
+  "generated_at": "2026-10-19T23:03:09.998496+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

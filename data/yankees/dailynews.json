@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Boone is sticking around after another early playoff exit.",
+      "published": "2026-10-19T22:45:25+00:00",
+      "title": "Yankees bringing Aaron Boone back as manager in 2027: source",
+      "url": "https://www.nydailynews.com/2026/10/19/yankees-bringing-aaron-boone-back-as-manager-in-2027-source/"
+    },
+    {
+      "category": "Yankees",
       "description": "Luis García Jr., Anthony Volpe and Austin Wells are among the Yankees' arbitration-eligible players.",
       "published": "2026-10-19T11:30:58+00:00",
       "title": "9 Yankees are arbitration eligible: What could they earn, and who could be non-tendered?",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T18:31:50+00:00",
       "title": "Yankees stars back Aaron Boone amid fan unrest after latest playoff defeat",
       "url": "https://www.nydailynews.com/2026/10/08/yankees-stars-back-aaron-boone-aaron-judge-cam-schlittler/"
-    },
-    {
-      "category": "Yankees",
-      "description": "In a season-altering twist, an official review found that Volpe’s blast had some help.",
-      "published": "2026-10-08T15:50:19+00:00",
-      "title": "Yankees swept by Rays in ALDS after fan interference overturns Anthony Volpe homer in Game 3 loss",
-      "url": "https://www.nydailynews.com/2026/10/07/yankees-swept-by-rays-in-alds-after-fan-interference-overturns-anthony-volpe-homer-in-game-3-loss/"
     }
   ],
-  "generated_at": "2026-10-19T13:52:34.254158+00:00",
+  "generated_at": "2026-10-19T23:03:03.251174+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

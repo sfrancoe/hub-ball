@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Bud Selig, MLB's commissioner emeritus and the man who brought the Brewers to Milwaukee, is overjoyed the team is headed back to the World Series.",
+      "published": "2026-10-19T15:41:00+00:00",
+      "title": "Bud Selig overjoyed at Brewers' return to World Series | 'This is legendary'",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/19/bud-selig-overjoyed-about-brewers-return-to-world-series/92333935007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Tickets to see the Brewers play in the World Series in Milwaukee are still going for $2,000 or more, while away games are slightly cheaper.",
       "published": "2026-10-19T10:11:00+00:00",
       "title": "Brewers World Series tickets: What fans will pay for each game",
@@ -9,17 +16,24 @@
     },
     {
       "category": "Brewers",
-      "description": "Yes, Milwaukee has won a World Series before, but not with the Brewers. Take a look back at how the Milwaukee Braves won the 1957 crown.",
-      "published": "2026-10-19T06:35:00+00:00",
-      "title": "Yes, Milwaukee has won a World Series before. Here's the story of 1957",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/19/milwaukee-braves-1957-world-series-title/92286516007/"
-    },
-    {
-      "category": "Brewers",
       "description": "The Milwaukee Brewers have seven days of rest between the NLCS and World Series, and their opponent will have far less. Is that good or bad?",
       "published": "2026-10-19T04:06:00+00:00",
       "title": "In Brewers' rest vs rust question, here's recent World Series history",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/19/brewers-rest-world-series/92288054007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Now that the Milwaukee Brewers are in the World Series, it's time for long-suffering fans to celebrate like it's 1982.",
+      "published": "2026-10-19T06:10:00+00:00",
+      "title": "At long last, Brewers fans no longer need to live off glory of 1982 team | Haudricourt",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/19/brewers-fans-no-longer-need-to-live-off-glory-of-82-world-series-team/92317702007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Yes, Milwaukee has won a World Series before, but not with the Brewers. Take a look back at how the Milwaukee Braves won the 1957 crown.",
+      "published": "2026-10-19T06:35:00+00:00",
+      "title": "Yes, Milwaukee has won a World Series before. Here's the story of 1957",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/19/milwaukee-braves-1957-world-series-title/92286516007/"
     },
     {
       "category": "Brewers",
@@ -65,27 +79,13 @@
     },
     {
       "category": "Brewers",
-      "description": "Yes, there is one guy. And that one guy hasn’t limited his, um, creativity to just the Brewers’ run. Foenem has songs for Marquette, MSOE, the Packers, Milwaukee County Zoo and more. Many of them use ...",
-      "published": "2026-10-16T13:14:00+00:00",
-      "title": "Yes, the Brewers are aware of that song. And they absolutely love it.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-players-embracing-viral-team-song-during-2026-playoffs/92278085007/"
-    },
-    {
-      "category": "Brewers",
       "description": "The longest-tenured Brewers player says he is ready to pitch in the World Series after not throwing in a game in more than three months ...",
       "published": "2026-10-17T04:15:00+00:00",
       "title": "Brandon Woodruff to push to be on Brewers World Series roster",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/17/brandon-woodruff-will-push-to-be-on-brewers-world-series-roster/92284691007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "In Los Angeles and across the country, baseball pundits and players, both current and former, reacted to the Milwaukee Brewers sweeping the two-time defending champion Dodgers on their way to the ...",
-      "published": "2026-10-16T13:52:00+00:00",
-      "title": "'We got outplayed': Dodgers, national media react to Brewers sweep",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/the-brewers-are-in-the-world-series-here-is-what-the-media-is-saying/92284548007/"
     }
   ],
-  "generated_at": "2026-10-19T19:34:20.213079+00:00",
+  "generated_at": "2026-10-19T23:03:20.944214+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }
