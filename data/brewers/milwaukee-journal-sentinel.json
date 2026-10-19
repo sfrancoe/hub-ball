@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "The Tampa Bay Rays defeated Cleveland on Oct. 18, 3-1, and now have a 3-2 lead in the series with another game to come Oct. 19.",
+      "published": "2026-10-18T19:34:00+00:00",
+      "title": "Former Brewers pitcher leads Rays within one game of World Series",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/18/brewers-could-know-world-series-opponent-monday-after-rays-take-lead/92323319007/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Brewers returned to Milwaukee Oct. 16, less than 24 hours after sweeping the Los Angeles Dodgers to clinch a spot in the World Series.",
       "published": "2026-10-16T08:36:00+00:00",
       "title": "The Brewers return to Milwaukee after making history in Los Angeles",
@@ -16,10 +23,10 @@
     },
     {
       "category": "Brewers",
-      "description": "Now that the Brewers are headed to the World Series, here's what to know about their fellow small-market brethren in the ALCS.",
-      "published": "2026-10-16T10:54:00+00:00",
-      "title": "Who would Brewers face in the World Series? Stats and stories to know",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/what-to-know-cleveland-guardians-tampa-bay-rays-alcs/92272445007/"
+      "description": "After 44 years of waiting, the time has come for a World Series. Milwaukee deserves it. And these Brewers have delivered.",
+      "published": "2026-10-16T09:40:00+00:00",
+      "title": "Milwaukee deserves a World Series. Now, it finally gets its shot",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/milwaukee-deserves-a-world-series-now-it-finally-gets-one/92262018007/"
     },
     {
       "category": "Brewers",
@@ -27,6 +34,13 @@
       "published": "2026-10-16T10:56:00+00:00",
       "title": "'A bunch of savages' | Scrappy Brewers rally from early four-run deficit",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/scrappy-brewers-offense-rallies-from-four-run-deficit-to-win-nlcs/92262891007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Now that the Brewers are headed to the World Series, here's what to know about their fellow small-market brethren in the ALCS.",
+      "published": "2026-10-16T10:54:00+00:00",
+      "title": "Who would Brewers face in the World Series? Stats and stories to know",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/what-to-know-cleveland-guardians-tampa-bay-rays-alcs/92272445007/"
     },
     {
       "category": "Brewers",
@@ -44,24 +58,10 @@
     },
     {
       "category": "Brewers",
-      "description": "Milwaukee Brewers owner Mark Attansio leaned against the visiting clubhouse wall Wednesday night, standing under a picture of clouds hovering over Dodger Stadium, and feeling as if he were on Cloud 9 ...",
-      "published": "2026-10-15T06:47:00+00:00",
-      "title": "One win from World Series, these Milwaukee Brewers are simply 'remarkable'",
-      "url": "https://www.jsonline.com/story/sports/mlb/columnist/bob-nightengale/2026/10/15/milwaukee-brewers-nlcs-3-0-lead-dodgers-playoffs/92260139007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Milwaukee arts institutions are relishing the Brewers' historic run to the World Series with congratulatory messages on social media.",
       "published": "2026-10-16T10:30:00+00:00",
       "title": "Milwaukee arts institutions celebrate Brewers' historic win",
       "url": "https://www.jsonline.com/story/entertainment/arts/2026/10/16/milwaukee-art-museum-ballet-public-library-brewers-win-world-series/92282301007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The longest-tenured Brewers player says he is ready to pitch in the World Series after not throwing in a game in more than three months ...",
-      "published": "2026-10-17T04:15:00+00:00",
-      "title": "Brandon Woodruff to push to be on Brewers World Series roster",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/17/brandon-woodruff-will-push-to-be-on-brewers-world-series-roster/92284691007/"
     },
     {
       "category": "Brewers",
@@ -72,20 +72,20 @@
     },
     {
       "category": "Brewers",
-      "description": "Brewers reliever Aaron Ashby pitched more innings than any NL reliever all year and is still at his best this October ...",
-      "published": "2026-10-16T15:01:00+00:00",
-      "title": "Aaron Ashby cements himself as Brewers legend with performance in NLCS",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/aaron-ashby-cements-himself-as-brewers-legend-with-performance-in-ncls/92278066007/"
+      "description": "The longest-tenured Brewers player says he is ready to pitch in the World Series after not throwing in a game in more than three months ...",
+      "published": "2026-10-17T04:15:00+00:00",
+      "title": "Brandon Woodruff to push to be on Brewers World Series roster",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/17/brandon-woodruff-will-push-to-be-on-brewers-world-series-roster/92284691007/"
     },
     {
       "category": "Brewers",
-      "description": "Brewers radio announcer Jeff Levering nailed the final call of the NLCS, with a subtle Bob Uecker reference, no less.",
-      "published": "2026-10-15T10:58:00+00:00",
-      "title": "Brewers announcer gives perfect Bob Uecker homage on final NLCS call",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/15/hear-final-call-nlcs-brewers-radio-announcer-jeff-levering/92276931007/"
+      "description": "Yes, there is one guy. And that one guy hasn’t limited his, um, creativity to just the Brewers’ run. Foenem has songs for Marquette, MSOE, the Packers, Milwaukee County Zoo and more. Many of them use ...",
+      "published": "2026-10-16T13:14:00+00:00",
+      "title": "Yes, the Brewers are aware of that song. And they absolutely love it.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/16/brewers-players-embracing-viral-team-song-during-2026-playoffs/92278085007/"
     }
   ],
-  "generated_at": "2026-10-19T01:27:39.353942+00:00",
+  "generated_at": "2026-10-19T06:35:09.619412+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

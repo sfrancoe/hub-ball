@@ -2,7 +2,14 @@
   "articles": [
     {
       "category": "Rays",
-      "description": "Drew Rasmussen works seven dominant innings, and Tampa Bay scores in each of the first three innings to win Game 5 of the ALCS.",
+      "description": "Notes | Freddy Peralta has been pitching well, is comfortable at Tropicana Field and can draw on plenty of postseason experience.",
+      "published": "2026-10-19T03:28:43+00:00",
+      "title": "Rays excited to start ‘Fastball Freddy’ with World Series berth on line",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/18/freddy-peralta-alcs-game-6-guardians-junior-caminero-drew-rasmussen/"
+    },
+    {
+      "category": "Rays",
+      "description": "Drew Rasmussen works seven dominant innings as Tampa Bay wins Game 5 of the ALCS. “It all ends (Monday),” DH Yandy Diaz says afterward.",
       "published": "2026-10-19T00:12:34+00:00",
       "title": "Rays beat Guardians again, return home one win from World Series berth",
       "url": "https://www.tampabay.com/sports/rays/2026/10/18/rays-beat-guardians-again-return-home-one-win-world-series-berth/"
@@ -111,16 +118,9 @@
       "published": "2026-10-14T03:05:07+00:00",
       "title": "Rays, looking like themselves, bounce back to beat Guardians, even ALCS",
       "url": "https://www.tampabay.com/sports/rays/2026/10/13/alcs-game-2-guardians-freddy-peralta-liam-hicks-chandler-simpson-jose-ramirez-parker-messick/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | Plus: Everyone OK after collision aftermath, a familiar face reports for first-pitch duties.",
-      "published": "2026-10-13T21:51:43+00:00",
-      "title": "Rays’ Griffin Jax gets the nod to start Game 3 of ALCS in Cleveland",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/13/junior-caminero-jonny-deluca-collision-alcs-rangers-nathaniel-lowe-drew-rasmussen/"
     }
   ],
-  "generated_at": "2026-10-19T01:27:30.151722+00:00",
+  "generated_at": "2026-10-19T06:34:03.385298+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

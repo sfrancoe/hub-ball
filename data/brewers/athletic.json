@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "The architect of the Cup-winning Panthers was inspired by his time with the Brewers and \"the fun that they had playing ball.\" ...",
+      "published": "2026-10-18T23:00:00+00:00",
+      "title": "How a teenage bat boy for the 1982 Brewers became the architect of two Stanley Cup titles",
+      "url": "https://www.nytimes.com/athletic/7701429/2026/10/19/bill-zito-brewers-bat-boy-panthers-nhl-mlb/"
+    },
+    {
+      "category": "Brewers",
       "description": "In the final weekend of the regular season, the Milwaukee Brewers named a team captain for the first time in franchise history. Christian Yelich, the oldest player on their roster, began to wear a C ...",
       "published": "2026-10-16T02:29:00+00:00",
       "title": "Building the Brewers: 10 moves that brought Milwaukee to the World Series",
       "url": "https://www.nytimes.com/athletic/7694850/2026/10/16/building-brewers-10-moves-world-series/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Milwaukee Brewers hold a 3-0 series lead over the Los Angeles Dodgers entering Game 4 of the NLCS tonight at Dodger Stadium. Propelled by the long ball Wednesday night, the Brewers took a ...",
-      "published": "2026-10-15T15:00:00+00:00",
-      "title": "How the Brewers swept the Dodgers in NLCS to head to World Series for first time since 1982",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/"
     },
     {
       "category": "Brewers",
@@ -38,12 +38,26 @@
     {
       "category": "Brewers",
       "description": "The Rays and Guardians have traded blows in the ALCS, with Tampa Bay taking Game 4 on Saturday night, 7-3. As the National League champion Milwaukee Brewers kick their feet up for more than a week, ...",
-      "published": "2026-10-17T21:02:00+00:00",
+      "published": "2026-10-16T17:00:00+00:00",
       "title": "Rays fight back in Game 4 to even ALCS against Guardians. Did their offense wake up?",
       "url": "https://www.nytimes.com/athletic/7694062/2026/10/17/rays-guardians-game-4-score-results-takeaways-mlb-alcs-2026/"
+    },
+    {
+      "category": "Brewers",
+      "description": "That’s how many days it’s been since the Brewers appeared in a World Series game, and the 44-year streak will be snapped soon after Milwaukee’s incredible 6-4 win in Los Angeles last night. With it, ...",
+      "published": "2026-10-16T03:13:00+00:00",
+      "title": "Milwaukee snaps 44-year streak, plus an incredible bat flip",
+      "url": "https://www.nytimes.com/athletic/7693237/2026/10/16/brewers-dodgers-world-series-the-pulse/"
+    },
+    {
+      "category": "Brewers",
+      "description": "More than 30 minutes after the fall of the Los Angeles Dodgers’ dynasty, the players who made it happen sat in silent acceptance. The Dodgers, trounced in four games by the Milwaukee Brewers in the ...",
+      "published": "2026-10-17T12:28:00+00:00",
+      "title": "What comes next for a dynasty? Setting the stage for the Dodgers’ offseason",
+      "url": "https://www.nytimes.com/athletic/7697036/2026/10/17/dodgers-offseason-plans/"
     }
   ],
-  "generated_at": "2026-10-19T01:27:39.529439+00:00",
+  "generated_at": "2026-10-19T06:35:09.959008+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }
