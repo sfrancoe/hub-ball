@@ -1,57 +1,9 @@
 {
-  "generated_at": "2026-10-18T22:36:54.354858+00:00",
+  "generated_at": "2026-10-19T00:30:54.995565+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
   "games": [
-    {
-      "game_pk": 849817,
-      "game_date": "2026-10-18T21:08:00Z",
-      "status": "In Progress",
-      "venue": "Progressive Field",
-      "location": "away",
-      "opponent": "Guardians",
-      "opponent_record": "2-2",
-      "favorite_team_record": "2-2",
-      "favorite_team_pitcher": "Drew Rasmussen",
-      "opponent_pitcher": "Parker Messick",
-      "favorite_team_pitcher_record": "16-5",
-      "opponent_pitcher_record": "12-9",
-      "show_probables": true,
-      "series_description": "AL Championship Series",
-      "doubleheader": false,
-      "game_number": 1,
-      "broadcasts": [
-        {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
-          "home_away": "home",
-          "availability": "national",
-          "available_for_streaming": true
-        },
-        {
-          "name": "TBS/HBO MAX",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
-          "name": "TruTV",
-          "is_national": true,
-          "home_away": "away",
-          "availability": "national",
-          "available_for_streaming": false
-        },
-        {
-          "name": "TruTV",
-          "is_national": true,
-          "home_away": "home",
-          "availability": "national",
-          "available_for_streaming": false
-        }
-      ]
-    },
     {
       "game_pk": 849815,
       "game_date": "2026-10-20T00:08:00Z",
@@ -59,11 +11,11 @@
       "venue": "Tropicana Field",
       "location": "home",
       "opponent": "Guardians",
-      "opponent_record": "2-2",
-      "favorite_team_record": "2-2",
-      "favorite_team_pitcher": "",
+      "opponent_record": "2-3",
+      "favorite_team_record": "3-2",
+      "favorite_team_pitcher": "Freddy Peralta",
       "opponent_pitcher": "",
-      "favorite_team_pitcher_record": "—",
+      "favorite_team_pitcher_record": "10-11",
       "opponent_pitcher_record": "—",
       "show_probables": true,
       "series_description": "AL Championship Series",
@@ -107,8 +59,8 @@
       "venue": "Tropicana Field",
       "location": "home",
       "opponent": "Guardians",
-      "opponent_record": "2-2",
-      "favorite_team_record": "2-2",
+      "opponent_record": "2-3",
+      "favorite_team_record": "3-2",
       "favorite_team_pitcher": "",
       "opponent_pitcher": "",
       "favorite_team_pitcher_record": "—",
