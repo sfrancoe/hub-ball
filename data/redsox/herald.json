@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Athletics announced Monday that they’ve hired a young Red Sox assistant general manager as their new president of baseball operations.",
+      "published": "2026-10-19T15:28:52Z",
+      "title": "Red Sox assistant GM hired as Athletics president of baseball operations",
+      "url": "https://www.bostonherald.com/2026/10/19/red-sox-assistant-gm-hired-as-athletics-president-of-baseball-operations/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "MLB wants to institute a salary cap, but how would the new system actually work? Here’s a rundown of the league’s and players’ proposals as the ongoing labor talks heat up.",
       "published": "2026-10-18T09:30:00Z",
       "title": "MLB notes: Breaking down salary cap, other proposals as labor talks heat up",
@@ -104,16 +111,9 @@
       "published": "2026-10-05T22:12:09Z",
       "title": "Red Sox clarify Jason Varitek’s role months after ousting from coaching staff",
       "url": "https://www.bostonherald.com/2026/10/05/red-sox-clarify-jason-variteks-role-months-after-ousting-from-coaching-staff/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "‘It was my call. It was my decision. It went south. Here we are’: At year-end press conference, Red Sox manager Chad Tracy emphatically took the blame for postseason pitching moves",
-      "published": "2026-10-05T18:38:46Z",
-      "title": "Red Sox manager Chad Tracy owns playoff pitching decisions: ‘My call’",
-      "url": "https://www.bostonherald.com/2026/10/05/red-sox-manager-chad-tracy-pitching-decisions-mlb-postseason-payton-tolle-sonny-gray-erik-miller-craig-breslow/"
     }
   ],
-  "generated_at": "2026-10-18T13:19:46.934790+00:00",
+  "generated_at": "2026-10-19T19:34:01.760788+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

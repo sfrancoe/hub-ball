@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "The Baltimore Orioles have hired Jared Banner as general manager. He was the assistant GM of the Chicago Cubs, taking on that role in 2024.",
+      "published": "2026-10-19T10:34:00+00:00",
+      "title": "Jared Banner leaves Chicago Cubs to be general manager of Baltimore Orioles",
+      "url": "https://www.chicagotribune.com/2026/10/19/jared-banner-orioles-general-manager/"
+    },
+    {
+      "category": "Cubs",
       "description": "The Milwaukee Brewers in the World Series is an unfortunate turn of events for almost everyone except real baseball fans.",
       "published": "2026-10-18T03:59:00+00:00",
       "title": "Column: Milwaukee Brewers making World Series is unfortunate for Chicago Cubs — but great for baseball fans",
@@ -20,16 +27,9 @@
       "published": "2026-10-09T02:00:00+00:00",
       "title": "Today in Chicago History: White Sox lose best-of-nine 1919 World Series to Cincinnati Reds",
       "url": "https://www.chicagotribune.com/2026/10/09/october-9-chicago-history/"
-    },
-    {
-      "category": "Cubs",
-      "description": "CLEVELAND — After the White Sox salvaged the final game of the City Series in August at Wrigley Field, pitcher Erick Fedde said splitting the season series was probably a good thing. “Maybe us going 3 ...",
-      "published": "2026-10-05T04:00:00+00:00",
-      "title": "Column: White Sox welcoming Cubs fans to hop on the playoff bandwagon … with a few caveats",
-      "url": "https://www.chicagotribune.com/2026/10/05/chicago-white-sox-alds-cubs-fans/"
     }
   ],
-  "generated_at": "2026-10-19T13:53:19.499814+00:00",
+  "generated_at": "2026-10-19T19:34:19.094943+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

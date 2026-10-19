@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Braves",
-      "description": "Atlanta could jot down a pitching rotation that looks good on paper for next season, but injuries and performances are the wild cards.",
-      "published": "2026-10-16T09:34:00+00:00",
-      "title": "Braves have plenty of starting pitching, but quality is the question",
-      "url": "https://www.ajc.com/sports/2026/10/braves-starting-pitching-questions/"
-    },
-    {
-      "category": "Braves",
       "description": "Just before opening day, we published 26 predictions for the 2026 Atlanta Braves. Some hit, some are debatable and others were total whiffs.",
       "published": "2026-10-14T06:25:00+00:00",
       "title": "Revisiting predictions for the 2026 Braves",
@@ -20,6 +13,13 @@
       "published": "2026-10-13T05:00:00+00:00",
       "title": "The Atlanta kid who grew up to play for his hometown Braves",
       "url": "https://www.ajc.com/sports/2026/10/the-brave-atlanta-raised/"
+    },
+    {
+      "category": "Braves",
+      "description": "Atlanta could jot down a pitching rotation that looks good on paper for next season, but injuries and performances are the wild cards.",
+      "published": "2026-10-16T09:34:00+00:00",
+      "title": "Braves have plenty of starting pitching, but quality is the question",
+      "url": "https://www.ajc.com/sports/2026/10/braves-starting-pitching-questions/"
     },
     {
       "category": "Braves",
@@ -58,17 +58,17 @@
     },
     {
       "category": "Braves",
-      "description": "Outside speculation has centered on Acuña, an all-world talent with two team-friendly club options remaining ($17 million) before he’s set to explore free agency for the first time. He’s undoubtedly ...",
-      "published": "2026-10-13T08:45:00+00:00",
-      "title": "5 big-picture questions as Braves enter offseason",
-      "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-offseason-questions/"
-    },
-    {
-      "category": "Braves",
       "description": "The Braves’ offense went ice cold at the worst possible time, and the NL East champs are now headed home after losing the NL Division Series in four games to the two-time defending world champion ...",
       "published": "2026-10-08T04:56:00+00:00",
       "title": "Dodgers dominate as Braves’ offense struggles in season-ending loss",
       "url": "https://www.ajc.com/sports/2026/10/dodgers-dominate-as-braves-offense-struggles-in-season-ending-loss/"
+    },
+    {
+      "category": "Braves",
+      "description": "Outside speculation has centered on Acuña, an all-world talent with two team-friendly club options remaining ($17 million) before he’s set to explore free agency for the first time. He’s undoubtedly ...",
+      "published": "2026-10-13T08:45:00+00:00",
+      "title": "5 big-picture questions as Braves enter offseason",
+      "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-offseason-questions/"
     },
     {
       "category": "Braves",
@@ -78,7 +78,7 @@
       "url": "https://www.ajc.com/sports/2026/10/braves-dodgers-ken-sugiura/"
     }
   ],
-  "generated_at": "2026-10-19T06:34:43.249472+00:00",
+  "generated_at": "2026-10-19T19:34:17.148323+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Smith is set to replace David Forst, who was dismissed by the A’s in August.",
+      "published": "2026-10-19T14:49:06+00:00",
+      "title": "A's hire Red Sox executive, stats guru Taylor Smith as head of baseball operations",
+      "url": "https://www.nytimes.com/athletic/7699714/2026/10/19/athletics-hire-taylor-smith-head-of-baseball-red-sox-mlb/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Though Boston's roster doesn't have many glaring holes, upgrades are needed after Wild Card Series losses in consecutive seasons.",
       "published": "2026-10-13T10:30:35+00:00",
       "title": "The 6 Red Sox players with the biggest questions to answer entering the offseason",
@@ -104,16 +111,9 @@
       "published": "2026-09-30T12:32:53+00:00",
       "title": "MLB Wild Card coverage with Kershaw, Rizzo, Votto, Ottavino: Which ex-player impressed?",
       "url": "https://www.nytimes.com/athletic/7643991/2026/09/30/mlb-wild-card-analyst-kershaw-rizzo/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Two kids from Massachusetts are playing Turn Back the Clock with the Red Sox-Yankees rivalry.",
-      "published": "2026-09-30T11:56:50+00:00",
-      "title": "Yankees torture the Red Sox again, thanks to the Mass. appeal of Schlittler, Rice",
-      "url": "https://www.nytimes.com/athletic/7645363/2026/09/30/red-sox-yankees-torture-ben-rice-cam-schlitter-win-wild-card/"
     }
   ],
-  "generated_at": "2026-10-13T15:30:04.772619+00:00",
+  "generated_at": "2026-10-19T19:34:02.307040+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

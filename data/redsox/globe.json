@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "Red Sox",
+      "description": "Durbin struggled mightily to begin the campaign, but emerged as a key contributor down the stretch for the Red Sox.",
+      "published": "2026-10-19T16:02:35.22Z",
+      "title": "Caleb Durbin views his 2026 campaign as a promising building block, and other Red Sox thoughts",
+      "url": "https://www.bostonglobe.com/2026/10/19/sports/caleb-durbin-2026-season/"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Athletics hired Taylor Smith as president of baseball operations, subtracting another assistant general manager from Craig Breslow’s front office.",
+      "published": "2026-10-19T15:27:06.862Z",
+      "title": "Red Sox lose key executive to another club for the second year in a row",
+      "url": "https://www.bostonglobe.com/2026/10/19/sports/red-sox-taylor-smith-athletics/"
+    },
+    {
       "category": "RAYS 3, GUARDIANS 1",
       "description": "The Rays will try to capture their third AL pennant and first since 2020 on Monday at Tropicana Field in St. Petersburg, Fla.",
       "published": "2026-10-19T01:15:30.952Z",
@@ -97,23 +111,9 @@
       "published": "2026-10-13T00:53:17.632Z",
       "title": "William Contreras delivers, bullpen shines again as Brewers top Dodgers to take 2-0 NLCS lead",
       "url": "https://www.bostonglobe.com/2026/10/12/sports/baseball-nlcs-game-2-brewers-dodgers-score-william-contreras/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox have 17 players eligible for arbitration, matching the Rays for the largest group in this cycle.",
-      "published": "2026-10-12T14:28:10.783Z",
-      "title": "The Red Sox have a lot of arbitration to sort out, and other thoughts on the team",
-      "url": "https://www.bostonglobe.com/2026/10/12/sports/red-sox-arbitration-offseason/"
-    },
-    {
-      "category": "BREWERS 2, DODGERS 1",
-      "description": "The hosts scratched two runs off Tarik Skubal, then let their sterling bullpen get them over the line to take Game 1.",
-      "published": "2026-10-12T03:32:54.507Z",
-      "title": "Brice Turang homers, Milwaukee’s bullpen delivers as Brewers nip Dodgers in NLCS opener",
-      "url": "https://www.bostonglobe.com/2026/10/11/sports/baseball-nlcs-game-1-score-brewers-dodgers/"
     }
   ],
-  "generated_at": "2026-10-19T01:27:23.312477+00:00",
+  "generated_at": "2026-10-19T19:34:01.152514+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

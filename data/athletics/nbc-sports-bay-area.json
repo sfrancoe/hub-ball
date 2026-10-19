@@ -2,13 +2,20 @@
   "articles": [
     {
       "category": "Athletics",
+      "description": "The Athletics named former Boston Red Sox and Tampa Bay Rays executive Taylor Smith their new president of baseball operations.",
+      "published": "2026-10-19T10:40:00+00:00",
+      "title": "Athletics name Red Sox exec Taylor Smith president of baseball operations",
+      "url": "https://www.nbcsportsbayarea.com/mlb/athletics/taylor-smith-president-of-baseball-operations/1972063/"
+    },
+    {
+      "category": "Athletics",
       "description": "The Athletics reportedly are nearing the end of their extensive search to find the franchise's next general manager.",
       "published": "2026-10-07T09:33:00+00:00",
       "title": "Phillies, Cubs executives reportedly among top Athletics GM candidates",
       "url": "https://www.nbcsportsbayarea.com/mlb/athletics/athletics-gm-candidates-phillies-cubs/1969657/"
     }
   ],
-  "generated_at": "2026-10-14T14:30:02.669357+00:00",
+  "generated_at": "2026-10-19T19:34:15.446942+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/oakland-athletics/"
 }
