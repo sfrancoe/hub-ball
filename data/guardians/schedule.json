@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:13:25.071357+00:00",
+  "generated_at": "2026-10-19T23:56:14.080808+00:00",
   "source": "MLB Stats API",
   "team": "Guardians",
   "regular_season_end": "2026-09-27",
@@ -7,7 +7,7 @@
     {
       "game_pk": 849815,
       "game_date": "2026-10-20T00:08:00Z",
-      "status": "Pre-Game",
+      "status": "Warmup",
       "venue": "Tropicana Field",
       "location": "away",
       "opponent": "Rays",
