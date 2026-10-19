@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-18T23:21:19.715460+00:00",
+  "generatedAt": "2026-10-19T01:50:46.678709+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Drew Rasmussen shines as Rays beat Guardians in Game 5 to take a 3-2 ALCS lead",
+      "description": "The Rays will try to capture their third AL pennant and first since 2020 on Monday at Tropicana Field in St. Petersburg, Fla.",
+      "url": "https://www.bostonglobe.com/2026/10/18/sports/alcs-rays-guardians-drew-rasmussen/",
+      "published": "2026-10-19T01:39:27.555000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays beat Guardians again, return home one win from World Series berth",
+      "description": "Drew Rasmussen works seven dominant innings, and Tampa Bay scores in each of the first three innings to win Game 5 of the ALCS.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/18/rays-beat-guardians-again-return-home-one-win-world-series-berth/",
+      "published": "2026-10-19T00:12:34.578000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays cruise in Game 5, push Guardians to the brink in ALCS. Can Cleveland recover?",
+      "description": "CLEVELAND — The Tampa Bay Rays are on the cusp of the World Series. In 24 hours, they flipped an American League Championship Series deficit, winning two games to get within one victory of the Fall ...",
+      "url": "https://www.nytimes.com/athletic/7697461/2026/10/18/rays-guardians-game-5-score-results-takeaways-mlb-alcs-2026/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Why Yankees should exercise caution with pitching trade temptation",
       "description": "",
@@ -21,28 +57,16 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Rays vs. Guardians score, live updates: Tampa Bay leading Cleveland in MLB playoffs ALCS Game 5",
-      "description": "Follow live as Tampa Bay and Cleveland face off with the 2026 American League Championship Series tied at 2-2.",
-      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-mlb-playoffs-game-5-score-result/91kYGY4RvnjQ/",
+      "title": "Guardians have been here before, but can they survive another elimination game?",
+      "description": "Stephen Vogt faces a crucial pitching decision as the Guardians return to Tampa Bay trailing the ALCS 3-2. Can Cleveland pull off another October comeback?",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-have-been-here-before-but-can-they-survive-another-elimination-game.html",
       "published": "",
-      "source": "The Athletic",
+      "source": "Cleveland.com",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "teamAbbreviation": "CLE",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "For Rays, stability in dugout is a big part of their onfield success",
-      "description": "Tales | Kevin Cash is MLB’s longest-tenured manager with his current team. It’s the same with hitting coach Chad Mottola. Pitching coach Kyle Snyder is tied for second.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/18/kevin-cash-chad-mottola-kyle-snyder-carson-williams-rocco-baldelli/",
-      "published": "2026-10-18T12:00:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
