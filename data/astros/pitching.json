@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:27:45.554456+00:00",
+  "generated_at": "2026-10-19T18:53:27.466473+00:00",
   "season": 2026,
   "team": "Houston Astros",
   "games_played": 162,
@@ -459,7 +459,7 @@
         "era": 4.35,
         "fip": 4.39,
         "k_minus_bb_pct": 11.4,
-        "team_at_fetch": "MIL"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 120.5,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:27:25.656270+00:00",
+  "generated_at": "2026-10-19T18:53:07.648013+00:00",
   "season": 2026,
   "team": "Kansas City Royals",
   "games_played": 162,
@@ -765,7 +765,7 @@
         "era": 3.39,
         "fip": 3.42,
         "k_minus_bb_pct": 15.3,
-        "team_at_fetch": null
+        "team_at_fetch": "KCR"
       },
       "forecast_to_date": {
         "ip": 60.0,

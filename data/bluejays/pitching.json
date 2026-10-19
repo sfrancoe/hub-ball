@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:26:45.706504+00:00",
+  "generated_at": "2026-10-19T18:52:27.483687+00:00",
   "season": 2026,
   "team": "Toronto Blue Jays",
   "games_played": 162,
@@ -1142,7 +1142,7 @@
         "era": 5.27,
         "fip": 4.93,
         "k_minus_bb_pct": 10.0,
-        "team_at_fetch": "TOR"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 148.9,

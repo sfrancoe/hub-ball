@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:28:35.650189+00:00",
+  "generated_at": "2026-10-19T18:54:17.499836+00:00",
   "season": 2026,
   "team": "Atlanta Braves",
   "games_played": 162,
@@ -868,7 +868,7 @@
         "era": 4.14,
         "fip": 4.13,
         "k_minus_bb_pct": 13.7,
-        "team_at_fetch": "ATL"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 55.0,
@@ -1156,7 +1156,7 @@
         "era": 3.39,
         "fip": 3.42,
         "k_minus_bb_pct": 15.3,
-        "team_at_fetch": null
+        "team_at_fetch": "KCR"
       },
       "forecast_to_date": {
         "ip": 60.0,

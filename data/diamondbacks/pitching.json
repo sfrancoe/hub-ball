@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:30:05.650366+00:00",
+  "generated_at": "2026-10-19T18:55:47.460168+00:00",
   "season": 2026,
   "team": "Arizona Diamondbacks",
   "games_played": 162,
@@ -427,7 +427,7 @@
         "era": 4.12,
         "fip": 4.01,
         "k_minus_bb_pct": 12.0,
-        "team_at_fetch": "ARI"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 17.0,
