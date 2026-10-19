@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Luis García Jr., Anthony Volpe and Austin Wells are among the Yankees' arbitration-eligible players.",
+      "published": "2026-10-19T11:30:58+00:00",
+      "title": "9 Yankees are arbitration eligible: What could they earn, and who could be non-tendered?",
+      "url": "https://www.nydailynews.com/2026/10/19/9-yankees-are-arbitration-eligible-what-could-they-earn-and-who-could-be-non-tendered/"
+    },
+    {
+      "category": "Yankees",
       "description": "Three years after a brief stint with the Yankees, Jake Bauers has emerged as an...",
       "published": "2026-10-15T18:38:46+00:00",
       "title": "Briefly a Yankee, Jake Bauers emerges as NLCS hero for Brewers",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T15:50:19+00:00",
       "title": "Yankees swept by Rays in ALDS after fan interference overturns Anthony Volpe homer in Game 3 loss",
       "url": "https://www.nydailynews.com/2026/10/07/yankees-swept-by-rays-in-alds-after-fan-interference-overturns-anthony-volpe-homer-in-game-3-loss/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Fan interference was at the center of the Yankees' season-ending 4-3 loss to the Tampa...",
-      "published": "2026-10-08T16:36:34+00:00",
-      "title": "Fan gets the boot as interference at center of Yankees Game 3 loss to Rays",
-      "url": "https://www.nydailynews.com/2026/10/07/yankees-mlb-rays-fan-interference-anthony-volpe-ejection/"
     }
   ],
-  "generated_at": "2026-10-15T21:36:42.076542+00:00",
+  "generated_at": "2026-10-19T13:52:34.254158+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

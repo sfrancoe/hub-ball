@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees catcher believes taking foul tips to the head negatively affected his hitting during a difficult first half of the season.",
+      "published": "2026-10-19T11:00:50+00:00",
+      "title": "Yankees' Austin Wells says foul tips sidetracked his season: 'Multiple blows to the head'",
+      "url": "https://www.nytimes.com/athletic/7693650/2026/10/19/austin-wells-yankees-catcher-foul-tips/"
+    },
+    {
+      "category": "Yankees",
       "description": "In covering the Yankees teams after 2001, I’ve seen what happens when a dynasty ends. Here are 10 things that may await the Dodgers.",
       "published": "2026-10-17T09:30:08+00:00",
       "title": "I covered the end of the Yankees' dynasty. Here's what happens next for the Dodgers",
@@ -132,16 +139,9 @@
       "published": "2026-10-06T09:30:49+00:00",
       "title": "The Rays’ brand of baseball is suffocating the Yankees — and New York is running out of time",
       "url": "https://www.nytimes.com/athletic/7664820/2026/10/06/rays-yankees-differences-mlb-playoffs/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees looked shaken. They made mistake after mistake, committing four errors. Now they must win three straight games to stay alive.",
-      "published": "2026-10-06T03:30:19+00:00",
-      "title": "Sloppy Yankees implode in gaffe-filled Game 2 as Rays push them to the brink",
-      "url": "https://www.nytimes.com/athletic/7664530/2026/10/05/yankees-rays-game-2-takeaways-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-17T12:47:10.406231+00:00",
+  "generated_at": "2026-10-19T13:52:38.945821+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

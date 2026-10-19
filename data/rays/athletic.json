@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Rays won Game 5 in fitting fashion — death by 1,000 paper cuts.",
+      "published": "2026-10-19T09:30:14+00:00",
+      "title": "The Rays, headed home on the cusp of the World Series, know a 'great opportunity' awaits",
+      "url": "https://www.nytimes.com/athletic/7697474/2026/10/19/rays-alcs-game-5-win-mlb-playoffs-world-series/"
+    },
+    {
+      "category": "Rays",
       "description": "The American League Championship Series now shifts back to Florida, with Game 6 scheduled for Monday night.",
       "published": "2026-10-19T00:06:28+00:00",
       "title": "Rays cruise in Game 5, push Guardians to the brink in ALCS. Can Cleveland recover?",
@@ -132,16 +139,9 @@
       "published": "2026-10-13T09:30:02+00:00",
       "title": "Kevin Cash once pulled his ace too soon. This time, he may have waited too long",
       "url": "https://www.nytimes.com/athletic/7679168/2026/10/13/rays-alcs-game-1-mlb-playoffs-guardians/"
-    },
-    {
-      "category": "Rays",
-      "description": "Nathaniel Lowe haunted his former team as the Guardians took the ALCS opener, with help from a questionable call by Rays manager Kevin Cash.",
-      "published": "2026-10-13T03:09:33+00:00",
-      "title": "Cleveland’s hitters keep proving they belong, this time in taking Game 1 from Tampa Bay",
-      "url": "https://www.nytimes.com/athletic/7679119/2026/10/12/rays-guardians-game-1-score-results-takeaways-mlb-alcs-2026/"
     }
   ],
-  "generated_at": "2026-10-19T01:27:30.920067+00:00",
+  "generated_at": "2026-10-19T13:52:44.614419+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

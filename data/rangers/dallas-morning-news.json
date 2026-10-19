@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rangers",
+      "description": "The Rangers improved in nearly every important offensive category in 2026 but somehow managed to score fewer runs than last season.",
+      "published": "2026-10-19T04:00:00+00:00",
+      "title": "Texas Rangers free agency outlook: What are the options to upgrade on offense?",
+      "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-free-agency-outlook-offense-22479966.php"
+    },
+    {
+      "category": "Rangers",
       "description": "As the weather cools down in Dallas, an up-and-coming Texas Rangers prospect is staying hot in Arizona.",
       "published": "2026-10-17T08:32:00+00:00",
       "title": "Watch: Rangers top prospect Sebastian Walcott blasts grand slam in Arizona Fall League",
@@ -44,20 +51,13 @@
     },
     {
       "category": "Rangers",
-      "description": "Summary: The Rangers have gone three consecutive seasons with well-below-league-average play from the catcher position and it took a June signee to avoid potential disaster this year. Higashioka and ...",
-      "published": "2026-10-12T04:00:00+00:00",
-      "title": "Rangers catcher analysis: What went right, wrong, an overall grade and what's next?",
-      "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-catcher-analysis-what-went-right-22467215.php"
-    },
-    {
-      "category": "Rangers",
       "description": "We can't say for certain when, exactly, the Rangers will play baseball again. We can say for certain, though, that much of their roster needs to be evaluated between now and whenever that is. That's ...",
       "published": "2026-10-14T04:00:00+00:00",
       "title": "Rangers outfield analysis: What went right, wrong, an overall grade and what's next?",
       "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-outfield-analysis-2026-mlb-season-22467221.php"
     }
   ],
-  "generated_at": "2026-10-19T06:34:39.305454+00:00",
+  "generated_at": "2026-10-19T13:53:14.662603+00:00",
   "source": "Dallas Morning News",
   "source_url": "https://www.dallasnews.com/sports/rangers/"
 }
