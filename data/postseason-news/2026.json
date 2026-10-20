@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-20T10:09:51.425028+00:00",
+  "generatedAt": "2026-10-20T15:10:48.232324+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 7,
   "articles": [
     {
       "title": "Assumption announces creation of the Larry Lucchino Institute for the Study of Sports",
       "description": "A new institute named after the former Red Sox president aims to inspire students to improve the greater community that extends beyond sports.",
       "url": "https://www.bostonglobe.com/2026/10/20/sports/larry-lucchino-assumption-university/",
-      "published": "2026-10-20T10:00:00+00:00",
+      "published": "2026-10-20T11:28:00.600000+00:00",
       "source": "The Boston Globe",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees' 2027 payroll breakdown: What to expect as New York prepares for offseason moves",
+      "description": "No one knows what the rules governing the sport's finances will be in 2027, but here's where the different parts of the payroll stand.",
+      "url": "https://www.nytimes.com/athletic/7705114/2026/10/20/yankees-2027-payroll-scenarios/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Red Sox shortstop conundrum: What will Boston do with Trevor Story, Franklin Arias?",
+      "description": "The Athletic's Keith Law ranked Arias as the No. 4 prospect in baseball in his most recent top-70 list.",
+      "url": "https://www.nytimes.com/athletic/7705551/2026/10/20/red-sox-shortstop-decision-trevor-story-franklin-arias/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Building the Rays: 10 moves that made Tampa Bay the best team in the AL",
@@ -45,18 +69,6 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Phillies 2027 outfield outlook: Free-agent options, prospect forecast, and more",
-      "description": "The outfield is in an all-too-familiar spot for the Phillies with the need for a reliable, everyday corner outfielder.",
-      "url": "https://www.inquirer.com/phillies/outfield-free-agents-trades-prospects-2027-preview-20261020.html",
-      "published": "2026-10-20T09:01:01+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
       "title": "Brewers-Rays World Series preview: Small-market standard-bearers vie for first championship",
       "description": "For only the second time in the last hundred years, both World Series participants will be seeking the first title in franchise history.",
       "url": "https://www.nytimes.com/athletic/7706469/2026/10/20/world-series-brewers-rays-predictions-questions-facts/",
@@ -66,6 +78,18 @@
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
       "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Loading: A first-time World Series champion. Plus: How the Brewers got their logo",
+      "description": "The last time we had a first-time winner was, of course, 2023, when the Rangers (first year: 1972, unless you count the 11 years they spent as the Washington Senators, where they — surprise — did not ...",
+      "url": "https://www.nytimes.com/athletic/7707689/2026/10/20/rays-brewers-first-time-world-series-champion-the-windup/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -81,6 +105,42 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Four free agents the Cubs should target to fix their pitching",
+      "description": "Although this upcoming class of free agents is viewed as subpar, four names stand out while assessing the Cubs’ biggest weakness.",
+      "url": "https://www.nytimes.com/athletic/7705123/2026/10/20/cubs-pitching-free-agents-skubal-peralta-2026/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "For the Guardians, a still-elusive World Series and a frustratingly familiar refrain",
+      "description": "Really felt like we had a team to go,” Cleveland manager Stephen Vogt said, “and (we) just weren't able to get there.” ...",
+      "url": "https://www.nytimes.com/athletic/7703367/2026/10/20/guardians-game-6-alcs-loss-mlb-playoffs/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "See Milwaukee fan's 3D printed Brewers-themed Mandalorian armor",
+      "description": "Milwaukee Brewers hype is out of this galaxy, and fans like Xander Renish are tapping into their creative sides to prove it.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/20/milwaukee-fan-crafts-brewers-themed-mandalorian-suit-of-armor/92336916007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Rays win Game 6 to clinch AL pennant, will meet Brewers in World Series",
       "description": "Junior Caminero and Yandy Díaz each homered for the Rays, while Freddy Peralta threw 5 1/3 strong innings in the victory.",
       "url": "https://www.bostonglobe.com/2026/10/19/sports/rays-guardians-alcs-game-6-score/",
@@ -93,6 +153,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "How the Seattle Pilots became the Milwaukee Brewers ... in six days",
+      "description": "How long have the Milwaukee Brewers been around? It seems like an easy question, but the answer depends on how you interpret 1969.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/world-series-bound-milwaukee-brewers-started-as-seattle-pilots/92284094007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
+      "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-left-field-yordan-alvarez-22483382.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "World Series odds: Brewers open as favorites against Rays",
       "description": "The Brewers and Rays meet in a World Series between teams that have never won it. Milwaukee opens as the favorite to take it home.",
       "url": "https://www.nytimes.com/athletic/7706465/2026/10/19/world-series-odds-brewers-rays/",
@@ -101,6 +185,18 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Hugs, tears and missed chances: Scenes from a crushed Guardians clubhouse",
+      "description": "Somehow, two small-market teams are playing in the World Series and the Guardians aren’t one of them. A long, cold winter awaits.",
+      "url": "https://www.nytimes.com/athletic/7706821/2026/10/20/guardians-missed-chances-alcs-loss-rays-game-6/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
       "league": "AL",
       "publishedSource": "unverified"
     },
@@ -127,102 +223,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Rays, composed and commanding in Game 6, are World Series-bound",
-      "description": "With their Game 6 win, the Tampa Bay Rays advance to meet the Milwaukee Brewers in the World Series.",
-      "url": "https://www.nytimes.com/athletic/7703360/2026/10/19/rays-guardians-game-6-score-results-takeaways-mlb-alcs-2026/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The story behind the Brewers’ ball-in-glove logo and its hidden double meaning",
-      "description": "Originally designed in 1977, the logo debuted in 1978, was abandoned in 1993, reappeared in 2006 and returned as the primary logo in 2020.",
-      "url": "https://www.nytimes.com/athletic/7694335/2026/10/20/milwaukee-brewers-ball-in-glove-logo/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Four free agents the Cubs should target to fix their pitching",
-      "description": "Although this upcoming class of free agents is viewed as subpar, four names stand out while assessing the Cubs’ biggest weakness.",
-      "url": "https://www.nytimes.com/athletic/7705123/2026/10/20/cubs-pitching-free-agents-skubal-peralta-2026/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "BJ Upton likes what he sees from current Rays and the excitement",
-      "description": "Notes | Regarding Tampa Bay speedster Chandler Simpson, Upton says a race in their prime “would be a good one.”",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/19/bj-upton-chandler-simpson-yandy-diaz-abs-tropicana-field-tyler-wells-taylor-smith/",
-      "published": "2026-10-20T02:01:29.527000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees made the safe, predictable call in the specter of uncertainty",
-      "description": "",
-      "url": "https://nypost.com/2026/10/19/sports/aaron-boones-yankees-return-was-a-safe-call-in-the-specter-or-uncertainty/",
-      "published": "2026-10-20T01:02:27+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox lose key executive to another club for the second year in a row",
-      "description": "The Athletics hired Taylor Smith as president of baseball operations, subtracting another assistant general manager from Craig Breslow’s front office.",
-      "url": "https://www.bostonglobe.com/2026/10/19/sports/red-sox-taylor-smith-athletics/",
-      "published": "2026-10-19T22:47:39.507000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees bringing Aaron Boone back as manager in 2027: source",
-      "description": "Boone is sticking around after another early playoff exit.",
-      "url": "https://www.nydailynews.com/2026/10/19/yankees-bringing-aaron-boone-back-as-manager-in-2027-source/",
-      "published": "2026-10-19T22:22:26+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Cubs adding Rays official to international scouting as front office reshuffles",
-      "description": "The Cubs are bringing on longtime scout Steve Miller, who helped small-market Tampa Bay regularly outperform expectations.",
-      "url": "https://www.nytimes.com/athletic/7705901/2026/10/19/cubs-international-scouting-changes/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
