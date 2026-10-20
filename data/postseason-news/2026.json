@@ -1,13 +1,73 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-20T15:10:48.232324+00:00",
+  "generatedAt": "2026-10-20T19:21:49.783722+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 7,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "How the Yankees could handle the qualifying offer this offseason",
+      "description": "The Yankees have two theoretical candidates for the qualifying offer: closer David Bednar and second...",
+      "url": "https://www.nydailynews.com/2026/10/20/yankees-qualifying-offer-strategy-offseason-grisham-bednar/",
+      "published": "2026-10-20T16:29:03+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Released by Braves in August, Jorge Mateo makes World Series with Rays",
+      "description": "A former Braves infielder from the 2026 roster has reached the World Series. Jorge Mateo, released by Atlanta in August, helped the Rays to an American League pennant. He and his new team will face ...",
+      "url": "https://www.ajc.com/sports/2026/10/world-series-jorge-mateo-rays/",
+      "published": "2026-10-20T15:10:46.716000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Arozarena, Glasnow cheer Rays at Trop for Game 6",
+      "description": "Here are the viral moments that filled Tropicana Field.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/20/arozarena-glasnow-cheer-rays-game-6-viral-moments/",
+      "published": "2026-10-20T14:57:28.419000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Houston's Colt Stadium finally gets its historical marker with heat, mosquitoes and all",
+      "description": "Colt Stadium, which is where the Colt .45s played for three seasons while the Astrodome was being built, was known for extreme heat and giant mosquitoes. Now, all that goes into history.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/colt-45s-stadium-houston-texas-historical-marker-22484732.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Welcome to Milwaukee, but keep your small-town narrative to yourself | Lori Nickel",
+      "description": "I’m proud of my hometown Milwaukee, and we’re tired of the small-market narrative as the Brewers head to the World Series.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/welcome-to-milwaukee-world-series-fans-but-keep-tropes-to-yourself/92336666007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Assumption announces creation of the Larry Lucchino Institute for the Study of Sports",
       "description": "A new institute named after the former Red Sox president aims to inspire students to improve the greater community that extends beyond sports.",
@@ -33,6 +93,18 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "$2,700 for Game 1? World Series tickets remain costly in Milwaukee",
+      "description": "With the matchup against the Tampa Bay Rays set, World Series tickets remain more expensive for games in Milwaukee.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/2026-world-series-ticket-prices-for-brewers-vs-rays-by-game/92344722007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Red Sox shortstop conundrum: What will Boston do with Trevor Story, Franklin Arias?",
       "description": "The Athletic's Keith Law ranked Arias as the No. 4 prospect in baseball in his most recent top-70 list.",
       "url": "https://www.nytimes.com/athletic/7705551/2026/10/20/red-sox-shortstop-decision-trevor-story-franklin-arias/",
@@ -45,6 +117,18 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "The story behind the Brewers’ ball-in-glove logo and its hidden double meaning",
+      "description": "Originally designed in 1977, the logo debuted in 1978, was abandoned in 1993, reappeared in 2006 and returned as the primary logo in 2020.",
+      "url": "https://www.nytimes.com/athletic/7694335/2026/10/20/milwaukee-brewers-ball-in-glove-logo/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Building the Rays: 10 moves that made Tampa Bay the best team in the AL",
       "description": "Here's how the Rays assembled a dynamic, balanced roster despite ranking 28th in the majors in payroll.",
       "url": "https://www.nytimes.com/athletic/7705393/2026/10/20/tampa-bay-rays-mlb-world-series-roster/",
@@ -54,6 +138,18 @@
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
       "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Can't get a ticket? Where to find World Series watch parties in Milwaukee",
+      "description": "With the World Series just days away, Brewers fans have more than a few choices for watch parties in Milwaukee.",
+      "url": "https://www.jsonline.com/story/news/local/milwaukee/2026/10/20/brewers-world-series-watch-parties-in-milwaukee-where-to-go/92343592007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -81,6 +177,18 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Brewers World Series watch parties set for Milwaukee's Third Ward",
+      "description": "A Brewers World Series block party will take over Milwaukee's Third Ward during Games 1 and 2 on Friday and Saturday.",
+      "url": "https://www.jsonline.com/story/news/local/milwaukee/2026/10/20/milwaukees-third-ward-will-host-brewers-world-series-watch-parties/92343262007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Loading: A first-time World Series champion. Plus: How the Brewers got their logo",
       "description": "The last time we had a first-time winner was, of course, 2023, when the Rangers (first year: 1972, unless you count the 11 years they spent as the Washington Senators, where they — surprise — did not ...",
       "url": "https://www.nytimes.com/athletic/7707689/2026/10/20/rays-brewers-first-time-world-series-champion-the-windup/",
@@ -91,138 +199,6 @@
       "teamAbbreviation": "MIL",
       "league": "NL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays clinch pennant with unlikely hero ‘Fastball Freddy’ leading the way",
-      "description": "Peralta, a trade-deadline acquisition who is paying dividends, is the 2026 AL Championship Series MVP.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/20/freddy-peralta-alcs-mvp-mets-trade-guardians/",
-      "published": "2026-10-20T06:06:18.616000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Four free agents the Cubs should target to fix their pitching",
-      "description": "Although this upcoming class of free agents is viewed as subpar, four names stand out while assessing the Cubs’ biggest weakness.",
-      "url": "https://www.nytimes.com/athletic/7705123/2026/10/20/cubs-pitching-free-agents-skubal-peralta-2026/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "For the Guardians, a still-elusive World Series and a frustratingly familiar refrain",
-      "description": "Really felt like we had a team to go,” Cleveland manager Stephen Vogt said, “and (we) just weren't able to get there.” ...",
-      "url": "https://www.nytimes.com/athletic/7703367/2026/10/20/guardians-game-6-alcs-loss-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "See Milwaukee fan's 3D printed Brewers-themed Mandalorian armor",
-      "description": "Milwaukee Brewers hype is out of this galaxy, and fans like Xander Renish are tapping into their creative sides to prove it.",
-      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/20/milwaukee-fan-crafts-brewers-themed-mandalorian-suit-of-armor/92336916007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays win Game 6 to clinch AL pennant, will meet Brewers in World Series",
-      "description": "Junior Caminero and Yandy Díaz each homered for the Rays, while Freddy Peralta threw 5 1/3 strong innings in the victory.",
-      "url": "https://www.bostonglobe.com/2026/10/19/sports/rays-guardians-alcs-game-6-score/",
-      "published": "2026-10-20T04:15:35.200000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "How the Seattle Pilots became the Milwaukee Brewers ... in six days",
-      "description": "How long have the Milwaukee Brewers been around? It seems like an easy question, but the answer depends on how you interpret 1969.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/world-series-bound-milwaukee-brewers-started-as-seattle-pilots/92284094007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
-      "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-left-field-yordan-alvarez-22483382.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "World Series odds: Brewers open as favorites against Rays",
-      "description": "The Brewers and Rays meet in a World Series between teams that have never won it. Milwaukee opens as the favorite to take it home.",
-      "url": "https://www.nytimes.com/athletic/7706465/2026/10/19/world-series-odds-brewers-rays/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Hugs, tears and missed chances: Scenes from a crushed Guardians clubhouse",
-      "description": "Somehow, two small-market teams are playing in the World Series and the Guardians aren’t one of them. A long, cold winter awaits.",
-      "url": "https://www.nytimes.com/athletic/7706821/2026/10/20/guardians-missed-chances-alcs-loss-rays-game-6/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays, Brewers to meet in World Series: Game times, key players and more",
-      "description": "Major League Baseball is set to crown its first new champion since 2023. The World Series begins with Game 1 on Friday.",
-      "url": "https://www.nytimes.com/athletic/7703794/2026/10/19/rays-brewers-world-series-preview/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays headed to World Series against Brewers after ousting Guardians",
-      "description": "Yandy Diaz helps make his prediction of a Game 6 win come true with help from Freddy Peralta, Junior Caminero and Richie Palacios.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/19/alcs-game-6-world-series-yandy-diaz-freddy-peralta-junior-caminero-richie-palacios-guardians/",
-      "published": "2026-10-20T03:11:03.062000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
