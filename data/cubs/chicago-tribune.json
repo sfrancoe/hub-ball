@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Cubs",
-      "description": "The Baltimore Orioles have hired Jared Banner as general manager. He was the assistant GM of the Chicago Cubs, taking on that role in 2024.",
-      "published": "2026-10-19T10:34:00+00:00",
-      "title": "Jared Banner leaves Chicago Cubs to be general manager of Baltimore Orioles",
-      "url": "https://www.chicagotribune.com/2026/10/19/jared-banner-orioles-general-manager/"
-    },
-    {
-      "category": "Cubs",
       "description": "The Milwaukee Brewers in the World Series is an unfortunate turn of events for almost everyone except real baseball fans.",
       "published": "2026-10-18T03:59:00+00:00",
       "title": "Column: Milwaukee Brewers making World Series is unfortunate for Chicago Cubs — but great for baseball fans",
       "url": "https://www.chicagotribune.com/2026/10/18/milwaukee-brewers-world-series-chicago-cubs/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The Baltimore Orioles have hired Jared Banner as general manager. He was the assistant GM of the Chicago Cubs, taking on that role in 2024.",
+      "published": "2026-10-19T10:34:00+00:00",
+      "title": "Jared Banner leaves Chicago Cubs to be general manager of Baltimore Orioles",
+      "url": "https://www.chicagotribune.com/2026/10/19/jared-banner-orioles-general-manager/"
     },
     {
       "category": "Cubs",
@@ -29,7 +29,7 @@
       "url": "https://www.chicagotribune.com/2026/10/09/october-9-chicago-history/"
     }
   ],
-  "generated_at": "2026-10-19T19:34:19.094943+00:00",
+  "generated_at": "2026-10-20T20:38:02.112377+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

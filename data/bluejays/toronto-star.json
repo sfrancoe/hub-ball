@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Blue Jays",
+      "description": "TORONTO - Former Toronto Blue Jays player Rich Butler and his wife are facing fraud charges in connection with a youth baseball training program, Durham Regional Police said Tuesday.",
+      "published": "2026-10-20T10:28:00+00:00",
+      "title": "Former Blue Jays player Rich Butler, wife, charged with fraud in Ontario",
+      "url": "https://www.thestar.com/sports/blue-jays/former-blue-jays-player-rich-butler-wife-charged-with-fraud-in-ontario/article_b4110a04-5cd0-5e5d-9892-7c738232f230.html"
+    },
+    {
+      "category": "Blue Jays",
       "description": "Richard Butler, a Toronto-born outfielder signed by the Jays in 1990 is accused of taking funds from a Ontario Devil Rays baseball training program that never delivered on the services it promised.",
       "published": "2026-10-20T08:12:00+00:00",
       "title": "Former Blue Jays player, wife accused of defrauding families $60,000 in youth baseball program",
@@ -20,16 +27,9 @@
       "published": "2026-10-08T09:02:00+00:00",
       "title": "Listen: Honouring Larry Millson, Blue Jays MVP and Winkler, Manitoba’s breakout rookie Tristan Peters",
       "url": "https://www.thestar.com/podcasts/deep-left-field/listen-honouring-larry-millson-blue-jays-mvp-and-winkler-manitoba-s-breakout-rookie-tristan-peters/article_aa9be265-99ae-4e14-ab4e-5ca61010d693.html"
-    },
-    {
-      "category": "Blue Jays",
-      "description": "The Blue Jays are starting the American League championship series the exact same way they did the previous round, by handing the ball to right-hander Kevin Gausman. Gausman was the pitcher the Jays ...",
-      "published": "2025-10-11T08:26:00+00:00",
-      "title": "Blue Jays make Kevin Gausman the logical Game 1 starter in ALCS. The Mariners are in a tougher spot",
-      "url": "https://www.thestar.com/sports/blue-jays/blue-jays-make-kevin-gausman-the-logical-game-1-starter-in-alcs-the-mariners-are/article_e5970521-1436-48b3-a7c1-39f687e4e37c.html"
     }
   ],
-  "generated_at": "2026-10-20T17:14:22.348138+00:00",
+  "generated_at": "2026-10-20T20:37:43.173396+00:00",
   "source": "Toronto Star",
   "source_url": "https://www.thestar.com/sports/blue-jays/"
 }

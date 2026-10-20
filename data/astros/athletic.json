@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Matt Kleine, Josh Barfield and Randy Flores are among the candidates who are in the running to replace Dana Brown.",
+      "published": "2026-10-20T12:37:00+00:00",
+      "title": "Astros could name new general manager before end of World Series: Sources",
+      "url": "https://www.nytimes.com/athletic/7708292/2026/10/20/astros-general-manager-candidates/"
+    },
+    {
+      "category": "Astros",
       "description": "Here's a breakdown of the Astros' current payroll obligations and decisions they'll have to make this offseason after finishing 81-81.",
       "published": "2026-10-16T03:35:00+00:00",
       "title": "After the Astros choose a new GM, how will they solve Houston’s payroll, roster puzzle?",
@@ -50,7 +57,7 @@
       "url": "https://www.nytimes.com/athletic/7322535/2026/05/31/astros-tatsuya-imai-jacob-misiorowski/"
     }
   ],
-  "generated_at": "2026-10-20T17:14:36.934425+00:00",
+  "generated_at": "2026-10-20T20:37:57.052483+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/astros/"
 }
