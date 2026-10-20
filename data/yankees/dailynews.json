@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees have two theoretical candidates for the qualifying offer: closer David Bednar and second...",
+      "published": "2026-10-20T16:29:03+00:00",
+      "title": "How the Yankees could handle the qualifying offer this offseason",
+      "url": "https://www.nydailynews.com/2026/10/20/yankees-qualifying-offer-strategy-offseason-grisham-bednar/"
+    },
+    {
+      "category": "Yankees",
       "description": "Boone is sticking around after another early playoff exit.",
       "published": "2026-10-19T22:45:25+00:00",
       "title": "Yankees bringing Aaron Boone back as manager in 2027: source",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T14:59:08+00:00",
       "title": "Have Yankees gone all in? ‘It’s tough to say,’ Aaron Judge says after ALDS exit",
       "url": "https://www.nydailynews.com/2026/10/08/yankees-aaron-judge-alds-playoffs-rays-exit/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Questions about Aaron Boone’s job status resurfaced after Wednesday night’s season-ending loss, with the manager...",
-      "published": "2026-10-08T18:31:50+00:00",
-      "title": "Yankees stars back Aaron Boone amid fan unrest after latest playoff defeat",
-      "url": "https://www.nydailynews.com/2026/10/08/yankees-stars-back-aaron-boone-aaron-judge-cam-schlittler/"
     }
   ],
-  "generated_at": "2026-10-19T23:03:03.251174+00:00",
+  "generated_at": "2026-10-20T17:14:08.869903+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

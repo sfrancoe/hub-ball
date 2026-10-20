@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "Richie Palacios, Yandy Diaz and Junior Caminero — all with Cleveland ties — came back to haunt the Guardians at the worst possible moment in the 2026 ALCS.",
+      "published": "2026-10-20T05:18:00+00:00",
+      "title": "Former Guardians delivered the decisive blows that ended Cleveland’s ALCS run",
+      "url": "https://www.cleveland.com/guardians/2026/10/former-guardians-delivered-the-decisive-blows-that-ended-clevelands-alcs-run.html"
+    },
+    {
+      "category": "Guardians",
       "description": "José Ramírez and Chase DeLauter made postseason history, but the Guardians fell short of the World Series. Breaking down Cleveland's ALCS Game 6 loss.",
       "published": "2026-10-19T22:07:00+00:00",
       "title": "Guardians by the numbers: José Ramírez makes history, but Cleveland’s October run ends in ALCS Game 6",
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-by-the-numbers-jose-ramirez-makes-history-but-clevelands-october-run-ends-in-alcs-game-6.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Guardians had a 2-1 lead in the ALCS, but they watched the Rays win three straight games to eliminate them.",
-      "published": "2026-10-19T19:15:00+00:00",
-      "title": "Cleveland goes another year without World Series title; Guardians eliminated in ALCS by Rays, 7-3",
-      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-goes-another-year-without-world-series-title-guardians-eliminated-in-alcs-by-rays-7-3.html"
     },
     {
       "category": "Guardians",
@@ -27,6 +27,13 @@
       "published": "2026-10-18T06:01:00+00:00",
       "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 18, 2026: ALCS Game 5",
       "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-18-2026-alcs-game-5.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians had a 2-1 lead in the ALCS, but they watched the Rays win three straight games to eliminate them.",
+      "published": "2026-10-19T19:15:00+00:00",
+      "title": "Cleveland goes another year without World Series title; Guardians eliminated in ALCS by Rays, 7-3",
+      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-goes-another-year-without-world-series-title-guardians-eliminated-in-alcs-by-rays-7-3.html"
     },
     {
       "category": "Guardians",
@@ -58,10 +65,10 @@
     },
     {
       "category": "Guardians",
-      "description": "Guardians vs. Rays ALCS Game 4 moves to 8:10 p.m. Friday at Progressive Field. Shawn Armstrong will open for Cleveland against Nick Martinez.",
-      "published": "2026-10-16T03:38:00+00:00",
-      "title": "MLB sets start time for Guardians-Rays ALCS Game 4 on Friday; Cleveland names Shawn Armstrong opener",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-rays-alcs-game-4-set-for-810-pm-friday-cleveland-names-shawn-armstrong-opener.html"
+      "description": "Cleveland burned through eight pitchers in Game 6 while Tanner Bibee watched from the bullpen, raising hard questions about Cleveland's October approach to starting pitching.",
+      "published": "2026-10-20T05:22:00+00:00",
+      "title": "How the Guardians’ bullpen-heavy postseason strategy finally hit the wall",
+      "url": "https://www.cleveland.com/guardians/2026/10/how-the-guardians-bullpen-heavy-postseason-strategy-finally-hit-the-wall.html"
     },
     {
       "category": "Guardians",
@@ -72,20 +79,13 @@
     },
     {
       "category": "Guardians",
-      "description": "Cavs star will throw out the first pitch at Game 3 of the ALCS, a nod to his deep baseball roots and growing bond with Cleveland.",
-      "published": "2026-10-13T12:04:00+00:00",
-      "title": "Cleveland’s newest superstar will throw out the first pitch for Game 3 of the ALCS between Guardians and Rays",
-      "url": "https://www.cleveland.com/guardians/2026/10/clevelands-newest-superstar-will-throw-out-the-first-pitch-for-game-3-of-the-alcs-between-guardians-and-rays.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Guardians, up 1-0 in the ALCS, face the Rays in Game 2 with Parker Messick starting in his hometown against Freddy Peralta. Follow along for live updates, analysis and all the key moments.",
-      "published": "2026-10-13T14:02:00+00:00",
-      "title": "Guardians vs. Rays ALCS Game 2 Live Blog: Can Cleveland take a 2-0 series lead?",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-rays-alcs-game-2-live-blog-can-cleveland-take-a-2-0-series-lead.html"
+      "description": "Guardians vs. Rays ALCS Game 4 moves to 8:10 p.m. Friday at Progressive Field. Shawn Armstrong will open for Cleveland against Nick Martinez.",
+      "published": "2026-10-16T03:38:00+00:00",
+      "title": "MLB sets start time for Guardians-Rays ALCS Game 4 on Friday; Cleveland names Shawn Armstrong opener",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-rays-alcs-game-4-set-for-810-pm-friday-cleveland-names-shawn-armstrong-opener.html"
     }
   ],
-  "generated_at": "2026-10-20T12:15:42.907387+00:00",
+  "generated_at": "2026-10-20T17:14:28.267137+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
