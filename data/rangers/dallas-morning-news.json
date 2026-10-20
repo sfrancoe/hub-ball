@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rangers",
+      "description": "Fort Worth mansion is being placed up for auction for second time after an initial auction didn't result in a sale.",
+      "published": "2026-10-20T04:01:00+00:00",
+      "title": "Former home of Texas Rangers co-owner to be auctioned off, again",
+      "url": "https://www.dallasnews.com/business/real-estate/article/former-home-texas-rangers-co-owner-auction-again-22483774.php"
+    },
+    {
+      "category": "Rangers",
       "description": "The Rangers improved in nearly every important offensive category in 2026 but somehow managed to score fewer runs than last season.",
       "published": "2026-10-19T04:00:00+00:00",
       "title": "Texas Rangers free agency outlook: What are the options to upgrade on offense?",
@@ -48,16 +55,9 @@
       "published": "2026-10-07T04:00:00+00:00",
       "title": "5 of the biggest existential questions facing Rangers as they stare down long offseason",
       "url": "https://www.dallasnews.com/sports/rangers/article/big-questions-for-rangers-as-long-offseason-begins-22464731.php"
-    },
-    {
-      "category": "Rangers",
-      "description": "We can't say for certain when, exactly, the Rangers will play baseball again. We can say for certain, though, that much of their roster needs to be evaluated between now and whenever that is. That's ...",
-      "published": "2026-10-14T04:00:00+00:00",
-      "title": "Rangers outfield analysis: What went right, wrong, an overall grade and what's next?",
-      "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-outfield-analysis-2026-mlb-season-22467221.php"
     }
   ],
-  "generated_at": "2026-10-20T06:39:41.349744+00:00",
+  "generated_at": "2026-10-20T12:15:46.373203+00:00",
   "source": "Dallas Morning News",
   "source_url": "https://www.dallasnews.com/sports/rangers/"
 }

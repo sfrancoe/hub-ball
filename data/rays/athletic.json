@@ -2,6 +2,34 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Somehow, two small-market teams are playing in the World Series and the Guardians aren’t one of them. A long, cold winter awaits.",
+      "published": "2026-10-20T10:30:08+00:00",
+      "title": "Hugs, tears and missed chances: Scenes from a crushed Guardians clubhouse",
+      "url": "https://www.nytimes.com/athletic/7706821/2026/10/20/guardians-missed-chances-alcs-loss-rays-game-6/"
+    },
+    {
+      "category": "Rays",
+      "description": "Here's how the Rays assembled a dynamic, balanced roster despite ranking 28th in the majors in payroll.",
+      "published": "2026-10-20T09:45:55+00:00",
+      "title": "Building the Rays: 10 moves that made Tampa Bay the best team in the AL",
+      "url": "https://www.nytimes.com/athletic/7705393/2026/10/20/tampa-bay-rays-mlb-world-series-roster/"
+    },
+    {
+      "category": "Rays",
+      "description": "Yandy Diaz promised a Game 6 win. He backed it up with a big home run to help propel the Rays to the American League pennant.",
+      "published": "2026-10-20T09:30:39+00:00",
+      "title": "Rays fulfill World Series expectations on a night fans fill the seats: 'They deserve that'",
+      "url": "https://www.nytimes.com/athletic/7703374/2026/10/20/rays-game-6-mlb-playoffs/"
+    },
+    {
+      "category": "Rays",
+      "description": "For only the second time in the last hundred years, both World Series participants will be seeking the first title in franchise history.",
+      "published": "2026-10-20T09:00:35+00:00",
+      "title": "Brewers-Rays World Series preview: Small-market standard-bearers vie for first championship",
+      "url": "https://www.nytimes.com/athletic/7706469/2026/10/20/world-series-brewers-rays-predictions-questions-facts/"
+    },
+    {
+      "category": "Rays",
       "description": "The Brewers and Rays meet in a World Series between teams that have never won it. Milwaukee opens as the favorite to take it home.",
       "published": "2026-10-20T03:38:21+00:00",
       "title": "World Series odds: Brewers open as favorites against Rays",
@@ -111,37 +139,9 @@
       "published": "2026-10-15T09:24:33+00:00",
       "title": "One important lesson to draw from each of MLB’s remaining postseason teams",
       "url": "https://www.nytimes.com/athletic/7687797/2026/10/15/mlb-playoffs-dodgers-brewers-guardians-rays/"
-    },
-    {
-      "category": "Rays",
-      "description": "Weather in Cleveland could affect the next three games of the tied series.",
-      "published": "2026-10-14T16:18:37+00:00",
-      "title": "ALCS Game 3 in Cleveland moved to afternoon because of expected inclement weather",
-      "url": "https://www.nytimes.com/athletic/7690031/2026/10/14/alcs-game-3-weather-guardians-rays-mlb-playoffs/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Rays and Brewers have overcome smaller payrolls by investing in technology and having novel approaches to coaching and roster construction.",
-      "published": "2026-10-14T10:05:01+00:00",
-      "title": "Rays, Brewers always outperform expectations. These 'Moneyball'-like edges are the key",
-      "url": "https://www.nytimes.com/athletic/7684373/2026/10/14/brewers-rays-analytics-moneyball-mlb-playoffs/"
-    },
-    {
-      "category": "Rays",
-      "description": "Ramírez’s fourth-inning error opened a door for the Tampa Bay Rays, who tied the ALCS at a game apiece.",
-      "published": "2026-10-14T10:00:58+00:00",
-      "title": "José Ramírez knows baseball can be stupid or good. In Game 2? Well, it wasn't good",
-      "url": "https://www.nytimes.com/athletic/7686862/2026/10/14/jose-ramirez-guardians-mlb-playoffs-alcs-game-2/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Rays want a home-field advantage. Fans? They want to know what their tickets are supposed to cost.",
-      "published": "2026-10-14T10:00:28+00:00",
-      "title": "The Rays can’t fill the Trop in the ALCS. Fans point to ticket prices",
-      "url": "https://www.nytimes.com/athletic/7688793/2026/10/14/tampa-bay-rays-alcs-ticket-prices-tropicana-field/"
     }
   ],
-  "generated_at": "2026-10-20T06:39:34.741809+00:00",
+  "generated_at": "2026-10-20T12:15:40.743573+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

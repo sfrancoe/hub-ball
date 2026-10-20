@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "The Orioles are set to hire Cubs executive Jared Banner as general manager under Mike Elias, a source with direct knowledge confirmed.",
+      "published": "2026-10-19T14:15:00+00:00",
+      "title": "Orioles hire Cubs’ Jared Banner as general manager under Mike Elias",
+      "url": "https://www.baltimoresun.com/2026/10/19/jared-banner-orioles-gm/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles hired Jared Banner to be their new general manager under Mike Elias. Does the move change your outlook on the franchise?",
       "published": "2026-10-19T13:57:00+00:00",
       "title": "READER POLL: Does hiring Jared Banner as GM change your outlook on the Orioles?",
@@ -16,17 +23,17 @@
     },
     {
       "category": "Orioles",
-      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
-      "published": "2026-10-14T03:30:00+00:00",
-      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
-      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
-    },
-    {
-      "category": "Orioles",
       "description": "In his first public comments since the Orioles’ season ended, owner David Rubenstein expressed his disappointment about his ballclub’s struggles.",
       "published": "2026-10-15T19:20:00+00:00",
       "title": "Orioles’ David Rubenstein says owning club ‘not as easy as I thought’",
       "url": "https://www.baltimoresun.com/2026/10/15/orioles-david-rubenstein-owning-club-not-easy/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles’ infield was supposed to be a position of strength. The group, aside from Pete Alonso, was a major disappointment this past season.",
+      "published": "2026-10-14T03:30:00+00:00",
+      "title": "Orioles position in review: Young core infielders failed to stay healthy, reach potential",
+      "url": "https://www.baltimoresun.com/2026/10/14/orioles-position-review-young-core-infielders-henderson-holliday-westburg-failed-to-stay-healthy-reach-potential/"
     },
     {
       "category": "Orioles",
@@ -64,7 +71,7 @@
       "url": "https://www.baltimoresun.com/2026/10/16/orioles-rubenstein-layoffs/"
     }
   ],
-  "generated_at": "2026-10-20T01:43:23.948776+00:00",
+  "generated_at": "2026-10-20T12:15:41.663442+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

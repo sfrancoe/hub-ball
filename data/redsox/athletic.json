@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Athletic's Keith Law ranked Arias as the No. 4 prospect in baseball in his most recent top-70 list.",
+      "published": "2026-10-20T10:30:11+00:00",
+      "title": "Red Sox shortstop conundrum: What will Boston do with Trevor Story, Franklin Arias?",
+      "url": "https://www.nytimes.com/athletic/7705551/2026/10/20/red-sox-shortstop-decision-trevor-story-franklin-arias/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Smith is set to replace David Forst, who was dismissed by the A’s in August.",
       "published": "2026-10-19T14:49:06+00:00",
       "title": "A's hire Red Sox executive, stats guru Taylor Smith as head of baseball operations",
@@ -104,16 +111,9 @@
       "published": "2026-09-30T20:52:43+00:00",
       "title": "Red Sox’s Roman Anthony injured hand ‘never fully 100 percent’, out for Wild Card Series: ‘It’s brutal’",
       "url": "https://www.nytimes.com/athletic/7647135/2026/09/30/roman-anthony-injury-out-vs-yankees/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "From on the field to on-air talent, four former major-leaguers tried their hand at postseason analysis. What grade did they earn from us?",
-      "published": "2026-09-30T12:32:53+00:00",
-      "title": "MLB Wild Card coverage with Kershaw, Rizzo, Votto, Ottavino: Which ex-player impressed?",
-      "url": "https://www.nytimes.com/athletic/7643991/2026/09/30/mlb-wild-card-analyst-kershaw-rizzo/"
     }
   ],
-  "generated_at": "2026-10-19T19:34:02.307040+00:00",
+  "generated_at": "2026-10-20T12:15:35.621247+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

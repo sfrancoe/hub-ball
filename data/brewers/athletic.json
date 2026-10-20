@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Originally designed in 1977, the logo debuted in 1978, was abandoned in 1993, reappeared in 2006 and returned as the primary logo in 2020.",
+      "published": "2026-10-20T03:00:00+00:00",
+      "title": "The story behind the Brewers’ ball-in-glove logo and its hidden double meaning",
+      "url": "https://www.nytimes.com/athletic/7694335/2026/10/20/milwaukee-brewers-ball-in-glove-logo/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Brewers and Rays meet in a World Series between teams that have never won it. Milwaukee opens as the favorite to take it home.",
       "published": "2026-10-19T20:42:00+00:00",
       "title": "World Series odds: Brewers open as favorites against Rays",
@@ -41,16 +48,9 @@
       "published": "2026-10-17T06:00:00+00:00",
       "title": "What comes next for a dynasty? Setting the stage for the Dodgers’ offseason",
       "url": "https://www.nytimes.com/athletic/7697036/2026/10/17/dodgers-offseason-plans/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Milwaukee Brewers hold a 3-0 series lead over the Los Angeles Dodgers entering Game 4 of the NLCS tonight at Dodger Stadium. Propelled by the long ball Wednesday night, the Brewers took a ...",
-      "published": "2026-10-15T20:55:00+00:00",
-      "title": "How the Brewers swept the Dodgers in NLCS to head to World Series for first time since 1982",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/"
     }
   ],
-  "generated_at": "2026-10-20T06:39:44.628080+00:00",
+  "generated_at": "2026-10-20T12:15:49.602985+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }
