@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Notes | Monday was just the second time in 18 playoff rounds the Rays clinched at home in front of their fans.",
+      "published": "2026-10-20T22:10:37+00:00",
+      "title": "Rays say winning ALCS at rocking Trop made things even more special",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/20/alcs-tropicana-field-world-series-yandy-diaz-shane-mcclanahan-richie-palacios-wander-franco/"
+    },
+    {
+      "category": "Rays",
+      "description": "The Rays reached the final series in 2008 and 2020 but both times fell short of their ultimate goal.",
+      "published": "2026-10-20T21:27:08+00:00",
+      "title": "Rays from previous World Series teams see similarities, reasons to cheer",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/20/world-series-evan-longoria-carlos-pena-jason-bartlett-joe-maddon-scott-kazmir/"
+    },
+    {
+      "category": "Rays",
       "description": "Here are the viral moments that filled Tropicana Field.",
       "published": "2026-10-20T14:57:28+00:00",
       "title": "Arozarena, Glasnow cheer Rays at Trop for Game 6",
@@ -97,16 +111,9 @@
       "published": "2026-10-16T00:00:19+00:00",
       "title": "MLB officials mulling whether to postpone ALCS Game 4 due to bad weather",
       "url": "https://www.tampabay.com/sports/rays/2026/10/15/mlb-officials-mulling-whether-postpone-alcs-game-4-due-bad-weather/"
-    },
-    {
-      "category": "Rays",
-      "description": "Tampa Bay takes a one-run lead on Chandler Simpson’s two-run triple in the fourth inning, but it doesn’t last long.",
-      "published": "2026-10-15T22:35:47+00:00",
-      "title": "Rays fall short in ALCS Game 3 as Guardians rally against Griffin Jax",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/15/alcs-game-3-guardians-gavin-williams-petey-halpin-griffin-jax-chandler-simpson-nathaniel-lowe/"
     }
   ],
-  "generated_at": "2026-10-20T17:14:19.686711+00:00",
+  "generated_at": "2026-10-20T23:23:27.499646+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

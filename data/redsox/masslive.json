@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox led the majors in bullpen ERA n 2026 and all their key relievers are under control for 2027. That means a big-ticket bullpen addition isn't likely this winter.",
+      "published": "2026-10-20T22:58:36+00:00",
+      "title": "Why the Red Sox won't be big spenders on relief pitching this winter",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-bullpen-core-intact-so-dont-expect-big-time-adds-this-winter.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Athletics have poached one of the Red Sox’ top executives to run their baseball operations department.",
       "published": "2026-10-19T15:02:07+00:00",
       "title": "Red Sox lose assistant GM to Athletics",
@@ -85,7 +92,7 @@
       "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-submit-questions-for-masslives-sean-mcadam.html-2"
     }
   ],
-  "generated_at": "2026-10-19T23:03:02.831408+00:00",
+  "generated_at": "2026-10-20T23:23:18.811277+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

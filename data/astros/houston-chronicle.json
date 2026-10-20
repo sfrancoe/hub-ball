@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "The Astros have gone nearly two months without a general manager, but candidates for the job are beginning to emerge as the playoffs wind down.",
+      "published": "2026-10-20T15:42:00+00:00",
+      "title": "Milwaukee Brewers executive Matt Kleine emerging as candidate for Houston Astros' GM job",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-kleine-houston-gm-candidate-22486387.php"
+    },
+    {
+      "category": "Astros",
       "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
       "published": "2026-10-20T04:00:00+00:00",
       "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
@@ -64,7 +71,7 @@
       "url": "https://www.houstonchronicle.com/sports/article/houston-astros-do-not-renew-joe-espada-s-22476774.php"
     }
   ],
-  "generated_at": "2026-10-20T12:15:44.711917+00:00",
+  "generated_at": "2026-10-20T23:23:31.923404+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
