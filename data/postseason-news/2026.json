@@ -1,13 +1,85 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-20T05:00:11.595476+00:00",
+  "generatedAt": "2026-10-20T10:09:51.425028+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 7,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Assumption announces creation of the Larry Lucchino Institute for the Study of Sports",
+      "description": "A new institute named after the former Red Sox president aims to inspire students to improve the greater community that extends beyond sports.",
+      "url": "https://www.bostonglobe.com/2026/10/20/sports/larry-lucchino-assumption-university/",
+      "published": "2026-10-20T10:00:00+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Building the Rays: 10 moves that made Tampa Bay the best team in the AL",
+      "description": "Here's how the Rays assembled a dynamic, balanced roster despite ranking 28th in the majors in payroll.",
+      "url": "https://www.nytimes.com/athletic/7705393/2026/10/20/tampa-bay-rays-mlb-world-series-roster/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Rays fulfill World Series expectations on a night fans fill the seats: 'They deserve that'",
+      "description": "Yandy Diaz promised a Game 6 win. He backed it up with a big home run to help propel the Rays to the American League pennant.",
+      "url": "https://www.nytimes.com/athletic/7703374/2026/10/20/rays-game-6-mlb-playoffs/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Phillies 2027 outfield outlook: Free-agent options, prospect forecast, and more",
+      "description": "The outfield is in an all-too-familiar spot for the Phillies with the need for a reliable, everyday corner outfielder.",
+      "url": "https://www.inquirer.com/phillies/outfield-free-agents-trades-prospects-2027-preview-20261020.html",
+      "published": "2026-10-20T09:01:01+00:00",
+      "source": "Inquirer",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "teamAbbreviation": "PHI",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Brewers-Rays World Series preview: Small-market standard-bearers vie for first championship",
+      "description": "For only the second time in the last hundred years, both World Series participants will be seeking the first title in franchise history.",
+      "url": "https://www.nytimes.com/athletic/7706469/2026/10/20/world-series-brewers-rays-predictions-questions-facts/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Rays clinch pennant with unlikely hero ‘Fastball Freddy’ leading the way",
+      "description": "Peralta, a trade-deadline acquisition who is paying dividends, is the 2026 AL Championship Series MVP.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/20/freddy-peralta-alcs-mvp-mets-trade-guardians/",
+      "published": "2026-10-20T06:06:18.616000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Rays win Game 6 to clinch AL pennant, will meet Brewers in World Series",
       "description": "Junior Caminero and Yandy Díaz each homered for the Rays, while Freddy Peralta threw 5 1/3 strong innings in the victory.",
@@ -55,6 +127,42 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays, composed and commanding in Game 6, are World Series-bound",
+      "description": "With their Game 6 win, the Tampa Bay Rays advance to meet the Milwaukee Brewers in the World Series.",
+      "url": "https://www.nytimes.com/athletic/7703360/2026/10/19/rays-guardians-game-6-score-results-takeaways-mlb-alcs-2026/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "The story behind the Brewers’ ball-in-glove logo and its hidden double meaning",
+      "description": "Originally designed in 1977, the logo debuted in 1978, was abandoned in 1993, reappeared in 2006 and returned as the primary logo in 2020.",
+      "url": "https://www.nytimes.com/athletic/7694335/2026/10/20/milwaukee-brewers-ball-in-glove-logo/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Four free agents the Cubs should target to fix their pitching",
+      "description": "Although this upcoming class of free agents is viewed as subpar, four names stand out while assessing the Cubs’ biggest weakness.",
+      "url": "https://www.nytimes.com/athletic/7705123/2026/10/20/cubs-pitching-free-agents-skubal-peralta-2026/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "BJ Upton likes what he sees from current Rays and the excitement",
@@ -115,78 +223,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees to keep Aaron Boone as manager in 2027: Source",
-      "description": "Boone has a 790-565 (.583) regular-season record and a 27-30 (.474) postseason mark over nine years as Yankees manager.",
-      "url": "https://www.nytimes.com/athletic/7675201/2026/10/19/aaron-boone-yankees-manager-return/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees make their Aaron Boone decision after latest playoff letdown",
-      "description": "",
-      "url": "https://nypost.com/2026/10/19/sports/aaron-boone-gets-another-chance-to-get-yankees-over-the-hump/",
-      "published": "2026-10-19T21:58:24+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Padres’ Alex McCoy showing off loud tools in Arizona Fall League",
-      "description": "Take, for instance, Alex McCoy. The 6-foot-5, 260-pound outfielder not only has two home runs through his eight first games in the Arizona Fall Legue, a 118.2 mph blast on Thursday registered as the ...",
-      "url": "https://www.sandiegouniontribune.com/2026/10/19/padres-alex-mccoy-showing-off-loud-tools-in-arizona-fall-league/",
-      "published": "2026-10-19T21:54:35+00:00",
-      "source": "Union-Tribune",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "teamAbbreviation": "SD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "10 things to know about the Tampa Bay Rays, Brewers' World Series foe",
-      "description": "The Milwaukee Brewers know their foe in the 2026 World Series; it's the Tampa Bay Rays, who beat Cleveland in the ALCS and will face the Brewers on Friday.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/19/ten-facts-tampa-bay-rays-2026-world-series/92327088007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays, composed and commanding in Game 6, are World Series-bound",
-      "description": "The Rays move on to play the Brewers in the World Series, which begins on Friday in Milwaukee. It’s a matchup of baseball’s two smallest markets on the sport’s biggest stage. The Rays, who win year in ...",
-      "url": "https://www.nytimes.com/athletic/7703360/2026/10/19/rays-guardians-game-6-score-results-takeaways-mlb-alcs-2026/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Jared Banner leaves Chicago Cubs to be general manager of Baltimore Orioles",
-      "description": "The Baltimore Orioles have hired Jared Banner as general manager. He was the assistant GM of the Chicago Cubs, taking on that role in 2024.",
-      "url": "https://www.chicagotribune.com/2026/10/19/jared-banner-orioles-general-manager/",
-      "published": "2026-10-19T17:34:19+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "publisher"
     }
   ]
 }
