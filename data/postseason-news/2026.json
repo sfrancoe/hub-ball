@@ -1,13 +1,85 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-19T23:57:55.518798+00:00",
+  "generatedAt": "2026-10-20T05:00:11.595476+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 7,
   "articles": [
+    {
+      "title": "Rays win Game 6 to clinch AL pennant, will meet Brewers in World Series",
+      "description": "Junior Caminero and Yandy Díaz each homered for the Rays, while Freddy Peralta threw 5 1/3 strong innings in the victory.",
+      "url": "https://www.bostonglobe.com/2026/10/19/sports/rays-guardians-alcs-game-6-score/",
+      "published": "2026-10-20T04:15:35.200000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "World Series odds: Brewers open as favorites against Rays",
+      "description": "The Brewers and Rays meet in a World Series between teams that have never won it. Milwaukee opens as the favorite to take it home.",
+      "url": "https://www.nytimes.com/athletic/7706465/2026/10/19/world-series-odds-brewers-rays/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Rays, Brewers to meet in World Series: Game times, key players and more",
+      "description": "Major League Baseball is set to crown its first new champion since 2023. The World Series begins with Game 1 on Friday.",
+      "url": "https://www.nytimes.com/athletic/7703794/2026/10/19/rays-brewers-world-series-preview/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Rays headed to World Series against Brewers after ousting Guardians",
+      "description": "Yandy Diaz helps make his prediction of a Game 6 win come true with help from Freddy Peralta, Junior Caminero and Richie Palacios.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/19/alcs-game-6-world-series-yandy-diaz-freddy-peralta-junior-caminero-richie-palacios-guardians/",
+      "published": "2026-10-20T03:11:03.062000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "BJ Upton likes what he sees from current Rays and the excitement",
+      "description": "Notes | Regarding Tampa Bay speedster Chandler Simpson, Upton says a race in their prime “would be a good one.”",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/19/bj-upton-chandler-simpson-yandy-diaz-abs-tropicana-field-tyler-wells-taylor-smith/",
+      "published": "2026-10-20T02:01:29.527000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees made the safe, predictable call in the specter of uncertainty",
+      "description": "",
+      "url": "https://nypost.com/2026/10/19/sports/aaron-boones-yankees-return-was-a-safe-call-in-the-specter-or-uncertainty/",
+      "published": "2026-10-20T01:02:27+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Red Sox lose key executive to another club for the second year in a row",
       "description": "The Athletics hired Taylor Smith as president of baseball operations, subtracting another assistant general manager from Craig Breslow’s front office.",
@@ -81,6 +153,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "10 things to know about the Tampa Bay Rays, Brewers' World Series foe",
+      "description": "The Milwaukee Brewers know their foe in the 2026 World Series; it's the Tampa Bay Rays, who beat Cleveland in the ALCS and will face the Brewers on Friday.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/19/ten-facts-tampa-bay-rays-2026-world-series/92327088007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Rays, composed and commanding in Game 6, are World Series-bound",
+      "description": "The Rays move on to play the Brewers in the World Series, which begins on Friday in Milwaukee. It’s a matchup of baseball’s two smallest markets on the sport’s biggest stage. The Rays, who win year in ...",
+      "url": "https://www.nytimes.com/athletic/7703360/2026/10/19/rays-guardians-game-6-score-results-takeaways-mlb-alcs-2026/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Jared Banner leaves Chicago Cubs to be general manager of Baltimore Orioles",
       "description": "The Baltimore Orioles have hired Jared Banner as general manager. He was the assistant GM of the Chicago Cubs, taking on that role in 2024.",
       "url": "https://www.chicagotribune.com/2026/10/19/jared-banner-orioles-general-manager/",
@@ -91,114 +187,6 @@
       "teamAbbreviation": "CHC",
       "league": "NL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "All eyes on him Japanese slugger who could be Yankees, Mets target to be posted early in free agency intrigue",
-      "description": "",
-      "url": "https://nypost.com/2026/10/19/sports/japanese-star-teruaki-sato-gets-posted-early-in-mlb-intrigue/",
-      "published": "2026-10-19T16:35:06+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Caleb Durbin views his 2026 campaign as a promising building block, and other Red Sox thoughts",
-      "description": "Durbin struggled mightily to begin the campaign, but emerged as a key contributor down the stretch for the Red Sox.",
-      "url": "https://www.bostonglobe.com/2026/10/19/sports/caleb-durbin-2026-season/",
-      "published": "2026-10-19T16:04:02.786000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Bud Selig overjoyed at Brewers' return to World Series | 'This is legendary'",
-      "description": "Bud Selig, MLB's commissioner emeritus and the man who brought the Brewers to Milwaukee, is overjoyed the team is headed back to the World Series.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/19/bud-selig-overjoyed-about-brewers-return-to-world-series/92333935007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Red Sox assistant GM hired as Athletics president of baseball operations",
-      "description": "The Athletics announced Monday that they’ve hired a young Red Sox assistant general manager as their new president of baseball operations.",
-      "url": "https://www.bostonherald.com/2026/10/19/red-sox-assistant-gm-hired-as-athletics-president-of-baseball-operations/",
-      "published": "2026-10-19T15:28:52+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox lose assistant GM to Athletics",
-      "description": "The Athletics have poached one of the Red Sox’ top executives to run their baseball operations department.",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-lose-assistant-gm-to-athletics.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "A's hire Red Sox executive, stats guru Taylor Smith as head of baseball operations",
-      "description": "Smith is set to replace David Forst, who was dismissed by the A’s in August.",
-      "url": "https://www.nytimes.com/athletic/7699714/2026/10/19/athletics-hire-taylor-smith-head-of-baseball-red-sox-mlb/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The Cleveland Guardians are running out of arms … and time",
-      "description": "Cleveland is right back where it was in the Division Series, needing two wins in two games with no room for slippage.",
-      "url": "https://www.nytimes.com/athletic/7703517/2026/10/19/cleveland-guardians-bullpen-pitching/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Guardians vs. Rays live updates: MLB playoffs ALCS Game 6 start time, predictions and latest",
-      "description": "Propelled by strong pitching and timely hitting, the Rays squeaked out a 3-1 win over the Guardians Sunday evening to gain a 3-2 series lead. With a win today. Tampa Bay would advance to the World ...",
-      "url": "https://www.nytimes.com/athletic/live-blogs/guardians-vs-rays-live-updates-mlb-playoffs-game-6-score-result/vTJRVqOY5yh4/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Guardians vs. Rays ALCS Game 6 Live Updates: Can Cleveland force Game 7?",
-      "description": "The Guardians face elimination in Game 6 of the ALCS, needing a win at Tropicana Field to force a Game 7 against the Rays, with a taxed bullpen and struggling offense.",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-rays-alcs-game-6-live-updates-can-cleveland-force-game-7.html",
-      "published": "",
-      "source": "Cleveland.com",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
