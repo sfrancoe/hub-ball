@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-20T19:21:49.783722+00:00",
+  "generatedAt": "2026-10-20T22:43:51.139367+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Rays say winning ALCS at rocking Trop made things even more special",
+      "description": "Notes | Monday was just the second time in 18 playoff rounds the Rays clinched a series at home in front of their fans.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/20/alcs-tropicana-field-world-series-yandy-diaz-shane-mcclanahan-richie-palacios-wander-franco/",
+      "published": "2026-10-20T22:10:37.796000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays from previous World Series teams see similarities, reasons to cheer",
+      "description": "The Rays reached the final series in 2008 and 2020 but both times fell short of their ultimate goal.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/20/world-series-evan-longoria-carlos-pena-jason-bartlett-joe-maddon-scott-kazmir/",
+      "published": "2026-10-20T21:27:08.628000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Assumption announces creation of the Larry Lucchino Institute for the Study of Sports",
+      "description": "A new institute named after the former Red Sox president aims to inspire students to improve the greater community that extends beyond sports.",
+      "url": "https://www.bostonglobe.com/2026/10/20/sports/larry-lucchino-assumption-university/",
+      "published": "2026-10-20T20:56:29.203000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "How the Yankees could handle the qualifying offer this offseason",
       "description": "The Yankees have two theoretical candidates for the qualifying offer: closer David Bednar and second...",
@@ -45,15 +81,15 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Houston's Colt Stadium finally gets its historical marker with heat, mosquitoes and all",
-      "description": "Colt Stadium, which is where the Colt .45s played for three seasons while the Astrodome was being built, was known for extreme heat and giant mosquitoes. Now, all that goes into history.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/colt-45s-stadium-houston-texas-historical-marker-22484732.php",
+      "title": "Giannis Antetokounmpo addresses Brewers World Series berth: 'It's incredible.'",
+      "description": "Milwaukee Brewers part-owner and former Bucks star Giannis Antetokounmpo weighed in on the team reaching the World Series.",
+      "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/10/20/giannis-antetokounmpo-on-milwaukee-brewers-world-series-incredible/92349918007/",
       "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -69,16 +105,28 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Assumption announces creation of the Larry Lucchino Institute for the Study of Sports",
-      "description": "A new institute named after the former Red Sox president aims to inspire students to improve the greater community that extends beyond sports.",
-      "url": "https://www.bostonglobe.com/2026/10/20/sports/larry-lucchino-assumption-university/",
-      "published": "2026-10-20T11:28:00.600000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
+      "title": "Astros could name new general manager before end of World Series: Sources",
+      "description": "Matt Kleine, Josh Barfield and Randy Flores are among the candidates who are in the running to replace Dana Brown.",
+      "url": "https://www.nytimes.com/athletic/7708292/2026/10/20/astros-general-manager-candidates/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
       "league": "AL",
-      "publishedSource": "publisher"
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers’ Brandon Woodruff wants World Series return, but rules may get in the way",
+      "description": "Woodruff is aiming to return from a shoulder injury, but it’s unclear whether that will work out for him and Milwaukee.",
+      "url": "https://www.nytimes.com/athletic/7708471/2026/10/20/brewers-brandon-woodruff-world-series-return/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Yankees' 2027 payroll breakdown: What to expect as New York prepares for offseason moves",
@@ -90,114 +138,6 @@
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
       "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "$2,700 for Game 1? World Series tickets remain costly in Milwaukee",
-      "description": "With the matchup against the Tampa Bay Rays set, World Series tickets remain more expensive for games in Milwaukee.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/2026-world-series-ticket-prices-for-brewers-vs-rays-by-game/92344722007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Red Sox shortstop conundrum: What will Boston do with Trevor Story, Franklin Arias?",
-      "description": "The Athletic's Keith Law ranked Arias as the No. 4 prospect in baseball in his most recent top-70 list.",
-      "url": "https://www.nytimes.com/athletic/7705551/2026/10/20/red-sox-shortstop-decision-trevor-story-franklin-arias/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The story behind the Brewers’ ball-in-glove logo and its hidden double meaning",
-      "description": "Originally designed in 1977, the logo debuted in 1978, was abandoned in 1993, reappeared in 2006 and returned as the primary logo in 2020.",
-      "url": "https://www.nytimes.com/athletic/7694335/2026/10/20/milwaukee-brewers-ball-in-glove-logo/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Building the Rays: 10 moves that made Tampa Bay the best team in the AL",
-      "description": "Here's how the Rays assembled a dynamic, balanced roster despite ranking 28th in the majors in payroll.",
-      "url": "https://www.nytimes.com/athletic/7705393/2026/10/20/tampa-bay-rays-mlb-world-series-roster/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Can't get a ticket? Where to find World Series watch parties in Milwaukee",
-      "description": "With the World Series just days away, Brewers fans have more than a few choices for watch parties in Milwaukee.",
-      "url": "https://www.jsonline.com/story/news/local/milwaukee/2026/10/20/brewers-world-series-watch-parties-in-milwaukee-where-to-go/92343592007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays fulfill World Series expectations on a night fans fill the seats: 'They deserve that'",
-      "description": "Yandy Diaz promised a Game 6 win. He backed it up with a big home run to help propel the Rays to the American League pennant.",
-      "url": "https://www.nytimes.com/athletic/7703374/2026/10/20/rays-game-6-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers-Rays World Series preview: Small-market standard-bearers vie for first championship",
-      "description": "For only the second time in the last hundred years, both World Series participants will be seeking the first title in franchise history.",
-      "url": "https://www.nytimes.com/athletic/7706469/2026/10/20/world-series-brewers-rays-predictions-questions-facts/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers World Series watch parties set for Milwaukee's Third Ward",
-      "description": "A Brewers World Series block party will take over Milwaukee's Third Ward during Games 1 and 2 on Friday and Saturday.",
-      "url": "https://www.jsonline.com/story/news/local/milwaukee/2026/10/20/milwaukees-third-ward-will-host-brewers-world-series-watch-parties/92343262007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Loading: A first-time World Series champion. Plus: How the Brewers got their logo",
-      "description": "The last time we had a first-time winner was, of course, 2023, when the Rangers (first year: 1972, unless you count the 11 years they spent as the Washington Senators, where they — surprise — did not ...",
-      "url": "https://www.nytimes.com/athletic/7707689/2026/10/20/rays-brewers-first-time-world-series-champion-the-windup/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
       "publishedSource": "unverified"
     }
   ]
