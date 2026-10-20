@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Peralta, a trade-deadline acquisition who is paying dividends, is the 2026 AL Championship Series MVP.",
+      "published": "2026-10-20T06:06:18+00:00",
+      "title": "Rays clinch pennant with unlikely hero ‘Fastball Freddy’ leading the way",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/20/freddy-peralta-alcs-mvp-mets-trade-guardians/"
+    },
+    {
+      "category": "Rays",
+      "description": "Yandy Diaz helps make his prediction of a Game 6 win come true with help from Freddy Peralta, Junior Caminero and Richie Palacios.",
+      "published": "2026-10-20T03:11:03+00:00",
+      "title": "Rays headed to World Series against Brewers after ousting Guardians",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/19/alcs-game-6-world-series-yandy-diaz-freddy-peralta-junior-caminero-richie-palacios-guardians/"
+    },
+    {
+      "category": "Rays",
+      "description": "Notes | Regarding Tampa Bay speedster Chandler Simpson, Upton says a race in their prime “would be a good one.”",
+      "published": "2026-10-20T02:01:29+00:00",
+      "title": "BJ Upton likes what he sees from current Rays and the excitement",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/19/bj-upton-chandler-simpson-yandy-diaz-abs-tropicana-field-tyler-wells-taylor-smith/"
+    },
+    {
+      "category": "Rays",
       "description": "Notes | Freddy Peralta has been pitching well, is comfortable at Tropicana Field and can draw on plenty of postseason experience.",
       "published": "2026-10-19T03:28:43+00:00",
       "title": "Rays excited to start ‘Fastball Freddy’ with World Series berth on line",
@@ -90,30 +111,9 @@
       "published": "2026-10-14T23:43:01+00:00",
       "title": "Rays’ Chandler Simpson makes another amazing dash to Gold Glove finalist",
       "url": "https://www.tampabay.com/sports/rays/2026/10/14/chandler-simpson-gold-glove-finalist-taylor-walls/"
-    },
-    {
-      "category": "Rays",
-      "description": "The game, originally scheduled to start at 6 p.m. on Thursday, has been moved up to 1 due to forecast rain in Cleveland.",
-      "published": "2026-10-14T17:12:37+00:00",
-      "title": "Start time for ALCS Game 3 between Rays and Guardians is moved up",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/14/alcs-game-3-start-moved-up-forecast-rain-cleveland-guardians/"
-    },
-    {
-      "category": "Rays",
-      "description": "Tampa Mayor Jane Castor says a groundbreaking on the stadium is “imminent,” with team leaders promising completion by 2029.",
-      "published": "2026-10-14T10:00:01+00:00",
-      "title": "Rays face tight stadium construction timeline. Are they on pace?",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/14/tampa-bay-rays-stadium-construction-timeline-open/"
-    },
-    {
-      "category": "Rays",
-      "description": "Jose Ramirez’s error in the fourth inning proves costly for Cleveland vs. the Rays.",
-      "published": "2026-10-14T04:36:03+00:00",
-      "title": "Plant City’s Parker Messick doesn’t allow an earned run, but takes Game 2 loss",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/14/parker-messick-jose-ramirez-error-game-2-alcs/"
     }
   ],
-  "generated_at": "2026-10-20T01:43:22.793413+00:00",
+  "generated_at": "2026-10-20T06:39:34.118788+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

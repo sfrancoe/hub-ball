@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Brewers and Rays meet in a World Series between teams that have never won it. Milwaukee opens as the favorite to take it home.",
+      "published": "2026-10-20T03:38:21+00:00",
+      "title": "World Series odds: Brewers open as favorites against Rays",
+      "url": "https://www.nytimes.com/athletic/7706465/2026/10/19/world-series-odds-brewers-rays/"
+    },
+    {
+      "category": "Rays",
+      "description": "Major League Baseball is set to crown its first new champion since 2023. The World Series begins with Game 1 on Friday.",
+      "published": "2026-10-20T03:15:26+00:00",
+      "title": "Rays, Brewers to meet in World Series: Game times, key players and more",
+      "url": "https://www.nytimes.com/athletic/7703794/2026/10/19/rays-brewers-world-series-preview/"
+    },
+    {
+      "category": "Rays",
+      "description": "With their Game 6 win, the Tampa Bay Rays advance to meet the Milwaukee Brewers in the World Series.",
+      "published": "2026-10-20T03:08:31+00:00",
+      "title": "Rays, composed and commanding in Game 6, are World Series-bound",
+      "url": "https://www.nytimes.com/athletic/7703360/2026/10/19/rays-guardians-game-6-score-results-takeaways-mlb-alcs-2026/"
+    },
+    {
+      "category": "Rays",
       "description": "The Cubs are bringing on longtime scout Steve Miller, who helped small-market Tampa Bay regularly outperform expectations.",
       "published": "2026-10-19T22:19:40+00:00",
       "title": "Cubs adding Rays official to international scouting as front office reshuffles",
@@ -118,30 +139,9 @@
       "published": "2026-10-14T10:00:28+00:00",
       "title": "The Rays can’t fill the Trop in the ALCS. Fans point to ticket prices",
       "url": "https://www.nytimes.com/athletic/7688793/2026/10/14/tampa-bay-rays-alcs-ticket-prices-tropicana-field/"
-    },
-    {
-      "category": "Rays",
-      "description": "Ferg’s, a popular St. Petersburg sports bar built to herald the arrival of the Tampa Bay Rays, now must face a future without the team.",
-      "published": "2026-10-14T09:30:42+00:00",
-      "title": "For 30 years, Ferg’s grew with the Tampa Bay Rays. Now the team may leave the bar behind",
-      "url": "https://www.nytimes.com/athletic/7688023/2026/10/14/tampa-bay-rays-fergs-bar-playoffs-relocation/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Rays knotted the ALCS at a game apiece Tuesday night because they did things their way.",
-      "published": "2026-10-14T09:30:00+00:00",
-      "title": "Freddy Peralta, Junior Caminero and the Game 2 scenes that capture Rays' winning ways",
-      "url": "https://www.nytimes.com/athletic/7686869/2026/10/14/junior-caminero-freddy-peralta-rays-win-alcs-game-2-mlb-playoffs/"
-    },
-    {
-      "category": "Rays",
-      "description": "Freddy Peralta delivered a dominant outing for Tampa Bay on Tuesday, and the fourth inning played out in typical Rays fashion.",
-      "published": "2026-10-14T03:00:59+00:00",
-      "title": "Rays capitalize on Guardians' defensive blunders, top Cleveland in Game 2 to even ALCS",
-      "url": "https://www.nytimes.com/athletic/7686878/2026/10/13/rays-guardians-game-2-score-results-takeaways-mlb-alcs-2026/"
     }
   ],
-  "generated_at": "2026-10-19T23:03:09.998496+00:00",
+  "generated_at": "2026-10-20T06:39:34.741809+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

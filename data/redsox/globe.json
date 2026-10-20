@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Rays 7, Brewers 3",
+      "description": "Junior Caminero and Yandy Díaz each homered for the Rays, while Freddy Peralta threw 5 1/3 strong innings in the victory.",
+      "published": "2026-10-20T03:13:27.407Z",
+      "title": "Rays win Game 6 to clinch AL pennant, will meet Brewers in World Series",
+      "url": "https://www.bostonglobe.com/2026/10/19/sports/rays-guardians-alcs-game-6-score/"
+    },
+    {
       "category": "Red Sox",
       "description": "Durbin struggled mightily to begin the campaign, but emerged as a key contributor down the stretch for the Red Sox.",
       "published": "2026-10-19T16:02:35.22Z",
@@ -104,16 +111,9 @@
       "published": "2026-10-13T03:44:26.257Z",
       "title": "Chase DeLauter, José Ramírez lead Guardians over Rays in ALCS opener",
       "url": "https://www.bostonglobe.com/2026/10/12/sports/baseball-alcs-game-1-guardians-rays-score/"
-    },
-    {
-      "category": "BREWERS 7, DODGERS 4",
-      "description": "Contreras hit a tying homer in the fifth and singled home the go-ahead run an inning later, while four Milwaukee relievers retired the last 15 LA batters in order.",
-      "published": "2026-10-13T00:53:17.632Z",
-      "title": "William Contreras delivers, bullpen shines again as Brewers top Dodgers to take 2-0 NLCS lead",
-      "url": "https://www.bostonglobe.com/2026/10/12/sports/baseball-nlcs-game-2-brewers-dodgers-score-william-contreras/"
     }
   ],
-  "generated_at": "2026-10-19T19:34:01.152514+00:00",
+  "generated_at": "2026-10-20T06:39:23.989716+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
