@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:20:22.361103+00:00",
+  "generated_at": "2026-10-20T17:32:23.010759+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -27,7 +27,7 @@
           "is_national": true,
           "home_away": "away",
           "availability": "national",
-          "available_for_streaming": true
+          "available_for_streaming": false
         },
         {
           "name": "FOX / FOX ONE",
