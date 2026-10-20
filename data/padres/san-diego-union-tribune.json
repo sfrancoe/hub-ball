@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Padres",
-      "description": "As far as the Padres’ catching room is concerned, the lay of the land has changed drastically in the last six months.",
-      "published": "2026-10-16T14:50:00+00:00",
-      "title": "Ethan Salas arrived in 2026, but nothing is guaranteed for Padres catchers next year",
-      "url": "https://www.sandiegouniontribune.com/2026/10/16/ethan-salas-arrived-in-2026-but-nothing-is-guaranteed-for-padres-catchers-next-year/"
-    },
-    {
-      "category": "Padres",
       "description": "There is no arguing the Padres have been one of Major League Baseball’s biggest successes by virtually every measure — except one.",
       "published": "2026-10-14T17:04:00+00:00",
       "title": "A.J. Preller, Craig Stammen know Padres have to get better to accomplish goal",
       "url": "https://www.sandiegouniontribune.com/2026/10/14/a-j-preller-craig-stammen-know-padres-have-to-get-better-to-accomplish-goal/"
+    },
+    {
+      "category": "Padres",
+      "description": "As far as the Padres’ catching room is concerned, the lay of the land has changed drastically in the last six months.",
+      "published": "2026-10-16T14:50:00+00:00",
+      "title": "Ethan Salas arrived in 2026, but nothing is guaranteed for Padres catchers next year",
+      "url": "https://www.sandiegouniontribune.com/2026/10/16/ethan-salas-arrived-in-2026-but-nothing-is-guaranteed-for-padres-catchers-next-year/"
     },
     {
       "category": "Padres",
@@ -58,13 +58,6 @@
     },
     {
       "category": "Padres",
-      "description": "The Padres are down 2-0 to the Brewers in National League Division Series, which continues Tuesday at Petco Park ...",
-      "published": "2026-10-05T10:38:00+00:00",
-      "title": "Padres’ approach as they face elimination is direct: ‘Bounce back. No other way.’",
-      "url": "https://www.sandiegouniontribune.com/2026/10/05/for-the-padres-its-bounce-back-no-other-way/"
-    },
-    {
-      "category": "Padres",
       "description": "A 3-1 loss in Game 4 of the National League Division Series on Wednesday night at Petco Park ended the Padres’ season, as their offense struggled to the finish and a parade of pitchers were unable to ...",
       "published": "2026-10-07T10:03:00+00:00",
       "title": "Padres fall to Brewers in National League Division Series, ending their season",
@@ -72,13 +65,13 @@
     },
     {
       "category": "Padres",
-      "description": "The elder Ashby was an undrafted free agent who ultimately carved out a 14-year career in the majors. His nephew was drafted in the fourth round in 2018 out of Crowder College, developed into one of ...",
-      "published": "2026-10-06T20:32:00+00:00",
-      "title": "Padres notes: Aaron Ashby thinks he knows Uncle Andy’s allegiances; a tough series for Luis Rengifo to watch",
-      "url": "https://www.sandiegouniontribune.com/2026/10/06/padres-notes-aaron-ashby-confident-in-uncles-allegiances-a-tough-series-for-for-luis-rengifo-to-watch/"
+      "description": "The Padres are down 2-0 to the Brewers in National League Division Series, which continues Tuesday at Petco Park ...",
+      "published": "2026-10-05T10:38:00+00:00",
+      "title": "Padres’ approach as they face elimination is direct: ‘Bounce back. No other way.’",
+      "url": "https://www.sandiegouniontribune.com/2026/10/05/for-the-padres-its-bounce-back-no-other-way/"
     }
   ],
-  "generated_at": "2026-10-19T23:03:24.114286+00:00",
+  "generated_at": "2026-10-20T01:43:33.473099+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }
