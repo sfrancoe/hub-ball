@@ -16,13 +16,6 @@
     },
     {
       "category": "Guardians",
-      "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
-      "published": "2026-10-17T20:55:00+00:00",
-      "title": "How Tampa Bay Rays earned emphatic Game 4 win over Guardians in Cleveland to tie ALCS",
-      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/"
-    },
-    {
-      "category": "Guardians",
       "description": "CLEVELAND — The Tampa Bay Rays are on the cusp of the World Series. In 24 hours, they flipped an American League Championship Series deficit, winning two games to get within one victory of the Fall ...",
       "published": "2026-10-18T05:30:00+00:00",
       "title": "Rays cruise in Game 5, push Guardians to the brink in ALCS. Can Cleveland recover?",
@@ -30,10 +23,24 @@
     },
     {
       "category": "Guardians",
+      "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
+      "published": "2026-10-17T20:55:00+00:00",
+      "title": "How Tampa Bay Rays earned emphatic Game 4 win over Guardians in Cleveland to tie ALCS",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/"
+    },
+    {
+      "category": "Guardians",
       "description": "Overall, Williams has pitched 11 2/3 innings for Cleveland this October, tallying a tidy 1.54 ERA with 24 strikeouts and just two runs allowed. It will be interesting to monitor how his ability to ...",
       "published": "2026-10-15T13:40:00+00:00",
       "title": "Cleveland beats Tampa Bay thanks to Petey Halpin clutch homer in MLB playoffs ALCS Game 3: Rays vs. Guardians live updates, reaction",
       "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-mlb-playoffs-game-3-score-result/n2xcBsufwYxd/"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Cleveland Guardians left themselves susceptible to hand-wringing, to first-guessing, second-guessing and third-guessing about pitching strategies, about their refusal to call upon Tanner Bibee, ...",
+      "published": "2026-10-21T03:00:00+00:00",
+      "title": "The pitching plan and offensive disappearance that led to the Guardians’ ALCS demise",
+      "url": "https://www.nytimes.com/athletic/7708247/2026/10/21/guardians-alcs-pitching-batting-analysis/"
     },
     {
       "category": "Guardians",
@@ -58,13 +65,6 @@
     },
     {
       "category": "Guardians",
-      "description": "Somehow, two small-market teams are playing in the World Series and the Guardians aren’t one of them. A long, cold winter awaits.",
-      "published": "2026-10-20T03:30:00+00:00",
-      "title": "Hugs, tears and missed chances: Scenes from a crushed Guardians clubhouse",
-      "url": "https://www.nytimes.com/athletic/7706821/2026/10/20/guardians-missed-chances-alcs-loss-rays-game-6/"
-    },
-    {
-      "category": "Guardians",
       "description": "After a 7-3 loss to the Rays on Saturday night, the Guardians are set to give the ball to Parker Messick and a rested bullpen on Sunday.",
       "published": "2026-10-18T05:31:00+00:00",
       "title": "The Guardians took their licks in Game 4. They feel better heading into Game 5",
@@ -72,20 +72,20 @@
     },
     {
       "category": "Guardians",
+      "description": "Somehow, two small-market teams are playing in the World Series and the Guardians aren’t one of them. A long, cold winter awaits.",
+      "published": "2026-10-20T03:30:00+00:00",
+      "title": "Hugs, tears and missed chances: Scenes from a crushed Guardians clubhouse",
+      "url": "https://www.nytimes.com/athletic/7706821/2026/10/20/guardians-missed-chances-alcs-loss-rays-game-6/"
+    },
+    {
+      "category": "Guardians",
       "description": "Will the Rays’ lineup perk up? And does Cleveland have any pitchers left? Here's what you need to know ahead of the ALCS.",
       "published": "2026-10-12T02:20:00+00:00",
       "title": "Guardians-Rays ALCS preview: Cleveland and Tampa Bay, two frugal contenders, face off",
       "url": "https://www.nytimes.com/athletic/7677899/2026/10/12/guardians-rays-mlb-playoffs-alcs-preview/"
-    },
-    {
-      "category": "Guardians",
-      "description": "When Friday’s ALCS game was postponed, fans who had tickets for Saturday’s Game 5 suddenly had tickets for Game 4 instead.",
-      "published": "2026-10-18T05:37:00+00:00",
-      "title": "Guardians fans bought tickets for a potential pennant clincher. Rain spoiled their plans",
-      "url": "https://www.nytimes.com/athletic/7699552/2026/10/18/guardians-fans-rainout-ticket-policy-alcs/"
     }
   ],
-  "generated_at": "2026-10-21T01:46:10.504363+00:00",
+  "generated_at": "2026-10-21T12:21:09.404190+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

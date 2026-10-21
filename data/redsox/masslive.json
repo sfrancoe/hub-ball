@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox have some upcoming roster decisions to make with prospects.",
+      "published": "2026-10-21T10:09:47+00:00",
+      "title": "Red Sox roster decisions with prospects coming; reliever suffered stress fracture",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-decisions-with-prospects-coming-reliever-suffered-stress-fracture.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "What questions do you have for Sean McAdam this week? Drop them in the comments or send an email to fenwayinsider@masslive.com",
+      "published": "2026-10-21T09:00:00+00:00",
+      "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
+      "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-submit-questions-for-masslives-sean-mcadam.html-3"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox led the majors in bullpen ERA n 2026 and all their key relievers are under control for 2027. That means a big-ticket bullpen addition isn't likely this winter.",
       "published": "2026-10-20T22:58:36+00:00",
       "title": "Why the Red Sox won't be big spenders on relief pitching this winter",
@@ -69,30 +83,9 @@
       "published": "2026-10-14T13:10:40+00:00",
       "title": "Red Sox Grades: Chapman and Whitlock were elite. The rest of the bullpen wasn’t always",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-grades-aroldis-chapman-and-garrett-whitlock-were-elite-the-rest-of-the-bullpen-wasnt-always.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Who would you give an A after the 2026 season?",
-      "published": "2026-10-14T12:13:04+00:00",
-      "title": "What grade did we give each member of the Boston Red Sox' pitching staff?",
-      "url": "https://www.masslive.com/redsox/2026/10/grading-the-boston-red-sox-2026-pitching-staff-the-fenway-rundown.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Do the Red Sox have enough talent left in their farm system to trade for a slugger who can bash 30 home runs?",
-      "published": "2026-10-14T10:06:09+00:00",
-      "title": "Do Red Sox have enough left in farm system to trade for 30-home run slugger?",
-      "url": "https://www.masslive.com/redsox/2026/10/do-red-sox-have-enough-left-in-farm-system-to-trade-for-30-home-run-slugger.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "What questions do you have for Sean McAdam this week? Drop them in the comments or send an email to fenwayinsider@masslive.com",
-      "published": "2026-10-14T09:00:00+00:00",
-      "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
-      "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-submit-questions-for-masslives-sean-mcadam.html-2"
     }
   ],
-  "generated_at": "2026-10-20T23:23:18.811277+00:00",
+  "generated_at": "2026-10-21T12:21:00.081295+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

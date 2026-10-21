@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "The Orioles became the 14th team in MLB with both a president of baseball operations and GM when they hired Jared Banner under Mike Elias.",
+      "published": "2026-10-21T03:30:00+00:00",
+      "title": "What Jared Banner’s hiring means for Mike Elias and the Orioles",
+      "url": "https://www.baltimoresun.com/2026/10/21/orioles-jared-banner-mike-elias-tandem-impact/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles are set to hire Cubs executive Jared Banner as general manager under Mike Elias, a source with direct knowledge confirmed.",
       "published": "2026-10-19T14:15:00+00:00",
       "title": "Orioles hire Cubs’ Jared Banner as general manager under Mike Elias",
@@ -55,16 +62,9 @@
       "published": "2026-10-14T12:22:00+00:00",
       "title": "WATCH: Orioles Hall of Famer Gregg Olson joins the BMore Baseball Podcast",
       "url": "https://www.baltimoresun.com/2026/10/14/watch-orioles-hall-of-famer-gregg-olson-bmore-baseball-podcast/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Layoffs and poor performance reflect poorly on David Rubenstein’s ownership of the Orioles, writes Patrick R. Lynch.",
-      "published": "2026-10-16T10:19:00+00:00",
-      "title": "Orioles owner has shown poor judgment | READER COMMENTARY",
-      "url": "https://www.baltimoresun.com/2026/10/16/orioles-rubenstein-layoffs/"
     }
   ],
-  "generated_at": "2026-10-21T01:46:08.580392+00:00",
+  "generated_at": "2026-10-21T12:21:07.886753+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
