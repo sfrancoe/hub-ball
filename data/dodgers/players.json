@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T14:41:04.337627+00:00",
+  "generated_at": "2026-10-21T14:51:04.293406+00:00",
   "roster_as_of": "October 15, 2026",
   "team": {
     "id": 119,
     "name": "Los Angeles Dodgers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 46,
+  "player_count": 45,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -2296,85 +2296,6 @@
           "complete_games": 0,
           "era": 3.36,
           "whip": 1.131
-        }
-      }
-    },
-    {
-      "id": 500743,
-      "mlb_id": 500743,
-      "wikidata_id": "Q17183664",
-      "slug": "miguel-rojas",
-      "name": "Miguel Rojas",
-      "full_name": "Miguel Rojas",
-      "number": "72",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1989-02-24",
-      "age": 37,
-      "birthplace": "Los Teques",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 6, 2014",
-      "debut_team": "Los Angeles Dodgers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Los Angeles Dodgers",
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q17183664",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Miguel_Rojas_%28baseball%29",
-      "retrosheet_id": "rojam002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 1297,
-          "plate_appearances": 4159,
-          "at_bats": 3801,
-          "runs": 434,
-          "hits": 988,
-          "doubles": 194,
-          "triples": 11,
-          "home_runs": 57,
-          "runs_batted_in": 363,
-          "walks": 267,
-          "strikeouts": 515,
-          "stolen_bases": 67,
-          "caught_stealing": 23,
-          "average": 0.26,
-          "on_base_percentage": 0.314,
-          "slugging_percentage": 0.362,
-          "ops": 0.676
-        },
-        "pitching": {
-          "games": 8,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 27,
-          "hits": 15,
-          "runs": 9,
-          "earned_runs": 9,
-          "home_runs": 3,
-          "walks": 3,
-          "strikeouts": 0,
-          "hit_batters": 2,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 9.0,
-          "whip": 2.0
         }
       }
     },

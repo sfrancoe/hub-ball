@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:26:08.416935+00:00",
+  "generated_at": "2026-10-21T14:36:08.325107+00:00",
   "roster_as_of": "September 29, 2026",
   "team": {
     "id": 110,
@@ -1999,7 +1999,7 @@
     {
       "id": 801725,
       "mlb_id": 801725,
-      "wikidata_id": null,
+      "wikidata_id": "Q141796784",
       "slug": "luis-de-leon",
       "name": "Luis De León",
       "full_name": "Luis De León",
@@ -2027,7 +2027,7 @@
       "teams": [
         "Baltimore Orioles"
       ],
-      "source_url": null,
+      "source_url": "https://www.wikidata.org/wiki/Q141796784",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_De_Le%C3%B3n",
       "retrosheet_id": "delel002",
       "career_stats": {
