@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:43:06.576300+00:00",
+  "generated_at": "2026-10-21T04:59:50.282369+00:00",
   "source": "X",
   "source_url": "https://x.com/Marlins",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Define workhorse 🐎 https://t.co/TIuHYbXRXl",
       "url": "https://x.com/Marlins/status/2112301131145593171",
       "published": "2026-10-19T21:53:28+00:00",
-      "likes": 234,
+      "likes": 237,
       "author": "Miami Marlins",
       "handle": "Marlins",
       "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
@@ -18,20 +18,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2112301131145593171",
-      "text": "Define workhorse 🐎 https://t.co/TIuHYbXRXl",
-      "url": "https://x.com/Marlins/status/2112301131145593171",
-      "published": "2026-10-19T21:53:28+00:00",
-      "likes": 234,
-      "author": "Miami Marlins",
-      "handle": "Marlins",
-      "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HVBmi4uXkAE-bYF.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
