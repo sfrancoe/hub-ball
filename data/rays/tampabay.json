@@ -2,6 +2,34 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Here’s your Tropicana Field guide to Rays tickets, parking and bag rules.",
+      "published": "2026-10-21T20:33:39+00:00",
+      "title": "What’s a World Series ticket going to cost you?",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/world-series-tickets-cost-tropicana-field-rays-brewers/"
+    },
+    {
+      "category": "Rays",
+      "description": "Dick Vitale? John Cena? Tom Cruise?!? A guide to the famous faces you could see at Tropicana Field this World Series.",
+      "published": "2026-10-21T18:33:37+00:00",
+      "title": "Do the Tampa Bay Rays have any celebrity fans?",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/celebrity-rays-fans-john-cena-dick-vitale-world-series/"
+    },
+    {
+      "category": "Rays",
+      "description": "The parade twofer is emblematic of a stadium tug-of-war between the two cities.",
+      "published": "2026-10-21T18:23:23+00:00",
+      "title": "St. Pete, Tampa both planning parades if Rays win World Series",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/world-series-parade-tampa-hillsborough-river-st-petersburg/"
+    },
+    {
+      "category": "Rays",
+      "description": "The former team owner also had immense praise for the job the new ownership did in getting a deal completed for a stadium in Tampa.",
+      "published": "2026-10-21T17:59:24+00:00",
+      "title": "Stu Sternberg: Happiness, joy, ‘a longing’ as Rays head to World Series",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/stuart-sternberg-world-series-former-owner-patrick-zalupski/"
+    },
+    {
+      "category": "Rays",
       "description": "“I told him before that at-bat he’s going to hit a home run,” Shane McClanahan said. “I actually showed him where to hit it.”",
       "published": "2026-10-20T23:49:29+00:00",
       "title": "Rays’ Yandy Diaz, with help from McClanahan, makes prediction come true",
@@ -90,30 +118,9 @@
       "published": "2026-10-17T18:30:00+00:00",
       "title": "Rays’ Chandler Simpson: ‘It means a lot’ to be a role model for kids",
       "url": "https://www.tampabay.com/sports/rays/2026/10/17/chandler-simpson-role-model-alcs-omega-psi-phi-fraternity-gold-glove-finalist/"
-    },
-    {
-      "category": "Rays",
-      "description": "A Q&A yields some interesting answers about who Neander is happiest for, what led to this season’s success, what it’s like working for new owners.",
-      "published": "2026-10-17T17:30:00+00:00",
-      "title": "Rays baseball boss Erik Neander on best part of 2026 so far, future",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/17/rays-baseball-boss-erik-neander-best-part-2026-so-far-future/"
-    },
-    {
-      "category": "Rays",
-      "description": "Yandy Diaz, Jonathan Aranda and Junior Caminero going a combined 5-for-34 is a big part of Tampa Bay’s 2-1 series deficit.",
-      "published": "2026-10-17T04:34:27+00:00",
-      "title": "With ‘Big 3′ struggling, Rays need to return to a team-offense approach",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/17/junior-caminero-alcs-guardians-jonathan-aranda-yandy-diaz-chandler-simpson/"
-    },
-    {
-      "category": "Rays",
-      "description": "The game, originally scheduled for Friday, has been moved to Saturday night due to inclement weather in Cleveland.",
-      "published": "2026-10-17T01:11:15+00:00",
-      "title": "Rays-Guardians ALCS Game 4 postponed until Saturday",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/16/alcs-game-4-start-time-weather-forecast-cleveland-guardians-nick-martinez/"
     }
   ],
-  "generated_at": "2026-10-21T01:46:07.194238+00:00",
+  "generated_at": "2026-10-21T20:48:08.934246+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

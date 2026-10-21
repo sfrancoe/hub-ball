@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Steinbrenner said the Yankees are going to look at everything related to their offense, including...",
+      "published": "2026-10-21T20:01:06+00:00",
+      "title": "Hal Steinbrenner rips Yankees’ ‘detrimental’ offense, backs Brian Cashman and Aaron Boone again",
+      "url": "https://www.nydailynews.com/2026/10/21/yankees-hal-steinbrenner-brian-cashman-aaron-boone-mlb-aaron-judge/"
+    },
+    {
+      "category": "Yankees",
+      "description": "The Yankees are staying with the Steinbrenners.",
+      "published": "2026-10-21T19:48:35+00:00",
+      "title": "Hal Steinbrenner has no plans to sell Yankees after Apollo deal",
+      "url": "https://www.nydailynews.com/2026/10/21/hal-steinbrenner-no-plans-sell-yankees-apollo-deal/"
+    },
+    {
+      "category": "Yankees",
       "description": "Brian Cashman isn’t going anywhere. The longtime Yankees general manager said Wednesday morning that the...",
       "published": "2026-10-21T17:12:34+00:00",
       "title": "Yankees, GM Brian Cashman agree to a new contract",
@@ -125,23 +139,9 @@
       "published": "2026-10-08T19:25:57+00:00",
       "title": "Yankees’ season ends before Aaron Judge can make it back: ‘It definitely hurts’",
       "url": "https://www.nydailynews.com/2026/10/08/yankees-aaron-judge-calf-mlb-playoffs/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Yankees' Jazz Chisholm Jr. heard some boos on Wednesday night in the ALDS.",
-      "published": "2026-10-08T14:22:45+00:00",
-      "title": "Jazz Chisholm takes shot at Yankee fans on his way out the door",
-      "url": "https://www.nydailynews.com/2026/10/08/yankees-jazz-chisholm-jr-mlb-alds-fans-boo-rays-aaron-boone/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees win a lot of games during the regular season and then at this...",
-      "published": "2026-10-08T13:52:24+00:00",
-      "title": "Mike Lupica: After another Yankees bust, it’s on Hal Steinbrenner to show his commitment to winning",
-      "url": "https://www.nydailynews.com/2026/10/08/mike-lupica-yankees-alds-playoffs-aaron-judge-rays-hal-steinbrenner/"
     }
   ],
-  "generated_at": "2026-10-21T17:27:12.512040+00:00",
+  "generated_at": "2026-10-21T20:48:03.792048+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

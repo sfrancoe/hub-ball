@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "Seattle is also considering Joe Espada, Rocco Baldelli and other candidates to replace Dan Wilson after a disappointing season.",
+      "published": "2026-10-21T12:43:00+00:00",
+      "title": "Mariners’ manager search includes Cubs farm director Jason Kanzler, among others: Sources",
+      "url": "https://www.nytimes.com/athletic/7711238/2026/10/21/mariners-manager-search-candidates/"
+    },
+    {
+      "category": "Mariners",
       "description": "Rhenda Strub invited strangers to accompany her to Seattle Mariners games this season to help overcome the loneliness of grieving for her son’s death.",
       "published": "2026-10-12T02:02:00+00:00",
       "title": "In Grief, a Mother Asks Strangers to ‘Sit Here’ at a Ballgame",
@@ -15,7 +22,7 @@
       "url": "https://www.nytimes.com/athletic/7686764/2026/10/13/mariners-interview-joe-espada-manager/"
     }
   ],
-  "generated_at": "2026-10-16T02:17:57.443658+00:00",
+  "generated_at": "2026-10-21T20:48:15.836377+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mariners/"
 }

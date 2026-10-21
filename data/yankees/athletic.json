@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "After a year in which nearly every hitter regressed, the owner expressed his disappointment in the offense and signaled changes are coming.",
+      "published": "2026-10-21T20:45:28+00:00",
+      "title": "Hal Steinbrenner says offense most to blame for Yankees' 2026 failure. Changes are coming",
+      "url": "https://www.nytimes.com/athletic/7710922/2026/10/21/hal-steinbrenner-yankees-offense-struggles/"
+    },
+    {
+      "category": "Yankees",
       "description": "\"The players didn't live up live up to their end of the bargain in the playoffs,\" Steinbrenner said.",
       "published": "2026-10-21T15:07:35+00:00",
       "title": "Yankees owner Hal Steinbrenner defends Brian Cashman, Aaron Boone after playoff failure",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T02:29:05+00:00",
       "title": "Anthony Volpe's tying home run in Game 3 overturned after Yankees fan interference",
       "url": "https://www.nytimes.com/athletic/7670379/2026/10/07/yankees-fan-interference-anthony-volpe-rays/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Since 1969, only one pitcher has started a game and then collected a save of at least six outs within two days of that start: Michael King!",
-      "published": "2026-10-07T10:31:45+00:00",
-      "title": "How rare were Michael King's start-save combo, Dodgers-Braves homers, Yankees' error-fest?",
-      "url": "https://www.nytimes.com/athletic/7667974/2026/10/07/mlb-playoffs-history-michael-king-dodgers-braves-homers-yankees-errors/"
     }
   ],
-  "generated_at": "2026-10-21T17:27:17.942613+00:00",
+  "generated_at": "2026-10-21T20:48:06.463379+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

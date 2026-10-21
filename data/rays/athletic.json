@@ -9,13 +9,6 @@
     },
     {
       "category": "Rays",
-      "description": "This World Series features two pitching staffs that have been at the cutting edge of pitching innovation over the last decade.",
-      "published": "2026-10-21T10:00:20+00:00",
-      "title": "Do the Rays or Brewers have the World Series pitching edge in a match-up of innovators?",
-      "url": "https://www.nytimes.com/athletic/7705581/2026/10/21/world-series-pitching-preview-brewers-rays/"
-    },
-    {
-      "category": "Rays",
       "description": "For one final time, our MLB experts peer into their crystal balls to tell us who will become world champions and which playerswill shine.",
       "published": "2026-10-21T09:30:22+00:00",
       "title": "World Series predictions: Our experts pick the winner, MVP and key players",
@@ -139,9 +132,16 @@
       "published": "2026-10-17T01:10:05+00:00",
       "title": "'It just wasn’t in the cards': ALCS Game 4 postponed amid inclement weather in Cleveland",
       "url": "https://www.nytimes.com/athletic/7692670/2026/10/16/rays-guardians-postponed-weather-alcs-game-4/"
+    },
+    {
+      "category": "Rays",
+      "description": "The Guardians and the Rays both play a small-ball, run-prevention style of game. So far in the ALCS, the Guardians are doing it better.",
+      "published": "2026-10-15T21:52:58+00:00",
+      "title": "In a battle of similar styles, Rays are being beaten at their own game",
+      "url": "https://www.nytimes.com/athletic/7691093/2026/10/15/rays-game-3-alcs-mlb-playoffs-small-ball/"
     }
   ],
-  "generated_at": "2026-10-21T17:27:20.698186+00:00",
+  "generated_at": "2026-10-21T20:48:09.460307+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Red Sox",
+      "description": "Pablo Cabrera, who filled in as first base coach and outfield instructor for most of 2026, will return to his job as defensive coordinator for the farm system.",
+      "published": "2026-10-21T17:50:02.431Z",
+      "title": "Red Sox move two interim coaches back to minor league roles",
+      "url": "https://www.bostonglobe.com/2026/10/21/sports/red-sox-coaches-chad-epperson-pablo-cabrera/"
+    },
+    {
       "category": "MLB",
       "description": "As outings have gotten shorter for starters in the postseason, pitchers have been successful by throwing maximum effort fastballs.",
       "published": "2026-10-21T09:00:00Z",
@@ -104,16 +111,9 @@
       "published": "2026-10-14T16:55:18.67Z",
       "title": "Caleb Durbin, Ceddanne Rafaela, and Wilyer Abreu named Gold Glove Award finalists",
       "url": "https://www.bostonglobe.com/2026/10/14/sports/red-sox-gold-glove-finalists/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Because of the lack of a new CBA, teams don't know what levels of spending will trigger penalties. Here's what we do know about the roster make-up.",
-      "published": "2026-10-14T15:23:32.87Z",
-      "title": "2027 Red Sox payroll: Looming labor fight clouds possibilities to improve. See our projections.",
-      "url": "https://www.bostonglobe.com/2026/10/14/sports/red-sox-offseason-strategy-cba/"
     }
   ],
-  "generated_at": "2026-10-21T12:20:55.673503+00:00",
+  "generated_at": "2026-10-21T20:48:01.738992+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
