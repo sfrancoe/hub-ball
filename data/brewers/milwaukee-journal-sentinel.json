@@ -9,10 +9,24 @@
     },
     {
       "category": "Brewers",
+      "description": "American Family Field is sure to be packed to the brim for Game 1 of the World Series on Friday, Oct. 23. But before Milwaukee Brewers fans can watch the team chase a World Series title, they will ...",
+      "published": "2026-10-21T08:54:00+00:00",
+      "title": "What to expect if you're driving to World Series games in Milwaukee",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/what-to-know-if-youre-driving-to-world-series-games-in-milwaukee/92350746007/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Brewers have proved they can go toe-to-toe with any team in the league both on the field and in the video department.",
-      "published": "2026-10-21T04:25:00+00:00",
+      "published": "2026-10-21T07:53:00+00:00",
       "title": "This Brewers team might be the best in MLB — and it's not the players",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/brewers-video-team-making-waves-during-postseason-run-to-world-series/92334058007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "\"Growing up on the southside of Milwaukee, going to the games when I was younger, it just hits home,\" Zamora said. \"It's history in the making.\" ...",
+      "published": "2026-10-21T04:07:00+00:00",
+      "title": "Brewers barber gets '2026 World Series' tattoo before lining up team",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/brewers-barber-gets-2026-world-series-tattoo-before-lining-up-team/92352173007/"
     },
     {
       "category": "Brewers",
@@ -23,38 +37,10 @@
     },
     {
       "category": "Brewers",
-      "description": "Dan Turpaugh got tickets for $500 a game and will spend less all-in for three games than he would for one at home. Sam Kluender got seats for $480 to Games 4 and 5 in Florida, and is spending $1,250 ...",
-      "published": "2026-10-20T09:49:00+00:00",
-      "title": "Priced out in Milwaukee, Brewers fans head to Tampa to save on World Series",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/brewers-fans-taking-cheaper-world-series-options-in-tampa/92340910007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "A Brewers World Series block party will take over Milwaukee's Third Ward during Games 1 and 2 on Friday and Saturday.",
-      "published": "2026-10-20T08:30:00+00:00",
-      "title": "Brewers World Series watch parties set for Milwaukee's Third Ward",
-      "url": "https://www.jsonline.com/story/news/local/milwaukee/2026/10/20/milwaukees-third-ward-will-host-brewers-world-series-watch-parties/92343262007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Take a look back at the seven games of the 1982 World Series, a Brewers loss to the Cardinals that marked their only other trip to the Fall Classic.",
-      "published": "2026-10-20T04:04:00+00:00",
-      "title": "The Brewers almost won the 1982 World Series. This is what happened",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/brewers-almost-won-1982-world-series-vs-cardinals/92262468007/"
-    },
-    {
-      "category": "Brewers",
       "description": "The Milwaukee Brewers expressed regret over a World Series ticket controversy and announced a resolution for some Timeless Ticket holders.",
       "published": "2026-10-20T17:50:00+00:00",
       "title": "'We regret our mistake,' Brewers say addressing Timeless Ticket controversy",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/brewers-regret-mistake-world-series-timeless-tickets/92352485007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "With the matchup against the Tampa Bay Rays set, World Series tickets remain more expensive for games in Milwaukee.",
-      "published": "2026-10-20T10:41:00+00:00",
-      "title": "$2,700 for Game 1? World Series tickets remain costly in Milwaukee",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/2026-world-series-ticket-prices-for-brewers-vs-rays-by-game/92344722007/"
     },
     {
       "category": "Brewers",
@@ -79,13 +65,20 @@
     },
     {
       "category": "Brewers",
+      "description": "Dan Turpaugh got tickets for $500 a game and will spend less all-in for three games than he would for one at home. Sam Kluender got seats for $480 to Games 4 and 5 in Florida, and is spending $1,250 ...",
+      "published": "2026-10-20T21:47:00+00:00",
+      "title": "Priced out in Milwaukee, Brewers fans head to Tampa to save on World Series",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/brewers-fans-taking-cheaper-world-series-options-in-tampa/92340910007/"
+    },
+    {
+      "category": "Brewers",
       "description": "How long have the Milwaukee Brewers been around? It seems like an easy question, but the answer depends on how you interpret 1969.",
       "published": "2026-10-20T04:12:00+00:00",
       "title": "How the Seattle Pilots became the Milwaukee Brewers ... in six days",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/world-series-bound-milwaukee-brewers-started-as-seattle-pilots/92284094007/"
     }
   ],
-  "generated_at": "2026-10-21T12:21:15.311623+00:00",
+  "generated_at": "2026-10-21T17:27:31.274794+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "The Guardians had a 2-1 lead in the ALCS, but they watched the Rays win three straight games to eliminate them.",
-      "published": "2026-10-19T19:15:00+00:00",
-      "title": "Cleveland goes another year without World Series title; Guardians eliminated in ALCS by Rays, 7-3",
-      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-goes-another-year-without-world-series-title-guardians-eliminated-in-alcs-by-rays-7-3.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Richie Palacios, Yandy Diaz and Junior Caminero — all with Cleveland ties — came back to haunt the Guardians at the worst possible moment in the 2026 ALCS.",
       "published": "2026-10-20T05:18:00+00:00",
       "title": "Former Guardians delivered the decisive blows that ended Cleveland’s ALCS run",
       "url": "https://www.cleveland.com/guardians/2026/10/former-guardians-delivered-the-decisive-blows-that-ended-clevelands-alcs-run.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians had a 2-1 lead in the ALCS, but they watched the Rays win three straight games to eliminate them.",
+      "published": "2026-10-19T19:15:00+00:00",
+      "title": "Cleveland goes another year without World Series title; Guardians eliminated in ALCS by Rays, 7-3",
+      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-goes-another-year-without-world-series-title-guardians-eliminated-in-alcs-by-rays-7-3.html"
     },
     {
       "category": "Guardians",
@@ -37,24 +37,17 @@
     },
     {
       "category": "Guardians",
+      "description": "The Guardians send rookie Parker Messick to the mound against Drew Rasmussen and the Tampa Bay Rays in a pivotal ALCS Game 5.",
+      "published": "2026-10-18T06:01:00+00:00",
+      "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 18, 2026: ALCS Game 5",
+      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-18-2026-alcs-game-5.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Nick Martinez has twice shut out Cleveland this season, and the Guardians must disrupt his command-based approach in a pivotal ALCS Game 4.",
       "published": "2026-10-16T05:30:00+00:00",
       "title": "Nick Martinez has shut out the Guardians twice. Cleveland’s Game 4 challenge is making him come to them",
       "url": "https://www.cleveland.com/guardians/2026/10/nick-martinez-has-shut-out-the-guardians-twice-clevelands-game-4-challenge-is-making-him-come-to-them.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Guardians host the Rays in ALCS Game 3 at Progressive Field, with Gavin Williams starting for Cleveland against Griffin Jax in a series tied 1-1.",
-      "published": "2026-10-15T03:00:00+00:00",
-      "title": "Cleveland Guardians, Tampa Bay Rays starting lineups for Oct. 15, 2026: ALCS Game 3",
-      "url": "https://www.cleveland.com/guardians/2026/10/cleveland-guardians-tampa-bay-rays-starting-lineups-for-oct-15-2026-alcs-game-3.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Guardians wasted a strong start by Parker Messick and stranded nine runners in their ALCS Game 2 loss to Tampa Bay. Breaking down the numbers.",
-      "published": "2026-10-13T22:17:00+00:00",
-      "title": "Guardians by the numbers: José Ramírez’s costly error, missed chances sink Cleveland in ALCS Game 2",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-by-the-numbers-jose-ramirezs-costly-error-missed-chances-sink-cleveland-in-alcs-game-2.html"
     },
     {
       "category": "Guardians",
@@ -72,10 +65,10 @@
     },
     {
       "category": "Guardians",
-      "description": "Weather concerns in Cleveland have prompted MLB to adjust the start time for Guardians vs. Rays ALCS Game 3 on Thursday. Here's the updated schedule.",
-      "published": "2026-10-14T05:02:00+00:00",
-      "title": "Guardians, MLB change start time for ALCS Game 3 due to Cleveland weather forecast",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-mlb-change-start-time-for-alcs-game-3-due-to-cleveland-weather-forecast.html"
+      "description": "What's next for the Cleveland Guardians? Three offseason questions loom for Stephen Vogt and Chris Antonetti after another ALCS disappointment.",
+      "published": "2026-10-21T03:14:00+00:00",
+      "title": "Guardians face 3 critical offseason questions after falling short of World Series",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-face-3-critical-offseason-questions-after-falling-short-of-world-series.html"
     },
     {
       "category": "Guardians",
@@ -83,9 +76,16 @@
       "published": "2026-10-19T12:00:00+00:00",
       "title": "Guardians’ 7-3 loss to the Tampa Bay Rays in ALCS Game 6: Game recap inning-by-inning",
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-vs-rays-alcs-game-6-live-updates-can-cleveland-force-game-7.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Weather concerns in Cleveland have prompted MLB to adjust the start time for Guardians vs. Rays ALCS Game 3 on Thursday. Here's the updated schedule.",
+      "published": "2026-10-14T05:02:00+00:00",
+      "title": "Guardians, MLB change start time for ALCS Game 3 due to Cleveland weather forecast",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-mlb-change-start-time-for-alcs-game-3-due-to-cleveland-weather-forecast.html"
     }
   ],
-  "generated_at": "2026-10-21T12:21:09.187221+00:00",
+  "generated_at": "2026-10-21T17:27:23.335840+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

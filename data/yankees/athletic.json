@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "\"The players didn't live up live up to their end of the bargain in the playoffs,\" Steinbrenner said.",
+      "published": "2026-10-21T15:07:35+00:00",
+      "title": "Yankees owner Hal Steinbrenner defends Brian Cashman, Aaron Boone after playoff failure",
+      "url": "https://www.nytimes.com/athletic/7708753/2026/10/21/yankees-hal-steinbrenner-defends-cashman-boone/"
+    },
+    {
+      "category": "Yankees",
+      "description": "\"We've agreed on a new contract that we just have to bang out some minor stuff on the back end of it, but we're locked and loaded,\" he said.",
+      "published": "2026-10-21T15:03:16+00:00",
+      "title": "Yankees, GM Brian Cashman agree on new contract: 'We're locked and loaded'",
+      "url": "https://www.nytimes.com/athletic/7677134/2026/10/21/brian-cashman-yankees-new-contract/"
+    },
+    {
+      "category": "Yankees",
       "description": "No one knows what the rules governing the sport's finances will be in 2027, but here's where the different parts of the payroll stand.",
       "published": "2026-10-20T11:05:29+00:00",
       "title": "Yankees' 2027 payroll breakdown: What to expect as New York prepares for offseason moves",
@@ -125,23 +139,9 @@
       "published": "2026-10-07T10:31:45+00:00",
       "title": "How rare were Michael King's start-save combo, Dodgers-Braves homers, Yankees' error-fest?",
       "url": "https://www.nytimes.com/athletic/7667974/2026/10/07/mlb-playoffs-history-michael-king-dodgers-braves-homers-yankees-errors/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Yankees not named Ben Rice or Austin Wells have combined to go 1-for-46 in this series. Here are four lineup suggestions for the manager.",
-      "published": "2026-10-07T09:29:01+00:00",
-      "title": "Yankees considering lineup changes for Game 3. How can they jump-start the offense?",
-      "url": "https://www.nytimes.com/athletic/7666323/2026/10/07/yankees-lineup-changes-mlb-playoffs-alds-rays/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees have dug themselves a deep hole after two disheartening losses. They've provided little evidence they can now save their season.",
-      "published": "2026-10-06T10:52:58+00:00",
-      "title": "Why should fans believe Yankees can mount an 0-2 comeback in ALDS vs. Rays?",
-      "url": "https://www.nytimes.com/athletic/7664548/2026/10/06/yankees-comeback-chances-alds-rays/"
     }
   ],
-  "generated_at": "2026-10-20T12:15:39.365960+00:00",
+  "generated_at": "2026-10-21T17:27:17.942613+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Royals",
-      "description": "Children’s Mercy announced plans for a new acute-care patient tower costing more than $1 billion at its Adele Hall campus near downtown Kansas City. Plans filed with the city outline a seven-phase, $1 ...",
-      "published": "2026-10-17T22:30:00+00:00",
-      "title": "New Royals stadium, Children’s Mercy tower and arts venues planned for Kansas City",
-      "url": "https://www.kansascity.com/news/business/development/article317584005.html"
-    },
-    {
-      "category": "Royals",
       "description": "ROYALS 5, TIGERS 2 ...",
       "published": "2016-09-03T19:54:00+00:00",
       "title": "KC Royals summary - September 3",
       "url": "https://www.kansascity.com/sports/scores-stats/article99912377.html"
+    },
+    {
+      "category": "Royals",
+      "description": "Children’s Mercy announced plans for a new acute-care patient tower costing more than $1 billion at its Adele Hall campus near downtown Kansas City. Plans filed with the city outline a seven-phase, $1 ...",
+      "published": "2026-10-17T22:30:00+00:00",
+      "title": "New Royals stadium, Children’s Mercy tower and arts venues planned for Kansas City",
+      "url": "https://www.kansascity.com/news/business/development/article317584005.html"
     },
     {
       "category": "Royals",
@@ -37,17 +37,17 @@
     },
     {
       "category": "Royals",
-      "description": "In a rare feat, the Royals had their entire infield nominated. Vinnie Pasquantino was named a finalist at first base while Michael Massey was among the top second basemen. Across the diamond, Bobby ...",
-      "published": "2026-10-14T06:34:00+00:00",
-      "title": "How Kansas City Royals achieved rare feat with 4 Gold Glove infield finalists",
-      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317622704.html"
-    },
-    {
-      "category": "Royals",
       "description": "Officials say the new stadium will be designed as inviting and transparent for fans while highlighting city features and landmarks.",
       "published": "2026-10-15T09:58:00+00:00",
       "title": "Future Royals stadium design revealed, with dramatic plaza, city views, limestone base",
       "url": "https://www.kansascity.com/news/business/development/article317640678.html"
+    },
+    {
+      "category": "Royals",
+      "description": "In a rare feat, the Royals had their entire infield nominated. Vinnie Pasquantino was named a finalist at first base while Michael Massey was among the top second basemen. Across the diamond, Bobby ...",
+      "published": "2026-10-14T06:34:00+00:00",
+      "title": "How Kansas City Royals achieved rare feat with 4 Gold Glove infield finalists",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317622704.html"
     },
     {
       "category": "Royals",
@@ -69,9 +69,16 @@
       "published": "2026-10-16T22:29:00+00:00",
       "title": "Why it’s OK to be excited, if still a bit cautious, about Royals’ planned stadium",
       "url": "https://www.kansascity.com/sports/spt-columns-blogs/vahe-gregorian/article317657430.html"
+    },
+    {
+      "category": "Royals",
+      "description": "Fans love the festive attitude and the Bananas have sold out football stadiums, such as the 101,000 who came in June to see the team at Neyland Stadium in Knoxville, Tennessee. The Bananas also have ...",
+      "published": "2026-10-15T13:05:00+00:00",
+      "title": "Savannah Bananas returning to KC in 2027, but ticket opportunity closes this month",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317644647.html"
     }
   ],
-  "generated_at": "2026-10-21T12:21:10.095076+00:00",
+  "generated_at": "2026-10-21T17:27:24.221217+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Brian Cashman isn’t going anywhere. The longtime Yankees general manager said Wednesday morning that the...",
+      "published": "2026-10-21T17:12:34+00:00",
+      "title": "Yankees, GM Brian Cashman agree to a new contract",
+      "url": "https://www.nydailynews.com/2026/10/21/yankees-gm-brian-cashman-agree-new-contract-steinbrenner/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees have two theoretical candidates for the qualifying offer: closer David Bednar and second...",
       "published": "2026-10-20T16:29:03+00:00",
       "title": "How the Yankees could handle the qualifying offer this offseason",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T13:52:24+00:00",
       "title": "Mike Lupica: After another Yankees bust, it’s on Hal Steinbrenner to show his commitment to winning",
       "url": "https://www.nydailynews.com/2026/10/08/mike-lupica-yankees-alds-playoffs-aaron-judge-rays-hal-steinbrenner/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Aaron Judge had some thoughts on how the Yankees should approach the offseason after getting...",
-      "published": "2026-10-08T14:59:08+00:00",
-      "title": "Have Yankees gone all in? ‘It’s tough to say,’ Aaron Judge says after ALDS exit",
-      "url": "https://www.nydailynews.com/2026/10/08/yankees-aaron-judge-alds-playoffs-rays-exit/"
     }
   ],
-  "generated_at": "2026-10-20T17:14:08.869903+00:00",
+  "generated_at": "2026-10-21T17:27:12.512040+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
