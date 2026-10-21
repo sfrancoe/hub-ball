@@ -1,13 +1,109 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-21T12:01:41.033226+00:00",
+  "generatedAt": "2026-10-21T17:21:46.909838+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Yankees, GM Brian Cashman agree to a new contract",
+      "description": "Brian Cashman isn’t going anywhere. The longtime Yankees general manager said Wednesday morning that the...",
+      "url": "https://www.nydailynews.com/2026/10/21/yankees-gm-brian-cashman-agree-new-contract-steinbrenner/",
+      "published": "2026-10-21T15:52:54+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "More than ever before, starting pitchers with high-velocity heaters are dominating the MLB postseason",
+      "description": "As outings have gotten shorter for starters in the postseason, pitchers have been successful by throwing maximum effort fastballs.",
+      "url": "https://www.bostonglobe.com/2026/10/21/sports/mlb-postseason-starting-pitchers-velocity/",
+      "published": "2026-10-21T15:32:11+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Hal Steinbrenner hints at Yankees offseason priorities",
+      "description": "",
+      "url": "https://nypost.com/2026/10/21/sports/hal-steinbrenner-hints-at-yankees-offseason-priorities-detrimental/",
+      "published": "2026-10-21T15:30:57+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Brian Cashman’s Yankees fate revealed after 17th straight season without World Series",
+      "description": "",
+      "url": "https://nypost.com/2026/10/21/sports/brian-cashman-agrees-to-new-contract-to-remain-yankees-gm/",
+      "published": "2026-10-21T15:15:38+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees owner Hal Steinbrenner defends Brian Cashman, Aaron Boone after playoff failure",
+      "description": "\"The players didn't live up live up to their end of the bargain in the playoffs,\" Steinbrenner said.",
+      "url": "https://www.nytimes.com/athletic/7708753/2026/10/21/yankees-hal-steinbrenner-defends-cashman-boone/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Yankees, GM Brian Cashman agree on new contract: 'We're locked and loaded'",
+      "description": "\"We've agreed on a new contract that we just have to bang out some minor stuff on the back end of it, but we're locked and loaded,\" he said.",
+      "url": "https://www.nytimes.com/athletic/7677134/2026/10/21/brian-cashman-yankees-new-contract/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Yanks for the memories Hal Steinbrenner pins ALDS flop on players in first comments since Yankees disaster",
+      "description": "",
+      "url": "https://nypost.com/2026/10/21/sports/hal-steinbrenner-pins-yankees-alds-flop-on-players/",
+      "published": "2026-10-21T14:48:58+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox roster: After Adley Rutschman trade, is catcher still a need this winter?",
+      "description": "Before the Adley Rutschman trade, the Red Sox might have wanted to add catching this winter. Now? Rutschman is the starter, but don't be surprised if the front office looks to upgrade the backup spot.",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-after-adley-rutschman-trade-is-catcher-still-a-need-this-winter.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Submit your Red Sox questions for Jen McCaffrey's upcoming mailbag",
       "description": "Send in your Red Sox questions as Boston prepares for the offseason amid a potential lockout.",
@@ -36,6 +132,18 @@
       "title": "Remembering the 2008 Rays, a band of renegades who saved Tampa Bay baseball",
       "description": "As the Rays prepare to play in another World Series, take a look back at the 2008 team that set a standard for an upstart franchise.",
       "url": "https://www.nytimes.com/athletic/7708186/2026/10/21/2008-world-series-rays-memories/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Do the Rays or Brewers have the World Series pitching edge in a match-up of innovators?",
+      "description": "This World Series features two pitching staffs that have been at the cutting edge of pitching innovation over the last decade.",
+      "url": "https://www.nytimes.com/athletic/7705581/2026/10/21/world-series-pitching-preview-brewers-rays/",
       "published": "",
       "source": "The Athletic",
       "teamId": 139,
@@ -81,18 +189,6 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "More than ever before, starting pitchers with high-velocity heaters are dominating the MLB postseason",
-      "description": "As outings have gotten shorter for starters in the postseason, pitchers have been successful by throwing maximum effort fastballs.",
-      "url": "https://www.bostonglobe.com/2026/10/21/sports/mlb-postseason-starting-pitchers-velocity/",
-      "published": "2026-10-21T09:00:00+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
       "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
       "description": "What questions do you have for Sean McAdam this week? Drop them in the comments or send an email to fenwayinsider@masslive.com",
       "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-submit-questions-for-masslives-sean-mcadam.html-3",
@@ -105,6 +201,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "What to expect if you're driving to World Series games in Milwaukee",
+      "description": "American Family Field is sure to be packed to the brim for Game 1 of the World Series on Friday, Oct. 23. But before Milwaukee Brewers fans can watch the team chase a World Series title, they will ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/what-to-know-if-youre-driving-to-world-series-games-in-milwaukee/92350746007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "This Brewers team might be the best in MLB — and it's not the players",
       "description": "The Brewers have proved they can go toe-to-toe with any team in the league both on the field and in the video department.",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/brewers-video-team-making-waves-during-postseason-run-to-world-series/92334058007/",
@@ -114,66 +222,6 @@
       "teamName": "Milwaukee Brewers",
       "teamAbbreviation": "MIL",
       "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Relive the history of the Milwaukee Brewers in these 30 moments",
-      "description": "From the Pilots to another World Series, these are the 30 moments that define the Milwaukee Brewers franchise.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/milwaukee-brewers-history-30-moments/92293246007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Dodgers had twice the payroll. Brewers had grit, discipline. | Letter",
-      "description": "There’s a lesson from Brewers that extends beyond baseball and into business and life: Resources create advantages, but they don't guarantee outcomes.",
-      "url": "https://www.jsonline.com/story/opinion/readers/2026/10/21/dodgers-milwaukee-brewers-world-series/92338061007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Can stability be found in center field after 2026 revolving door? | Houston Astros roster analysis",
-      "description": "Houston went through a rotating cast of center fielders in 2026, with nobody seizing the position. Will the Astros be able to find options internally or in free agency to provide stability?",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Here are 4 Cubs who need to bounce back next season",
-      "description": "The Cubs will need some internal improvements next season. These four players, in particular, could be difference-makers.",
-      "url": "https://www.nytimes.com/athletic/7709186/2026/10/21/cubs-bounce-back-season-2027/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The pitching plan and offensive disappearance that led to the Guardians’ ALCS demise",
-      "description": "The Cleveland Guardians left themselves susceptible to hand-wringing, to first-guessing, second-guessing and third-guessing about pitching strategies, about their refusal to call upon Tanner Bibee, ...",
-      "url": "https://www.nytimes.com/athletic/7708247/2026/10/21/guardians-alcs-pitching-batting-analysis/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
       "publishedSource": "unverified"
     }
   ]
