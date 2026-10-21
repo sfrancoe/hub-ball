@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees owner says Apollo will have \"zero\" say in the daily operations of New York's American League franchise.",
+      "published": "2026-10-21T21:48:19+00:00",
+      "title": "Hal Steinbrenner: No plan to sell Yankees despite $2.6 billion Apollo deal",
+      "url": "https://www.nytimes.com/athletic/7711799/2026/10/21/yankees-owner-hal-steinbrenner-apollo-deal/"
+    },
+    {
+      "category": "Yankees",
       "description": "After a year in which nearly every hitter regressed, the owner expressed his disappointment in the offense and signaled changes are coming.",
       "published": "2026-10-21T20:45:28+00:00",
       "title": "Hal Steinbrenner says offense most to blame for Yankees' 2026 failure. Changes are coming",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T03:14:46+00:00",
       "title": "Will Aaron Boone return? The 3 biggest questions facing Yankees as offseason begins",
       "url": "https://www.nytimes.com/athletic/7670030/2026/10/07/yankees-offseason-questions-aaron-boone/"
-    },
-    {
-      "category": "Yankees",
-      "description": "What seemed like a two-run homer to tie the score in Game 3 of the ALDS was instead ruled an RBI double due to fan interference.",
-      "published": "2026-10-08T02:29:05+00:00",
-      "title": "Anthony Volpe's tying home run in Game 3 overturned after Yankees fan interference",
-      "url": "https://www.nytimes.com/athletic/7670379/2026/10/07/yankees-fan-interference-anthony-volpe-rays/"
     }
   ],
-  "generated_at": "2026-10-21T20:48:06.463379+00:00",
+  "generated_at": "2026-10-21T23:43:41.459408+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

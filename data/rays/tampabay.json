@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Notes | The teams met once this season way back in late March/early April, so there is a lot to go over in reports.",
+      "published": "2026-10-21T22:49:04+00:00",
+      "title": "As Rays head to World Series, ‘easy to see’ why Brewers are so good",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/rays-head-world-series-easy-see-why-brewers-are-so-good/"
+    },
+    {
+      "category": "Rays",
       "description": "Here’s your Tropicana Field guide to Rays tickets, parking and bag rules.",
       "published": "2026-10-21T20:33:39+00:00",
       "title": "What’s a World Series ticket going to cost you?",
@@ -104,23 +111,9 @@
       "published": "2026-10-18T04:28:42+00:00",
       "title": "Rays look to ace Drew Rasmussen for ALCS Game 5 start vs. Guardians",
       "url": "https://www.tampabay.com/sports/rays/2026/10/18/drew-rasmussen-alcs-game-5-cleveland-guardians-parker-messick-plant-city/"
-    },
-    {
-      "category": "Rays",
-      "description": "Hits from each of the previously quiet “Big Three” play a large role as Tampa Bay scores in four different innings.",
-      "published": "2026-10-18T03:36:26+00:00",
-      "title": "Rays hang on to beat Guardians and even ALCS, ensuring a return to Trop",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/17/yandy-diaz-alcs-game-4-guardians-junior-caminero-jonathan-aranda-nick-martinez/"
-    },
-    {
-      "category": "Rays",
-      "description": "Knowing he’s in a position to show Black youth there can be a place for them in baseball is a responsibility the outfielder says he enjoys.",
-      "published": "2026-10-17T18:30:00+00:00",
-      "title": "Rays’ Chandler Simpson: ‘It means a lot’ to be a role model for kids",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/17/chandler-simpson-role-model-alcs-omega-psi-phi-fraternity-gold-glove-finalist/"
     }
   ],
-  "generated_at": "2026-10-21T20:48:08.934246+00:00",
+  "generated_at": "2026-10-21T23:43:44.047099+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

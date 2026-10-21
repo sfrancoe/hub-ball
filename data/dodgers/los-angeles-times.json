@@ -2,10 +2,10 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
-      "published": "2026-10-14T22:38:00+00:00",
-      "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
+      "description": "Bill Plaschke thinks the Dodgers need to pull Shohei Ohtani off the pitching mound permanently. And if he insists on continuing to hit and pitch full-time, it's time to consider a trade.",
+      "published": "2026-10-21T02:44:00+00:00",
+      "title": "Enough is enough. The Dodgers must stop letting Shohei Ohtani pitch",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-21/shohei-ohtani-pitching-hurting-hitting-dodgers-choice"
     },
     {
       "category": "Dodgers",
@@ -44,13 +44,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "Maddie Lee covers the Dodgers for the Los Angeles Times. She joined the paper in March 2026 after six years in Chicago, where she was a Cubs beat writer for the Chicago Sun-Times ...",
-      "published": "2026-10-14T21:38:00+00:00",
-      "title": "Dodgers Debate NLCS Game 3: Dodgers stare down a sweep",
-      "url": "https://www.latimes.com/ytmvvjfnltg-123"
-    },
-    {
-      "category": "Dodgers",
       "description": "Bex Castillo asked the Times’ sports desk at Game 3 of the NLCS where the Los Angeles Dodgers faced off against the Milwaukee Brewers. Rebecca Castillo is a content creator for the Los Angeles Times.",
       "published": "2026-10-14T17:00:00+00:00",
       "title": "How do our reporters stay sane while covering the Dodgers?",
@@ -58,10 +51,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "Dodgers veteran infielder Miguel Rojas announces his retirement immediately after the team's season-ending loss to the Milwaukee Brewers in the NLCS.",
-      "published": "2026-10-15T16:20:00+00:00",
-      "title": "Miguel Rojas announces his retirement following Dodgers’ NLCS loss",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-15/miguel-rojas-announces-his-retirement-dodgers-nlcs-brewers"
+      "description": "Maddie Lee covers the Dodgers for the Los Angeles Times. She joined the paper in March 2026 after six years in Chicago, where she was a Cubs beat writer for the Chicago Sun-Times ...",
+      "published": "2026-10-14T21:38:00+00:00",
+      "title": "Dodgers Debate NLCS Game 3: Dodgers stare down a sweep",
+      "url": "https://www.latimes.com/ytmvvjfnltg-123"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
+      "published": "2026-10-14T22:38:00+00:00",
+      "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
     },
     {
       "category": "Dodgers",
@@ -69,9 +69,16 @@
       "published": "2026-10-15T23:06:00+00:00",
       "title": "Dodgers Debate NLCS Game 4: Dodgers are swept, no three-peat",
       "url": "https://www.latimes.com/lwabbaygmbk-123"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Milwaukee sent a parade of four relievers to the mound for a second straight game Monday, and for a second straight game they didn’t give up a run, retiring the last 15 Dodgers in order.",
+      "published": "2026-10-12T21:12:00+00:00",
+      "title": "In the NLCS, the Dodgers are seeing what money can’t buy: a bullpen such as Milwaukee’s",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/nlcs-dodgers-brewers-bullpen-matchup-abner-uribe"
     }
   ],
-  "generated_at": "2026-10-21T20:48:22.692989+00:00",
+  "generated_at": "2026-10-21T23:44:23.334917+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

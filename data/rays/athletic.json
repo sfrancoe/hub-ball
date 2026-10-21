@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "How interested are you in an all-small-market World Series? And who will you be rooting for in this David vs. David faceoff?",
+      "published": "2026-10-21T20:58:59+00:00",
+      "title": "Does a Brewers-Rays Fall Classic excite you? A World Series reader poll",
+      "url": "https://www.nytimes.com/athletic/7711504/2026/10/21/brewers-rays-world-series-fan-survey/"
+    },
+    {
+      "category": "Rays",
       "description": "As the Rays prepare to play in another World Series, take a look back at the 2008 team that set a standard for an upstart franchise.",
       "published": "2026-10-21T10:05:42+00:00",
       "title": "Remembering the 2008 Rays, a band of renegades who saved Tampa Bay baseball",
@@ -132,16 +139,9 @@
       "published": "2026-10-17T01:10:05+00:00",
       "title": "'It just wasn’t in the cards': ALCS Game 4 postponed amid inclement weather in Cleveland",
       "url": "https://www.nytimes.com/athletic/7692670/2026/10/16/rays-guardians-postponed-weather-alcs-game-4/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Guardians and the Rays both play a small-ball, run-prevention style of game. So far in the ALCS, the Guardians are doing it better.",
-      "published": "2026-10-15T21:52:58+00:00",
-      "title": "In a battle of similar styles, Rays are being beaten at their own game",
-      "url": "https://www.nytimes.com/athletic/7691093/2026/10/15/rays-game-3-alcs-mlb-playoffs-small-ball/"
     }
   ],
-  "generated_at": "2026-10-21T20:48:09.460307+00:00",
+  "generated_at": "2026-10-21T23:43:44.843303+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

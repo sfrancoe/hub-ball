@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Judge said it's \"tough to say\" whether the Yankees have been \"all in\" enough during...",
+      "published": "2026-10-21T21:56:09+00:00",
+      "title": "Hal Steinbrenner responds to Aaron Judge’s insinuation Yankees haven’t been ‘all in’ enough: ‘We did that this year’",
+      "url": "https://www.nydailynews.com/2026/10/21/hal-steinbrenner-responds-to-aaron-judges-insinuation-yankees-havent-been-all-in-enough-we-did-that-this-year/"
+    },
+    {
+      "category": "Yankees",
       "description": "Steinbrenner said the Yankees are going to look at everything related to their offense, including...",
       "published": "2026-10-21T20:01:06+00:00",
       "title": "Hal Steinbrenner rips Yankees’ ‘detrimental’ offense, backs Brian Cashman and Aaron Boone again",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T22:21:30+00:00",
       "title": "After a turbulent year, Jazz Chisholm Jr. hopes to remain with Yankees: ‘This is where I want to be’",
       "url": "https://www.nydailynews.com/2026/10/08/jazz-chisholm-yankees-remain-turbulent-year-free-agent-future/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees’ season ended with Aaron Judge sidelined. “It definitely hurts,\" Judge said. \"You want...",
-      "published": "2026-10-08T19:25:57+00:00",
-      "title": "Yankees’ season ends before Aaron Judge can make it back: ‘It definitely hurts’",
-      "url": "https://www.nydailynews.com/2026/10/08/yankees-aaron-judge-calf-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-21T20:48:03.792048+00:00",
+  "generated_at": "2026-10-21T23:43:38.889865+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

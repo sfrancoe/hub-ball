@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Giants",
-      "description": "The Giants finally beat the Dodgers, but in one of the worst ways possible. The Dodgers led all of MLB in injured list days for three straight seasons, but in 2026, San Francisco took the crown. The ...",
-      "published": "2026-10-07T07:39:00+00:00",
-      "title": "Giants snap Dodgers' three-year streak for MLB-worst stat in 2026 season",
-      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/injured-list-league-leaders-2026/1969597/"
-    },
-    {
-      "category": "Giants",
       "description": "Caleb Williams returned from injury in the Bears' victory and the Browns took control of the AFC North. Here are the winners and losers from Week 6.",
       "published": "2026-10-18T09:35:00+00:00",
       "title": "NFL Week 6 winners and losers: Browns lead AFC North, Cardinals shock Rams",
@@ -34,9 +27,23 @@
       "published": "2026-10-19T08:59:00+00:00",
       "title": "Giants Talk: The future at third base after Matt Chapman's career-worst season",
       "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/matt-chapman-third-base-analysis/1972060/"
+    },
+    {
+      "category": "Giants",
+      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic present the good and the bad from second base this season. Plus, the guys take a look at the MLB playoffs.",
+      "published": "2026-10-15T10:14:00+00:00",
+      "title": "Giants Talk: What to expect from San Francisco at second base position in 2027",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/second-base-expectations-analysis-watch/1971338/"
+    },
+    {
+      "category": "Giants",
+      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic predict who will take the second base job next season in San Francisco.",
+      "published": "2026-10-15T14:34:00+00:00",
+      "title": "Giants Talk: Why Marcelo Mayer, Casey Schmitt are frontrunners for second base",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/second-base-predicitions-watch/1971420/"
     }
   ],
-  "generated_at": "2026-10-21T20:48:23.765304+00:00",
+  "generated_at": "2026-10-21T23:44:34.459180+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"
 }

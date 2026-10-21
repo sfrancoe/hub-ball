@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Williams posted a 4.43 ERA with 16 saves in 44 appearances.",
+      "published": "2026-10-21T22:10:22+00:00",
+      "title": "Mets need better season from Devin Williams after closer’s ‘disappointing’ 2026",
+      "url": "https://www.nydailynews.com/2026/10/21/mets-need-better-season-from-devin-williams-after-closers-disappointing-2026/"
+    },
+    {
+      "category": "Mets",
       "description": "The Mets may not be playing in this year's edition of the fall classic, but...",
       "published": "2026-10-20T23:29:28+00:00",
       "title": "Abbey Mastracco: Brewers-Rays World Series serves as consolation prize for Mets fans",
@@ -132,16 +139,9 @@
       "published": "2026-09-20T21:23:49+00:00",
       "title": "Mets conclude home slate of ’26 season with loss to Philadelphia Phillies",
       "url": "https://www.nydailynews.com/2026/09/20/mets-home-slate-jonah-tong-phillies/"
-    },
-    {
-      "category": "Mets",
-      "description": "The story of how Rose became one of the Beatles of baseball broadcasting begins at...",
-      "published": "2026-09-20T20:59:58+00:00",
-      "title": "Howie Rose through the words of his favorite band: The Beatles",
-      "url": "https://www.nydailynews.com/2026/09/20/mets-howie-rose-the-beatles/"
     }
   ],
-  "generated_at": "2026-10-21T01:46:02.272769+00:00",
+  "generated_at": "2026-10-21T23:43:42.271915+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

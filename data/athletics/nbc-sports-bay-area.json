@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Athletics",
+      "description": "New Athletics president of baseball operations Taylor Smith and owner John Fisher outlined the front office's priorities before the move to Las Vegas.",
+      "published": "2026-10-21T16:05:00+00:00",
+      "title": "New Athletics executive Taylor Smith, owner John Fisher reveal team priorities",
+      "url": "https://www.nbcsportsbayarea.com/mlb/athletics/executive-taylor-smith-john-fisher-priorities/1972972/"
+    },
+    {
+      "category": "Athletics",
       "description": "The Athletics named former Boston Red Sox and Tampa Bay Rays executive Taylor Smith their new president of baseball operations.",
       "published": "2026-10-19T03:15:00+00:00",
       "title": "Athletics name Red Sox exec Taylor Smith president of baseball operations",
@@ -13,9 +20,16 @@
       "published": "2026-10-07T09:33:00+00:00",
       "title": "Phillies, Cubs executives reportedly among top Athletics GM candidates",
       "url": "https://www.nbcsportsbayarea.com/mlb/athletics/athletics-gm-candidates-phillies-cubs/1969657/"
+    },
+    {
+      "category": "Athletics",
+      "description": "The Athletics outhit the Yankees but gave up four runs in the first inning to lose 4-3 in New York.",
+      "published": "2024-04-23T19:06:00+00:00",
+      "title": "A's allow four-run first inning, lose to Yankees 4-3",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/athletics/athletics-yankees-highlight-video/1728188/"
     }
   ],
-  "generated_at": "2026-10-21T20:48:14.736190+00:00",
+  "generated_at": "2026-10-21T23:44:03.982287+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/oakland-athletics/"
 }

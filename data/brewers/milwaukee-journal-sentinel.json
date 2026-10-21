@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Wisconsin growers used millions of cranberries to create a giant glove and ball for the Brewers’ World Series run.",
+      "published": "2026-10-21T15:47:00+00:00",
+      "title": "Wisconsin cranberry farmers root for Milwaukee Brewers with bog design",
+      "url": "https://www.jsonline.com/story/life/2026/10/21/wisconsin-cranberry-growers-brewers-world-series-display/92367919007/"
+    },
+    {
+      "category": "Brewers",
       "description": "From the Pilots to another World Series, these are the 30 moments that define the Milwaukee Brewers franchise.",
       "published": "2026-10-21T04:06:00+00:00",
       "title": "Relive the history of the Milwaukee Brewers in these 30 moments",
@@ -9,17 +16,10 @@
     },
     {
       "category": "Brewers",
-      "description": "American Family Field is sure to be packed to the brim for Game 1 of the World Series on Friday, Oct. 23. But before Milwaukee Brewers fans can watch the team chase a World Series title, they will ...",
-      "published": "2026-10-21T08:54:00+00:00",
-      "title": "What to expect if you're driving to World Series games in Milwaukee",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/what-to-know-if-youre-driving-to-world-series-games-in-milwaukee/92350746007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Brewers have proved they can go toe-to-toe with any team in the league both on the field and in the video department.",
-      "published": "2026-10-21T07:53:00+00:00",
-      "title": "This Brewers team might be the best in MLB — and it's not the players",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/brewers-video-team-making-waves-during-postseason-run-to-world-series/92334058007/"
+      "description": "The Milwaukee Brewers' return the World Series wouldn't feel complete without a blessing from Bob Uecker. His family delivered just that Oct. 21.",
+      "published": "2026-10-21T12:11:00+00:00",
+      "title": "Uecker family thanks team, fans for Brewers' World Series return",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/bob-uecker-family-brewers-world-series/92365176007/"
     },
     {
       "category": "Brewers",
@@ -30,10 +30,17 @@
     },
     {
       "category": "Brewers",
-      "description": "The Milwaukee Brewers expressed regret over a World Series ticket controversy and announced a resolution for some Timeless Ticket holders.",
-      "published": "2026-10-20T17:50:00+00:00",
-      "title": "'We regret our mistake,' Brewers say addressing Timeless Ticket controversy",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/brewers-regret-mistake-world-series-timeless-tickets/92352485007/"
+      "description": "The Brewers have proved they can go toe-to-toe with any team in the league both on the field and in the video department.",
+      "published": "2026-10-21T07:53:00+00:00",
+      "title": "This Brewers team might be the best in MLB — and it's not the players",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/brewers-video-team-making-waves-during-postseason-run-to-world-series/92334058007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Here’s what to expect if you're driving yourself to the World Series in Milwaukee. In early October, the Wisconsin Department of Transportation announced changes to traffic patterns on I-94 near ...",
+      "published": "2026-10-21T08:54:00+00:00",
+      "title": "What to expect if you're driving to World Series games in Milwaukee",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/what-to-know-if-youre-driving-to-world-series-games-in-milwaukee/92350746007/"
     },
     {
       "category": "Brewers",
@@ -41,13 +48,6 @@
       "published": "2026-10-21T04:01:00+00:00",
       "title": "Dodgers had twice the payroll. Brewers had grit, discipline. | Letter",
       "url": "https://www.jsonline.com/story/opinion/readers/2026/10/21/dodgers-milwaukee-brewers-world-series/92338061007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Milwaukee Brewers part-owner and former Bucks star Giannis Antetokounmpo weighed in on the team reaching the World Series.",
-      "published": "2026-10-20T14:05:00+00:00",
-      "title": "Giannis Antetokounmpo addresses Brewers World Series berth: 'It's incredible.'",
-      "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/10/20/giannis-antetokounmpo-on-milwaukee-brewers-world-series-incredible/92349918007/"
     },
     {
       "category": "Brewers",
@@ -72,13 +72,13 @@
     },
     {
       "category": "Brewers",
-      "description": "With the World Series just days away, Brewers fans have more than a few choices for watch parties in Milwaukee.",
-      "published": "2026-10-20T09:37:00+00:00",
-      "title": "Can't get a ticket? Where to find World Series watch parties in Milwaukee",
-      "url": "https://www.jsonline.com/story/news/local/milwaukee/2026/10/20/brewers-world-series-watch-parties-in-milwaukee-where-to-go/92343592007/"
+      "description": "The Milwaukee Brewers expressed regret over a World Series ticket controversy and announced a resolution for some Timeless Ticket holders.",
+      "published": "2026-10-20T17:50:00+00:00",
+      "title": "'We regret our mistake,' Brewers say addressing Timeless Ticket controversy",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/brewers-regret-mistake-world-series-timeless-tickets/92352485007/"
     }
   ],
-  "generated_at": "2026-10-21T20:48:19.925675+00:00",
+  "generated_at": "2026-10-21T23:44:20.648840+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }
