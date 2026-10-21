@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "“I told him before that at-bat he’s going to hit a home run,” Shane McClanahan said. “I actually showed him where to hit it.”",
+      "published": "2026-10-20T23:49:29+00:00",
+      "title": "Rays’ Yandy Diaz, with help from McClanahan, makes prediction come true",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/20/yandy-diaz-alcs-prediction-shane-mcclanahan-world-series-guardians-erik-neander/"
+    },
+    {
+      "category": "Rays",
       "description": "Notes | Monday was just the second time in 18 playoff rounds the Rays clinched at home in front of their fans.",
       "published": "2026-10-20T22:10:37+00:00",
       "title": "Rays say winning ALCS at rocking Trop made things even more special",
@@ -104,16 +111,9 @@
       "published": "2026-10-17T01:11:15+00:00",
       "title": "Rays-Guardians ALCS Game 4 postponed until Saturday",
       "url": "https://www.tampabay.com/sports/rays/2026/10/16/alcs-game-4-start-time-weather-forecast-cleveland-guardians-nick-martinez/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | With forecasts calling for day/night rain Friday, there may be a proactive move to push Games 4 and 5 back a day in Cleveland.",
-      "published": "2026-10-16T00:00:19+00:00",
-      "title": "MLB officials mulling whether to postpone ALCS Game 4 due to bad weather",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/15/mlb-officials-mulling-whether-postpone-alcs-game-4-due-bad-weather/"
     }
   ],
-  "generated_at": "2026-10-20T23:23:27.499646+00:00",
+  "generated_at": "2026-10-21T01:46:07.194238+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
