@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:32:33.591198+00:00",
+  "generated_at": "2026-10-21T18:56:36.531353+00:00",
   "source": "MLB Stats API",
   "team": "Brewers",
   "regular_season_end": "2026-09-27",
@@ -13,9 +13,9 @@
       "opponent": "Rays",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
-      "favorite_team_pitcher": "",
+      "favorite_team_pitcher": "Jacob Misiorowski",
       "opponent_pitcher": "",
-      "favorite_team_pitcher_record": "—",
+      "favorite_team_pitcher_record": "16-5",
       "opponent_pitcher_record": "—",
       "show_probables": true,
       "series_description": "World Series",
