@@ -1,13 +1,145 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-21T17:21:46.909838+00:00",
+  "generatedAt": "2026-10-21T20:55:41.634878+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 7,
   "articles": [
+    {
+      "title": "Hal Steinbrenner says offense most to blame for Yankees' 2026 failure. Changes are coming",
+      "description": "After a year in which nearly every hitter regressed, the owner expressed his disappointment in the offense and signaled changes are coming.",
+      "url": "https://www.nytimes.com/athletic/7710922/2026/10/21/hal-steinbrenner-yankees-offense-struggles/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "What’s a World Series ticket going to cost you?",
+      "description": "Here’s your Tropicana Field guide to Rays tickets, parking and bag rules.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/world-series-tickets-cost-tropicana-field-rays-brewers/",
+      "published": "2026-10-21T20:33:39.337000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Two Red Sox coaches returning to minor leagues after midseason promotions",
+      "description": "Despite a recent vote of confidence from Red Sox chief baseball officer Craig Breslow, the coaching staff is undergoing changes once again.",
+      "url": "https://www.bostonherald.com/2026/10/21/red-sox-coaching-staff-changes-chad-epperson-triple-a-manager-pablo-cabrera-minor-leagues-milb-mlb/",
+      "published": "2026-10-21T20:01:13+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Hal Steinbrenner rips Yankees’ ‘detrimental’ offense, backs Brian Cashman and Aaron Boone again",
+      "description": "Steinbrenner said the Yankees are going to look at everything related to their offense, including...",
+      "url": "https://www.nydailynews.com/2026/10/21/yankees-hal-steinbrenner-brian-cashman-aaron-boone-mlb-aaron-judge/",
+      "published": "2026-10-21T20:01:06+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Hal Steinbrenner has no plans to sell Yankees after Apollo deal",
+      "description": "The Yankees are staying with the Steinbrenners.",
+      "url": "https://www.nydailynews.com/2026/10/21/hal-steinbrenner-no-plans-sell-yankees-apollo-deal/",
+      "published": "2026-10-21T19:48:35+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox reassign first, third-base coaches to minor-league positions",
+      "description": "Chad Epperson and Pablo Cabrera were promoted from within the organization in April, after Alex Cora and six coaches were fired.",
+      "url": "https://www.nytimes.com/athletic/7711522/2026/10/21/red-sox-base-coach-changes/",
+      "published": "2026-10-21T19:20:37+00:00",
+      "source": "The Athletic",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox move two interim coaches back to minor league roles",
+      "description": "Pablo Cabrera, who filled in as first base coach and outfield instructor for most of 2026, will return to his job as defensive coordinator for the farm system.",
+      "url": "https://www.bostonglobe.com/2026/10/21/sports/red-sox-coaches-chad-epperson-pablo-cabrera/",
+      "published": "2026-10-21T18:56:08.661000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Do the Tampa Bay Rays have any celebrity fans?",
+      "description": "Dick Vitale? John Cena? Tom Cruise?!? A guide to the famous faces you could see at Tropicana Field this World Series.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/celebrity-rays-fans-john-cena-dick-vitale-world-series/",
+      "published": "2026-10-21T18:33:37.497000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "St. Pete, Tampa both planning parades if Rays win World Series",
+      "description": "The parade twofer is emblematic of a stadium tug-of-war between the two cities.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/world-series-parade-tampa-hillsborough-river-st-petersburg/",
+      "published": "2026-10-21T18:23:23.831000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Stu Sternberg: Happiness, joy, ‘a longing’ as Rays head to World Series",
+      "description": "The former team owner also had immense praise for the job the new ownership did in getting a deal completed for a stadium in Tampa.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/stuart-sternberg-world-series-former-owner-patrick-zalupski/",
+      "published": "2026-10-21T17:59:24.092000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox are parting ways with two coaches just months after a midseason overhaul — here's what we know about the changes",
+      "description": "Third base coach Chad Epperson and first base coach Pablo Cabrera will not return to their roles, with Epperson set to manage Triple-A Worcester and Cabrera returning to his minor league defensive coordinator position.",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-move-on-from-two-coaches-for-2027-staff.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Yankees, GM Brian Cashman agree to a new contract",
       "description": "Brian Cashman isn’t going anywhere. The longtime Yankees general manager said Wednesday morning that the...",
@@ -33,7 +165,7 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Hal Steinbrenner hints at Yankees offseason priorities",
+      "title": "‘Detrimental’ Hal Steinbrenner hints at Yankees offseason priorities",
       "description": "",
       "url": "https://nypost.com/2026/10/21/sports/hal-steinbrenner-hints-at-yankees-offseason-priorities-detrimental/",
       "published": "2026-10-21T15:30:57+00:00",
@@ -72,16 +204,16 @@
       "title": "Yankees, GM Brian Cashman agree on new contract: 'We're locked and loaded'",
       "description": "\"We've agreed on a new contract that we just have to bang out some minor stuff on the back end of it, but we're locked and loaded,\" he said.",
       "url": "https://www.nytimes.com/athletic/7677134/2026/10/21/brian-cashman-yankees-new-contract/",
-      "published": "",
+      "published": "2026-10-21T15:03:16+00:00",
       "source": "The Athletic",
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
       "league": "AL",
-      "publishedSource": "unverified"
+      "publishedSource": "publisher"
     },
     {
-      "title": "Yanks for the memories Hal Steinbrenner pins ALDS flop on players in first comments since Yankees disaster",
+      "title": "Hal Steinbrenner pins ALDS flop on players in first comments since Yankees disaster",
       "description": "",
       "url": "https://nypost.com/2026/10/21/sports/hal-steinbrenner-pins-yankees-alds-flop-on-players/",
       "published": "2026-10-21T14:48:58+00:00",
@@ -102,6 +234,42 @@
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Do the 1982 Brewers see a connection with the 2026 team?",
+      "description": "The 1982 Brewers can't wait to see if the 2026 team can reach that final pinnacle. Just don't expect Robin Yount to bust out his motorcycle.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/the-similarities-the-1982-brewers-see-in-the-2026-team/92366344007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Mariners’ manager search includes Cubs farm director Jason Kanzler, among others: Sources",
+      "description": "Seattle is also considering Joe Espada, Rocco Baldelli and other candidates to replace Dan Wilson after a disappointing season.",
+      "url": "https://www.nytimes.com/athletic/7711238/2026/10/21/mariners-manager-search-candidates/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "MLB took over Brewers broadcasts this year. The ratings went way up",
+      "description": "MLB says the Brewers' in-market ratings soared 25% in 2026, a good sign for the new regime of MLB-produced broadcasts.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/milwaukee-brewers-broadcast-ratings/92363702007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -141,18 +309,6 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Do the Rays or Brewers have the World Series pitching edge in a match-up of innovators?",
-      "description": "This World Series features two pitching staffs that have been at the cutting edge of pitching innovation over the last decade.",
-      "url": "https://www.nytimes.com/athletic/7705581/2026/10/21/world-series-pitching-preview-brewers-rays/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
       "title": "World Series predictions: Our experts pick the winner, MVP and key players",
       "description": "For one final time, our MLB experts peer into their crystal balls to tell us who will become world champions and which playerswill shine.",
       "url": "https://www.nytimes.com/athletic/7708294/2026/10/21/world-series-expert-predictions-rays-brewers/",
@@ -165,16 +321,40 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Dodgers ‘fully expect’ Shohei Ohtani to remain two-way player, pitch in 2027",
+      "description": "LOS ANGELES — Shohei Ohtani is expected to remain a two-way player and pitch for the Los Angeles Dodgers in 2027, president of baseball operations Andrew Friedman said Wednesday. “I fully expect him ...",
+      "url": "https://www.nytimes.com/athletic/7709074/2026/10/21/shohei-ohtani-pitcher-2027-dodgers-two-way/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Who stays, who goes? Predicting the Guardians’ biggest offseason decisions – Cleveland Baseball Talk Podcast",
+      "description": "Will the Guardians finally spend on a big bat? Joe Noga and Paul Hoynes examine Cleveland's offensive needs and four questions that could define the offseason.",
+      "url": "https://www.cleveland.com/guardians/2026/10/who-stays-who-goes-predicting-the-guardians-biggest-offseason-decisions-cleveland-baseball-talk-podcast.html",
+      "published": "",
+      "source": "Cleveland.com",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "MLB’s other low-payroll teams are on notice. The Rays and Brewers didn’t spend big to get here",
       "description": "Why are the Brewers, Rays and Guardians successful in the first place? It’s certainly not because they’re getting outspent.",
       "url": "https://www.nytimes.com/athletic/7706637/2026/10/21/brewers-rays-world-series-small-market-spending-mlb-playoffs/",
-      "published": "",
+      "published": "2026-10-21T09:02:37+00:00",
       "source": "The Athletic",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
       "league": "AL",
-      "publishedSource": "unverified"
+      "publishedSource": "publisher"
     },
     {
       "title": "How a quest to track down Carlton Fisk ticket stubs helped create a baseball community",
@@ -199,30 +379,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "What to expect if you're driving to World Series games in Milwaukee",
-      "description": "American Family Field is sure to be packed to the brim for Game 1 of the World Series on Friday, Oct. 23. But before Milwaukee Brewers fans can watch the team chase a World Series title, they will ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/what-to-know-if-youre-driving-to-world-series-games-in-milwaukee/92350746007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "This Brewers team might be the best in MLB — and it's not the players",
-      "description": "The Brewers have proved they can go toe-to-toe with any team in the league both on the field and in the video department.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/21/brewers-video-team-making-waves-during-postseason-run-to-world-series/92334058007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
