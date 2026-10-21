@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-21T01:03:07.290129+00:00",
+  "generatedAt": "2026-10-21T06:07:08.588512+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 3,
   "articles": [
     {
       "title": "Rays’ Yandy Diaz, with help from McClanahan, makes prediction come true",
@@ -79,90 +79,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "'We regret our mistake,' Brewers say addressing Timeless Ticket controversy",
-      "description": "The Milwaukee Brewers expressed regret over a World Series ticket controversy and announced a resolution for some Timeless Ticket holders.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/20/brewers-regret-mistake-world-series-timeless-tickets/92352485007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Astros could name new general manager before end of World Series: Sources",
-      "description": "Matt Kleine, Josh Barfield and Randy Flores are among the candidates who are in the running to replace Dana Brown.",
-      "url": "https://www.nytimes.com/athletic/7708292/2026/10/20/astros-general-manager-candidates/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "How the Yankees could handle the qualifying offer this offseason",
-      "description": "The Yankees have two theoretical candidates for the qualifying offer: closer David Bednar and second...",
-      "url": "https://www.nydailynews.com/2026/10/20/yankees-qualifying-offer-strategy-offseason-grisham-bednar/",
-      "published": "2026-10-20T16:29:03+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Milwaukee Brewers executive Matt Kleine emerging as candidate for Houston Astros' GM job",
-      "description": "The Astros have gone nearly two months without a general manager, but candidates for the job are beginning to emerge as the playoffs wind down.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-kleine-houston-gm-candidate-22486387.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Released by Braves in August, Jorge Mateo makes World Series with Rays",
-      "description": "A former Braves infielder from the 2026 roster has reached the World Series. Jorge Mateo, released by Atlanta in August, helped the Rays to an American League pennant. He and his new team will face ...",
-      "url": "https://www.ajc.com/sports/2026/10/world-series-jorge-mateo-rays/",
-      "published": "2026-10-20T15:10:46.716000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Arozarena, Glasnow cheer Rays at Trop for Game 6",
-      "description": "Here are the viral moments that filled Tropicana Field.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/20/arozarena-glasnow-cheer-rays-game-6-viral-moments/",
-      "published": "2026-10-20T14:57:28.419000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Giannis Antetokounmpo addresses Brewers World Series berth: 'It's incredible.'",
-      "description": "Milwaukee Brewers part-owner and former Bucks star Giannis Antetokounmpo weighed in on the team reaching the World Series.",
-      "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/10/20/giannis-antetokounmpo-on-milwaukee-brewers-world-series-incredible/92349918007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
