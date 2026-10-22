@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:56:30.628871+00:00",
+  "generated_at": "2026-10-22T05:23:28.665672+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -85,7 +85,7 @@
       "opponent_pitcher": "",
       "favorite_team_pitcher_record": "—",
       "opponent_pitcher_record": "—",
-      "show_probables": false,
+      "show_probables": true,
       "series_description": "World Series",
       "doubleheader": false,
       "game_number": 1,
