@@ -23,17 +23,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Dodgers, after falling short of a three-peat in the NLCS, will look a little different next year. But is this the end of an era for the team?",
-      "published": "2026-10-16T13:16:00+00:00",
-      "title": "Why impending free agent Tarik Skubal doesn’t believe it’s the end of an era for the Dodgers",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-16/dodgers-free-agency-tarik-skubal-end-of-an-era"
-    },
-    {
-      "category": "Dodgers",
       "description": "The Milwaukee Brewers seem to have the Dodgers number as they win Wednesday to take a commanding 3-0 lead in the NLCS.",
       "published": "2026-10-15T05:25:00+00:00",
       "title": "The Sports Report: Dodgers are in a deep NLCS hole",
       "url": "https://www.latimes.com/sports/newsletter/2026-10-15/dodgers-nlcs-game-3"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Dodgers, after falling short of a three-peat in the NLCS, will look a little different next year. But is this the end of an era for the team?",
+      "published": "2026-10-16T13:16:00+00:00",
+      "title": "Why impending free agent Tarik Skubal doesn’t believe it’s the end of an era for the Dodgers",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-16/dodgers-free-agency-tarik-skubal-end-of-an-era"
     },
     {
       "category": "Dodgers",
@@ -51,13 +51,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "Bex Castillo asked the Times’ sports desk at Game 3 of the NLCS where the Los Angeles Dodgers faced off against the Milwaukee Brewers. Rebecca Castillo is a content creator for the Los Angeles Times.",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "How do our reporters stay sane while covering the Dodgers?",
-      "url": "https://www.latimes.com/000001a1-3d19-d7d4-a9f5-ff9d8b430000-123"
-    },
-    {
-      "category": "Dodgers",
       "description": "Maddie Lee covers the Dodgers for the Los Angeles Times. She joined the paper in March 2026 after six years in Chicago, where she was a Cubs beat writer for the Chicago Sun-Times ...",
       "published": "2026-10-14T21:38:00+00:00",
       "title": "Dodgers Debate NLCS Game 3: Dodgers stare down a sweep",
@@ -65,10 +58,10 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
-      "published": "2026-10-14T22:38:00+00:00",
-      "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
+      "description": "Bex Castillo asked the Times’ sports desk at Game 3 of the NLCS where the Los Angeles Dodgers faced off against the Milwaukee Brewers. Rebecca Castillo is a content creator for the Los Angeles Times.",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "How do our reporters stay sane while covering the Dodgers?",
+      "url": "https://www.latimes.com/000001a1-3d19-d7d4-a9f5-ff9d8b430000-123"
     },
     {
       "category": "Dodgers",
@@ -76,9 +69,16 @@
       "published": "2026-10-15T23:06:00+00:00",
       "title": "Dodgers Debate NLCS Game 4: Dodgers are swept, no three-peat",
       "url": "https://www.latimes.com/lwabbaygmbk-123"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Milwaukee sent a parade of four relievers to the mound for a second straight game Monday, and for a second straight game they didn’t give up a run, retiring the last 15 Dodgers in order.",
+      "published": "2026-10-12T21:12:00+00:00",
+      "title": "In the NLCS, the Dodgers are seeing what money can’t buy: a bullpen such as Milwaukee’s",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/nlcs-dodgers-brewers-bullpen-matchup-abner-uribe"
     }
   ],
-  "generated_at": "2026-10-22T01:54:37.703909+00:00",
+  "generated_at": "2026-10-22T06:50:17.333868+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }
