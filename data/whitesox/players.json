@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:37:21.468763+00:00",
+  "generated_at": "2026-10-22T14:38:22.378601+00:00",
   "roster_as_of": "October 11, 2026",
   "team": {
     "id": 145,
@@ -1572,7 +1572,7 @@
       "is_active_roster": false,
       "birth_date": "2001-07-23",
       "age": 25,
-      "birthplace": "Torrance, California, U.S.",
+      "birthplace": "Torrance",
       "height": null,
       "weight": null,
       "bats": "Right",
@@ -1581,7 +1581,14 @@
       "debut_team": "Chicago White Sox",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "Mira Costa High School"
+          },
+          {
+            "name": "University of San Diego"
+          }
+        ]
       },
       "teams": [
         "Chicago White Sox"
