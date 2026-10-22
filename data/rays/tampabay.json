@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The American League champs made a custom glove for the Bucs QB to protect his injured thumb.",
+      "published": "2026-10-22T23:18:52+00:00",
+      "title": "With a little help from the Rays, Baker Mayfield is ready to roll",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/22/baker-mayfield-tampa-bay-rays-thumb-injury/"
+    },
+    {
+      "category": "Rays",
+      "description": "It took “a long and winding journey” after starting his career in Tampa Bay to being named NLCS MVP for Milwaukee.",
+      "published": "2026-10-22T21:01:24+00:00",
+      "title": "How Jake Bauers ‘different lifetime’ with Rays led to Brewers’ star turn",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/22/jake-bauers-milwaukee-brewers-world-series/"
+    },
+    {
+      "category": "Rays",
       "description": "From pitching, to hitting, to defense, we look at the players and the numbers to see if either team has a noticeable advantage.",
       "published": "2026-10-22T19:53:49+00:00",
       "title": "Rays. Brewers. World Series. So, who has the edge? We have thoughts",
@@ -97,23 +111,9 @@
       "published": "2026-10-20T02:01:29+00:00",
       "title": "BJ Upton likes what he sees from current Rays and the excitement",
       "url": "https://www.tampabay.com/sports/rays/2026/10/19/bj-upton-chandler-simpson-yandy-diaz-abs-tropicana-field-tyler-wells-taylor-smith/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | Freddy Peralta has been pitching well, is comfortable at Tropicana Field and can draw on plenty of postseason experience.",
-      "published": "2026-10-19T03:28:43+00:00",
-      "title": "Rays excited to start ‘Fastball Freddy’ with World Series berth on line",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/18/freddy-peralta-alcs-game-6-guardians-junior-caminero-drew-rasmussen/"
-    },
-    {
-      "category": "Rays",
-      "description": "Drew Rasmussen works seven dominant innings as Tampa Bay wins Game 5 of the ALCS. “It all ends (Monday),” DH Yandy Diaz says afterward.",
-      "published": "2026-10-19T00:12:34+00:00",
-      "title": "Rays beat Guardians again, return home one win from World Series berth",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/18/rays-beat-guardians-again-return-home-one-win-world-series-berth/"
     }
   ],
-  "generated_at": "2026-10-22T20:46:50.199954+00:00",
+  "generated_at": "2026-10-22T23:40:07.889519+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

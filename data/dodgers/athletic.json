@@ -30,6 +30,13 @@
     },
     {
       "category": "Dodgers",
+      "description": "The Brewers overcame an early deficit to reach the World Series for the first time since '82, ending the Dodgers' bid for three-peat.",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
+      "url": "https://www.nytimes.com/athletic/7691528/2026/10/15/dodgers-brewers-game-4-score-results-takeaways-mlb-nlcs-2026/"
+    },
+    {
+      "category": "Dodgers",
       "description": "Tarik Skubal, whose acquisition at the trade deadline sparked a fresh wave of anti-Dodger sentiment, took the loss in Game 1. Yoshinobu Yamamoto, whose $325 million guarantee is the largest for a ...",
       "published": "2026-10-16T05:04:00+00:00",
       "title": "The Dodgers, who spent big to build an MLB power, now face an uncomfortable reality",
@@ -44,24 +51,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Brewers overcame an early deficit to reach the World Series for the first time since '82, ending the Dodgers' bid for three-peat.",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
-      "url": "https://www.nytimes.com/athletic/7691528/2026/10/15/dodgers-brewers-game-4-score-results-takeaways-mlb-nlcs-2026/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Milwaukee Brewers hold a 3-0 series lead over the Los Angeles Dodgers entering Game 4 of the NLCS tonight at Dodger Stadium. Propelled by the long ball Wednesday night, the Brewers took a ...",
-      "published": "2026-10-15T22:12:00+00:00",
-      "title": "How the Brewers swept the Dodgers in NLCS to head to World Series for first time since 1982",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/"
-    },
-    {
-      "category": "Dodgers",
       "description": "Today was the last time that I wore that uniform as a player and my cleats,\" Rojas said. \"It’s really hard to take them off right now.\" ...",
       "published": "2026-10-15T21:36:00+00:00",
       "title": "Miguel Rojas, hero of the 2025 World Series for the Dodgers, announces retirement",
       "url": "https://www.nytimes.com/athletic/7695095/2026/10/16/miguel-rojas-dodgers-retirement/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Milwaukee Brewers hold a 3-0 series lead over the Los Angeles Dodgers entering Game 4 of the NLCS tonight at Dodger Stadium. Propelled by the long ball Wednesday night, the Brewers took a ...",
+      "published": "2026-10-15T20:55:00+00:00",
+      "title": "How the Brewers swept the Dodgers in NLCS to head to World Series for first time since 1982",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/"
     },
     {
       "category": "Dodgers",
@@ -85,7 +85,7 @@
       "url": "https://www.nytimes.com/athletic/7697325/2026/10/17/odgers-yankees-mlb-dynasties-future/"
     }
   ],
-  "generated_at": "2026-10-22T20:47:03.217256+00:00",
+  "generated_at": "2026-10-22T23:41:05.991976+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

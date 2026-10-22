@@ -2,13 +2,27 @@
   "articles": [
     {
       "category": "Nationals",
+      "description": "Many nights after work, as people often do, Washington Nationals first baseman Nathaniel Lowe checks his social media accounts. Unlike most, however, Lowe must brace himself to find out which ...",
+      "published": "2025-06-14T15:35:00+00:00",
+      "title": "‘Kill yourself’: Toxic mix of betting, social media fuels athlete abuse",
+      "url": "https://www.washingtonpost.com/sports/2025/06/14/sports-betting-athlete-abuse-online/"
+    },
+    {
+      "category": "Nationals",
+      "description": "KINGSTON, Jamaica — The first flight transporting third-country nationals from the United States arrived in Jamaica on Tuesday, marking the commencement of a highly scrutinized bilateral agreement ...",
+      "published": "2026-10-13T16:40:00+00:00",
+      "title": "Jamaica begins receiving third-country deportees under controversial US agreement",
+      "url": "https://www.washingtonpost.com/world/2026/10/13/jamaica-third-country-deportations-us-trump/e362e858-c75e-11f1-aefb-abe4112d087e_story.html"
+    },
+    {
+      "category": "Nationals",
       "description": "Federal authorities are arresting more than two dozen foreign nationals in California who authorities said have illegally registered and voted in U.S. elections ...",
       "published": "2026-10-19T13:02:00+00:00",
       "title": "Justice Department charges more than 2 dozen in California sweep targeting alleged noncitizen voters",
       "url": "https://www.washingtonpost.com/politics/2026/10/19/california-election-justice-department/f27a035a-cbcb-11f1-ac04-9f58578a68b4_story.html"
     }
   ],
-  "generated_at": "2026-10-22T20:46:59.158025+00:00",
+  "generated_at": "2026-10-22T23:40:59.809284+00:00",
   "source": "Washington Post",
   "source_url": "https://www.washingtonpost.com/sports/nationals/"
 }
