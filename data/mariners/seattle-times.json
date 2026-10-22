@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "The Mariners have kept the list of potential managers they're talking to quiet, but a third name has emerged: Cubs director of player development Jason Kanzler.",
+      "published": "2026-10-21T10:33:00+00:00",
+      "title": "Mariners linked to Cubs’ Jason Kanzler as potential manager candidate",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-linked-to-cubs-jason-kanzler-as-manager-candidate/"
+    },
+    {
+      "category": "Mariners",
       "description": "The Mariners have tried and failed many times to find a reliable right-handed bat. The problem is one of many glaring issues they'll need to address this offseason.",
       "published": "2026-10-14T23:00:00+00:00",
       "title": "Mariners know they need a right-handed bat. But it’s easier said than done.",
@@ -57,7 +64,7 @@
       "url": "https://www.seattletimes.com/sports/mariners/looking-at-possible-candidates-for-mariners-open-manager-search/"
     }
   ],
-  "generated_at": "2026-10-21T23:44:04.512067+00:00",
+  "generated_at": "2026-10-22T01:54:16.138092+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

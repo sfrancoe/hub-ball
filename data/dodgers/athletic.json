@@ -2,38 +2,10 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
-      "published": "2026-10-14T14:00:00+00:00",
-      "title": "Milwaukee powers past Los Angeles in MLB playoffs NLCS Game 3: Brewers vs. Dodgers live updates, reaction",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "More than 30 minutes after the fall of the Los Angeles Dodgers’ dynasty, the players who made it happen sat in silent acceptance. The Dodgers, trounced in four games by the Milwaukee Brewers in the ...",
-      "published": "2026-10-17T06:00:00+00:00",
-      "title": "What comes next for a dynasty? Setting the stage for the Dodgers’ offseason",
-      "url": "https://www.nytimes.com/athletic/7697036/2026/10/17/dodgers-offseason-plans/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "By the time Ohtani returned, the damage was done. Ohtani’s struggles continued into October, where he looked overmatched at times and batted as low as sixth in the Dodgers’ order. He moved back to ...",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "After Dodgers’ shocking elimination, here are their 4 biggest offseason questions",
-      "url": "https://www.nytimes.com/athletic/7694069/2026/10/15/dodgers-offseason-questions/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Tarik Skubal, whose acquisition at the trade deadline sparked a fresh wave of anti-Dodger sentiment, took the loss in Game 1. Yoshinobu Yamamoto, whose $325 million guarantee is the largest for a ...",
-      "published": "2026-10-16T05:04:00+00:00",
-      "title": "The Dodgers, who spent big to build an MLB power, now face an uncomfortable reality",
-      "url": "https://www.nytimes.com/athletic/7694883/2026/10/16/dodgers-mlb-playoffs-loss-spending-roster-age/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Brewers overcame an early deficit to reach the World Series for the first time since '82, ending the Dodgers' bid for three-peat.",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
-      "url": "https://www.nytimes.com/athletic/7691528/2026/10/15/dodgers-brewers-game-4-score-results-takeaways-mlb-nlcs-2026/"
+      "description": "Andrew Friedman has heard the narrative that the Dodgers' dynasty is over. \"I welcome it,\" he said with a smile.",
+      "published": "2026-10-21T17:19:00+00:00",
+      "title": "Dodgers discuss plans for Shohei Ohtani’s status, Tarik Skubal’s free agency, pending lockout",
+      "url": "https://www.nytimes.com/athletic/7711869/2026/10/21/andrew-friedman-ohtani-status-skubal-lockout-dodgers-2027/"
     },
     {
       "category": "Dodgers",
@@ -44,10 +16,38 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Dodgers' season, their pursuit of a World Series three-peat and their dynasty dreams — all are on the brink.",
-      "published": "2026-10-15T04:30:00+00:00",
-      "title": "The Dodgers keep squandering chance after chance. It could define their postseason",
-      "url": "https://www.nytimes.com/athletic/7685327/2026/10/15/dodgers-mlb-playoffs-offense-nlcs-game-3/"
+      "description": "More than 30 minutes after the fall of the Los Angeles Dodgers’ dynasty, the players who made it happen sat in silent acceptance. The Dodgers, trounced in four games by the Milwaukee Brewers in the ...",
+      "published": "2026-10-17T06:00:00+00:00",
+      "title": "What comes next for a dynasty? Setting the stage for the Dodgers’ offseason",
+      "url": "https://www.nytimes.com/athletic/7697036/2026/10/17/dodgers-offseason-plans/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
+      "published": "2026-10-14T14:00:00+00:00",
+      "title": "Milwaukee powers past Los Angeles in MLB playoffs NLCS Game 3: Brewers vs. Dodgers live updates, reaction",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Tarik Skubal, whose acquisition at the trade deadline sparked a fresh wave of anti-Dodger sentiment, took the loss in Game 1. Yoshinobu Yamamoto, whose $325 million guarantee is the largest for a ...",
+      "published": "2026-10-16T05:04:00+00:00",
+      "title": "The Dodgers, who spent big to build an MLB power, now face an uncomfortable reality",
+      "url": "https://www.nytimes.com/athletic/7694883/2026/10/16/dodgers-mlb-playoffs-loss-spending-roster-age/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "By the time Ohtani returned, the damage was done. Ohtani’s struggles continued into October, where he looked overmatched at times and batted as low as sixth in the Dodgers’ order. He moved back to ...",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "After Dodgers’ shocking elimination, here are their 4 biggest offseason questions",
+      "url": "https://www.nytimes.com/athletic/7694069/2026/10/15/dodgers-offseason-questions/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Brewers overcame an early deficit to reach the World Series for the first time since '82, ending the Dodgers' bid for three-peat.",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
+      "url": "https://www.nytimes.com/athletic/7691528/2026/10/15/dodgers-brewers-game-4-score-results-takeaways-mlb-nlcs-2026/"
     },
     {
       "category": "Dodgers",
@@ -55,6 +55,13 @@
       "published": "2026-10-15T22:12:00+00:00",
       "title": "How the Brewers swept the Dodgers in NLCS to head to World Series for first time since 1982",
       "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Dodgers' season, their pursuit of a World Series three-peat and their dynasty dreams — all are on the brink.",
+      "published": "2026-10-15T04:30:00+00:00",
+      "title": "The Dodgers keep squandering chance after chance. It could define their postseason",
+      "url": "https://www.nytimes.com/athletic/7685327/2026/10/15/dodgers-mlb-playoffs-offense-nlcs-game-3/"
     },
     {
       "category": "Dodgers",
@@ -76,16 +83,9 @@
       "published": "2026-10-16T17:00:00+00:00",
       "title": "Shohei Ohtani Dodgers Tokyo Series jersey sells for record $2 million",
       "url": "https://www.nytimes.com/athletic/7699851/2026/10/17/shohei-ohtani-dodgers-jersey-tokyo-series-sale/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Baseball's biggest star announced his arrival in this year’s postseason with a gargantuan three-run homer on Thursday.",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "Dodgers’ Shohei Ohtani delivers a long-awaited playoff jolt with Game 4 blast",
-      "url": "https://www.nytimes.com/athletic/7694606/2026/10/15/shohei-ohtani-home-run-nlcs-dodgers-brewers/"
     }
   ],
-  "generated_at": "2026-10-21T23:44:26.879642+00:00",
+  "generated_at": "2026-10-22T01:54:37.884055+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }
