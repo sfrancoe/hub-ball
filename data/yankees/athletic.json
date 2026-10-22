@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "With his team trending in the wrong direction, Steinbrenner isn't changing the GM, the manager or his style of leadership.",
+      "published": "2026-10-22T10:00:36+00:00",
+      "title": "Yankees owner Hal Steinbrenner wants change. He needs to look in the mirror",
+      "url": "https://www.nytimes.com/athletic/7712217/2026/10/22/yankees-hal-steinbrenner-aaron-boone-brian-cashman-change/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees owner says Apollo will have \"zero\" say in the daily operations of New York's American League franchise.",
       "published": "2026-10-21T21:48:19+00:00",
       "title": "Hal Steinbrenner: No plan to sell Yankees despite $2.6 billion Apollo deal",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T03:40:58+00:00",
       "title": "Yankees can't grab a game as they're swept away by Rays in disappointing ALDS",
       "url": "https://www.nytimes.com/athletic/7670332/2026/10/07/yankees-rays-takeaways-game-3-alds-score/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Do the Yankees feel that Boone, who has managed the team for nine seasons, has reached his ceiling in pinstripes?",
-      "published": "2026-10-08T03:14:46+00:00",
-      "title": "Will Aaron Boone return? The 3 biggest questions facing Yankees as offseason begins",
-      "url": "https://www.nytimes.com/athletic/7670030/2026/10/07/yankees-offseason-questions-aaron-boone/"
     }
   ],
-  "generated_at": "2026-10-21T23:43:41.459408+00:00",
+  "generated_at": "2026-10-22T12:38:10.787833+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

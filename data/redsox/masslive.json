@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "How seven ex-Red Sox players with the Brewers and Rays have done this postseason (and how they did during the regular season).",
+      "published": "2026-10-22T10:00:01+00:00",
+      "title": "How ex-Red Sox players in World Series for Rays, Brewers are doing this season",
+      "url": "https://www.masslive.com/redsox/2026/10/how-ex-red-sox-players-in-world-series-for-rays-brewers-are-doing-this-season.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Third base coach Chad Epperson and first base coach Pablo Cabrera will not return to their roles, with Epperson set to manage Triple-A Worcester and Cabrera returning to his minor league defensive coordinator position.",
       "published": "2026-10-21T17:51:25+00:00",
       "title": "Red Sox are parting ways with two coaches just months after a midseason overhaul — here's what we know about the changes",
@@ -78,7 +85,7 @@
       "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-live-sean-mcadam-on-red-sox-medical-staff-free-agency-and-more.html"
     }
   ],
-  "generated_at": "2026-10-21T20:48:03.599391+00:00",
+  "generated_at": "2026-10-22T12:38:03.273913+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
