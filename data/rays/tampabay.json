@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "From pitching, to hitting, to defense, we look at the players and the numbers to see if either team has a noticeable advantage.",
+      "published": "2026-10-22T19:53:49+00:00",
+      "title": "Rays. Brewers. World Series. So, who has the edge? We have thoughts",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/22/milwaukee-brewers-world-series-hitting-defense-rotation/"
+    },
+    {
+      "category": "Rays",
+      "description": "Tropicana Field hasn’t held a Fall Classic since 2008.",
+      "published": "2026-10-22T18:00:00+00:00",
+      "title": "How the World Series puts nationwide eyes on Tampa Bay",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/22/world-series-rays-brewers-attendance-businesses/"
+    },
+    {
+      "category": "Rays",
       "description": "Notes | The teams met once this season way back in late March/early April, so there is a lot to go over in reports.",
       "published": "2026-10-21T22:49:04+00:00",
       "title": "As Rays head to World Series, ‘easy to see’ why Brewers are so good",
@@ -97,23 +111,9 @@
       "published": "2026-10-19T00:12:34+00:00",
       "title": "Rays beat Guardians again, return home one win from World Series berth",
       "url": "https://www.tampabay.com/sports/rays/2026/10/18/rays-beat-guardians-again-return-home-one-win-world-series-berth/"
-    },
-    {
-      "category": "Rays",
-      "description": "Tales | Kevin Cash is MLB’s longest-tenured manager with his current team. It’s the same with hitting coach Chad Mottola. Pitching coach Kyle Snyder is tied for second.",
-      "published": "2026-10-18T12:00:00+00:00",
-      "title": "For Rays, stability in dugout is a big part of their onfield success",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/18/kevin-cash-chad-mottola-kyle-snyder-carson-williams-rocco-baldelli/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | Cleveland will turn to lefty and Plant City native Parker Messick as its starter.",
-      "published": "2026-10-18T04:28:42+00:00",
-      "title": "Rays look to ace Drew Rasmussen for ALCS Game 5 start vs. Guardians",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/18/drew-rasmussen-alcs-game-5-cleveland-guardians-parker-messick-plant-city/"
     }
   ],
-  "generated_at": "2026-10-21T23:43:44.047099+00:00",
+  "generated_at": "2026-10-22T20:46:50.199954+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

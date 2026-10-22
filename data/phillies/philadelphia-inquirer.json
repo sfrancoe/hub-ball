@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Phillies",
-      "description": "What if Turner doesn't improve? “We’ll have fallback opportunities,” Dave Dombrowski said, “and some of it may come back to young guys we have.” ...",
-      "published": "2026-10-15T13:07:00+00:00",
-      "title": "Phillies will keep Trea Turner at shortstop for now: ‘He knows he has to be better’",
-      "url": "https://www.inquirer.com/phillies/trea-turner-shortstop-move-positions-dombrowski-prospects-20261015.html"
-    },
-    {
-      "category": "Phillies",
       "description": "Dombrowski had a lot of answers for a disappointing Phillies season during his year-end news conference on Thursday. He didn’t offer many solutions.",
       "published": "2026-10-16T03:01:00+00:00",
       "title": "To Dave Dombrowski, the Phillies’ problems begin an arm’s length away",
@@ -23,10 +16,10 @@
     },
     {
       "category": "Phillies",
-      "description": "They weren’t good by traditional standards, but they were a reflection of the working-class city in which they played. And on Oct. 13, 1993, they beat the Atlanta Braves for the National League title.",
-      "published": "2026-10-16T04:01:00+00:00",
-      "title": "‘Macho Row’ Phillies won the National League pennant on this week in Philly history",
-      "url": "https://www.inquirer.com/history/macho-row-phillies-national-leaguge-1993-20261016.html"
+      "description": "What if Turner doesn't improve? “We’ll have fallback opportunities,” Dave Dombrowski said, “and some of it may come back to young guys we have.” ...",
+      "published": "2026-10-15T13:07:00+00:00",
+      "title": "Phillies will keep Trea Turner at shortstop for now: ‘He knows he has to be better’",
+      "url": "https://www.inquirer.com/phillies/trea-turner-shortstop-move-positions-dombrowski-prospects-20261015.html"
     },
     {
       "category": "Phillies",
@@ -34,6 +27,13 @@
       "published": "2026-10-14T18:59:00+00:00",
       "title": "Sources: Phillies fire veteran coaches Kevin Long and Bobby Dickerson",
       "url": "https://www.inquirer.com/phillies/coaches-fired-kevin-long-bobby-dickerson-hitting-infield-20261014.html"
+    },
+    {
+      "category": "Phillies",
+      "description": "They weren’t good by traditional standards, but they were a reflection of the working-class city in which they played. And on Oct. 13, 1993, they beat the Atlanta Braves for the National League title.",
+      "published": "2026-10-16T04:01:00+00:00",
+      "title": "‘Macho Row’ Phillies won the National League pennant on this week in Philly history",
+      "url": "https://www.inquirer.com/history/macho-row-phillies-national-leaguge-1993-20261016.html"
     },
     {
       "category": "Phillies",
@@ -64,7 +64,7 @@
       "url": "https://www.inquirer.com/phillies/payroll-nlcs-alcs-dave-dombrowski-don-mattingly-alex-cora-minor-league-system-20261014.html"
     }
   ],
-  "generated_at": "2026-10-22T17:37:24.322181+00:00",
+  "generated_at": "2026-10-22T20:46:58.678482+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Martinez will face off against Brewers ace Jacob Misiorowski on Friday night in Milwaukee.",
+      "published": "2026-10-22T20:26:28+00:00",
+      "title": "Rays tab Nick Martinez to start Game 1 of World Series against Brewers",
+      "url": "https://www.nytimes.com/athletic/7714895/2026/10/22/rays-world-series-game-1-starter/"
+    },
+    {
+      "category": "Rays",
       "description": "Is competitive balance really breaking baseball? What if that answer is … maybe not? It's time once again to debunk these MLB parity myths.",
       "published": "2026-10-22T10:21:12+00:00",
       "title": "As the Brewers and Rays are proving, maybe, just maybe, baseball isn't broken",
@@ -132,16 +139,9 @@
       "published": "2026-10-18T10:00:38+00:00",
       "title": "Guardians, Rays proving baseball's next innovation might be hiding starters in the bullpen",
       "url": "https://www.nytimes.com/athletic/7700243/2026/10/18/guardians-rays-innovation-alcs-game-4-bullpen-starters/"
-    },
-    {
-      "category": "Rays",
-      "description": "Caminero hit the tiebreaking double in Game 4 on Saturday night, and Tampa Bay finally got its offense on track.",
-      "published": "2026-10-18T10:00:20+00:00",
-      "title": "Junior Caminero found redemption as the Rays got even with the Guardians in the ALCS",
-      "url": "https://www.nytimes.com/athletic/7693873/2026/10/18/rays-junior-caminero-game-4-alcs-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-22T12:38:17.427554+00:00",
+  "generated_at": "2026-10-22T20:46:51.089789+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

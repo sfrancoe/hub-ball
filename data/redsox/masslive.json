@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The World Series hasn’t even started yet, but that’s not stopping the Red Sox from beginning to accumulate depth heading into 2027. They've reached agreement on a minor league deal with a veteran catcher.",
+      "published": "2026-10-22T20:38:57+00:00",
+      "title": "Red Sox sign veteran catcher Riley Adams to minor league deal",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-sign-first-free-agent-of-winter-inking-ex-nationals-catcher-to-minor-league-deal.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "MassLive’s Fenway Insider Sean McAdam hosted a mailbag Thursday, Oct. 22 to highlight the latest news from the Boston Red Sox.",
       "published": "2026-10-22T15:00:00+00:00",
       "title": "Fenway Insider Live: Sean McAdam on Jarren Duran, potential 2027 lockout and more",
@@ -85,7 +92,7 @@
       "url": "https://www.masslive.com/redsox/2026/10/grading-the-boston-red-sox-2026-position-players-the-fenway-rundown.html"
     }
   ],
-  "generated_at": "2026-10-22T17:37:05.218016+00:00",
+  "generated_at": "2026-10-22T20:46:36.097756+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

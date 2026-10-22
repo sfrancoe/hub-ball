@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Cubs",
-      "description": "Although this upcoming class of free agents is viewed as subpar, four names stand out while assessing the Cubs’ biggest weakness.",
-      "published": "2026-10-20T02:40:00+00:00",
-      "title": "Four free agents the Cubs should target to fix their pitching",
-      "url": "https://www.nytimes.com/athletic/7705123/2026/10/20/cubs-pitching-free-agents-skubal-peralta-2026/"
-    },
-    {
-      "category": "Cubs",
       "description": "The Cubs will need some internal improvements next season. These four players, in particular, could be difference-makers.",
       "published": "2026-10-21T03:31:00+00:00",
       "title": "Here are 4 Cubs who need to bounce back next season",
@@ -16,17 +9,10 @@
     },
     {
       "category": "Cubs",
-      "description": "Seattle is also considering Joe Espada, Rocco Baldelli and other candidates to replace Dan Wilson after a disappointing season.",
-      "published": "2026-10-21T09:00:00+00:00",
-      "title": "Mariners’ manager search includes Cubs farm director Jason Kanzler, among others: Sources",
-      "url": "https://www.nytimes.com/athletic/7711238/2026/10/21/mariners-manager-search-candidates/"
-    },
-    {
-      "category": "Cubs",
-      "description": "The Cubs, who were eliminated in the wild-card round this postseason, are working through some internal changes. Isaac Wasserman / Getty Images In the absence of playoff baseball at Wrigley Field this ...",
-      "published": "2026-10-19T15:19:00+00:00",
-      "title": "Cubs adding Rays official to international scouting as front office reshuffles",
-      "url": "https://www.nytimes.com/athletic/7705901/2026/10/19/cubs-international-scouting-changes/"
+      "description": "Although this upcoming class of free agents is viewed as subpar, four names stand out while assessing the Cubs’ biggest weakness.",
+      "published": "2026-10-20T02:40:00+00:00",
+      "title": "Four free agents the Cubs should target to fix their pitching",
+      "url": "https://www.nytimes.com/athletic/7705123/2026/10/20/cubs-pitching-free-agents-skubal-peralta-2026/"
     },
     {
       "category": "Cubs",
@@ -34,6 +20,13 @@
       "published": "2026-10-19T06:02:00+00:00",
       "title": "Orioles hire Cubs’ Jared Banner as GM in Baltimore: Source",
       "url": "https://www.nytimes.com/athletic/7702293/2026/10/19/jared-banner-orioles-gm-hire/"
+    },
+    {
+      "category": "Cubs",
+      "description": "Seattle is also considering Joe Espada, Rocco Baldelli and other candidates to replace Dan Wilson after a disappointing season.",
+      "published": "2026-10-21T09:00:00+00:00",
+      "title": "Mariners’ manager search includes Cubs farm director Jason Kanzler, among others: Sources",
+      "url": "https://www.nytimes.com/athletic/7711238/2026/10/21/mariners-manager-search-candidates/"
     },
     {
       "category": "Cubs",
@@ -50,7 +43,7 @@
       "url": "https://www.nytimes.com/athletic/7357918/2026/06/14/seiya-suzuki-key-to-unlocking-cubs/"
     }
   ],
-  "generated_at": "2026-10-22T17:37:25.336881+00:00",
+  "generated_at": "2026-10-22T20:46:59.791032+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }
