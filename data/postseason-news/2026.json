@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-22T22:48:01.291171+00:00",
+  "generatedAt": "2026-10-23T01:02:45.073090+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
@@ -9,10 +9,70 @@
   "coveredTeamCount": 6,
   "articles": [
     {
-      "title": "Former Red Sox first baseman/outfielder Todd Benzinger dead at the age of 63",
+      "title": "Yankees hitting coaches could be in the crosshairs after Hal Steinbrenner calls out lineup",
+      "description": "",
+      "url": "https://nypost.com/2026/10/22/sports/yankees-hitting-coaches-could-be-on-hot-seat/",
+      "published": "2026-10-23T00:52:29+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Lexington’s Sal Frelick enjoyed World Series glory as a Red Sox fan. Now he has a chance to savor his own with the Brewers.",
+      "description": "“This is what you dream of as a kid.” It’s just been fun. Playing with this group of guys, too, has been great,” Frelick said on the eve of Game 1 of the World Series.",
+      "url": "https://www.bostonglobe.com/2026/10/22/sports/world-series-brewers-sal-frelick-boston-college/",
+      "published": "2026-10-23T00:47:09.288000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees-less small-market World Series is must-see TV",
+      "description": "",
+      "url": "https://nypost.com/2026/10/22/sports/forget-market-size-brewers-rays-world-series-is-must-see-tv/",
+      "published": "2026-10-23T00:37:38+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "When the Rays or Brewers win their first World Series, a former PawSox announcer will be on the call",
+      "description": "Andy Freed has called Rays games for 22 seasons, and Jeff Levering is in his 12th year calling Brewers games. In this year alone, a Sox AAA alum has called the Super Bowl and the NBA Finals.",
+      "url": "https://www.bostonglobe.com/2026/10/22/sports/pawtucket-red-sox-announcers-world-series/",
+      "published": "2026-10-22T23:42:04.608000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "With a little help from the Rays, Baker Mayfield is ready to roll",
+      "description": "The American League champs made a custom glove for the Bucs QB to protect his injured thumb.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/22/baker-mayfield-tampa-bay-rays-thumb-injury/",
+      "published": "2026-10-22T23:18:52.673000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Former Red Sox 1B/OF Todd Benzinger dead at the age of 63",
       "description": "Benzinger was a fourth-round draft pick of the Red Sox in 1981 out of New Richmond (Ohio) High School.",
       "url": "https://www.bostonglobe.com/2026/10/22/sports/todd-benzinger-dead-red-sox-reds/",
-      "published": "2026-10-22T22:16:34.478000+00:00",
+      "published": "2026-10-22T22:58:53.220000+00:00",
       "source": "The Boston Globe",
       "teamId": 111,
       "teamName": "Boston Red Sox",
@@ -48,13 +108,13 @@
       "title": "Rays tab Nick Martinez to start Game 1 of World Series against Brewers",
       "description": "Martinez will face off against Brewers ace Jacob Misiorowski on Friday night in Milwaukee.",
       "url": "https://www.nytimes.com/athletic/7714895/2026/10/22/rays-world-series-game-1-starter/",
-      "published": "",
+      "published": "2026-10-22T20:26:28+00:00",
       "source": "The Athletic",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
       "league": "AL",
-      "publishedSource": "unverified"
+      "publishedSource": "publisher"
     },
     {
       "title": "Rays. Brewers. World Series. So, who has the edge? We have thoughts",
@@ -81,6 +141,66 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Freddy Peralta calls chance to pitch against Brewers in World Series 'amazing'",
+      "description": "Fastball Freddy' Peralta is back in Milwaukee, this time with the Rays as he prepares to face the Brewers in the World Series.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/freddy-peralta-calls-chance-to-pitch-against-brewers-in-world-series-amazing/92377478007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "They're not on the Brewers, but they could still get a World Series ring",
+      "description": "Peter Strzelecki appeared in as many games for the Brewers as you, but he could get a World Series ring for it ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/these-brewers-arent-on-the-team-but-could-get-world-series-ring/92377517007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Tampa Bay Rays at Milwaukee Brewers odds, picks and predictions",
+      "description": "The Tampa Bay Rays and the Milwaukee Brewers meet Friday for Game 1 of the World Series in Milwaukee, Wisconsin. First pitch is set for 8 p.m. ET ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/2026/10/22/rays-at-brewers-world-series-game-1-odds-picks-and-predictions/92383426007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers vs Rays; everything to know about World Series Games 1 and 2",
+      "description": "Here's your guide to the World Series, whether you were lucky enough to score a ticket to American Family Field, attending a watch party or tuning in.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/brewers-vs-rays-world-series/92361901007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "On the edge of World Series chaos, Brewers rookie reflects on wild journey",
+      "description": "As reporters mobbed his more famous teammates on World Series media day, Brewers pitcher Shane Drohan appreciated the scene – and his rookie journey.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/milwaukee-brewers-rookie-shane-drohan-enjoys-calm-world-series-media-day-experience/92377567007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Yankees’ Aaron Boone says managing on an expiring contract ‘doesn’t bother me at all’",
       "description": "For the second time in four seasons, Aaron Boone is set to manage the Yankees...",
       "url": "https://www.nydailynews.com/2026/10/22/yankees-aaron-boone-expiring-contract/",
@@ -89,18 +209,6 @@
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "When the Rays or Brewers win their first World Series, a former PawSox announcer will be on the call",
-      "description": "Andy Freed has called Rays games for 22 seasons, and Jeff Levering is in his 12th year calling Brewers games. In this year alone, a Sox AAA alum has called the Super Bowl and the NBA Finals.",
-      "url": "https://www.bostonglobe.com/2026/10/22/sports/pawtucket-red-sox-announcers-world-series/",
-      "published": "2026-10-22T15:07:15.409000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
     },
@@ -151,66 +259,6 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Brewers World Series watch party tickets soar past $100 on resale sites",
-      "description": "The Brewers will host watch parties for Games 3 and 4 at American Family Field. Tickets were for sale on resale sites for $100 or more.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/brewers-world-series-watch-party-tickets-selling-for-six-times-the-price/92379090007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Where to find the best and worst World Series ticket values in Milwaukee",
-      "description": "Some World Series seats jumped 240 times their regular season price. Here's where Brewers fans are getting the best and worst value for their money.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/see-the-value-of-world-series-seats-compared-to-regular-season-prices/92360555007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers favored to win World Series by national media experts",
-      "description": "Most national media experts are picking the Milwaukee Brewers to win the World Series over the Tampa Bay Rays. See what they have to say.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/national-media-experts-favor-brewers-over-rays-in-world-series/92378343007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Behind the scenes The Yankees’ faith in their clubhouse culture is all about what you don’t see",
-      "description": "",
-      "url": "https://nypost.com/2026/10/22/sports/yankees-clubhouse-culture-faith-is-about-what-you-dont-see/",
-      "published": "2026-10-22T11:40:00+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Guardians appear willing to let clubhouse leader Austin Hedges test free agency",
-      "description": "Will Austin Hedges return to the Guardians in 2027? Cleveland's front office leaves the door open after an emotional playoff farewell and career-best season.",
-      "url": "https://www.cleveland.com/guardians/2026/10/guardians-appear-willing-to-let-clubhouse-leader-austin-hedges-test-free-agency.html",
-      "published": "",
-      "source": "Cleveland.com",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
