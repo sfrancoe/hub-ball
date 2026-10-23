@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees' clubhouse culture and their approach to accountability have been popular topics since the...",
+      "published": "2026-10-23T11:30:40+00:00",
+      "title": "Yankees say they’ll ‘look into’ clubhouse culture criticisms, even as they downplay them",
+      "url": "https://www.nydailynews.com/2026/10/23/yankees-aaron-boone-brian-cashman-mlb-october-rays-world-series/"
+    },
+    {
+      "category": "Yankees",
       "description": "For the second time in four seasons, Aaron Boone is set to manage the Yankees...",
       "published": "2026-10-22T15:32:14+00:00",
       "title": "Yankees’ Aaron Boone says managing on an expiring contract ‘doesn’t bother me at all’",
@@ -132,16 +139,9 @@
       "published": "2026-10-09T16:08:27+00:00",
       "title": "Why frustrated Yankees fans may not get their Aaron Boone wish",
       "url": "https://www.nydailynews.com/2026/10/09/aaron-boone-yankees-fans-frustrated-manager-fire-playoffs/"
-    },
-    {
-      "category": "Yankees",
-      "description": "David Bednar is also among the Yankees' top free agents.",
-      "published": "2026-10-09T02:15:33+00:00",
-      "title": "Jazz Chisholm Jr., Trent Grisham among Yankees’ impending free agents who may not return",
-      "url": "https://www.nydailynews.com/2026/10/08/jazz-chisholm-jr-trent-grisham-among-yankees-impending-free-agents-who-may-not-return/"
     }
   ],
-  "generated_at": "2026-10-22T17:37:05.603622+00:00",
+  "generated_at": "2026-10-23T12:43:15.077595+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

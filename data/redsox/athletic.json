@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Brewers and Rays have plenty in common. Even their road hotels — the Pfister in Milwaukee and the Vinoy in St. Petersburg — are haunted.",
+      "published": "2026-10-23T09:30:23+00:00",
+      "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
+      "url": "https://www.nytimes.com/athletic/7715640/2026/10/23/world-series-milwaukee-brewers-tampa-bay-rays-haunted-hotels/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Chad Epperson and Pablo Cabrera were promoted from within the organization in April, after Alex Cora and six coaches were fired.",
       "published": "2026-10-21T19:20:37+00:00",
       "title": "Red Sox reassign first, third-base coaches to minor-league positions",
@@ -104,16 +111,9 @@
       "published": "2026-10-01T09:49:39+00:00",
       "title": "Wild Day 2 of MLB playoffs featured Phillies home run history and mad math",
       "url": "https://www.nytimes.com/athletic/7648769/2026/10/01/mlb-wild-card-playoffs-day-2-weird-facts-trivia/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Can’t we just let the big boys pitch? It worked for a century or so. Now it's time to restore the starting pitcher to prominence.",
-      "published": "2026-10-01T09:36:12+00:00",
-      "title": "Red Sox become latest playoff team to get burned for rigid bullpen blueprint",
-      "url": "https://www.nytimes.com/athletic/7648499/2026/10/01/red-sox-become-latest-playoff-team-to-get-burned-for-rigid-bullpen-blueprint/"
     }
   ],
-  "generated_at": "2026-10-22T12:38:02.137358+00:00",
+  "generated_at": "2026-10-23T12:43:13.065504+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "In honor of the Brewers' World Series run, Matt Vautour's Top 5 this week features the other teams deserving of a championship.",
+      "published": "2026-10-23T10:00:01+00:00",
+      "title": "With Brewers in World Series, who are Top 5 (non-Boston) teams it’d be fun to see win a championship?",
+      "url": "https://www.masslive.com/redsox/2026/10/with-brewers-in-world-series-who-are-top-5-non-boston-teams-that-deserve-to-win-a-fun-championship.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Fraser Minten, James Hagens and Matt Poitras have each started strong for the surprising Bruins.",
+      "published": "2026-10-23T09:00:00+00:00",
+      "title": "Matt Vautour: Bruins’ bet on ‘internal improvement’ is working so far",
+      "url": "https://www.masslive.com/bruins/2026/10/bruins-bet-on-internal-improvement-is-working-so-far.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The World Series hasn’t even started yet, but that’s not stopping the Red Sox from beginning to accumulate depth heading into 2027. They've reached agreement on a minor league deal with a veteran catcher.",
       "published": "2026-10-22T20:38:57+00:00",
       "title": "Red Sox sign veteran catcher Riley Adams to minor league deal",
@@ -76,16 +90,9 @@
       "published": "2026-10-18T09:00:00+00:00",
       "title": "Some Things I Think I Think: Despite early elimination, Red Sox aren’t that far from contention",
       "url": "https://www.masslive.com/redsox/2026/10/some-things-i-think-i-think-despite-early-elimination-red-sox-arent-that-far-from-contention.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox face a pivotal offseason decision on top prospect Franklin Arias, weighing whether to build around him or trade him for proven major league talent.",
-      "published": "2026-10-16T09:00:00+00:00",
-      "title": "State of the Sox: The Red Sox have a prized asset in Franklin Arias — but figuring out where he fits, or whether to trade him, could define their offseason",
-      "url": "https://www.masslive.com/redsox/2026/10/state-of-the-sox-decision-on-top-prospect-could-hold-key-to-offseason.html"
     }
   ],
-  "generated_at": "2026-10-23T02:00:05.802424+00:00",
+  "generated_at": "2026-10-23T12:43:14.624943+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

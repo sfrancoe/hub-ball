@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "From the feel-good story of 2024 to a speedy base-stealer, here are all the former Red Sox to watch in this year’s World Series",
+      "published": "2026-10-23T09:30:46Z",
+      "title": "All the ex-Red Sox to watch in this historic 2026 World Series",
+      "url": "https://www.bostonherald.com/2026/10/23/red-sox-former-players-watch-world-series-2026-mlb-shane-drohan-david-hamilton/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Sonny Gray probably won’t win the AL Cy Young Award, but how does the Red Sox veteran stack up against the other top contenders?",
       "published": "2026-10-22T09:30:14Z",
       "title": "How does Red Sox veteran stack up among Cy Young Award contenders?",
@@ -104,16 +111,9 @@
       "published": "2026-10-09T09:30:41Z",
       "title": "Red Sox point-counterpoint: Was 2026 season a success or failure?",
       "url": "https://www.bostonherald.com/2026/10/09/red-sox-point-counterpoint-was-2026-season-a-success-or-failure/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "An unheralded Red Sox pitching prospect who just signed this past March turned heads within the organization in his first year of professional baseball.",
-      "published": "2026-10-08T09:30:41Z",
-      "title": "Unheralded Red Sox pitching prospect turned heads in first year as pro",
-      "url": "https://www.bostonherald.com/2026/10/08/unheralded-red-sox-pitching-prospect-turned-heads-in-first-year-as-pro/"
     }
   ],
-  "generated_at": "2026-10-22T12:38:00.917567+00:00",
+  "generated_at": "2026-10-23T12:43:12.668641+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
