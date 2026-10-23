@@ -2,20 +2,6 @@
   "articles": [
     {
       "category": "Brewers",
-      "description": "In text chains and conversations, former Milwaukee players ask the impossible: Is this the year the Brewers win it all?",
-      "published": "2026-10-23T03:01:00+00:00",
-      "title": "Bygone Brewers stars cherish World Series return: ‘My heart has always been in Milwaukee’",
-      "url": "https://www.nytimes.com/athletic/7714929/2026/10/23/brewers-world-series-2026-former-players/"
-    },
-    {
-      "category": "Brewers",
-      "description": "More than 7,000 of you gave your thoughts on this year's matchup and who you're rooting for. Here are the results.",
-      "published": "2026-10-23T08:31:00+00:00",
-      "title": "Are fans interested in watching a Brewers-Rays World Series? Here’s what you said",
-      "url": "https://www.nytimes.com/athletic/7715569/2026/10/23/world-series-2026-rays-brewers-mlb-survey/"
-    },
-    {
-      "category": "Brewers",
       "description": "When Kuenn, a Milwaukee lifer, was promoted to be the Brewers’ manager in that glorious 1982 season, he was living in the five-room apartment at the back of the bar, which was originally owned by his ...",
       "published": "2026-10-23T02:03:00+00:00",
       "title": "In the Land of 1,000 Bars, Milwaukee is ready to toast to a Brewers World Series",
@@ -23,10 +9,17 @@
     },
     {
       "category": "Brewers",
-      "description": "The Brewers and Rays have plenty in common. Even their road hotels — the Pfister in Milwaukee and the Vinoy in St. Petersburg — are haunted.",
-      "published": "2026-10-23T02:30:00+00:00",
-      "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
-      "url": "https://www.nytimes.com/athletic/7715640/2026/10/23/world-series-milwaukee-brewers-tampa-bay-rays-haunted-hotels/"
+      "description": "More than 7,000 of you gave your thoughts on this year's matchup and who you're rooting for. Here are the results.",
+      "published": "2026-10-23T09:04:00+00:00",
+      "title": "Are fans interested in watching a Brewers-Rays World Series? Here’s what you said",
+      "url": "https://www.nytimes.com/athletic/7715569/2026/10/23/world-series-2026-rays-brewers-mlb-survey/"
+    },
+    {
+      "category": "Brewers",
+      "description": "In text chains and conversations, former Milwaukee players ask the impossible: Is this the year the Brewers win it all?",
+      "published": "2026-10-23T03:01:00+00:00",
+      "title": "Bygone Brewers stars cherish World Series return: ‘My heart has always been in Milwaukee’",
+      "url": "https://www.nytimes.com/athletic/7714929/2026/10/23/brewers-world-series-2026-former-players/"
     },
     {
       "category": "Brewers",
@@ -34,6 +27,13 @@
       "published": "2026-10-23T02:45:00+00:00",
       "title": "Harvey Kuenn led Brewers to World Series. His famed prosthetic leg leaves a larger legacy",
       "url": "https://www.nytimes.com/athletic/7715722/2026/10/23/brewers-harvey-kuenn-prosthetic-leg-foundation/"
+    },
+    {
+      "category": "Brewers",
+      "description": "The Brewers and Rays have plenty in common. Even their road hotels — the Pfister in Milwaukee and the Vinoy in St. Petersburg — are haunted.",
+      "published": "2026-10-23T02:30:00+00:00",
+      "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
+      "url": "https://www.nytimes.com/athletic/7715640/2026/10/23/world-series-milwaukee-brewers-tampa-bay-rays-haunted-hotels/"
     },
     {
       "category": "Brewers",
@@ -69,16 +69,9 @@
       "published": "2026-10-21T02:02:00+00:00",
       "title": "MLB’s other low-payroll teams are on notice. The Rays and Brewers didn’t spend big to get here",
       "url": "https://www.nytimes.com/athletic/7706637/2026/10/21/brewers-rays-world-series-small-market-spending-mlb-playoffs/"
-    },
-    {
-      "category": "Brewers",
-      "description": "His favorite team in his favorite sport is playing for the title in his favorite town. And Bud Selig is here for it.",
-      "published": "2026-10-22T03:40:00+00:00",
-      "title": "Bud Selig is savoring this Brewers World Series and says MLB needs a salary cap",
-      "url": "https://www.nytimes.com/athletic/7712973/2026/10/22/bud-selig-brewers-world-series-mlb-salary-cap/"
     }
   ],
-  "generated_at": "2026-10-23T17:29:13.247302+00:00",
+  "generated_at": "2026-10-23T20:36:03.922829+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }

@@ -2,13 +2,20 @@
   "articles": [
     {
       "category": "Cardinals",
+      "description": "The injury news has been a wave crashing over the Rams since their 18-16 loss to the Arizona Cardinals, which dropped them to 2-4. In addition to Adams, they also placed defensive end Kobie Turner and ...",
+      "published": "2026-10-23T11:34:00+00:00",
+      "title": "Rams WR Puka Nacua misses practice, questionable vs. Raiders with calf injury",
+      "url": "https://www.nytimes.com/athletic/7715458/2026/10/23/puka-nacua-injury-rams-raiders/"
+    },
+    {
+      "category": "Cardinals",
       "description": "After Abner Uribe pounded his chest on Tuesday, he made a gesture towards the Cardinals dugout his manager called \"unacceptable.\" John Fisher / Getty Images Major League Baseball has suspended ...",
       "published": "2026-05-29T14:22:00+00:00",
       "title": "Brewers’ Abner Uribe suspended 1 game for crotch chop gesture toward Cardinals dugout",
       "url": "https://www.nytimes.com/athletic/7318797/2026/05/29/abner-uribe-brewers-suspension-crotch-chop/"
     }
   ],
-  "generated_at": "2026-10-22T17:37:26.998892+00:00",
+  "generated_at": "2026-10-23T20:36:04.866390+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cardinals/"
 }
