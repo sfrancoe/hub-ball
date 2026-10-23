@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The winningest professional baseball team in Japan is taking on a decidedly Yankee presence, as...",
+      "published": "2026-10-23T14:41:06+00:00",
+      "title": "Yankees great Hideki Matsui named manager of Japan’s Yomiuri Giants",
+      "url": "https://www.nydailynews.com/2026/10/23/yankees-hideki-matsui-manager-japan-yomiuri-giants/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees' clubhouse culture and their approach to accountability have been popular topics since the...",
       "published": "2026-10-23T11:30:40+00:00",
       "title": "Yankees say they’ll ‘look into’ clubhouse culture criticisms, even as they downplay them",
@@ -132,16 +139,9 @@
       "published": "2026-10-09T20:49:10+00:00",
       "title": "Could Trent Grisham return to the Yankees with Spencer Jones looming?",
       "url": "https://www.nydailynews.com/2026/10/09/trent-grisham-yankees-spencer-jones/"
-    },
-    {
-      "category": "Yankees",
-      "description": "After another early playoff exit, nine seasons at the helm and zero championships, calls for...",
-      "published": "2026-10-09T16:08:27+00:00",
-      "title": "Why frustrated Yankees fans may not get their Aaron Boone wish",
-      "url": "https://www.nydailynews.com/2026/10/09/aaron-boone-yankees-fans-frustrated-manager-fire-playoffs/"
     }
   ],
-  "generated_at": "2026-10-23T12:43:15.077595+00:00",
+  "generated_at": "2026-10-23T17:28:52.685723+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

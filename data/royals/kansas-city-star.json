@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "Jacob Misiorowski, who grew up in Grain Valley, is the obvious choice to make the start when the Brewers take on the Rays in Game 1 at American Family Field in Milwaukee. He piled up 252 strikeouts in ...",
+      "published": "2026-10-23T02:46:00+00:00",
+      "title": "Brewers’ Jacob Misiorowski carries memory of Royals’ title into World Series opener",
+      "url": "https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article317742473.html"
+    },
+    {
+      "category": "Royals",
       "description": "Todd Benzinger, who died Wednesday, played and coached for the Royals. He had a big impact on Mike Sweeney’s career.",
       "published": "2026-10-22T13:23:00+00:00",
       "title": "Mike Sweeney pays tribute to ex-Royals player & coach Todd Benzinger, who has died",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Royals",
-      "description": "Kansas City leaders say the new ballpark is the next step forward for a city that is growing momentum and heading toward a bright future.",
-      "published": "2026-10-15T09:50:00+00:00",
-      "title": "‘Think big’: Officials tout new Royals ballpark design as KC’s bright future",
-      "url": "https://www.kansascity.com/news/local/article317635586.html"
-    },
-    {
-      "category": "Royals",
       "description": "More details are to come about development in the planned sports entertainment district, including new possible housing, dining and shops.",
       "published": "2026-10-16T22:00:00+00:00",
       "title": "New Royals stadium designs leave some questions unanswered. Here are the biggest",
@@ -57,7 +57,7 @@
       "url": "https://www.kansascity.com/sports/spt-columns-blogs/vahe-gregorian/article317657430.html"
     }
   ],
-  "generated_at": "2026-10-23T12:43:28.528851+00:00",
+  "generated_at": "2026-10-23T17:29:06.431040+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

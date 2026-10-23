@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "An insurer controlled by Mark Walter, the billionaire owner of the Los Angeles Dodgers, received partial approval on its plan to slash a pile of loans that is being scrutinized by the Justice ...",
+      "published": "2026-10-23T08:50:00+00:00",
+      "title": "Dodgers owner Mark Walter wins partial approval to begin reshaping $20-billion web of loans",
+      "url": "https://www.latimes.com/business/story/2026-10-23/dodgers-owner-mark-walter-wins-partial-approval-to-begin-reshaping-20-billion-web-of-loans"
+    },
+    {
+      "category": "Dodgers",
       "description": "Bill Plaschke thinks the Dodgers need to pull Shohei Ohtani off the pitching mound permanently. And if he insists on continuing to hit and pitch full-time, it's time to consider a trade.",
       "published": "2026-10-21T16:44:00+00:00",
       "title": "Enough is enough. The Dodgers must stop letting Shohei Ohtani pitch",
@@ -62,23 +69,9 @@
       "published": "2026-10-12T21:12:00+00:00",
       "title": "In the NLCS, the Dodgers are seeing what money can’t buy: a bullpen such as Milwaukee’s",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/nlcs-dodgers-brewers-bullpen-matchup-abner-uribe"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Yoshinobu Yamamoto’s performance was a gut punch and a psyche-rattling blow for the Dodgers. But why didn't his catcher, Will Smith, use the team's ABS challenges?",
-      "published": "2026-10-13T03:00:00+00:00",
-      "title": "How Dodgers’ Will Smith altered the course of NLCS Game 2 — to Yoshinobu Yamamoto’s detriment",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-13/how-dodgers-will-smith-altered-course-of-game-2-of-nlcs"
-    },
-    {
-      "category": "Dodgers",
-      "description": "This is read by an automated voice. Please report any issues or inconsistencies here. See more from the L.A. Times in Google Search. Set us as preferred The Dodgers never waver in their game plan for ...",
-      "published": "2026-10-13T20:31:00+00:00",
-      "title": "Dodgers should have taken Shohei Ohtani off the postseason roster",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-13/dodgers-shohei-ohtani-postseason-roster"
     }
   ],
-  "generated_at": "2026-10-23T12:43:37.018564+00:00",
+  "generated_at": "2026-10-23T17:29:15.364036+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

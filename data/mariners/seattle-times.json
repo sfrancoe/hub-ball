@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "Compared to the Mariners, Milwaukee and Tampa Bay — which meet in the World Series starting Friday — have done so much more with less.",
+      "published": "2026-10-22T23:00:00+00:00",
+      "title": "Brewers-Rays World Series doesn’t justify Mariners’ payroll strategy",
+      "url": "https://www.seattletimes.com/sports/mariners/brewers-rays-world-series-doesnt-justify-mariners-payroll-strategy/"
+    },
+    {
+      "category": "Mariners",
       "description": "Stephen Vogt, a longtime Olympia resident, told reporters he plans to return to manage the Guardians in 2027 and isn’t interested in the Mariners’ managerial opening.",
       "published": "2026-10-22T09:40:00+00:00",
       "title": "Cleveland manager Stephen Vogt shoots down rumors of link to Mariners’ opening",
@@ -41,23 +48,9 @@
       "published": "2026-10-13T02:53:00+00:00",
       "title": "Mariners to meet with Astros’ Joe Espada about managerial opening",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-to-meet-with-astros-joe-espada-about-managerial-opening/"
-    },
-    {
-      "category": "Mariners",
-      "description": "What will the Mariners' payroll look like next season? We dive into the numbers to project what the M's will have available to spend on upgrading their roster.",
-      "published": "2026-10-13T05:00:00+00:00",
-      "title": "Projecting Mariners’ payroll budget for 2027 season",
-      "url": "https://www.seattletimes.com/sports/mariners/what-will-mariners-2027-payroll-budget-look-like/"
-    },
-    {
-      "category": "Mariners",
-      "description": "The Mariners’ 23-year-old second baseman was named one of three finalists for the Gold Glove Award, a distinct recognition of his defensive transformation.",
-      "published": "2026-10-14T02:54:00+00:00",
-      "title": "Mariners second baseman Cole Young named a Gold Glove Award finalist",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-second-baseman-cole-young-named-a-gold-glove-award-finalist/"
     }
   ],
-  "generated_at": "2026-10-23T07:23:34.239402+00:00",
+  "generated_at": "2026-10-23T17:29:08.804883+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }
