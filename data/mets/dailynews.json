@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Enjoy this edition of the World Series while it lasts. It could be the last...",
+      "published": "2026-10-23T23:16:58+00:00",
+      "title": "Mets should closely watch CBA negotiations with potential salary cap on horizon",
+      "url": "https://www.nydailynews.com/2026/10/23/mets-world-series-lockout-cba-steve-cohen-salary-cap/"
+    },
+    {
+      "category": "Mets",
       "description": "Williams posted a 4.43 ERA with 16 saves in 44 appearances.",
       "published": "2026-10-21T22:10:22+00:00",
       "title": "Mets need better season from Devin Williams after closer’s ‘disappointing’ 2026",
@@ -132,16 +139,9 @@
       "published": "2026-09-21T11:00:36+00:00",
       "title": "Carlos Beltrán non-committal about interest, but others could see him succeeding as Mets manager",
       "url": "https://www.nydailynews.com/2026/09/21/carlos-beltran-non-committal-mets-manager/"
-    },
-    {
-      "category": "Mets",
-      "description": "Jonah Tong gave up four earned runs to the Philadelphia Phillies in a 7-2 loss.",
-      "published": "2026-09-20T21:23:49+00:00",
-      "title": "Mets conclude home slate of ’26 season with loss to Philadelphia Phillies",
-      "url": "https://www.nydailynews.com/2026/09/20/mets-home-slate-jonah-tong-phillies/"
     }
   ],
-  "generated_at": "2026-10-21T23:43:42.271915+00:00",
+  "generated_at": "2026-10-23T23:27:37.830470+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

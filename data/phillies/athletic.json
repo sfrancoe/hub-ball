@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Phillies",
-      "description": "Will the Phillies re-sign Edmundo Sosa? Edward M. Pio Roda / After Edmundo Sosa took grounders at third base before the Philadelphia Phillies’ final game of the postseason, Alec Bohm took his place ...",
-      "published": "2026-10-13T03:01:00+00:00",
-      "title": "Five more questions the Phillies must answer this offseason",
-      "url": "https://www.nytimes.com/athletic/7684810/2026/10/13/phillies-offseason-questions/"
-    },
-    {
-      "category": "Phillies",
       "description": "Long, who was under contract through 2028, has been a hitting coach in the major leagues for 20 consecutive seasons.",
       "published": "2026-10-14T16:48:00+00:00",
       "title": "Phillies fire hitting coach Kevin Long, infield coach Bobby Dickerson: Sources",
@@ -55,9 +48,16 @@
       "published": "2026-10-15T08:10:00+00:00",
       "title": "Phillies bring back lefty reliever Tim Mayza on 1-year-deal",
       "url": "https://www.nytimes.com/athletic/7692705/2026/10/15/tim-mayza-contract-signing-one-year-phillies/"
+    },
+    {
+      "category": "Phillies",
+      "description": "Mattingly said he wants to prioritize defense and believes the Phillies' offense can build upon its success from August.",
+      "published": "2026-10-15T14:50:00+00:00",
+      "title": "How manager Don Mattingly wants to change the Phillies as focus shifts to 2027",
+      "url": "https://www.nytimes.com/athletic/7693659/2026/10/15/don-mattingly-phillies-manager-2027-season-priorities/"
     }
   ],
-  "generated_at": "2026-10-23T20:36:01.839796+00:00",
+  "generated_at": "2026-10-23T23:27:50.195055+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/phillies/"
 }
