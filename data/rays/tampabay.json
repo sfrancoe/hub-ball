@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Only two active Rays have played in the Fall Classic, so routine is key. The players, who often dined together on road trips this season, stay the course in Milwaukee.",
+      "published": "2026-10-23T01:38:00+00:00",
+      "title": "Team dinner makes Rays’ World Series experience feel more normal",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/22/world-series-camaraderie-nick-martinez-steven-matz-yandy-diaz/"
+    },
+    {
+      "category": "Rays",
       "description": "The American League champs made a custom glove for the Bucs QB to protect his injured thumb.",
       "published": "2026-10-22T23:18:52+00:00",
       "title": "With a little help from the Rays, Baker Mayfield is ready to roll",
@@ -113,7 +120,7 @@
       "url": "https://www.tampabay.com/sports/rays/2026/10/19/bj-upton-chandler-simpson-yandy-diaz-abs-tropicana-field-tyler-wells-taylor-smith/"
     }
   ],
-  "generated_at": "2026-10-22T23:40:07.889519+00:00",
+  "generated_at": "2026-10-23T02:00:12.933295+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
