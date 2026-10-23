@@ -84,7 +84,14 @@ Never make paid X calls during testing.
 
 Python fetch scripts use the standard library and write generated `data/*.json`.
 GitHub Actions workflows in `.github/workflows/` refresh team data, newspapers,
-social feeds, leaderboards and postseason history on their configured schedules;
+social feeds, leaderboards and postseason history on their configured schedules.
+GitHub's own cron is best-effort, so the Netlify scheduled function
+`netlify/functions/workflow-timer.mjs` ticks every five minutes and dispatches each
+workflow whose cron is due (needs the `GITHUB_WORKFLOW_TOKEN` Netlify variable: a
+fine-grained token for this repository with Actions read/write). Its table is generated
+from the workflows' cron lines; after changing a schedule run
+`python3 scripts/generate_workflow_schedules.py`. The `schedule:` lines stay as a
+fallback;
 separate checks validate story payloads. Every team refreshes through the shared
 registry fetchers: `scripts/fetch_team_data.py` (schedule, recap, standings,
 pitching), `scripts/fetch_team_leaders.py` and `scripts/fetch_team_news.py`, run by
