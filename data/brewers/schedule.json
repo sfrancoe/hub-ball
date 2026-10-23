@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:52.881206+00:00",
+  "generated_at": "2026-10-23T00:58:16.624569+00:00",
   "source": "MLB Stats API",
   "team": "Brewers",
   "regular_season_end": "2026-09-27",
@@ -47,9 +47,9 @@
       "opponent": "Rays",
       "opponent_record": "0-0",
       "favorite_team_record": "0-0",
-      "favorite_team_pitcher": "",
+      "favorite_team_pitcher": "Logan Henderson",
       "opponent_pitcher": "Drew Rasmussen",
-      "favorite_team_pitcher_record": "—",
+      "favorite_team_pitcher_record": "11-3",
       "opponent_pitcher_record": "16-5",
       "show_probables": true,
       "series_description": "World Series",
