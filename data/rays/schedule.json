@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:56:48.086132+00:00",
+  "generated_at": "2026-10-23T21:42:09.699577+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -7,7 +7,7 @@
     {
       "game_pk": 849805,
       "game_date": "2026-10-24T00:00:00Z",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "venue": "American Family Field",
       "location": "away",
       "opponent": "Brewers",
