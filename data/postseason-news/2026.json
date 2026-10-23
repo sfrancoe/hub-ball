@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-23T20:31:30.328952+00:00",
+  "generatedAt": "2026-10-23T23:34:20.308084+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
@@ -33,6 +33,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Christian Yelich, Sal Frelick and Pat Murphy show appreciation for Brewers fans",
+      "description": "Ahead of Game 1 of the World Series, Milwaukee Brewers show appreciation to their fanbase.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/23/milwaukee-brewers-thank-fans-world-series-game-1/92404910007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Longtime Brewers grounds crew member relishes team's playoff run",
+      "description": "For longtime Brewers grounds crew member Monte Owens, baseball is both professional and deeply personal, with close ties to the Selig family.",
+      "url": "https://www.jsonline.com/story/communities/north/2026/10/23/meet-a-brewers-grounds-crew-member-with-deep-ties-to-the-team/92384947007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Yankees closing in on crucial offseason priority",
       "description": "",
       "url": "https://nypost.com/2026/10/23/sports/yankees-nearing-deal-with-pitching-coach-matt-blake/",
@@ -43,6 +67,18 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "What to know about that viral Brewers song. Yeah, you know the one",
+      "description": "Give it up one more time for the song that channeled something special in the Milwaukee Brewers during the playoffs. Here's what to know about \"Milwaukee Brewers\" by local artist Foenem.",
+      "url": "https://www.jsonline.com/story/entertainment/music/2026/10/23/viral-milwaukee-brewers-song-foenem/92395247007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "What could turn former Phillies teammates Ryan Howard and Shane Victorino into enemies? Banana Ball.",
@@ -57,8 +93,8 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "World Series Game 1 warmup: Reliever Garrett Cleavinger added to roster",
-      "description": "Otherwise, the 26-man group is the same as in the first two rounds of the postseason. Also, the American Family Field roof will be closed.",
+      "title": "World Series Game 1 warmup: Simpson hitting 3rd, Williamson at 2B",
+      "description": "Plus, reliever Garrett Cleavinger is added to the Rays 26-man roster. And, the American Family Field roof will be closed.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/23/world-series-roster-garrett-cleavinger-brody-hopkins-milwaukee-brewers/",
       "published": "2026-10-23T16:04:24.909000+00:00",
       "source": "Tampa Bay Times",
@@ -81,6 +117,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "World Series Game 1 lineup, Christian Yelich batting third for Brewers",
+      "description": "The Brewers will have Christian Yelich batting third and William Contreras at cleanup in Game 1 of the World Series.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/world-series-game-1-lineup-brewers-vs-rays/92390945007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Four-part World Series preview. It all starts tonight",
+      "description": "Tonight, the Rays and Brewers begin a truly unique World Series matchup. These teams have so much in common! I’m Levi Weaver — welcome to The Windup! Yesterday, I briefly mentioned how the Rays and ...",
+      "url": "https://www.nytimes.com/athletic/7718661/2026/10/23/brewers-rays-world-series-preview-the-windup/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Are fans interested in watching a Brewers-Rays World Series? Here's what you said",
       "description": "More than 7,000 of you gave your thoughts on this year's matchup and who you're rooting for. Here are the results.",
       "url": "https://www.nytimes.com/athletic/7715569/2026/10/23/world-series-2026-rays-brewers-mlb-survey/",
@@ -90,6 +150,30 @@
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
       "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brandon Woodruff reacts to being on Brewers' World Series roster: 'Let's go win this thing'",
+      "description": "Pitcher Brandon Woodruff is appreciative to being included on the Milwaukee Brewers' World Series roster.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/23/brandon-woodruff-milwaukee-brewers-world-series-roster/92404311007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "What to know about Bernie Brewer, his chalet, and other Brewers mascots",
+      "description": "Milwaukee Brewers have some lore surrounding its mascot Bernie Brewer, one-time sidekick Bonnie Brewer and the popular Barrelman.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/bernie-brewer-chalet-bonnie-brewer-barrelman/92398917007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -103,6 +187,18 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
+      "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-bullpen-review-free-agency-22491472.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Dodgers owner Mark Walter wins partial approval to begin reshaping $20-billion network of loans",
@@ -129,6 +225,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "What to know about the Racing Sausages, Milwaukee Brewers' most famous mascots",
+      "description": "For more than 30 years, a collection of 7-foot-tall sausages have entertained Milwaukee Brewers fans at the bottom of the sixth inning with a foot race.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/what-to-know-about-the-milwaukee-brewers-racing-sausages-mascots/92396196007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "State of the Sox: The Red Sox must decide the fates of 17 arbitration-eligible players — and some of those calls are far from easy",
       "description": "The Red Sox face contract decisions on 17 arbitration-eligible players, with several non-tender candidates and extension talks likely amid roster uncertainty.",
       "url": "https://www.masslive.com/redsox/2026/10/state-of-the-sox-some-decisions-coming-on-arbitration-eligibles.html",
@@ -138,42 +246,6 @@
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "How does the Brewers' payroll compare with the Rays' payroll?",
-      "description": "That label may have been appropriate in comparison with the Los Angeles Dodgers, who boast the second-highest payroll among major-league teams this season at $339.3 million, according to Spotrac.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/brewers-payroll-rays-payroll-compare/92390950007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "What channel is Brewers vs Rays in World Series Game 1 on? Time, TV",
-      "description": "Jeff Levering, Lane Grindle and Josh Maurer will call the games on the Brewers Radio Network. The Brewers broadcast will be on Channel 203. The Rays broadcast will be on 202. The national broadcast ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/watch-brewers-vs-rays-world-series-game-1-time-tv-channel/92387332007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Milwaukee Bucks head coach Taylor Jenkins speaks on Brewers' culture",
-      "description": "Milwaukee Bucks Taylor Jenkins spoke on the success of the Brewers and the impact of making the World Series in Milwaukee on Oct. 23, 2026.",
-      "url": "https://www.jsonline.com/videos/sports/nba/bucks/2026/10/23/milwaukee-bucks-head-coach-taylor-jenkins-speaks-milwaukee-brewers-culture/92401599007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -187,138 +259,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees say they’ll ‘look into’ clubhouse culture criticisms, even as they downplay them",
-      "description": "The Yankees' clubhouse culture and their approach to accountability have been popular topics since the...",
-      "url": "https://www.nydailynews.com/2026/10/23/yankees-aaron-boone-brian-cashman-mlb-october-rays-world-series/",
-      "published": "2026-10-23T11:30:40+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "What the World Series teams and one stellar August can show the Phillies about improving in 2027",
-      "description": "Improvement will have more to do with adjustments to the approach than the personnel carrying it out. Just like what Don Mattingly saw in August and what the Rays and Brewers have done all postseason.",
-      "url": "https://www.inquirer.com/phillies/don-mattingly-world-series-brewers-rays-2027-roster-20261023.html",
-      "published": "2026-10-23T11:01:00+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Yankees shortcomings exposed by this year’s World Series teams",
-      "description": "",
-      "url": "https://nypost.com/2026/10/23/sports/the-yankees-shortcomings-exposed-by-this-years-world-series-teams/",
-      "published": "2026-10-23T10:20:00+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Brewers and Rays took opponents to school — and college baseball fans are loving it",
-      "description": "Both teams apply the kind of pressure opponents rarely see. It’s a blueprint that works well on campus — and in late October.",
-      "url": "https://www.nytimes.com/athletic/7715869/2026/10/23/brewers-rays-colllege-baseball-style-world-series/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "With Brewers in World Series, who are Top 5 (non-Boston) teams it’d be fun to see win a championship?",
-      "description": "In honor of the Brewers' World Series run, Matt Vautour's Top 5 this week features the other teams deserving of a championship.",
-      "url": "https://www.masslive.com/redsox/2026/10/with-brewers-in-world-series-who-are-top-5-non-boston-teams-that-deserve-to-win-a-fun-championship.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Phillies Extra: Lefty reliever Tim Mayza on his new contract, pitching for the team he grew up watching, and more",
-      "description": "Lefty reliever Tim Mayza talks to the Inquirer's Scott Lauber on his new contract, pitching for the team he grew up watching, and more.",
-      "url": "https://www.inquirer.com/inquirer-live/phillies-extra-tim-mayza-world-series-live-podcast-20261023.html",
-      "published": "2026-10-23T10:00:00+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Brandon Woodruff is on the Milwaukee Brewers World Series roster",
-      "description": "The Milwaukee Brewers will play in the World Series with these 26 players. In a massive development, Brandon Woodruff is on the roster following a furious attempt to rehab his shoulder injury over the ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/this-is-milwaukee-brewers-world-series-roster-brandon-woodruff-is-on/92395359007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "All the ex-Red Sox to watch in this historic 2026 World Series",
-      "description": "From the feel-good story of 2024 to a speedy base-stealer, here are all the former Red Sox to watch in this year’s World Series",
-      "url": "https://www.bostonherald.com/2026/10/23/red-sox-former-players-watch-world-series-2026-mlb-shane-drohan-david-hamilton/",
-      "published": "2026-10-23T09:30:46+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
-      "description": "The Brewers and Rays have plenty in common. Even their road hotels — the Pfister in Milwaukee and the Vinoy in St. Petersburg — are haunted.",
-      "url": "https://www.nytimes.com/athletic/7715640/2026/10/23/world-series-milwaukee-brewers-tampa-bay-rays-haunted-hotels/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Today in Chicago History: Cubs hire ‘Grandpa Rossy’ David Ross as their manager",
-      "description": "2019: The Chicago Cubs hired veteran catcher and 2016 World Series team member David Ross as their manager.",
-      "url": "https://www.chicagotribune.com/2026/10/23/october-23-chicago-history/",
-      "published": "2026-10-23T09:00:10+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Matt Vautour: Bruins’ bet on ‘internal improvement’ is working so far",
-      "description": "Fraser Minten, James Hagens and Matt Poitras have each started strong for the surprising Bruins.",
-      "url": "https://www.masslive.com/bruins/2026/10/bruins-bet-on-internal-improvement-is-working-so-far.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
