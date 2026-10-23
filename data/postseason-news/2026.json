@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-23T01:02:45.073090+00:00",
+  "generatedAt": "2026-10-23T06:05:23.227121+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 5,
   "articles": [
     {
-      "title": "Yankees hitting coaches could be in the crosshairs after Hal Steinbrenner calls out lineup",
+      "title": "Yankees World Series MVP Hideki Matsui to manage NPB's Yomiuri Giants: Reports",
+      "description": "The former slugger spent the first half of his professional career playing for the Giants before he came stateside to play in MLB.",
+      "url": "https://www.nytimes.com/athletic/7716227/2026/10/23/yankees-hideki-matsui-world-series-mvp-manage-yomiuri-giants/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Rays make a surprise turn to Nick Martinez for World Series opener",
+      "description": "Notes | Also, the Rays will be facing Brewers flame-thrower Jacob Misiorowski, who struck out seven over six innings in the teams’ April meeting.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/22/rays-make-surprise-turn-nick-martinez-world-series-opener/",
+      "published": "2026-10-23T02:47:10.925000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Hal Steinbrenner needs to get serious after another failure of a Yankees season",
       "description": "",
-      "url": "https://nypost.com/2026/10/22/sports/yankees-hitting-coaches-could-be-on-hot-seat/",
-      "published": "2026-10-23T00:52:29+00:00",
+      "url": "https://nypost.com/2026/10/22/sports/hal-steinbrenner-needs-to-get-serious-after-another-yankees-failure/",
+      "published": "2026-10-23T02:31:44+00:00",
       "source": "New York Post",
       "teamId": 147,
       "teamName": "New York Yankees",
@@ -24,11 +48,47 @@
       "title": "Lexington’s Sal Frelick enjoyed World Series glory as a Red Sox fan. Now he has a chance to savor his own with the Brewers.",
       "description": "“This is what you dream of as a kid.” It’s just been fun. Playing with this group of guys, too, has been great,” Frelick said on the eve of Game 1 of the World Series.",
       "url": "https://www.bostonglobe.com/2026/10/22/sports/world-series-brewers-sal-frelick-boston-college/",
-      "published": "2026-10-23T00:47:09.288000+00:00",
+      "published": "2026-10-23T02:15:55.155000+00:00",
       "source": "The Boston Globe",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Team dinner makes Rays’ World Series experience feel more normal",
+      "description": "Only two active Rays have played in the Fall Classic, so routine is key. The players, who often dined together on road trips this season, stay the course in Milwaukee.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/22/world-series-camaraderie-nick-martinez-steven-matz-yandy-diaz/",
+      "published": "2026-10-23T01:38:00.138000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Tom Krasovic: Brewers, Rays show baseball — including Padres — the art of the possible",
+      "description": "The Padres share an important trait with the teams that on Friday will play Game 1 of the World Series in Milwaukee.",
+      "url": "https://www.sandiegouniontribune.com/2026/10/22/tom-krasovic-brewers-rays-show-baseball-including-padres-the-art-of-the-possible/",
+      "published": "2026-10-23T01:30:09+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees hitting coaches could be in the crosshairs after Hal Steinbrenner calls out lineup",
+      "description": "",
+      "url": "https://nypost.com/2026/10/22/sports/yankees-hitting-coaches-could-be-on-hot-seat/",
+      "published": "2026-10-23T00:52:29+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
     },
@@ -93,6 +153,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Milwaukee mayor writes excuse note for Bucks, Brewers fans",
+      "description": "Milwaukee Mayor Cavalier Johnson shared an excuse letter encouraging bosses and teachers to let Bucks and Brewers fans leave early Friday.",
+      "url": "https://www.jsonline.com/story/sports/2026/10/22/milwaukee-mayor-excuse-letter-bucks-brewers-world-series/92390327007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Red Sox sign veteran catcher Riley Adams to minor league deal",
       "description": "The World Series hasn’t even started yet, but that’s not stopping the Red Sox from beginning to accumulate depth heading into 2027. They've reached agreement on a minor league deal with a veteran catcher.",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-sign-first-free-agent-of-winter-inking-ex-nationals-catcher-to-minor-league-deal.html",
@@ -108,13 +180,13 @@
       "title": "Rays tab Nick Martinez to start Game 1 of World Series against Brewers",
       "description": "Martinez will face off against Brewers ace Jacob Misiorowski on Friday night in Milwaukee.",
       "url": "https://www.nytimes.com/athletic/7714895/2026/10/22/rays-world-series-game-1-starter/",
-      "published": "2026-10-22T20:26:28+00:00",
+      "published": "",
       "source": "The Athletic",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
       "league": "AL",
-      "publishedSource": "publisher"
+      "publishedSource": "unverified"
     },
     {
       "title": "Rays. Brewers. World Series. So, who has the edge? We have thoughts",
@@ -129,54 +201,6 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "How the World Series puts nationwide eyes on Tampa Bay",
-      "description": "Tropicana Field hasn’t held a Fall Classic since 2008.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/22/world-series-rays-brewers-attendance-businesses/",
-      "published": "2026-10-22T18:00:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Freddy Peralta calls chance to pitch against Brewers in World Series 'amazing'",
-      "description": "Fastball Freddy' Peralta is back in Milwaukee, this time with the Rays as he prepares to face the Brewers in the World Series.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/freddy-peralta-calls-chance-to-pitch-against-brewers-in-world-series-amazing/92377478007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "They're not on the Brewers, but they could still get a World Series ring",
-      "description": "Peter Strzelecki appeared in as many games for the Brewers as you, but he could get a World Series ring for it ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/these-brewers-arent-on-the-team-but-could-get-world-series-ring/92377517007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Tampa Bay Rays at Milwaukee Brewers odds, picks and predictions",
-      "description": "The Tampa Bay Rays and the Milwaukee Brewers meet Friday for Game 1 of the World Series in Milwaukee, Wisconsin. First pitch is set for 8 p.m. ET ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/2026/10/22/rays-at-brewers-world-series-game-1-odds-picks-and-predictions/92383426007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
       "title": "Brewers vs Rays; everything to know about World Series Games 1 and 2",
       "description": "Here's your guide to the World Series, whether you were lucky enough to score a ticket to American Family Field, attending a watch party or tuning in.",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/brewers-vs-rays-world-series/92361901007/",
@@ -187,78 +211,6 @@
       "teamAbbreviation": "MIL",
       "league": "NL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "On the edge of World Series chaos, Brewers rookie reflects on wild journey",
-      "description": "As reporters mobbed his more famous teammates on World Series media day, Brewers pitcher Shane Drohan appreciated the scene – and his rookie journey.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/22/milwaukee-brewers-rookie-shane-drohan-enjoys-calm-world-series-media-day-experience/92377567007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees’ Aaron Boone says managing on an expiring contract ‘doesn’t bother me at all’",
-      "description": "For the second time in four seasons, Aaron Boone is set to manage the Yankees...",
-      "url": "https://www.nydailynews.com/2026/10/22/yankees-aaron-boone-expiring-contract/",
-      "published": "2026-10-22T15:32:14+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Let’s look at how 2026 World Series ties to the Braves",
-      "description": "The Braves and the rest of baseball will watch what’s expected to be a thrilling Fall Classic between the Brewers and Rays in the coming days.",
-      "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-2026-world-series-ties/",
-      "published": "2026-10-22T15:06:51.854000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Fenway Insider Live: Sean McAdam on Jarren Duran, potential 2027 lockout and more",
-      "description": "MassLive’s Fenway Insider Sean McAdam hosted a mailbag Thursday, Oct. 22 to highlight the latest news from the Boston Red Sox.",
-      "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-live-sean-mcadam-on-jarren-duran-potential-2027-lockout-and-more.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Stephen Vogt to remain with Guardians despite speculation about hometown Mariners",
-      "description": "Vogt’s family lives in Olympia, Wash., but he said Thursday he is not leaving Cleveland. Pitching coach Carl Willis is also set to return.",
-      "url": "https://www.nytimes.com/athletic/7714991/2026/10/22/stephen-vogt-staying-with-guardians/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "How would a salary cap help the Yankees? Hal Steinbrenner doesn’t want to talk about it",
-      "description": "Yankees owner Hal Steinbrenner shied away from labor issues on Wednesday.",
-      "url": "https://www.nydailynews.com/2026/10/22/yankees-hal-steinbrenner-salary-cap-cba-lockout-world-series/",
-      "published": "2026-10-22T13:20:17+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
