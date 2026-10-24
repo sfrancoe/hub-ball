@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "It is entirely understandable if the Yankee legions are feeling nothing but despair after “Status...",
+      "published": "2026-10-24T14:55:25+00:00",
+      "title": "Bill Madden: No accountability from ‘Status Quo’ Hal as Yankees head into uncertain offseason",
+      "url": "https://www.nydailynews.com/2026/10/24/bill-madden-hal-steinbrenner-yankees-aaron-judge-boone-cashman-cba/"
+    },
+    {
+      "category": "Yankees",
       "description": "Retaining Matt Blake was a priority after a 2026 season in which the Yankees pitched...",
       "published": "2026-10-24T14:47:45+00:00",
       "title": "Yankees ‘close’ on new contract with pitching coach Matt Blake: source",
@@ -132,16 +139,9 @@
       "published": "2026-10-10T13:33:29+00:00",
       "title": "Mike Lupica: The Yankees couldn’t buy a winner, now comes a level playing field",
       "url": "https://www.nydailynews.com/2026/10/10/mike-lupica-yankees-salary-cap-steinbrenner-boone-cashman-spending/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees enter this offseason with no shortage of roster questions, including what to do...",
-      "published": "2026-10-11T13:39:37+00:00",
-      "title": "These are the Yankees’ biggest offseason questions",
-      "url": "https://www.nydailynews.com/2026/10/10/yankees-biggest-questions-offseason-jazz-chisholm-trent-grisham-giancarlo-stanton/"
     }
   ],
-  "generated_at": "2026-10-24T14:50:21.390018+00:00",
+  "generated_at": "2026-10-24T17:43:01.922369+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

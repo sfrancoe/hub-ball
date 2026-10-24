@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "There is a lot of happiness and pride for the slugging first baseman who signed as a teenager in 2015.",
+      "published": "2026-10-24T16:01:26+00:00",
+      "title": "With 12 years as a Ray, Series berth just means more for Jonathan Aranda",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/24/jonathan-aranda-world-series-alejandro-kirk-mexico/"
+    },
+    {
+      "category": "Rays",
       "description": "Pfister Hotel is the place to stay for many MLB teams.",
       "published": "2026-10-24T14:14:40+00:00",
       "title": "Are the Rays staying in a haunted Milwaukee hotel?",
@@ -118,23 +125,9 @@
       "published": "2026-10-21T22:49:04+00:00",
       "title": "As Rays head to World Series, ‘easy to see’ why Brewers are so good",
       "url": "https://www.tampabay.com/sports/rays/2026/10/21/rays-head-world-series-easy-see-why-brewers-are-so-good/"
-    },
-    {
-      "category": "Rays",
-      "description": "Here’s your Tropicana Field guide to Rays tickets, parking and bag rules.",
-      "published": "2026-10-21T20:33:39+00:00",
-      "title": "World Series resale ticket prices are dropping",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/21/world-series-tickets-cost-tropicana-field-rays-brewers/"
-    },
-    {
-      "category": "Rays",
-      "description": "Dick Vitale? John Cena? Tom Cruise?!? A guide to the famous faces you could see at Tropicana Field this World Series.",
-      "published": "2026-10-21T18:33:37+00:00",
-      "title": "Do the Tampa Bay Rays have any celebrity fans?",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/21/celebrity-rays-fans-john-cena-dick-vitale-world-series/"
     }
   ],
-  "generated_at": "2026-10-24T14:50:34.667682+00:00",
+  "generated_at": "2026-10-24T17:43:12.135794+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
