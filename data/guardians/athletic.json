@@ -16,13 +16,6 @@
     },
     {
       "category": "Guardians",
-      "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
-      "published": "2026-10-17T20:55:00+00:00",
-      "title": "How Tampa Bay Rays earned emphatic Game 4 win over Guardians in Cleveland to tie ALCS",
-      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/"
-    },
-    {
-      "category": "Guardians",
       "description": "CLEVELAND — The Tampa Bay Rays are on the cusp of the World Series. In 24 hours, they flipped an American League Championship Series deficit, winning two games to get within one victory of the Fall ...",
       "published": "2026-10-18T05:30:00+00:00",
       "title": "Rays cruise in Game 5, push Guardians to the brink in ALCS. Can Cleveland recover?",
@@ -30,8 +23,15 @@
     },
     {
       "category": "Guardians",
+      "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
+      "published": "2026-10-17T20:55:00+00:00",
+      "title": "How Tampa Bay Rays earned emphatic Game 4 win over Guardians in Cleveland to tie ALCS",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/"
+    },
+    {
+      "category": "Guardians",
       "description": "\"There was a belief that we were just going to do it,\" manager Stephen Vogt said of Cleveland's quest to win the World Series.",
-      "published": "2026-10-23T02:30:00+00:00",
+      "published": "2026-10-22T17:00:00+00:00",
       "title": "Guardians end-of-season takeaways: ‘This group, it felt different’",
       "url": "https://www.nytimes.com/athletic/7715795/2026/10/23/guardians-end-of-season-takeaways/"
     },
@@ -85,7 +85,7 @@
       "url": "https://www.nytimes.com/athletic/7693862/2026/10/18/guardians-game-4-alcs-mlb-playoffs/"
     }
   ],
-  "generated_at": "2026-10-24T17:43:14.763653+00:00",
+  "generated_at": "2026-10-24T22:07:31.710049+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

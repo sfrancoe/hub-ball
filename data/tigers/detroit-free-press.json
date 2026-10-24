@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Massillon hosts Canton McKinley in the 137th edition of this high school football rivalry. Follow our live updates throughout the day.",
+      "published": "2026-10-24T14:53:00+00:00",
+      "title": "Massillon football score vs Canton McKinley, Tigers extend win streak",
+      "url": "https://www.freep.com/story/sports/high-school/fridaynightohio/2026/10/24/massillon-tigers-football-score-canton-mckinley-high-school-ohsaa-live-updates/92357368007/"
+    },
+    {
+      "category": "Tigers",
       "description": "If we are measuring by comeuppance, the Detroit Tigers just fleeced the Los Angeles Dodgers in their trade of Tarik Skubal.",
       "published": "2026-10-16T13:16:00+00:00",
       "title": "Dodgers are done, so did Detroit Tigers win the Tarik Skubal trade?",
       "url": "https://www.freep.com/story/sports/columnists/shawn-windsor/2026/10/16/detroit-tigers-tarik-skubal-trade-los-angeles-dodgers/92270971007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "Massillon hosts Canton McKinley in the 137th edition of this high school football rivalry. Follow our live updates throughout the day.",
-      "published": "2026-10-23T23:25:00+00:00",
-      "title": "Massillon vs. McKinley, OHSAA high school football score, live updates",
-      "url": "https://www.freep.com/story/sports/high-school/fridaynightohio/2026/10/24/massillon-tigers-football-score-canton-mckinley-high-school-ohsaa-live-updates/92357368007/"
     },
     {
       "category": "Tigers",
@@ -36,7 +36,7 @@
       "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/10/11/jackson-jobe-went-from-prospect-to-pitcher-in-2026-and-he-has-jv-to-thank/92150352007/"
     }
   ],
-  "generated_at": "2026-10-24T19:49:53.220825+00:00",
+  "generated_at": "2026-10-24T22:07:31.935543+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

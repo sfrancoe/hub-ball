@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "LOS ANGELES — The Los Angeles Dodgers expect Shohei Ohtani to remain a two-way player and pitch for the team in 2027, president of baseball operations Andrew Friedman said Wednesday. “I fully expect ...",
-      "published": "2026-10-21T13:10:00+00:00",
-      "title": "Dodgers ‘fully expect’ Shohei Ohtani to remain two-way player, pitch in 2027",
-      "url": "https://www.nytimes.com/athletic/7709074/2026/10/21/shohei-ohtani-pitcher-2027-dodgers-two-way/"
-    },
-    {
-      "category": "Dodgers",
       "description": "Andrew Friedman has heard the narrative that the Dodgers' dynasty is over. \"I welcome it,\" he said with a smile.",
       "published": "2026-10-20T17:00:00+00:00",
       "title": "Dodgers discuss plans for Shohei Ohtani’s status, Tarik Skubal’s free agency, pending lockout",
       "url": "https://www.nytimes.com/athletic/7711869/2026/10/21/andrew-friedman-ohtani-status-skubal-lockout-dodgers-2027/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "LOS ANGELES — The Los Angeles Dodgers expect Shohei Ohtani to remain a two-way player and pitch for the team in 2027, president of baseball operations Andrew Friedman said Wednesday. “I fully expect ...",
+      "published": "2026-10-21T13:10:00+00:00",
+      "title": "Dodgers ‘fully expect’ Shohei Ohtani to remain two-way player, pitch in 2027",
+      "url": "https://www.nytimes.com/athletic/7709074/2026/10/21/shohei-ohtani-pitcher-2027-dodgers-two-way/"
     },
     {
       "category": "Dodgers",
@@ -65,17 +65,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "In covering the Yankees teams after 2001, I’ve seen what happens when a dynasty ends. Here are 10 things that may await the Dodgers.",
-      "published": "2026-10-17T02:30:00+00:00",
-      "title": "I covered the end of the Yankees’ dynasty. Here’s what happens next for the Dodgers",
-      "url": "https://www.nytimes.com/athletic/7697325/2026/10/17/odgers-yankees-mlb-dynasties-future/"
-    },
-    {
-      "category": "Dodgers",
       "description": "It’s difficult to imagine the Dodgers taking four of the next five games. But it’s also difficult to imagine them just fading away.",
       "published": "2026-10-13T02:31:00+00:00",
       "title": "Can the Dodgers, unraveling in the NLCS, bounce back? It’s becoming hard to see how",
       "url": "https://www.nytimes.com/athletic/7685716/2026/10/13/dodgers-brewers-mlb-playoffs-nlcs/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "In covering the Yankees teams after 2001, I’ve seen what happens when a dynasty ends. Here are 10 things that may await the Dodgers.",
+      "published": "2026-10-17T02:30:00+00:00",
+      "title": "I covered the end of the Yankees’ dynasty. Here’s what happens next for the Dodgers",
+      "url": "https://www.nytimes.com/athletic/7697325/2026/10/17/odgers-yankees-mlb-dynasties-future/"
     },
     {
       "category": "Dodgers",
@@ -85,7 +85,7 @@
       "url": "https://www.nytimes.com/athletic/7685322/2026/10/14/dodgers-brewers-game-3-score-results-takeaways-mlb-nlcs-2026/"
     }
   ],
-  "generated_at": "2026-10-24T19:50:03.585693+00:00",
+  "generated_at": "2026-10-24T22:07:42.168374+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }
