@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-24T21:40:18.567399+00:00",
+  "generatedAt": "2026-10-24T23:47:24.542695+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "See images from World Series Game 2 between Rays and Brewers",
+      "description": "Photo gallery | Tampa Bay looks to even the series before heading back to St. Pete for three games.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/24/world-series-game-2-brewers-photos-milwaukee/",
+      "published": "2026-10-24T23:26:18.469000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees make a wise moving in bringing back critical coach",
+      "description": "",
+      "url": "https://nypost.com/2026/10/24/sports/yankees-make-a-wise-moving-in-bringing-back-matt-blake/",
+      "published": "2026-10-24T22:51:41+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "The $15 million Yankees question that could determine Giancarlo Stanton’s future",
+      "description": "",
+      "url": "https://nypost.com/2026/10/24/sports/the-15-million-yankees-question-surrounding-giancarlo-stanton/",
+      "published": "2026-10-24T21:45:29+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "St. Pete’s Jake Woodford will be a World Series winner no matter what",
       "description": "Tales | The veteran right-hander pitched for both the Rays and Brewers this season, so he will get a ring regardless of who wins.",
@@ -43,6 +79,54 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Brewers vs Rays live updates in World Series Game 2; score, highlights",
+      "description": "In Game 2, Logan Henderson is Milwaukee's starting pitcher. The Brewers have won every home game started by the rookie right-hander in his career (12-0, including postseason). Tampa Bay counters with ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-vs-rays-live-updates-world-series-game-2--live/92402379007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "The spot where the Brewers are staying in Florida? That's haunted too.",
+      "description": "Milwaukee has the Pfister, but the Tampa Bay Rays have the Vinoy, a St. Petersburg resort with its own history of hauntings when it hosts MLB teams.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-will-also-be-staying-at-haunted-hotel-during-road-games/92421684007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "What channel is Brewers vs Rays in World Series Game 2 on? Time, TV",
+      "description": "The Brewers and Rays play Game 2 of the World Series at 7 p.m. Saturday, Oct. 24, at American Family Field in Milwaukee.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/watch-brewers-vs-rays-in-world-series-game-2-time-tv-channel/92407857007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers' Cooper Pratt explains his clubhouse celebrations drinking Fanta",
+      "description": "Milwaukee Brewers shortstop Cooper Pratt explains the story behind his clubhouse celebrations drinking Fanta. Hannah Kirby. More Videos. Brewers manager Pat Murphy praises William ...",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/24/cooper-pratt-brewers-world-series-fanta/92422830007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "With 12 years as a Ray, Series berth just means more for Jonathan Aranda",
@@ -93,6 +177,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Brewers sticking with same lineup in Game 2 of World Series",
+      "description": "The Brewers are keeping their Game 1 lineup intact for Game 2 of the World Series against Drew Rasmussen and the Rays.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-vs-rays-starting-lineups-for-game-2-of-world-series/92402204007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Yankees, pitching coach Matt Blake finalizing 3-year contract extension: Source",
       "description": "Under Blake, the Yankees' pitching staff led the majors in ERA this season.",
       "url": "https://www.nytimes.com/athletic/7717372/2026/10/24/matt-blake-yankees-contract-extension/",
@@ -120,30 +216,6 @@
       "title": "Milwaukee Brewers manager Pat Murphy ponders the purpose of ties",
       "description": "Milwaukee Brewers manager Pat Murphy shared his opinion about ties ahead of Game 2 of the World Series.",
       "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/24/pat-murphy-brewers-world-series/92421175007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Rays vs. Brewers live updates: MLB World Series Game 2 score, predictions and lineups",
-      "description": "The Tampa Bay Rays look to even the 2026 World Series in Game 2 against the Milwaukee Brewers tonight. Tampa Bay is sending its ace — and former Brewers pitcher — Drew Rasmussen to the mound.",
-      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-brewers-live-updates-mlb-world-series-game-2-score-result/NBzOduCDhksg/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Watch the Brewers' Racing Sausages make their World Series debut",
-      "description": "The Milwaukee Brewers' Racing Sausages made their Fall Classic debut with their traditional sixth-inning race.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-racing-sausages-world-series-debut-game-1/92419344007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
@@ -189,39 +261,15 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "What channel is Brewers vs Rays in World Series Game 2 on? Time, TV",
-      "description": "The Brewers and Rays play Game 2 of the World Series at 7 p.m. Saturday, Oct. 24, at American Family Field in Milwaukee.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/watch-brewers-vs-rays-in-world-series-game-2-time-tv-channel/92407857007/",
+      "title": "104-year-old Brewers fan makes second accurate score prediction",
+      "description": "Ruth Werning, 104, has now accurately predicted the winning Brewers' score not once, but twice, in the post-season.",
+      "url": "https://www.jsonline.com/story/news/local/2026/10/24/104-year-old-brewers-fan-makes-second-accurate-score-prediction-world-series-milwaukee-tampa-bay/92416505007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "teamAbbreviation": "MIL",
       "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Hal Steinbrenner encouraged by Yankees’ young core, cites the ‘hunger’ they bring",
-      "description": "After years of anticipation, Spencer Jones and George Lombard Jr. debuted with the Yankees this...",
-      "url": "https://www.nydailynews.com/2026/10/24/hal-steinbrenner-encouraged-yankees-spencer-jones-george-lombard-jr-cam-schlittler-ben-rice/",
-      "published": "2026-10-24T11:30:17+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "World Series Game 1 Weird & Wild: Brewers' winning formula — don't press start",
-      "description": "Has any team won a World Series with a starting rotation that was mostly just the nightly warm-up act for its bat-smothering relief crew?",
-      "url": "https://www.nytimes.com/athletic/7717034/2026/10/24/world-series-brewers-pitching-rays-stats-trivia/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
       "publishedSource": "unverified"
     }
   ]
