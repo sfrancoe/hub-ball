@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-23T23:34:20.308084+00:00",
+  "generatedAt": "2026-10-24T02:01:23.137451+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 7,
   "articles": [
+    {
+      "title": "Rays’ Drew Rasmussen praises Brewers, now hopes to bury them",
+      "description": "Having started his pro career and debuting in the majors with Milwaukee, the right-hander thanks it for everything, including his trade to Tampa Bay.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/23/drew-rasmussen-world-series-milwaukee-brewers-willy-adames-pat-murphy-brandon-woodruff/",
+      "published": "2026-10-24T01:18:53.495000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "By valuing their people, the Rays’ approach has paid off with a World Series appearance",
+      "description": "The nerd stuff is outdated. Tampa Bay has three first-place finishes in the American League East since 2020, which is three more than the Red Sox.",
+      "url": "https://www.bostonglobe.com/2026/10/23/sports/rays-brewers-world-series-game-1/",
+      "published": "2026-10-24T00:41:24.048000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "See images from World Series opener between Rays and Brewers",
+      "description": "Photo gallery | Tampa Bay is within four wins of its first-ever World Series championship. It can claim the first tonight.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/23/rays-brewers-world-series-game-1-photos-nick-martinez-jacob-misiorowski-junior-caminero/",
+      "published": "2026-10-23T23:56:13.657000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "World Series 2026: Tampa Bay’s events and deals",
       "description": "Game 1 begins in Milwaukee tonight, but the celebrations are starting here.",
@@ -19,6 +55,54 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays vs. Brewers score, live updates: Milwaukee leads Tampa Bay 2-1 in MLB World Series Game 1",
+      "description": "The Rays' bullpen has thrown 30 innings this postseason, walking nine, striking out 32 and pitching to a 3.60 ERA (though nearly half of that damage came in Game 1 of the ALCS). Manager Kevin Cash has ...",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-brewers-live-updates-mlb-world-series-game-1-score-result/TA98fpvZKSAF/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Trading away impact players has been a boom not a bust for Brewers",
+      "description": "The Brewers have parted ways with plenty of star power, but the approach hasn't blocked their path to success.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/brewers-approach-with-free-agents-isnt-pain-free-but-is-paying-off/92391349007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "What Fox Sports pregame crew predicted for Brewers vs. Rays World Series",
+      "description": "Fox Sports announcers Derek Jeter, David Ortiz and Alex Rodriguez make predictions on who will win the 2026 World Series.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/fox-sports-announcers-split-on-if-brewers-will-win-world-series/92405045007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Mickey Guyton, in Brewers jersey, sings national anthem for Game 1 of World Series",
+      "description": "Acclaimed country artist Mickey Guyton sang a stirring rendition of the National Anthem ahead of Game 1 of the World Series.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/mickey-guyton-sings-national-anthem-at-world-series/92387517007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Tom Cruise loves the Tampa Bay Rays — the ‘real Tom Cruise,’ that is",
@@ -33,9 +117,9 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Christian Yelich, Sal Frelick and Pat Murphy show appreciation for Brewers fans",
-      "description": "Ahead of Game 1 of the World Series, Milwaukee Brewers show appreciation to their fanbase.",
-      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/23/milwaukee-brewers-thank-fans-world-series-game-1/92404910007/",
+      "title": "A lot of sports going on in city with rare Bucks-Brewers doubleheader",
+      "description": "Milwaukee sports fans got to watch both the Bucks home opener and the Brewers in the World Series thanks to some teamwork.",
+      "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/10/23/brewers-bucks-deer-district-game-1-world-series-fiserv-amfam-field/92390822007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
@@ -45,9 +129,45 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Longtime Brewers grounds crew member relishes team's playoff run",
-      "description": "For longtime Brewers grounds crew member Monte Owens, baseball is both professional and deeply personal, with close ties to the Selig family.",
-      "url": "https://www.jsonline.com/story/communities/north/2026/10/23/meet-a-brewers-grounds-crew-member-with-deep-ties-to-the-team/92384947007/",
+      "title": "William Contreras calls Dodgers 'lucky' for sweeping Brewers in 2025 NLCS",
+      "description": "In a Players' Tribune letter, Milwaukee Brewers catcher William Contreras called the Los Angeles Dodgers sweep over the Brewers in the 2025 NLCS lucky.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/william-contreras-says-brewers-needed-years-of-losing-to-get-to-world-series/92404069007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers broadcasters sporting Bob Uecker jackets for World Series Game 1",
+      "description": "Several Milwaukee Brewers broadcast staff, including Jeff Levering, are wearing Bob Uecker original jackets at World Series Game 1 in Milwaukee tonight.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/brewers-broadcasters-wearing-bob-uecker-coats-for-world-series-game-1/92403924007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers manager graced this Milwaukee restaurant before World Series",
+      "description": "Brewers manager Pat Murphy graced Mad Rooster Cafe for the second time this MLB playoffs on Oct. 23, hours before Game 1 of the World Series ...",
+      "url": "https://www.jsonline.com/story/communities/south/2026/10/23/pat-murphy-graced-this-milwaukee-restaurant-again-before-world-series/92402767007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Christian Yelich, Sal Frelick and Pat Murphy show appreciation for Brewers fans",
+      "description": "Ahead of Game 1 of the World Series, Milwaukee Brewers show appreciation to their fanbase.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/23/milwaukee-brewers-thank-fans-world-series-game-1/92404910007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
@@ -67,18 +187,6 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "What to know about that viral Brewers song. Yeah, you know the one",
-      "description": "Give it up one more time for the song that channeled something special in the Milwaukee Brewers during the playoffs. Here's what to know about \"Milwaukee Brewers\" by local artist Foenem.",
-      "url": "https://www.jsonline.com/story/entertainment/music/2026/10/23/viral-milwaukee-brewers-song-foenem/92395247007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
     },
     {
       "title": "What could turn former Phillies teammates Ryan Howard and Shane Victorino into enemies? Banana Ball.",
@@ -117,18 +225,6 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "World Series Game 1 lineup, Christian Yelich batting third for Brewers",
-      "description": "The Brewers will have Christian Yelich batting third and William Contreras at cleanup in Game 1 of the World Series.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/world-series-game-1-lineup-brewers-vs-rays/92390945007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
       "title": "Four-part World Series preview. It all starts tonight",
       "description": "Tonight, the Rays and Brewers begin a truly unique World Series matchup. These teams have so much in common! I’m Levi Weaver — welcome to The Windup! Yesterday, I briefly mentioned how the Rays and ...",
       "url": "https://www.nytimes.com/athletic/7718661/2026/10/23/brewers-rays-world-series-preview-the-windup/",
@@ -150,30 +246,6 @@
       "teamName": "Tampa Bay Rays",
       "teamAbbreviation": "TB",
       "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brandon Woodruff reacts to being on Brewers' World Series roster: 'Let's go win this thing'",
-      "description": "Pitcher Brandon Woodruff is appreciative to being included on the Milwaukee Brewers' World Series roster.",
-      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/23/brandon-woodruff-milwaukee-brewers-world-series-roster/92404311007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "What to know about Bernie Brewer, his chalet, and other Brewers mascots",
-      "description": "Milwaukee Brewers have some lore surrounding its mascot Bernie Brewer, one-time sidekick Bonnie Brewer and the popular Barrelman.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/bernie-brewer-chalet-bonnie-brewer-barrelman/92398917007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -235,30 +307,6 @@
       "teamAbbreviation": "MIL",
       "league": "NL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "State of the Sox: The Red Sox must decide the fates of 17 arbitration-eligible players — and some of those calls are far from easy",
-      "description": "The Red Sox face contract decisions on 17 arbitration-eligible players, with several non-tender candidates and extension talks likely amid roster uncertainty.",
-      "url": "https://www.masslive.com/redsox/2026/10/state-of-the-sox-some-decisions-coming-on-arbitration-eligibles.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Lexington’s Sal Frelick and his small-market Brewers look to upend expectations and win their first World Series",
-      "description": "“This is what you dream of as a kid.” It’s just been fun. Playing with this group of guys, too, has been great.\"",
-      "url": "https://www.bostonglobe.com/2026/10/22/sports/world-series-brewers-sal-frelick-boston-college/",
-      "published": "2026-10-23T11:39:58.551000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
