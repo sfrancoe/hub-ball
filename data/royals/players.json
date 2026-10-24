@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T14:24:40.926878+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-24T13:31:00.264167+00:00",
+  "roster_as_of": "October 23, 2026",
   "team": {
     "id": 118,
     "name": "Kansas City Royals"
   },
   "roster_type": "open-current-roster",
-  "player_count": 48,
+  "player_count": 43,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -253,85 +253,6 @@
           "complete_games": 0,
           "era": 3.68,
           "whip": 1.28
-        }
-      }
-    },
-    {
-      "id": 696131,
-      "mlb_id": 696131,
-      "wikidata_id": "Q125814601",
-      "slug": "mason-black",
-      "name": "Mason Black",
-      "full_name": "Mason Black",
-      "number": "47",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-12-10",
-      "age": 26,
-      "birthplace": "Scranton, Pennsylvania, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 6, 2024",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Francisco Giants",
-        "Kansas City Royals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q125814601",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mason_Black",
-      "retrosheet_id": "blacm001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 10,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 10,
-          "games_started": 8,
-          "wins": 1,
-          "losses": 5,
-          "saves": 0,
-          "innings_outs": 121,
-          "hits": 51,
-          "runs": 31,
-          "earned_runs": 29,
-          "home_runs": 9,
-          "walks": 15,
-          "strikeouts": 36,
-          "hit_batters": 3,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 6.47,
-          "whip": 1.636
         }
       }
     },
@@ -1889,92 +1810,6 @@
       }
     },
     {
-      "id": 656638,
-      "mlb_id": 656638,
-      "wikidata_id": "Q20707853",
-      "slug": "alex-lange",
-      "name": "Alex Lange",
-      "full_name": "Alex Lange",
-      "number": "49",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-10-02",
-      "age": 31,
-      "birthplace": "Riverside",
-      "height": "6' 3\"",
-      "weight": 196,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 10, 2021",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Lee's Summit West High School"
-          },
-          {
-            "name": "Louisiana State University"
-          }
-        ]
-      },
-      "teams": [
-        "Detroit Tigers",
-        "Kansas City Royals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q20707853",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Lange",
-      "retrosheet_id": "langa001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 196,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 196,
-          "games_started": 0,
-          "wins": 15,
-          "losses": 15,
-          "saves": 29,
-          "innings_outs": 554,
-          "hits": 145,
-          "runs": 94,
-          "earned_runs": 76,
-          "home_runs": 16,
-          "walks": 110,
-          "strikeouts": 222,
-          "hit_batters": 16,
-          "wild_pitches": 29,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.7,
-          "whip": 1.381
-        }
-      }
-    },
-    {
       "id": 679845,
       "mlb_id": 679845,
       "wikidata_id": "Q93172135",
@@ -2294,84 +2129,6 @@
       }
     },
     {
-      "id": 679525,
-      "mlb_id": 679525,
-      "wikidata_id": "Q120189101",
-      "slug": "alec-marsh",
-      "name": "Alec Marsh",
-      "full_name": "Alec Marsh",
-      "number": "48",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1998-05-14",
-      "age": 28,
-      "birthplace": "Milwaukee",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 30, 2023",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Kansas City Royals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q120189101",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Alec_Marsh",
-      "retrosheet_id": "marsa001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 43,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 43,
-          "games_started": 33,
-          "wins": 12,
-          "losses": 18,
-          "saves": 0,
-          "innings_outs": 610,
-          "hits": 200,
-          "runs": 120,
-          "earned_runs": 112,
-          "home_runs": 35,
-          "walks": 78,
-          "strikeouts": 208,
-          "hit_batters": 20,
-          "wild_pitches": 4,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 4.96,
-          "whip": 1.367
-        }
-      }
-    },
-    {
       "id": 686681,
       "mlb_id": 686681,
       "wikidata_id": "Q112960566",
@@ -2509,87 +2266,6 @@
           "complete_games": 0,
           "era": 4.84,
           "whip": 1.3
-        }
-      }
-    },
-    {
-      "id": 668834,
-      "mlb_id": 668834,
-      "wikidata_id": "Q114314983",
-      "slug": "easton-mcgee",
-      "name": "Easton McGee",
-      "full_name": "Easton McGee",
-      "number": "51",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-12-26",
-      "age": 28,
-      "birthplace": "Hopkinsville, Kentucky, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "October 2, 2022",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "Seattle Mariners",
-        "Milwaukee Brewers",
-        "Kansas City Royals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q114314983",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Easton_McGee",
-      "retrosheet_id": "mcgee001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 11,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 11,
-          "games_started": 1,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 73,
-          "hits": 20,
-          "runs": 10,
-          "earned_runs": 9,
-          "home_runs": 1,
-          "walks": 6,
-          "strikeouts": 16,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.33,
-          "whip": 1.068
         }
       }
     },
@@ -3104,95 +2780,6 @@
           "complete_games": 0,
           "era": 13.5,
           "whip": 2.5
-        }
-      }
-    },
-    {
-      "id": 657756,
-      "mlb_id": 657756,
-      "wikidata_id": "Q70973081",
-      "slug": "connor-seabold",
-      "name": "Connor Seabold",
-      "full_name": "Connor Seabold",
-      "number": "43",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1996-01-24",
-      "age": 30,
-      "birthplace": "Laguna Hills",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 11, 2021",
-      "debut_team": "Boston Red Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "California State University, Fullerton"
-          }
-        ]
-      },
-      "teams": [
-        "Boston Red Sox",
-        "Colorado Rockies",
-        "Samsung Lions",
-        "Tampa Bay Rays",
-        "Atlanta Braves",
-        "Detroit Tigers",
-        "Toronto Blue Jays",
-        "Kansas City Royals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q70973081",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Connor_Seabold",
-      "retrosheet_id": "seabc001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 40,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 40,
-          "games_started": 19,
-          "wins": 1,
-          "losses": 11,
-          "saves": 0,
-          "innings_outs": 357,
-          "hits": 166,
-          "runs": 107,
-          "earned_runs": 103,
-          "home_runs": 26,
-          "walks": 44,
-          "strikeouts": 96,
-          "hit_batters": 10,
-          "wild_pitches": 10,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 7.79,
-          "whip": 1.765
         }
       }
     },
