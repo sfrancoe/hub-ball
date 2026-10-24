@@ -2,9 +2,9 @@
   "schemaVersion": 2,
   "season": 2026,
   "status": "locked",
-  "generatedAt": "2026-10-24T01:54:07.375336Z",
-  "rosterRefreshedAt": "2026-10-24T01:54:07.375336Z",
-  "statsRefreshedAt": "2026-10-24T01:54:07.375336Z",
+  "generatedAt": "2026-10-24T07:09:37.257175Z",
+  "rosterRefreshedAt": "2026-10-24T07:09:37.257175Z",
+  "statsRefreshedAt": "2026-10-24T07:09:37.257175Z",
   "source": "MLB Stats API",
   "sourceURL": "https://statsapi.mlb.com/api/v1/standings?leagueId=103,104&season=2026",
   "rosterType": "40Man",
@@ -443,15 +443,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.408,
+              "value": 0.377,
               "games": 6,
-              "plateAppearances": 13,
+              "plateAppearances": 14,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.408,
+              "value": 0.377,
               "games": 6,
-              "plateAppearances": 13,
+              "plateAppearances": 14,
               "inningsPitched": null
             }
           },
@@ -599,15 +599,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.706,
+              "value": 0.74,
               "games": 9,
-              "plateAppearances": 37,
+              "plateAppearances": 39,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.625,
+              "value": 0.641,
               "games": 23,
-              "plateAppearances": 91,
+              "plateAppearances": 93,
               "inningsPitched": null
             }
           },
@@ -798,15 +798,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.646,
+              "value": 0.669,
               "games": 9,
-              "plateAppearances": 30,
+              "plateAppearances": 32,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.646,
+              "value": 0.669,
               "games": 9,
-              "plateAppearances": 30,
+              "plateAppearances": 32,
               "inningsPitched": null
             }
           },
@@ -888,15 +888,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.802,
+              "value": 0.748,
               "games": 8,
-              "plateAppearances": 29,
+              "plateAppearances": 31,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.692,
+              "value": 0.682,
               "games": 35,
-              "plateAppearances": 150,
+              "plateAppearances": 152,
               "inningsPitched": null
             }
           },
@@ -945,15 +945,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.613,
+              "value": 0.616,
               "games": 9,
-              "plateAppearances": 32,
+              "plateAppearances": 34,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.613,
+              "value": 0.616,
               "games": 9,
-              "plateAppearances": 32,
+              "plateAppearances": 34,
               "inningsPitched": null
             }
           },
@@ -1058,15 +1058,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 1.371,
+              "value": 1.269,
               "games": 5,
-              "plateAppearances": 14,
+              "plateAppearances": 15,
               "inningsPitched": null
             },
             "career": {
-              "value": 1.371,
+              "value": 1.269,
               "games": 5,
-              "plateAppearances": 14,
+              "plateAppearances": 15,
               "inningsPitched": null
             }
           },
@@ -1281,15 +1281,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.738,
+              "value": 0.694,
               "games": 9,
-              "plateAppearances": 35,
+              "plateAppearances": 37,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.814,
+              "value": 0.772,
               "games": 11,
-              "plateAppearances": 40,
+              "plateAppearances": 42,
               "inningsPitched": null
             }
           },
@@ -1300,15 +1300,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 1.0,
-              "games": 1,
-              "plateAppearances": 1,
+              "value": 0.5,
+              "games": 2,
+              "plateAppearances": 2,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.615,
-              "games": 34,
-              "plateAppearances": 129,
+              "value": 0.61,
+              "games": 35,
+              "plateAppearances": 130,
               "inningsPitched": null
             }
           },
@@ -1499,15 +1499,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.562,
+              "value": 0.597,
               "games": 9,
-              "plateAppearances": 41,
+              "plateAppearances": 42,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.819,
+              "value": 0.833,
               "games": 21,
-              "plateAppearances": 88,
+              "plateAppearances": 89,
               "inningsPitched": null
             }
           },
@@ -1556,15 +1556,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.81,
+              "value": 0.821,
               "games": 9,
-              "plateAppearances": 36,
+              "plateAppearances": 38,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.904,
+              "value": 0.907,
               "games": 17,
-              "plateAppearances": 56,
+              "plateAppearances": 58,
               "inningsPitched": null
             }
           },
@@ -1727,13 +1727,13 @@
             "league": "NL",
             "season": {
               "value": 0.236,
-              "games": 6,
+              "games": 7,
               "plateAppearances": 18,
               "inningsPitched": null
             },
             "career": {
               "value": 0.225,
-              "games": 18,
+              "games": 19,
               "plateAppearances": 52,
               "inningsPitched": null
             }
@@ -1759,15 +1759,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.727,
+              "value": 0.79,
               "games": 10,
-              "plateAppearances": 42,
+              "plateAppearances": 44,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.708,
+              "value": 0.771,
               "games": 11,
-              "plateAppearances": 43,
+              "plateAppearances": 45,
               "inningsPitched": null
             }
           },
@@ -1778,15 +1778,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.425,
+              "value": 0.4,
               "games": 10,
-              "plateAppearances": 34,
+              "plateAppearances": 36,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.425,
+              "value": 0.4,
               "games": 10,
-              "plateAppearances": 34,
+              "plateAppearances": 36,
               "inningsPitched": null
             }
           },
@@ -1799,7 +1799,7 @@
             "season": null,
             "career": {
               "value": 2.0,
-              "games": 7,
+              "games": 8,
               "plateAppearances": 5,
               "inningsPitched": null
             }
@@ -1887,15 +1887,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.845,
+              "value": 0.838,
               "games": 10,
-              "plateAppearances": 39,
+              "plateAppearances": 41,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.8,
+              "value": 0.796,
               "games": 12,
-              "plateAppearances": 41,
+              "plateAppearances": 43,
               "inningsPitched": null
             }
           },
@@ -2043,15 +2043,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.522,
+              "value": 0.491,
               "games": 10,
-              "plateAppearances": 33,
+              "plateAppearances": 35,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.522,
+              "value": 0.491,
               "games": 10,
-              "plateAppearances": 33,
+              "plateAppearances": 35,
               "inningsPitched": null
             }
           },
@@ -2134,13 +2134,13 @@
             "league": "NL",
             "season": {
               "value": 0.282,
-              "games": 4,
+              "games": 5,
               "plateAppearances": 11,
               "inningsPitched": null
             },
             "career": {
               "value": 0.282,
-              "games": 4,
+              "games": 5,
               "plateAppearances": 11,
               "inningsPitched": null
             }
@@ -2887,15 +2887,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 1.229,
-              "games": 3,
-              "plateAppearances": 7,
+              "value": 1.042,
+              "games": 4,
+              "plateAppearances": 8,
               "inningsPitched": null
             },
             "career": {
-              "value": 1.229,
-              "games": 3,
-              "plateAppearances": 7,
+              "value": 1.042,
+              "games": 4,
+              "plateAppearances": 8,
               "inningsPitched": null
             }
           },
@@ -2906,15 +2906,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.599,
+              "value": 0.57,
               "games": 6,
-              "plateAppearances": 22,
+              "plateAppearances": 23,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.575,
+              "value": 0.567,
               "games": 20,
-              "plateAppearances": 76,
+              "plateAppearances": 77,
               "inningsPitched": null
             }
           },
@@ -3286,15 +3286,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.464,
+              "value": 0.451,
               "games": 10,
-              "plateAppearances": 36,
+              "plateAppearances": 37,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.464,
+              "value": 0.451,
               "games": 10,
-              "plateAppearances": 36,
+              "plateAppearances": 37,
               "inningsPitched": null
             }
           },
@@ -3324,15 +3324,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 1.147,
+              "value": 1.184,
               "games": 9,
-              "plateAppearances": 37,
+              "plateAppearances": 39,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.798,
+              "value": 0.816,
               "games": 27,
-              "plateAppearances": 106,
+              "plateAppearances": 108,
               "inningsPitched": null
             }
           },
@@ -3419,15 +3419,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.863,
+              "value": 0.823,
               "games": 10,
-              "plateAppearances": 43,
+              "plateAppearances": 45,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.658,
+              "value": 0.648,
               "games": 36,
-              "plateAppearances": 140,
+              "plateAppearances": 142,
               "inningsPitched": null
             }
           },
@@ -3810,15 +3810,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.1,
+              "value": 0.091,
               "games": 6,
-              "plateAppearances": 13,
+              "plateAppearances": 14,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.1,
+              "value": 0.091,
               "games": 6,
-              "plateAppearances": 13,
+              "plateAppearances": 14,
               "inningsPitched": null
             }
           },
@@ -3968,13 +3968,13 @@
             "season": {
               "value": 0.207,
               "games": 9,
-              "plateAppearances": 37,
+              "plateAppearances": 39,
               "inningsPitched": null
             },
             "career": {
               "value": 0.192,
               "games": 23,
-              "plateAppearances": 91,
+              "plateAppearances": 93,
               "inningsPitched": null
             }
           },
@@ -4165,15 +4165,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.259,
+              "value": 0.276,
               "games": 9,
-              "plateAppearances": 30,
+              "plateAppearances": 32,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.259,
+              "value": 0.276,
               "games": 9,
-              "plateAppearances": 30,
+              "plateAppearances": 32,
               "inningsPitched": null
             }
           },
@@ -4255,15 +4255,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.308,
+              "value": 0.286,
               "games": 8,
-              "plateAppearances": 29,
+              "plateAppearances": 31,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.236,
+              "value": 0.233,
               "games": 35,
-              "plateAppearances": 150,
+              "plateAppearances": 152,
               "inningsPitched": null
             }
           },
@@ -4312,15 +4312,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.29,
+              "value": 0.281,
               "games": 9,
-              "plateAppearances": 32,
+              "plateAppearances": 34,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.29,
+              "value": 0.281,
               "games": 9,
-              "plateAppearances": 32,
+              "plateAppearances": 34,
               "inningsPitched": null
             }
           },
@@ -4425,15 +4425,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.5,
+              "value": 0.462,
               "games": 5,
-              "plateAppearances": 14,
+              "plateAppearances": 15,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.5,
+              "value": 0.462,
               "games": 5,
-              "plateAppearances": 14,
+              "plateAppearances": 15,
               "inningsPitched": null
             }
           },
@@ -4648,15 +4648,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.194,
+              "value": 0.182,
               "games": 9,
-              "plateAppearances": 35,
+              "plateAppearances": 37,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.2,
+              "value": 0.189,
               "games": 11,
-              "plateAppearances": 40,
+              "plateAppearances": 42,
               "inningsPitched": null
             }
           },
@@ -4668,14 +4668,14 @@
             "league": "NL",
             "season": {
               "value": 0.0,
-              "games": 1,
-              "plateAppearances": 1,
+              "games": 2,
+              "plateAppearances": 2,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.178,
-              "games": 34,
-              "plateAppearances": 129,
+              "value": 0.176,
+              "games": 35,
+              "plateAppearances": 130,
               "inningsPitched": null
             }
           },
@@ -4866,15 +4866,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.184,
+              "value": 0.205,
               "games": 9,
-              "plateAppearances": 41,
+              "plateAppearances": 42,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.268,
+              "value": 0.277,
               "games": 21,
-              "plateAppearances": 88,
+              "plateAppearances": 89,
               "inningsPitched": null
             }
           },
@@ -4923,15 +4923,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.25,
+              "value": 0.267,
               "games": 9,
-              "plateAppearances": 36,
+              "plateAppearances": 38,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.277,
+              "value": 0.286,
               "games": 17,
-              "plateAppearances": 56,
+              "plateAppearances": 58,
               "inningsPitched": null
             }
           },
@@ -5094,13 +5094,13 @@
             "league": "NL",
             "season": {
               "value": 0.118,
-              "games": 6,
+              "games": 7,
               "plateAppearances": 18,
               "inningsPitched": null
             },
             "career": {
               "value": 0.085,
-              "games": 18,
+              "games": 19,
               "plateAppearances": 52,
               "inningsPitched": null
             }
@@ -5126,15 +5126,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.278,
+              "value": 0.316,
               "games": 10,
-              "plateAppearances": 42,
+              "plateAppearances": 44,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.27,
+              "value": 0.308,
               "games": 11,
-              "plateAppearances": 43,
+              "plateAppearances": 45,
               "inningsPitched": null
             }
           },
@@ -5145,15 +5145,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.188,
+              "value": 0.176,
               "games": 10,
-              "plateAppearances": 34,
+              "plateAppearances": 36,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.188,
+              "value": 0.176,
               "games": 10,
-              "plateAppearances": 34,
+              "plateAppearances": 36,
               "inningsPitched": null
             }
           },
@@ -5166,7 +5166,7 @@
             "season": null,
             "career": {
               "value": 0.8,
-              "games": 7,
+              "games": 8,
               "plateAppearances": 5,
               "inningsPitched": null
             }
@@ -5254,15 +5254,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.286,
+              "value": 0.278,
               "games": 10,
-              "plateAppearances": 39,
+              "plateAppearances": 41,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.27,
+              "value": 0.263,
               "games": 12,
-              "plateAppearances": 41,
+              "plateAppearances": 43,
               "inningsPitched": null
             }
           },
@@ -5410,15 +5410,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.207,
+              "value": 0.194,
               "games": 10,
-              "plateAppearances": 33,
+              "plateAppearances": 35,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.207,
+              "value": 0.194,
               "games": 10,
-              "plateAppearances": 33,
+              "plateAppearances": 35,
               "inningsPitched": null
             }
           },
@@ -5501,13 +5501,13 @@
             "league": "NL",
             "season": {
               "value": 0.1,
-              "games": 4,
+              "games": 5,
               "plateAppearances": 11,
               "inningsPitched": null
             },
             "career": {
               "value": 0.1,
-              "games": 4,
+              "games": 5,
               "plateAppearances": 11,
               "inningsPitched": null
             }
@@ -6254,15 +6254,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.2,
-              "games": 3,
-              "plateAppearances": 7,
+              "value": 0.167,
+              "games": 4,
+              "plateAppearances": 8,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.2,
-              "games": 3,
-              "plateAppearances": 7,
+              "value": 0.167,
+              "games": 4,
+              "plateAppearances": 8,
               "inningsPitched": null
             }
           },
@@ -6273,15 +6273,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.235,
+              "value": 0.222,
               "games": 6,
-              "plateAppearances": 22,
+              "plateAppearances": 23,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.224,
+              "value": 0.221,
               "games": 20,
-              "plateAppearances": 76,
+              "plateAppearances": 77,
               "inningsPitched": null
             }
           },
@@ -6653,15 +6653,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.152,
+              "value": 0.147,
               "games": 10,
-              "plateAppearances": 36,
+              "plateAppearances": 37,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.152,
+              "value": 0.147,
               "games": 10,
-              "plateAppearances": 36,
+              "plateAppearances": 37,
               "inningsPitched": null
             }
           },
@@ -6691,15 +6691,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.375,
+              "value": 0.394,
               "games": 9,
-              "plateAppearances": 37,
+              "plateAppearances": 39,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.271,
+              "value": 0.278,
               "games": 27,
-              "plateAppearances": 106,
+              "plateAppearances": 108,
               "inningsPitched": null
             }
           },
@@ -6786,15 +6786,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.293,
+              "value": 0.279,
               "games": 10,
-              "plateAppearances": 43,
+              "plateAppearances": 45,
               "inningsPitched": null
             },
             "career": {
-              "value": 0.214,
+              "value": 0.211,
               "games": 36,
-              "plateAppearances": 140,
+              "plateAppearances": 142,
               "inningsPitched": null
             }
           },
@@ -7179,13 +7179,13 @@
             "season": {
               "value": 0.0,
               "games": 6,
-              "plateAppearances": 13,
+              "plateAppearances": 14,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
               "games": 6,
-              "plateAppearances": 13,
+              "plateAppearances": 14,
               "inningsPitched": null
             }
           },
@@ -7335,13 +7335,13 @@
             "season": {
               "value": 1.0,
               "games": 9,
-              "plateAppearances": 37,
+              "plateAppearances": 39,
               "inningsPitched": null
             },
             "career": {
               "value": 2.0,
               "games": 23,
-              "plateAppearances": 91,
+              "plateAppearances": 93,
               "inningsPitched": null
             }
           },
@@ -7534,13 +7534,13 @@
             "season": {
               "value": 0.0,
               "games": 9,
-              "plateAppearances": 30,
+              "plateAppearances": 32,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
               "games": 9,
-              "plateAppearances": 30,
+              "plateAppearances": 32,
               "inningsPitched": null
             }
           },
@@ -7624,13 +7624,13 @@
             "season": {
               "value": 0.0,
               "games": 8,
-              "plateAppearances": 29,
+              "plateAppearances": 31,
               "inningsPitched": null
             },
             "career": {
               "value": 2.0,
               "games": 35,
-              "plateAppearances": 150,
+              "plateAppearances": 152,
               "inningsPitched": null
             }
           },
@@ -7681,13 +7681,13 @@
             "season": {
               "value": 0.0,
               "games": 9,
-              "plateAppearances": 32,
+              "plateAppearances": 34,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
               "games": 9,
-              "plateAppearances": 32,
+              "plateAppearances": 34,
               "inningsPitched": null
             }
           },
@@ -7794,13 +7794,13 @@
             "season": {
               "value": 1.0,
               "games": 5,
-              "plateAppearances": 14,
+              "plateAppearances": 15,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
               "games": 5,
-              "plateAppearances": 14,
+              "plateAppearances": 15,
               "inningsPitched": null
             }
           },
@@ -8017,13 +8017,13 @@
             "season": {
               "value": 2.0,
               "games": 9,
-              "plateAppearances": 35,
+              "plateAppearances": 37,
               "inningsPitched": null
             },
             "career": {
               "value": 3.0,
               "games": 11,
-              "plateAppearances": 40,
+              "plateAppearances": 42,
               "inningsPitched": null
             }
           },
@@ -8035,14 +8035,14 @@
             "league": "NL",
             "season": {
               "value": 0.0,
-              "games": 1,
-              "plateAppearances": 1,
+              "games": 2,
+              "plateAppearances": 2,
               "inningsPitched": null
             },
             "career": {
               "value": 7.0,
-              "games": 34,
-              "plateAppearances": 129,
+              "games": 35,
+              "plateAppearances": 130,
               "inningsPitched": null
             }
           },
@@ -8235,13 +8235,13 @@
             "season": {
               "value": 2.0,
               "games": 9,
-              "plateAppearances": 41,
+              "plateAppearances": 42,
               "inningsPitched": null
             },
             "career": {
               "value": 6.0,
               "games": 21,
-              "plateAppearances": 88,
+              "plateAppearances": 89,
               "inningsPitched": null
             }
           },
@@ -8292,13 +8292,13 @@
             "season": {
               "value": 1.0,
               "games": 9,
-              "plateAppearances": 36,
+              "plateAppearances": 38,
               "inningsPitched": null
             },
             "career": {
               "value": 3.0,
               "games": 17,
-              "plateAppearances": 56,
+              "plateAppearances": 58,
               "inningsPitched": null
             }
           },
@@ -8461,13 +8461,13 @@
             "league": "NL",
             "season": {
               "value": 0.0,
-              "games": 6,
+              "games": 7,
               "plateAppearances": 18,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
-              "games": 18,
+              "games": 19,
               "plateAppearances": 52,
               "inningsPitched": null
             }
@@ -8495,13 +8495,13 @@
             "season": {
               "value": 1.0,
               "games": 10,
-              "plateAppearances": 42,
+              "plateAppearances": 44,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
               "games": 11,
-              "plateAppearances": 43,
+              "plateAppearances": 45,
               "inningsPitched": null
             }
           },
@@ -8514,13 +8514,13 @@
             "season": {
               "value": 0.0,
               "games": 10,
-              "plateAppearances": 34,
+              "plateAppearances": 36,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
               "games": 10,
-              "plateAppearances": 34,
+              "plateAppearances": 36,
               "inningsPitched": null
             }
           },
@@ -8533,7 +8533,7 @@
             "season": null,
             "career": {
               "value": 0.0,
-              "games": 7,
+              "games": 8,
               "plateAppearances": 5,
               "inningsPitched": null
             }
@@ -8623,13 +8623,13 @@
             "season": {
               "value": 1.0,
               "games": 10,
-              "plateAppearances": 39,
+              "plateAppearances": 41,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
               "games": 12,
-              "plateAppearances": 41,
+              "plateAppearances": 43,
               "inningsPitched": null
             }
           },
@@ -8779,13 +8779,13 @@
             "season": {
               "value": 0.0,
               "games": 10,
-              "plateAppearances": 33,
+              "plateAppearances": 35,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
               "games": 10,
-              "plateAppearances": 33,
+              "plateAppearances": 35,
               "inningsPitched": null
             }
           },
@@ -8868,13 +8868,13 @@
             "league": "NL",
             "season": {
               "value": 0.0,
-              "games": 4,
+              "games": 5,
               "plateAppearances": 11,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
-              "games": 4,
+              "games": 5,
               "plateAppearances": 11,
               "inningsPitched": null
             }
@@ -9622,14 +9622,14 @@
             "league": "AL",
             "season": {
               "value": 1.0,
-              "games": 3,
-              "plateAppearances": 7,
+              "games": 4,
+              "plateAppearances": 8,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
-              "games": 3,
-              "plateAppearances": 7,
+              "games": 4,
+              "plateAppearances": 8,
               "inningsPitched": null
             }
           },
@@ -9642,13 +9642,13 @@
             "season": {
               "value": 0.0,
               "games": 6,
-              "plateAppearances": 22,
+              "plateAppearances": 23,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
               "games": 20,
-              "plateAppearances": 76,
+              "plateAppearances": 77,
               "inningsPitched": null
             }
           },
@@ -10022,13 +10022,13 @@
             "season": {
               "value": 1.0,
               "games": 10,
-              "plateAppearances": 36,
+              "plateAppearances": 37,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
               "games": 10,
-              "plateAppearances": 36,
+              "plateAppearances": 37,
               "inningsPitched": null
             }
           },
@@ -10060,13 +10060,13 @@
             "season": {
               "value": 3.0,
               "games": 9,
-              "plateAppearances": 37,
+              "plateAppearances": 39,
               "inningsPitched": null
             },
             "career": {
               "value": 5.0,
               "games": 27,
-              "plateAppearances": 106,
+              "plateAppearances": 108,
               "inningsPitched": null
             }
           },
@@ -10155,13 +10155,13 @@
             "season": {
               "value": 2.0,
               "games": 10,
-              "plateAppearances": 43,
+              "plateAppearances": 45,
               "inningsPitched": null
             },
             "career": {
               "value": 4.0,
               "games": 36,
-              "plateAppearances": 140,
+              "plateAppearances": 142,
               "inningsPitched": null
             }
           },
@@ -10546,13 +10546,13 @@
             "season": {
               "value": 0.0,
               "games": 6,
-              "plateAppearances": 13,
+              "plateAppearances": 14,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
               "games": 6,
-              "plateAppearances": 13,
+              "plateAppearances": 14,
               "inningsPitched": null
             }
           },
@@ -10702,13 +10702,13 @@
             "season": {
               "value": 2.0,
               "games": 9,
-              "plateAppearances": 37,
+              "plateAppearances": 39,
               "inningsPitched": null
             },
             "career": {
               "value": 5.0,
               "games": 23,
-              "plateAppearances": 91,
+              "plateAppearances": 93,
               "inningsPitched": null
             }
           },
@@ -10901,13 +10901,13 @@
             "season": {
               "value": 4.0,
               "games": 9,
-              "plateAppearances": 30,
+              "plateAppearances": 32,
               "inningsPitched": null
             },
             "career": {
               "value": 4.0,
               "games": 9,
-              "plateAppearances": 30,
+              "plateAppearances": 32,
               "inningsPitched": null
             }
           },
@@ -10991,13 +10991,13 @@
             "season": {
               "value": 4.0,
               "games": 8,
-              "plateAppearances": 29,
+              "plateAppearances": 31,
               "inningsPitched": null
             },
             "career": {
               "value": 7.0,
               "games": 35,
-              "plateAppearances": 150,
+              "plateAppearances": 152,
               "inningsPitched": null
             }
           },
@@ -11048,13 +11048,13 @@
             "season": {
               "value": 0.0,
               "games": 9,
-              "plateAppearances": 32,
+              "plateAppearances": 34,
               "inningsPitched": null
             },
             "career": {
               "value": 0.0,
               "games": 9,
-              "plateAppearances": 32,
+              "plateAppearances": 34,
               "inningsPitched": null
             }
           },
@@ -11161,13 +11161,13 @@
             "season": {
               "value": 2.0,
               "games": 5,
-              "plateAppearances": 14,
+              "plateAppearances": 15,
               "inningsPitched": null
             },
             "career": {
               "value": 2.0,
               "games": 5,
-              "plateAppearances": 14,
+              "plateAppearances": 15,
               "inningsPitched": null
             }
           },
@@ -11384,13 +11384,13 @@
             "season": {
               "value": 3.0,
               "games": 9,
-              "plateAppearances": 35,
+              "plateAppearances": 37,
               "inningsPitched": null
             },
             "career": {
               "value": 5.0,
               "games": 11,
-              "plateAppearances": 40,
+              "plateAppearances": 42,
               "inningsPitched": null
             }
           },
@@ -11402,14 +11402,14 @@
             "league": "NL",
             "season": {
               "value": 0.0,
-              "games": 1,
-              "plateAppearances": 1,
+              "games": 2,
+              "plateAppearances": 2,
               "inningsPitched": null
             },
             "career": {
               "value": 19.0,
-              "games": 34,
-              "plateAppearances": 129,
+              "games": 35,
+              "plateAppearances": 130,
               "inningsPitched": null
             }
           },
@@ -11600,15 +11600,15 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 7.0,
+              "value": 8.0,
               "games": 9,
-              "plateAppearances": 41,
+              "plateAppearances": 42,
               "inningsPitched": null
             },
             "career": {
-              "value": 18.0,
+              "value": 19.0,
               "games": 21,
-              "plateAppearances": 88,
+              "plateAppearances": 89,
               "inningsPitched": null
             }
           },
@@ -11659,13 +11659,13 @@
             "season": {
               "value": 6.0,
               "games": 9,
-              "plateAppearances": 36,
+              "plateAppearances": 38,
               "inningsPitched": null
             },
             "career": {
               "value": 10.0,
               "games": 17,
-              "plateAppearances": 56,
+              "plateAppearances": 58,
               "inningsPitched": null
             }
           },
@@ -11828,13 +11828,13 @@
             "league": "NL",
             "season": {
               "value": 1.0,
-              "games": 6,
+              "games": 7,
               "plateAppearances": 18,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
-              "games": 18,
+              "games": 19,
               "plateAppearances": 52,
               "inningsPitched": null
             }
@@ -11862,13 +11862,13 @@
             "season": {
               "value": 5.0,
               "games": 10,
-              "plateAppearances": 42,
+              "plateAppearances": 44,
               "inningsPitched": null
             },
             "career": {
               "value": 5.0,
               "games": 11,
-              "plateAppearances": 43,
+              "plateAppearances": 45,
               "inningsPitched": null
             }
           },
@@ -11881,13 +11881,13 @@
             "season": {
               "value": 3.0,
               "games": 10,
-              "plateAppearances": 34,
+              "plateAppearances": 36,
               "inningsPitched": null
             },
             "career": {
               "value": 3.0,
               "games": 10,
-              "plateAppearances": 34,
+              "plateAppearances": 36,
               "inningsPitched": null
             }
           },
@@ -11900,7 +11900,7 @@
             "season": null,
             "career": {
               "value": 1.0,
-              "games": 7,
+              "games": 8,
               "plateAppearances": 5,
               "inningsPitched": null
             }
@@ -11990,13 +11990,13 @@
             "season": {
               "value": 4.0,
               "games": 10,
-              "plateAppearances": 39,
+              "plateAppearances": 41,
               "inningsPitched": null
             },
             "career": {
               "value": 4.0,
               "games": 12,
-              "plateAppearances": 41,
+              "plateAppearances": 43,
               "inningsPitched": null
             }
           },
@@ -12144,15 +12144,15 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 5.0,
+              "value": 6.0,
               "games": 10,
-              "plateAppearances": 33,
+              "plateAppearances": 35,
               "inningsPitched": null
             },
             "career": {
-              "value": 5.0,
+              "value": 6.0,
               "games": 10,
-              "plateAppearances": 33,
+              "plateAppearances": 35,
               "inningsPitched": null
             }
           },
@@ -12235,13 +12235,13 @@
             "league": "NL",
             "season": {
               "value": 1.0,
-              "games": 4,
+              "games": 5,
               "plateAppearances": 11,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
-              "games": 4,
+              "games": 5,
               "plateAppearances": 11,
               "inningsPitched": null
             }
@@ -12989,14 +12989,14 @@
             "league": "AL",
             "season": {
               "value": 1.0,
-              "games": 3,
-              "plateAppearances": 7,
+              "games": 4,
+              "plateAppearances": 8,
               "inningsPitched": null
             },
             "career": {
               "value": 1.0,
-              "games": 3,
-              "plateAppearances": 7,
+              "games": 4,
+              "plateAppearances": 8,
               "inningsPitched": null
             }
           },
@@ -13009,13 +13009,13 @@
             "season": {
               "value": 2.0,
               "games": 6,
-              "plateAppearances": 22,
+              "plateAppearances": 23,
               "inningsPitched": null
             },
             "career": {
               "value": 5.0,
               "games": 20,
-              "plateAppearances": 76,
+              "plateAppearances": 77,
               "inningsPitched": null
             }
           },
@@ -13389,13 +13389,13 @@
             "season": {
               "value": 2.0,
               "games": 10,
-              "plateAppearances": 36,
+              "plateAppearances": 37,
               "inningsPitched": null
             },
             "career": {
               "value": 2.0,
               "games": 10,
-              "plateAppearances": 36,
+              "plateAppearances": 37,
               "inningsPitched": null
             }
           },
@@ -13427,13 +13427,13 @@
             "season": {
               "value": 6.0,
               "games": 9,
-              "plateAppearances": 37,
+              "plateAppearances": 39,
               "inningsPitched": null
             },
             "career": {
               "value": 11.0,
               "games": 27,
-              "plateAppearances": 106,
+              "plateAppearances": 108,
               "inningsPitched": null
             }
           },
@@ -13522,13 +13522,13 @@
             "season": {
               "value": 4.0,
               "games": 10,
-              "plateAppearances": 43,
+              "plateAppearances": 45,
               "inningsPitched": null
             },
             "career": {
               "value": 9.0,
               "games": 36,
-              "plateAppearances": 140,
+              "plateAppearances": 142,
               "inningsPitched": null
             }
           },
@@ -13606,15 +13606,15 @@
             "league": "NL",
             "season": {
               "value": 1.0,
-              "games": 6,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "12.1"
+              "inningsPitched": "14.0"
             },
             "career": {
               "value": 1.0,
-              "games": 16,
+              "games": 17,
               "plateAppearances": null,
-              "inningsPitched": "21.2"
+              "inningsPitched": "23.1"
             }
           },
           {
@@ -13663,15 +13663,15 @@
             "league": "NL",
             "season": {
               "value": 0.0,
-              "games": 7,
+              "games": 8,
               "plateAppearances": null,
-              "inningsPitched": "6.1"
+              "inningsPitched": "7.2"
             },
             "career": {
               "value": 0.0,
-              "games": 14,
+              "games": 15,
               "plateAppearances": null,
-              "inningsPitched": "13.2"
+              "inningsPitched": "15.0"
             }
           },
           {
@@ -14399,15 +14399,15 @@
             "league": "AL",
             "season": {
               "value": 0.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             },
             "career": {
               "value": 0.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             }
           },
           {
@@ -14927,12 +14927,17 @@
             "teamId": 139,
             "teamAbbreviation": "TB",
             "league": "AL",
-            "season": null,
+            "season": {
+              "value": 0.0,
+              "games": 1,
+              "plateAppearances": null,
+              "inningsPitched": "0.2"
+            },
             "career": {
               "value": 0.0,
-              "games": 2,
+              "games": 3,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "3.0"
             }
           },
           {
@@ -15217,13 +15222,13 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.0,
+              "value": 1.0,
               "games": 3,
               "plateAppearances": null,
               "inningsPitched": "13.1"
             },
             "career": {
-              "value": 2.0,
+              "value": 3.0,
               "games": 6,
               "plateAppearances": null,
               "inningsPitched": "25.1"
@@ -15634,15 +15639,15 @@
             "league": "AL",
             "season": {
               "value": 0.0,
-              "games": 5,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             },
             "career": {
               "value": 0.0,
-              "games": 5,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             }
           },
           {
@@ -16508,15 +16513,15 @@
             "league": "AL",
             "season": {
               "value": 0.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "2.0"
+              "inningsPitched": "3.2"
             },
             "career": {
               "value": 0.0,
-              "games": 6,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "18.2"
+              "inningsPitched": "20.1"
             }
           },
           {
@@ -16678,15 +16683,15 @@
             "league": "NL",
             "season": {
               "value": 1.0,
-              "games": 5,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "5.2"
+              "inningsPitched": "6.2"
             },
             "career": {
               "value": 1.0,
-              "games": 13,
+              "games": 14,
               "plateAppearances": null,
-              "inningsPitched": "13.0"
+              "inningsPitched": "14.0"
             }
           },
           {
@@ -17006,16 +17011,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.57,
-              "games": 6,
+              "value": 0.5,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "12.1"
+              "inningsPitched": "14.0"
             },
             "career": {
-              "value": 1.52,
-              "games": 16,
+              "value": 1.41,
+              "games": 17,
               "plateAppearances": null,
-              "inningsPitched": "21.2"
+              "inningsPitched": "23.1"
             }
           },
           {
@@ -17063,16 +17068,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 1.74,
-              "games": 7,
+              "value": 1.57,
+              "games": 8,
               "plateAppearances": null,
-              "inningsPitched": "6.1"
+              "inningsPitched": "7.2"
             },
             "career": {
-              "value": 1.61,
-              "games": 14,
+              "value": 1.53,
+              "games": 15,
               "plateAppearances": null,
-              "inningsPitched": "13.2"
+              "inningsPitched": "15.0"
             }
           },
           {
@@ -17799,16 +17804,16 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 4.5,
-              "games": 1,
+              "value": 3.0,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             },
             "career": {
-              "value": 4.5,
-              "games": 1,
+              "value": 3.0,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             }
           },
           {
@@ -18328,12 +18333,17 @@
             "teamId": 139,
             "teamAbbreviation": "TB",
             "league": "AL",
-            "season": null,
-            "career": {
-              "value": 0.43,
-              "games": 2,
+            "season": {
+              "value": 1.5,
+              "games": 1,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "0.2"
+            },
+            "career": {
+              "value": 0.67,
+              "games": 3,
+              "plateAppearances": null,
+              "inningsPitched": "3.0"
             }
           },
           {
@@ -19029,16 +19039,16 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 1.71,
-              "games": 5,
+              "value": 2.63,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             },
             "career": {
-              "value": 1.71,
-              "games": 5,
+              "value": 2.63,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             }
           },
           {
@@ -19903,16 +19913,16 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.0,
-              "games": 1,
+              "value": 0.82,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "2.0"
+              "inningsPitched": "3.2"
             },
             "career": {
-              "value": 1.29,
-              "games": 6,
+              "value": 1.33,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "18.2"
+              "inningsPitched": "20.1"
             }
           },
           {
@@ -20073,16 +20083,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.53,
-              "games": 5,
+              "value": 0.9,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "5.2"
+              "inningsPitched": "6.2"
             },
             "career": {
-              "value": 0.54,
-              "games": 13,
+              "value": 0.71,
+              "games": 14,
               "plateAppearances": null,
-              "inningsPitched": "13.0"
+              "inningsPitched": "14.0"
             }
           },
           {
@@ -20403,15 +20413,15 @@
             "league": "NL",
             "season": {
               "value": 0.0,
-              "games": 6,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "12.1"
+              "inningsPitched": "14.0"
             },
             "career": {
-              "value": 3.32,
-              "games": 16,
+              "value": 3.09,
+              "games": 17,
               "plateAppearances": null,
-              "inningsPitched": "21.2"
+              "inningsPitched": "23.1"
             }
           },
           {
@@ -20459,16 +20469,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 2.84,
-              "games": 7,
+              "value": 2.35,
+              "games": 8,
               "plateAppearances": null,
-              "inningsPitched": "6.1"
+              "inningsPitched": "7.2"
             },
             "career": {
-              "value": 3.29,
-              "games": 14,
+              "value": 3.0,
+              "games": 15,
               "plateAppearances": null,
-              "inningsPitched": "13.2"
+              "inningsPitched": "15.0"
             }
           },
           {
@@ -21195,16 +21205,16 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 40.5,
-              "games": 1,
+              "value": 27.0,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             },
             "career": {
-              "value": 40.5,
-              "games": 1,
+              "value": 27.0,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             }
           },
           {
@@ -21724,12 +21734,17 @@
             "teamId": 139,
             "teamAbbreviation": "TB",
             "league": "AL",
-            "season": null,
+            "season": {
+              "value": 0.0,
+              "games": 1,
+              "plateAppearances": null,
+              "inningsPitched": "0.2"
+            },
             "career": {
               "value": 0.0,
-              "games": 2,
+              "games": 3,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "3.0"
             }
           },
           {
@@ -22425,16 +22440,16 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 3.86,
-              "games": 5,
+              "value": 3.38,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             },
             "career": {
-              "value": 3.86,
-              "games": 5,
+              "value": 3.38,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             }
           },
           {
@@ -23299,16 +23314,16 @@
             "teamAbbreviation": "TB",
             "league": "AL",
             "season": {
-              "value": 0.0,
-              "games": 1,
+              "value": 2.45,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "2.0"
+              "inningsPitched": "3.2"
             },
             "career": {
-              "value": 2.89,
-              "games": 6,
+              "value": 3.1,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "18.2"
+              "inningsPitched": "20.1"
             }
           },
           {
@@ -23469,16 +23484,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 0.0,
-              "games": 5,
+              "value": 1.35,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "5.2"
+              "inningsPitched": "6.2"
             },
             "career": {
-              "value": 0.69,
-              "games": 13,
+              "value": 1.29,
+              "games": 14,
               "plateAppearances": null,
-              "inningsPitched": "13.0"
+              "inningsPitched": "14.0"
             }
           },
           {
@@ -23799,15 +23814,15 @@
             "league": "NL",
             "season": {
               "value": 2.0,
-              "games": 6,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "12.1"
+              "inningsPitched": "14.0"
             },
             "career": {
               "value": 2.0,
-              "games": 16,
+              "games": 17,
               "plateAppearances": null,
-              "inningsPitched": "21.2"
+              "inningsPitched": "23.1"
             }
           },
           {
@@ -23856,15 +23871,15 @@
             "league": "NL",
             "season": {
               "value": 0.0,
-              "games": 7,
+              "games": 8,
               "plateAppearances": null,
-              "inningsPitched": "6.1"
+              "inningsPitched": "7.2"
             },
             "career": {
               "value": 1.0,
-              "games": 14,
+              "games": 15,
               "plateAppearances": null,
-              "inningsPitched": "13.2"
+              "inningsPitched": "15.0"
             }
           },
           {
@@ -24592,15 +24607,15 @@
             "league": "AL",
             "season": {
               "value": 0.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             },
             "career": {
               "value": 0.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             }
           },
           {
@@ -25120,12 +25135,17 @@
             "teamId": 139,
             "teamAbbreviation": "TB",
             "league": "AL",
-            "season": null,
+            "season": {
+              "value": 0.0,
+              "games": 1,
+              "plateAppearances": null,
+              "inningsPitched": "0.2"
+            },
             "career": {
               "value": 0.0,
-              "games": 2,
+              "games": 3,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "3.0"
             }
           },
           {
@@ -25827,15 +25847,15 @@
             "league": "AL",
             "season": {
               "value": 0.0,
-              "games": 5,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             },
             "career": {
               "value": 0.0,
-              "games": 5,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             }
           },
           {
@@ -26701,15 +26721,15 @@
             "league": "AL",
             "season": {
               "value": 0.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "2.0"
+              "inningsPitched": "3.2"
             },
             "career": {
               "value": 0.0,
-              "games": 6,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "18.2"
+              "inningsPitched": "20.1"
             }
           },
           {
@@ -26870,16 +26890,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 4.0,
-              "games": 5,
+              "value": 5.0,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "5.2"
+              "inningsPitched": "6.2"
             },
             "career": {
-              "value": 4.0,
-              "games": 13,
+              "value": 5.0,
+              "games": 14,
               "plateAppearances": null,
-              "inningsPitched": "13.0"
+              "inningsPitched": "14.0"
             }
           },
           {
@@ -27199,16 +27219,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 11.0,
-              "games": 6,
+              "value": 14.0,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "12.1"
+              "inningsPitched": "14.0"
             },
             "career": {
-              "value": 21.0,
-              "games": 16,
+              "value": 24.0,
+              "games": 17,
               "plateAppearances": null,
-              "inningsPitched": "21.2"
+              "inningsPitched": "23.1"
             }
           },
           {
@@ -27256,16 +27276,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 6.0,
-              "games": 7,
+              "value": 8.0,
+              "games": 8,
               "plateAppearances": null,
-              "inningsPitched": "6.1"
+              "inningsPitched": "7.2"
             },
             "career": {
-              "value": 13.0,
-              "games": 14,
+              "value": 15.0,
+              "games": 15,
               "plateAppearances": null,
-              "inningsPitched": "13.2"
+              "inningsPitched": "15.0"
             }
           },
           {
@@ -27993,15 +28013,15 @@
             "league": "AL",
             "season": {
               "value": 1.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             },
             "career": {
               "value": 1.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "0.2"
+              "inningsPitched": "1.0"
             }
           },
           {
@@ -28521,12 +28541,17 @@
             "teamId": 139,
             "teamAbbreviation": "TB",
             "league": "AL",
-            "season": null,
+            "season": {
+              "value": 0.0,
+              "games": 1,
+              "plateAppearances": null,
+              "inningsPitched": "0.2"
+            },
             "career": {
               "value": 6.0,
-              "games": 2,
+              "games": 3,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "3.0"
             }
           },
           {
@@ -29228,15 +29253,15 @@
             "league": "AL",
             "season": {
               "value": 2.0,
-              "games": 5,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             },
             "career": {
               "value": 2.0,
-              "games": 5,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "2.1"
+              "inningsPitched": "2.2"
             }
           },
           {
@@ -30102,15 +30127,15 @@
             "league": "AL",
             "season": {
               "value": 2.0,
-              "games": 1,
+              "games": 2,
               "plateAppearances": null,
-              "inningsPitched": "2.0"
+              "inningsPitched": "3.2"
             },
             "career": {
               "value": 17.0,
-              "games": 6,
+              "games": 7,
               "plateAppearances": null,
-              "inningsPitched": "18.2"
+              "inningsPitched": "20.1"
             }
           },
           {
@@ -30271,16 +30296,16 @@
             "teamAbbreviation": "MIL",
             "league": "NL",
             "season": {
-              "value": 6.0,
-              "games": 5,
+              "value": 7.0,
+              "games": 6,
               "plateAppearances": null,
-              "inningsPitched": "5.2"
+              "inningsPitched": "6.2"
             },
             "career": {
-              "value": 18.0,
-              "games": 13,
+              "value": 19.0,
+              "games": 14,
               "plateAppearances": null,
-              "inningsPitched": "13.0"
+              "inningsPitched": "14.0"
             }
           },
           {
