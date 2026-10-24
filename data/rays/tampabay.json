@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Notes | In between stints as Tampa Bay’s assistant hitting coach, Timmons spent three seasons working with Milwaukee’s hitters.",
+      "published": "2026-10-24T18:00:36+00:00",
+      "title": "Rays coach Ozzie Timmons enjoying facing Brewers he helped reach Series",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/24/ozzie-timmons-world-series-milwaukee-brewers-freddy-peralta-chandler-simpson/"
+    },
+    {
+      "category": "Rays",
       "description": "There is a lot of happiness and pride for the slugging first baseman who signed as a teenager in 2015.",
       "published": "2026-10-24T16:01:26+00:00",
       "title": "With 12 years as a Ray, Series berth just means more for Jonathan Aranda",
@@ -127,7 +134,7 @@
       "url": "https://www.tampabay.com/sports/rays/2026/10/21/rays-head-world-series-easy-see-why-brewers-are-so-good/"
     }
   ],
-  "generated_at": "2026-10-24T17:43:12.135794+00:00",
+  "generated_at": "2026-10-24T19:49:49.069610+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
