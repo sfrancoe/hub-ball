@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "After years of anticipation, Spencer Jones and George Lombard Jr. debuted with the Yankees this...",
+      "published": "2026-10-24T11:30:17+00:00",
+      "title": "Hal Steinbrenner encouraged by Yankees’ young core, cites the ‘hunger’ they bring",
+      "url": "https://www.nydailynews.com/2026/10/24/hal-steinbrenner-encouraged-yankees-spencer-jones-george-lombard-jr-cam-schlittler-ben-rice/"
+    },
+    {
+      "category": "Yankees",
       "description": "The winningest professional baseball team in Japan is taking on a decidedly Yankee presence, as...",
       "published": "2026-10-23T14:41:06+00:00",
       "title": "Yankees great Hideki Matsui named manager of Japan’s Yomiuri Giants",
@@ -132,16 +139,9 @@
       "published": "2026-10-10T11:00:25+00:00",
       "title": "How the Yankees’ final game could inform a few of their offseason decisions",
       "url": "https://www.nydailynews.com/2026/10/10/yankees-offseason-trent-grisham-ryan-mcmahon-jazz-chisholm-jr-rays/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees enter an offseason of uncertainty after their latest playoff defeat, and center field...",
-      "published": "2026-10-09T20:49:10+00:00",
-      "title": "Could Trent Grisham return to the Yankees with Spencer Jones looming?",
-      "url": "https://www.nydailynews.com/2026/10/09/trent-grisham-yankees-spencer-jones/"
     }
   ],
-  "generated_at": "2026-10-23T17:28:52.685723+00:00",
+  "generated_at": "2026-10-24T11:31:51.514391+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

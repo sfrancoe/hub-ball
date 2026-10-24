@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Wilyer Abreu is the strongest Red Sox candidate for a Silver Slugger Award, but do any of his teammates have a chance?",
+      "published": "2026-10-24T09:30:51Z",
+      "title": "Will the 2026 Red Sox have any Silver Slugger Award-winners?",
+      "url": "https://www.bostonherald.com/2026/10/24/red-sox-silver-slugger-awards-preview-wilyer-abreu-ceddanne-rafaela-willson-contreras-caleb-durbin-jarren-duran-mlb/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "From the feel-good story of 2024 to a speedy base-stealer, here are all the former Red Sox to watch in this year’s World Series",
       "published": "2026-10-23T09:30:46Z",
       "title": "All the ex-Red Sox to watch in this historic 2026 World Series",
@@ -104,16 +111,9 @@
       "published": "2026-10-09T23:17:19Z",
       "title": "Red Sox’ Garrett Whitlock unknowingly pitched through major injury this season",
       "url": "https://www.bostonherald.com/2026/10/09/red-sox-garrett-whitlock-injury-fracture-recovery-surgery-spring-training-lockout-mlb-news/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Was the 2026 Red Sox season a success or a failure? And what lies ahead with a lockout on the horizon? The Herald’s Red Sox writers discuss.",
-      "published": "2026-10-09T09:30:41Z",
-      "title": "Red Sox point-counterpoint: Was 2026 season a success or failure?",
-      "url": "https://www.bostonherald.com/2026/10/09/red-sox-point-counterpoint-was-2026-season-a-success-or-failure/"
     }
   ],
-  "generated_at": "2026-10-23T12:43:12.668641+00:00",
+  "generated_at": "2026-10-24T11:31:49.792071+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
