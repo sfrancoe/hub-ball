@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:03:49.995827+00:00",
+  "generated_at": "2026-10-24T20:58:03.831582+00:00",
   "source": "X",
   "source_url": "https://x.com/Athletics",
   "recent": [
@@ -22,7 +22,7 @@
       "text": "A look into the future. https://t.co/pbuJoHqAD4",
       "url": "https://x.com/Athletics/status/2113684876881014882",
       "published": "2026-10-23T17:31:59+00:00",
-      "likes": 88,
+      "likes": 95,
       "author": "Athletics",
       "handle": "Athletics",
       "avatar": "https://pbs.twimg.com/profile_images/2111223937245855744/2MctENE8_normal.jpg",
@@ -32,34 +32,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2113684876881014882",
-      "text": "A look into the future. https://t.co/pbuJoHqAD4",
-      "url": "https://x.com/Athletics/status/2113684876881014882",
-      "published": "2026-10-23T17:31:59+00:00",
-      "likes": 88,
-      "author": "Athletics",
-      "handle": "Athletics",
-      "avatar": "https://pbs.twimg.com/profile_images/2111223937245855744/2MctENE8_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2113683799108415488/img/6HdW4Iac_ES2xNZf.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2113711397205086679",
-      "text": "RT @VegasAthletics: 📍 the site https://t.co/nxIzqd39kM https://t.co/v07UgGNeJP",
-      "url": "https://x.com/Athletics/status/2113711397205086679",
-      "published": "2026-10-23T19:17:22+00:00",
-      "likes": 0,
-      "author": "Athletics",
-      "handle": "Athletics",
-      "avatar": "https://pbs.twimg.com/profile_images/2111223937245855744/2MctENE8_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HVVmFWqbYAAOKKt.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
