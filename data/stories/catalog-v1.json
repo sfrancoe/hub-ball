@@ -1,8 +1,23 @@
 {
-  "publishedAt": "2026-10-16T11:54:11Z",
-  "revision": "release-65b51782024f40228cea98736c1dadd7",
+  "publishedAt": "2026-10-24T13:57:58Z",
+  "revision": "release-4ba60304bd7b40259585121e21db44e4",
   "schemaVersion": 1,
   "stories": [
+    {
+      "fallback": "Jacob Misiorowski threw the fastest World Series pitch in the tracking era, topping Aroldis Chapman’s 103.2 mph in 2016.",
+      "id": "misiorowski-first-pitch-world-series",
+      "minimumRendererVersion": 8,
+      "publishedAt": "2026-10-24T13:57:58Z",
+      "renderer": "fact-card",
+      "rendererVersion": 1,
+      "revision": "44d8360dd495d8a3b577e6878dbf8200a1f38b28633746700352882914295b20",
+      "summary": "Jacob Misiorowski threw the fastest World Series pitch in the tracking era, topping Aroldis Chapman’s 103.2 mph in 2016.",
+      "teamIDs": [
+        158,
+        139
+      ],
+      "title": "103.5 mph. On his first pitch."
+    },
     {
       "fallback": "2025: Dodgers sweep. 2026: Brewers sweep. Milwaukee goes from 4 runs to 21.",
       "id": "same-teams-opposite-sweep",

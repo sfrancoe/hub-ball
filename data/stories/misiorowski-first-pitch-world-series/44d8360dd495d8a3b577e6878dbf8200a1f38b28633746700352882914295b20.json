@@ -1,0 +1,29 @@
+{
+  "body": "Jacob Misiorowski threw the fastest World Series pitch in the tracking era, topping Aroldis Chapman’s 103.2 mph in 2016.",
+  "footnote": "Pitch tracking began in 2008.",
+  "headline": "103.5 mph.",
+  "id": "misiorowski-first-pitch-world-series",
+  "kicker": "World Series · Game 1",
+  "methodology": [
+    "MLB official Game 849805 records Jacob Misiorowski’s first pitch to Yandy Díaz at 103.5 mph. MLB’s report identifies Chapman’s prior World Series record as 103.2 mph in 2016 and dates the tracking era to 2008. This is a World Series tracking-era record, not an all-postseason or all-time claim."
+  ],
+  "renderer": "fact-card",
+  "rendererVersion": 1,
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "official-game-849805",
+      "retrievedAt": "2026-10-24T12:38:53Z",
+      "title": "MLB official World Series Game 1 pitch data",
+      "url": "https://statsapi.mlb.com/api/v1.1/game/849805/feed/live"
+    },
+    {
+      "id": "mlb-world-series-velocity",
+      "retrievedAt": "2026-10-24T12:37:33Z",
+      "title": "MLB: Misiorowski makes World Series history in Game 1",
+      "url": "https://www.mlb.com/news/jacob-misiorowski-makes-world-series-history-in-game-1"
+    }
+  ],
+  "subheadline": "On his first pitch.",
+  "title": "103.5 mph. On his first pitch."
+}

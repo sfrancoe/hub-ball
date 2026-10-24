@@ -1,22 +1,22 @@
 {
-  "schemaVersion": 1,
   "bundleID": "com.sfrancoe.HubBall",
   "enabled": true,
+  "schemaVersion": 1,
   "target": {
-    "version": "1.1",
-    "build": 130,
     "audience": "all-supported-testers",
     "available": true,
-    "confirmedAt": "2026-10-24T12:21:40Z",
-    "expiresAt": "2027-01-11T15:15:08Z",
-    "minimumOS": "17.0",
+    "build": 133,
+    "confirmedAt": "2026-10-24T13:57:51Z",
     "deviceFamilies": [
       "iphone",
       "ipad"
     ],
+    "expiresAt": "2027-01-22T13:20:25Z",
+    "minimumOS": "17.0",
     "verifiedGroupIDs": [
       "58b84a1e-c8ab-4b73-9948-3362b4569fd1",
       "a7c07355-b794-49b9-b36d-75c129c8d6bb"
-    ]
+    ],
+    "version": "1.1"
   }
 }
