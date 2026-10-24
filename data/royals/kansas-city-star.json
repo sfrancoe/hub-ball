@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "On Friday, Royals right-hander Alec Marsh elected to pursue free agency. He joined fellow right-handers Connor Seabold and Easton McGee in hitting the open market after being outrighted to Triple-A ...",
+      "published": "2026-10-23T15:00:00+00:00",
+      "title": "Kansas City Royals pitcher Alec Marsh chooses free agency after demotion to minors",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317757636.html"
+    },
+    {
+      "category": "Royals",
       "description": "Jacob Misiorowski, who grew up in Grain Valley, is the obvious choice to make the start when the Brewers take on the Rays in Game 1 at American Family Field in Milwaukee. He piled up 252 strikeouts in ...",
       "published": "2026-10-23T02:46:00+00:00",
       "title": "Brewers’ Jacob Misiorowski carries memory of Royals’ title into World Series opener",
@@ -48,16 +55,9 @@
       "published": "2026-10-16T22:29:00+00:00",
       "title": "Why it’s OK to be excited, if still a bit cautious, about Royals’ planned stadium",
       "url": "https://www.kansascity.com/sports/spt-columns-blogs/vahe-gregorian/article317657430.html"
-    },
-    {
-      "category": "Royals",
-      "description": "ROYALS 5, TIGERS 2 ...",
-      "published": "2016-09-03T19:54:00+00:00",
-      "title": "KC Royals summary - September 3",
-      "url": "https://www.kansascity.com/sports/scores-stats/article99912377.html"
     }
   ],
-  "generated_at": "2026-10-24T01:49:28.140426+00:00",
+  "generated_at": "2026-10-24T06:33:20.364662+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

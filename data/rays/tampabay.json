@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "A two-run first inning puts Tampa Bay in a hole, a questionable baserunning decision by Victor Mesa Jr. is costly and a late rally comes up short.",
+      "published": "2026-10-24T03:40:44+00:00",
+      "title": "Rays falter in several ways in World Series-opening loss to Brewers",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/23/world-series-game-1-brewers-jacob-misiorowski-victor-mesa-nick-martinez-christian-yelich-taylor-walls/"
+    },
+    {
+      "category": "Rays",
+      "description": "Pitch Count | Looking at all the key pitches in Tampa Bay’s Game 1 loss to the Brewers in the World Series.",
+      "published": "2026-10-24T03:27:51+00:00",
+      "title": "The Miz was good for Milwaukee, but the Rays made it easier for him",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/23/jacob-misiorowski-christian-yelich-kevin-kelly-world-series/"
+    },
+    {
+      "category": "Rays",
+      "description": "Notes | In the lineup for his ability to make contact, he also contributes a key defensive play after dealing with hotel ghosts.",
+      "published": "2026-10-24T02:18:54+00:00",
+      "title": "Ben Williamson gets unexpected start, making surreal trip even better",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/23/ben-williamson-richie-palacios-world-series-brewers-garrett-cleavinger-brody-hopkins/"
+    },
+    {
+      "category": "Rays",
       "description": "Having started his pro career and debuting in the majors with Milwaukee, the right-hander thanks it for everything, including his trade to Tampa Bay.",
       "published": "2026-10-24T01:18:53+00:00",
       "title": "Rays’ Drew Rasmussen praises Brewers, now hopes to bury them",
@@ -9,7 +30,7 @@
     },
     {
       "category": "Rays",
-      "description": "Photo gallery | Tampa Bay is within four wins of its first-ever World Series championship. It can claim the first tonight.",
+      "description": "Photo gallery | This series is likely going to be tight. Milwaukee takes Game 1, but it’s no blowout.",
       "published": "2026-10-23T23:56:13+00:00",
       "title": "See images from World Series opener between Rays and Brewers",
       "url": "https://www.tampabay.com/sports/rays/2026/10/23/rays-brewers-world-series-game-1-photos-nick-martinez-jacob-misiorowski-junior-caminero/"
@@ -39,7 +60,7 @@
       "category": "Rays",
       "description": "A Knicks fan slogan went viral over the summer: Submit your suggestions for the Rays to have their own.",
       "published": "2026-10-23T15:51:32+00:00",
-      "title": "‘Rays in four!’ Enter our World Series slogan contest",
+      "title": "‘Rays in five!’ Enter our World Series slogan contest",
       "url": "https://www.tampabay.com/sports/rays/2026/10/23/rays-in-four-slogan-contest-world-series-knicks/"
     },
     {
@@ -118,30 +139,9 @@
       "published": "2026-10-21T17:59:24+00:00",
       "title": "Stu Sternberg: Happiness, joy, ‘a longing’ as Rays head to World Series",
       "url": "https://www.tampabay.com/sports/rays/2026/10/21/stuart-sternberg-world-series-former-owner-patrick-zalupski/"
-    },
-    {
-      "category": "Rays",
-      "description": "“I told him before that at-bat he’s going to hit a home run,” Shane McClanahan said. “I actually showed him where to hit it.”",
-      "published": "2026-10-20T23:49:29+00:00",
-      "title": "Rays’ Yandy Diaz, with help from McClanahan, makes prediction come true",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/20/yandy-diaz-alcs-prediction-shane-mcclanahan-world-series-guardians-erik-neander/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | Monday was just the second time in 18 playoff rounds the Rays clinched at home in front of their fans.",
-      "published": "2026-10-20T22:10:37+00:00",
-      "title": "Rays say winning ALCS at rocking Trop made things even more special",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/20/alcs-tropicana-field-world-series-yandy-diaz-shane-mcclanahan-richie-palacios-wander-franco/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Rays reached the final series in 2008 and 2020 but both times fell short of their ultimate goal.",
-      "published": "2026-10-20T21:27:08+00:00",
-      "title": "Rays from previous World Series teams see similarities, reasons to cheer",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/20/world-series-evan-longoria-carlos-pena-jason-bartlett-joe-maddon-scott-kazmir/"
     }
   ],
-  "generated_at": "2026-10-24T01:48:54.844870+00:00",
+  "generated_at": "2026-10-24T06:33:15.809028+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
