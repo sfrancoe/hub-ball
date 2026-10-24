@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Padres",
-      "description": "As far as the Padres’ catching room is concerned, the lay of the land has changed drastically in the last six months.",
-      "published": "2026-10-16T14:50:00+00:00",
-      "title": "Ethan Salas arrived in 2026, but nothing is guaranteed for Padres catchers next year",
-      "url": "https://www.sandiegouniontribune.com/2026/10/16/ethan-salas-arrived-in-2026-but-nothing-is-guaranteed-for-padres-catchers-next-year/"
-    },
-    {
-      "category": "Padres",
       "description": "The Padres share an important trait with the teams that on Friday will play Game 1 of the World Series in Milwaukee.",
       "published": "2026-10-22T18:30:00+00:00",
       "title": "Tom Krasovic: Brewers, Rays show baseball — including Padres — the art of the possible",
@@ -20,6 +13,13 @@
       "published": "2026-10-14T17:04:00+00:00",
       "title": "A.J. Preller, Craig Stammen know Padres have to get better to accomplish goal",
       "url": "https://www.sandiegouniontribune.com/2026/10/14/a-j-preller-craig-stammen-know-padres-have-to-get-better-to-accomplish-goal/"
+    },
+    {
+      "category": "Padres",
+      "description": "As far as the Padres’ catching room is concerned, the lay of the land has changed drastically in the last six months.",
+      "published": "2026-10-16T14:50:00+00:00",
+      "title": "Ethan Salas arrived in 2026, but nothing is guaranteed for Padres catchers next year",
+      "url": "https://www.sandiegouniontribune.com/2026/10/16/ethan-salas-arrived-in-2026-but-nothing-is-guaranteed-for-padres-catchers-next-year/"
     },
     {
       "category": "Padres",
@@ -71,7 +71,7 @@
       "url": "https://www.sandiegouniontribune.com/2026/10/14/the-padres-ty-france-freddy-fermin-named-finalists-for-nl-gold-glove/"
     }
   ],
-  "generated_at": "2026-10-23T23:27:53.646136+00:00",
+  "generated_at": "2026-10-24T01:50:14.931330+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }
