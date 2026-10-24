@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-24T18:50:47.742346+00:00",
+  "generatedAt": "2026-10-24T21:40:18.567399+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "St. Pete’s Jake Woodford will be a World Series winner no matter what",
+      "description": "Tales | The veteran right-hander pitched for both the Rays and Brewers this season, so he will get a ring regardless of who wins.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/24/jake-woodford-world-series-brewers-cubs-st-petersburg-plant-high-erik-neander/",
+      "published": "2026-10-24T20:10:50.935000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "These pending free agents are playing crucial World Series roles — and could help Yankees, Mets",
+      "description": "",
+      "url": "https://nypost.com/2026/10/24/sports/plenty-of-free-agent-reasons-for-mets-yankees-fans-to-watch-world-series/",
+      "published": "2026-10-24T19:03:14+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Rays coach Ozzie Timmons enjoying facing Brewers he helped reach Series",
       "description": "Notes | In between stints as Tampa Bay’s assistant hitting coach, Timmons spent three seasons working with Milwaukee’s hitters.",
@@ -93,6 +117,54 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Milwaukee Brewers manager Pat Murphy ponders the purpose of ties",
+      "description": "Milwaukee Brewers manager Pat Murphy shared his opinion about ties ahead of Game 2 of the World Series.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/24/pat-murphy-brewers-world-series/92421175007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Rays vs. Brewers live updates: MLB World Series Game 2 score, predictions and lineups",
+      "description": "The Tampa Bay Rays look to even the 2026 World Series in Game 2 against the Milwaukee Brewers tonight. Tampa Bay is sending its ace — and former Brewers pitcher — Drew Rasmussen to the mound.",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-brewers-live-updates-mlb-world-series-game-2-score-result/NBzOduCDhksg/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Watch the Brewers' Racing Sausages make their World Series debut",
+      "description": "The Milwaukee Brewers' Racing Sausages made their Fall Classic debut with their traditional sixth-inning race.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-racing-sausages-world-series-debut-game-1/92419344007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Ryan Braun savoring visit to Milwaukee, relishing Brewers' run",
+      "description": "Former Brewers player Ryan Braun returned to Milwaukee to attend the World Series. Braun also attended a Bucks game and participated in a youth baseball event. He expressed excitement for the city and ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/2026-world-series-ryan-braun-brewers-rays/92419046007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Are the Rays staying in a haunted Milwaukee hotel?",
       "description": "Pfister Hotel is the place to stay for many MLB teams.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/24/pfister-hotel-milwaukee-haunted-world-series/",
@@ -103,6 +175,30 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Former Brewers star Ryan Braun excited about World Series",
+      "description": "Ryan Braun has been busy during his visit to Milwaukee, with a Bucks game, the World Series and a MLB clinic for kids.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/24/2026-world-series-brewers-rays-former-brewers-star-ryan-braun/92418398007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "What channel is Brewers vs Rays in World Series Game 2 on? Time, TV",
+      "description": "The Brewers and Rays play Game 2 of the World Series at 7 p.m. Saturday, Oct. 24, at American Family Field in Milwaukee.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/watch-brewers-vs-rays-in-world-series-game-2-time-tv-channel/92407857007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Hal Steinbrenner encouraged by Yankees’ young core, cites the ‘hunger’ they bring",
@@ -127,54 +223,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "Will the 2026 Red Sox have any Silver Slugger Award-winners?",
-      "description": "Wilyer Abreu is the strongest Red Sox candidate for a Silver Slugger Award, but do any of his teammates have a chance?",
-      "url": "https://www.bostonherald.com/2026/10/24/red-sox-silver-slugger-awards-preview-wilyer-abreu-ceddanne-rafaela-willson-contreras-caleb-durbin-jarren-duran-mlb/",
-      "published": "2026-10-24T09:30:51+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Brewers' William Contreras, fearless and fierce, is becoming a superstar this October",
-      "description": "Contreras — tough, emotional, improvisational — is the Brewers’ heart and soul. And often their guts and brains, too.",
-      "url": "https://www.nytimes.com/athletic/7717053/2026/10/24/brewers-william-contreras-game-1-world-series-rays/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Philadelphia Academy Charter’s Kaitlyn Asher will be honored at the World Series: ‘A once in a lifetime opportunity’",
-      "description": "Asher, a sophomore, was selected by the MLB as Youth of the Year from the Philadelphia Urban Phillies Youth Academy. Nine players from MLB Youth Academies will recognized before Game 2 Saturday.",
-      "url": "https://www.inquirer.com/phillies/kaitlyn-asher-mlb-youth-academy-youth-of-the-year-phillies-world-series-20261024.html",
-      "published": "2026-10-24T09:01:01+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "A Nike-commissioned LeBron James replaced the Phillies’ ‘Daycare’ mural at Garage Fishtown",
-      "description": "The mural depicts LeBron's iconic chalk toss from the top of the Art Museum steps and replaces the mural depicting the Phillies' Bryson Stott, Alec Bohm, and Brandon Marsh.",
-      "url": "https://www.inquirer.com/sixers/lebron-james-mural-philly-daycare-garage-fishtown-20261024.html",
-      "published": "2026-10-24T09:01:01+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
     }
   ]
 }
