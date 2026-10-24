@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Under Blake, the Yankees' pitching staff led the majors in ERA this season.",
+      "published": "2026-10-24T14:42:08+00:00",
+      "title": "Yankees, pitching coach Matt Blake finalizing 3-year contract extension: Source",
+      "url": "https://www.nytimes.com/athletic/7717372/2026/10/24/matt-blake-yankees-contract-extension/"
+    },
+    {
+      "category": "Yankees",
       "description": "The former slugger spent the first half of his professional career playing for the Giants before he came stateside to play in MLB.",
       "published": "2026-10-23T05:24:08+00:00",
       "title": "Yankees World Series MVP Hideki Matsui named manager of NPB's Yomiuri Giants",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T09:30:29+00:00",
       "title": "Aaron Judge calls on front office to go all-in this offseason: 'We're the Yankees'",
       "url": "https://www.nytimes.com/athletic/7670719/2026/10/08/aaron-judge-yankees-offseason/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Caminero, whose Rays swept New York 3-0 in the ALDS, also did Stephen Curry's iconic \"night night\" celebration at Yankee Stadium.",
-      "published": "2026-10-08T04:36:21+00:00",
-      "title": "Junior Caminero adopts familiar troll after Rays sweep New York: 'Theeee Yankees lose!'",
-      "url": "https://www.nytimes.com/athletic/7670560/2026/10/08/junior-caminero-yankees-rays-sweep-trolling/"
     }
   ],
-  "generated_at": "2026-10-23T17:28:59.618063+00:00",
+  "generated_at": "2026-10-24T14:50:28.249148+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

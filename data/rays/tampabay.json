@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Pfister Hotel is the place to stay for many MLB teams.",
+      "published": "2026-10-24T14:14:40+00:00",
+      "title": "Are the Rays staying in a haunted Milwaukee hotel?",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/24/pfister-hotel-milwaukee-haunted-world-series/"
+    },
+    {
+      "category": "Rays",
       "description": "A two-run first inning puts Tampa Bay in a hole, a questionable baserunning decision by Victor Mesa Jr. is costly and a late rally comes up short.",
       "published": "2026-10-24T03:40:44+00:00",
       "title": "Rays falter in several ways in World Series-opening loss to Brewers",
@@ -125,23 +132,9 @@
       "published": "2026-10-21T18:33:37+00:00",
       "title": "Do the Tampa Bay Rays have any celebrity fans?",
       "url": "https://www.tampabay.com/sports/rays/2026/10/21/celebrity-rays-fans-john-cena-dick-vitale-world-series/"
-    },
-    {
-      "category": "Rays",
-      "description": "The parade twofer is emblematic of a stadium tug-of-war between the two cities.",
-      "published": "2026-10-21T18:23:23+00:00",
-      "title": "St. Pete, Tampa both planning parades if Rays win World Series",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/21/world-series-parade-tampa-hillsborough-river-st-petersburg/"
-    },
-    {
-      "category": "Rays",
-      "description": "The former team owner also had immense praise for the job the new ownership did in getting a deal completed for a stadium in Tampa.",
-      "published": "2026-10-21T17:59:24+00:00",
-      "title": "Stu Sternberg: Happiness, joy, ‘a longing’ as Rays head to World Series",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/21/stuart-sternberg-world-series-former-owner-patrick-zalupski/"
     }
   ],
-  "generated_at": "2026-10-24T06:33:15.809028+00:00",
+  "generated_at": "2026-10-24T14:50:34.667682+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Retaining Matt Blake was a priority after a 2026 season in which the Yankees pitched...",
+      "published": "2026-10-24T14:47:45+00:00",
+      "title": "Yankees ‘close’ on new contract with pitching coach Matt Blake: source",
+      "url": "https://www.nydailynews.com/2026/10/24/yankees-matt-blake-mlb-pitching-coach-contract/"
+    },
+    {
+      "category": "Yankees",
       "description": "After years of anticipation, Spencer Jones and George Lombard Jr. debuted with the Yankees this...",
       "published": "2026-10-24T11:30:17+00:00",
       "title": "Hal Steinbrenner encouraged by Yankees’ young core, cites the ‘hunger’ they bring",
@@ -132,16 +139,9 @@
       "published": "2026-10-11T13:39:37+00:00",
       "title": "These are the Yankees’ biggest offseason questions",
       "url": "https://www.nydailynews.com/2026/10/10/yankees-biggest-questions-offseason-jazz-chisholm-trent-grisham-giancarlo-stanton/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Jazz Chisholm Jr., Ryan McMahon and Trent Grisham were benched or unproductive in the Yankees'...",
-      "published": "2026-10-10T11:00:25+00:00",
-      "title": "How the Yankees’ final game could inform a few of their offseason decisions",
-      "url": "https://www.nydailynews.com/2026/10/10/yankees-offseason-trent-grisham-ryan-mcmahon-jazz-chisholm-jr-rays/"
     }
   ],
-  "generated_at": "2026-10-24T11:31:51.514391+00:00",
+  "generated_at": "2026-10-24T14:50:21.390018+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
