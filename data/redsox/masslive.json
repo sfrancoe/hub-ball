@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox made some coaching changes this week. Here's what they all mean — and what might be next.",
+      "published": "2026-10-25T21:02:11+00:00",
+      "title": "What Red Sox coaching changes mean — and what’s next for Chad Tracy’s staff",
+      "url": "https://www.masslive.com/redsox/2026/10/what-red-sox-coaching-changes-mean-and-whats-next-for-chad-tracys-staff.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Random thoughts about (mostly) sports topics.",
       "published": "2026-10-25T09:00:00+00:00",
       "title": "Some Things I Think I Think: Red Sox can learn from World Series participants",
@@ -99,7 +106,7 @@
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-could-boston-get-by-without-replacing-sonny-gray-in-rotation.html"
     }
   ],
-  "generated_at": "2026-10-25T09:30:16.846997+00:00",
+  "generated_at": "2026-10-25T22:06:32.288648+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
