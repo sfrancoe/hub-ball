@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-25T12:37:56.691761+00:00",
+  "generatedAt": "2026-10-25T16:51:56.913667+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 2,
   "articles": [
     {
       "title": "Brewers' Aaron Ashby thrives in World Series as a reliever, dreams of being a starter",
@@ -90,138 +90,6 @@
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Lexington native Sal Frelick homers to help Brewers to comeback win over Rays in World Series Game 2",
-      "description": "The Brewers take a 2-0 series lead into Game 3 in Tampa Bay on Monday night.",
-      "url": "https://www.bostonglobe.com/2026/10/25/sports/brewers-rays-world-series-game-2-score/",
-      "published": "2026-10-25T04:12:15.594000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Ace isn’t sharp, Rays waste chance in World Series Game 2 loss to Brewers",
-      "description": "After going ahead 4-0 in the first, the offense is shut down and Drew Rasmussen has a bad night, putting Tampa Bay into an 0-2 World Series hole.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/25/drew-rasmussen-world-series-game-2-milwaukee-brewers-cooper-pratt-sal-frelick/",
-      "published": "2026-10-25T04:03:53.485000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Enjoy the World Series because all signs point to a lockout",
-      "description": "For the MLB Players Association, this World Series proves the game is thriving, and a cap isn’t needed to give teams in smaller cities hope. For commissioner Rob Manfred and the owners he represents, it’s the other side of the coin.",
-      "url": "https://www.bostonglobe.com/2026/10/24/sports/world-series-labor-strife/",
-      "published": "2026-10-25T04:00:10.838000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "How do you blow a 4-0 lead in the World Series? One blunder at a time",
-      "description": "Pitch count | The Rays got off to a hot start against the Brewers in Game 2, but ace Drew Rasmussen, and the defense, cannot hold on.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/24/world-series-game-2-drew-rasmussen-ian-seymour/",
-      "published": "2026-10-25T03:49:12.525000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Forty-four years of waiting, two wins from a title: Are the Brewers' glory days finally here?",
-      "description": "The Brewers spotted the Rays four runs in Game 2. Then they showed why they can never be counted out.",
-      "url": "https://www.nytimes.com/athletic/7721589/2026/10/24/brewers-frelick-game-2-world-series-win-rays/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers, gritty and tenacious this October, take Game 2. Can the Rays recover?",
-      "description": "The World Series now shifts to Florida, with Game 3 scheduled for Monday night at Tropicana Field.",
-      "url": "https://www.nytimes.com/athletic/7720762/2026/10/24/rays-brewers-world-series-game-2-results-score-takeaways/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Cam Booser’s wild ride from construction to the majors now includes World Series trip with the Rays",
-      "description": "Cam Booser, now a key piece of the Rays' bullpen, remains grateful the Red Sox gave him his first big league opportunity in 2024.",
-      "url": "https://www.bostonglobe.com/2026/10/24/sports/sunday-baseball-notes-cam-booser-rays-world-series/",
-      "published": "2026-10-25T02:54:47.872000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The comeback king Brewers, immune to adversity, just keep making October miracles",
-      "description": "When they’re behind, it feels like they’re ahead. When they’re four runs behind, it feels like they’ve got you right where they want you.",
-      "url": "https://www.nytimes.com/athletic/7720778/2026/10/25/brewers-comeback-wins-world-series-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Bob Uecker’s spirit hangs over a bittersweet Brewers World Series",
-      "description": "In the days ahead of the World Series, Uecker’s family released a statement to Brewers fans. It read more like a love letter.",
-      "url": "https://www.nytimes.com/athletic/7721570/2026/10/25/bob-uecker-brewers-mlb-world-series/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Jonny DeLuca’s Game 1 play a good example of how Rays are catching on",
-      "description": "The outfield has basically been a no-fly zone between the speed of the fielders and amount of ground being covered.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/24/jonny-deluca-world-series-chandler-simpson-victor-mesa-corey-dickerson/",
-      "published": "2026-10-25T01:50:56.166000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "These Milwaukee Brewers are two games from immortality in World Series",
-      "description": "They have now knocked off three Cy Young winners this postseason with Tarik Skubal, Blake Snell and Robbie Ray, World Series MVP Yoshinobu Yamamoto, and now Rasmussen, who had been unbeatable since ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/columnist/bob-nightengale/2026/10/25/brewers-world-series-score-vs-rays/92428032007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
       "publishedSource": "unverified"
     }
   ]
