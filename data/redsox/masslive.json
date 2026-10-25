@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Random thoughts about (mostly) sports topics.",
+      "published": "2026-10-25T09:00:00+00:00",
+      "title": "Some Things I Think I Think: Red Sox can learn from World Series participants",
+      "url": "https://www.masslive.com/redsox/2026/10/some-things-i-think-i-think-red-sox-can-learn-from-world-series-participants.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox face contract decisions on 17 arbitration-eligible players, with several non-tender candidates and extension talks likely amid roster uncertainty.",
       "published": "2026-10-23T13:18:52+00:00",
       "title": "State of the Sox: The Red Sox must decide the fates of 17 arbitration-eligible players — and some of those calls are far from easy",
@@ -90,16 +97,9 @@
       "published": "2026-10-19T10:00:00+00:00",
       "title": "Red Sox rotation outlook: Can Boston survive without Sonny Gray?",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-could-boston-get-by-without-replacing-sonny-gray-in-rotation.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Random thoughts about (mostly) sports topics.",
-      "published": "2026-10-18T09:00:00+00:00",
-      "title": "Some Things I Think I Think: Despite early elimination, Red Sox aren’t that far from contention",
-      "url": "https://www.masslive.com/redsox/2026/10/some-things-i-think-i-think-despite-early-elimination-red-sox-arent-that-far-from-contention.html"
     }
   ],
-  "generated_at": "2026-10-23T17:28:52.191322+00:00",
+  "generated_at": "2026-10-25T09:30:16.846997+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
