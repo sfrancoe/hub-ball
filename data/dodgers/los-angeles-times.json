@@ -44,20 +44,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "Los Angeles Dodgers manager Dave Roberts on losing the NLCS, not going to the World Series for a third time in a row, and not having regrets with how he managed the series.",
-      "published": "2026-10-15T20:53:00+00:00",
-      "title": "Dave Roberts on Dodgers losing the NLCS and having no regrets",
-      "url": "https://www.latimes.com/vs6zlsi4ghm-123"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Milwaukee sent a parade of four relievers to the mound for a second straight game Monday, and for a second straight game they didn’t give up a run, retiring the last 15 Dodgers in order.",
-      "published": "2026-10-12T21:12:00+00:00",
-      "title": "In the NLCS, the Dodgers are seeing what money can’t buy: a bullpen such as Milwaukee’s",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/nlcs-dodgers-brewers-bullpen-matchup-abner-uribe"
-    },
-    {
-      "category": "Dodgers",
       "description": "Readers of the Los Angeles Times Sports section share their thoughts on the Dodgers' stunning loss as well as the Rams' and Chargers' downfalls.",
       "published": "2026-10-17T04:00:00+00:00",
       "title": "Letters to Sports: The good and the bad to Brewers’ sweep of the Dodgers",
@@ -72,13 +58,27 @@
     },
     {
       "category": "Dodgers",
+      "description": "Los Angeles Dodgers manager Dave Roberts on losing the NLCS, not going to the World Series for a third time in a row, and not having regrets with how he managed the series.",
+      "published": "2026-10-15T20:53:00+00:00",
+      "title": "Dave Roberts on Dodgers losing the NLCS and having no regrets",
+      "url": "https://www.latimes.com/vs6zlsi4ghm-123"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Milwaukee sent a parade of four relievers to the mound for a second straight game Monday, and for a second straight game they didn’t give up a run, retiring the last 15 Dodgers in order.",
+      "published": "2026-10-12T21:12:00+00:00",
+      "title": "In the NLCS, the Dodgers are seeing what money can’t buy: a bullpen such as Milwaukee’s",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-12/nlcs-dodgers-brewers-bullpen-matchup-abner-uribe"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Dodgers showed signs of life during Game 3 of the NLCS, but Bill Plaschke writes the reigning champs can't survive their crushing collapse.",
       "published": "2026-10-14T22:38:00+00:00",
       "title": "The Dodgers are done. After putting up a fight, the champs are out of gas",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-14/dodgers-are-done-reigning-champs-are-out-of-gas"
     }
   ],
-  "generated_at": "2026-10-25T17:19:58.871764+00:00",
+  "generated_at": "2026-10-25T19:49:28.519973+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }
