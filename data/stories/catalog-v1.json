@@ -1,8 +1,22 @@
 {
-  "publishedAt": "2026-10-24T13:57:58Z",
-  "revision": "release-4ba60304bd7b40259585121e21db44e4",
+  "publishedAt": "2026-10-25T13:18:18Z",
+  "revision": "release-2d607d0e928e4fd28670eb721896f533",
   "schemaVersion": 1,
   "stories": [
+    {
+      "fallback": "Regular Season: 28.3%\n380 for 1,341\n\nWorld Series: 15%\n3 for 20",
+      "id": "rays-risp-world-series-game-two",
+      "minimumRendererVersion": 8,
+      "publishedAt": "2026-10-25T13:18:18Z",
+      "renderer": "fact-card",
+      "rendererVersion": 1,
+      "revision": "67fcfbaecbecb3c4513744bd18d6fb0cc79791c74e209aea2db04b1c2a604372",
+      "summary": "Regular Season: 28.3%\n380 for 1,341\n\nWorld Series: 15%\n3 for 20",
+      "teamIDs": [
+        139
+      ],
+      "title": "Rays aren’t getting it done with RISP"
+    },
     {
       "fallback": "Jacob Misiorowski threw the fastest World Series pitch in the tracking era, topping Aroldis Chapman’s 103.2 mph in 2016.",
       "id": "misiorowski-first-pitch-world-series",

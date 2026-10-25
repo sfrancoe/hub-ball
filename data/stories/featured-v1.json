@@ -1,24 +1,23 @@
 {
   "enabled": true,
   "entry": {
-    "fallback": "Jacob Misiorowski threw the fastest World Series pitch in the tracking era, topping Aroldis Chapman’s 103.2 mph in 2016.",
-    "id": "misiorowski-first-pitch-world-series",
+    "fallback": "Regular Season: 28.3%\n380 for 1,341\n\nWorld Series: 15%\n3 for 20",
+    "id": "rays-risp-world-series-game-two",
     "minimumRendererVersion": 8,
-    "publishedAt": "2026-10-24T13:57:58Z",
+    "publishedAt": "2026-10-25T13:18:18Z",
     "renderer": "fact-card",
     "rendererVersion": 1,
-    "revision": "44d8360dd495d8a3b577e6878dbf8200a1f38b28633746700352882914295b20",
-    "summary": "Jacob Misiorowski threw the fastest World Series pitch in the tracking era, topping Aroldis Chapman’s 103.2 mph in 2016.",
+    "revision": "67fcfbaecbecb3c4513744bd18d6fb0cc79791c74e209aea2db04b1c2a604372",
+    "summary": "Regular Season: 28.3%\n380 for 1,341\n\nWorld Series: 15%\n3 for 20",
     "teamIDs": [
-      158,
       139
     ],
-    "title": "103.5 mph. On his first pitch."
+    "title": "Rays aren’t getting it done with RISP"
   },
-  "expiresAt": "2026-10-25T13:57:58Z",
+  "expiresAt": "2026-10-26T13:18:18Z",
   "minimumBuild": 133,
-  "notBefore": "2026-10-24T13:57:58Z",
-  "publishedAt": "2026-10-24T13:57:58Z",
-  "revision": "misiorowski-approved-external133",
+  "notBefore": "2026-10-25T13:18:18Z",
+  "publishedAt": "2026-10-25T13:18:18Z",
+  "revision": "rays-risp-game-two-october25",
   "schemaVersion": 1
 }

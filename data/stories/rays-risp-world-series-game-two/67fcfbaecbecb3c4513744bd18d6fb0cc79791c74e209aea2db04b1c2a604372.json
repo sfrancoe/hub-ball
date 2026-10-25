@@ -1,0 +1,37 @@
+{
+  "body": "Regular Season: 28.3%\n380 for 1,341\n\nWorld Series: 15%\n3 for 20",
+  "footnote": "World Series through Game 2",
+  "headline": "Rays aren’t getting it done",
+  "id": "rays-risp-world-series-game-two",
+  "kicker": "World Series",
+  "methodology": [
+    "RISP means at-bats with runners in scoring position; walks and other non-at-bat plate appearances are not included.",
+    "Regular season: 380 hits divided by 1,341 at-bats = 28.337...%, rounded to 28.3%. World Series: 3 hits divided by 20 at-bats = 15%.",
+    "World Series totals are frozen through Game 2, completed October 24, 2026; the official team split lists two games. These are World Series totals, not all-postseason totals."
+  ],
+  "renderer": "fact-card",
+  "rendererVersion": 1,
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "regular-risp",
+      "retrievedAt": "2026-10-25T13:15:44Z",
+      "title": "MLB Stats API: Rays 2026 regular-season RISP split",
+      "url": "https://statsapi.mlb.com/api/v1/teams/139/stats?stats=statSplits&group=hitting&season=2026&gameType=R&sitCodes=risp"
+    },
+    {
+      "id": "world-series-risp",
+      "retrievedAt": "2026-10-25T13:15:44Z",
+      "title": "MLB Stats API: Rays 2026 World Series RISP split through Game 2",
+      "url": "https://statsapi.mlb.com/api/v1/teams/139/stats?stats=statSplits&group=hitting&season=2026&gameType=W&sitCodes=risp"
+    },
+    {
+      "id": "world-series-game-two-cutoff",
+      "retrievedAt": "2026-10-25T13:15:44Z",
+      "title": "MLB Stats API: completed World Series Games 1–2, October 23–24",
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=139&gameType=W&startDate=2026-10-23&endDate=2026-10-24"
+    }
+  ],
+  "subheadline": "with RISP",
+  "title": "Rays aren’t getting it done with RISP"
+}
