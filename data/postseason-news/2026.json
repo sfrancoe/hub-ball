@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-24T23:47:24.542695+00:00",
+  "generatedAt": "2026-10-25T01:48:14.184245+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Enjoy the World Series because all signs point to a lockout",
+      "description": "For the MLB Players Association, this World Series proves the game is thriving, and a cap isn’t needed to give teams in smaller cities hope. For commissioner Rob Manfred and the owners he represents, it’s the other side of the coin.",
+      "url": "https://www.bostonglobe.com/2026/10/24/sports/world-series-labor-strife/",
+      "published": "2026-10-25T00:31:24.417000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "See images from World Series Game 2 between Rays and Brewers",
       "description": "Photo gallery | Tampa Bay looks to even the series before heading back to St. Pete for three games.",
@@ -69,6 +81,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Rays vs. Brewers score, live updates: Tampa Bay leads Milwaukee in MLB World Series Game 2",
+      "description": "Since 2022, Drew Rasmussen's first full season with the Rays, only six pitchers in baseball have a better ERA than Tampa Bay's Game 2 starter. His 2.75 ERA over that stretch is better than the likes ...",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-brewers-live-updates-mlb-world-series-game-2-score-result/NBzOduCDhksg/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers fans could have big presence at World Series games in Florida",
+      "description": "Milwaukee Brewers fans could have a considerable presence at Tropicana Field when the World Series heads there, based on StubHub ticket sales. Games 3, 4 and 5 will take place at Tampa Bay's Tropicana ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-fans-in-tampa-bay-outnumber-rays-fans-in-milwaukee-101/92385058007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Rays coach Ozzie Timmons enjoying facing Brewers he helped reach Series",
       "description": "Notes | In between stints as Tampa Bay’s assistant hitting coach, Timmons spent three seasons working with Milwaukee’s hitters.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/24/ozzie-timmons-world-series-milwaukee-brewers-freddy-peralta-chandler-simpson/",
@@ -81,9 +117,21 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Brewers vs Rays live updates in World Series Game 2; score, highlights",
-      "description": "In Game 2, Logan Henderson is Milwaukee's starting pitcher. The Brewers have won every home game started by the rookie right-hander in his career (12-0, including postseason). Tampa Bay counters with ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-vs-rays-live-updates-world-series-game-2--live/92402379007/",
+      "title": "Brewers fans upset as Fox delays World Series pregame show",
+      "description": "Milwaukee Brewers and baseball fans were enraged with the lack of Fox’s pregame coverage of Game 2 of the World Series on Saturday, Oct. 24. Fox’s pregame show was delayed by over 40 minutes, waiting ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-fans-upset-as-fox-delays-world-series-pregame-show/92423429007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Cooper Pratt and David Hamilton react to the Milwaukee crowd for World Series Game 1",
+      "description": "Brewers infielders Cooper Pratt and David Hamilton react to the sold out Milwaukee crowd from Game 1 of the World Series, playing on national stage.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/24/brewers-cooper-pratt-david-hamilton-react-to-crowd-world-series-game-1/92423366007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
@@ -228,42 +276,6 @@
       "title": "Ryan Braun savoring visit to Milwaukee, relishing Brewers' run",
       "description": "Former Brewers player Ryan Braun returned to Milwaukee to attend the World Series. Braun also attended a Bucks game and participated in a youth baseball event. He expressed excitement for the city and ...",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/2026-world-series-ryan-braun-brewers-rays/92419046007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Are the Rays staying in a haunted Milwaukee hotel?",
-      "description": "Pfister Hotel is the place to stay for many MLB teams.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/24/pfister-hotel-milwaukee-haunted-world-series/",
-      "published": "2026-10-24T13:00:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Former Brewers star Ryan Braun excited about World Series",
-      "description": "Ryan Braun has been busy during his visit to Milwaukee, with a Bucks game, the World Series and a MLB clinic for kids.",
-      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/24/2026-world-series-brewers-rays-former-brewers-star-ryan-braun/92418398007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "104-year-old Brewers fan makes second accurate score prediction",
-      "description": "Ruth Werning, 104, has now accurately predicted the winning Brewers' score not once, but twice, in the post-season.",
-      "url": "https://www.jsonline.com/story/news/local/2026/10/24/104-year-old-brewers-fan-makes-second-accurate-score-prediction-world-series-milwaukee-tampa-bay/92416505007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
