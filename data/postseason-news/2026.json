@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-25T19:44:31.532918+00:00",
+  "generatedAt": "2026-10-25T22:05:55.569208+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 2,
   "articles": [
+    {
+      "title": "What Red Sox coaching changes mean — and what’s next for Chad Tracy’s staff",
+      "description": "The Red Sox made some coaching changes this week. Here's what they all mean — and what might be next.",
+      "url": "https://www.masslive.com/redsox/2026/10/what-red-sox-coaching-changes-mean-and-whats-next-for-chad-tracys-staff.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "How loud, exactly, was Brewers crowd for World Series Game 2?",
       "description": "American Family Field, as expected, was rocking for Game 2 of the World Series. Even after falling behind by four runs in the top of the first inning against the Tampa Bay Rays, the faithful in the ...",
@@ -30,90 +42,6 @@
       "teamName": "Milwaukee Brewers",
       "teamAbbreviation": "MIL",
       "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers' Aaron Ashby thrives in World Series as a reliever, dreams of being a starter",
-      "description": "Ashby might join the Brewers’ rotation next year, but he's doing just fine in his current role, with a string of scoreless relief outings.",
-      "url": "https://www.nytimes.com/athletic/7717025/2026/10/25/aaron-ashby-brewers-rays-world-series-game-2/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Tropicana Field’s remarkable rise from the ashes to the World Series",
-      "description": "The future of the Rays’ stadium seemed bleak in October 2024. Now the quirky dome is a centerpiece of the Fall Classic.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/25/tropicana-fields-remarkable-rise-ashes-world-series/",
-      "published": "2026-10-25T10:00:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Stu Sternberg spent two decades trying to win with the Rays. Now they chase a title without him",
-      "description": "The former Rays owner has been watching, with complicated feelings on the team's World Series berth.",
-      "url": "https://www.nytimes.com/athletic/7721967/2026/10/25/stu-sternberg-rays-owner-world-series-sale/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The Rays, steady and composed all season, are unraveling on the World Series stage",
-      "description": "\"Today was probably not our best day,” Rays manager Kevin Cash said after Game 2.",
-      "url": "https://www.nytimes.com/athletic/7720788/2026/10/25/rays-brewers-world-series-game-2-blown-lead/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "MLB notes: Looking back at extremely rare World Series matchups in same ilk as Brewers-Rays",
-      "description": "Two franchises going for their first World Series title? Two clubs both looking to end droughts of 25 years or longer? Neither has happened often, making this week’s Brewers-Rays matchup especially unique.",
-      "url": "https://www.bostonherald.com/2026/10/25/mlb-notes-brewers-rays-providing-exceptionally-rare-world-series-matchup/",
-      "published": "2026-10-25T09:30:31+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Sal Frelick’s World Series home run off Ian Seymour was a meeting made in Massachusetts",
-      "description": "The natives of Lexington and Westborough, respectively, have faced off many times during offseason workouts and twice earlier this season. Saturday was bigger.",
-      "url": "https://www.bostonglobe.com/2026/10/25/sports/world-series-sal-frelick-ian-seymour-massachusetts-baseball/",
-      "published": "2026-10-25T09:00:00+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Some Things I Think I Think: Red Sox can learn from World Series participants",
-      "description": "Random thoughts about (mostly) sports topics.",
-      "url": "https://www.masslive.com/redsox/2026/10/some-things-i-think-i-think-red-sox-can-learn-from-world-series-participants.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
       "publishedSource": "unverified"
     }
   ]
