@@ -1,11 +1,25 @@
 {
   "articles": [
     {
+      "category": "Brewers 5, Rays 4",
+      "description": "The Brewers take a 2-0 series lead into Game 3 in Tampa Bay on Monday night.",
+      "published": "2026-10-25T04:12:15.594Z",
+      "title": "Lexington native Sal Frelick homers to help Brewers to comeback win over Rays in World Series Game 2",
+      "url": "https://www.bostonglobe.com/2026/10/25/sports/brewers-rays-world-series-game-2-score/"
+    },
+    {
       "category": "Sunday baseball notes",
       "description": "Cam Booser, now a key piece of the Rays' bullpen, remains grateful the Red Sox gave him his first big league opportunity in 2024.",
-      "published": "2026-10-24T15:04:49.019Z",
+      "published": "2026-10-25T02:54:47.872Z",
       "title": "Cam Booser’s wild ride from construction to the majors now includes World Series trip with the Rays",
       "url": "https://www.bostonglobe.com/2026/10/24/sports/sunday-baseball-notes-cam-booser-rays-world-series/"
+    },
+    {
+      "category": "ON BASEBALL",
+      "description": "For the MLB Players Association, this World Series proves the game is thriving, and a cap isn’t needed to give teams in smaller cities hope. For commissioner Rob Manfred and the owners he represents, it’s the other side of the coin.",
+      "published": "2026-10-25T00:31:24.417Z",
+      "title": "Enjoy the World Series because all signs point to a lockout",
+      "url": "https://www.bostonglobe.com/2026/10/24/sports/world-series-labor-strife/"
     },
     {
       "category": "ON BASEBALL",
@@ -97,23 +111,9 @@
       "published": "2026-10-19T15:27:06.862Z",
       "title": "Red Sox lose key executive to another club for the second year in a row",
       "url": "https://www.bostonglobe.com/2026/10/19/sports/red-sox-taylor-smith-athletics/"
-    },
-    {
-      "category": "RAYS 3, GUARDIANS 1",
-      "description": "The Rays will try to capture their third AL pennant and first since 2020 on Monday at Tropicana Field in St. Petersburg, Fla.",
-      "published": "2026-10-19T01:15:30.952Z",
-      "title": "Drew Rasmussen shines as Rays beat Guardians in Game 5 to take a 3-2 ALCS lead",
-      "url": "https://www.bostonglobe.com/2026/10/18/sports/alcs-rays-guardians-drew-rasmussen/"
-    },
-    {
-      "category": "Rays 7, Guardians 3",
-      "description": "Game 5 is Sunday in Cleveland.",
-      "published": "2026-10-18T03:50:15.005Z",
-      "title": "Rays take advantage of errors to beat Guardians in Game 4, even ALCS",
-      "url": "https://www.bostonglobe.com/2026/10/17/sports/mlb-playoffs-alcs-rays-guardians/"
     }
   ],
-  "generated_at": "2026-10-24T17:43:00.256141+00:00",
+  "generated_at": "2026-10-25T04:54:12.954238+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

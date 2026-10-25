@@ -2,20 +2,20 @@
   "articles": [
     {
       "category": "Nationals",
-      "description": "KINGSTON, Jamaica — The first flight transporting third-country nationals from the United States arrived in Jamaica on Tuesday, marking the commencement of a highly scrutinized bilateral agreement ...",
-      "published": "2026-10-13T16:40:00+00:00",
-      "title": "Jamaica begins receiving third-country deportees under controversial US agreement",
-      "url": "https://www.washingtonpost.com/world/2026/10/13/jamaica-third-country-deportations-us-trump/e362e858-c75e-11f1-aefb-abe4112d087e_story.html"
-    },
-    {
-      "category": "Nationals",
       "description": "LOS ANGELES — Federal authorities charged more than two dozen foreign nationals Monday in California as part of a statewide sweep targeting people who officials say have illegally registered or voted ...",
       "published": "2026-10-19T07:52:00+00:00",
       "title": "Justice Department charges more than 2 dozen in California sweep targeting alleged noncitizen voters",
       "url": "https://www.washingtonpost.com/politics/2026/10/19/california-election-justice-department/f27a035a-cbcb-11f1-ac04-9f58578a68b4_story.html"
+    },
+    {
+      "category": "Nationals",
+      "description": "The artificial intelligence lab Anthropic said Friday it had shut down access to its newest and most powerful models after the U.S. government banned use of the technology by foreign nationals, citing ...",
+      "published": "2026-06-12T20:13:00+00:00",
+      "title": "Anthropic shuts down newest AI model after U.S. bans foreign use",
+      "url": "https://www.washingtonpost.com/technology/2026/06/13/anthropic-shuts-down-newest-ai-model-after-us-bans-foreign-use/"
     }
   ],
-  "generated_at": "2026-10-25T00:18:01.652249+00:00",
+  "generated_at": "2026-10-25T04:54:33.166087+00:00",
   "source": "Washington Post",
   "source_url": "https://www.washingtonpost.com/sports/nationals/"
 }

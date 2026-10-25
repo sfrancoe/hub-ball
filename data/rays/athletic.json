@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Brewers spotted the Rays four runs in Game 2. Then they showed why they can never be counted out.",
+      "published": "2026-10-25T03:49:03+00:00",
+      "title": "Sal Frelick and the Brewers won't take the hint. Now they're 2 wins from history",
+      "url": "https://www.nytimes.com/athletic/7721589/2026/10/24/brewers-frelick-game-2-world-series-win-rays/"
+    },
+    {
+      "category": "Rays",
+      "description": "The World Series now shifts to Florida, with Game 3 scheduled for Monday night at Tropicana Field.",
+      "published": "2026-10-25T03:48:54+00:00",
+      "title": "Brewers, gritty and tenacious this October, take Game 2. Can the Rays recover?",
+      "url": "https://www.nytimes.com/athletic/7720762/2026/10/24/rays-brewers-world-series-game-2-results-score-takeaways/"
+    },
+    {
+      "category": "Rays",
       "description": "Has any team won a World Series with a starting rotation that was mostly just the nightly warm-up act for its bat-smothering relief crew?",
       "published": "2026-10-24T09:56:41+00:00",
       "title": "World Series Game 1 Weird & Wild: Brewers' winning formula — don't press start",
@@ -125,23 +139,9 @@
       "published": "2026-10-21T09:02:37+00:00",
       "title": "MLB’s other low-payroll teams are on notice. The Rays and Brewers didn’t spend big to get here",
       "url": "https://www.nytimes.com/athletic/7706637/2026/10/21/brewers-rays-world-series-small-market-spending-mlb-playoffs/"
-    },
-    {
-      "category": "Rays",
-      "description": "Somehow, two small-market teams are playing in the World Series and the Guardians aren’t one of them. A long, cold winter awaits.",
-      "published": "2026-10-20T10:30:08+00:00",
-      "title": "Hugs, tears and missed chances: Scenes from a crushed Guardians clubhouse",
-      "url": "https://www.nytimes.com/athletic/7706821/2026/10/20/guardians-missed-chances-alcs-loss-rays-game-6/"
-    },
-    {
-      "category": "Rays",
-      "description": "Here's how the Rays assembled a dynamic, balanced roster despite ranking 28th in the majors in payroll.",
-      "published": "2026-10-20T09:45:55+00:00",
-      "title": "Building the Rays: 10 moves that made Tampa Bay the best team in the AL",
-      "url": "https://www.nytimes.com/athletic/7705393/2026/10/20/tampa-bay-rays-mlb-world-series-roster/"
     }
   ],
-  "generated_at": "2026-10-24T11:32:01.754713+00:00",
+  "generated_at": "2026-10-25T04:54:26.499859+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }
