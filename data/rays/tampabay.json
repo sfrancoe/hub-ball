@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The future of the Rays’ stadium seemed bleak in October 2024. Now the quirky dome is a centerpiece of the Fall Classic.",
+      "published": "2026-10-25T10:00:00+00:00",
+      "title": "Tropicana Field’s remarkable rise from the ashes to the World Series",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/25/tropicana-fields-remarkable-rise-ashes-world-series/"
+    },
+    {
+      "category": "Rays",
       "description": "After going ahead 4-0 in the first, the offense is shut down and Drew Rasmussen has a bad night, putting Tampa Bay into an 0-2 World Series hole.",
       "published": "2026-10-25T04:03:53+00:00",
       "title": "Ace isn’t sharp, Rays waste chance in World Series Game 2 loss to Brewers",
@@ -127,7 +134,7 @@
       "url": "https://www.tampabay.com/sports/rays/2026/10/22/rays-make-surprise-turn-nick-martinez-world-series-opener/"
     }
   ],
-  "generated_at": "2026-10-25T09:30:22.492050+00:00",
+  "generated_at": "2026-10-25T14:06:43.256063+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

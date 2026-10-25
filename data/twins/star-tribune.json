@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Twins",
+      "description": "The former MLB commissioner reflects on Milwaukee baseball, his friendship with Bob Uecker and why the Twins’ contraction scare might deserve credit for Minnesota’s stadium boom.",
+      "published": "2026-10-24T20:45:00+00:00",
+      "title": "Reusse: Twins fans might owe Bud Selig thanks as Brewers return to World Series",
+      "url": "https://www.startribune.com/minnesota-twins-target-field-contraction-bud-selig-milwaukee-brewers-rays-world-series-2026-mlb/601902791"
+    },
+    {
+      "category": "Twins",
       "description": "Recovering from his second Tommy John surgery, López immersed himself in coaching, scouting and clubhouse life. Now he’s following a tight timeline in hopes of being ready for Opening Day in 2027.",
       "published": "2026-10-23T20:00:00+00:00",
       "title": "Pablo López eyes return to Twins rotation after season filled with ‘side quests’",
@@ -57,7 +64,7 @@
       "url": "https://www.startribune.com/carlos-correa-lake-minnetonka-house-sell-mn-twins-houston-astros-unitedhealth-tanager-8-million/601827755"
     }
   ],
-  "generated_at": "2026-10-25T04:54:29.747706+00:00",
+  "generated_at": "2026-10-25T14:06:47.559119+00:00",
   "source": "Star Tribune",
   "source_url": "https://www.startribune.com/sports/twins/"
 }

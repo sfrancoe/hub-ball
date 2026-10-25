@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Giants",
-      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic break down Willy Adames’ disappointing performance for San Francisco during the 2026 MLB season.",
-      "published": "2026-10-22T06:00:00+00:00",
-      "title": "Giants Talk: What to make of Willy Adames' injury-plagued 2026 MLB season",
-      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/willy-adames-injury-plagued-mlb-season/1973148/"
-    },
-    {
-      "category": "Giants",
       "description": "On \"Giants Talk,\" Alex Pavlovic and Cole Kuiper break down Rafael Devers' stellar second half while San Francisco stumbled throughout 2026 season.",
       "published": "2026-10-13T17:30:00+00:00",
       "title": "Giants Talk: Rafael Devers shines throughout San Francisco's poor 2026 season",
       "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/rafael-devers-season-recap-watch/1971120/"
+    },
+    {
+      "category": "Giants",
+      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic break down Willy Adames’ disappointing performance for San Francisco during the 2026 MLB season.",
+      "published": "2026-10-22T06:00:00+00:00",
+      "title": "Giants Talk: What to make of Willy Adames' injury-plagued 2026 MLB season",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/willy-adames-injury-plagued-mlb-season/1973148/"
     },
     {
       "category": "Giants",
@@ -64,7 +64,7 @@
       "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/giants-videos/giants-talk-why-willy-adames-watch/1973219/"
     }
   ],
-  "generated_at": "2026-10-25T09:30:37.263628+00:00",
+  "generated_at": "2026-10-25T14:06:56.945357+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"
 }
