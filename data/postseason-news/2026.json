@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-25T16:51:56.913667+00:00",
+  "generatedAt": "2026-10-25T19:44:31.532918+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 2,
+  "coveredTeamCount": 3,
   "articles": [
+    {
+      "title": "How loud, exactly, was Brewers crowd for World Series Game 2?",
+      "description": "American Family Field, as expected, was rocking for Game 2 of the World Series. Even after falling behind by four runs in the top of the first inning against the Tampa Bay Rays, the faithful in the ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/heres-how-loud-the-brewers-crowd-was-for-world-series-game-2/92429621007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "When do the Brewers play next? Game 3, World Series schedule",
+      "description": "Game 3 of the best-of-seven World Series starts at 7 p.m. Monday, Oct. 26, at Tropicana Field in St. Petersburg, Florida. Games 4 and 5 will also take place in Florida before returning to Milwaukee, ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/brewers-rays-world-series-game-3/92431235007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Brewers' Aaron Ashby thrives in World Series as a reliever, dreams of being a starter",
       "description": "Ashby might join the Brewers’ rotation next year, but he's doing just fine in his current role, with a string of scoreless relief outings.",
