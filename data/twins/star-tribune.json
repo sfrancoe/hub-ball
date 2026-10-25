@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Twins",
+      "description": "Recovering from his second Tommy John surgery, López immersed himself in coaching, scouting and clubhouse life. Now he’s following a tight timeline in hopes of being ready for Opening Day in 2027.",
+      "published": "2026-10-23T20:00:00+00:00",
+      "title": "Pablo López eyes return to Twins rotation after season filled with ‘side quests’",
+      "url": "https://www.startribune.com/minnesota-twins-2027-starting-rotation-pablo-lopez-injury-update-spring-training-return-mlb-contract/601899829"
+    },
+    {
+      "category": "Twins",
       "description": "The 23-year-old outfielder, out of minor league options, is a lock for the Twins’ 2027 Opening Day roster. That makes his 13-game stint in the majors all the more valuable.",
       "published": "2026-10-18T20:29:00+00:00",
       "title": "Twins see big things ahead for Emmanuel Rodriguez. His MLB debut showed why.",
@@ -48,16 +55,9 @@
       "published": "2026-04-30T06:35:00+00:00",
       "title": "Former Twins shortstop Carlos Correa sells house near Lake Minnetonka for $8M",
       "url": "https://www.startribune.com/carlos-correa-lake-minnetonka-house-sell-mn-twins-houston-astros-unitedhealth-tanager-8-million/601827755"
-    },
-    {
-      "category": "Twins",
-      "description": "A light-rail passenger boarded a Blue Line train full of fans leaving the Minnesota Twins’ Pride Day game one Saturday afternoon in June. Within a few stops of Target Field, the passenger messaged ...",
-      "published": "2025-10-06T06:57:00+00:00",
-      "title": "What a week’s worth of rider text messages reveals about Metro Transit’s problems",
-      "url": "https://www.startribune.com/metro-transit-light-rail-safety/601444850"
     }
   ],
-  "generated_at": "2026-10-24T19:49:54.439823+00:00",
+  "generated_at": "2026-10-25T00:17:56.995727+00:00",
   "source": "Star Tribune",
   "source_url": "https://www.startribune.com/sports/twins/"
 }

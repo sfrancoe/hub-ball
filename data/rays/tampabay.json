@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Photo gallery | Tampa Bay looks to even the series before heading back to St. Pete for three games.",
+      "published": "2026-10-24T23:26:18+00:00",
+      "title": "See images from World Series Game 2 between Rays and Brewers",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/24/world-series-game-2-brewers-photos-milwaukee/"
+    },
+    {
+      "category": "Rays",
       "description": "Tales | The veteran right-hander pitched for both the Rays and Brewers this season, so he will get a ring regardless of who wins.",
       "published": "2026-10-24T20:10:50+00:00",
       "title": "St. Pete’s Jake Woodford will be a World Series winner no matter what",
@@ -125,16 +132,9 @@
       "published": "2026-10-22T19:53:49+00:00",
       "title": "Rays. Brewers. World Series. So, who has the edge? We have thoughts",
       "url": "https://www.tampabay.com/sports/rays/2026/10/22/milwaukee-brewers-world-series-hitting-defense-rotation/"
-    },
-    {
-      "category": "Rays",
-      "description": "Tropicana Field hasn’t held a Fall Classic since 2008.",
-      "published": "2026-10-22T18:00:00+00:00",
-      "title": "How the World Series puts nationwide eyes on Tampa Bay",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/22/world-series-rays-brewers-attendance-businesses/"
     }
   ],
-  "generated_at": "2026-10-24T22:07:28.516672+00:00",
+  "generated_at": "2026-10-25T00:17:51.909910+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
