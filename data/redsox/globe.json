@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Peter Abraham | On Baseball",
+      "description": "David Hamilton, the Brewers' starting third baseman in the World Series, is enjoying himself again after not having a regular role with the Red Sox.",
+      "published": "2026-10-25T22:51:33.048Z",
+      "title": "‘I feel like myself again’: David Hamilton embracing his time as a Brewer after being traded back from the Red Sox",
+      "url": "https://www.bostonglobe.com/2026/10/25/sports/david-hamilton-milwaukee-brewers/"
+    },
+    {
       "category": "BASEBALL",
       "description": "The natives of Lexington and Westborough, respectively, have faced off many times during offseason workouts and twice earlier this season. Saturday was bigger.",
       "published": "2026-10-25T09:00:00Z",
@@ -104,16 +111,9 @@
       "published": "2026-10-20T03:13:27.407Z",
       "title": "Rays win Game 6 to clinch AL pennant, will meet Brewers in World Series",
       "url": "https://www.bostonglobe.com/2026/10/19/sports/rays-guardians-alcs-game-6-score/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Durbin struggled mightily to begin the campaign, but emerged as a key contributor down the stretch for the Red Sox.",
-      "published": "2026-10-19T16:02:35.22Z",
-      "title": "Caleb Durbin views his 2026 campaign as a promising building block, and other Red Sox thoughts",
-      "url": "https://www.bostonglobe.com/2026/10/19/sports/caleb-durbin-2026-season/"
     }
   ],
-  "generated_at": "2026-10-25T09:30:14.368627+00:00",
+  "generated_at": "2026-10-26T00:14:14.388004+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
