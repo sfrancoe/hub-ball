@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:20:08.984816+00:00",
+  "generated_at": "2026-10-26T05:22:04.727722+00:00",
   "source": "MLB Stats API",
   "team": "Brewers",
   "regular_season_end": "2026-09-27",
@@ -119,7 +119,7 @@
       "opponent_pitcher": "",
       "favorite_team_pitcher_record": "—",
       "opponent_pitcher_record": "—",
-      "show_probables": false,
+      "show_probables": true,
       "series_description": "World Series",
       "doubleheader": false,
       "game_number": 1,
