@@ -1,13 +1,109 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-26T17:40:08.540340+00:00",
+  "generatedAt": "2026-10-26T21:56:02.691925+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 7,
   "articles": [
+    {
+      "title": "Phillies to name Peter Fatse as hitting coach: Sources",
+      "description": "Fatse, Boston’s hitting coach from 2022 through April 2026, replaces Kevin Long after a season in which most Phillies hitters regressed.",
+      "url": "https://www.nytimes.com/athletic/7726721/2026/10/26/phillies-peter-fatse-hitting-coach/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "‘I feel like myself again’: David Hamilton embracing his time as a Brewer after being traded back from the Red Sox",
+      "description": "David Hamilton, the Brewers' starting third baseman in the World Series, is enjoying himself again after not having a regular role with the Red Sox.",
+      "url": "https://www.bostonglobe.com/2026/10/25/sports/david-hamilton-milwaukee-brewers/",
+      "published": "2026-10-26T21:12:44.204000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays Bingo, World Series edition! Download and play",
+      "description": "Track home run horns, national broadcaster flubs, celebrity appearances and more.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/26/rays-bingo-card-world-series-edition/",
+      "published": "2026-10-26T20:54:52.892000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Column: While the Chicago Cubs watch the World Series on TV, security upgrades are underway at Wrigley Field",
+      "description": "The Chicago Cubs are currently ripping up sidewalks outside Wrigley Field for security updates in conjunction with the planned 2027 All-Star Game.",
+      "url": "https://www.chicagotribune.com/2026/10/26/chicago-cubs-wrigley-field-security-upgrades/",
+      "published": "2026-10-26T20:53:59+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "These Brewers are the unrelenting savages the Yankees were not",
+      "description": "",
+      "url": "https://nypost.com/2026/10/26/sports/these-brewers-are-the-unrelenting-savages-the-yankees-were-not/",
+      "published": "2026-10-26T20:11:19+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Roster analysis: Red Sox face big decisions at shortstop this winter",
+      "description": "As the Red Sox begin their offseason, the questions in the middle infield might be the most important to answer. Is a big trade for a blue-chip shortstop in play?",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-shortstop-question-trevor-story-franklin-arias-and-potential-big-move-may-define-winter.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Sugar skulls and ‘Twilight’: How Rays fans are manifesting a World Series comeback",
+      "description": "We asked Tampa Bay Rays fans to share their good luck rituals, traditions and superstitions.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/26/sugar-skulls-twilight-how-rays-fans-are-manifesting-world-series-comeback/",
+      "published": "2026-10-26T19:00:05.970000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Alex Cora breaks silence on Red Sox firing 6 months later, plus what 'really upset him'",
+      "description": "For the first time since being fired in late April, Alex Cora opened up about the end of his Red Sox tenure on a recent podcast.",
+      "url": "https://www.masslive.com/redsox/2026/10/alex-cora-finally-discusses-red-sox-firing-regrets-future-five-takeaways.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Alex Cora opens up on Red Sox firing, managing future in podcast interview",
       "description": "In a lengthy interview on the Baseball Isn’t Boring podcast, former Red Sox manager Alex Cora opened up about the end of his time in Boston and what his future in the game might hold.",
@@ -21,8 +117,8 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "World Series warmup: Joe Maddon on 1st pitch, Carly Pearce sings anthem",
-      "description": "The first pitch for Game 3 is set for 8:08 p.m. Tropicana Field parking lots open at 3 p.m., stadium gates at 5.",
+      "title": "World Series warmup: Ryan Vilade starts at 1B, Jonathan Aranda on bench",
+      "description": "The lineup change comes as the Brewers start lefty Robert Glasser. The first pitch for Game 3 is set for 8:08 p.m.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/26/joe-maddon-carly-pearce-game-3-world-series/",
       "published": "2026-10-26T16:07:16.369000+00:00",
       "source": "Tampa Bay Times",
@@ -57,6 +153,54 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "What channel is Brewers vs Rays in World Series Game 3 on tonight?",
+      "description": "The Brewers broadcast will be on Channel 203. The Rays broadcast will be on 202. The national broadcast will be on Channels 80 and 89. Odds courtesy of BetMGM as of Oct. 26 ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/26/watch-brewers-vs-rays-world-series-game-3-tonight-time-tv-odds/92442667007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Game 3 and 4 Brewers watch-party tickets priced well above face value",
+      "description": "Tickets to the Brewers' official watch parties for Game 3 and 4 are still available on resale sites – but the cheapest cost is over double face value.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/26/tickets-brewers-game-3-4-watch-parties/92441629007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers vs. Rays live updates: MLB World Series Game 3 score, predictions and lineups",
+      "description": "Follow our live coverage as the 2026 World Series shifts to Tampa Bay after Milwaukee won the first two games.",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-rays-live-updates-mlb-world-series-game-3-score-result/6umVOHDKZPcG/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "What to know about ex-Brewers pitcher Freddy Peralta ahead of Game 3",
+      "description": "In his eight seasons with the Brewers, Peralta went 70-42 with a 3.59 ERA and recorded 1,153 strikeouts, second in franchise history behind Ben Sheets.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/26/brewers-rays-freddy-peralta-world-series-game-3/92446732007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "The Brewers and Rays don’t buy into air pull. It’s working.",
       "description": "The two teams in the World Series are bucking the industry norms of hitting techniques to great success. \"It’s the purity of the game,\" one coach said.",
       "url": "https://www.bostonglobe.com/2026/10/26/sports/brewers-rays-hitting-driveline/",
@@ -67,6 +211,18 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Brewers outfielder Garrett Mitchell manages his diabetes on baseball’s biggest stage",
+      "description": "Milwaukee Brewers outfielder Garrett Mitchell manages his Type 1 diabetes while competing in the World Series.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/26/brewers-outfielder-garrett-mitchell-manages-diabetes-during-world-series/92444182007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Rays trail in World Series, but maybe DJ Kitty can help them claw back",
@@ -93,6 +249,18 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Houston Astros outfielder Joey Loperfido has hip surgery, return date uncertain",
+      "description": "The condition Joey Loperfido had addressed will delay his availability for spring training — assuming it actually begins on time given the expiring collective bargaining agreement.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/joey-loperfido-hip-surgery-22495003.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Ten steps the Yankees should take to reach the World Series in 2027",
       "description": "The Yankees don’t need a complete makeover this offseason, but they do need reinforcements. Here's our 10-part plan to boost the roster.",
       "url": "https://www.nytimes.com/athletic/7719005/2026/10/26/yankees-offseason-moves-world-series-2027/",
@@ -115,18 +283,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Priced out of the World Series in Milwaukee, Brewers fans take their party to Florida",
-      "description": "One way or another, Brewers fans are finding ways to watch this World Series. Even if it takes a flight to Florida.",
-      "url": "https://www.nytimes.com/athletic/7724319/2026/10/26/brewers-fans-rays-tropicana-field-takeover-world-series-game-3/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
