@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "In a lengthy interview on the Baseball Isn’t Boring podcast, former Red Sox manager Alex Cora opened up about the end of his time in Boston and what his future in the game might hold.",
+      "published": "2026-10-26T17:19:13Z",
+      "title": "Alex Cora opens up on Red Sox firing, managing future in podcast interview",
+      "url": "https://www.bostonherald.com/2026/10/26/alex-cora-opens-up-on-red-sox-firing-managing-future-in-podcast-interview/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Two franchises going for their first World Series title? Two clubs both looking to end droughts of 25 years or longer? Neither has happened often, making this week’s Brewers-Rays matchup especially unique.",
       "published": "2026-10-25T09:30:31Z",
       "title": "MLB notes: Looking back at extremely rare World Series matchups in same ilk as Brewers-Rays",
@@ -104,16 +111,9 @@
       "published": "2026-10-11T09:30:33Z",
       "title": "Red Sox mailbag: Who is most at risk of being non-tendered this offseason?",
       "url": "https://www.bostonherald.com/2026/10/11/red-sox-mailbag-who-is-most-at-risk-of-being-non-tendered-this-offseason/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Internal player development is key to Craig Breslow’s offseason plans to improve the Red Sox from within, but the impending MLB lockout will make that difficult.",
-      "published": "2026-10-10T09:45:55Z",
-      "title": "Starr’s 7 Questions: How can Red Sox improve internally with MLB lockout looming?",
-      "url": "https://www.bostonherald.com/2026/10/10/red-sox-mlb-lockout-yankees-steinbrenner-boone-cashman-postseason-wild-card-alds-games-column-starr-7-questions/"
     }
   ],
-  "generated_at": "2026-10-25T14:06:34.020682+00:00",
+  "generated_at": "2026-10-26T21:35:31.332552+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

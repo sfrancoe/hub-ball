@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "As the Red Sox begin their offseason, the questions in the middle infield might be the most important to answer. Is a big trade for a blue-chip shortstop in play?",
+      "published": "2026-10-26T19:54:37+00:00",
+      "title": "Roster analysis: Red Sox face big decisions at shortstop this winter",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-shortstop-question-trevor-story-franklin-arias-and-potential-big-move-may-define-winter.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "For the first time since being fired in late April, Alex Cora opened up about the end of his Red Sox tenure on a recent podcast.",
+      "published": "2026-10-26T17:47:09+00:00",
+      "title": "Alex Cora breaks silence on Red Sox firing 6 months later, plus what 'really upset him'",
+      "url": "https://www.masslive.com/redsox/2026/10/alex-cora-finally-discusses-red-sox-firing-regrets-future-five-takeaways.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox made some coaching changes this week. Here's what they all mean — and what might be next.",
       "published": "2026-10-25T21:02:11+00:00",
       "title": "What Red Sox coaching changes mean — and what’s next for Chad Tracy’s staff",
@@ -92,7 +106,7 @@
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-bullpen-core-intact-so-dont-expect-big-time-adds-this-winter.html"
     }
   ],
-  "generated_at": "2026-10-26T17:00:25.154474+00:00",
+  "generated_at": "2026-10-26T21:35:32.721529+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

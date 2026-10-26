@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Fatse, Boston’s hitting coach from 2022 through April 2026, replaces Kevin Long after a season in which most Phillies hitters regressed.",
+      "published": "2026-10-26T21:14:46+00:00",
+      "title": "Phillies to name Peter Fatse as hitting coach: Sources",
+      "url": "https://www.nytimes.com/athletic/7726721/2026/10/26/phillies-peter-fatse-hitting-coach/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Should Boston sell high on Franklin Arias? Is the rotation too heavy with lefties? We answer those questions and more.",
       "published": "2026-10-26T10:58:41+00:00",
       "title": "Red Sox offseason mailbag: Rutschman’s price, Triston Casas’ future, trade options and MLB lockout",
@@ -104,16 +111,9 @@
       "published": "2026-10-01T10:30:57+00:00",
       "title": "It was a big-time postseason disaster for the small-ball Red Sox",
       "url": "https://www.nytimes.com/athletic/7648549/2026/10/01/red-sox-yankees-wild-card-game-2-loss/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox season ended in frustration — and with several veteran players questioning how the team is run.",
-      "published": "2026-10-01T10:25:33+00:00",
-      "title": "Inside Red Sox clubhouse, veterans voice frustration with leadership after Yankees sweep",
-      "url": "https://www.nytimes.com/athletic/7648595/2026/10/01/red-sox-tension-frustration-clubhouse/"
     }
   ],
-  "generated_at": "2026-10-26T17:00:24.485391+00:00",
+  "generated_at": "2026-10-26T21:35:31.935010+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

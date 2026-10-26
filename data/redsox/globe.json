@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Peter Abraham | On Baseball",
+      "description": "David Hamilton, the Brewers' starting third baseman in the World Series, is enjoying himself again after not having a regular role with the Red Sox.",
+      "published": "2026-10-26T21:12:39.388Z",
+      "title": "‘I feel like myself again’: David Hamilton embracing his time as a Brewer after being traded back from the Red Sox",
+      "url": "https://www.bostonglobe.com/2026/10/25/sports/david-hamilton-milwaukee-brewers/"
+    },
+    {
       "category": "Red Sox",
       "description": "The Athletics hired Red Sox assistant general manager Taylor Smith to be their new president of baseball operations.",
       "published": "2026-10-26T14:37:59.214Z",
@@ -13,13 +20,6 @@
       "published": "2026-10-26T07:00:00Z",
       "title": "The Brewers and Rays don’t buy into air pull. It’s working.",
       "url": "https://www.bostonglobe.com/2026/10/26/sports/brewers-rays-hitting-driveline/"
-    },
-    {
-      "category": "Peter Abraham | On Baseball",
-      "description": "David Hamilton, the Brewers' starting third baseman in the World Series, is enjoying himself again after not having a regular role with the Red Sox.",
-      "published": "2026-10-25T22:51:33.048Z",
-      "title": "‘I feel like myself again’: David Hamilton embracing his time as a Brewer after being traded back from the Red Sox",
-      "url": "https://www.bostonglobe.com/2026/10/25/sports/david-hamilton-milwaukee-brewers/"
     },
     {
       "category": "BASEBALL",
@@ -113,7 +113,7 @@
       "url": "https://www.bostonglobe.com/2026/10/21/sports/mlb-postseason-starting-pitchers-velocity/"
     }
   ],
-  "generated_at": "2026-10-26T17:00:23.263534+00:00",
+  "generated_at": "2026-10-26T21:35:30.897775+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

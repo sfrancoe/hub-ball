@@ -2,9 +2,23 @@
   "articles": [
     {
       "category": "Rays",
-      "description": "The first pitch for Game 3 is set for 8:08 p.m. Tropicana Field parking lots open at 3 p.m., stadium gates at 5.",
+      "description": "Track home run horns, national broadcaster flubs, celebrity appearances and more.",
+      "published": "2026-10-26T20:54:52+00:00",
+      "title": "Rays Bingo, World Series edition! Download and play",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/26/rays-bingo-card-world-series-edition/"
+    },
+    {
+      "category": "Rays",
+      "description": "We asked Tampa Bay Rays fans to share their good luck rituals, traditions and superstitions.",
+      "published": "2026-10-26T19:00:05+00:00",
+      "title": "Sugar skulls and ‘Twilight’: How Rays fans are manifesting a World Series comeback",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/26/sugar-skulls-twilight-how-rays-fans-are-manifesting-world-series-comeback/"
+    },
+    {
+      "category": "Rays",
+      "description": "The lineup change comes as the Brewers start lefty Robert Glasser. The first pitch for Game 3 is set for 8:08 p.m.",
       "published": "2026-10-26T16:07:16+00:00",
-      "title": "World Series warmup: Joe Maddon on 1st pitch, Carly Pearce sings anthem",
+      "title": "World Series warmup: Ryan Vilade starts at 1B, Jonathan Aranda on bench",
       "url": "https://www.tampabay.com/sports/rays/2026/10/26/joe-maddon-carly-pearce-game-3-world-series/"
     },
     {
@@ -104,16 +118,9 @@
       "published": "2026-10-24T14:14:40+00:00",
       "title": "Are the Rays staying in a haunted Milwaukee hotel?",
       "url": "https://www.tampabay.com/sports/rays/2026/10/24/pfister-hotel-milwaukee-haunted-world-series/"
-    },
-    {
-      "category": "Rays",
-      "description": "A two-run first inning puts Tampa Bay in a hole, a questionable baserunning decision by Victor Mesa Jr. is costly and a late rally comes up short.",
-      "published": "2026-10-24T03:40:44+00:00",
-      "title": "Rays falter in several ways in World Series-opening loss to Brewers",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/23/world-series-game-1-brewers-jacob-misiorowski-victor-mesa-nick-martinez-christian-yelich-taylor-walls/"
     }
   ],
-  "generated_at": "2026-10-26T17:00:30.735278+00:00",
+  "generated_at": "2026-10-26T21:35:37.793391+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

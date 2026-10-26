@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "The Chicago Cubs are currently ripping up sidewalks outside Wrigley Field for security updates in conjunction with the planned 2027 All-Star Game.",
+      "published": "2026-10-26T13:52:00+00:00",
+      "title": "Column: While the Chicago Cubs watch the World Series on TV, security upgrades are underway at Wrigley Field",
+      "url": "https://www.chicagotribune.com/2026/10/26/chicago-cubs-wrigley-field-security-upgrades/"
+    },
+    {
+      "category": "Cubs",
       "description": "2019: The Chicago Cubs hired veteran catcher and 2016 World Series team member David Ross as their manager.",
       "published": "2026-10-23T01:59:00+00:00",
       "title": "Today in Chicago History: Cubs hire ‘Grandpa Rossy’ David Ross as their manager",
@@ -29,7 +36,7 @@
       "url": "https://www.chicagotribune.com/2026/10/14/chicago-cubs-white-sox-gold-glove-finalists/"
     }
   ],
-  "generated_at": "2026-10-25T09:30:32.216375+00:00",
+  "generated_at": "2026-10-26T21:35:48.074576+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

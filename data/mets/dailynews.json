@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Philanthropy has always been a core tenet of who Lindor is, something instilled in him...",
+      "published": "2026-10-26T17:49:44+00:00",
+      "title": "Mets Francisco Lindor wins Roberto Clemente Award",
+      "url": "https://www.nydailynews.com/2026/10/26/mets-francisco-lindor-wins-roberto-clemente-award/"
+    },
+    {
+      "category": "Mets",
       "description": "Enjoy this edition of the World Series while it lasts. It could be the last...",
       "published": "2026-10-23T23:16:58+00:00",
       "title": "Mets should closely watch CBA negotiations with potential salary cap on horizon",
@@ -132,16 +139,9 @@
       "published": "2026-09-23T00:29:11+00:00",
       "title": "Mets remove interim tag off Andy Green, sign manager for 3 years",
       "url": "https://www.nydailynews.com/2026/09/22/mets-remove-interim-tag-off-andy-green-sign-manager-for-3-years/"
-    },
-    {
-      "category": "Mets",
-      "description": "The next time the Mets play at Citi Field, they will likely have a new...",
-      "published": "2026-09-21T11:00:36+00:00",
-      "title": "Carlos Beltrán non-committal about interest, but others could see him succeeding as Mets manager",
-      "url": "https://www.nydailynews.com/2026/09/21/carlos-beltran-non-committal-mets-manager/"
     }
   ],
-  "generated_at": "2026-10-23T23:27:37.830470+00:00",
+  "generated_at": "2026-10-26T21:35:36.024195+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }
