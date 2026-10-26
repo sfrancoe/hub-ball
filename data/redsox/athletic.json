@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Should Boston sell high on Franklin Arias? Is the rotation too heavy with lefties? We answer those questions and more.",
+      "published": "2026-10-26T10:58:41+00:00",
+      "title": "Red Sox offseason mailbag: Rutschman’s price, Triston Casas’ future, trade options and MLB lockout",
+      "url": "https://www.nytimes.com/athletic/7717674/2026/10/26/red-sox-offseason-rutschman-lockout/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Brewers and Rays have plenty in common. Even their road hotels — the Pfister in Milwaukee and the Vinoy in St. Petersburg — are haunted.",
       "published": "2026-10-23T09:30:23+00:00",
       "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
@@ -104,16 +111,9 @@
       "published": "2026-10-01T10:25:33+00:00",
       "title": "Inside Red Sox clubhouse, veterans voice frustration with leadership after Yankees sweep",
       "url": "https://www.nytimes.com/athletic/7648595/2026/10/01/red-sox-tension-frustration-clubhouse/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Here are the W&W highlights from nearly 11 hours of classic — and not-so-classic — postseason baseball, beginning with an epic comeback.",
-      "published": "2026-10-01T09:49:39+00:00",
-      "title": "Wild Day 2 of MLB playoffs featured Phillies home run history and mad math",
-      "url": "https://www.nytimes.com/athletic/7648769/2026/10/01/mlb-wild-card-playoffs-day-2-weird-facts-trivia/"
     }
   ],
-  "generated_at": "2026-10-23T12:43:13.065504+00:00",
+  "generated_at": "2026-10-26T17:00:24.485391+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

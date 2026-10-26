@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Lindor grew up appreciating Roberto Clemente, a baseball legend from his home island of Puerto Rico.",
+      "published": "2026-10-26T13:25:43+00:00",
+      "title": "Mets' Francisco Lindor wins Roberto Clemente Award as MLB's top humanitarian",
+      "url": "https://www.nytimes.com/athletic/7724004/2026/10/26/mets-francisco-lindor-roberto-clemente-award-2026/"
+    },
+    {
+      "category": "Mets",
       "description": "Mendoza will help oversee a Philadelphia defense that graded out seventh-worst in baseball in 2026.",
       "published": "2026-10-15T15:03:06+00:00",
       "title": "Phillies add former Mets manager Carlos Mendoza as third-base, infield coach",
@@ -132,16 +139,9 @@
       "published": "2026-09-23T02:08:20+00:00",
       "title": "Q&A: Our Mets writer answers your questions about Andy Green's hiring",
       "url": "https://www.nytimes.com/athletic/7621696/2026/09/22/mets-andy-green-hiring-questions/"
-    },
-    {
-      "category": "Mets",
-      "description": "Mets beat writer Will Sammon will discuss Andy Green getting the full-time Mets manager job starting at 5:05 p.m. ET",
-      "published": "2026-09-22T21:01:40+00:00",
-      "title": "Discuss the Andy Green hiring with Mets beat writer Will Sammon",
-      "url": "https://www.nytimes.com/athletic/7621212/2026/09/22/discuss-the-andy-green-hiring-with-mets-beat-writer-will-sammon/"
     }
   ],
-  "generated_at": "2026-10-15T18:27:02.228131+00:00",
+  "generated_at": "2026-10-26T17:00:30.183099+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

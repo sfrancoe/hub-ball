@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The first pitch for Game 3 is set for 8:08 p.m. Tropicana Field parking lots open at 3 p.m., stadium gates at 5.",
+      "published": "2026-10-26T16:07:16+00:00",
+      "title": "World Series warmup: Joe Maddon on 1st pitch, Carly Pearce sings anthem",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/26/joe-maddon-carly-pearce-game-3-world-series/"
+    },
+    {
+      "category": "Rays",
+      "description": "Here’s your Tropicana Field guide to Rays tickets, parking and bag rules.",
+      "published": "2026-10-26T15:45:09+00:00",
+      "title": "World Series Trop resale ticket prices drop, Milwaukee’s rise",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/21/world-series-tickets-cost-tropicana-field-rays-brewers/"
+    },
+    {
+      "category": "Rays",
       "description": "A local couple will have the furry sea dog show up to their nuptials.",
       "published": "2026-10-26T10:00:00+00:00",
       "title": "They want a Rays mascot at their wedding: How to book Raymond",
@@ -97,30 +111,9 @@
       "published": "2026-10-24T03:40:44+00:00",
       "title": "Rays falter in several ways in World Series-opening loss to Brewers",
       "url": "https://www.tampabay.com/sports/rays/2026/10/23/world-series-game-1-brewers-jacob-misiorowski-victor-mesa-nick-martinez-christian-yelich-taylor-walls/"
-    },
-    {
-      "category": "Rays",
-      "description": "Pitch Count | Looking at all the key pitches in Tampa Bay’s Game 1 loss to the Brewers in the World Series.",
-      "published": "2026-10-24T03:27:51+00:00",
-      "title": "The Miz was good for Milwaukee, but the Rays made it easier for him",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/23/jacob-misiorowski-christian-yelich-kevin-kelly-world-series/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | In the lineup for his ability to make contact, he also contributes a key defensive play after dealing with hotel ghosts.",
-      "published": "2026-10-24T02:18:54+00:00",
-      "title": "Ben Williamson gets unexpected start, making surreal trip even better",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/23/ben-williamson-richie-palacios-world-series-brewers-garrett-cleavinger-brody-hopkins/"
-    },
-    {
-      "category": "Rays",
-      "description": "Having started his pro career and debuting in the majors with Milwaukee, the right-hander thanks it for everything, including his trade to Tampa Bay.",
-      "published": "2026-10-24T01:18:53+00:00",
-      "title": "Rays’ Drew Rasmussen praises Brewers, now hopes to bury them",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/23/drew-rasmussen-world-series-milwaukee-brewers-willy-adames-pat-murphy-brandon-woodruff/"
     }
   ],
-  "generated_at": "2026-10-26T10:39:22.451044+00:00",
+  "generated_at": "2026-10-26T17:00:30.735278+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

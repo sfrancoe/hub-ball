@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "Houston's 23-year-old right fielder hit 21 homers and earned a Gold Glove finalist nod, but his .210 average points to room for growth.",
-      "published": "2026-10-22T04:00:00+00:00",
-      "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-cam-smith-right-field-22486972.php"
-    },
-    {
-      "category": "Astros",
       "description": "Houston went through a rotating cast of center fielders in 2026, with nobody seizing the position. Will the Astros be able to find options internally or in free agency to provide stability?",
       "published": "2026-10-21T03:59:00+00:00",
       "title": "Can stability be found in center field after 2026 revolving door? | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Houston's 23-year-old right fielder hit 21 homers and earned a Gold Glove finalist nod, but his .210 average points to room for growth.",
+      "published": "2026-10-22T04:00:00+00:00",
+      "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-cam-smith-right-field-22486972.php"
     },
     {
       "category": "Astros",
@@ -30,13 +30,6 @@
     },
     {
       "category": "Astros",
-      "description": "It marked a step back for Diaz in his third season as the primary catcher. Framing pitches at the bottom of the strike zone remained a weakness (minus-5 runs saved, per Statcast). Vázquez’s framing ...",
-      "published": "2026-10-19T04:00:00+00:00",
-      "title": "Who will back up Yainer Diaz at catcher? | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-diaz-vazquez-22482722.php"
-    },
-    {
-      "category": "Astros",
       "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
       "published": "2026-10-23T14:55:00+00:00",
       "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
@@ -51,17 +44,17 @@
     },
     {
       "category": "Astros",
+      "description": "It marked a step back for Diaz in his third season as the primary catcher. Framing pitches at the bottom of the strike zone remained a weakness (minus-5 runs saved, per Statcast). Vázquez’s framing ...",
+      "published": "2026-10-19T04:00:00+00:00",
+      "title": "Who will back up Yainer Diaz at catcher? | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-diaz-vazquez-22482722.php"
+    },
+    {
+      "category": "Astros",
       "description": "Who will be the Houston Astros next manager? With Joe Espada fired, owner Jim Crane is on the hunt for a new skipper. These guys all would make sense.",
       "published": "2026-10-14T08:29:00+00:00",
       "title": "10 names that would make sense in Houston Astros’ manager search",
       "url": "https://www.houstonchronicle.com/sports/astros/article/next-manager-candidates-names-22463657.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Joe Espada posts a farewell to his players, staff and fans in Houston after not being retained as Astros manager.",
-      "published": "2026-10-15T18:38:00+00:00",
-      "title": "Former Astros manager Joe Espada says thank you and goodbye to Houston",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-farewell-houston-22479511.php"
     },
     {
       "category": "Astros",
@@ -72,13 +65,27 @@
     },
     {
       "category": "Astros",
+      "description": "Joe Espada posts a farewell to his players, staff and fans in Houston after not being retained as Astros manager.",
+      "published": "2026-10-15T18:38:00+00:00",
+      "title": "Former Astros manager Joe Espada says thank you and goodbye to Houston",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-farewell-houston-22479511.php"
+    },
+    {
+      "category": "Astros",
       "description": "Jeremy Peña has proved to be a catalyst atop the Astros' lineup for two straight seasons, but had an injury-marred 2026 and is heading into the last year of team control.",
       "published": "2026-10-14T04:00:00+00:00",
       "title": "Will shortstop Jeremy Peña get extension and buck trend? | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-astros-roster-analysis-jeremy-pe-a-22475893.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Joe Esapada’s time as Astros manager is over after three seasons. Here’s a look back at key events during his tenure in Houston.",
+      "published": "2026-10-14T08:20:00+00:00",
+      "title": "Timeline: A look at key events during Joe Espada's tenure as Houston Astros manager",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-timeline-houston-manager-22457312.php"
     }
   ],
-  "generated_at": "2026-10-26T10:39:27.104796+00:00",
+  "generated_at": "2026-10-26T17:00:36.680764+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "In the spirit of the Rally Monkey, the feline phenom became a fan favorite who inspired Rays fans.",
+      "published": "2026-10-26T11:00:38+00:00",
+      "title": "Rays trail in World Series, but maybe DJ Kitty can help them claw back",
+      "url": "https://www.nytimes.com/athletic/7725808/2026/10/26/rays-world-series-dj-kitty/"
+    },
+    {
+      "category": "Rays",
       "description": "One way or another, Brewers fans are finding ways to watch this World Series. Even if it takes a flight to Florida.",
       "published": "2026-10-26T09:15:56+00:00",
       "title": "Priced out of the World Series in Milwaukee, Brewers fans take their party to Florida",
@@ -132,16 +139,9 @@
       "published": "2026-10-22T09:15:39+00:00",
       "title": "What the David Price-Willy Adames-Drew Rasmussen trade tree says about Rays, Brewers",
       "url": "https://www.nytimes.com/athletic/7712311/2026/10/22/adames-price-rays-brewers-trade-tree-world-series/"
-    },
-    {
-      "category": "Rays",
-      "description": "Drew Rasmussen, Game 1 starter? In the World Series, that might not be the best choice for the Rays.",
-      "published": "2026-10-22T09:01:08+00:00",
-      "title": "The Rays love a plot twist. Should we expect one with their Game 1 starter?",
-      "url": "https://www.nytimes.com/athletic/7712629/2026/10/22/tampa-bay-rays-world-series-pitching/"
     }
   ],
-  "generated_at": "2026-10-26T10:39:23.130716+00:00",
+  "generated_at": "2026-10-26T17:00:30.992275+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

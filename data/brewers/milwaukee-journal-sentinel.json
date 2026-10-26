@@ -2,10 +2,24 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Jeffrey Wischer was killed building the stadium that is now American Family Field. The Brewers invited his son and family to the World Series.",
+      "published": "2026-10-26T07:51:00+00:00",
+      "title": "His dad died building the stadium. The Brewers gave him World Series tickets",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/26/son-of-ironworker-killed-building-brewers-stadium-attends-world-series/92435289007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Travel day media sessions took on a \"Pick on Aaron Day\" feel, but friendly pilots and a legendary manager were the butt of jokes too.",
       "published": "2026-10-25T21:11:00+00:00",
       "title": "5 lighthearted moments as Milwaukee Brewers prepare for World Series Game 3",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/milwaukee-brewers-light-moments-from-world-series-travel-day-before-game-3-against-rays/92402703007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Intense focus, strong emotions and big surprises help the brain identify moments to be remembered in this electric post-season.",
+      "published": "2026-10-26T04:05:00+00:00",
+      "title": "Here's the science behind why the Brewers' run makes us feel so good",
+      "url": "https://www.jsonline.com/story/news/health/2026/10/26/how-this-electric-milwaukee-brewers-season-is-impacting-our-brains/92347054007/"
     },
     {
       "category": "Brewers",
@@ -23,24 +37,10 @@
     },
     {
       "category": "Brewers",
-      "description": "American Family Field, as expected, was rocking for Game 2 of the World Series. Even after falling behind by four runs in the top of the first inning against the Tampa Bay Rays, the faithful in the ...",
-      "published": "2026-10-25T11:52:00+00:00",
-      "title": "How loud, exactly, was Brewers crowd for World Series Game 2?",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/heres-how-loud-the-brewers-crowd-was-for-world-series-game-2/92429621007/"
-    },
-    {
-      "category": "Brewers",
       "description": "They have now knocked off three Cy Young winners this postseason with Tarik Skubal, Blake Snell and Robbie Ray, World Series MVP Yoshinobu Yamamoto, and now Rasmussen, who had been unbeatable since ...",
       "published": "2026-10-25T01:18:00+00:00",
       "title": "These Milwaukee Brewers are two games from immortality in World Series",
       "url": "https://www.jsonline.com/story/sports/mlb/columnist/bob-nightengale/2026/10/25/brewers-world-series-score-vs-rays/92428032007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Tampa Bay Rays scored 4 first-inning runs in the World Series Game 2. The Milwaukee Brewers said, ‘hold my beer.’ ...",
-      "published": "2026-10-24T06:43:00+00:00",
-      "title": "When World Series is over, this Brewers team must be dissected | Lori Nickel",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/milwaukee-brewers-defy-logic-in-wild-game-2-world-series-comeback-win/92402746007/"
     },
     {
       "category": "Brewers",
@@ -58,10 +58,10 @@
     },
     {
       "category": "Brewers",
-      "description": "Another round of 50-50 raffles at the World Series in Milwaukee, another record. Game 2 of the World Series between the Milwaukee Brewers and the Tampa Bay Rays brought a $131,774 prize pool to ...",
-      "published": "2026-10-24T12:03:00+00:00",
-      "title": "Brewers' 50-50 raffle prize record broken for a second night in a row",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/another-50-50-raffle-record-brewers-world-series-game-2/92426167007/"
+      "description": "The Tampa Bay Rays scored 4 first-inning runs in the World Series Game 2. The Milwaukee Brewers said, ‘hold my beer.’ ...",
+      "published": "2026-10-24T06:43:00+00:00",
+      "title": "When World Series is over, this Brewers team must be dissected | Lori Nickel",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/milwaukee-brewers-defy-logic-in-wild-game-2-world-series-comeback-win/92402746007/"
     },
     {
       "category": "Brewers",
@@ -72,20 +72,13 @@
     },
     {
       "category": "Brewers",
-      "description": "Milwaukee Brewers fans could have a considerable presence at Tropicana Field when the World Series heads there, based on StubHub ticket sales. Games 3, 4 and 5 will take place at Tampa Bay's Tropicana ...",
-      "published": "2026-10-24T18:24:00+00:00",
-      "title": "Brewers fans could have big presence at World Series games in Florida",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-fans-in-tampa-bay-outnumber-rays-fans-in-milwaukee-101/92385058007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Milwaukee Brewers fans went all out for Game 2 of the World Series at American Family Field on Saturday, Oct. 24, in outfits teeming with Milwaukee spirit. Among them was Kathy Lahay of Seymour, who ...",
-      "published": "2026-10-24T20:52:00+00:00",
-      "title": "Brewers fans' World Series outfits carry spirit and sentiment",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/brewers-fans-world-series-outfits-display-more-than-just-team-spirit/92422336007/"
+      "description": "Another round of 50-50 raffles at the World Series in Milwaukee, another record. Game 2 of the World Series between the Milwaukee Brewers and the Tampa Bay Rays brought a $131,774 prize pool to ...",
+      "published": "2026-10-24T12:03:00+00:00",
+      "title": "Brewers' 50-50 raffle prize record broken for a second night in a row",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/another-50-50-raffle-record-brewers-world-series-game-2/92426167007/"
     }
   ],
-  "generated_at": "2026-10-26T10:39:31.958872+00:00",
+  "generated_at": "2026-10-26T17:00:42.747380+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

@@ -2,10 +2,24 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "That period’s going to be active,” Jed Hoyer said. “If deals make sense, regardless of the structure, I think they’re going to get done.\" ...",
+      "published": "2026-10-26T04:00:00+00:00",
+      "title": "Cubs can’t afford to sit out a potential pre-lockout frenzy for free agents",
+      "url": "https://www.nytimes.com/athletic/7720949/2026/10/26/cubs-free-agents-arbitration-lockout/"
+    },
+    {
+      "category": "Cubs",
       "description": "Although this upcoming class of free agents is viewed as subpar, four names stand out while assessing the Cubs’ biggest weakness.",
       "published": "2026-10-20T02:40:00+00:00",
       "title": "Four free agents the Cubs should target to fix their pitching",
       "url": "https://www.nytimes.com/athletic/7705123/2026/10/20/cubs-pitching-free-agents-skubal-peralta-2026/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The Cubs will need some internal improvements next season. These four players, in particular, could be difference-makers.",
+      "published": "2026-10-21T03:31:00+00:00",
+      "title": "Here are 4 Cubs who need to bounce back next season",
+      "url": "https://www.nytimes.com/athletic/7709186/2026/10/21/cubs-bounce-back-season-2027/"
     },
     {
       "category": "Cubs",
@@ -43,7 +57,7 @@
       "url": "https://www.nytimes.com/athletic/7357918/2026/06/14/seiya-suzuki-key-to-unlocking-cubs/"
     }
   ],
-  "generated_at": "2026-10-26T10:39:31.324413+00:00",
+  "generated_at": "2026-10-26T17:00:41.850403+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }
