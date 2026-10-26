@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees don’t need a complete makeover this offseason, but they do need reinforcements. Here's our 10-part plan to boost the roster.",
+      "published": "2026-10-26T10:15:25+00:00",
+      "title": "Ten steps the Yankees should take to reach the World Series in 2027",
+      "url": "https://www.nytimes.com/athletic/7719005/2026/10/26/yankees-offseason-moves-world-series-2027/"
+    },
+    {
+      "category": "Yankees",
       "description": "Under Blake, the Yankees' pitching staff led the majors in ERA this season.",
       "published": "2026-10-24T14:42:08+00:00",
       "title": "Yankees, pitching coach Matt Blake finalizing 3-year contract extension: Source",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T09:45:45+00:00",
       "title": "The Yankees should move on from Aaron Boone. Just don't expect them to do it",
       "url": "https://www.nytimes.com/athletic/7670859/2026/10/08/aaron-boone-yankees-rays-game-3-alds/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Asked if he felt the front office has done enough to put the Yankees in the best possible position to win, Judge hesitated.",
-      "published": "2026-10-08T09:30:29+00:00",
-      "title": "Aaron Judge calls on front office to go all-in this offseason: 'We're the Yankees'",
-      "url": "https://www.nytimes.com/athletic/7670719/2026/10/08/aaron-judge-yankees-offseason/"
     }
   ],
-  "generated_at": "2026-10-24T14:50:28.249148+00:00",
+  "generated_at": "2026-10-26T10:39:19.789223+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

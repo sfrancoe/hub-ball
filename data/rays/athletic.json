@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "One way or another, Brewers fans are finding ways to watch this World Series. Even if it takes a flight to Florida.",
+      "published": "2026-10-26T09:15:56+00:00",
+      "title": "Priced out of the World Series in Milwaukee, Brewers fans take their party to Florida",
+      "url": "https://www.nytimes.com/athletic/7724319/2026/10/26/brewers-fans-rays-tropicana-field-takeover-world-series-game-3/"
+    },
+    {
+      "category": "Rays",
       "description": "Ashby might join the Brewers’ rotation next year, but he's doing just fine in his current role, with a string of scoreless relief outings.",
       "published": "2026-10-25T10:01:50+00:00",
       "title": "Brewers' Aaron Ashby thrives in World Series as a reliever, dreams of being a starter",
@@ -132,16 +139,9 @@
       "published": "2026-10-22T09:01:08+00:00",
       "title": "The Rays love a plot twist. Should we expect one with their Game 1 starter?",
       "url": "https://www.nytimes.com/athletic/7712629/2026/10/22/tampa-bay-rays-world-series-pitching/"
-    },
-    {
-      "category": "Rays",
-      "description": "How interested are you in an all-small-market World Series? And who will you be rooting for in this David vs. David faceoff?",
-      "published": "2026-10-21T20:58:59+00:00",
-      "title": "Does a Brewers-Rays Fall Classic excite you? A World Series reader poll",
-      "url": "https://www.nytimes.com/athletic/7711504/2026/10/21/brewers-rays-world-series-fan-survey/"
     }
   ],
-  "generated_at": "2026-10-25T14:06:43.671551+00:00",
+  "generated_at": "2026-10-26T10:39:23.130716+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }
