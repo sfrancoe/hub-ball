@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:29:15.683805+00:00",
+  "generated_at": "2026-10-26T18:57:17.456786+00:00",
   "season": 2026,
   "team": "Chicago Cubs",
   "games_played": 162,
@@ -747,7 +747,7 @@
         "era": 4.22,
         "fip": 4.28,
         "k_minus_bb_pct": 12.3,
-        "team_at_fetch": "TBR"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 24.0,

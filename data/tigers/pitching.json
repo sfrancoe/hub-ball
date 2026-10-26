@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:27:15.651730+00:00",
+  "generated_at": "2026-10-26T18:55:17.417814+00:00",
   "season": 2026,
   "team": "Detroit Tigers",
   "games_played": 162,
@@ -587,7 +587,7 @@
         "era": 4.48,
         "fip": 4.59,
         "k_minus_bb_pct": 11.8,
-        "team_at_fetch": "KCR"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 52.0,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:27:05.598203+00:00",
+  "generated_at": "2026-10-26T18:55:07.392650+00:00",
   "season": 2026,
   "team": "Cleveland Guardians",
   "games_played": 162,
@@ -637,7 +637,7 @@
         "era": 4.15,
         "fip": 4.19,
         "k_minus_bb_pct": 13.8,
-        "team_at_fetch": "CLE"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 1.0,
@@ -797,7 +797,7 @@
         "era": 4.27,
         "fip": 4.35,
         "k_minus_bb_pct": 13.7,
-        "team_at_fetch": "CLE"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 52.0,

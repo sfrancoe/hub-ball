@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:52:17.488478+00:00",
+  "generated_at": "2026-10-26T18:54:37.392763+00:00",
   "season": 2026,
   "team": "Baltimore Orioles",
   "games_played": 161,
@@ -900,7 +900,7 @@
         "era": 4.07,
         "fip": 4.34,
         "k_minus_bb_pct": 9.5,
-        "team_at_fetch": null
+        "team_at_fetch": "BAL"
       },
       "forecast_to_date": {
         "ip": 31.8,

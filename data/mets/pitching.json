@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:26:15.731834+00:00",
+  "generated_at": "2026-10-26T18:54:17.471491+00:00",
   "season": 2026,
   "team": "New York Mets",
   "games_played": 162,
@@ -843,7 +843,7 @@
         "era": 4.24,
         "fip": 4.4,
         "k_minus_bb_pct": 13.1,
-        "team_at_fetch": "NYM"
+        "team_at_fetch": null
       },
       "forecast_to_date": {
         "ip": 10.0,
