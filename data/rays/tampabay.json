@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Some players are amused to learn of the stingray touch tank in the outfield, while another maligns the color of the roof.",
+      "published": "2026-10-26T04:01:20+00:00",
+      "title": "With a chance to clinch in St. Pete, Brewers work out at Tropicana Field",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/26/world-series-milwaukee-brewers-tropicana-field-aaron-ashby-brice-turang-trevor-megill/"
+    },
+    {
+      "category": "Rays",
+      "description": "Notes | The young star says he was just trying “to create some energy” after the team made another in a series of defensive mistakes on Saturday.",
+      "published": "2026-10-26T02:10:26+00:00",
+      "title": "Caminero’s dugout outburst shows how much he cares, Rays’ Cash says",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/25/junior-caminero-outburst-world-series-brewers-kevin-cash-richie-palacios-tropicana-field/"
+    },
+    {
+      "category": "Rays",
+      "description": "The right-hander turned his season around after being acquired in an August trade. Down 2-0, Tampa Bay needs him to deliver another strong start.",
+      "published": "2026-10-26T00:41:41+00:00",
+      "title": "With Rays down in World Series, it’s time for Freddy Peralta to save them",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/25/freddy-peralta-world-series-brewers-jake-bauers-brandon-woodruff-aaron-ashby-mets/"
+    },
+    {
+      "category": "Rays",
       "description": "The future of the Rays’ stadium seemed bleak in October 2024. Now the quirky dome is a centerpiece of the Fall Classic.",
       "published": "2026-10-25T10:00:00+00:00",
       "title": "Tropicana Field’s remarkable rise from the ashes to the World Series",
@@ -104,30 +125,9 @@
       "published": "2026-10-23T20:00:00+00:00",
       "title": "World Series 2026: Tampa Bay’s events and deals",
       "url": "https://www.tampabay.com/sports/rays/2026/10/23/world-series-events-promotions-deals/"
-    },
-    {
-      "category": "Rays",
-      "description": "In the conversation of notable Rays fans, this retired Secret Service agent should be in the mix.",
-      "published": "2026-10-23T18:13:46+00:00",
-      "title": "Tom Cruise loves the Tampa Bay Rays — the ‘real Tom Cruise,’ that is",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/23/tampa-bay-rays-world-series-tom-cruise/"
-    },
-    {
-      "category": "Rays",
-      "description": "Plus, reliever Garrett Cleavinger is added to the Rays 26-man roster. And, the American Family Field roof will be closed.",
-      "published": "2026-10-23T16:04:24+00:00",
-      "title": "World Series Game 1 warmup: Simpson hitting 3rd, Williamson at 2B",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/23/world-series-roster-garrett-cleavinger-brody-hopkins-milwaukee-brewers/"
-    },
-    {
-      "category": "Rays",
-      "description": "A Knicks fan slogan went viral over the summer: Submit your suggestions for the Rays to have their own.",
-      "published": "2026-10-23T15:51:32+00:00",
-      "title": "‘Rays in six!’ Enter our World Series slogan contest",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/23/rays-in-four-slogan-contest-world-series-knicks/"
     }
   ],
-  "generated_at": "2026-10-26T00:14:21.426619+00:00",
+  "generated_at": "2026-10-26T04:51:01.632245+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

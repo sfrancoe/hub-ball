@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "Former Minnesota Twins manager Rocco Baldelli has withdrawn his name from consideration for the Mariners’ open manager role.",
+      "published": "2026-10-25T13:46:00+00:00",
+      "title": "Rocco Baldelli withdraws name from Mariners’ manager opening",
+      "url": "https://www.seattletimes.com/sports/mariners/rocco-baldelli-withdraws-name-from-mariners-manager-opening/"
+    },
+    {
+      "category": "Mariners",
       "description": "Compared to the Mariners, Milwaukee and Tampa Bay — which meet in the World Series starting Friday — have done so much more with less.",
       "published": "2026-10-22T23:00:00+00:00",
       "title": "Brewers-Rays World Series doesn’t justify Mariners’ payroll strategy",
@@ -34,16 +41,9 @@
       "published": "2026-10-14T23:00:00+00:00",
       "title": "Mariners know they need a right-handed bat. But it’s easier said than done.",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-know-they-need-a-right-handed-bat-but-its-easier-said-than-done/"
-    },
-    {
-      "category": "Mariners",
-      "description": "As the Mariners begin calls with managerial candidates this week, the first name publicly linked to the team has surfaced, and it's a familiar one.",
-      "published": "2026-10-13T02:53:00+00:00",
-      "title": "Mariners to meet with Astros’ Joe Espada about managerial opening",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-to-meet-with-astros-joe-espada-about-managerial-opening/"
     }
   ],
-  "generated_at": "2026-10-25T19:49:23.241959+00:00",
+  "generated_at": "2026-10-26T04:51:06.908497+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

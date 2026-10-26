@@ -2,24 +2,10 @@
   "articles": [
     {
       "category": "Phillies",
-      "description": "Will the Phillies re-sign Edmundo Sosa? Edward M. Pio Roda / After Edmundo Sosa took grounders at third base before the Philadelphia Phillies’ final game of the postseason, Alec Bohm took his place ...",
-      "published": "2026-10-13T03:01:00+00:00",
-      "title": "Five more questions the Phillies must answer this offseason",
-      "url": "https://www.nytimes.com/athletic/7684810/2026/10/13/phillies-offseason-questions/"
-    },
-    {
-      "category": "Phillies",
       "description": "Before going with Mattingly at manager, the Phillies requested permission from the Dodgers to contact Utley and Ibanez about the position.",
       "published": "2026-10-15T03:00:00+00:00",
       "title": "Phillies reached out to Chase Utley, Raul Ibanez before rehiring Don Mattingly: Sources",
       "url": "https://www.nytimes.com/athletic/7691356/2026/10/15/phillies-manager-search-chase-utley-raul-ibanez/"
-    },
-    {
-      "category": "Phillies",
-      "description": "The Phillies have clear offseason goals, as they outlined Thursday. But it is not clear, at all, how they can make them happen.",
-      "published": "2026-10-16T03:01:00+00:00",
-      "title": "As compelling offseason begins, Dave Dombrowski knows Phillies must be different. Can they?",
-      "url": "https://www.nytimes.com/athletic/7693806/2026/10/16/phillies-offseason-dave-dombrowski/"
     },
     {
       "category": "Phillies",
@@ -34,6 +20,13 @@
       "published": "2026-10-15T11:44:00+00:00",
       "title": "‘Mandatory’ for Trea Turner’s defense to improve, Dave Dombrowski says: Phillies takeaways",
       "url": "https://www.nytimes.com/athletic/7693228/2026/10/15/phillies-trea-turner-shortstop-dave-dombrowski-takeaways/"
+    },
+    {
+      "category": "Phillies",
+      "description": "The Phillies have clear offseason goals, as they outlined Thursday. But it is not clear, at all, how they can make them happen.",
+      "published": "2026-10-16T03:01:00+00:00",
+      "title": "As compelling offseason begins, Dave Dombrowski knows Phillies must be different. Can they?",
+      "url": "https://www.nytimes.com/athletic/7693806/2026/10/16/phillies-offseason-dave-dombrowski/"
     },
     {
       "category": "Phillies",
@@ -64,7 +57,7 @@
       "url": "https://www.nytimes.com/athletic/7693659/2026/10/15/don-mattingly-phillies-manager-2027-season-priorities/"
     }
   ],
-  "generated_at": "2026-10-26T00:14:27.944557+00:00",
+  "generated_at": "2026-10-26T04:51:08.695029+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/phillies/"
 }

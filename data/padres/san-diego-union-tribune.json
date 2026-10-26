@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Padres",
-      "description": "The Padres share an important trait with the teams that on Friday will play Game 1 of the World Series in Milwaukee.",
-      "published": "2026-10-22T18:30:00+00:00",
-      "title": "Tom Krasovic: Brewers, Rays show baseball — including Padres — the art of the possible",
-      "url": "https://www.sandiegouniontribune.com/2026/10/22/tom-krasovic-brewers-rays-show-baseball-including-padres-the-art-of-the-possible/"
-    },
-    {
-      "category": "Padres",
       "description": "There is no arguing the Padres have been one of Major League Baseball’s biggest successes by virtually every measure — except one.",
       "published": "2026-10-14T17:04:00+00:00",
       "title": "A.J. Preller, Craig Stammen know Padres have to get better to accomplish goal",
       "url": "https://www.sandiegouniontribune.com/2026/10/14/a-j-preller-craig-stammen-know-padres-have-to-get-better-to-accomplish-goal/"
+    },
+    {
+      "category": "Padres",
+      "description": "The Padres share an important trait with the teams that on Friday will play Game 1 of the World Series in Milwaukee.",
+      "published": "2026-10-22T18:30:00+00:00",
+      "title": "Tom Krasovic: Brewers, Rays show baseball — including Padres — the art of the possible",
+      "url": "https://www.sandiegouniontribune.com/2026/10/22/tom-krasovic-brewers-rays-show-baseball-including-padres-the-art-of-the-possible/"
     },
     {
       "category": "Padres",
@@ -71,7 +71,7 @@
       "url": "https://www.sandiegouniontribune.com/2025/09/15/its-go-time-for-padres-starting-rotation-as-club-makes-final-postseason-push/"
     }
   ],
-  "generated_at": "2026-10-26T00:14:31.188537+00:00",
+  "generated_at": "2026-10-26T04:51:12.482057+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }
