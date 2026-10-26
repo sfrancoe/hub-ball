@@ -1,13 +1,73 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-26T11:34:40.301561+00:00",
+  "generatedAt": "2026-10-26T17:40:08.540340+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Alex Cora opens up on Red Sox firing, managing future in podcast interview",
+      "description": "In a lengthy interview on the Baseball Isn’t Boring podcast, former Red Sox manager Alex Cora opened up about the end of his time in Boston and what his future in the game might hold.",
+      "url": "https://www.bostonherald.com/2026/10/26/alex-cora-opens-up-on-red-sox-firing-managing-future-in-podcast-interview/",
+      "published": "2026-10-26T17:19:13+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "World Series warmup: Joe Maddon on 1st pitch, Carly Pearce sings anthem",
+      "description": "The first pitch for Game 3 is set for 8:08 p.m. Tropicana Field parking lots open at 3 p.m., stadium gates at 5.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/26/joe-maddon-carly-pearce-game-3-world-series/",
+      "published": "2026-10-26T16:07:16.369000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Reliever Tim Mayza on why he re-signed, how ‘The Sheriff’ nickname suits him, and more | ‘Phillies Extra’ Q&A",
+      "description": "One of the most overlooked stories of 2026, Mayza is back on a new deal. The veteran lefty, who grew up in Lancaster County, joined The Inquirer's baseball podcast to discuss his strong season.",
+      "url": "https://www.inquirer.com/phillies/tim-mayza-contract-podcast-interview-sheriff-extra-20261026.html",
+      "published": "2026-10-26T14:40:54+00:00",
+      "source": "Inquirer",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "teamAbbreviation": "PHI",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Another executive hired away shows how highly MLB industry regards the Red Sox, and other thoughts",
+      "description": "The Athletics hired Red Sox assistant general manager Taylor Smith to be their new president of baseball operations.",
+      "url": "https://www.bostonglobe.com/2026/10/26/sports/red-sox-executives/",
+      "published": "2026-10-26T14:37:59.214000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "The Brewers and Rays don’t buy into air pull. It’s working.",
+      "description": "The two teams in the World Series are bucking the industry norms of hitting techniques to great success. \"It’s the purity of the game,\" one coach said.",
+      "url": "https://www.bostonglobe.com/2026/10/26/sports/brewers-rays-hitting-driveline/",
+      "published": "2026-10-26T12:13:06.421000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Rays trail in World Series, but maybe DJ Kitty can help them claw back",
       "description": "In the spirit of the Rally Monkey, the feline phenom became a fan favorite who inspired Rays fans.",
@@ -67,90 +127,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "‘It’s the purity of the game’: How the Brewers and Rays are bucking the industry norms of hitting techniques",
-      "description": "In an era of pull-side fly balls, the Brewers and Rays prioritize making contact.",
-      "url": "https://www.bostonglobe.com/2026/10/26/sports/brewers-rays-hitting-driveline/",
-      "published": "2026-10-26T07:00:00+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "With a chance to clinch in St. Pete, Brewers work out at Tropicana Field",
-      "description": "Some players are amused to learn of the stingray touch tank in the outfield, while another maligns the color of the roof.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/26/world-series-milwaukee-brewers-tropicana-field-aaron-ashby-brice-turang-trevor-megill/",
-      "published": "2026-10-26T04:01:20.899000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Cubs can’t afford to sit out a potential pre-lockout frenzy for free agents",
-      "description": "That period’s going to be active,” Jed Hoyer said. “If deals make sense, regardless of the structure, I think they’re going to get done.\" ...",
-      "url": "https://www.nytimes.com/athletic/7720949/2026/10/26/cubs-free-agents-arbitration-lockout/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "‘I feel like myself again’: David Hamilton embracing his time as a Brewer after being traded back from the Red Sox",
-      "description": "David Hamilton, the Brewers' starting third baseman in the World Series, is enjoying himself again after not having a regular role with the Red Sox.",
-      "url": "https://www.bostonglobe.com/2026/10/25/sports/david-hamilton-milwaukee-brewers/",
-      "published": "2026-10-26T03:14:41.921000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Brewers might win it all. Their formula could still mean trading stars who got them there",
-      "description": "William Contreras and Trevor Megill have been integral to Milwaukee's World Series run; the Brewers Way means they might not stick around.",
-      "url": "https://www.nytimes.com/athletic/7725000/2026/10/26/milwaukee-brewers-world-series-trading-stars-william-contreras-trevor-megill/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Caminero’s dugout outburst shows how much he cares, Rays’ Cash says",
-      "description": "Notes | The young star says he was just trying “to create some energy” after the team made another in a series of defensive mistakes on Saturday.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/25/junior-caminero-outburst-world-series-brewers-kevin-cash-richie-palacios-tropicana-field/",
-      "published": "2026-10-26T02:10:26.601000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "With Rays down in World Series, it’s time for Freddy Peralta to save them",
-      "description": "The right-hander turned his season around after being acquired in an August trade. Down 2-0, Tampa Bay needs him to deliver another strong start.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/25/freddy-peralta-world-series-brewers-jake-bauers-brandon-woodruff-aaron-ashby-mets/",
-      "published": "2026-10-26T00:41:41.963000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
