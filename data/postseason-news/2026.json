@@ -1,13 +1,85 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-26T05:27:11.387179+00:00",
+  "generatedAt": "2026-10-26T11:34:40.301561+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Rays trail in World Series, but maybe DJ Kitty can help them claw back",
+      "description": "In the spirit of the Rally Monkey, the feline phenom became a fan favorite who inspired Rays fans.",
+      "url": "https://www.nytimes.com/athletic/7725808/2026/10/26/rays-world-series-dj-kitty/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Red Sox offseason mailbag: Rutschman’s price, Triston Casas’ future, trade options and MLB lockout",
+      "description": "Should Boston sell high on Franklin Arias? Is the rotation too heavy with lefties? We answer those questions and more.",
+      "url": "https://www.nytimes.com/athletic/7717674/2026/10/26/red-sox-offseason-rutschman-lockout/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Ten steps the Yankees should take to reach the World Series in 2027",
+      "description": "The Yankees don’t need a complete makeover this offseason, but they do need reinforcements. Here's our 10-part plan to boost the roster.",
+      "url": "https://www.nytimes.com/athletic/7719005/2026/10/26/yankees-offseason-moves-world-series-2027/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "They want a Rays mascot at their wedding: How to book Raymond",
+      "description": "A local couple will have the furry sea dog show up to their nuptials.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/26/rays-mascot-raymond-how-to-book-weddings/",
+      "published": "2026-10-26T10:00:00+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Priced out of the World Series in Milwaukee, Brewers fans take their party to Florida",
+      "description": "One way or another, Brewers fans are finding ways to watch this World Series. Even if it takes a flight to Florida.",
+      "url": "https://www.nytimes.com/athletic/7724319/2026/10/26/brewers-fans-rays-tropicana-field-takeover-world-series-game-3/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "‘It’s the purity of the game’: How the Brewers and Rays are bucking the industry norms of hitting techniques",
+      "description": "In an era of pull-side fly balls, the Brewers and Rays prioritize making contact.",
+      "url": "https://www.bostonglobe.com/2026/10/26/sports/brewers-rays-hitting-driveline/",
+      "published": "2026-10-26T07:00:00+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "With a chance to clinch in St. Pete, Brewers work out at Tropicana Field",
       "description": "Some players are amused to learn of the stingray touch tank in the outfield, while another maligns the color of the roof.",
@@ -21,6 +93,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Cubs can’t afford to sit out a potential pre-lockout frenzy for free agents",
+      "description": "That period’s going to be active,” Jed Hoyer said. “If deals make sense, regardless of the structure, I think they’re going to get done.\" ...",
+      "url": "https://www.nytimes.com/athletic/7720949/2026/10/26/cubs-free-agents-arbitration-lockout/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "‘I feel like myself again’: David Hamilton embracing his time as a Brewer after being traded back from the Red Sox",
       "description": "David Hamilton, the Brewers' starting third baseman in the World Series, is enjoying himself again after not having a regular role with the Red Sox.",
       "url": "https://www.bostonglobe.com/2026/10/25/sports/david-hamilton-milwaukee-brewers/",
@@ -31,6 +115,18 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Brewers might win it all. Their formula could still mean trading stars who got them there",
+      "description": "William Contreras and Trevor Megill have been integral to Milwaukee's World Series run; the Brewers Way means they might not stick around.",
+      "url": "https://www.nytimes.com/athletic/7725000/2026/10/26/milwaukee-brewers-world-series-trading-stars-william-contreras-trevor-megill/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Caminero’s dugout outburst shows how much he cares, Rays’ Cash says",
@@ -55,42 +151,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Sal Frelick’s World Series home run off Ian Seymour was a meeting made in Massachusetts",
-      "description": "The natives of Lexington and Westborough, respectively, have faced off many times during offseason workouts and twice earlier this season. Saturday was bigger.",
-      "url": "https://www.bostonglobe.com/2026/10/25/sports/world-series-sal-frelick-ian-seymour-massachusetts-baseball/",
-      "published": "2026-10-25T22:54:08.994000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "5 lighthearted moments as Milwaukee Brewers prepare for World Series Game 3",
-      "description": "Travel day media sessions took on a \"Pick on Aaron Day\" feel, but friendly pilots and a legendary manager were the butt of jokes too.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/milwaukee-brewers-light-moments-from-world-series-travel-day-before-game-3-against-rays/92402703007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "What Red Sox coaching changes mean — and what’s next for Chad Tracy’s staff",
-      "description": "The Red Sox made some coaching changes this week. Here's what they all mean — and what might be next.",
-      "url": "https://www.masslive.com/redsox/2026/10/what-red-sox-coaching-changes-mean-and-whats-next-for-chad-tracys-staff.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
