@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-25T22:05:55.569208+00:00",
+  "generatedAt": "2026-10-26T00:27:34.480906+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 2,
+  "coveredTeamCount": 1,
   "articles": [
+    {
+      "title": "‘I feel like myself again’: David Hamilton embracing his time as a Brewer after being traded back from the Red Sox",
+      "description": "David Hamilton, the Brewers' starting third baseman in the World Series, is enjoying himself again after not having a regular role with the Red Sox.",
+      "url": "https://www.bostonglobe.com/2026/10/25/sports/david-hamilton-milwaukee-brewers/",
+      "published": "2026-10-25T23:43:44.996000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Sal Frelick’s World Series home run off Ian Seymour was a meeting made in Massachusetts",
+      "description": "The natives of Lexington and Westborough, respectively, have faced off many times during offseason workouts and twice earlier this season. Saturday was bigger.",
+      "url": "https://www.bostonglobe.com/2026/10/25/sports/world-series-sal-frelick-ian-seymour-massachusetts-baseball/",
+      "published": "2026-10-25T22:54:08.994000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "What Red Sox coaching changes mean — and what’s next for Chad Tracy’s staff",
       "description": "The Red Sox made some coaching changes this week. Here's what they all mean — and what might be next.",
@@ -18,30 +42,6 @@
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "How loud, exactly, was Brewers crowd for World Series Game 2?",
-      "description": "American Family Field, as expected, was rocking for Game 2 of the World Series. Even after falling behind by four runs in the top of the first inning against the Tampa Bay Rays, the faithful in the ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/heres-how-loud-the-brewers-crowd-was-for-world-series-game-2/92429621007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "When do the Brewers play next? Game 3, World Series schedule",
-      "description": "Game 3 of the best-of-seven World Series starts at 7 p.m. Monday, Oct. 26, at Tropicana Field in St. Petersburg, Florida. Games 4 and 5 will also take place in Florida before returning to Milwaukee, ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/brewers-rays-world-series-game-3/92431235007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
       "publishedSource": "unverified"
     }
   ]
