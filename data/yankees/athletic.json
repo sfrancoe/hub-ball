@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Once the World Series ends, baseball’s offseason moves will begin. What questions do you have about the Yankees?",
+      "published": "2026-10-27T11:20:16+00:00",
+      "title": "Submit your questions for Chris Kirschner's Yankees mailbag",
+      "url": "https://www.nytimes.com/athletic/7727322/2026/10/27/yankees-offseason-mailbag-questions/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees don’t need a complete makeover this offseason, but they do need reinforcements. Here's our 10-part plan to boost the roster.",
       "published": "2026-10-26T10:15:25+00:00",
       "title": "Ten steps the Yankees should take to reach the World Series in 2027",
@@ -132,16 +139,9 @@
       "published": "2026-10-08T10:30:50+00:00",
       "title": "Jazz Chisholm Jr. doesn't understand why Yankees fans booed him. But he wants to return",
       "url": "https://www.nytimes.com/athletic/7670853/2026/10/08/jazz-chisholm-boos-yankees-return/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Hal Steinbrenner’s Yankees should be trying something different, much like the Knicks did, and much like George Steinbrenner's Yankees did.",
-      "published": "2026-10-08T09:45:45+00:00",
-      "title": "The Yankees should move on from Aaron Boone. Just don't expect them to do it",
-      "url": "https://www.nytimes.com/athletic/7670859/2026/10/08/aaron-boone-yankees-rays-game-3-alds/"
     }
   ],
-  "generated_at": "2026-10-26T10:39:19.789223+00:00",
+  "generated_at": "2026-10-27T16:28:07.803166+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

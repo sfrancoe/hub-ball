@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Tampa Bay and Milwaukee have their differences, but there’s one goal for baseball.",
+      "published": "2026-10-27T11:00:00+00:00",
+      "title": "Rays, Brewers are similar, yet their cities are so different",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/27/world-series-milwaukee-tampa-bay-city-comparisons/"
+    },
+    {
+      "category": "Rays",
       "description": "Milwaukee scores eight runs in the fifth, the most with two outs in a single inning in World Series history.",
       "published": "2026-10-27T05:16:35+00:00",
       "title": "Brewers have shot at sweep, 1st World Series title after rout of Rays",
@@ -90,23 +97,9 @@
       "published": "2026-10-25T10:00:00+00:00",
       "title": "Tropicana Field’s remarkable rise from the ashes to the World Series",
       "url": "https://www.tampabay.com/sports/rays/2026/10/25/tropicana-fields-remarkable-rise-ashes-world-series/"
-    },
-    {
-      "category": "Rays",
-      "description": "After going ahead 4-0 in the first, the offense is shut down and Drew Rasmussen has a bad night, putting Tampa Bay into an 0-2 World Series hole.",
-      "published": "2026-10-25T04:03:53+00:00",
-      "title": "Ace isn’t sharp, Rays waste chance in World Series Game 2 loss to Brewers",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/25/drew-rasmussen-world-series-game-2-milwaukee-brewers-cooper-pratt-sal-frelick/"
-    },
-    {
-      "category": "Rays",
-      "description": "Pitch count | The Rays got off to a hot start against the Brewers in Game 2, but ace Drew Rasmussen, and the defense, cannot hold on.",
-      "published": "2026-10-25T03:49:12+00:00",
-      "title": "How do you blow a 4-0 lead in the World Series? One blunder at a time",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/24/world-series-game-2-drew-rasmussen-ian-seymour/"
     }
   ],
-  "generated_at": "2026-10-27T05:40:30.125429+00:00",
+  "generated_at": "2026-10-27T16:28:11.727290+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }
