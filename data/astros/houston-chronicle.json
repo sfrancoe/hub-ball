@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "The condition Joey Loperfido had addressed will delay his availability for spring training — assuming it actually begins on time given the expiring collective bargaining agreement.",
-      "published": "2026-10-26T10:29:00+00:00",
-      "title": "Houston Astros outfielder Joey Loperfido has hip surgery, return date uncertain",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/joey-loperfido-hip-surgery-22495003.php"
-    },
-    {
-      "category": "Astros",
       "description": "Houston's 23-year-old right fielder hit 21 homers and earned a Gold Glove finalist nod, but his .210 average points to room for growth.",
       "published": "2026-10-22T04:00:00+00:00",
       "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
@@ -23,13 +16,6 @@
     },
     {
       "category": "Astros",
-      "description": "The Astros have gone nearly two months without a general manager, but candidates for the job are beginning to emerge as the playoffs wind down.",
-      "published": "2026-10-20T15:42:00+00:00",
-      "title": "Milwaukee Brewers executive Matt Kleine emerging as candidate for Houston Astros' GM job",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-kleine-houston-gm-candidate-22486387.php"
-    },
-    {
-      "category": "Astros",
       "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
       "published": "2026-10-20T04:00:00+00:00",
       "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
@@ -37,10 +23,17 @@
     },
     {
       "category": "Astros",
-      "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
-      "published": "2026-10-23T14:55:00+00:00",
-      "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-bullpen-review-free-agency-22491472.php"
+      "description": "The Astros have gone nearly two months without a general manager, but candidates for the job are beginning to emerge as the playoffs wind down.",
+      "published": "2026-10-20T15:42:00+00:00",
+      "title": "Milwaukee Brewers executive Matt Kleine emerging as candidate for Houston Astros' GM job",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-kleine-houston-gm-candidate-22486387.php"
+    },
+    {
+      "category": "Astros",
+      "description": "The condition Joey Loperfido had addressed will delay his availability for spring training — assuming it actually begins on time given the expiring collective bargaining agreement.",
+      "published": "2026-10-26T10:29:00+00:00",
+      "title": "Houston Astros outfielder Joey Loperfido has hip surgery, return date uncertain",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/joey-loperfido-hip-surgery-22495003.php"
     },
     {
       "category": "Astros",
@@ -48,6 +41,13 @@
       "published": "2026-10-23T04:00:00+00:00",
       "title": "Yordan Alvarez's MVP-caliber season at DH | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-yordan-alvarez-dh-role-22489982.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
+      "published": "2026-10-23T14:55:00+00:00",
+      "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-bullpen-review-free-agency-22491472.php"
     },
     {
       "category": "Astros",
@@ -85,7 +85,7 @@
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-astros-roster-analysis-jeremy-pe-a-22475893.php"
     }
   ],
-  "generated_at": "2026-10-27T00:46:15.698901+00:00",
+  "generated_at": "2026-10-27T05:40:34.611756+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
