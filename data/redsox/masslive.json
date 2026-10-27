@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "How will the Red Sox solve their outfield logjam while adding thump to the DH spot n 2027? It could be an eventful winter toward that end.",
+      "published": "2026-10-27T19:03:42+00:00",
+      "title": "The Red Sox have too many outfielders and not enough answers — here's how Craig Breslow might fix it this winter",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-how-will-outfield-logjam-pursuit-of-slugging-dh-impact-jarren-duran-others.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Philadelphia Phillies have hired former Boston Red Sox coach Pete Fatse to be their hitting coach.",
       "published": "2026-10-26T22:46:05+00:00",
       "title": "Ex-Red Sox coach fired with Alex Cora named Phillies hitting coach",
@@ -104,16 +111,9 @@
       "published": "2026-10-21T09:00:00+00:00",
       "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
       "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-submit-questions-for-masslives-sean-mcadam.html-3"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox led the majors in bullpen ERA n 2026 and all their key relievers are under control for 2027. That means a big-ticket bullpen addition isn't likely this winter.",
-      "published": "2026-10-20T22:58:36+00:00",
-      "title": "Why the Red Sox won't be big spenders on relief pitching this winter",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-bullpen-core-intact-so-dont-expect-big-time-adds-this-winter.html"
     }
   ],
-  "generated_at": "2026-10-27T00:46:04.630841+00:00",
+  "generated_at": "2026-10-27T20:50:52.023898+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

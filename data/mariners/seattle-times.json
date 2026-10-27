@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "One month after parting ways with Dan Wilson, the Mariners are nearing a decision to name his successor. Here's where things stand.",
+      "published": "2026-10-27T03:11:00+00:00",
+      "title": "Mariners’ manager search down to finalists Joe Espada, Jason Kanzler",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-manager-search-down-to-finalists-joe-espada-jason-kanzler/"
+    },
+    {
+      "category": "Mariners",
       "description": "Former Minnesota Twins manager Rocco Baldelli has withdrawn his name from consideration for the Mariners’ open manager role.",
       "published": "2026-10-25T13:46:00+00:00",
       "title": "Rocco Baldelli withdraws name from Mariners’ manager opening",
@@ -41,16 +48,9 @@
       "published": "2026-10-14T23:00:00+00:00",
       "title": "Mariners know they need a right-handed bat. But it’s easier said than done.",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-know-they-need-a-right-handed-bat-but-its-easier-said-than-done/"
-    },
-    {
-      "category": "Mariners",
-      "description": "Here are five pressing questions the Mariners face as they approach the player-acquisition phase of the offseason.",
-      "published": "2026-10-16T23:00:00+00:00",
-      "title": "Mariners’ five pressing questions entering pivotal offseason",
-      "url": "https://www.seattletimes.com/sports/mariners/five-pressing-questions-for-the-mariners-as-they-enter-pivotal-offseason/"
     }
   ],
-  "generated_at": "2026-10-27T11:02:09.535711+00:00",
+  "generated_at": "2026-10-27T20:51:07.067996+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

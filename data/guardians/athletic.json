@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "Cleveland is right back where it was in the Division Series, needing two wins in two games with no room for slippage.",
-      "published": "2026-10-19T03:04:00+00:00",
-      "title": "The Cleveland Guardians are running out of arms … and time",
-      "url": "https://www.nytimes.com/athletic/7703517/2026/10/19/cleveland-guardians-bullpen-pitching/"
-    },
-    {
-      "category": "Guardians",
       "description": "\"There was a belief that we were just going to do it,\" manager Stephen Vogt said of Cleveland's quest to win the World Series.",
       "published": "2026-10-23T02:30:00+00:00",
       "title": "Guardians end-of-season takeaways: ‘This group, it felt different’",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Guardians",
-      "description": "The Cleveland Guardians don't have a big payroll and star power, but they do have stubbornness and staying power. Jamie Squire / CLEVELAND — There is no model for this. Somewhere in the server farms ...",
-      "published": "2026-10-14T17:00:00+00:00",
-      "title": "The Guardians aren’t the best team in baseball, but they might be the hardest to beat",
-      "url": "https://www.nytimes.com/athletic/7694497/2026/10/15/cleveland-guardians-alcs-petey-halpin-toughest-team/"
+      "description": "Cleveland is right back where it was in the Division Series, needing two wins in two games with no room for slippage.",
+      "published": "2026-10-19T03:04:00+00:00",
+      "title": "The Cleveland Guardians are running out of arms … and time",
+      "url": "https://www.nytimes.com/athletic/7703517/2026/10/19/cleveland-guardians-bullpen-pitching/"
     },
     {
       "category": "Guardians",
@@ -27,6 +20,13 @@
       "published": "2026-10-20T03:14:00+00:00",
       "title": "For the Guardians, a still-elusive World Series and a frustratingly familiar refrain",
       "url": "https://www.nytimes.com/athletic/7703367/2026/10/20/guardians-game-6-alcs-loss-mlb-playoffs/"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Cleveland Guardians don't have a big payroll and star power, but they do have stubbornness and staying power. Jamie Squire / CLEVELAND — There is no model for this. Somewhere in the server farms ...",
+      "published": "2026-10-14T17:00:00+00:00",
+      "title": "The Guardians aren’t the best team in baseball, but they might be the hardest to beat",
+      "url": "https://www.nytimes.com/athletic/7694497/2026/10/15/cleveland-guardians-alcs-petey-halpin-toughest-team/"
     },
     {
       "category": "Guardians",
@@ -58,13 +58,27 @@
     },
     {
       "category": "Guardians",
+      "description": "Follow live coverage as Game 4 finally takes place after Friday’s postponement following rain at Progressive Field.",
+      "published": "2026-10-17T21:20:00+00:00",
+      "title": "How Tampa Bay Rays earned emphatic Game 4 win over Guardians in Cleveland to tie ALCS",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-game-4-score-result-mlb-playoffs/KB91eEqxFfRB/"
+    },
+    {
+      "category": "Guardians",
       "description": "After a 7-3 loss to the Rays on Saturday night, the Guardians are set to give the ball to Parker Messick and a rested bullpen on Sunday.",
       "published": "2026-10-18T03:00:00+00:00",
       "title": "The Guardians took their licks in Game 4. They feel better heading into Game 5",
       "url": "https://www.nytimes.com/athletic/7693862/2026/10/18/guardians-game-4-alcs-mlb-playoffs/"
+    },
+    {
+      "category": "Guardians",
+      "description": "Overall, Williams has pitched 11 2/3 innings for Cleveland this October, tallying a tidy 1.54 ERA with 24 strikeouts and just two runs allowed. It will be interesting to monitor how his ability to ...",
+      "published": "2026-10-15T13:40:00+00:00",
+      "title": "Cleveland beats Tampa Bay thanks to Petey Halpin clutch homer in MLB playoffs ALCS Game 3: Rays vs. Guardians live updates, reaction",
+      "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-mlb-playoffs-game-3-score-result/n2xcBsufwYxd/"
     }
   ],
-  "generated_at": "2026-10-27T16:28:14.768497+00:00",
+  "generated_at": "2026-10-27T20:51:04.455346+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

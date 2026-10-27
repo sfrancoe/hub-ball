@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Hey, being down 0-3 does still mean that “Rays in seven!” is a possibility.",
+      "published": "2026-10-27T19:14:20+00:00",
+      "title": "Rays on the brink, but our slogan contest winners are here",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/27/rays-slogan-contest-winners/"
+    },
+    {
+      "category": "Rays",
+      "description": "In 2008, everything was new as they lost to the Phillies. In 2020, everything in the world was different as they lost to the Dodgers.",
+      "published": "2026-10-27T18:53:05+00:00",
+      "title": "Rays have a World Series history that will change one way or another",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/27/world-series-2008-phillies-2020-dodgers-2026-brewers-erik-neander-carlos-pena/"
+    },
+    {
+      "category": "Rays",
       "description": "Tampa Bay and Milwaukee have their differences, but there’s one goal for baseball.",
       "published": "2026-10-27T11:00:00+00:00",
       "title": "Rays, Brewers are similar, yet their cities are so different",
@@ -90,16 +104,9 @@
       "published": "2026-10-26T00:41:41+00:00",
       "title": "With Rays down in World Series, it’s time for Freddy Peralta to save them",
       "url": "https://www.tampabay.com/sports/rays/2026/10/25/freddy-peralta-world-series-brewers-jake-bauers-brandon-woodruff-aaron-ashby-mets/"
-    },
-    {
-      "category": "Rays",
-      "description": "The future of the Rays’ stadium seemed bleak in October 2024. Now the quirky dome is a centerpiece of the Fall Classic.",
-      "published": "2026-10-25T10:00:00+00:00",
-      "title": "Tropicana Field’s remarkable rise from the ashes to the World Series",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/25/tropicana-fields-remarkable-rise-ashes-world-series/"
     }
   ],
-  "generated_at": "2026-10-27T16:28:11.727290+00:00",
+  "generated_at": "2026-10-27T20:51:01.139134+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "Richie Palacios, Yandy Diaz and Junior Caminero — all with Cleveland ties — came back to haunt the Guardians at the worst possible moment in the 2026 ALCS.",
-      "published": "2026-10-20T05:18:00+00:00",
-      "title": "Former Guardians delivered the decisive blows that ended Cleveland’s ALCS run",
-      "url": "https://www.cleveland.com/guardians/2026/10/former-guardians-delivered-the-decisive-blows-that-ended-clevelands-alcs-run.html"
-    },
-    {
-      "category": "Guardians",
       "description": "From Tanner Bibee's October disappearing act to Daniel Espino's uncertain role, Cleveland's pitching decisions this offseason could define its 2027 season.",
       "published": "2026-10-22T22:10:00+00:00",
       "title": "The Guardians’ bullpen is burned out and the rotation has holes — Cleveland’s pitching problem is real",
@@ -30,6 +23,13 @@
     },
     {
       "category": "Guardians",
+      "description": "Richie Palacios, Yandy Diaz and Junior Caminero — all with Cleveland ties — came back to haunt the Guardians at the worst possible moment in the 2026 ALCS.",
+      "published": "2026-10-20T05:18:00+00:00",
+      "title": "Former Guardians delivered the decisive blows that ended Cleveland’s ALCS run",
+      "url": "https://www.cleveland.com/guardians/2026/10/former-guardians-delivered-the-decisive-blows-that-ended-clevelands-alcs-run.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Austin Hedges' devastated reaction after the ALCS loss showed just how much he means to the Guardians — and why letting him walk this offseason could be harder to replace than any free-agent bat.",
       "published": "2026-10-21T22:05:00+00:00",
       "title": "Austin Hedges is more than a backup catcher — he’s the emotional engine of the Guardians",
@@ -44,17 +44,17 @@
     },
     {
       "category": "Guardians",
-      "description": "With Ralphy Velazquez pushing for a roster spot and Kyle Manzardo's role uncertain, Cleveland's position player surplus could become offseason currency for pitching help.",
-      "published": "2026-10-22T22:05:00+00:00",
-      "title": "The Guardians have a young talent logjam — and trading their way out of it might be the answer",
-      "url": "https://www.cleveland.com/guardians/2026/10/the-guardians-have-a-young-talent-logjam-and-trading-their-way-out-of-it-might-be-the-answer.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Manager Stephen Vogt says he's in a \"good place\" with Tanner Bibee, the forgotten pitcher in the Guardians' playoff run.",
       "published": "2026-10-22T12:05:00+00:00",
       "title": "Guardians’ Stephen Vogt, Tanner Bibee walk and talk their way through playoff snub",
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-stephen-vogt-tanner-bibee-walk-and-talk-their-way-through-playoff-snub.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "With Ralphy Velazquez pushing for a roster spot and Kyle Manzardo's role uncertain, Cleveland's position player surplus could become offseason currency for pitching help.",
+      "published": "2026-10-22T22:05:00+00:00",
+      "title": "The Guardians have a young talent logjam — and trading their way out of it might be the answer",
+      "url": "https://www.cleveland.com/guardians/2026/10/the-guardians-have-a-young-talent-logjam-and-trading-their-way-out-of-it-might-be-the-answer.html"
     },
     {
       "category": "Guardians",
@@ -69,9 +69,23 @@
       "published": "2026-10-16T05:30:00+00:00",
       "title": "Nick Martinez has shut out the Guardians twice. Cleveland’s Game 4 challenge is making him come to them",
       "url": "https://www.cleveland.com/guardians/2026/10/nick-martinez-has-shut-out-the-guardians-twice-clevelands-game-4-challenge-is-making-him-come-to-them.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Stephen Vogt faces a crucial pitching decision as the Guardians return to Tampa Bay trailing the ALCS 3-2. Can Cleveland pull off another October comeback?",
+      "published": "2026-10-19T03:48:00+00:00",
+      "title": "Guardians have been here before, but can they survive another elimination game?",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-have-been-here-before-but-can-they-survive-another-elimination-game.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Does Kyle Manzardo really have a chance to regain his starting role with Ralphy Velazquez emerging? — Bob Maistros, Lake Worth, Fla. Hey, Bob: Yes, I think Manzardo has a chance to get regular at-bats ...",
+      "published": "2026-10-24T04:47:00+00:00",
+      "title": "Have the Guardians completely closed the door on an Austin Hedges return? Hey, Hoynsie",
+      "url": "https://www.cleveland.com/guardians/2026/10/have-guardians-completely-closed-the-door-on-an-austin-hedges-return-hey-hoynsie.html"
     }
   ],
-  "generated_at": "2026-10-27T16:28:14.563350+00:00",
+  "generated_at": "2026-10-27T20:51:04.280176+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
