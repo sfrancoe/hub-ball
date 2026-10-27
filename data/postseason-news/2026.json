@@ -1,23 +1,59 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-27T13:21:13.640641+00:00",
+  "generatedAt": "2026-10-27T19:00:20.358949+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 5,
   "articles": [
     {
-      "title": "The Brewers, up 3-0 in the World Series, are very good at making other teams look bad",
-      "description": "In beating the Rays in Game 3, 10-1, the Brewers looked like a basketball team putting on a full-court press and causing one turnover after another.",
-      "url": "https://www.bostonglobe.com/2026/10/27/sports/brewers-rays-world-series-game-3/",
-      "published": "2026-10-27T12:20:38.120000+00:00",
+      "title": "Yankees’ Core Four member feels unwelcome around team in shocking reveal: ‘Don’t think they want me there’",
+      "description": "",
+      "url": "https://nypost.com/2026/10/27/sports/jorge-posada-feels-unwelcome-around-yankees-in-shocking-reveal/",
+      "published": "2026-10-27T18:00:00+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Alex Cora discusses getting fired by the Red Sox, regrets initial comments on social media",
+      "description": "Speaking on a podcast, the Cora said his main issue with the decision was clearing out most of the coaching staff.",
+      "url": "https://www.bostonglobe.com/2026/10/27/sports/alex-cora-fired-red-sox-comments/",
+      "published": "2026-10-27T17:16:32.223000+00:00",
       "source": "The Boston Globe",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "The Brewers, up 3-0 in the World Series, are very good at making other teams look bad",
+      "description": "In beating the Rays in Game 3, 10-1, the Brewers looked like a basketball team putting on a full-court press and causing one turnover after another.",
+      "url": "https://www.bostonglobe.com/2026/10/27/sports/brewers-rays-world-series-game-3/",
+      "published": "2026-10-27T16:24:36.231000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Here’s which Braves minor leaguers impressed in 2026",
+      "description": "Lodise was selected by the Braves in the second round in the 2025 MLB Draft, thus has only played 159 minor league games. But during stops at Augusta, Rome and Columbus in 2026, the 22-year-old ...",
+      "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-minor-league-prospects-impressed/",
+      "published": "2026-10-27T16:10:12.180000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
       "publishedSource": "publisher"
     },
     {
@@ -105,6 +141,42 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Who is the Brewers World Series MVP so far? Jackson Chourio? William Contreras? Bullpen?",
+      "description": "The Milwaukee Brewers are one win from a title. With a commanding World Series lead, several players are series MVP contenders.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/who-is-world-series-mvp-for-milwaukee-brewers-after-three-games/92458436007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers in World Series could boost traffic at Waukesha County Airport",
+      "description": "The first two games of the 2026 World Series didn't bring added air traffic to Waukesha, but that could change if the series extends to Games 6 and 7.",
+      "url": "https://www.jsonline.com/story/communities/west/2026/10/27/waukesha-county-airport-may-see-more-air-traffic-due-to-world-series/92441309007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers' World Series Game 4 watch-party tickets selling for hundreds",
+      "description": "Originally $15, tickets to the Brewers' official World Series Game 4 watch party at American Family Field are listed on resale sites for around $300.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/brewers-world-series-game-4-watch-party-tickets-prices/92459078007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Alex Cora shares, takes issue with believed cause of Red Sox firing",
       "description": "After months of letting everyone else dissect his firing, former Red Sox manager Alex Cora revealed what he thinks caused the ousting.",
       "url": "https://www.bostonherald.com/2026/10/27/alex-cora-shares-believed-cause-of-red-sox-firing/",
@@ -115,18 +187,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Top 40 MLB free agents for 2026-27: Contract predictions, team fits for Skubal, Peralta, more",
-      "description": "Tarik Skubal leads a group that includes three players from Japan, including a slugger who could be the top hitter in the class.",
-      "url": "https://www.nytimes.com/athletic/7711984/2026/10/27/mlb-free-agents-2026-contract-team-predictions/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
     },
     {
       "title": "Riley Adams wants ‘an opportunity to earn my way to the big leagues.’ He believes he has one with the Red Sox.",
@@ -141,93 +201,9 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Brewers have shot at sweep, 1st World Series title after rout of Rays",
-      "description": "Milwaukee scores eight runs in the fifth, the most with two outs in a single inning in World Series history.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/27/brewers-have-shot-sweep-1st-world-series-title-after-rout-rays/",
-      "published": "2026-10-27T05:16:35.003000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees’ playoff failure looks even worse as Rays get dismantled in World Series",
-      "description": "",
-      "url": "https://nypost.com/2026/10/27/sports/yankees-playoff-failure-looks-even-worse-as-rays-get-dismantled-in-world-series/",
-      "published": "2026-10-27T04:44:20+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Polarizing TV voice John Schriffen is out with White Sox. Who should replace him?",
-      "description": "There are several strong candidates for the job, including two national broadcasters with local ties in Connor Onion and Wayne Randazzo.",
-      "url": "https://www.nytimes.com/athletic/7728109/2026/10/27/john-schriffen-white-sox-broadcast-announcer-out/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers move one win away from World Series title after routing Rays in Game 3",
-      "description": "The Brewers piled up 16 hits, batting around the order in their eight-run fifth inning.",
-      "url": "https://www.bostonglobe.com/2026/10/26/sports/world-series-game-3-brewers-rays/",
-      "published": "2026-10-27T03:30:32.290000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Rays on brink of World Series elimination after brutal showing in Game 3",
-      "description": "Three pitchers combine to allow eight Brewers runs in the fifth inning, and the Rays manage only three hits in the game.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/26/milwaukee-brewers-world-series-game-3-robert-gasser-freddy-peralta-yandy-diaz-jackson-chourio/",
-      "published": "2026-10-27T03:26:04.369000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "With Game 3 rout, Brewers are on the cusp of World Series glory. Can they sweep?",
-      "description": "Milwaukee took Game 3 of the World Series on Monday night and now stands one victory from the first championship in franchise history.",
-      "url": "https://www.nytimes.com/athletic/7725268/2026/10/26/rays-brewers-world-series-game-3-results-score-takeaways/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "An 8-run inning, a roaring road crowd and 1 win to go: The Brewers are almost there",
-      "description": "A long way from Milwaukee, the Brewers and their fans can almost taste history after an offensive explosion in Game 3.",
-      "url": "https://www.nytimes.com/athletic/7725282/2026/10/26/brewers-rays-world-series-game-3-mlb-playoffs-blowout/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Gov. Tony Evers reflects on $500 million bipartisan Brewers deal",
-      "description": "Gov. Tony Evers reflects on bipartisan negotiations in 2023 for a $500 million funding bill designed to keep the Brewers in Milwaukee until 2050.",
-      "url": "https://www.jsonline.com/videos/news/politics/2026/10/27/gov-tony-evers-reflects-on-500-million-bipartisan-brewers-deal/92379764007/",
+      "title": "What channel is Brewers vs Rays in World Series Game 4 on tonight?",
+      "description": "For the first time since Game 6 of the 1982 World Series, the Milwaukee Brewers are one win away from the franchise's first World Series championship. After a 10-1 blowout win in ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/watch-brewers-vs-rays-in-world-series-game-4-tonight-time-tv-odds/92454085007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
@@ -235,54 +211,6 @@
       "teamAbbreviation": "MIL",
       "league": "NL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "The Brewers authored a signature inning in Game 3. It started with Christian Yelich",
-      "description": "The signature inning of the Brewers’ wondrous season featured two-out hits, left-on-left hits, opposite-field hits. But the spark was Yelich beating a throw by Rays third baseman Junior Caminero on an ...",
-      "url": "https://www.nytimes.com/athletic/7725293/2026/10/27/brewers-game-3-christian-yelich-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Former Rays manager Joe Maddon returns to Trop, makes call to bullpen",
-      "description": "Rather than throw out the first pitch as the Rays announced, Maddon summons James Shields to handle the duty.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/26/former-rays-manager-joe-maddon-returns-trop-makes-call-bullpen/",
-      "published": "2026-10-27T02:32:08.794000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Dodgers let Shohei Ohtani play through pain: It wound up hurting them both",
-      "description": "The Dodgers pledged to keep Ohtani rested and ready for the postseason, but questionable decisions turned that plan upside down.",
-      "url": "https://www.nytimes.com/athletic/7727894/2026/10/27/shohei-ohtani-pain-injury-dodgers-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Manfred lauds Trop as ‘better than ever’ for 1st Series game since ‘08",
-      "description": "Notes | The work done to prepare the ballpark that was seriously damaged by Hurricane Milton earns praise from MLB’s commissioner.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/26/world-series-rob-manfred-tropicana-field-hurricane-milton-jonathan-aranda-ryan-vilade/",
-      "published": "2026-10-27T01:21:26.085000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
