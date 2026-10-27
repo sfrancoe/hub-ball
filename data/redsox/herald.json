@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "After twice failing to convince Alex Cora to manage the Philadelphia Phillies, former Red Sox exec Dave Dombrowski is hiring one of the coaches fired alongside Cora in April.",
+      "published": "2026-10-26T22:04:46Z",
+      "title": "Ex-Red Sox coach fired alongside Alex Cora gets second chance with Phillies",
+      "url": "https://www.bostonherald.com/2026/10/26/red-sox-ex-hitting-coach-pete-fatse-hired-philadelphia-phillies-dave-dombrowski-alex-cora-mlb/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "In a lengthy interview on the Baseball Isn’t Boring podcast, former Red Sox manager Alex Cora opened up about the end of his time in Boston and what his future in the game might hold.",
       "published": "2026-10-26T17:19:13Z",
       "title": "Alex Cora opens up on Red Sox firing, managing future in podcast interview",
@@ -104,16 +111,9 @@
       "published": "2026-10-11T16:02:29Z",
       "title": "Red Sox’ Caleb Durbin undergoes surgery after playing through pinky injury",
       "url": "https://www.bostonherald.com/2026/10/11/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-pinky-injury-mlb-news/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Who is most at risk of being non-tendered by the Red Sox this offseason? That and other reader questions answered in this week’s Herald mailbag.",
-      "published": "2026-10-11T09:30:33Z",
-      "title": "Red Sox mailbag: Who is most at risk of being non-tendered this offseason?",
-      "url": "https://www.bostonherald.com/2026/10/11/red-sox-mailbag-who-is-most-at-risk-of-being-non-tendered-this-offseason/"
     }
   ],
-  "generated_at": "2026-10-26T21:35:31.332552+00:00",
+  "generated_at": "2026-10-27T00:46:03.094458+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

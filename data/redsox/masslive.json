@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Philadelphia Phillies have hired former Boston Red Sox coach Pete Fatse to be their hitting coach.",
+      "published": "2026-10-26T22:46:05+00:00",
+      "title": "Ex-Red Sox coach fired with Alex Cora named Phillies hitting coach",
+      "url": "https://www.masslive.com/redsox/2026/10/ex-red-sox-coach-fired-with-alex-cora-named-phillies-hitting-coach.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "As the Red Sox begin their offseason, the questions in the middle infield might be the most important to answer. Is a big trade for a blue-chip shortstop in play?",
       "published": "2026-10-26T19:54:37+00:00",
       "title": "Roster analysis: Red Sox face big decisions at shortstop this winter",
@@ -106,7 +113,7 @@
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-bullpen-core-intact-so-dont-expect-big-time-adds-this-winter.html"
     }
   ],
-  "generated_at": "2026-10-26T21:35:32.721529+00:00",
+  "generated_at": "2026-10-27T00:46:04.630841+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

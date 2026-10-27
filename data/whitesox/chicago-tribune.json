@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "The Chicago White Sox informed John Schriffen that his contract will not be extended as the club’s lead television play-by-play announcer.",
+      "published": "2026-10-26T15:24:00+00:00",
+      "title": "Chicago White Sox part ways with television play-by-play announcer John Schriffen",
+      "url": "https://www.chicagotribune.com/2026/10/26/chicago-white-sox-john-schriffen/"
+    },
+    {
+      "category": "White Sox",
       "description": "The Chicago White Sox had a turnaround for the ages. So what’s the next step for a franchise that went from three consecutive 100-plus-loss seasons between 2023-25 to the postseason in 2026?",
       "published": "2026-10-18T03:59:00+00:00",
       "title": "After a turnaround for the ages, Chicago White Sox eye pitching and outfield depth in their offseason plans",
@@ -30,20 +37,20 @@
     },
     {
       "category": "White Sox",
-      "description": "The Chicago Cubs, who had MLB’s best team defense, have five Gold Glove Award finalists. Chicago White Sox second baseman Chase Meidroth also is a finalist.",
-      "published": "2026-10-14T09:52:00+00:00",
-      "title": "Gold Glove Award finalists are announced, including 5 Cubs and 1 White Sox player",
-      "url": "https://www.chicagotribune.com/2026/10/14/chicago-cubs-white-sox-gold-glove-finalists/"
-    },
-    {
-      "category": "White Sox",
       "description": "I don’t want a $20 beer at a yuppie bar where nobody knows my name or cares about the game. I want a $7 beer and a local bartender.",
       "published": "2026-10-13T03:00:00+00:00",
       "title": "Letters: Moving the White Sox out of Bridgeport would be a disservice to the community and an insult to fans",
       "url": "https://www.chicagotribune.com/2026/10/13/letters-101326-white-sox-mike-ditka/"
+    },
+    {
+      "category": "White Sox",
+      "description": "The Chicago Cubs, who had MLB’s best team defense, have five Gold Glove Award finalists. Chicago White Sox second baseman Chase Meidroth also is a finalist.",
+      "published": "2026-10-14T09:52:00+00:00",
+      "title": "Gold Glove Award finalists are announced, including 5 Cubs and 1 White Sox player",
+      "url": "https://www.chicagotribune.com/2026/10/14/chicago-cubs-white-sox-gold-glove-finalists/"
     }
   ],
-  "generated_at": "2026-10-26T21:35:40.620933+00:00",
+  "generated_at": "2026-10-27T00:46:13.409767+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }
