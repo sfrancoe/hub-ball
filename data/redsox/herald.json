@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "After months of letting everyone else dissect his firing, former Red Sox manager Alex Cora revealed what he thinks caused the ousting.",
+      "published": "2026-10-27T09:30:50Z",
+      "title": "Alex Cora shares, takes issue with believed cause of Red Sox firing",
+      "url": "https://www.bostonherald.com/2026/10/27/alex-cora-shares-believed-cause-of-red-sox-firing/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "After twice failing to convince Alex Cora to manage the Philadelphia Phillies, former Red Sox exec Dave Dombrowski is hiring one of the coaches fired alongside Cora in April.",
       "published": "2026-10-26T22:04:46Z",
       "title": "Ex-Red Sox coach fired alongside Alex Cora gets second chance with Phillies",
@@ -104,16 +111,9 @@
       "published": "2026-10-13T09:30:34Z",
       "title": "Skilled lefty emerges as Red Sox fast-rising pitching prospect",
       "url": "https://www.bostonherald.com/2026/10/13/eighth-round-pick-emerges-as-red-sox-top-rising-pitching-prospect/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Caleb Durbin, who went into his first Red Sox season wanting to be a ‘Dirt Dog’ like his hero, Dustin Pedroia, finally underwent surgery on the injured pinky he played through for over three months",
-      "published": "2026-10-11T16:02:29Z",
-      "title": "Red Sox’ Caleb Durbin undergoes surgery after playing through pinky injury",
-      "url": "https://www.bostonherald.com/2026/10/11/red-sox-caleb-durbin-undergoes-surgery-after-playing-through-pinky-injury-mlb-news/"
     }
   ],
-  "generated_at": "2026-10-27T00:46:03.094458+00:00",
+  "generated_at": "2026-10-27T11:01:47.580744+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

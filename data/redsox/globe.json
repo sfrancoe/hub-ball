@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Red Sox",
+      "description": "In their first transaction of the offseason, the Sox signed Adams to a minor league contract with an invitation to major league spring training.",
+      "published": "2026-10-27T09:00:00Z",
+      "title": "Riley Adams wants ‘an opportunity to earn my way to the big leagues.’ He believes he has one with the Red Sox.",
+      "url": "https://www.bostonglobe.com/2026/10/27/sports/riley-adams-catcher-red-sox/"
+    },
+    {
       "category": "Peter Abraham | On baseball",
       "description": "In beating the Rays in Game 3, 10-1, the Brewers looked like a basketball team putting on a full-court press and causing one turnover after another.",
       "published": "2026-10-27T04:33:54.271Z",
@@ -104,16 +111,9 @@
       "published": "2026-10-22T09:00:00Z",
       "title": "When the Rays or Brewers win their first World Series, a former PawSox announcer will be on the call",
       "url": "https://www.bostonglobe.com/2026/10/22/sports/pawtucket-red-sox-announcers-world-series/"
-    },
-    {
-      "category": "Baseball",
-      "description": "All three managerial openings in MLB are in the AL West - Angels, Mariners, and Astros.",
-      "published": "2026-10-21T22:57:15.142Z",
-      "title": "Angels fire manager Kurt Suzuki after losing 100 games in his only season",
-      "url": "https://www.bostonglobe.com/2026/10/21/sports/angles-suzuki-fired/"
     }
   ],
-  "generated_at": "2026-10-27T05:40:15.641213+00:00",
+  "generated_at": "2026-10-27T11:01:47.204425+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

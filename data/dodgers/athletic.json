@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "The Dodgers pledged to keep Ohtani rested and ready for the postseason, but questionable decisions turned that plan upside down.",
+      "published": "2026-10-27T02:15:00+00:00",
+      "title": "Dodgers let Shohei Ohtani play through pain: It wound up hurting them both",
+      "url": "https://www.nytimes.com/athletic/7727894/2026/10/27/shohei-ohtani-pain-injury-dodgers-playoffs/"
+    },
+    {
+      "category": "Dodgers",
       "description": "Andrew Friedman has heard the narrative that the Dodgers' dynasty is over. \"I welcome it,\" he said with a smile.",
       "published": "2026-10-20T17:00:00+00:00",
       "title": "Dodgers discuss plans for Shohei Ohtani’s status, Tarik Skubal’s free agency, pending lockout",
@@ -76,16 +83,9 @@
       "published": "2026-10-17T02:30:00+00:00",
       "title": "I covered the end of the Yankees’ dynasty. Here’s what happens next for the Dodgers",
       "url": "https://www.nytimes.com/athletic/7697325/2026/10/17/odgers-yankees-mlb-dynasties-future/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Bauers, who toiled with seven major-league franchises before landing in Milwaukee and experienced a career breakout in his age-30 season, pestered two-time Cy Young winner Blake Snell for 10 pitches ...",
-      "published": "2026-10-13T17:00:00+00:00",
-      "title": "Brewers’ blasts push Dodgers to the brink. Is three-peat dream over for champs?",
-      "url": "https://www.nytimes.com/athletic/7685322/2026/10/14/dodgers-brewers-game-3-score-results-takeaways-mlb-nlcs-2026/"
     }
   ],
-  "generated_at": "2026-10-27T05:40:41.927938+00:00",
+  "generated_at": "2026-10-27T11:02:17.094791+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

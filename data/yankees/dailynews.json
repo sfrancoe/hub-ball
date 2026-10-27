@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Betrayed by his body once again, Stanton totaled just as many calf injuries as he...",
+      "published": "2026-10-27T11:00:48+00:00",
+      "title": "Yankees’ DH spot ‘up for grabs’ after Giancarlo Stanton’s painful season",
+      "url": "https://www.nydailynews.com/2026/10/27/yankees-dh-spot-up-for-grabs-after-giancarlo-stantons-painful-season/"
+    },
+    {
+      "category": "Yankees",
       "description": "It is entirely understandable if the Yankee legions are feeling nothing but despair after “Status...",
       "published": "2026-10-24T14:55:25+00:00",
       "title": "Bill Madden: No accountability from ‘Status Quo’ Hal as Yankees head into uncertain offseason",
@@ -132,16 +139,9 @@
       "published": "2026-10-10T14:51:59+00:00",
       "title": "Bill Madden: Yankees need to dump Aaron Boone and call Buck Showalter",
       "url": "https://www.nydailynews.com/2026/10/10/bill-madden-yankees-aaron-boone-buck-showalter-manager-steinbrenner/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Let’s say Hal Steinbrenner and the other owners get the salary cap they’re almost certain...",
-      "published": "2026-10-10T13:33:29+00:00",
-      "title": "Mike Lupica: The Yankees couldn’t buy a winner, now comes a level playing field",
-      "url": "https://www.nydailynews.com/2026/10/10/mike-lupica-yankees-salary-cap-steinbrenner-boone-cashman-spending/"
     }
   ],
-  "generated_at": "2026-10-24T17:43:01.922369+00:00",
+  "generated_at": "2026-10-27T11:01:49.559164+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

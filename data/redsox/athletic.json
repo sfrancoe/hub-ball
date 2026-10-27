@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Both broadcasters will forever remembered as the play-by-play chroniclers of Boston’s 1967 pennant-winning “Impossible Dream” season.",
+      "published": "2026-10-27T11:00:58+00:00",
+      "title": "Tough call for Red Sox fans: Ken Coleman or Ned Martin for Hall of Fame Frick Award?",
+      "url": "https://www.nytimes.com/athletic/7727453/2026/10/27/red-sox-announcers-hall-of-fame-ken-coleman-ned-martin/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Should the Red Sox target Japanese free agent Teruaki Sato, or Seiya Suzuki? Should they trade Jarren Duran after an underwhelming season?",
+      "published": "2026-10-27T10:30:53+00:00",
+      "title": "Red Sox offseason mailbag part 2: Jarren Duran's trade value, Curtis Mead's role",
+      "url": "https://www.nytimes.com/athletic/7718311/2026/10/27/red-sox-jarren-duran-trade-curtis-mead/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Tarik Skubal leads a group that includes three players from Japan, including a slugger who could be the top hitter in the class.",
+      "published": "2026-10-27T09:30:11+00:00",
+      "title": "Top 40 MLB free agents for 2026-27: Contract predictions, team fits for Skubal, Peralta, more",
+      "url": "https://www.nytimes.com/athletic/7711984/2026/10/27/mlb-free-agents-2026-contract-team-predictions/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Fatse, Boston’s hitting coach from 2022 through April 2026, replaces Kevin Long after a season in which most Phillies hitters regressed.",
       "published": "2026-10-26T21:14:46+00:00",
       "title": "Phillies to name Peter Fatse as hitting coach: Sources",
@@ -90,30 +111,9 @@
       "published": "2026-10-05T21:25:17+00:00",
       "title": "Craig Breslow, Chad Tracy talk pitching decisions, meet Willson Contreras and more",
       "url": "https://www.nytimes.com/athletic/7663555/2026/10/05/red-sox-craig-breslow-chad-tracy-willson-contreras/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "One day, cancer-stricken pitcher Chad Bettis received an unexpected phone call. The chain that started that day persists a decade later.",
-      "published": "2026-10-05T09:30:20+00:00",
-      "title": "The cancer club: How cyclist Lance Armstrong started an unlikely fraternity among MLB pitchers",
-      "url": "https://www.nytimes.com/athletic/7650709/2026/10/05/mlb-cancer-lance-armstrong-pitchers-fraternity/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Plus more offseason questions, like what they can do to prevent non-contact injuries and what to expect from Garrett Crochet.",
-      "published": "2026-10-02T09:45:51+00:00",
-      "title": "Red Sox offseason questions: What's Sonny Gray's future? Do they rely too heavily on data?",
-      "url": "https://www.nytimes.com/athletic/7650670/2026/10/02/red-sox-free-agency-questions/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "It all started to fall apart for the Red Sox in September, and they were out of the postseason picture just two days after it began.",
-      "published": "2026-10-01T10:30:57+00:00",
-      "title": "It was a big-time postseason disaster for the small-ball Red Sox",
-      "url": "https://www.nytimes.com/athletic/7648549/2026/10/01/red-sox-yankees-wild-card-game-2-loss/"
     }
   ],
-  "generated_at": "2026-10-26T21:35:31.935010+00:00",
+  "generated_at": "2026-10-27T11:01:48.380737+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

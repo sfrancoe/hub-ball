@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "The Kansas City Royals will take a long look at their roster heading into a critical 2027 offseason. It’s clear that the Royals need pitching. For starters, the club would like ...",
+      "published": "2026-10-21T22:30:00+00:00",
+      "title": "Kansas City Royals set for a busy offseason. What are the top priorities?",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317722635.html"
+    },
+    {
+      "category": "Royals",
       "description": "On Friday, Royals right-hander Alec Marsh elected to pursue free agency. He joined fellow right-handers Connor Seabold and Easton McGee in hitting the open market after being outrighted to Triple-A ...",
       "published": "2026-10-23T15:00:00+00:00",
       "title": "Kansas City Royals pitcher Alec Marsh chooses free agency after demotion to minors",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Royals",
-      "description": "Royals plan aggressive bullpen moves after a 5.07 ERA ranked second-worst. Kansas City also seeks a starter to deepen a rotation hit by injuries. The lineup needs a right-handed bat, with left and ...",
-      "published": "2026-10-21T22:30:00+00:00",
-      "title": "Kansas City Royals set for a busy offseason. What are the top priorities?",
-      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317722635.html"
-    },
-    {
-      "category": "Royals",
       "description": "Kansas City leaders say the new ballpark is the next step forward for a city that is growing momentum and heading toward a bright future.",
       "published": "2026-10-15T09:50:00+00:00",
       "title": "‘Think big’: Officials tout new Royals ballpark design as KC’s bright future",
@@ -55,16 +55,9 @@
       "published": "2026-10-16T10:12:00+00:00",
       "title": "Kansas Citians are impressed with Royals stadium design, but question the logistics",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317650872.html"
-    },
-    {
-      "category": "Royals",
-      "description": "Officials say the new stadium will be designed as inviting and transparent for fans while highlighting city features and landmarks.",
-      "published": "2026-10-15T09:58:00+00:00",
-      "title": "Future Royals stadium design revealed, with dramatic plaza, city views, limestone base",
-      "url": "https://www.kansascity.com/news/business/development/article317640678.html"
     }
   ],
-  "generated_at": "2026-10-26T21:35:42.177447+00:00",
+  "generated_at": "2026-10-27T11:02:06.290517+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }
