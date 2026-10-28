@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:37:58.722716+00:00",
+  "generated_at": "2026-10-28T01:43:47.810399+00:00",
   "source": "MLB Stats API",
   "team": "Rays",
   "regular_season_end": "2026-09-27",
@@ -7,7 +7,7 @@
     {
       "game_pk": 849803,
       "game_date": "2026-10-28T00:00:00Z",
-      "status": "Pre-Game",
+      "status": "In Progress",
       "venue": "Tropicana Field",
       "location": "home",
       "opponent": "Brewers",
