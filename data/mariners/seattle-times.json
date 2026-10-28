@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "Rick Rizzs, the recently retired Mariners broadcasting legend, now has a road in Issaquah that bears his name.",
+      "published": "2026-10-28T05:36:00+00:00",
+      "title": "Rick Rizzs, recently retired Mariners broadcaster, gets an Issaquah road named after him",
+      "url": "https://www.seattletimes.com/sports/mariners/rick-rizzs-recently-retired-mariners-broadcaster-gets-an-issaquah-road-named-after-him/"
+    },
+    {
+      "category": "Mariners",
       "description": "One month after parting ways with Dan Wilson, the Mariners are nearing a decision to name his successor. Here's where things stand.",
       "published": "2026-10-27T03:11:00+00:00",
       "title": "Mariners’ manager search down to finalists Joe Espada, Jason Kanzler",
@@ -41,16 +48,9 @@
       "published": "2026-10-23T23:00:00+00:00",
       "title": "What moves the Mariners need to make as offseason sprint gets close",
       "url": "https://www.seattletimes.com/sports/mariners/what-moves-the-mariners-need-to-make-as-offseason-sprint-gets-close/"
-    },
-    {
-      "category": "Mariners",
-      "description": "The Mariners have tried and failed many times to find a reliable right-handed bat. The problem is one of many glaring issues they'll need to address this offseason.",
-      "published": "2026-10-14T23:00:00+00:00",
-      "title": "Mariners know they need a right-handed bat. But it’s easier said than done.",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-know-they-need-a-right-handed-bat-but-its-easier-said-than-done/"
     }
   ],
-  "generated_at": "2026-10-27T20:51:07.067996+00:00",
+  "generated_at": "2026-10-28T21:48:37.833701+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

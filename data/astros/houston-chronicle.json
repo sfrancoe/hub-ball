@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Jason Bell, who spent 10 seasons with the Astros in various roles, is leaving the organization despite being among the holdovers following a coaching staff shakeup.",
+      "published": "2026-10-28T12:06:00+00:00",
+      "title": "Houston Astros coach Jason Bell departing for role with Boston Red Sox",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/jason-bell-leaving-red-sox-22498795.php"
+    },
+    {
+      "category": "Astros",
       "description": "Houston's 23-year-old right fielder hit 21 homers and earned a Gold Glove finalist nod, but his .210 average points to room for growth.",
       "published": "2026-10-22T04:00:00+00:00",
       "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
@@ -51,13 +58,6 @@
     },
     {
       "category": "Astros",
-      "description": "Alvarez hit .316 with 42 home runs and thrived with two strikes. The Astros must weigh his production against Altuve’s need for more DH time.",
-      "published": "2026-10-23T04:00:00+00:00",
-      "title": "Yordan Alvarez's MVP-caliber season at DH | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-yordan-alvarez-dh-role-22489982.php"
-    },
-    {
-      "category": "Astros",
       "description": "The Astros' infield logjam was solved in unfortunate fashion last spring, but this offseason brings more intrigue when it comes to fitting in Carlos Correa and Isaac Paredes.",
       "published": "2026-10-18T03:59:00+00:00",
       "title": "More questions about Carlos Correa and Isaac Paredes at third base | Houston Astros roster analysis",
@@ -65,20 +65,20 @@
     },
     {
       "category": "Astros",
+      "description": "Alvarez hit .316 with 42 home runs and thrived with two strikes. The Astros must weigh his production against Altuve’s need for more DH time.",
+      "published": "2026-10-23T04:00:00+00:00",
+      "title": "Yordan Alvarez's MVP-caliber season at DH | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-yordan-alvarez-dh-role-22489982.php"
+    },
+    {
+      "category": "Astros",
       "description": "Joe Espada posts a farewell to his players, staff and fans in Houston after not being retained as Astros manager.",
       "published": "2026-10-15T18:38:00+00:00",
       "title": "Former Astros manager Joe Espada says thank you and goodbye to Houston",
       "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-farewell-houston-22479511.php"
-    },
-    {
-      "category": "Astros",
-      "description": "The Astros have gone nearly two months without a general manager, but candidates for the job are beginning to emerge as the playoffs wind down.",
-      "published": "2026-10-20T15:42:00+00:00",
-      "title": "Milwaukee Brewers executive Matt Kleine emerging as candidate for Houston Astros' GM job",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-kleine-houston-gm-candidate-22486387.php"
     }
   ],
-  "generated_at": "2026-10-28T17:25:48.669167+00:00",
+  "generated_at": "2026-10-28T21:48:36.577762+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "Walter told the California Post, “We’re going to keep the team no matter what,” despite his recent sales of the Lakers and Chelsea.",
+      "published": "2026-10-28T12:41:00+00:00",
+      "title": "Mark Walter reportedly says he is keeping the Dodgers ‘no matter what’",
+      "url": "https://www.nytimes.com/athletic/7733159/2026/10/28/mark-walter-wont-sell-dodgers/"
+    },
+    {
+      "category": "Dodgers",
       "description": "The Dodgers pledged to keep Ohtani rested and ready for the postseason, but questionable decisions turned that plan upside down.",
       "published": "2026-10-27T02:15:00+00:00",
       "title": "Dodgers let Shohei Ohtani play through pain: It wound up hurting them both",
       "url": "https://www.nytimes.com/athletic/7727894/2026/10/27/shohei-ohtani-pain-injury-dodgers-playoffs/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "LOS ANGELES — The Los Angeles Dodgers expect Shohei Ohtani to remain a two-way player and pitch for the team in 2027, president of baseball operations Andrew Friedman said Wednesday. “I fully expect ...",
-      "published": "2026-10-21T13:10:00+00:00",
-      "title": "Dodgers ‘fully expect’ Shohei Ohtani to remain two-way player, pitch in 2027",
-      "url": "https://www.nytimes.com/athletic/7709074/2026/10/21/shohei-ohtani-pitcher-2027-dodgers-two-way/"
     },
     {
       "category": "Dodgers",
@@ -23,10 +23,10 @@
     },
     {
       "category": "Dodgers",
-      "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
-      "published": "2026-10-14T20:57:00+00:00",
-      "title": "Milwaukee powers past Los Angeles in MLB playoffs NLCS Game 3: Brewers vs. Dodgers live updates, reaction",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/"
+      "description": "LOS ANGELES — The Los Angeles Dodgers expect Shohei Ohtani to remain a two-way player and pitch for the team in 2027, president of baseball operations Andrew Friedman said Wednesday. “I fully expect ...",
+      "published": "2026-10-21T13:10:00+00:00",
+      "title": "Dodgers ‘fully expect’ Shohei Ohtani to remain two-way player, pitch in 2027",
+      "url": "https://www.nytimes.com/athletic/7709074/2026/10/21/shohei-ohtani-pitcher-2027-dodgers-two-way/"
     },
     {
       "category": "Dodgers",
@@ -51,10 +51,10 @@
     },
     {
       "category": "Dodgers",
-      "description": "The two-time defending World Series champions have been dethroned, leaving them to ponder the changes that will come next.",
-      "published": "2026-10-16T02:29:00+00:00",
-      "title": "Has the Dodgers’ dynasty reached its end? Maybe not. But hard questions await",
-      "url": "https://www.nytimes.com/athletic/7691509/2026/10/16/dodgers-dynasty-brewers-sweep-nlcs/"
+      "description": "Follow our live coverage as the NLCS switches to Los Angeles with the Brewers leading the series 2-0.",
+      "published": "2026-10-14T20:57:00+00:00",
+      "title": "Milwaukee powers past Los Angeles in MLB playoffs NLCS Game 3: Brewers vs. Dodgers live updates, reaction",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-3-score-result/PM3zBp2nAdcH/"
     },
     {
       "category": "Dodgers",
@@ -62,6 +62,13 @@
       "published": "2026-10-14T17:00:00+00:00",
       "title": "Brewers, relentless against Dodgers, deliver an NLCS sweep, but can they go all the way?",
       "url": "https://www.nytimes.com/athletic/7691528/2026/10/15/dodgers-brewers-game-4-score-results-takeaways-mlb-nlcs-2026/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The two-time defending World Series champions have been dethroned, leaving them to ponder the changes that will come next.",
+      "published": "2026-10-16T02:29:00+00:00",
+      "title": "Has the Dodgers’ dynasty reached its end? Maybe not. But hard questions await",
+      "url": "https://www.nytimes.com/athletic/7691509/2026/10/16/dodgers-dynasty-brewers-sweep-nlcs/"
     },
     {
       "category": "Dodgers",
@@ -76,16 +83,9 @@
       "published": "2026-10-15T20:55:00+00:00",
       "title": "How the Brewers swept the Dodgers in NLCS to head to World Series for first time since 1982",
       "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "In covering the Yankees teams after 2001, I’ve seen what happens when a dynasty ends. Here are 10 things that may await the Dodgers.",
-      "published": "2026-10-17T02:30:00+00:00",
-      "title": "I covered the end of the Yankees’ dynasty. Here’s what happens next for the Dodgers",
-      "url": "https://www.nytimes.com/athletic/7697325/2026/10/17/odgers-yankees-mlb-dynasties-future/"
     }
   ],
-  "generated_at": "2026-10-28T17:25:57.610920+00:00",
+  "generated_at": "2026-10-28T21:48:43.013737+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }
