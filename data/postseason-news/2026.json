@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-27T23:00:00.757855+00:00",
+  "generatedAt": "2026-10-28T02:23:04.690044+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Evan Longoria enjoys return to Trop to throw 1st pitch before Game 4",
+      "description": "The Rays Hall of Famer says it’s been “fun to watch” the team this season and thinks its style of play is somewhat similar to the 2008 World Series squad.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/27/evan-longoria-world-series-game-4-first-pitch-james-shields-giants-diamondbacks/",
+      "published": "2026-10-28T00:57:53.492000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Phillies name Pete Fatse hitting coach, hire Joe Cronin as assistant hitting coach",
+      "description": "The pair of former Red Sox coaches were fired, along with manager Alex Cora and three other coaches, back in April.",
+      "url": "https://www.bostonglobe.com/2026/10/27/sports/baseball-phillies-coaches-pete-fatse-joe-cronin/",
+      "published": "2026-10-28T00:01:24.801000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Riley Adams wants ‘an opportunity to earn my way to the big leagues.’ He believes he has one with the Red Sox.",
       "description": "In their first transaction of the offseason, the Sox signed Adams to a minor league contract with an invitation to major league spring training.",
@@ -69,6 +93,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Brewers vs. Rays score, live updates: Milwaukee, Tampa Bay level in MLB World Series Game 4",
+      "description": "The 2026 World Series continues tonight in Florida with the Tampa Bay Rays hosting the Milwaukee Brewers in Game 4 at Tropicana Field. After a 10-1 rout in Game 3, the Brewers are one win away from ...",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-rays-live-updates-mlb-world-series-game-4-score-result/8bjRf4WjEgBv/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Rays on the brink, but our slogan contest winners are here",
       "description": "Hey, being down 0-3 does still mean that “Rays in seven!” is a possibility.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/27/rays-slogan-contest-winners/",
@@ -93,6 +129,18 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Brewers manager Pat Murphy recalls heart attack scare, ponders a new tattoo",
+      "description": "Brewers manager Pat Murphy survived a heart attack in 2020. Six years later, he's one win away from making Brewers history.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/brewers-manager-pat-murphy-recalls-heart-attack-scare-ponders-a-new-tattoo/92390912007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Rays have a World Series history that will change one way or another",
       "description": "In 2008, everything was new as they lost to the Phillies. In 2020, everything in the world was different as they lost to the Dodgers.",
       "url": "https://www.tampabay.com/sports/rays/2026/10/27/world-series-2008-phillies-2020-dodgers-2026-brewers-erik-neander-carlos-pena/",
@@ -103,6 +151,18 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "31,000 Milwaukee Brewers fans watch Game 4 from American Family Field",
+      "description": "For the second day in a row, 31,000 Milwaukee Brewers fans attend the American Family Field World Series watch party for Game 4.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/31000-brewers-fans-pack-american-family-field-for-game-4-watch-party/92466885007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Yankees’ Core Four member feels unwelcome around team in shocking reveal: ‘Don’t think they want me there’",
@@ -153,6 +213,42 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Meet the Milwaukee artist behind the viral Jackson Chourio chalk mural",
+      "description": "The downtown Milwaukee BID commissioned artist Katie Bogan to create a chalk mural of Jackson Chourio in honor of the Brewers' World Series run.",
+      "url": "https://www.jsonline.com/story/entertainment/arts/2026/10/27/jackson-chourio-chalk-mural-downtown-milwaukee-brewers-world-series-wisconsin/92461204007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers foot the bill to send more than 400 employees to Florida",
+      "description": "The staff, including scouts and coaches from the minor leagues, as well as medical and marketing personnel, had all costs covered by the Brewers.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/brewers-foot-the-bill-to-send-more-than-400-employees-to-florida/92458516007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers will give the ball to Dustin May for Game 4 of World Series",
+      "description": "Dustin May will get the ball to start the game at Tropicana Field on Oct. 27, a day when the Brewers can clinch their first world championship.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/world-series-game-4-starting-pitchers-dustin-may-griffin-jax/92458394007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Wisconsin sports stars rally behind Brewers after Game 3 blowout win",
       "description": "With Milwaukee on the brink of a championship, former Brewers players and other Wisconsin sports figures have shown their support on social media.",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/how-ex-brewers-wisconsin-sports-figures-reacted-to-game-3-victory/92460048007/",
@@ -175,78 +271,6 @@
       "teamAbbreviation": "MIL",
       "league": "NL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "The Brewers authored a signature inning in Game 3. It started with Christian Yelich",
-      "description": "The signature inning of the Brewers’ wondrous season featured two-out hits, left-on-left hits, opposite-field hits. But the spark was Yelich beating a throw by Rays third baseman Junior Caminero on an ...",
-      "url": "https://www.nytimes.com/athletic/7725293/2026/10/27/brewers-game-3-christian-yelich-mlb-playoffs/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Merch, ticket prices and 103.5 mph heat mark Brewers' World Series records",
-      "description": "As the Brewers head into Game 4 with a chance to claim the franchise's first-ever championship, these are some of the most notable records set so far.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/brewers-world-series-brings-103-5-mph-heat-and-record-ticket-prices/92420754007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers have Wisconsin ready to explode after unbelievable World Series rally",
-      "description": "You want to know why the Milwaukee Brewers have won 113 games this year? Why they have nearly run the table this postseason, going 10-1 with eight consecutive wins to tie an MLB record? You wonder why ...",
-      "url": "https://www.jsonline.com/story/sports/mlb/columnist/bob-nightengale/2026/10/27/milwaukee-brewers-world-series-score-rays/92455596007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Submit your questions for Chris Kirschner's Yankees mailbag",
-      "description": "Once the World Series ends, baseball’s offseason moves will begin. What questions do you have about the Yankees?",
-      "url": "https://www.nytimes.com/athletic/7727322/2026/10/27/yankees-offseason-mailbag-questions/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Tough call for Red Sox fans: Ken Coleman or Ned Martin for Hall of Fame Frick Award?",
-      "description": "Both broadcasters will forever remembered as the play-by-play chroniclers of Boston’s 1967 pennant-winning “Impossible Dream” season.",
-      "url": "https://www.nytimes.com/athletic/7727453/2026/10/27/red-sox-announcers-hall-of-fame-ken-coleman-ned-martin/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees’ DH spot ‘up for grabs’ after Giancarlo Stanton’s painful season",
-      "description": "Betrayed by his body once again, Stanton totaled just as many calf injuries as he...",
-      "url": "https://www.nydailynews.com/2026/10/27/yankees-dh-spot-up-for-grabs-after-giancarlo-stantons-painful-season/",
-      "published": "2026-10-27T11:00:48+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
