@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "Jared Banner held his introductory news conference Tuesday alongside Mike Elias. Here are five things we learned about the new GM.",
+      "published": "2026-10-28T03:30:00+00:00",
+      "title": "5 things we learned from Orioles GM Jared Banner’s introduction",
+      "url": "https://www.baltimoresun.com/2026/10/28/orioles-jared-banner-mike-elias-news-conference/"
+    },
+    {
+      "category": "Orioles",
       "description": "New GM Jared Banner has sought advice from former Orioles players in the first week including a pair of Hall of Famers.",
       "published": "2026-10-27T13:16:00+00:00",
       "title": "Orioles GM Jared Banner gets early input from Jim Palmer, Cal Ripken Jr.",
@@ -16,17 +23,17 @@
     },
     {
       "category": "Orioles",
-      "description": "The Orioles became the 14th team in MLB with both a president of baseball operations and GM when they hired Jared Banner under Mike Elias.",
-      "published": "2026-10-21T03:30:00+00:00",
-      "title": "What Jared Banner’s hiring means for Mike Elias and the Orioles",
-      "url": "https://www.baltimoresun.com/2026/10/21/orioles-jared-banner-mike-elias-tandem-impact/"
-    },
-    {
-      "category": "Orioles",
       "description": "We asked readers if the Orioles’ hire of general manager Jared Banner changes their outlook on the team? Here’s what they said.",
       "published": "2026-10-22T12:02:00+00:00",
       "title": "READERS RESPOND: Orioles fans skeptical of new GM’s potential impact",
       "url": "https://www.baltimoresun.com/2026/10/22/readers-respond-orioles-general-manager-impact/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles became the 14th team in MLB with both a president of baseball operations and GM when they hired Jared Banner under Mike Elias.",
+      "published": "2026-10-21T03:30:00+00:00",
+      "title": "What Jared Banner’s hiring means for Mike Elias and the Orioles",
+      "url": "https://www.baltimoresun.com/2026/10/21/orioles-jared-banner-mike-elias-tandem-impact/"
     },
     {
       "category": "Orioles",
@@ -58,27 +65,20 @@
     },
     {
       "category": "Orioles",
+      "description": "An executive with 19 years of experience in MLB front offices will now help call the shots on a day-to-day basis for the Orioles’ baseball operations. “When I first heard Mike’s vision, I knew it was ...",
+      "published": "2026-10-19T15:37:00+00:00",
+      "title": "5 things to know about new Orioles general manager Jared Banner",
+      "url": "https://www.baltimoresun.com/2026/10/19/who-is-new-orioles-general-manager-jared-banner/"
+    },
+    {
+      "category": "Orioles",
       "description": "In his first public comments since the Orioles’ season ended, owner David Rubenstein expressed his disappointment about his ballclub’s struggles.",
       "published": "2026-10-15T19:20:00+00:00",
       "title": "Orioles’ David Rubenstein says owning club ‘not as easy as I thought’",
       "url": "https://www.baltimoresun.com/2026/10/15/orioles-david-rubenstein-owning-club-not-easy/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Orioles Hall of Famer Mike Bordick says the team’s recent layoffs after two subpar seasons are a “slap in the face” to Baltimore’s fanbase.",
-      "published": "2026-10-14T13:40:00+00:00",
-      "title": "Orioles Hall of Famer Mike Bordick on team’s layoffs: ‘Slap in the face’",
-      "url": "https://www.baltimoresun.com/2026/10/14/mike-bordick-orioles-layoffs/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles hired Jared Banner to be their new general manager under Mike Elias. Does the move change your outlook on the franchise?",
-      "published": "2026-10-19T13:57:00+00:00",
-      "title": "READER POLL: Does hiring Jared Banner as GM change your outlook on the Orioles?",
-      "url": "https://www.baltimoresun.com/2026/10/19/reader-poll-jared-banner-orioles-general-manager-team-outlook/"
     }
   ],
-  "generated_at": "2026-10-28T05:45:37.584963+00:00",
+  "generated_at": "2026-10-28T11:40:25.556468+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

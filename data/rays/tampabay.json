@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Brewers fans made their presence felt at Tropicana Field, but Game 4 of the World Series was a night for Rays fans to celebrate.",
+      "published": "2026-10-28T10:27:47+00:00",
+      "title": "‘Not tonight’: With walkoff win, Rays fans’ tension finds jubilant release",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/28/rays-brewers-fans-tropicana-field-world-series-walkoff/"
+    },
+    {
+      "category": "Rays",
+      "description": "Call it the midnight miracle. Williamson comes through in the 12th inning to extend Tampa Bay’s postseason.",
+      "published": "2026-10-28T06:22:43+00:00",
+      "title": "Ben Williamson, rest of bench save Rays’ World Series hopes",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/28/ben-williamson-nick-fortes-cedric-mullins-world-series-game-4/"
+    },
+    {
+      "category": "Rays",
       "description": "Milwaukee’s Cooper Pratt goes deep in the top of the 12th, but Jonny DeLuca singles in the tying run and Ben Williamson adds the game-winner in the bottom of the inning.",
       "published": "2026-10-28T04:43:20+00:00",
       "title": "Rays stay alive in World Series with walkoff win over Brewers in 12th",
@@ -83,23 +97,9 @@
       "published": "2026-10-26T19:00:05+00:00",
       "title": "Sugar skulls and ‘Twilight’: How Rays fans are manifesting a World Series comeback",
       "url": "https://www.tampabay.com/sports/rays/2026/10/26/sugar-skulls-twilight-how-rays-fans-are-manifesting-world-series-comeback/"
-    },
-    {
-      "category": "Rays",
-      "description": "The lineup change comes as the Brewers start lefty Robert Glasser. The first pitch for Game 3 is set for 8:08 p.m.",
-      "published": "2026-10-26T16:07:16+00:00",
-      "title": "World Series warmup: Ryan Vilade starts at 1B, Jonathan Aranda on bench",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/26/joe-maddon-carly-pearce-game-3-world-series/"
-    },
-    {
-      "category": "Rays",
-      "description": "Here’s your Tropicana Field guide to Rays tickets, parking and bag rules.",
-      "published": "2026-10-26T15:45:09+00:00",
-      "title": "World Series Trop resale ticket prices drop, Milwaukee’s rise",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/21/world-series-tickets-cost-tropicana-field-rays-brewers/"
     }
   ],
-  "generated_at": "2026-10-28T05:45:36.116154+00:00",
+  "generated_at": "2026-10-28T11:40:24.412576+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

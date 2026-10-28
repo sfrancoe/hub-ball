@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rangers",
+      "description": "That leaves the Rangers roughly $20 million shy of the projected payroll they operated at this season (per FanGraphs, their estimated payroll was $188 million, and per Spotrac, it ...",
+      "published": "2026-10-28T04:00:00+00:00",
+      "title": "Texas Rangers payroll breakdown: Expiring free agents, arbitration-eligible players and more",
+      "url": "https://www.dallasnews.com/sports/rangers/article/rangers-payroll-breakdown-salaries-free-agents-22495546.php"
+    },
+    {
+      "category": "Rangers",
       "description": "The Tampa Bay Rays and Milwaukee Brewers — two teams with slight budgets who prioritize analytics and strategic offensive approaches — will play for a World Series.",
       "published": "2026-10-22T04:00:00+00:00",
       "title": "Three things the Rangers can learn from Brewers, Rays to get back to World Series",
@@ -57,7 +64,7 @@
       "url": "https://www.dallasnews.com/sports/rangers/article/al-gold-glove-finalists-degrom-duran-22476743.php"
     }
   ],
-  "generated_at": "2026-10-28T00:09:30.693196+00:00",
+  "generated_at": "2026-10-28T11:40:29.810098+00:00",
   "source": "Dallas Morning News",
   "source_url": "https://www.dallasnews.com/sports/rangers/"
 }
