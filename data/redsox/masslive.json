@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "As soon as the World Series ends, the Red Sox have some cuts to make. There are few easy decisions on the back end of their 40-man roster.",
+      "published": "2026-10-28T12:25:56+00:00",
+      "title": "Red Sox cuts coming — but few easy choices on the roster",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-moves-coming-soon-including-possible-early-trades-due-to-40-man-crunch.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Top Red Sox prospect Franklin Arias is expected to break into the majors at some point in 2027, during his age 21 season. What are realistic expectations?",
       "published": "2026-10-28T10:55:45+00:00",
       "title": "Red Sox have baseball's No. 2 prospect; what are realistic expectations in 2027?",
@@ -104,16 +111,9 @@
       "published": "2026-10-21T17:51:25+00:00",
       "title": "Red Sox are parting ways with two coaches just months after a midseason overhaul — here's what we know about the changes",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-move-on-from-two-coaches-for-2027-staff.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Before the Adley Rutschman trade, the Red Sox might have wanted to add catching this winter. Now? Rutschman is the starter, but don't be surprised if the front office looks to upgrade the backup spot.",
-      "published": "2026-10-21T13:39:31+00:00",
-      "title": "Red Sox roster: After Adley Rutschman trade, is catcher still a need this winter?",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-after-adley-rutschman-trade-is-catcher-still-a-need-this-winter.html"
     }
   ],
-  "generated_at": "2026-10-28T11:40:14.192594+00:00",
+  "generated_at": "2026-10-28T17:25:36.189687+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
