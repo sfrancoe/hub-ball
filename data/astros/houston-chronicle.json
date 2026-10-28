@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "Houston went through a rotating cast of center fielders in 2026, with nobody seizing the position. Will the Astros be able to find options internally or in free agency to provide stability?",
-      "published": "2026-10-21T03:59:00+00:00",
-      "title": "Can stability be found in center field after 2026 revolving door? | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php"
-    },
-    {
-      "category": "Astros",
       "description": "Houston's 23-year-old right fielder hit 21 homers and earned a Gold Glove finalist nod, but his .210 average points to room for growth.",
       "published": "2026-10-22T04:00:00+00:00",
       "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-cam-smith-right-field-22486972.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Houston went through a rotating cast of center fielders in 2026, with nobody seizing the position. Will the Astros be able to find options internally or in free agency to provide stability?",
+      "published": "2026-10-21T03:59:00+00:00",
+      "title": "Can stability be found in center field after 2026 revolving door? | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php"
     },
     {
       "category": "Astros",
@@ -23,17 +23,17 @@
     },
     {
       "category": "Astros",
-      "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
-      "published": "2026-10-23T14:55:00+00:00",
-      "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-bullpen-review-free-agency-22491472.php"
-    },
-    {
-      "category": "Astros",
       "description": "Alvarez hit .316 with 42 home runs and thrived with two strikes. The Astros must weigh his production against Altuve’s need for more DH time.",
       "published": "2026-10-23T04:00:00+00:00",
       "title": "Yordan Alvarez's MVP-caliber season at DH | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-yordan-alvarez-dh-role-22489982.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
+      "published": "2026-10-23T14:55:00+00:00",
+      "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-bullpen-review-free-agency-22491472.php"
     },
     {
       "category": "Astros",
@@ -51,24 +51,10 @@
     },
     {
       "category": "Astros",
-      "description": "The Astros have gone nearly two months without a general manager, but candidates for the job are beginning to emerge as the playoffs wind down.",
-      "published": "2026-10-20T15:42:00+00:00",
-      "title": "Milwaukee Brewers executive Matt Kleine emerging as candidate for Houston Astros' GM job",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-kleine-houston-gm-candidate-22486387.php"
-    },
-    {
-      "category": "Astros",
       "description": "The Astros' infield logjam was solved in unfortunate fashion last spring, but this offseason brings more intrigue when it comes to fitting in Carlos Correa and Isaac Paredes.",
       "published": "2026-10-18T03:59:00+00:00",
       "title": "More questions about Carlos Correa and Isaac Paredes at third base | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-correa-paredes-22478699.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Who will be the Houston Astros next manager? With Joe Espada fired, owner Jim Crane is on the hunt for a new skipper. These guys all would make sense.",
-      "published": "2026-10-14T08:29:00+00:00",
-      "title": "10 names that would make sense in Houston Astros’ manager search",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/next-manager-candidates-names-22463657.php"
     },
     {
       "category": "Astros",
@@ -79,13 +65,27 @@
     },
     {
       "category": "Astros",
+      "description": "The Astros have gone nearly two months without a general manager, but candidates for the job are beginning to emerge as the playoffs wind down.",
+      "published": "2026-10-20T15:42:00+00:00",
+      "title": "Milwaukee Brewers executive Matt Kleine emerging as candidate for Houston Astros' GM job",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-kleine-houston-gm-candidate-22486387.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Who will be the Houston Astros next manager? With Joe Espada fired, owner Jim Crane is on the hunt for a new skipper. These guys all would make sense.",
+      "published": "2026-10-14T08:29:00+00:00",
+      "title": "10 names that would make sense in Houston Astros’ manager search",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/next-manager-candidates-names-22463657.php"
+    },
+    {
+      "category": "Astros",
       "description": "Joe Esapada’s time as Astros manager is over after three seasons. Here’s a look back at key events during his tenure in Houston.",
       "published": "2026-10-14T08:20:00+00:00",
       "title": "Timeline: A look at key events during Joe Espada's tenure as Houston Astros manager",
       "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-timeline-houston-manager-22457312.php"
     }
   ],
-  "generated_at": "2026-10-28T00:09:28.958306+00:00",
+  "generated_at": "2026-10-28T05:45:40.057616+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

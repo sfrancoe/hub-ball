@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The Tampa Bay Rays won a tense Game 4 at Tropicana Field on Tuesday night. Can they make this a competitive series?",
+      "published": "2026-10-28T04:35:19+00:00",
+      "title": "Rays avoid a sweep with dramatic Game 4 win. Can this spark a Tampa Bay turnaround?",
+      "url": "https://www.nytimes.com/athletic/7731414/2026/10/28/rays-brewers-world-series-game-4-score-results-takeaways/"
+    },
+    {
+      "category": "Rays",
+      "description": "The Rays finally beat the Brewers at their own game. The World Series isn't over yet.",
+      "published": "2026-10-28T04:32:28+00:00",
+      "title": "Not so fast: Rays walk off Brewers in extras to keep World Series hopes alive",
+      "url": "https://www.nytimes.com/athletic/7731422/2026/10/28/brewers-rays-game-4-world-series-mlb-playoffs-walk-off/"
+    },
+    {
+      "category": "Rays",
       "description": "The audience total for Game 1 compared favorably with 2025, which featured the big-spending, mega-market Los Angeles Dodgers.",
       "published": "2026-10-27T21:53:24+00:00",
       "title": "World Series Game 1 draws 12.26 million viewers, defying low expectations",
@@ -125,23 +139,9 @@
       "published": "2026-10-23T15:31:43+00:00",
       "title": "Are fans interested in watching a Brewers-Rays World Series? Here's what you said",
       "url": "https://www.nytimes.com/athletic/7715569/2026/10/23/world-series-2026-rays-brewers-mlb-survey/"
-    },
-    {
-      "category": "Rays",
-      "description": "A first-time World Series winner will be crowned when the AL's best faces the NL's best. Here's how to tune in for all seven possible games.",
-      "published": "2026-10-23T11:00:41+00:00",
-      "title": "How to watch 2026 World Series: Full TV schedule for Tampa Bay Rays vs. Milwaukee Brewers",
-      "url": "https://www.nytimes.com/athletic/7714605/2026/10/23/world-series-schedule-streaming-rays-brewers/"
-    },
-    {
-      "category": "Rays",
-      "description": "Both teams apply the kind of pressure opponents rarely see. It’s a blueprint that works well on campus — and in late October.",
-      "published": "2026-10-23T10:11:29+00:00",
-      "title": "The Brewers and Rays took opponents to school — and college baseball fans are loving it",
-      "url": "https://www.nytimes.com/athletic/7715869/2026/10/23/brewers-rays-colllege-baseball-style-world-series/"
     }
   ],
-  "generated_at": "2026-10-28T00:09:25.171282+00:00",
+  "generated_at": "2026-10-28T05:45:36.945240+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }
