@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:31:39.902735+00:00",
+  "generated_at": "2026-10-28T16:15:09.438173+00:00",
   "roster_as_of": "October 19, 2026",
   "team": {
     "id": 114,
@@ -1186,8 +1186,8 @@
       }
     },
     {
-      "id": 1921827759,
-      "mlb_id": null,
+      "id": 691414,
+      "mlb_id": 691414,
       "wikidata_id": "Q139736385",
       "slug": "yorman-gomez",
       "name": "Yorman Gómez",
@@ -1655,7 +1655,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-10-28",
-      "age": 24,
+      "age": 25,
       "birthplace": "Boca Raton, Florida, U.S.",
       "height": null,
       "weight": null,
