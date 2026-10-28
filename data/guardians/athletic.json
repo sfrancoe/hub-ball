@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "\"There was a belief that we were just going to do it,\" manager Stephen Vogt said of Cleveland's quest to win the World Series.",
-      "published": "2026-10-23T02:30:00+00:00",
-      "title": "Guardians end-of-season takeaways: ‘This group, it felt different’",
-      "url": "https://www.nytimes.com/athletic/7715795/2026/10/23/guardians-end-of-season-takeaways/"
-    },
-    {
-      "category": "Guardians",
       "description": "Cleveland is right back where it was in the Division Series, needing two wins in two games with no room for slippage.",
       "published": "2026-10-19T03:04:00+00:00",
       "title": "The Cleveland Guardians are running out of arms … and time",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Guardians",
-      "description": "Really felt like we had a team to go,” Cleveland manager Stephen Vogt said, “and (we) just weren't able to get there.” ...",
-      "published": "2026-10-20T03:14:00+00:00",
-      "title": "For the Guardians, a still-elusive World Series and a frustratingly familiar refrain",
-      "url": "https://www.nytimes.com/athletic/7703367/2026/10/20/guardians-game-6-alcs-loss-mlb-playoffs/"
+      "description": "\"There was a belief that we were just going to do it,\" manager Stephen Vogt said of Cleveland's quest to win the World Series.",
+      "published": "2026-10-23T02:30:00+00:00",
+      "title": "Guardians end-of-season takeaways: ‘This group, it felt different’",
+      "url": "https://www.nytimes.com/athletic/7715795/2026/10/23/guardians-end-of-season-takeaways/"
     },
     {
       "category": "Guardians",
@@ -27,6 +20,13 @@
       "published": "2026-10-14T17:00:00+00:00",
       "title": "The Guardians aren’t the best team in baseball, but they might be the hardest to beat",
       "url": "https://www.nytimes.com/athletic/7694497/2026/10/15/cleveland-guardians-alcs-petey-halpin-toughest-team/"
+    },
+    {
+      "category": "Guardians",
+      "description": "Really felt like we had a team to go,” Cleveland manager Stephen Vogt said, “and (we) just weren't able to get there.” ...",
+      "published": "2026-10-20T03:14:00+00:00",
+      "title": "For the Guardians, a still-elusive World Series and a frustratingly familiar refrain",
+      "url": "https://www.nytimes.com/athletic/7703367/2026/10/20/guardians-game-6-alcs-loss-mlb-playoffs/"
     },
     {
       "category": "Guardians",
@@ -78,7 +78,7 @@
       "url": "https://www.nytimes.com/athletic/live-blogs/rays-vs-guardians-live-updates-mlb-playoffs-game-3-score-result/n2xcBsufwYxd/"
     }
   ],
-  "generated_at": "2026-10-27T20:51:04.455346+00:00",
+  "generated_at": "2026-10-28T00:09:27.349961+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

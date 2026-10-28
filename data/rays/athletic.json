@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The audience total for Game 1 compared favorably with 2025, which featured the big-spending, mega-market Los Angeles Dodgers.",
+      "published": "2026-10-27T21:53:24+00:00",
+      "title": "World Series Game 1 draws 12.26 million viewers, defying low expectations",
+      "url": "https://www.nytimes.com/athletic/7729570/2026/10/27/world-series-tv-ratings-fox-2026-brewers-rays/"
+    },
+    {
+      "category": "Rays",
       "description": "Seven straight two-out hits! … Eight straight two-out runs! And to think it all happened after replay overturned an inning-ending out.",
       "published": "2026-10-27T10:44:05+00:00",
       "title": "Brewers' 8-run explosion was an inning unlike any other in World Series history",
@@ -132,16 +139,9 @@
       "published": "2026-10-23T10:11:29+00:00",
       "title": "The Brewers and Rays took opponents to school — and college baseball fans are loving it",
       "url": "https://www.nytimes.com/athletic/7715869/2026/10/23/brewers-rays-colllege-baseball-style-world-series/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Brewers and Rays have plenty in common. Even their road hotels — the Pfister in Milwaukee and the Vinoy in St. Petersburg — are haunted.",
-      "published": "2026-10-23T09:30:23+00:00",
-      "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
-      "url": "https://www.nytimes.com/athletic/7715640/2026/10/23/world-series-milwaukee-brewers-tampa-bay-rays-haunted-hotels/"
     }
   ],
-  "generated_at": "2026-10-27T11:02:02.320309+00:00",
+  "generated_at": "2026-10-28T00:09:25.171282+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }
