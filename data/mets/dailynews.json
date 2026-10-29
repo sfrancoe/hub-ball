@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "When the World Series concludes, the Mets can start to get a move on in...",
+      "published": "2026-10-28T22:16:00+00:00",
+      "title": "Key dates & storylines as Mets approach offseason",
+      "url": "https://www.nydailynews.com/2026/10/28/mets-offseason-storylines-world-series/"
+    },
+    {
+      "category": "Mets",
       "description": "Philanthropy has always been a core tenet of who Lindor is, something instilled in him...",
       "published": "2026-10-26T17:49:44+00:00",
       "title": "Mets Francisco Lindor wins Roberto Clemente Award",
@@ -132,16 +139,9 @@
       "published": "2026-09-23T02:21:46+00:00",
       "title": "Players react to Andy Green becoming Mets manager: ‘I think it’s a wise decision’",
       "url": "https://www.nydailynews.com/2026/09/22/mets-react-to-andy-green-manager/"
-    },
-    {
-      "category": "Mets",
-      "description": "Green took over for former manager Carlos Mendoza on June 26.",
-      "published": "2026-09-23T00:29:11+00:00",
-      "title": "Mets remove interim tag off Andy Green, sign manager for 3 years",
-      "url": "https://www.nydailynews.com/2026/09/22/mets-remove-interim-tag-off-andy-green-sign-manager-for-3-years/"
     }
   ],
-  "generated_at": "2026-10-26T21:35:36.024195+00:00",
+  "generated_at": "2026-10-29T01:19:46.781082+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

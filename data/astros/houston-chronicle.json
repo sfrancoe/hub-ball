@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "Jason Bell, who spent 10 seasons with the Astros in various roles, is leaving the organization despite being among the holdovers following a coaching staff shakeup.",
-      "published": "2026-10-28T12:06:00+00:00",
-      "title": "Houston Astros coach Jason Bell departing for role with Boston Red Sox",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/jason-bell-leaving-red-sox-22498795.php"
-    },
-    {
-      "category": "Astros",
       "description": "Houston's 23-year-old right fielder hit 21 homers and earned a Gold Glove finalist nod, but his .210 average points to room for growth.",
       "published": "2026-10-22T04:00:00+00:00",
       "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-cam-smith-right-field-22486972.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Jason Bell, who spent 10 seasons with the Astros in various roles, is leaving the organization despite being among the holdovers following a coaching staff shakeup.",
+      "published": "2026-10-28T12:06:00+00:00",
+      "title": "Houston Astros coach Jason Bell departing for role with Boston Red Sox",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/jason-bell-leaving-red-sox-22498795.php"
     },
     {
       "category": "Astros",
@@ -30,13 +30,6 @@
     },
     {
       "category": "Astros",
-      "description": "Houston went through a rotating cast of center fielders in 2026, with nobody seizing the position. Will the Astros be able to find options internally or in free agency to provide stability?",
-      "published": "2026-10-21T03:59:00+00:00",
-      "title": "Can stability be found in center field after 2026 revolving door? | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php"
-    },
-    {
-      "category": "Astros",
       "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
       "published": "2026-10-23T14:55:00+00:00",
       "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
@@ -48,6 +41,13 @@
       "published": "2026-10-20T04:00:00+00:00",
       "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-left-field-yordan-alvarez-22483382.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Houston went through a rotating cast of center fielders in 2026, with nobody seizing the position. Will the Astros be able to find options internally or in free agency to provide stability?",
+      "published": "2026-10-21T03:59:00+00:00",
+      "title": "Can stability be found in center field after 2026 revolving door? | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php"
     },
     {
       "category": "Astros",
@@ -78,7 +78,7 @@
       "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-farewell-houston-22479511.php"
     }
   ],
-  "generated_at": "2026-10-28T21:48:36.577762+00:00",
+  "generated_at": "2026-10-29T01:22:12.727561+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

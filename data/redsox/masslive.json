@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "A week after creating two vacancies on their major league coaching staff, the Red Sox have added an outfield coach from outside the organization.",
+      "published": "2026-10-28T21:48:54+00:00",
+      "title": "Red Sox hire ex-Astros coach to work with outfielders",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-add-new-coach-to-big-league-staff-ex-astros-staffer-will-work-with-outfielders.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "As soon as the World Series ends, the Red Sox have some cuts to make. There are few easy decisions on the back end of their 40-man roster.",
       "published": "2026-10-28T12:25:56+00:00",
       "title": "Red Sox cuts coming — but few easy choices on the roster",
@@ -106,7 +113,7 @@
       "url": "https://www.masslive.com/redsox/2026/10/how-ex-red-sox-players-in-world-series-for-rays-brewers-are-doing-this-season.html"
     }
   ],
-  "generated_at": "2026-10-28T21:48:19.898842+00:00",
+  "generated_at": "2026-10-29T01:18:34.188197+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

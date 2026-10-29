@@ -141,8 +141,8 @@
       "url": "https://www.miamiherald.com/sports/mlb/miami-marlins/"
     },
     "mets/athletic": {
-      "last_error": "",
-      "streak": 0,
+      "last_error": "Could not fetch https://www.nytimes.com/athletic/rss/mlb/mets/: HTTP Error 504: Gateway Timeout",
+      "streak": 1,
       "url": "https://www.nytimes.com/athletic/mlb/team/mets/"
     },
     "mets/dailynews": {
@@ -216,8 +216,8 @@
       "url": "https://www.dallasnews.com/sports/rangers/"
     },
     "rays/athletic": {
-      "last_error": "",
-      "streak": 0,
+      "last_error": "Could not fetch https://www.nytimes.com/athletic/rss/mlb/rays/: HTTP Error 504: Gateway Timeout",
+      "streak": 1,
       "url": "https://www.nytimes.com/athletic/mlb/team/rays/"
     },
     "rays/tampabay": {
@@ -236,8 +236,8 @@
       "url": "https://www.cincinnati.com/sports/reds/"
     },
     "redsox/athletic": {
-      "last_error": "",
-      "streak": 0,
+      "last_error": "Could not fetch https://www.nytimes.com/athletic/rss/mlb/redsox/: HTTP Error 504: Gateway Timeout",
+      "streak": 1,
       "url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
     },
     "redsox/globe": {
@@ -306,8 +306,8 @@
       "url": "https://www.chicagotribune.com/sports/white-sox/"
     },
     "yankees/athletic": {
-      "last_error": "",
-      "streak": 0,
+      "last_error": "Could not fetch https://www.nytimes.com/athletic/rss/mlb/yankees/: HTTP Error 504: Gateway Timeout",
+      "streak": 1,
       "url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
     },
     "yankees/dailynews": {
