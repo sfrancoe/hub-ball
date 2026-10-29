@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Red Sox third baseman Caleb Durbin underwent right foot surgery Thursday, his second medical procedure of the offseason.",
+      "published": "2026-10-29T22:31:52+00:00",
+      "title": "Red Sox infielder undergoes foot surgery after already having finger surgery",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-infielder-undergoes-foot-surgery-after-already-having-finger-surgery.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "On Thursday, the first day of baseball’s offseason, two Red Sox officially became free agents. They’ll be joined by another (now-former) teammate soon.",
       "published": "2026-10-29T18:31:16+00:00",
       "title": "Kiner-Falefa, Sandoval among Red Sox heading to free agency",
@@ -104,16 +111,9 @@
       "published": "2026-10-23T13:18:52+00:00",
       "title": "State of the Sox: The Red Sox must decide the fates of 17 arbitration-eligible players — and some of those calls are far from easy",
       "url": "https://www.masslive.com/redsox/2026/10/state-of-the-sox-some-decisions-coming-on-arbitration-eligibles.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "In honor of the Brewers' World Series run, Matt Vautour's Top 5 this week features the other teams deserving of a championship.",
-      "published": "2026-10-23T10:00:01+00:00",
-      "title": "With Brewers in World Series, who are Top 5 (non-Boston) teams it’d be fun to see win a championship?",
-      "url": "https://www.masslive.com/redsox/2026/10/with-brewers-in-world-series-who-are-top-5-non-boston-teams-that-deserve-to-win-a-fun-championship.html"
     }
   ],
-  "generated_at": "2026-10-29T19:44:13.052590+00:00",
+  "generated_at": "2026-10-29T23:37:22.949127+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

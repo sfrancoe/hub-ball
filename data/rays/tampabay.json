@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "There were some notable differences in how the teams played and pitched, and they mattered a lot.",
+      "published": "2026-10-29T22:44:28+00:00",
+      "title": "5 reasons Rays were watching and Brewers were celebrating Series win",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/29/world-series-defeat-milwaukee-brewers/"
+    },
+    {
+      "category": "Rays",
       "description": "A Dominican appeals court upholds the second guilty verdict and gives the Rays shortstop a 3-year suspended sentence, which is similar to probation.",
       "published": "2026-10-29T15:50:44+00:00",
       "title": "Wander Franco loses appeal, suspended sentence added to guilty verdict",
@@ -97,16 +104,9 @@
       "published": "2026-10-27T11:00:00+00:00",
       "title": "Rays, Brewers are similar, yet their cities are so different",
       "url": "https://www.tampabay.com/sports/rays/2026/10/27/world-series-milwaukee-tampa-bay-city-comparisons/"
-    },
-    {
-      "category": "Rays",
-      "description": "Milwaukee scores eight runs in the fifth, the most with two outs in a single inning in World Series history.",
-      "published": "2026-10-27T05:16:35+00:00",
-      "title": "Brewers have shot at sweep, 1st World Series title after rout of Rays",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/27/brewers-have-shot-sweep-1st-world-series-title-after-rout-rays/"
     }
   ],
-  "generated_at": "2026-10-29T19:44:22.292213+00:00",
+  "generated_at": "2026-10-29T23:37:29.857417+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

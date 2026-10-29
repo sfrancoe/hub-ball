@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "A few weeks after having surgery on his injured pinky finger, Caleb Durbin has undergone a second procedure to correct an unrelated foot issue.",
+      "published": "2026-10-29T22:36:36Z",
+      "title": "Red Sox infielder has second offseason surgery, this time on right foot",
+      "url": "https://www.bostonherald.com/2026/10/29/red-sox-infielder-has-second-offseason-surgery-this-time-on-right-foot/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox made their first move of the offseason on Thursday, trading an outfielder to the Athletics.",
       "published": "2026-10-29T18:05:48Z",
       "title": "Red Sox trade outfielder to Athletics in first deal of offseason",
@@ -104,16 +111,9 @@
       "published": "2026-10-16T09:15:53Z",
       "title": "Red Sox Report Cards: Improved infield defense at last, but not enough bats",
       "url": "https://www.bostonherald.com/2026/10/16/red-sox-report-cards-infield-willson-contreras-caleb-durbin-trevor-story-adley-rutschman-curtis-mead-mlb/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Boston had the best bullpen in Major League Baseball this season. Here’s how Red Sox relievers graded out.",
-      "published": "2026-10-15T09:30:40Z",
-      "title": "Red Sox Report Cards: Grading best bullpen in baseball",
-      "url": "https://www.bostonherald.com/2026/10/15/red-sox-report-cards-best-bullpen-mlb-aroldis-chapman-garrett-whitlock-tyron-guerrero-justin-slaten-brayan-bello/"
     }
   ],
-  "generated_at": "2026-10-29T19:44:11.728221+00:00",
+  "generated_at": "2026-10-29T23:37:21.494666+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

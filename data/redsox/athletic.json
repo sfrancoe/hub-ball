@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Eaton hit .160 in 24 games for the Red Sox in 2026. Boston gets 18-year-old minor-league right-hander Jareth Rayo in return.",
+      "published": "2026-10-29T20:02:37+00:00",
+      "title": "In first trade of MLB offseason, Red Sox deal Nate Eaton to Athletics",
+      "url": "https://www.nytimes.com/athletic/7736443/2026/10/29/nate-eaton-red-sox-athletics-trade/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Will MLB lose games in 2027? How far apart are the league and the union? And what are they actually fighting over?",
       "published": "2026-10-29T09:37:41+00:00",
       "title": "Your guide to MLB's coming lockout: Why it's happening, whether games will be lost, and when baseball will be back",
@@ -104,16 +111,9 @@
       "published": "2026-10-08T11:00:07+00:00",
       "title": "Five years since last Red Sox playoff series win, a lack of power defines recent losses",
       "url": "https://www.nytimes.com/athletic/7669133/2026/10/08/red-sox-playoff-disappointment-lack-power/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Tracy, who brought order to clubhouse chaos after the dismissal of Alex Cora, could use a dose of cachet after Boston's quick playoff exit.",
-      "published": "2026-10-08T10:00:18+00:00",
-      "title": "Red Sox manager Chad Tracy's next challenge: Keeping trust in the clubhouse",
-      "url": "https://www.nytimes.com/athletic/7669470/2026/10/08/chad-tracy-red-sox-manager-playoffs/"
     }
   ],
-  "generated_at": "2026-10-29T14:23:31.688373+00:00",
+  "generated_at": "2026-10-29T23:37:21.926002+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

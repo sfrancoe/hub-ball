@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Bichette started slow in his first season with the Mets in 2026 but ultimately produced closer to his career numbers.",
+      "published": "2026-10-29T22:47:36+00:00",
+      "title": "Bo Bichette to exercise $42 million player option to stay with Mets: Sources",
+      "url": "https://www.nytimes.com/athletic/7736936/2026/10/29/bo-bichette-player-option-mets/"
+    },
+    {
+      "category": "Mets",
       "description": "Mallee has worked closely with Pete Crow-Armstrong during his time as the Cubs’ assistant hitting coach.",
       "published": "2026-10-28T21:43:13+00:00",
       "title": "Cubs to retain John Mallee, a key hitting coach for PCA, after Mets’ interest: Sources",
@@ -132,16 +139,9 @@
       "published": "2026-09-23T09:30:15+00:00",
       "title": "How can Andy Green's Mets be better next year? It starts by dominating the details",
       "url": "https://www.nytimes.com/athletic/7622082/2026/09/23/mets-andy-green-2027-season-outlook/"
-    },
-    {
-      "category": "Mets",
-      "description": "Much of Scherzer's career lately has been scratching and clawing amid various injuries and a clock that won't slow down.",
-      "published": "2026-09-23T09:27:42+00:00",
-      "title": "Max Scherzer’s done it all at 42. So why is the future Hall of Famer still pitching?",
-      "url": "https://www.nytimes.com/athletic/7620363/2026/09/23/max-scherzer-stats-career-nationals-tigers-mets-blue-jays/"
     }
   ],
-  "generated_at": "2026-10-28T21:48:32.097499+00:00",
+  "generated_at": "2026-10-29T23:37:29.350476+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }
