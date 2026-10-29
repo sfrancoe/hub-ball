@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "This isn’t about what Pat Murphy said to Jake Bauers when it was over on...",
+      "published": "2026-10-29T16:16:40+00:00",
+      "title": "Mike Lupica: Yankees may not like Pat Murphy’s tough talk, but Brewers culture won",
+      "url": "https://www.nydailynews.com/2026/10/29/mike-lupica-yankees-brewers-pat-murphy-jake-bauers-world-series/"
+    },
+    {
+      "category": "Yankees",
       "description": "With the World Series over and the baseball world bracing for a lockout, an offseason...",
       "published": "2026-10-29T14:06:33+00:00",
       "title": "Yankees 2026-2027 offseason primer: Important dates, free agents, needs and more",
@@ -132,16 +139,9 @@
       "published": "2026-10-15T14:18:34+00:00",
       "title": "Yankees faced with big Giancarlo Stanton question after another injury-riddled year",
       "url": "https://www.nydailynews.com/2026/10/15/yankees-faced-with-big-giancarlo-stanton-question-after-another-injury-riddled-year/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Don Mattingly isn’t going anywhere, as the Phillies named the Yankees great their full-time manager.",
-      "published": "2026-10-14T14:43:07+00:00",
-      "title": "Phillies name Don Mattingly their full-time manager, reach contract through 2028",
-      "url": "https://www.nydailynews.com/2026/10/14/phillies-don-mattingly-manager-yankees-mlb/"
     }
   ],
-  "generated_at": "2026-10-29T14:23:33.090233+00:00",
+  "generated_at": "2026-10-29T19:44:13.439123+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

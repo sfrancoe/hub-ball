@@ -2,6 +2,34 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "On Thursday, the first day of baseball’s offseason, two Red Sox officially became free agents. They’ll be joined by another (now-former) teammate soon.",
+      "published": "2026-10-29T18:31:16+00:00",
+      "title": "Kiner-Falefa, Sandoval among Red Sox heading to free agency",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-free-agents-two-veterans-hit-open-market-and-a-third-will-join-them-soon.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Red Sox have made a trade.",
+      "published": "2026-10-29T18:02:35+00:00",
+      "title": "Red Sox trade outfielder Nate Eaton to the Athletics",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-make-first-trade-of-offseason-ship-speedy-outfielder-to-as.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Red Sox have to decide on two option decisions on key pitchers in the coming days. Both represent easy calls.",
+      "published": "2026-10-29T17:03:01+00:00",
+      "title": "Red Sox decisions on Sonny Gray, Garrett Whitlock due soon — and there's not much suspense",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-offseason-will-start-with-two-option-decisions-on-key-pitchers-and-theyre-both-no-brainers.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "MassLive’s Fenway Insider Chris Cotillo filled in in for Sean McAdam and host a mailbag Thursday, Oct. 29 to highlight the latest news from the Boston Red Sox.",
+      "published": "2026-10-29T15:00:00+00:00",
+      "title": "Fenway Insider Live: Chris Cotillo on Jarren Duran, Adley Rutschman and more",
+      "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-live-chris-cotillo-on-jarren-duran-adley-rutschman-and-more.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "A week after creating two vacancies on their major league coaching staff, the Red Sox have added an outfield coach from outside the organization.",
       "published": "2026-10-28T21:48:54+00:00",
       "title": "Red Sox hire ex-Astros coach to work with outfielders",
@@ -83,30 +111,9 @@
       "published": "2026-10-23T10:00:01+00:00",
       "title": "With Brewers in World Series, who are Top 5 (non-Boston) teams it’d be fun to see win a championship?",
       "url": "https://www.masslive.com/redsox/2026/10/with-brewers-in-world-series-who-are-top-5-non-boston-teams-that-deserve-to-win-a-fun-championship.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Fraser Minten, James Hagens and Matt Poitras have each started strong for the surprising Bruins.",
-      "published": "2026-10-23T09:00:00+00:00",
-      "title": "Matt Vautour: Bruins’ bet on ‘internal improvement’ is working so far",
-      "url": "https://www.masslive.com/bruins/2026/10/bruins-bet-on-internal-improvement-is-working-so-far.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The World Series hasn’t even started yet, but that’s not stopping the Red Sox from beginning to accumulate depth heading into 2027. They've reached agreement on a minor league deal with a veteran catcher.",
-      "published": "2026-10-22T20:38:57+00:00",
-      "title": "Red Sox sign veteran catcher Riley Adams to minor league deal",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-sign-first-free-agent-of-winter-inking-ex-nationals-catcher-to-minor-league-deal.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "MassLive’s Fenway Insider Sean McAdam hosted a mailbag Thursday, Oct. 22 to highlight the latest news from the Boston Red Sox.",
-      "published": "2026-10-22T15:00:00+00:00",
-      "title": "Fenway Insider Live: Sean McAdam on Jarren Duran, potential 2027 lockout and more",
-      "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-live-sean-mcadam-on-jarren-duran-potential-2027-lockout-and-more.html"
     }
   ],
-  "generated_at": "2026-10-29T14:23:32.830228+00:00",
+  "generated_at": "2026-10-29T19:44:13.052590+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

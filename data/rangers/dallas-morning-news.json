@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rangers",
+      "description": "With holes to fill on the roster, Texas appears ready to wait out labor negotiations before trying to fix them.",
+      "published": "2026-10-29T08:02:00+00:00",
+      "title": "As MLB starts its offseason, the Rangers appear to have picked a dangerous path forward",
+      "url": "https://www.dallasnews.com/sports/rangers/article/mlb-starts-offseason-rangers-appear-pick-22496372.php"
+    },
+    {
+      "category": "Rangers",
       "description": "That leaves the Rangers roughly $20 million shy of the projected payroll they operated at this season (per FanGraphs, their estimated payroll was $188 million, and per Spotrac, it ...",
       "published": "2026-10-28T04:00:00+00:00",
       "title": "Texas Rangers payroll breakdown: Expiring free agents, arbitration-eligible players and more",
@@ -37,17 +44,17 @@
     },
     {
       "category": "Rangers",
-      "description": "The Tampa Bay Rays and Milwaukee Brewers — two teams with slight budgets who prioritize analytics and strategic offensive approaches — will play for a World Series.",
-      "published": "2026-10-22T04:00:00+00:00",
-      "title": "Three things the Rangers can learn from Brewers, Rays to get back to World Series",
-      "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-brewers-rays-world-series-22487617.php"
-    },
-    {
-      "category": "Rangers",
       "description": "Garver played a crucial role as a catcher/designated hitter for Texas during the club's run to its first championship.",
       "published": "2026-10-22T13:52:00+00:00",
       "title": "Mitch Garver, former Ranger and key part of 2023 World Series team, announces retirement",
       "url": "https://www.dallasnews.com/sports/rangers/article/mitch-garver-texas-rangers-world-series-retirement-22488392.php"
+    },
+    {
+      "category": "Rangers",
+      "description": "The Tampa Bay Rays and Milwaukee Brewers — two teams with slight budgets who prioritize analytics and strategic offensive approaches — will play for a World Series.",
+      "published": "2026-10-22T04:00:00+00:00",
+      "title": "Three things the Rangers can learn from Brewers, Rays to get back to World Series",
+      "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-brewers-rays-world-series-22487617.php"
     },
     {
       "category": "Rangers",
@@ -57,7 +64,7 @@
       "url": "https://www.dallasnews.com/sports/rangers/article/vincent-hood-rangers-rbi-academy-world-series-22489309.php"
     }
   ],
-  "generated_at": "2026-10-29T14:23:48.683851+00:00",
+  "generated_at": "2026-10-29T19:44:29.713959+00:00",
   "source": "Dallas Morning News",
   "source_url": "https://www.dallasnews.com/sports/rangers/"
 }

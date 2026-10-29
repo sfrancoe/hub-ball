@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "The Mariners have declined 2027 contract options for starting pitcher Bryce Miller and outfielder Victor Robles, the club announced Thursday.",
+      "published": "2026-10-29T05:15:00+00:00",
+      "title": "Mariners decline Bryce Miller’s option for 2027; here’s what that means",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-decline-bryce-millers-option-for-2027-heres-what-that-means/"
+    },
+    {
+      "category": "Mariners",
       "description": "Rick Rizzs, the recently retired Mariners broadcasting legend, now has a road in Issaquah that bears his name.",
       "published": "2026-10-28T05:36:00+00:00",
       "title": "Rick Rizzs, recently retired Mariners broadcaster, gets an Issaquah road named after him",
@@ -41,16 +48,9 @@
       "published": "2026-10-22T09:40:00+00:00",
       "title": "Cleveland manager Stephen Vogt shoots down rumors of link to Mariners’ opening",
       "url": "https://www.seattletimes.com/sports/mariners/cleveland-manager-stephen-vogt-shoots-down-rumors-of-link-to-mariners-opening/"
-    },
-    {
-      "category": "Mariners",
-      "description": "The World Series is here, which means the Hot Stove season is drawing near. Here are three moves the Mariners need to consider this offseason before a likely lockout.",
-      "published": "2026-10-23T23:00:00+00:00",
-      "title": "What moves the Mariners need to make as offseason sprint gets close",
-      "url": "https://www.seattletimes.com/sports/mariners/what-moves-the-mariners-need-to-make-as-offseason-sprint-gets-close/"
     }
   ],
-  "generated_at": "2026-10-29T14:23:48.248141+00:00",
+  "generated_at": "2026-10-29T19:44:29.212448+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

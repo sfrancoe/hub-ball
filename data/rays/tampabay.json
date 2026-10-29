@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "A Dominican appeals court upholds the second guilty verdict and gives the Rays shortstop a 3-year suspended sentence, which is similar to probation.",
+      "published": "2026-10-29T15:50:44+00:00",
+      "title": "Wander Franco loses appeal, suspended sentence added to guilty verdict",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/29/wander-franco-appeal-dominican-republic-court/"
+    },
+    {
+      "category": "Rays",
       "description": "The two-time All-Star, who also pitched Game 2 Saturday, gives the Rays four formidable innings.",
       "published": "2026-10-29T05:29:02+00:00",
       "title": "Drew Rasmussen strong on short rest, but Rays can’t extend World Series",
@@ -97,16 +104,9 @@
       "published": "2026-10-27T05:16:35+00:00",
       "title": "Brewers have shot at sweep, 1st World Series title after rout of Rays",
       "url": "https://www.tampabay.com/sports/rays/2026/10/27/brewers-have-shot-sweep-1st-world-series-title-after-rout-rays/"
-    },
-    {
-      "category": "Rays",
-      "description": "Three pitchers combine to allow eight Brewers runs in the fifth inning, and the Rays manage only three hits in the game.",
-      "published": "2026-10-27T03:26:04+00:00",
-      "title": "Rays on brink of World Series elimination after brutal showing in Game 3",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/26/milwaukee-brewers-world-series-game-3-robert-gasser-freddy-peralta-yandy-diaz-jackson-chourio/"
     }
   ],
-  "generated_at": "2026-10-29T07:12:59.929588+00:00",
+  "generated_at": "2026-10-29T19:44:22.292213+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

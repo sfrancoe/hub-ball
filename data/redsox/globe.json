@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "Red Sox",
+      "description": "They received minor league pitcher Jareth Rayo in exchange.",
+      "published": "2026-10-29T19:07:41.467Z",
+      "title": "Red Sox kick off baseball’s offseason by trading utilityman Nate Eaton to the Athletics",
+      "url": "https://www.bostonglobe.com/2026/10/29/sports/nate-eaton-red-sox-athletics/"
+    },
+    {
+      "category": "red sox",
+      "description": "The offseason comes with a de facto transaction deadline of Dec. 1, when MLB owners are expected to impose a lockout until there is a new collective bargaining agreement.",
+      "published": "2026-10-29T14:27:17.059Z",
+      "title": "With MLB season complete, here are the key dates to know for the Red Sox’ offseason",
+      "url": "https://www.bostonglobe.com/2026/10/29/sports/red-sox-offseason-free-agents-arbitration/"
+    },
+    {
       "category": "world series",
       "description": "The Red Sox' first baseman was critical of his team at the end of the season, but said Wednesday he \"feels good\" about where things stand after a meeting with leadership.",
       "published": "2026-10-29T12:17:36.4Z",
@@ -97,23 +111,9 @@
       "published": "2026-10-26T21:12:39.388Z",
       "title": "‘I feel like myself again’: David Hamilton embracing his time as a Brewer after being traded back from the Red Sox",
       "url": "https://www.bostonglobe.com/2026/10/25/sports/david-hamilton-milwaukee-brewers/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Athletics hired Red Sox assistant general manager Taylor Smith to be their new president of baseball operations.",
-      "published": "2026-10-26T14:37:59.214Z",
-      "title": "Another executive hired away shows how highly MLB industry regards the Red Sox, and other thoughts",
-      "url": "https://www.bostonglobe.com/2026/10/26/sports/red-sox-executives/"
-    },
-    {
-      "category": "BASEBALL",
-      "description": "The two teams in the World Series are bucking the industry norms of hitting techniques to great success. \"It’s the purity of the game,\" one coach said.",
-      "published": "2026-10-26T07:00:00Z",
-      "title": "The Brewers and Rays don’t buy into air pull. It’s working.",
-      "url": "https://www.bostonglobe.com/2026/10/26/sports/brewers-rays-hitting-driveline/"
     }
   ],
-  "generated_at": "2026-10-29T14:23:30.597082+00:00",
+  "generated_at": "2026-10-29T19:44:11.169050+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

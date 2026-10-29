@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox made their first move of the offseason on Thursday, trading an outfielder to the Athletics.",
+      "published": "2026-10-29T18:05:48Z",
+      "title": "Red Sox trade outfielder to Athletics in first deal of offseason",
+      "url": "https://www.bostonherald.com/2026/10/29/source-red-sox-trade-outfielder-to-athletics-in-first-deal-of-offseason/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Though the 2026 Red Sox season ended nearly a month ago, the Major League Baseball offseason is only just beginning, and it’s expected to be a chaotic one. The league is almost certainly set to lock out the players when their Collective Bargaining Agreement expires Dec. 1 at 11:59 p.m. ET, as they did for […]",
       "published": "2026-10-28T23:26:27Z",
       "title": "Awards, deadlines and the lockout: Key MLB offseason dates to know",
@@ -104,16 +111,9 @@
       "published": "2026-10-15T09:30:40Z",
       "title": "Red Sox Report Cards: Grading best bullpen in baseball",
       "url": "https://www.bostonherald.com/2026/10/15/red-sox-report-cards-best-bullpen-mlb-aroldis-chapman-garrett-whitlock-tyron-guerrero-justin-slaten-brayan-bello/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Three Red Sox players have been named finalists for the 2026 Gold Glove Awards.",
-      "published": "2026-10-14T19:58:33Z",
-      "title": "Three Red Sox players named Gold Glove finalists",
-      "url": "https://www.bostonherald.com/2026/10/14/three-red-sox-players-named-gold-glove-finalists/"
     }
   ],
-  "generated_at": "2026-10-29T01:17:24.536103+00:00",
+  "generated_at": "2026-10-29T19:44:11.728221+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
