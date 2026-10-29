@@ -1,13 +1,133 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-29T01:02:41.195387+00:00",
+  "generatedAt": "2026-10-29T07:13:59.535012+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Sal Frelick knew the Brewers had something special. Now they’re World Series champions.",
+      "description": "Frelick grew up in Lexington rooting for the Red Sox and had firsthand knowledge that the right group of players can change history.",
+      "url": "https://www.bostonglobe.com/2026/10/28/sports/world-series-brewers-first-championship/",
+      "published": "2026-10-29T06:56:31.930000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Drew Rasmussen strong on short rest, but Rays can’t extend World Series",
+      "description": "The two-time All-Star, who also pitched Game 2 Saturday, gives the Rays four formidable innings.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/29/drew-rasmussen-world-series-game-5-rotation/",
+      "published": "2026-10-29T05:29:02.749000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Brewers catcher William Contreras named World Series MVP",
+      "description": "It took five games, but the Brewers were able to complete an October for the ages by beating the Rays. Contreras played a major role.",
+      "url": "https://www.nytimes.com/athletic/7731241/2026/10/28/william-contreras-world-series-mvp-brewers/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Another soft night for the Rays’ Big 3 means a quiet World Series exit",
+      "description": "Pitch count | Yandy Diaz, Jonathan Aranda and Junior Caminero produced little pop in Tampa Bay’s Game 5 loss to the Brewers.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/28/yandy-diaz-junior-caminero-jonathan-aranda-world-series/",
+      "published": "2026-10-29T03:36:25.350000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays’ season comes to disappointing end with World Series loss to Brewers",
+      "description": "The hoped-for momentum from Tuesday’s walkoff win doesn’t materialize, and a successful season comes to a quiet end.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/28/milwaukee-brewers-win-world-series-game-5-jacob-misiorowski-drew-rasmussen-cooper-pratt/",
+      "published": "2026-10-29T03:28:39.369000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "The 2027 Way-Too-Early MLB Power Rankings: Where does your team stand now?",
+      "description": "In way-too-early fashion, we ranked all 30 teams based on how they stack up once free agents are removed from rosters. So who's on top? Duh.",
+      "url": "https://www.nytimes.com/athletic/7729846/2026/10/28/early-2027-mlb-offseason-power-rankings-brewers-dodgers-yankees/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "2027 World Series odds: Dodgers favored ahead of Brewers, Yankees, Red Sox",
+      "description": "The Dodgers are the 2027 World Series favorites, ahead of the newly crowned Brewers.",
+      "url": "https://www.nytimes.com/athletic/7730335/2026/10/28/2027-world-series-odds-dodgers-brewers-yankees-red-sox/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Four big questions after the Brewers' World Series win",
+      "description": "The Brewers finished off the Rays with a Game 5 victory at Tropicana Field, where their fans gathered for the vacation of a lifetime.",
+      "url": "https://www.nytimes.com/athletic/7728566/2026/10/28/brewers-rays-world-series-game-5-results-score-takeaways/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Win tonight. Win it all. How the Brewers built their first World Series champion",
+      "description": "The Brewers didn't land Tarik Skubal. They funneled that trade deadline disappointment into a belief they could win it all anyway.",
+      "url": "https://www.nytimes.com/athletic/7734247/2026/10/28/rays-brewers-game-5-world-series-2026-mlb-how-brewers-built/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Rays owner turns to a good luck charm for a comeback — Kevin Millar",
+      "description": "A key player in the Red Sox’s historic 2004 rally from a 3-0 playoff deficit spent part of Tuesday’s game in new friend Patrick Zalupski’s suite.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/28/patrick-zalupski-world-series-brewers-kevin-millar-red-sox-yankees-2004-alcs/",
+      "published": "2026-10-29T01:27:45.282000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Yankees should repair relationship with icon — for multiple reasons",
       "description": "",
@@ -33,6 +153,30 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Brewers fans, media praise Contreras for winning World Series MVP",
+      "description": "Uecker won a World Series with the 1964 St. Louis Cardinals as a reserve catcher. So there's no doubt he would have been pleased with the baseball media selecting Brewers catcher William Contreras as ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/29/william-contreras-praise-world-series-mvp/92490005007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers principal owner Mark Attanasio finally has his World Series title",
+      "description": "Mark Attanasio, 22 years after taking the reins as Brewers principal owner, has finally brought a World Series title to Milwaukee.",
+      "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/29/brewers-principal-owner-mark-attanasio-finally-has-his-world-series-title/92492588007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Awards, deadlines and the lockout: Key MLB offseason dates to know",
       "description": "Though the 2026 Red Sox season ended nearly a month ago, the Major League Baseball offseason is only just beginning, and it’s expected to be a chaotic one. The league is almost certainly set to lock out the players when their Collective Bargaining Agreement expires Dec. 1 at 11:59 p.m. ET, as they did for […]",
       "url": "https://www.bostonherald.com/2026/10/28/mlb-offseason-key-dates-gold-glove-silver-slugger-qualifying-offer-options-non-tender-deadline-red-sox/",
@@ -43,6 +187,18 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Watch emotional Bob Uecker tribute after Brewers win World Series",
+      "description": "Fox shared a tribute they put together soundtracking Bob Uecker's iconic voice and calls with 2026 Brewers action.",
+      "url": "https://www.jsonline.com/story/sports/mlb/playoffs/2026/10/29/bob-uecker-tribute-brewers-win-world-series-fox/92491931007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Report: Red Sox hire former Houston Astros coach to big league staff",
@@ -57,6 +213,66 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Milwaukee Brewers World Series parade, rally takes place Friday",
+      "description": "The 1982 parade traveled down the road before a rally at County Stadium, where Robin Yount famously made a late entrance on a dirtbike. What used to be Milwaukee's only World Series champion, the 1957 ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/milwaukee-brewers-world-series-parade/92466778007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "'This one’s for Ueck.' Christian Yelich, Brewers dedicate World Series to Bob Uecker",
+      "description": "Brewers franchise icon Bob Uecker never got to see his beloved team win a World Series, but he was on players' minds and hearts after Milwaukee's win.",
+      "url": "https://www.jsonline.com/story/sports/mlb/playoffs/2026/10/28/brewers-world-series-win-bob-uecker/92491169007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Milwaukee Brewers win it all and, now, the whole journey makes sense",
+      "description": "Winning the whole thing turns every stumble into a half-step toward the mountaintop. The past for the Milwaukee Brewers has become awash in revisionist history, concrete turned into marble when the ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/brewers-win-world-series-journey/92488888007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Finally, a World Series crown in the golden age of Milwaukee Brewers baseball",
+      "description": "After 57 years, a few near-misses and immeasurable heartbreak along the way, this group of woodpeckers, of Average Joes, of grinders – your 2026 Milwaukee Brewers – has reached the pinnacle of Major ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/brewers-are-the-best-in-baseball-and-its-not-even-close/92461564007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Gang's all here! Brewers win first World Series despite big-name defections",
+      "description": "Counsell departed the Milwaukee Brewers for a $40 million contract down I-94 with the more celebrated Chicago Cubs. The Brewers, once again feeling less than their bigger-market rivals down I-94, ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/2026/10/28/brewers-world-series-roster-rays-stats/92491048007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Red Sox hire ex-Astros coach to work with outfielders",
       "description": "A week after creating two vacancies on their major league coaching staff, the Red Sox have added an outfield coach from outside the organization.",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-add-new-coach-to-big-league-staff-ex-astros-staffer-will-work-with-outfielders.html",
@@ -66,6 +282,18 @@
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "World Series champion Milwaukee Brewers finally the toast of baseball",
+      "description": "But, oh, the memories they’ll cherish forever, with half of the sellout crowd of 40,489 at Tropicana Field being Brewers fans to witness the most glorious day of baseball in the history of Wisconsin.",
+      "url": "https://www.jsonline.com/story/sports/mlb/columnist/bob-nightengale/2026/10/28/milwaukee-brewers-win-world-series-first-time-rays-parade/92489772007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
       "publishedSource": "unverified"
     },
     {
@@ -81,6 +309,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Get Milwaukee Brewers championship gear, books to celebrate World Series win!",
+      "description": "Milwaukee Brewers fans waited since 1970 for a World Series title. Now it's time to celebrate in style with gear and commemorative books and page prints.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/milwaukee-brewers-world-series-gear-books-page-prints/92456921007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "The harsh Yankees truth behind Jorge Posada’s stinging comments",
       "description": "",
       "url": "https://nypost.com/2026/10/28/sports/the-harsh-yankees-truth-behind-jorge-posadas-stinging-comments/",
@@ -91,6 +331,18 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Drew Rasmussen to start Game 5 on short rest as Rays try to extend World Series",
+      "description": "Rasmussen pitched Game 2 on Saturday, but he will get the ball again Wednesday night as the Rays attempt to force a Game 6.",
+      "url": "https://www.nytimes.com/athletic/7733228/2026/10/28/drew-rasmussen-rays-world-series-game-5/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Red Sox add longtime Astro Jason Bell to coaching staff, including as the outfield instructor",
@@ -115,126 +367,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Snubbing franchise great proves what Yankees’ biggest problem is: Adam Schein",
-      "description": "",
-      "url": "https://nypost.com/2026/10/28/sports/jorge-posada-snub-proves-yankees-have-a-clubhouse-issue-adam-schein/",
-      "published": "2026-10-28T18:07:39+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Brewers vs. Rays live score, updates: Milwaukee leads Tampa Bay early in MLB World Series Game 5",
-      "description": "Now, the trick for the Rays is to keep it going. They used their presumptive Game 5 starter, Nick Martinez, for two innings out of the bullpen, and their closer, Bryan Baker, threw two innings for the ...",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-rays-live-updates-mlb-world-series-game-5-score-result/syFE55E4DZfy/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers run back same lineup as day before in Game 5",
-      "description": "In Game 5, the Milwaukee Brewers are using the same nine players that they've used all World Series long and the same batting order as Game 4.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/brewers-employ-same-lineup-as-yesterday-for-game-5-of-world-series/92472909007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers take notice of South Milwaukee block parties",
-      "description": "Passionate South Milwaukee block parties for the World Series caught the attention of the Brewers organization.",
-      "url": "https://www.jsonline.com/story/communities/south/2026/10/28/south-milwaukee-block-parties-impress-the-brewers/92484090007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "‘Baseball is amazing sometimes’: Rays and Brewers gave us another World Series game to remember",
-      "description": "The Brewers were three outs from the first championship in franchise history. But in the bottom of the 12th inning, they couldn’t get even one out.",
-      "url": "https://www.bostonglobe.com/2026/10/28/sports/world-series-game-4-rays-brewers/",
-      "published": "2026-10-28T15:19:27.671000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Cubs to retain John Mallee, a key hitting coach for PCA, after Mets’ interest: Sources",
-      "description": "The sources spoke on the condition of anonymity because they were not authorized to speak publicly. Mallee, a Chicago native, served as the Cubs’ assistant hitting coach for the ...",
-      "url": "https://www.nytimes.com/athletic/7733565/2026/10/28/cubs-retain-john-mallee-mets-interest/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Milwaukee native Ernie Johnson to leave 'Inside the NBA' after season",
-      "description": "Johnson, 70, grew up in Milwaukee and his father, Ernie Johnson Sr., was on the World Series champion 1957 Milwaukee Braves team.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/milwaukee-native-ernie-johnson-announces-final-inside-the-nba-season/92483833007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Jacob Misiorowski has a chance to clinch a Brewers title, but is something amiss?",
-      "description": "The Athletic has live coverage of Brewers vs. Rays in Game 5 of the 2026 MLB World Series. For most pitchers, the fastball is at the center of everything. For Jacob Misiorowski, o ...",
-      "url": "https://www.nytimes.com/athletic/7729796/2026/10/28/brewers-jacob-misiorowski-slider-world-series/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers' 12-inning loss is team's fourth extra-inning playoff game",
-      "description": "The loss to the Rays is the first extra-inning playoff game for the Brewers since Oct. 16, 2018, when the team lost 2-1 in 13 innings to the Dodgers.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/how-many-extra-inning-playoff-games-have-the-brewers-played/92480477007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers Deer District watch party will be in Deer Garden, not plaza",
-      "description": "The decision is to show Oct. 28 game on the big screen in The Deer Garden, and not on the Deer District plaza screen.",
-      "url": "https://www.jsonline.com/story/news/local/milwaukee/2026/10/28/brewers-deer-district-watch-party-oct-28-will-be-in-deer-garden-not-plaza/92482417007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
