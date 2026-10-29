@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T16:24:13.381998+00:00",
-  "roster_as_of": "October 1, 2026",
+  "generated_at": "2026-10-29T16:30:05.252953+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 113,
     "name": "Cincinnati Reds"
   },
   "roster_type": "open-current-roster",
-  "player_count": 42,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -508,90 +508,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 656271,
-      "mlb_id": 656271,
-      "wikidata_id": "Q66606308",
-      "slug": "brock-burke",
-      "name": "Brock Burke",
-      "full_name": "Brock Burke",
-      "number": "49",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-08-04",
-      "age": 30,
-      "birthplace": "Chicago",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 20, 2019",
-      "debut_team": "Texas Rangers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Evergreen High School"
-          }
-        ]
-      },
-      "teams": [
-        "Texas Rangers",
-        "Los Angeles Angels",
-        "Cincinnati Reds"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q66606308",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brock_Burke",
-      "retrosheet_id": "burkb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 214,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 214,
-          "games_started": 8,
-          "wins": 21,
-          "losses": 12,
-          "saves": 0,
-          "innings_outs": 793,
-          "hits": 252,
-          "runs": 125,
-          "earned_runs": 114,
-          "home_runs": 40,
-          "walks": 78,
-          "strikeouts": 249,
-          "hit_batters": 11,
-          "wild_pitches": 4,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 3.88,
-          "whip": 1.248
-        }
       }
     },
     {
@@ -2169,92 +2085,6 @@
       }
     },
     {
-      "id": 663903,
-      "mlb_id": 663903,
-      "wikidata_id": "Q30833225",
-      "slug": "brady-singer",
-      "name": "Brady Singer",
-      "full_name": "Brady Singer",
-      "number": "51",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-08-04",
-      "age": 30,
-      "birthplace": "Eustis",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 25, 2020",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Florida"
-          },
-          {
-            "name": "Tavares High School"
-          }
-        ]
-      },
-      "teams": [
-        "Kansas City Royals",
-        "Cincinnati Reds"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q30833225",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brady_Singer",
-      "retrosheet_id": "singb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 159,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 159,
-          "games_started": 156,
-          "wins": 50,
-          "losses": 56,
-          "saves": 0,
-          "innings_outs": 2565,
-          "hits": 845,
-          "runs": 427,
-          "earned_runs": 402,
-          "home_runs": 101,
-          "walks": 274,
-          "strikeouts": 808,
-          "hit_batters": 56,
-          "wild_pitches": 19,
-          "balks": 3,
-          "complete_games": 1,
-          "era": 4.23,
-          "whip": 1.309
-        }
-      }
-    },
-    {
       "id": 686678,
       "mlb_id": 686678,
       "wikidata_id": "Q139676906",
@@ -2429,69 +2259,6 @@
           "on_base_percentage": 0.329,
           "slugging_percentage": 0.421,
           "ops": 0.75
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 663886,
-      "mlb_id": 663886,
-      "wikidata_id": "Q98004323",
-      "slug": "tyler-stephenson",
-      "name": "Tyler Stephenson",
-      "full_name": "Tyler Stephenson",
-      "number": "37",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-08-16",
-      "age": 30,
-      "birthplace": "Atlanta",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 27, 2020",
-      "debut_team": "Cincinnati Reds",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Kennesaw Mountain High School"
-          }
-        ]
-      },
-      "teams": [
-        "Cincinnati Reds"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q98004323",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tyler_Stephenson",
-      "retrosheet_id": "stept001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 558,
-          "plate_appearances": 1979,
-          "at_bats": 1754,
-          "runs": 252,
-          "hits": 458,
-          "doubles": 94,
-          "triples": 3,
-          "home_runs": 63,
-          "runs_batted_in": 258,
-          "walks": 187,
-          "strikeouts": 499,
-          "stolen_bases": 2,
-          "caught_stealing": 2,
-          "average": 0.261,
-          "on_base_percentage": 0.338,
-          "slugging_percentage": 0.426,
-          "ops": 0.764
         },
         "pitching": null
       }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T16:15:09.438173+00:00",
-  "roster_as_of": "October 19, 2026",
+  "generated_at": "2026-10-29T16:21:12.479084+00:00",
+  "roster_as_of": "October 26, 2026",
   "team": {
     "id": 114,
     "name": "Cleveland Guardians"
   },
   "roster_type": "open-current-roster",
-  "player_count": 42,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1100,92 +1100,6 @@
       }
     },
     {
-      "id": 656492,
-      "mlb_id": 656492,
-      "wikidata_id": "Q17182810",
-      "slug": "foster-griffin",
-      "name": "Foster Griffin",
-      "full_name": "Foster Griffin",
-      "number": "22",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-07-27",
-      "age": 31,
-      "birthplace": "Orlando",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "July 27, 2020",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "The First Academy"
-          }
-        ]
-      },
-      "teams": [
-        "Kansas City Royals",
-        "Toronto Blue Jays",
-        "Yomiuri Giants",
-        "Washington Nationals",
-        "Cleveland Guardians"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q17182810",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Foster_Griffin",
-      "retrosheet_id": "griff001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 7,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 7,
-          "games_started": 0,
-          "wins": 1,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 24,
-          "hits": 7,
-          "runs": 7,
-          "earned_runs": 6,
-          "home_runs": 0,
-          "walks": 5,
-          "strikeouts": 5,
-          "hit_batters": 1,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 6.75,
-          "whip": 1.5
-        }
-      }
-    },
-    {
       "id": 691414,
       "mlb_id": 691414,
       "wikidata_id": "Q139736385",
@@ -1283,92 +1197,6 @@
           "ops": 0.833
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 595978,
-      "mlb_id": 595978,
-      "wikidata_id": "Q4823117",
-      "slug": "austin-hedges",
-      "name": "Austin Hedges",
-      "full_name": "Austin Hedges",
-      "number": "27",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1992-08-18",
-      "age": 34,
-      "birthplace": "San Juan Capistrano",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 4, 2015",
-      "debut_team": "San Diego Padres",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "JSerra Catholic High School"
-          }
-        ]
-      },
-      "teams": [
-        "San Diego Padres",
-        "Cleveland Indians / Guardians",
-        "Pittsburgh Pirates",
-        "Texas Rangers",
-        "Cleveland Guardians"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q4823117",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Austin_Hedges",
-      "retrosheet_id": "hedga001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 823,
-          "plate_appearances": 2539,
-          "at_bats": 2284,
-          "runs": 212,
-          "hits": 422,
-          "doubles": 66,
-          "triples": 2,
-          "home_runs": 74,
-          "runs_batted_in": 248,
-          "walks": 160,
-          "strikeouts": 694,
-          "stolen_bases": 16,
-          "caught_stealing": 5,
-          "average": 0.185,
-          "on_base_percentage": 0.244,
-          "slugging_percentage": 0.313,
-          "ops": 0.557
-        },
-        "pitching": {
-          "games": 8,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 26,
-          "hits": 11,
-          "runs": 4,
-          "earned_runs": 4,
-          "home_runs": 1,
-          "walks": 2,
-          "strikeouts": 2,
-          "hit_batters": 1,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.15,
-          "whip": 1.5
-        }
       }
     },
     {
@@ -1534,71 +1362,6 @@
       }
     },
     {
-      "id": 656555,
-      "mlb_id": 656555,
-      "wikidata_id": "Q29588795",
-      "slug": "rhys-hoskins",
-      "name": "Rhys Hoskins",
-      "full_name": "Rhys Hoskins",
-      "number": "8",
-      "position": {
-        "name": "First Base",
-        "group": "Infielder",
-        "abbreviation": "1B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-03-17",
-      "age": 33,
-      "birthplace": "Sacramento",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 10, 2017",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "California State University, Sacramento"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Milwaukee Brewers",
-        "Cleveland Guardians"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q29588795",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Rhys_Hoskins",
-      "retrosheet_id": "hoskr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 888,
-          "plate_appearances": 3722,
-          "at_bats": 3155,
-          "runs": 481,
-          "hits": 750,
-          "doubles": 175,
-          "triples": 8,
-          "home_runs": 186,
-          "runs_batted_in": 530,
-          "walks": 479,
-          "strikeouts": 929,
-          "stolen_bases": 20,
-          "caught_stealing": 9,
-          "average": 0.238,
-          "on_base_percentage": 0.344,
-          "slugging_percentage": 0.475,
-          "ops": 0.819
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 694876,
       "mlb_id": 694876,
       "wikidata_id": "Q139736386",
@@ -1753,74 +1516,6 @@
           "on_base_percentage": 0.351,
           "slugging_percentage": 0.39,
           "ops": 0.741
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 663993,
-      "mlb_id": 663993,
-      "wikidata_id": "Q55433087",
-      "slug": "nathaniel-lowe",
-      "name": "Nathaniel Lowe",
-      "full_name": "Nathaniel Lowe",
-      "number": "46",
-      "position": {
-        "name": "First Base",
-        "group": "Infielder",
-        "abbreviation": "1B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-07-07",
-      "age": 31,
-      "birthplace": "Norfolk",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "April 29, 2019",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Alan C. Pope High School"
-          }
-        ]
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "Texas Rangers",
-        "Washington Nationals",
-        "Boston Red Sox",
-        "Cincinnati Reds",
-        "Cleveland Guardians"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q55433087",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathaniel_Lowe",
-      "retrosheet_id": "lowen001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 839,
-          "plate_appearances": 3430,
-          "at_bats": 3018,
-          "runs": 398,
-          "hits": 796,
-          "doubles": 137,
-          "triples": 13,
-          "home_runs": 107,
-          "runs_batted_in": 413,
-          "walks": 376,
-          "strikeouts": 836,
-          "stolen_bases": 15,
-          "caught_stealing": 2,
-          "average": 0.264,
-          "on_base_percentage": 0.347,
-          "slugging_percentage": 0.424,
-          "ops": 0.771
         },
         "pitching": null
       }

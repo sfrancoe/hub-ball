@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T16:10:22.632199+00:00",
-  "roster_as_of": "October 1, 2026",
+  "generated_at": "2026-10-29T16:16:50.745398+00:00",
+  "roster_as_of": "October 26, 2026",
   "team": {
     "id": 111,
     "name": "Boston Red Sox"
   },
   "roster_type": "open-current-roster",
-  "player_count": 47,
+  "player_count": 45,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1639,92 +1639,6 @@
       }
     },
     {
-      "id": 643396,
-      "mlb_id": 643396,
-      "wikidata_id": "Q51858039",
-      "slug": "isiah-kiner-falefa",
-      "name": "Isiah Kiner-Falefa",
-      "full_name": "Isiah Kiner-Falefa",
-      "number": "2",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-03-23",
-      "age": 31,
-      "birthplace": "Honolulu",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 10, 2018",
-      "debut_team": "Texas Rangers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Mid-Pacific Institute"
-          }
-        ]
-      },
-      "teams": [
-        "Texas Rangers",
-        "New York Yankees",
-        "Toronto Blue Jays",
-        "Pittsburgh Pirates",
-        "Boston Red Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q51858039",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Isiah_Kiner-Falefa",
-      "retrosheet_id": "kinei001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 920,
-          "plate_appearances": 3370,
-          "at_bats": 3109,
-          "runs": 371,
-          "hits": 815,
-          "doubles": 130,
-          "triples": 16,
-          "home_runs": 36,
-          "runs_batted_in": 286,
-          "walks": 180,
-          "strikeouts": 530,
-          "stolen_bases": 100,
-          "caught_stealing": 30,
-          "average": 0.262,
-          "on_base_percentage": 0.311,
-          "slugging_percentage": 0.349,
-          "ops": 0.66
-        },
-        "pitching": {
-          "games": 7,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 20,
-          "hits": 5,
-          "runs": 2,
-          "earned_runs": 2,
-          "home_runs": 0,
-          "walks": 2,
-          "strikeouts": 1,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 2.7,
-          "whip": 1.05
-        }
-      }
-    },
-    {
       "id": 678554,
       "mlb_id": 678554,
       "wikidata_id": "Q110674886",
@@ -2381,89 +2295,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 663776,
-      "mlb_id": 663776,
-      "wikidata_id": "Q66309773",
-      "slug": "patrick-sandoval",
-      "name": "Patrick Sandoval",
-      "full_name": "Patrick Sandoval",
-      "number": "43",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-10-18",
-      "age": 30,
-      "birthplace": "Mission Viejo",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 5, 2019",
-      "debut_team": "Los Angeles Angels",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Mission Viejo High School"
-          }
-        ]
-      },
-      "teams": [
-        "Los Angeles Angels",
-        "Boston Red Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q66309773",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Sandoval",
-      "retrosheet_id": "sandp002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 107,
-          "plate_appearances": 6,
-          "at_bats": 6,
-          "runs": 1,
-          "hits": 1,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 4,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.167,
-          "on_base_percentage": 0.167,
-          "slugging_percentage": 0.167,
-          "ops": 0.334
-        },
-        "pitching": {
-          "games": 107,
-          "games_started": 100,
-          "wins": 19,
-          "losses": 45,
-          "saves": 1,
-          "innings_outs": 1608,
-          "hits": 510,
-          "runs": 280,
-          "earned_runs": 239,
-          "home_runs": 55,
-          "walks": 236,
-          "strikeouts": 529,
-          "hit_batters": 17,
-          "wild_pitches": 26,
-          "balks": 3,
-          "complete_games": 1,
-          "era": 4.01,
-          "whip": 1.392
-        }
       }
     },
     {

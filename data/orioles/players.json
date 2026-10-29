@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T16:13:06.505245+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-29T16:19:16.417608+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 110,
     "name": "Baltimore Orioles"
   },
   "roster_type": "open-current-roster",
-  "player_count": 48,
+  "player_count": 44,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,91 +20,6 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
-    {
-      "id": 669211,
-      "mlb_id": 669211,
-      "wikidata_id": "Q98410217",
-      "slug": "keegan-akin",
-      "name": "Keegan Akin",
-      "full_name": "Keegan Akin",
-      "number": "45",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1995-04-01",
-      "age": 31,
-      "birthplace": "Alma",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 14, 2020",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Western Michigan University"
-          },
-          {
-            "name": "Bullock Creek High School"
-          }
-        ]
-      },
-      "teams": [
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q98410217",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Keegan_Akin",
-      "retrosheet_id": "akink001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 231,
-          "plate_appearances": 2,
-          "at_bats": 2,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 2,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 231,
-          "games_started": 28,
-          "wins": 16,
-          "losses": 22,
-          "saves": 11,
-          "innings_outs": 1104,
-          "hits": 350,
-          "runs": 203,
-          "earned_runs": 183,
-          "home_runs": 51,
-          "walks": 129,
-          "strikeouts": 377,
-          "hit_batters": 7,
-          "wild_pitches": 14,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 4.48,
-          "whip": 1.302
-        }
-      }
-    },
     {
       "id": 677942,
       "mlb_id": 677942,
@@ -350,92 +265,6 @@
           "ops": 0.559
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 605135,
-      "mlb_id": 605135,
-      "wikidata_id": "Q16198285",
-      "slug": "chris-bassitt",
-      "name": "Chris Bassitt",
-      "full_name": "Chris Bassitt",
-      "number": "40",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1989-02-22",
-      "age": 37,
-      "birthplace": "Toledo",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 30, 2014",
-      "debut_team": "Chicago White Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Genoa Area High School"
-          }
-        ]
-      },
-      "teams": [
-        "Chicago White Sox",
-        "Oakland Athletics",
-        "New York Mets",
-        "Toronto Blue Jays",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16198285",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Bassitt",
-      "retrosheet_id": "bassc001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 232,
-          "plate_appearances": 9,
-          "at_bats": 8,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 5,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 232,
-          "games_started": 218,
-          "wins": 83,
-          "losses": 65,
-          "saves": 0,
-          "innings_outs": 3836,
-          "hits": 1184,
-          "runs": 559,
-          "earned_runs": 517,
-          "home_runs": 143,
-          "walks": 409,
-          "strikeouts": 1191,
-          "hit_batters": 96,
-          "wild_pitches": 34,
-          "balks": 10,
-          "complete_games": 3,
-          "era": 3.64,
-          "whip": 1.246
-        }
       }
     },
     {
@@ -1846,94 +1675,6 @@
       }
     },
     {
-      "id": 552640,
-      "mlb_id": 552640,
-      "wikidata_id": "Q33093251",
-      "slug": "andrew-kittredge",
-      "name": "Andrew Kittredge",
-      "full_name": "Andrew Kittredge",
-      "number": "39",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1990-03-17",
-      "age": 36,
-      "birthplace": "Spokane",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 18, 2017",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Q219563"
-          },
-          {
-            "name": "Joel E. Ferris High School"
-          }
-        ]
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "St. Louis Cardinals",
-        "Baltimore Orioles",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q33093251",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Kittredge",
-      "retrosheet_id": "kitta001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 309,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 1,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 309,
-          "games_started": 15,
-          "wins": 27,
-          "losses": 15,
-          "saves": 21,
-          "innings_outs": 1015,
-          "hits": 309,
-          "runs": 145,
-          "earned_runs": 129,
-          "home_runs": 45,
-          "walks": 87,
-          "strikeouts": 337,
-          "hit_batters": 7,
-          "wild_pitches": 10,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.43,
-          "whip": 1.17
-        }
-      }
-    },
-    {
       "id": 677008,
       "mlb_id": 677008,
       "wikidata_id": "Q85199601",
@@ -2092,69 +1833,6 @@
           "on_base_percentage": 0.285,
           "slugging_percentage": 0.349,
           "ops": 0.634
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 663624,
-      "mlb_id": 663624,
-      "wikidata_id": "Q64746911",
-      "slug": "ryan-mountcastle",
-      "name": "Ryan Mountcastle",
-      "full_name": "Ryan Mountcastle",
-      "number": "6",
-      "position": {
-        "name": "First Base",
-        "group": "Pitcher",
-        "abbreviation": "1B"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1997-02-18",
-      "age": 29,
-      "birthplace": "Winter Springs",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 21, 2020",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Paul J. Hagerty High School"
-          }
-        ]
-      },
-      "teams": [
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q64746911",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Mountcastle",
-      "retrosheet_id": "mounr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 652,
-          "plate_appearances": 2669,
-          "at_bats": 2443,
-          "runs": 303,
-          "hits": 642,
-          "doubles": 125,
-          "triples": 5,
-          "home_runs": 98,
-          "runs_batted_in": 363,
-          "walks": 174,
-          "strikeouts": 664,
-          "stolen_bases": 17,
-          "caught_stealing": 6,
-          "average": 0.263,
-          "on_base_percentage": 0.312,
-          "slugging_percentage": 0.438,
-          "ops": 0.75
         },
         "pitching": null
       }

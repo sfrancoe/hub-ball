@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T16:19:04.535933+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-29T16:25:05.231524+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 133,
     "name": "Athletics"
   },
   "roster_type": "open-current-roster",
-  "player_count": 50,
+  "player_count": 48,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1087,72 +1087,6 @@
       }
     },
     {
-      "id": 641680,
-      "mlb_id": 641680,
-      "wikidata_id": "Q98685940",
-      "slug": "jonah-heim",
-      "name": "Jonah Heim",
-      "full_name": "Jonah Heim",
-      "number": "15",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-06-27",
-      "age": 31,
-      "birthplace": "Buffalo",
-      "height": null,
-      "weight": null,
-      "bats": "Switch",
-      "throws": "Right",
-      "debut_date": "August 25, 2020",
-      "debut_team": "Oakland Athletics",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Amherst Central High School"
-          }
-        ]
-      },
-      "teams": [
-        "Oakland Athletics",
-        "Texas Rangers",
-        "Atlanta Braves",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q98685940",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jonah_Heim",
-      "retrosheet_id": "heimj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 608,
-          "plate_appearances": 2201,
-          "at_bats": 2020,
-          "runs": 222,
-          "hits": 455,
-          "doubles": 87,
-          "triples": 2,
-          "home_runs": 68,
-          "runs_batted_in": 282,
-          "walks": 157,
-          "strikeouts": 422,
-          "stolen_bases": 11,
-          "caught_stealing": 2,
-          "average": 0.225,
-          "on_base_percentage": 0.282,
-          "slugging_percentage": 0.371,
-          "ops": 0.653
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 687231,
       "mlb_id": 687231,
       "wikidata_id": "Q125179272",
@@ -1370,92 +1304,6 @@
           "complete_games": 0,
           "era": 9.0,
           "whip": 1.733
-        }
-      }
-    },
-    {
-      "id": 643410,
-      "mlb_id": 643410,
-      "wikidata_id": "Q29474580",
-      "slug": "mark-leiter-jr",
-      "name": "Mark Leiter Jr.",
-      "full_name": "Mark Leiter Jr.",
-      "number": "38",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1991-03-13",
-      "age": 35,
-      "birthplace": "Fort Lauderdale",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 28, 2017",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Toms River High School North"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Toronto Blue Jays",
-        "Chicago Cubs",
-        "New York Yankees",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q29474580",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Leiter_Jr.",
-      "retrosheet_id": "leitm002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 270,
-          "plate_appearances": 29,
-          "at_bats": 28,
-          "runs": 0,
-          "hits": 2,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 14,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.071,
-          "on_base_percentage": 0.071,
-          "slugging_percentage": 0.071,
-          "ops": 0.142
-        },
-        "pitching": {
-          "games": 270,
-          "games_started": 15,
-          "wins": 16,
-          "losses": 29,
-          "saves": 9,
-          "innings_outs": 1057,
-          "hits": 337,
-          "runs": 211,
-          "earned_runs": 180,
-          "home_runs": 55,
-          "walks": 131,
-          "strikeouts": 396,
-          "hit_batters": 31,
-          "wild_pitches": 25,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 4.6,
-          "whip": 1.328
         }
       }
     },

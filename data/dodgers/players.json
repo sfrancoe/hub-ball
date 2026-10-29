@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T16:28:05.176487+00:00",
-  "roster_as_of": "October 15, 2026",
+  "generated_at": "2026-10-29T16:33:34.504966+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 119,
     "name": "Los Angeles Dodgers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 45,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -85,92 +85,6 @@
           "ops": 0.881
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 663460,
-      "mlb_id": 663460,
-      "wikidata_id": "Q53073137",
-      "slug": "kris-bubic",
-      "name": "Kris Bubic",
-      "full_name": "Kris Bubic",
-      "number": "40",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-08-19",
-      "age": 29,
-      "birthplace": "Cupertino",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "July 31, 2020",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Stanford University"
-          },
-          {
-            "name": "Archbishop Mitty High School"
-          }
-        ]
-      },
-      "teams": [
-        "Kansas City Royals",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q53073137",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kris_Bubic",
-      "retrosheet_id": "bubik001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 117,
-          "plate_appearances": 5,
-          "at_bats": 5,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 1,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 117,
-          "games_started": 80,
-          "wins": 19,
-          "losses": 36,
-          "saves": 1,
-          "innings_outs": 1415,
-          "hits": 472,
-          "runs": 240,
-          "earned_runs": 217,
-          "home_runs": 57,
-          "walks": 190,
-          "strikeouts": 444,
-          "hit_batters": 17,
-          "wild_pitches": 7,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 4.14,
-          "whip": 1.404
-        }
       }
     },
     {
@@ -254,7 +168,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-02-11",
       "age": 27,
@@ -332,7 +246,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-07-14",
       "age": 32,
@@ -1008,85 +922,6 @@
       }
     },
     {
-      "id": 660813,
-      "mlb_id": 660813,
-      "wikidata_id": "Q64782471",
-      "slug": "brusdar-graterol",
-      "name": "Brusdar Graterol",
-      "full_name": "Brusdar Graterol",
-      "number": "48",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1998-08-26",
-      "age": 28,
-      "birthplace": "Calabozo",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 1, 2019",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Minnesota Twins",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q64782471",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brusdar_Graterol",
-      "retrosheet_id": "gratb002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 188,
-          "plate_appearances": 2,
-          "at_bats": 2,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 188,
-          "games_started": 5,
-          "wins": 11,
-          "losses": 9,
-          "saves": 11,
-          "innings_outs": 572,
-          "hits": 157,
-          "runs": 68,
-          "earned_runs": 59,
-          "home_runs": 10,
-          "walks": 42,
-          "strikeouts": 148,
-          "hit_batters": 14,
-          "wild_pitches": 6,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 2.78,
-          "whip": 1.044
-        }
-      }
-    },
-    {
       "id": 678020,
       "mlb_id": 678020,
       "wikidata_id": "Q130173408",
@@ -1240,91 +1075,6 @@
           "complete_games": 0,
           "era": 2.42,
           "whip": 1.164
-        }
-      }
-    },
-    {
-      "id": 571771,
-      "mlb_id": 571771,
-      "wikidata_id": "Q17306009",
-      "slug": "kike-hernandez",
-      "name": "Kiké Hernández",
-      "full_name": "Enrique Hernández",
-      "number": "8",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-08-24",
-      "age": 35,
-      "birthplace": "Toa Baja",
-      "height": "5' 11\"",
-      "weight": 198,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 1, 2014",
-      "debut_team": "Houston Astros",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "American Military Academy"
-          }
-        ]
-      },
-      "teams": [
-        "Houston Astros",
-        "Miami Marlins",
-        "Los Angeles Dodgers",
-        "Boston Red Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q17306009",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Enrique_Hern%C3%A1ndez_%28baseball%29",
-      "retrosheet_id": "herne001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 1275,
-          "plate_appearances": 4148,
-          "at_bats": 3716,
-          "runs": 514,
-          "hits": 876,
-          "doubles": 199,
-          "triples": 15,
-          "home_runs": 130,
-          "runs_batted_in": 470,
-          "walks": 357,
-          "strikeouts": 840,
-          "stolen_bases": 17,
-          "caught_stealing": 6,
-          "average": 0.236,
-          "on_base_percentage": 0.304,
-          "slugging_percentage": 0.402,
-          "ops": 0.706
-        },
-        "pitching": {
-          "games": 10,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 1,
-          "saves": 0,
-          "innings_outs": 30,
-          "hits": 17,
-          "runs": 16,
-          "earned_runs": 14,
-          "home_runs": 2,
-          "walks": 10,
-          "strikeouts": 1,
-          "hit_batters": 0,
-          "wild_pitches": 1,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 12.6,
-          "whip": 2.7
         }
       }
     },
@@ -1586,7 +1336,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-11-28",
       "age": 26,
@@ -1784,95 +1534,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 641778,
-      "mlb_id": 641778,
-      "wikidata_id": "Q24248310",
-      "slug": "eric-lauer",
-      "name": "Eric Lauer",
-      "full_name": "Eric Lauer",
-      "number": "33",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1995-06-03",
-      "age": 31,
-      "birthplace": "Elyria",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "April 24, 2018",
-      "debut_team": "San Diego Padres",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Kent State University"
-          },
-          {
-            "name": "Midview High School"
-          }
-        ]
-      },
-      "teams": [
-        "San Diego Padres",
-        "Milwaukee Brewers",
-        "Kia Tigers",
-        "Toronto Blue Jays",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q24248310",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Lauer",
-      "retrosheet_id": "lauee001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 150,
-          "plate_appearances": 122,
-          "at_bats": 96,
-          "runs": 5,
-          "hits": 10,
-          "doubles": 3,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 5,
-          "walks": 5,
-          "strikeouts": 53,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.104,
-          "on_base_percentage": 0.154,
-          "slugging_percentage": 0.167,
-          "ops": 0.321
-        },
-        "pitching": {
-          "games": 148,
-          "games_started": 127,
-          "wins": 45,
-          "losses": 39,
-          "saves": 0,
-          "innings_outs": 2104,
-          "hits": 675,
-          "runs": 354,
-          "earned_runs": 322,
-          "home_runs": 111,
-          "walks": 256,
-          "strikeouts": 669,
-          "hit_batters": 19,
-          "wild_pitches": 14,
-          "balks": 4,
-          "complete_games": 0,
-          "era": 4.13,
-          "whip": 1.327
-        }
       }
     },
     {
@@ -2215,91 +1876,6 @@
       }
     },
     {
-      "id": 623465,
-      "mlb_id": 623465,
-      "wikidata_id": "Q55211779",
-      "slug": "evan-phillips",
-      "name": "Evan Phillips",
-      "full_name": "Evan Phillips",
-      "number": "59",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-09-11",
-      "age": 32,
-      "birthplace": "Salisbury",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 3, 2018",
-      "debut_team": "Atlanta Braves",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Clayton High School"
-          }
-        ]
-      },
-      "teams": [
-        "Atlanta Braves",
-        "Baltimore Orioles",
-        "Tampa Bay Rays",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q55211779",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Evan_Phillips",
-      "retrosheet_id": "phile001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 250,
-          "plate_appearances": 4,
-          "at_bats": 3,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.25,
-          "slugging_percentage": 0.0,
-          "ops": 0.25
-        },
-        "pitching": {
-          "games": 250,
-          "games_started": 1,
-          "wins": 16,
-          "losses": 12,
-          "saves": 46,
-          "innings_outs": 756,
-          "hits": 193,
-          "runs": 113,
-          "earned_runs": 94,
-          "home_runs": 23,
-          "walks": 92,
-          "strikeouts": 291,
-          "hit_batters": 17,
-          "wild_pitches": 7,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.36,
-          "whip": 1.131
-        }
-      }
-    },
-    {
       "id": 687221,
       "mlb_id": 687221,
       "wikidata_id": "Q113118217",
@@ -2625,89 +2201,6 @@
       }
     },
     {
-      "id": 669373,
-      "mlb_id": 669373,
-      "wikidata_id": "Q86307967",
-      "slug": "tarik-skubal",
-      "name": "Tarik Skubal",
-      "full_name": "Tarik Skubal",
-      "number": "29",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-11-20",
-      "age": 29,
-      "birthplace": "Hayward",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "August 18, 2020",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Seattle University"
-          }
-        ]
-      },
-      "teams": [
-        "Detroit Tigers",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q86307967",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tarik_Skubal",
-      "retrosheet_id": "skubt001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 137,
-          "plate_appearances": 3,
-          "at_bats": 2,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 2,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 137,
-          "games_started": 134,
-          "wins": 54,
-          "losses": 37,
-          "saves": 0,
-          "innings_outs": 2300,
-          "hits": 614,
-          "runs": 287,
-          "earned_runs": 262,
-          "home_runs": 90,
-          "walks": 172,
-          "strikeouts": 889,
-          "hit_batters": 26,
-          "wild_pitches": 11,
-          "balks": 2,
-          "complete_games": 1,
-          "era": 3.08,
-          "whip": 1.025
-        }
-      }
-    },
-    {
       "id": 669257,
       "mlb_id": 669257,
       "wikidata_id": "Q24678701",
@@ -2958,7 +2451,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-10-15",
       "age": 28,
@@ -3020,99 +2513,6 @@
           "complete_games": 1,
           "era": 4.52,
           "whip": 1.337
-        }
-      }
-    },
-    {
-      "id": 595014,
-      "mlb_id": 595014,
-      "wikidata_id": "Q16232478",
-      "slug": "blake-treinen",
-      "name": "Blake Treinen",
-      "full_name": "Blake Treinen",
-      "number": "49",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1988-06-30",
-      "age": 38,
-      "birthplace": "Wichita",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 12, 2014",
-      "debut_team": "Washington Nationals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Osage City High School"
-          },
-          {
-            "name": "Baker University"
-          },
-          {
-            "name": "University of Arkansas"
-          },
-          {
-            "name": "South Dakota State University"
-          }
-        ]
-      },
-      "teams": [
-        "Washington Nationals",
-        "Oakland Athletics",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16232478",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Blake_Treinen",
-      "retrosheet_id": "treib001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 531,
-          "plate_appearances": 19,
-          "at_bats": 14,
-          "runs": 0,
-          "hits": 1,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 9,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.071,
-          "on_base_percentage": 0.133,
-          "slugging_percentage": 0.071,
-          "ops": 0.204
-        },
-        "pitching": {
-          "games": 531,
-          "games_started": 7,
-          "wins": 45,
-          "losses": 41,
-          "saves": 82,
-          "innings_outs": 1729,
-          "hits": 487,
-          "runs": 213,
-          "earned_runs": 186,
-          "home_runs": 43,
-          "walks": 223,
-          "strikeouts": 596,
-          "hit_batters": 20,
-          "wild_pitches": 24,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 2.9,
-          "whip": 1.232
         }
       }
     },
@@ -3179,92 +2579,6 @@
           "ops": 0.865
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 681911,
-      "mlb_id": 681911,
-      "wikidata_id": "Q97666346",
-      "slug": "alex-vesia",
-      "name": "Alex Vesia",
-      "full_name": "Alex Vesia",
-      "number": "51",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-04-11",
-      "age": 30,
-      "birthplace": "Alpine",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "July 25, 2020",
-      "debut_team": "Miami Marlins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Steele Canyon High School"
-          },
-          {
-            "name": "California State University, East Bay"
-          }
-        ]
-      },
-      "teams": [
-        "Miami Marlins",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q97666346",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Vesia",
-      "retrosheet_id": "vesia001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 300,
-          "plate_appearances": 4,
-          "at_bats": 3,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.25,
-          "slugging_percentage": 0.0,
-          "ops": 0.25
-        },
-        "pitching": {
-          "games": 300,
-          "games_started": 1,
-          "wins": 19,
-          "losses": 13,
-          "saves": 13,
-          "innings_outs": 823,
-          "hits": 183,
-          "runs": 108,
-          "earned_runs": 89,
-          "home_runs": 34,
-          "walks": 125,
-          "strikeouts": 369,
-          "hit_batters": 12,
-          "wild_pitches": 9,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 2.92,
-          "whip": 1.123
-        }
       }
     },
     {

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T16:15:44.028484+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-29T16:21:38.844317+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 116,
     "name": "Detroit Tigers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 49,
+  "player_count": 45,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -625,91 +625,6 @@
           "complete_games": 0,
           "era": 3.55,
           "whip": 1.284
-        }
-      }
-    },
-    {
-      "id": 656427,
-      "mlb_id": 656427,
-      "wikidata_id": "Q17182711",
-      "slug": "jack-flaherty",
-      "name": "Jack Flaherty",
-      "full_name": "Jack Flaherty",
-      "number": "9",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-10-15",
-      "age": 31,
-      "birthplace": "Burbank",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 1, 2017",
-      "debut_team": "St. Louis Cardinals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Harvard-Westlake School"
-          }
-        ]
-      },
-      "teams": [
-        "St. Louis Cardinals",
-        "Baltimore Orioles",
-        "Detroit Tigers",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q17182711",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Flaherty",
-      "retrosheet_id": "flahj002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 198,
-          "plate_appearances": 150,
-          "at_bats": 123,
-          "runs": 8,
-          "hits": 19,
-          "doubles": 3,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 7,
-          "walks": 9,
-          "strikeouts": 46,
-          "stolen_bases": 1,
-          "caught_stealing": 1,
-          "average": 0.154,
-          "on_base_percentage": 0.209,
-          "slugging_percentage": 0.203,
-          "ops": 0.412
-        },
-        "pitching": {
-          "games": 190,
-          "games_started": 184,
-          "wins": 63,
-          "losses": 56,
-          "saves": 0,
-          "innings_outs": 2972,
-          "hits": 836,
-          "runs": 440,
-          "earned_runs": 418,
-          "home_runs": 135,
-          "walks": 351,
-          "strikeouts": 1130,
-          "hit_batters": 54,
-          "wild_pitches": 35,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.8,
-          "whip": 1.198
         }
       }
     },
@@ -1593,92 +1508,6 @@
           "ops": 0.715
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 641755,
-      "mlb_id": 641755,
-      "wikidata_id": "Q50807850",
-      "slug": "tyler-kinley",
-      "name": "Tyler Kinley",
-      "full_name": "Tyler Kinley",
-      "number": "55",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-01-31",
-      "age": 35,
-      "birthplace": "Plantation",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 7, 2018",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Nova High School"
-          }
-        ]
-      },
-      "teams": [
-        "Minnesota Twins",
-        "Miami Marlins",
-        "Colorado Rockies",
-        "Atlanta Braves",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q50807850",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tyler_Kinley",
-      "retrosheet_id": "kinlt001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 342,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 1,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 342,
-          "games_started": 0,
-          "wins": 19,
-          "losses": 14,
-          "saves": 21,
-          "innings_outs": 994,
-          "hits": 286,
-          "runs": 182,
-          "earned_runs": 175,
-          "home_runs": 41,
-          "walks": 160,
-          "strikeouts": 342,
-          "hit_batters": 14,
-          "wild_pitches": 29,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 4.75,
-          "whip": 1.346
-        }
       }
     },
     {
@@ -2577,97 +2406,6 @@
       }
     },
     {
-      "id": 572143,
-      "mlb_id": 572143,
-      "wikidata_id": "Q13305493",
-      "slug": "burch-smith",
-      "name": "Burch Smith",
-      "full_name": "Burch Smith",
-      "number": "65",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1990-04-12",
-      "age": 36,
-      "birthplace": "Q975",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 11, 2013",
-      "debut_team": "San Diego Padres",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Tyler Legacy High School"
-          }
-        ]
-      },
-      "teams": [
-        "San Diego Padres",
-        "Kansas City Royals",
-        "Milwaukee Brewers",
-        "San Francisco Giants",
-        "Oakland Athletics",
-        "Saitama Seibu Lions",
-        "Hanwha Eagles",
-        "Miami Marlins",
-        "Baltimore Orioles",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q13305493",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Burch_Smith",
-      "retrosheet_id": "smitb005",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 152,
-          "plate_appearances": 11,
-          "at_bats": 10,
-          "runs": 0,
-          "hits": 1,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.1,
-          "on_base_percentage": 0.182,
-          "slugging_percentage": 0.1,
-          "ops": 0.282
-        },
-        "pitching": {
-          "games": 152,
-          "games_started": 13,
-          "wins": 9,
-          "losses": 12,
-          "saves": 1,
-          "innings_outs": 742,
-          "hits": 275,
-          "runs": 164,
-          "earned_runs": 159,
-          "home_runs": 39,
-          "walks": 99,
-          "strikeouts": 230,
-          "hit_batters": 8,
-          "wild_pitches": 6,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 5.79,
-          "whip": 1.512
-        }
-      }
-    },
-    {
       "id": 805427,
       "mlb_id": 805427,
       "wikidata_id": "Q135921593",
@@ -2866,66 +2604,6 @@
           "on_base_percentage": 0.31,
           "slugging_percentage": 0.412,
           "ops": 0.722
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 650402,
-      "mlb_id": 650402,
-      "wikidata_id": "Q26720726",
-      "slug": "gleyber-torres",
-      "name": "Gleyber Torres",
-      "full_name": "Gleyber Torres",
-      "number": "25",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-12-13",
-      "age": 29,
-      "birthplace": "Caracas",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 22, 2018",
-      "debut_team": "New York Yankees",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "New York Yankees",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q26720726",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gleyber_Torres",
-      "retrosheet_id": "torrg001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 1033,
-          "plate_appearances": 4301,
-          "at_bats": 3813,
-          "runs": 539,
-          "hits": 1006,
-          "doubles": 176,
-          "triples": 4,
-          "home_runs": 154,
-          "runs_batted_in": 515,
-          "walks": 418,
-          "strikeouts": 847,
-          "stolen_bases": 57,
-          "caught_stealing": 25,
-          "average": 0.264,
-          "on_base_percentage": 0.337,
-          "slugging_percentage": 0.433,
-          "ops": 0.77
         },
         "pitching": null
       }

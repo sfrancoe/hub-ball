@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T16:27:16.084598+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-29T16:33:04.179034+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 115,
     "name": "Colorado Rockies"
   },
   "roster_type": "open-current-roster",
-  "player_count": 46,
+  "player_count": 42,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1048,91 +1048,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 607536,
-      "mlb_id": 607536,
-      "wikidata_id": "Q16843101",
-      "slug": "kyle-freeland",
-      "name": "Kyle Freeland",
-      "full_name": "Kyle Freeland",
-      "number": "21",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-05-14",
-      "age": 33,
-      "birthplace": "Denver",
-      "height": "6' 3\"",
-      "weight": 170,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "April 7, 2017",
-      "debut_team": "Colorado Rockies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Thomas Jefferson High School"
-          },
-          {
-            "name": "University of Evansville"
-          }
-        ]
-      },
-      "teams": [
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16843101",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kyle_Freeland",
-      "retrosheet_id": "freek001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 241,
-          "plate_appearances": 198,
-          "at_bats": 173,
-          "runs": 12,
-          "hits": 22,
-          "doubles": 4,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 8,
-          "walks": 8,
-          "strikeouts": 102,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.127,
-          "on_base_percentage": 0.165,
-          "slugging_percentage": 0.168,
-          "ops": 0.333
-        },
-        "pitching": {
-          "games": 236,
-          "games_started": 231,
-          "wins": 65,
-          "losses": 90,
-          "saves": 0,
-          "innings_outs": 3781,
-          "hits": 1394,
-          "runs": 690,
-          "earned_runs": 636,
-          "home_runs": 180,
-          "walks": 392,
-          "strikeouts": 944,
-          "hit_batters": 47,
-          "wild_pitches": 17,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 4.54,
-          "whip": 1.417
-        }
       }
     },
     {
@@ -2237,92 +2152,6 @@
       }
     },
     {
-      "id": 500779,
-      "mlb_id": 500779,
-      "wikidata_id": "Q3186534",
-      "slug": "jose-quintana",
-      "name": "José Quintana",
-      "full_name": "José Quintana",
-      "number": "62",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1989-01-24",
-      "age": 37,
-      "birthplace": "Arjona",
-      "height": "6' 1\"",
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "May 7, 2012",
-      "debut_team": "Chicago White Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Chicago White Sox",
-        "Chicago Cubs",
-        "Los Angeles Angels",
-        "San Francisco Giants",
-        "Pittsburgh Pirates",
-        "St. Louis Cardinals",
-        "New York Mets",
-        "Milwaukee Brewers",
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q3186534",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Quintana",
-      "retrosheet_id": "quinj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 382,
-          "plate_appearances": 183,
-          "at_bats": 155,
-          "runs": 4,
-          "hits": 12,
-          "doubles": 1,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 7,
-          "walks": 3,
-          "strikeouts": 83,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.077,
-          "on_base_percentage": 0.094,
-          "slugging_percentage": 0.084,
-          "ops": 0.178
-        },
-        "pitching": {
-          "games": 382,
-          "games_started": 356,
-          "wins": 113,
-          "losses": 110,
-          "saves": 0,
-          "innings_outs": 6289,
-          "hits": 2037,
-          "runs": 948,
-          "earned_runs": 876,
-          "home_runs": 219,
-          "walks": 641,
-          "strikeouts": 1812,
-          "hit_batters": 58,
-          "wild_pitches": 75,
-          "balks": 7,
-          "complete_games": 2,
-          "era": 3.76,
-          "whip": 1.277
-        }
-      }
-    },
-    {
       "id": 690022,
       "mlb_id": 690022,
       "wikidata_id": "Q119929832",
@@ -2379,97 +2208,6 @@
           "ops": 0.633
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 605447,
-      "mlb_id": 605447,
-      "wikidata_id": "Q28911799",
-      "slug": "jordan-romano",
-      "name": "Jordan Romano",
-      "full_name": "Jordan Romano",
-      "number": "68",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-04-21",
-      "age": 33,
-      "birthplace": "Markham",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 12, 2019",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "North Toronto Christian School"
-          },
-          {
-            "name": "Father Michael McGivney Catholic Academy"
-          },
-          {
-            "name": "Oral Roberts University"
-          }
-        ]
-      },
-      "teams": [
-        "Toronto Blue Jays",
-        "Philadelphia Phillies",
-        "Los Angeles Angels",
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q28911799",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan_Romano",
-      "retrosheet_id": "romaj004",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 280,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 280,
-          "games_started": 0,
-          "wins": 22,
-          "losses": 21,
-          "saves": 113,
-          "innings_outs": 817,
-          "hits": 219,
-          "runs": 122,
-          "earned_runs": 113,
-          "home_runs": 37,
-          "walks": 105,
-          "strikeouts": 332,
-          "hit_batters": 15,
-          "wild_pitches": 2,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 3.73,
-          "whip": 1.19
-        }
       }
     },
     {
@@ -2612,99 +2350,6 @@
           "ops": 0.308
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 608372,
-      "mlb_id": 608372,
-      "wikidata_id": "Q7820345",
-      "slug": "tomoyuki-sugano",
-      "name": "Tomoyuki Sugano",
-      "full_name": "Tomoyuki Sugano",
-      "number": "11",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1989-10-11",
-      "age": 37,
-      "birthplace": "Minami-ku",
-      "height": "6' 1\"",
-      "weight": 203,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "March 30, 2013",
-      "debut_team": "Yomiuri Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Q28692012"
-          },
-          {
-            "name": "Q30931324"
-          },
-          {
-            "name": "Tokai University Sagami Senior High School"
-          },
-          {
-            "name": "Tokai University"
-          }
-        ]
-      },
-      "teams": [
-        "Yomiuri Giants",
-        "Baltimore Orioles",
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q7820345",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tomoyuki_Sugano",
-      "retrosheet_id": "sugat001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 30,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 30,
-          "games_started": 30,
-          "wins": 10,
-          "losses": 10,
-          "saves": 0,
-          "innings_outs": 471,
-          "hits": 173,
-          "runs": 85,
-          "earned_runs": 81,
-          "home_runs": 33,
-          "walks": 36,
-          "strikeouts": 106,
-          "hit_batters": 8,
-          "wild_pitches": 3,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 4.64,
-          "whip": 1.331
-        }
       }
     },
     {

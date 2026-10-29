@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T16:24:45.062948+00:00",
-  "roster_as_of": "October 23, 2026",
+  "generated_at": "2026-10-29T16:30:34.515520+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 158,
     "name": "Milwaukee Brewers"
   },
   "roster_type": "open-current-roster",
   "player_count": 42,
-  "active_count": 26,
+  "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
     "attribution": "Facts: Wikidata (CC0) · Roster and team history: Wikipedia contributors · Career statistics: Retrosheet",
@@ -33,7 +33,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-06-21",
       "age": 29,
@@ -112,8 +112,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1998-05-24",
       "age": 28,
       "birthplace": "Kansas City, Missouri, U.S.",
@@ -190,7 +190,7 @@
         "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-08-16",
       "age": 28,
@@ -254,8 +254,8 @@
         "group": "Infielder",
         "abbreviation": "1B"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1995-10-06",
       "age": 31,
       "birthplace": "Huntington Beach",
@@ -340,7 +340,7 @@
         "group": "Hitter",
         "abbreviation": "DH"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-07-26",
       "age": 26,
@@ -399,8 +399,8 @@
         "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "2004-03-11",
       "age": 22,
       "birthplace": "Maracaibo",
@@ -458,8 +458,8 @@
         "group": "Catcher",
         "abbreviation": "C"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1997-12-24",
       "age": 28,
       "birthplace": "Puerto Cabello",
@@ -518,7 +518,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-12-30",
       "age": 25,
@@ -559,8 +559,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1999-01-07",
       "age": 27,
       "birthplace": "Fort Lauderdale, Florida, U.S.",
@@ -641,8 +641,8 @@
         "group": "Outfielder",
         "abbreviation": "RF"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "2000-04-19",
       "age": 26,
       "birthplace": "Boston, Massachusetts, U.S.",
@@ -656,10 +656,10 @@
         "high_schools": [],
         "colleges": [
           {
-            "name": "Boston College"
+            "name": "Lexington High School"
           },
           {
-            "name": "Lexington High School"
+            "name": "Boston College"
           }
         ]
       },
@@ -707,8 +707,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1999-05-31",
       "age": 27,
       "birthplace": "El Dorado Hills, California, U.S.",
@@ -779,13 +779,13 @@
       "slug": "colton-gordon",
       "name": "Colton Gordon",
       "full_name": "Colton Gordon",
-      "number": "--",
+      "number": "36",
       "position": {
         "name": "Pitcher",
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-12-20",
       "age": 27,
@@ -864,8 +864,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1998-09-19",
       "age": 28,
       "birthplace": "Valdosta",
@@ -950,8 +950,8 @@
         "group": "Infielder",
         "abbreviation": "3B"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1997-09-29",
       "age": 29,
       "birthplace": "San Marcos, Texas, U.S.",
@@ -1010,8 +1010,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "2001-08-12",
       "age": 25,
       "birthplace": "San Jose",
@@ -1090,8 +1090,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "2002-03-02",
       "age": 24,
       "birthplace": "Houston",
@@ -1168,7 +1168,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-01-24",
       "age": 32,
@@ -1254,8 +1254,8 @@
         "group": "Outfielder",
         "abbreviation": "RF"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "2004-11-17",
       "age": 21,
       "birthplace": "San Felipe",
@@ -1295,7 +1295,7 @@
         "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-03-14",
       "age": 29,
@@ -1362,8 +1362,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1997-09-06",
       "age": 29,
       "birthplace": "Justin",
@@ -1447,8 +1447,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1993-12-05",
       "age": 32,
       "birthplace": "Long Beach",
@@ -1531,8 +1531,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "2002-04-03",
       "age": 24,
       "birthplace": "Blue Springs",
@@ -1616,8 +1616,8 @@
         "group": "Outfielder",
         "abbreviation": "CF"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1998-09-04",
       "age": 28,
       "birthplace": "Orange",
@@ -1679,7 +1679,7 @@
         "group": "Catcher",
         "abbreviation": "C"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-02-21",
       "age": 26,
@@ -1743,8 +1743,8 @@
         "group": "Infielder",
         "abbreviation": "SS"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1998-07-14",
       "age": 28,
       "birthplace": "Garden Grove, California, U.S.",
@@ -1807,7 +1807,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-08-14",
       "age": 28,
@@ -1885,8 +1885,8 @@
         "group": "Infielder",
         "abbreviation": "SS"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "2004-08-18",
       "age": 22,
       "birthplace": "Hialeah",
@@ -2014,7 +2014,7 @@
         "group": "Catcher",
         "abbreviation": "C"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2002-10-08",
       "age": 24,
@@ -2055,8 +2055,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1996-09-09",
       "age": 30,
       "birthplace": "Camarillo",
@@ -2142,8 +2142,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1995-01-21",
       "age": 31,
       "birthplace": "Valencia",
@@ -2221,7 +2221,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-09-17",
       "age": 26,
@@ -2304,7 +2304,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-08-08",
       "age": 29,
@@ -2345,8 +2345,8 @@
         "group": "Catcher",
         "abbreviation": "C"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1992-12-02",
       "age": 33,
       "birthplace": "Santo Domingo",
@@ -2428,8 +2428,8 @@
         "group": "Infielder",
         "abbreviation": "2B"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1999-11-21",
       "age": 26,
       "birthplace": "Corona",
@@ -2491,8 +2491,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "2000-06-20",
       "age": 26,
       "birthplace": "Santo Domingo",
@@ -2569,8 +2569,8 @@
         "group": "Infielder",
         "abbreviation": "1B"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1998-04-03",
       "age": 28,
       "birthplace": "Santa Rosa",
@@ -2633,7 +2633,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Inactive roster",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-12-20",
       "age": 28,
@@ -2720,8 +2720,8 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1993-02-10",
       "age": 33,
       "birthplace": "Tupelo",
@@ -2802,8 +2802,8 @@
         "group": "Hitter",
         "abbreviation": "DH"
       },
-      "roster_status": "Active",
-      "is_active_roster": true,
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
       "birth_date": "1991-12-05",
       "age": 34,
       "birthplace": "Thousand Oaks",
