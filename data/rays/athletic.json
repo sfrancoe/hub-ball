@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "It took five games, but the Brewers were able to complete an October for the ages by beating the Rays. Contreras played a major role.",
+      "published": "2026-10-29T03:53:31+00:00",
+      "title": "Brewers catcher William Contreras named World Series MVP",
+      "url": "https://www.nytimes.com/athletic/7731241/2026/10/28/william-contreras-world-series-mvp-brewers/"
+    },
+    {
+      "category": "Rays",
+      "description": "The Brewers finished off the Rays with a Game 5 victory at Tropicana Field, where their fans gathered for the vacation of a lifetime.",
+      "published": "2026-10-29T03:15:36+00:00",
+      "title": "Four big questions after the Brewers' World Series win",
+      "url": "https://www.nytimes.com/athletic/7728566/2026/10/28/brewers-rays-world-series-game-5-results-score-takeaways/"
+    },
+    {
+      "category": "Rays",
+      "description": "The Brewers didn't land Tarik Skubal. They funneled that trade deadline disappointment into a belief they could win it all anyway.",
+      "published": "2026-10-29T03:15:15+00:00",
+      "title": "Win tonight. Win it all. How the Brewers built their first World Series champion",
+      "url": "https://www.nytimes.com/athletic/7734247/2026/10/28/rays-brewers-game-5-world-series-2026-mlb-how-brewers-built/"
+    },
+    {
+      "category": "Rays",
       "description": "Rasmussen pitched Game 2 on Saturday, but he will get the ball again Wednesday night as the Rays attempt to force a Game 6.",
       "published": "2026-10-28T19:44:10+00:00",
       "title": "Drew Rasmussen to start Game 5 on short rest as Rays try to extend World Series",
@@ -118,30 +139,9 @@
       "published": "2026-10-25T03:49:03+00:00",
       "title": "Forty-four years of waiting, two wins from a title: Are the Brewers' glory days finally here?",
       "url": "https://www.nytimes.com/athletic/7721589/2026/10/24/brewers-frelick-game-2-world-series-win-rays/"
-    },
-    {
-      "category": "Rays",
-      "description": "The World Series now shifts to Florida, with Game 3 scheduled for Monday night at Tropicana Field.",
-      "published": "2026-10-25T03:48:54+00:00",
-      "title": "Brewers, gritty and tenacious this October, take Game 2. Can the Rays recover?",
-      "url": "https://www.nytimes.com/athletic/7720762/2026/10/24/rays-brewers-world-series-game-2-results-score-takeaways/"
-    },
-    {
-      "category": "Rays",
-      "description": "Has any team won a World Series with a starting rotation that was mostly just the nightly warm-up act for its bat-smothering relief crew?",
-      "published": "2026-10-24T09:56:41+00:00",
-      "title": "World Series Game 1 Weird & Wild: Brewers' winning formula — don't press start",
-      "url": "https://www.nytimes.com/athletic/7717034/2026/10/24/world-series-brewers-pitching-rays-stats-trivia/"
-    },
-    {
-      "category": "Rays",
-      "description": "Contreras — tough, emotional, improvisational — is the Brewers’ heart and soul. And often their guts and brains, too.",
-      "published": "2026-10-24T09:18:21+00:00",
-      "title": "Brewers' William Contreras, fearless and fierce, is becoming a superstar this October",
-      "url": "https://www.nytimes.com/athletic/7717053/2026/10/24/brewers-william-contreras-game-1-world-series-rays/"
     }
   ],
-  "generated_at": "2026-10-28T21:48:32.945846+00:00",
+  "generated_at": "2026-10-29T07:13:00.199737+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

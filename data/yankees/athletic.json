@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "In way-too-early fashion, we ranked all 30 teams based on how they stack up once free agents are removed from rosters. So who's on top? Duh.",
+      "published": "2026-10-29T03:27:43+00:00",
+      "title": "The 2027 Way-Too-Early MLB Power Rankings: Where does your team stand now?",
+      "url": "https://www.nytimes.com/athletic/7729846/2026/10/28/early-2027-mlb-offseason-power-rankings-brewers-dodgers-yankees/"
+    },
+    {
+      "category": "Yankees",
+      "description": "The Dodgers are the 2027 World Series favorites, ahead of the newly crowned Brewers.",
+      "published": "2026-10-29T03:18:37+00:00",
+      "title": "2027 World Series odds: Dodgers favored ahead of Brewers, Yankees, Red Sox",
+      "url": "https://www.nytimes.com/athletic/7730335/2026/10/28/2027-world-series-odds-dodgers-brewers-yankees-red-sox/"
+    },
+    {
+      "category": "Yankees",
       "description": "Once the World Series ends, baseball’s offseason moves will begin. What questions do you have about the Yankees?",
       "published": "2026-10-27T11:20:16+00:00",
       "title": "Submit your questions for Chris Kirschner's Yankees mailbag",
@@ -125,23 +139,9 @@
       "published": "2026-10-09T10:01:11+00:00",
       "title": "What's bothering dejected Yankees fans the most after this season? 'Nothing changes'",
       "url": "https://www.nytimes.com/athletic/7673195/2026/10/09/yankees-fan-sentiment-team-boone-cashman/"
-    },
-    {
-      "category": "Yankees",
-      "description": "It was the last postseason quadrupleheader of 2026, and I watched every darned minute of it. Here are the highlights and lowlights.",
-      "published": "2026-10-08T11:06:57+00:00",
-      "title": "Division Series Weird & Wild: Brewers, Padres kept it close, but Yankees never led Rays",
-      "url": "https://www.nytimes.com/athletic/7671079/2026/10/08/brewers-padres-yankees-rays-white-sox-strikeout-record/"
-    },
-    {
-      "category": "Yankees",
-      "description": "After a disappointing, tumultuous season that ended with him out of the starting lineup for Game 3, Chisholm said he still hopes to be back.",
-      "published": "2026-10-08T10:30:50+00:00",
-      "title": "Jazz Chisholm Jr. doesn't understand why Yankees fans booed him. But he wants to return",
-      "url": "https://www.nytimes.com/athletic/7670853/2026/10/08/jazz-chisholm-boos-yankees-return/"
     }
   ],
-  "generated_at": "2026-10-27T16:28:07.803166+00:00",
+  "generated_at": "2026-10-29T07:12:53.300604+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

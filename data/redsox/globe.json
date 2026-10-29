@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "ON BASEBALL",
+      "description": "Frelick grew up in Lexington rooting for the Red Sox and had firsthand knowledge that the right group of players can change history.",
+      "published": "2026-10-29T06:47:13.82Z",
+      "title": "Sal Frelick knew the Brewers had something special. Now they’re World Series champions.",
+      "url": "https://www.bostonglobe.com/2026/10/28/sports/world-series-brewers-first-championship/"
+    },
+    {
+      "category": "ON BASEBALL",
       "description": "The two-time defending NL Manager of the Year's status in the game is lofty. “He’s a legend,” said former Red Sox second baseman Dustin Pedroia.",
       "published": "2026-10-29T00:16:07.37Z",
       "title": "Brewers manager Pat Murphy steps into spotlight with highly entertaining World Series act",
@@ -104,16 +111,9 @@
       "published": "2026-10-25T04:12:15.594Z",
       "title": "Lexington native Sal Frelick homers to help Brewers to comeback win over Rays in World Series Game 2",
       "url": "https://www.bostonglobe.com/2026/10/25/sports/brewers-rays-world-series-game-2-score/"
-    },
-    {
-      "category": "Sunday baseball notes",
-      "description": "Cam Booser, now a key piece of the Rays' bullpen, remains grateful the Red Sox gave him his first big league opportunity in 2024.",
-      "published": "2026-10-25T02:54:47.872Z",
-      "title": "Cam Booser’s wild ride from construction to the majors now includes World Series trip with the Rays",
-      "url": "https://www.bostonglobe.com/2026/10/24/sports/sunday-baseball-notes-cam-booser-rays-world-series/"
     }
   ],
-  "generated_at": "2026-10-29T01:17:23.871988+00:00",
+  "generated_at": "2026-10-29T07:12:45.423611+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

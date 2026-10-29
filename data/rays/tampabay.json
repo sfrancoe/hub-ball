@@ -2,6 +2,34 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The two-time All-Star, who also pitched Game 2 Saturday, gives the Rays four formidable innings.",
+      "published": "2026-10-29T05:29:02+00:00",
+      "title": "Drew Rasmussen strong on short rest, but Rays can’t extend World Series",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/29/drew-rasmussen-world-series-game-5-rotation/"
+    },
+    {
+      "category": "Rays",
+      "description": "Pitch count | Yandy Diaz, Jonathan Aranda and Junior Caminero produced little pop in Tampa Bay’s Game 5 loss to the Brewers.",
+      "published": "2026-10-29T03:36:25+00:00",
+      "title": "Another soft night for the Rays’ Big 3 means a quiet World Series exit",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/28/yandy-diaz-junior-caminero-jonathan-aranda-world-series/"
+    },
+    {
+      "category": "Rays",
+      "description": "The hoped-for momentum from Tuesday’s walkoff win doesn’t materialize, and a successful season comes to a quiet end.",
+      "published": "2026-10-29T03:28:39+00:00",
+      "title": "Rays’ season comes to disappointing end with World Series loss to Brewers",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/28/milwaukee-brewers-win-world-series-game-5-jacob-misiorowski-drew-rasmussen-cooper-pratt/"
+    },
+    {
+      "category": "Rays",
+      "description": "A key player in the Red Sox’s historic 2004 rally from a 3-0 playoff deficit spent part of Tuesday’s game in new friend Patrick Zalupski’s suite.",
+      "published": "2026-10-29T01:27:45+00:00",
+      "title": "Rays owner turns to a good luck charm for a comeback — Kevin Millar",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/28/patrick-zalupski-world-series-brewers-kevin-millar-red-sox-yankees-2004-alcs/"
+    },
+    {
+      "category": "Rays",
       "description": "Manager Kevin Cash said Junior Caminero is “fine” despite a left foot issue. TV broadcaster Dewayne Staats to throw out the first pitch.",
       "published": "2026-10-28T19:21:13+00:00",
       "title": "World Series warmup: Drew Rasmussen to start Game 5 for Rays",
@@ -76,23 +104,9 @@
       "published": "2026-10-27T03:26:04+00:00",
       "title": "Rays on brink of World Series elimination after brutal showing in Game 3",
       "url": "https://www.tampabay.com/sports/rays/2026/10/26/milwaukee-brewers-world-series-game-3-robert-gasser-freddy-peralta-yandy-diaz-jackson-chourio/"
-    },
-    {
-      "category": "Rays",
-      "description": "Rather than throw out the first pitch as the Rays announced, Maddon summons James Shields to handle the duty.",
-      "published": "2026-10-27T02:32:08+00:00",
-      "title": "Former Rays manager Joe Maddon returns to Trop, makes call to bullpen",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/26/former-rays-manager-joe-maddon-returns-trop-makes-call-bullpen/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | The work done to prepare the ballpark that was seriously damaged by Hurricane Milton earns praise from MLB’s commissioner.",
-      "published": "2026-10-27T01:21:26+00:00",
-      "title": "Manfred lauds Trop as ‘better than ever’ for 1st Series game since ‘08",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/26/world-series-rob-manfred-tropicana-field-hurricane-milton-jonathan-aranda-ryan-vilade/"
     }
   ],
-  "generated_at": "2026-10-29T01:20:58.484478+00:00",
+  "generated_at": "2026-10-29T07:12:59.929588+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

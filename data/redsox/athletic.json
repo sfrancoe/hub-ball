@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "In way-too-early fashion, we ranked all 30 teams based on how they stack up once free agents are removed from rosters. So who's on top? Duh.",
+      "published": "2026-10-29T03:27:43+00:00",
+      "title": "The 2027 Way-Too-Early MLB Power Rankings: Where does your team stand now?",
+      "url": "https://www.nytimes.com/athletic/7729846/2026/10/28/early-2027-mlb-offseason-power-rankings-brewers-dodgers-yankees/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "The Dodgers are the 2027 World Series favorites, ahead of the newly crowned Brewers.",
+      "published": "2026-10-29T03:18:37+00:00",
+      "title": "2027 World Series odds: Dodgers favored ahead of Brewers, Yankees, Red Sox",
+      "url": "https://www.nytimes.com/athletic/7730335/2026/10/28/2027-world-series-odds-dodgers-brewers-yankees-red-sox/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Both broadcasters will forever remembered as the play-by-play chroniclers of Boston’s 1967 pennant-winning “Impossible Dream” season.",
       "published": "2026-10-27T11:00:58+00:00",
       "title": "Tough call for Red Sox fans: Ken Coleman or Ned Martin for Hall of Fame Frick Award?",
@@ -97,23 +111,9 @@
       "published": "2026-10-05T21:25:17+00:00",
       "title": "Craig Breslow, Chad Tracy talk pitching decisions, meet Willson Contreras and more",
       "url": "https://www.nytimes.com/athletic/7663555/2026/10/05/red-sox-craig-breslow-chad-tracy-willson-contreras/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "One day, cancer-stricken pitcher Chad Bettis received an unexpected phone call. The chain that started that day persists a decade later.",
-      "published": "2026-10-05T09:30:20+00:00",
-      "title": "The cancer club: How cyclist Lance Armstrong started an unlikely fraternity among MLB pitchers",
-      "url": "https://www.nytimes.com/athletic/7650709/2026/10/05/mlb-cancer-lance-armstrong-pitchers-fraternity/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Plus more offseason questions, like what they can do to prevent non-contact injuries and what to expect from Garrett Crochet.",
-      "published": "2026-10-02T09:45:51+00:00",
-      "title": "Red Sox offseason questions: What's Sonny Gray's future? Do they rely too heavily on data?",
-      "url": "https://www.nytimes.com/athletic/7650670/2026/10/02/red-sox-free-agency-questions/"
     }
   ],
-  "generated_at": "2026-10-27T16:28:00.680049+00:00",
+  "generated_at": "2026-10-29T07:12:46.335128+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }
