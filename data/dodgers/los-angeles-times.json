@@ -16,6 +16,13 @@
     },
     {
       "category": "Dodgers",
+      "description": "This is read by an automated voice. Please report any issues or inconsistencies here. See more from the L.A. Times in Google Search. Set us as preferred With the Dodgers eliminated, Los Angeles needs ...",
+      "published": "2026-10-23T04:00:00+00:00",
+      "title": "Why Dodgers fans need to be cheering for the Brewers in this World Series",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-23/dodgers-fans-cheering-for-brewers-world-series"
+    },
+    {
+      "category": "Dodgers",
       "description": "Bill Plaschke thinks the Dodgers need to pull Shohei Ohtani off the pitching mound permanently. And if he insists on continuing to hit and pitch full-time, it's time to consider a trade.",
       "published": "2026-10-21T15:44:00+00:00",
       "title": "Enough is enough. The Dodgers must stop letting Shohei Ohtani pitch",
@@ -51,13 +58,6 @@
     },
     {
       "category": "Dodgers",
-      "description": "The Milwaukee Brewers seem to have the Dodgers number as they win Wednesday to take a commanding 3-0 lead in the NLCS.",
-      "published": "2026-10-15T05:25:00+00:00",
-      "title": "The Sports Report: Dodgers are in a deep NLCS hole",
-      "url": "https://www.latimes.com/sports/newsletter/2026-10-15/dodgers-nlcs-game-3"
-    },
-    {
-      "category": "Dodgers",
       "description": "The Dodgers, after falling short of a three-peat in the NLCS, will look a little different next year. But is this the end of an era for the team?",
       "published": "2026-10-16T13:16:00+00:00",
       "title": "Why impending free agent Tarik Skubal doesn’t believe it’s the end of an era for the Dodgers",
@@ -69,9 +69,16 @@
       "published": "2026-10-21T17:36:00+00:00",
       "title": "After NLCS exit, Dodgers face big questions about their aging lineup and future",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-21/dodgers-andrew-friedman-brandon-gomes-offseason"
+    },
+    {
+      "category": "Dodgers",
+      "description": "From Maddie Lee: Blake Snell stood on the mound with his hand on his hip, waiting for Jake Bauers to cross the plate before punching in his pitch call for the next batter. The Dodgers left-hander had ...",
+      "published": "2026-10-15T05:25:00+00:00",
+      "title": "The Sports Report: Dodgers are in a deep NLCS hole",
+      "url": "https://www.latimes.com/sports/newsletter/2026-10-15/dodgers-nlcs-game-3"
     }
   ],
-  "generated_at": "2026-10-29T07:13:09.870974+00:00",
+  "generated_at": "2026-10-29T14:23:53.482472+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

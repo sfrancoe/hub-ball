@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Mariners",
-      "description": "Sean Quinton is an assistant sports editor at The Seattle Times, overseeing coverage of the Mariners, Husky football, the Cougars, the Sounders, the Reign, Olympic sports and more.",
-      "published": "2026-10-28T14:58:00+00:00",
-      "title": "Photos: Seattle Kraken defeat Maple Leafs, 5-4",
-      "url": "https://www.seattletimes.com/sports/kraken/photos-seattle-kraken-defeat-maple-leafs-5-4/"
-    },
-    {
-      "category": "Mariners",
       "description": "Rick Rizzs, the recently retired Mariners broadcasting legend, now has a road in Issaquah that bears his name.",
       "published": "2026-10-28T05:36:00+00:00",
       "title": "Rick Rizzs, recently retired Mariners broadcaster, gets an Issaquah road named after him",
@@ -20,6 +13,13 @@
       "published": "2026-10-27T03:11:00+00:00",
       "title": "Mariners’ manager search down to finalists Joe Espada, Jason Kanzler",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-manager-search-down-to-finalists-joe-espada-jason-kanzler/"
+    },
+    {
+      "category": "Mariners",
+      "description": "Sean Quinton is an assistant sports editor at The Seattle Times, overseeing coverage of the Mariners, Husky football, the Cougars, the Sounders, the Reign, Olympic sports and more.",
+      "published": "2026-10-28T14:58:00+00:00",
+      "title": "Photos: Seattle Kraken defeat Maple Leafs, 5-4",
+      "url": "https://www.seattletimes.com/sports/kraken/photos-seattle-kraken-defeat-maple-leafs-5-4/"
     },
     {
       "category": "Mariners",
@@ -41,9 +41,16 @@
       "published": "2026-10-22T09:40:00+00:00",
       "title": "Cleveland manager Stephen Vogt shoots down rumors of link to Mariners’ opening",
       "url": "https://www.seattletimes.com/sports/mariners/cleveland-manager-stephen-vogt-shoots-down-rumors-of-link-to-mariners-opening/"
+    },
+    {
+      "category": "Mariners",
+      "description": "The World Series is here, which means the Hot Stove season is drawing near. Here are three moves the Mariners need to consider this offseason before a likely lockout.",
+      "published": "2026-10-23T23:00:00+00:00",
+      "title": "What moves the Mariners need to make as offseason sprint gets close",
+      "url": "https://www.seattletimes.com/sports/mariners/what-moves-the-mariners-need-to-make-as-offseason-sprint-gets-close/"
     }
   ],
-  "generated_at": "2026-10-29T07:13:05.030917+00:00",
+  "generated_at": "2026-10-29T14:23:48.248141+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

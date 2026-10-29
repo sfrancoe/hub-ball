@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Brian Cashman has work to do this offseason after the Yankees failed to meet World Series expectations. How could they upgrade the offense?",
+      "published": "2026-10-29T11:03:16+00:00",
+      "title": "Who should be the Yankees' top target? Diving into Jorge Posada's comments: Mailbag",
+      "url": "https://www.nytimes.com/athletic/7731626/2026/10/29/yankees-trade-free-agent-targets-jorge-posada-comments/"
+    },
+    {
+      "category": "Yankees",
       "description": "In way-too-early fashion, we ranked all 30 teams based on how they stack up once free agents are removed from rosters. So who's on top? Duh.",
       "published": "2026-10-29T03:27:43+00:00",
       "title": "The 2027 Way-Too-Early MLB Power Rankings: Where does your team stand now?",
@@ -132,16 +139,9 @@
       "published": "2026-10-10T20:59:51+00:00",
       "title": "Yankees fan who interfered in ALDS Game 3 to face no additional punishment: Sources",
       "url": "https://www.nytimes.com/athletic/7678206/2026/10/10/yankees-fan-interference-rays-no-punishment/"
-    },
-    {
-      "category": "Yankees",
-      "description": "With the wounds still fresh after the ALDS exit, I solicited opinions from Yankees fans, then added my perspective on their chief concerns.",
-      "published": "2026-10-09T10:01:11+00:00",
-      "title": "What's bothering dejected Yankees fans the most after this season? 'Nothing changes'",
-      "url": "https://www.nytimes.com/athletic/7673195/2026/10/09/yankees-fan-sentiment-team-boone-cashman/"
     }
   ],
-  "generated_at": "2026-10-29T07:12:53.300604+00:00",
+  "generated_at": "2026-10-29T14:23:40.459552+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

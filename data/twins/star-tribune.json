@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Twins",
+      "description": "The Brewers and Rays have reached the World Series with modest payrolls. Their success offers four lessons for the Twins — and a frustrating reminder of what Minnesota has failed to accomplish.",
+      "published": "2026-10-28T20:30:00+00:00",
+      "title": "RandBall: This World Series should give Twins fans hope (and make them mad)",
+      "url": "https://www.startribune.com/minnesota-twins-roster-2027-mlb-trades-milwaukee-brewers-tampa-bay-rays-2026-world-series-payroll/601905249"
+    },
+    {
+      "category": "Twins",
       "description": "With owner Tom Pohlad promising to increase payroll, the Twins could pursue upgrades at catcher, in the bullpen and elsewhere. Here are 15 players who could fit their plans for 2027.",
       "published": "2026-10-26T20:15:00+00:00",
       "title": "Which players will Twins target in free agency? Here are some potential fits.",
@@ -50,7 +57,7 @@
       "url": "https://www.startribune.com/milwaukee-brewers-tampa-bay-rays-2026-world-series-minnesota-twins-mlb-braves-patrick-reusse-column/601902789"
     }
   ],
-  "generated_at": "2026-10-29T01:22:12.176189+00:00",
+  "generated_at": "2026-10-29T14:23:46.694718+00:00",
   "source": "Star Tribune",
   "source_url": "https://www.startribune.com/sports/twins/"
 }

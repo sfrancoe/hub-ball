@@ -2,9 +2,23 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The list is chock full of Brewers and Rays but plenty of stars from the postseason's other teams made indelible impressions.",
+      "published": "2026-10-29T11:07:58+00:00",
+      "title": "All-Playoff team: Contreras, Díaz, Ramírez stand out alongside Rasmussen, King and Williams",
+      "url": "https://www.nytimes.com/athletic/7734900/2026/10/29/all-playoff-team-brewers-rays-world-series/"
+    },
+    {
+      "category": "Rays",
+      "description": "Despite losing the World Series, in both on-field and off-field areas the Rays appear to be entering a strong time for their franchise.",
+      "published": "2026-10-29T10:30:41+00:00",
+      "title": "The Rays stumbled in the World Series. But could their best days still be ahead?",
+      "url": "https://www.nytimes.com/athletic/7735074/2026/10/29/mlb-tampa-bay-rays-stadium-hurricane-improvement/"
+    },
+    {
+      "category": "Rays",
       "description": "It took five games, but the Brewers were able to complete an October for the ages by beating the Rays. Contreras played a major role.",
       "published": "2026-10-29T03:53:31+00:00",
-      "title": "Brewers catcher William Contreras named World Series MVP",
+      "title": "Brewers' William Contreras gets deserved World Series MVP: 'We wouldn't be here without him'",
       "url": "https://www.nytimes.com/athletic/7731241/2026/10/28/william-contreras-world-series-mvp-brewers/"
     },
     {
@@ -125,23 +139,9 @@
       "published": "2026-10-25T09:45:10+00:00",
       "title": "Stu Sternberg spent two decades trying to win with the Rays. Now they chase a title without him",
       "url": "https://www.nytimes.com/athletic/7721967/2026/10/25/stu-sternberg-rays-owner-world-series-sale/"
-    },
-    {
-      "category": "Rays",
-      "description": "\"Today was probably not our best day,” Rays manager Kevin Cash said after Game 2.",
-      "published": "2026-10-25T09:35:54+00:00",
-      "title": "The Rays, steady and composed all season, are unraveling on the World Series stage",
-      "url": "https://www.nytimes.com/athletic/7720788/2026/10/25/rays-brewers-world-series-game-2-blown-lead/"
-    },
-    {
-      "category": "Rays",
-      "description": "The Brewers spotted the Rays four runs in Game 2. Then they showed why they can never be counted out.",
-      "published": "2026-10-25T03:49:03+00:00",
-      "title": "Forty-four years of waiting, two wins from a title: Are the Brewers' glory days finally here?",
-      "url": "https://www.nytimes.com/athletic/7721589/2026/10/24/brewers-frelick-game-2-world-series-win-rays/"
     }
   ],
-  "generated_at": "2026-10-29T07:13:00.199737+00:00",
+  "generated_at": "2026-10-29T14:23:43.326843+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

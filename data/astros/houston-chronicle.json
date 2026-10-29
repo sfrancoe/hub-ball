@@ -2,10 +2,10 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "Houston's 23-year-old right fielder hit 21 homers and earned a Gold Glove finalist nod, but his .210 average points to room for growth.",
-      "published": "2026-10-22T04:00:00+00:00",
-      "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-cam-smith-right-field-22486972.php"
+      "description": "With the conclusion of the World Series, a weighty offseason for the Houston Astros will begin to ramp up. The Astros are still without a general manager and manager, yet to announce who will lead ...",
+      "published": "2026-10-29T04:00:00+00:00",
+      "title": "World Series is over and offseason begins. Key dates and issues for Houston Astros",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-offseason-dates-issues-22497578.php"
     },
     {
       "category": "Astros",
@@ -30,6 +30,13 @@
     },
     {
       "category": "Astros",
+      "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
+      "published": "2026-10-20T04:00:00+00:00",
+      "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-left-field-yordan-alvarez-22483382.php"
+    },
+    {
+      "category": "Astros",
       "description": "Former Astros pitcher Lance McCullers Jr. was with the Milwaukee Brewers for just 10 days, but that should be enough to earn him a World Series ring, although the owners gets the final say.",
       "published": "2026-10-27T17:00:00+00:00",
       "title": "With Milwaukee Brewers' win, ex-Astros star Lance McCullers Jr. likely gets another World Series ring",
@@ -37,17 +44,10 @@
     },
     {
       "category": "Astros",
-      "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
-      "published": "2026-10-23T14:55:00+00:00",
-      "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-bullpen-review-free-agency-22491472.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
-      "published": "2026-10-20T04:00:00+00:00",
-      "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-left-field-yordan-alvarez-22483382.php"
+      "description": "Houston's 23-year-old right fielder hit 21 homers and earned a Gold Glove finalist nod, but his .210 average points to room for growth.",
+      "published": "2026-10-22T04:00:00+00:00",
+      "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-cam-smith-right-field-22486972.php"
     },
     {
       "category": "Astros",
@@ -65,13 +65,6 @@
     },
     {
       "category": "Astros",
-      "description": "Alvarez hit .316 with 42 home runs and thrived with two strikes. The Astros must weigh his production against Altuve’s need for more DH time.",
-      "published": "2026-10-23T04:00:00+00:00",
-      "title": "Yordan Alvarez's MVP-caliber season at DH | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-yordan-alvarez-dh-role-22489982.php"
-    },
-    {
-      "category": "Astros",
       "description": "The Astros' infield logjam was solved in unfortunate fashion last spring, but this offseason brings more intrigue when it comes to fitting in Carlos Correa and Isaac Paredes.",
       "published": "2026-10-18T03:59:00+00:00",
       "title": "More questions about Carlos Correa and Isaac Paredes at third base | Houston Astros roster analysis",
@@ -79,13 +72,20 @@
     },
     {
       "category": "Astros",
-      "description": "Joe Espada posts a farewell to his players, staff and fans in Houston after not being retained as Astros manager.",
-      "published": "2026-10-15T18:38:00+00:00",
-      "title": "Former Astros manager Joe Espada says thank you and goodbye to Houston",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/joe-espada-farewell-houston-22479511.php"
+      "description": "Alvarez hit .316 with 42 home runs and thrived with two strikes. The Astros must weigh his production against Altuve’s need for more DH time.",
+      "published": "2026-10-23T04:00:00+00:00",
+      "title": "Yordan Alvarez's MVP-caliber season at DH | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-yordan-alvarez-dh-role-22489982.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Houston's bullpen became team's strength for most of season but could look different in 2027 as Bryan Abreu and Steven Okert hit free agency ...",
+      "published": "2026-10-23T14:55:00+00:00",
+      "title": "Free agency for Bryan Abreu, Steven Okert shape bullpen decisions | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-bullpen-review-free-agency-22491472.php"
     }
   ],
-  "generated_at": "2026-10-29T07:13:03.813728+00:00",
+  "generated_at": "2026-10-29T14:23:47.046350+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

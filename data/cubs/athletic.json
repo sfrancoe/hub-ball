@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "Milwaukee's 11-2 postseason run was a reminder that the Cubs have a long way to go to catch up to their NL Central rivals.",
+      "published": "2026-10-29T04:00:00+00:00",
+      "title": "After Brewers’ World Series win, Milwaukee will remain the Cubs’ problem for a long time",
+      "url": "https://www.nytimes.com/athletic/7734358/2026/10/29/brewers-world-series-cubs-nl-central-problem/"
+    },
+    {
+      "category": "Cubs",
       "description": "The sources spoke on the condition of anonymity because they were not authorized to speak publicly. Mallee, a Chicago native, served as the Cubs’ assistant hitting coach for the ...",
       "published": "2026-10-28T15:10:00+00:00",
       "title": "Cubs to retain John Mallee, a key hitting coach for PCA, after Mets’ interest: Sources",
@@ -37,13 +44,20 @@
     },
     {
       "category": "Cubs",
+      "description": "Jared Banner, who had served as an assistant general manager for the Chicago Cubs, is joining Mike Elias in Baltimore. Scott Taetsch / Getty Images At the end of the season, Baltimore Orioles ...",
+      "published": "2026-10-19T06:02:00+00:00",
+      "title": "Orioles hire Cubs’ Jared Banner as GM in Baltimore: Source",
+      "url": "https://www.nytimes.com/athletic/7702293/2026/10/19/jared-banner-orioles-gm-hire/"
+    },
+    {
+      "category": "Cubs",
       "description": "Former Astros manager Joe Espada is among the known candidates in the Mariners’ search for a new skipper. Ishika Samant / Getty Images In their ongoing search for a new manager, the Seattle Mariners ...",
       "published": "2026-10-21T12:43:00+00:00",
       "title": "Mariners’ manager search includes Cubs farm director Jason Kanzler, among others: Sources",
       "url": "https://www.nytimes.com/athletic/7711238/2026/10/21/mariners-manager-search-candidates/"
     }
   ],
-  "generated_at": "2026-10-29T07:13:07.520466+00:00",
+  "generated_at": "2026-10-29T14:23:50.750364+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

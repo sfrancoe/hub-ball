@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "With the World Series over and the baseball world bracing for a lockout, an offseason...",
+      "published": "2026-10-29T14:06:33+00:00",
+      "title": "Yankees 2026-2027 offseason primer: Important dates, free agents, needs and more",
+      "url": "https://www.nydailynews.com/2026/10/29/yankees-2026-2027-offseason-primer-important-dates-free-agents-needs-and-more/"
+    },
+    {
+      "category": "Yankees",
       "description": "Using García elsewhere would help the Yankees with some roster issues, but he was a...",
       "published": "2026-10-28T13:16:36+00:00",
       "title": "Can the Yankees get more out of Luis García Jr. at other positions?",
@@ -132,16 +139,9 @@
       "published": "2026-10-14T14:43:07+00:00",
       "title": "Phillies name Don Mattingly their full-time manager, reach contract through 2028",
       "url": "https://www.nydailynews.com/2026/10/14/phillies-don-mattingly-manager-yankees-mlb/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Matt Blake and Tanner Swanson are two impending free agents the Yankees would be wise...",
-      "published": "2026-10-13T13:43:33+00:00",
-      "title": "Plenty up in the air for Yankees’ coaching staff",
-      "url": "https://www.nydailynews.com/2026/10/13/plenty-up-in-the-air-for-yankees-coaching-staff/"
     }
   ],
-  "generated_at": "2026-10-28T17:25:36.873279+00:00",
+  "generated_at": "2026-10-29T14:23:33.090233+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
