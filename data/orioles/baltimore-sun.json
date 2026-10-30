@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "From Ryan Mountcastle to Trevor Rogers to Ryan Helsley, how likely is every Orioles free agent and option player to return in 2027?",
+      "published": "2026-10-29T10:53:00+00:00",
+      "title": "Ranking Orioles free agents and option players most likely to return",
+      "url": "https://www.baltimoresun.com/2026/10/29/orioles-ranking-free-agents-option-players-most-likely-to-return-in-2027/"
+    },
+    {
+      "category": "Orioles",
       "description": "Orioles closer Ryan Helsley is returning for another season after he picked up his 2027 player option, a source confirmed to The Sun.",
       "published": "2026-10-29T09:45:00+00:00",
       "title": "Orioles’ Ryan Helsley picks up $14M player option to return for 2027 season",
       "url": "https://www.baltimoresun.com/2026/10/29/orioles-ryan-helsley-player-option/"
-    },
-    {
-      "category": "Orioles",
-      "description": "From Ryan Mountcastle to Trevor Rogers to Ryan Helsley, how likely is every Orioles free agent and option player to return in 2027?",
-      "published": "2026-10-29T03:18:00+00:00",
-      "title": "Ranking Orioles free agents and option players most likely to return",
-      "url": "https://www.baltimoresun.com/2026/10/29/orioles-ranking-free-agents-option-players-most-likely-to-return-in-2027/"
     },
     {
       "category": "Orioles",
@@ -51,17 +51,17 @@
     },
     {
       "category": "Orioles",
-      "description": "Orioles prospect Vance Honeycutt’s stock continues to soar after carrying over his strong finish in Double-A to the Arizona Fall League.",
-      "published": "2026-10-22T04:15:00+00:00",
-      "title": "Orioles prospect Vance Honeycutt continues hot streak in fall league",
-      "url": "https://www.baltimoresun.com/2026/10/22/orioles-vance-honeycutt-hot-streak-fall-league/"
-    },
-    {
-      "category": "Orioles",
       "description": "The Orioles’ new GM hire offers hope for improved player development in Baltimore, writes George Hammerbacher.",
       "published": "2026-10-21T08:30:00+00:00",
       "title": "A new direction and new hope for Orioles | READER COMMENTARY",
       "url": "https://www.baltimoresun.com/2026/10/21/orioles-gm-hire-jared-banner/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Orioles general manager Jared Banner joins Baltimore after previous stops with the Boston Red Sox, New York Mets and Chicago Cubs. Here are five things to know about him.",
+      "published": "2026-10-19T15:37:00+00:00",
+      "title": "5 things to know about new Orioles general manager Jared Banner",
+      "url": "https://www.baltimoresun.com/2026/10/19/who-is-new-orioles-general-manager-jared-banner/"
     },
     {
       "category": "Orioles",
@@ -71,7 +71,7 @@
       "url": "https://www.baltimoresun.com/2026/10/22/orioles-jim-duquette-bmore-baseball-podcast/"
     }
   ],
-  "generated_at": "2026-10-30T02:55:27.210347+00:00",
+  "generated_at": "2026-10-30T09:25:12.452612+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "Tatsuya Imai, who struggled in first season in MLB, had the option to leave the Astros but decided to stay for at least one more season.",
-      "published": "2026-10-29T12:22:00+00:00",
-      "title": "Pitcher Tatsuya Imai opts to return to Houston Astros for 2027 at $18 million",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/tatsuya-imai-return-houston-22501167.php"
-    },
-    {
-      "category": "Astros",
       "description": "With the conclusion of the World Series, a weighty offseason for the Houston Astros will begin to ramp up. The Astros are still without a general manager and manager, yet to announce who will lead ...",
       "published": "2026-10-29T04:00:00+00:00",
       "title": "World Series is over and offseason begins. Key dates and issues for Houston Astros",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-offseason-dates-issues-22497578.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Tatsuya Imai, who struggled in first season in MLB, had the option to leave the Astros but decided to stay for at least one more season.",
+      "published": "2026-10-29T12:22:00+00:00",
+      "title": "Pitcher Tatsuya Imai opts to return to Houston Astros for 2027 at $18 million",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/tatsuya-imai-return-houston-22501167.php"
     },
     {
       "category": "Astros",
@@ -58,10 +58,10 @@
     },
     {
       "category": "Astros",
-      "description": "It marked a step back for Diaz in his third season as the primary catcher. Framing pitches at the bottom of the strike zone remained a weakness (minus-5 runs saved, per Statcast). Vázquez’s framing ...",
-      "published": "2026-10-19T04:00:00+00:00",
-      "title": "Who will back up Yainer Diaz at catcher? | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-diaz-vazquez-22482722.php"
+      "description": "The Astros' infield logjam was solved in unfortunate fashion last spring, but this offseason brings more intrigue when it comes to fitting in Carlos Correa and Isaac Paredes.",
+      "published": "2026-10-18T03:59:00+00:00",
+      "title": "More questions about Carlos Correa and Isaac Paredes at third base | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-correa-paredes-22478699.php"
     },
     {
       "category": "Astros",
@@ -72,10 +72,10 @@
     },
     {
       "category": "Astros",
-      "description": "The Astros' infield logjam was solved in unfortunate fashion last spring, but this offseason brings more intrigue when it comes to fitting in Carlos Correa and Isaac Paredes.",
-      "published": "2026-10-18T03:59:00+00:00",
-      "title": "More questions about Carlos Correa and Isaac Paredes at third base | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-correa-paredes-22478699.php"
+      "description": "It marked a step back for Diaz in his third season as the primary catcher. Framing pitches at the bottom of the strike zone remained a weakness (minus-5 runs saved, per Statcast). Vázquez’s framing ...",
+      "published": "2026-10-19T04:00:00+00:00",
+      "title": "Who will back up Yainer Diaz at catcher? | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-diaz-vazquez-22482722.php"
     },
     {
       "category": "Astros",
@@ -85,7 +85,7 @@
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-bullpen-review-free-agency-22491472.php"
     }
   ],
-  "generated_at": "2026-10-30T02:55:30.980385+00:00",
+  "generated_at": "2026-10-30T09:25:15.393963+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

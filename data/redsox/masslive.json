@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Beating a 1-5 Dolphins team should be easy, but games in Miami never are for the Patriots.",
+      "published": "2026-10-30T09:00:00+00:00",
+      "title": "The Patriots can’t afford any Miami shenanigans on Sunday | Matt Vautour",
+      "url": "https://www.masslive.com/patriots/2026/10/the-patriots-cant-afford-any-miami-shenanigans-on-sunday.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox have traded infielder Tsung-Che Cheng to the Tigers, according to a source.",
       "published": "2026-10-30T02:06:16+00:00",
       "title": "Red Sox make second trade of day, send infielder to Tigers",
@@ -104,16 +111,9 @@
       "published": "2026-10-25T21:02:11+00:00",
       "title": "What Red Sox coaching changes mean — and what’s next for Chad Tracy’s staff",
       "url": "https://www.masslive.com/redsox/2026/10/what-red-sox-coaching-changes-mean-and-whats-next-for-chad-tracys-staff.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Random thoughts about (mostly) sports topics.",
-      "published": "2026-10-25T09:00:00+00:00",
-      "title": "Some Things I Think I Think: Red Sox can learn from World Series participants",
-      "url": "https://www.masslive.com/redsox/2026/10/some-things-i-think-i-think-red-sox-can-learn-from-world-series-participants.html"
     }
   ],
-  "generated_at": "2026-10-30T02:55:20.104894+00:00",
+  "generated_at": "2026-10-30T09:25:05.808638+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

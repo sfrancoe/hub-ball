@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "The longest-tenured Brewers player spotted some of his youngest teammates, including Jackson Chourio and Cooper Pratt, Jacob Misiorowski, and Logan Henderson — all champions before turning 25. “Dang, ...",
+      "published": "2026-10-30T02:20:00+00:00",
+      "title": "Can the Brewers become a small-market dynasty?",
+      "url": "https://www.nytimes.com/athletic/7736551/2026/10/30/brewers-mlb-world-series-free-agency-small-market/"
+    },
+    {
+      "category": "Brewers",
       "description": "Milwaukee's 11-2 postseason run was a reminder that the Cubs have a long way to go to catch up to their NL Central rivals.",
       "published": "2026-10-29T04:00:00+00:00",
       "title": "After Brewers’ World Series win, Milwaukee will remain the Cubs’ problem for a long time",
@@ -9,17 +16,24 @@
     },
     {
       "category": "Brewers",
-      "description": "Now, the trick for the Rays is to keep it going. They used their presumptive Game 5 starter, Nick Martinez, for two innings out of the bullpen, and their closer, Bryan Baker, threw two innings for the ...",
-      "published": "2026-10-28T21:45:00+00:00",
-      "title": "Brewers win World Series for first time, beat Rays in Game 5: Live updates and reaction",
-      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-rays-live-updates-mlb-world-series-game-5-score-result/syFE55E4DZfy/"
+      "description": "William Contreras, the catcher for the Milwaukee Brewers, helped lead the team victory with a 4-1 World Series win over the Tampa Bay Rays on Wednesday night.",
+      "published": "2026-10-29T08:49:00+00:00",
+      "title": "Milwaukee Brewers Win First World Series in Franchise History",
+      "url": "https://www.nytimes.com/video/the-athletic/100000011244899/milwaukee-brewers-win-first-world-series-in-franchise-history.html"
     },
     {
       "category": "Brewers",
-      "description": "Bruce Johnson and his family were among the roughly 31,000 fans who celebrated the Brewers' World Series at American Family Field. Jon Greenberg / The Athletic MILWAUKEE — It was a gorgeous, ...",
+      "description": "Milwaukee held a parade for the World Series losers in 1982. It was that kind of team and that kind of town. Robin Yount rode his motorcycle and the fans cheered their heroes, who came oh-so-close.",
       "published": "2026-10-29T04:22:00+00:00",
       "title": "Joyous Brewers fans turn American Family Field into World Series party: ‘This has been special’",
       "url": "https://www.nytimes.com/athletic/7733304/2026/10/29/milwaukee-brewers-win-american-family-field-fan-reaction/"
+    },
+    {
+      "category": "Brewers",
+      "description": "For the first time ever, the Milwaukee Brewers are the World Series champions. I’m Levi Weaver — welcome to The Windup! There’s nothing quite like that first championship.",
+      "published": "2026-10-29T09:59:00+00:00",
+      "title": "Finally, our first-time champ. How the Brewers made history",
+      "url": "https://www.nytimes.com/athletic/7735775/2026/10/29/brewers-first-world-series-the-windup/"
     },
     {
       "category": "Brewers",
@@ -51,10 +65,10 @@
     },
     {
       "category": "Brewers",
-      "description": "William Contreras, the catcher for the Milwaukee Brewers, helped lead the team victory with a 4-1 World Series win over the Tampa Bay Rays on Wednesday night.",
-      "published": "2026-10-29T08:49:00+00:00",
-      "title": "Milwaukee Brewers Win First World Series in Franchise History",
-      "url": "https://www.nytimes.com/video/the-athletic/100000011244899/milwaukee-brewers-win-first-world-series-in-franchise-history.html"
+      "description": "Now, the trick for the Rays is to keep it going. They used their presumptive Game 5 starter, Nick Martinez, for two innings out of the bullpen, and their closer, Bryan Baker, threw two innings for the ...",
+      "published": "2026-10-28T21:45:00+00:00",
+      "title": "Brewers win World Series for first time, beat Rays in Game 5: Live updates and reaction",
+      "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-rays-live-updates-mlb-world-series-game-5-score-result/syFE55E4DZfy/"
     },
     {
       "category": "Brewers",
@@ -69,23 +83,9 @@
       "published": "2026-10-28T05:38:00+00:00",
       "title": "Brewers fans hoping to exorcise 44-year-old ghosts were out in force for Game 4",
       "url": "https://www.nytimes.com/athletic/7730233/2026/10/28/brewers-fans-game-4-world-series/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Milwaukee Brewers just won the World Series, but they aren’t favored to win the 2027 edition. The favorite, of course, is the powerhouse Los Angeles Dodgers.",
-      "published": "2026-10-28T20:18:00+00:00",
-      "title": "2027 World Series odds: Dodgers favored ahead of Brewers, Yankees, Red Sox",
-      "url": "https://www.nytimes.com/athletic/7730335/2026/10/28/2027-world-series-odds-dodgers-brewers-yankees-red-sox/"
-    },
-    {
-      "category": "Brewers",
-      "description": "No team has ever overcome a 3-0 deficit in the World Series. Then again, no team this October has weathered a haymaker from the Brewers like the Rays did on Wednesday. After Milwaukee rookie Cooper ...",
-      "published": "2026-10-27T21:32:00+00:00",
-      "title": "Not so fast: Rays walk off Brewers in extras to keep World Series hopes alive",
-      "url": "https://www.nytimes.com/athletic/7731422/2026/10/28/brewers-rays-game-4-world-series-mlb-playoffs-walk-off/"
     }
   ],
-  "generated_at": "2026-10-30T02:55:36.736864+00:00",
+  "generated_at": "2026-10-30T09:25:20.265969+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }

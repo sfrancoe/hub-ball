@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "As the Phillies' representative in the players' union, Garrett Stubbs is on the front lines of baseball's upcoming labor dispute. He joined \"Phillies Extra\" to discuss the CBA and the next season.",
+      "published": "2026-10-30T02:01:00+00:00",
+      "title": "Phillies Extra: Garrett Stubbs on baseball’s looming labor fight, the case against a salary cap, and more",
+      "url": "https://www.inquirer.com/inquirer-live/garrett-stubbs-mlb-lockout-salary-cap-cba-20261030.html"
+    },
+    {
+      "category": "Phillies",
       "description": "Lefty reliever Tim Mayza talks to the Inquirer's Scott Lauber on his new contract, pitching for the team he grew up watching, and more.",
       "published": "2026-10-23T03:01:00+00:00",
       "title": "Phillies Extra: Lefty reliever Tim Mayza on his new contract, pitching for the team he grew up watching, and more",
@@ -9,34 +16,13 @@
     },
     {
       "category": "Phillies",
-      "description": "In moving the popular backup catcher off the 40-man roster, the Phillies have a week to trade him or put him through waivers.",
-      "published": "2026-10-29T17:53:00+00:00",
-      "title": "Garrett Stubbs will be designated for assignment by the Phillies",
-      "url": "https://www.inquirer.com/phillies/garrett-stubbs-dfa-release-roster-transaction-20261029.html"
-    },
-    {
-      "category": "Phillies",
       "description": "The Phillies had three catchers on their playoff roster, but don’t mistake that for depth at the position. Once again, they must find help — and possibly an eventual successor — for J.T. Realmuto.",
       "published": "2026-10-29T05:02:00+00:00",
       "title": "Phillies 2027 catchers outlook: Free-agent options, prospect forecast, and more",
       "url": "https://www.inquirer.com/phillies/jt-realmuto-catchers-free-agency-prospects-trade-2027-preview-20261029.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "Big Phan — which premiers Saturday at the Philadelphia Film Festival — took two years to finish as the Kepner brothers tapped into their childhood and told a story that only they could.",
-      "published": "2026-10-16T03:01:00+00:00",
-      "title": "How two Philadelphia brothers became the perfect people to make a documentary about the Phanatic",
-      "url": "https://www.inquirer.com/phillies/phanatic-documentary-movie-premier-film-festival-dave-raymond-20261016.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "Alex Cora won’t manage the Phillies next season, but his former hitting coach is poised to join Don Mattingly’s staff. The Phillies will hire Peter Fatse to be their hitting coach, a major-league ...",
-      "published": "2026-10-26T16:48:00+00:00",
-      "title": "Source: Phillies set to hire Peter Fatse as the hitting coach",
-      "url": "https://www.inquirer.com/phillies/peter-fatse-hitting-coach-alex-cora-red-sox-20261026.html"
     }
   ],
-  "generated_at": "2026-10-30T02:55:34.412689+00:00",
+  "generated_at": "2026-10-30T09:25:18.249241+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }
