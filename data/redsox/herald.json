@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox obviously need a big bat, but what are some of the club’s other needs heading into the offseason?",
+      "published": "2026-10-30T09:30:11Z",
+      "title": "Everyone knows Red Sox need a bat, but what are club’s other biggest needs?",
+      "url": "https://www.bostonherald.com/2026/10/30/everyone-knows-red-sox-need-a-bat-but-what-are-clubs-other-biggest-needs/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox swung another trade on Thursday, dealing a defensive-minded infielder to the Detroit Tigers to clear another 40-man roster spot.",
       "published": "2026-10-30T01:50:54Z",
       "title": "Red Sox swing second trade, deal infielder to Tigers for cash",
@@ -104,16 +111,9 @@
       "published": "2026-10-18T09:30:00Z",
       "title": "MLB notes: Breaking down salary cap, other proposals as labor talks heat up",
       "url": "https://www.bostonherald.com/2026/10/18/mlb-notes-breaking-down-salary-cap-other-proposals-as-labor-talks-heat-up/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox boast one of the best outfields in baseball, but some of the club’s young standouts enjoyed better seasons than others.",
-      "published": "2026-10-17T09:30:36Z",
-      "title": "Red Sox Report Cards: Mixed reviews for talented outfield group",
-      "url": "https://www.bostonherald.com/2026/10/17/red-sox-report-cards-mixed-reviews-for-talented-outfield-group/"
     }
   ],
-  "generated_at": "2026-10-30T02:55:19.060160+00:00",
+  "generated_at": "2026-10-30T16:20:09.883012+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

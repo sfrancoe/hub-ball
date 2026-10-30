@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Plus answering questions about Giancarlo Stanton, Spencer Jones and potential options to play second and third base.",
+      "published": "2026-10-30T10:09:14+00:00",
+      "title": "Yankees mailbag: Should New York pursue Japanese star Teruaki Sato?",
+      "url": "https://www.nytimes.com/athletic/7734641/2026/10/30/yankees-teruaki-sato-free-agent-japan/"
+    },
+    {
+      "category": "Yankees",
       "description": "Murphy ribbed pending free agent Jake Bauers about potentially joining “that horses--- Yankees team” in a postgame conversation.",
       "published": "2026-10-29T15:33:43+00:00",
       "title": "Brewers manager Pat Murphy takes jab at Yankees in viral moment after World Series win",
@@ -132,16 +139,9 @@
       "published": "2026-10-14T11:00:30+00:00",
       "title": "Yankees' 3 pressing roster questions: What to do with Giancarlo Stanton?",
       "url": "https://www.nytimes.com/athletic/7688231/2026/10/14/yankees-roster-questions-giancarlo-stanton/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Our thoughts on each impending free agent, including our predictions on who might stay with the Yankees and who might depart.",
-      "published": "2026-10-13T10:01:56+00:00",
-      "title": "Predicting outcomes for all 10 of Yankees' free agents: Who stays, who goes?",
-      "url": "https://www.nytimes.com/athletic/7682085/2026/10/13/yankees-free-agents-predictions-stay-go/"
     }
   ],
-  "generated_at": "2026-10-29T19:44:19.437191+00:00",
+  "generated_at": "2026-10-30T16:20:18.179305+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

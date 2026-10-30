@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million.",
+      "published": "2026-10-30T10:00:01+00:00",
+      "title": "Examining Red Sox 2027 payroll, how it affects trades, free agency before new CBA",
+      "url": "https://www.masslive.com/redsox/2026/10/examining-red-sox-2027-payroll-and-how-it-affects-trades-free-agent-signings-before-new-cba.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Beating a 1-5 Dolphins team should be easy, but games in Miami never are for the Patriots.",
       "published": "2026-10-30T09:00:00+00:00",
       "title": "The Patriots can’t afford any Miami shenanigans on Sunday | Matt Vautour",
@@ -104,16 +111,9 @@
       "published": "2026-10-26T17:47:09+00:00",
       "title": "Alex Cora breaks silence on Red Sox firing 6 months later, plus what 'really upset him'",
       "url": "https://www.masslive.com/redsox/2026/10/alex-cora-finally-discusses-red-sox-firing-regrets-future-five-takeaways.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox made some coaching changes this week. Here's what they all mean — and what might be next.",
-      "published": "2026-10-25T21:02:11+00:00",
-      "title": "What Red Sox coaching changes mean — and what’s next for Chad Tracy’s staff",
-      "url": "https://www.masslive.com/redsox/2026/10/what-red-sox-coaching-changes-mean-and-whats-next-for-chad-tracys-staff.html"
     }
   ],
-  "generated_at": "2026-10-30T09:25:05.808638+00:00",
+  "generated_at": "2026-10-30T16:20:11.350812+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
