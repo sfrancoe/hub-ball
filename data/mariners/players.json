@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:25:36.157339+00:00",
-  "roster_as_of": "October 2, 2026",
+  "generated_at": "2026-10-30T16:10:12.429601+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 136,
     "name": "Seattle Mariners"
   },
   "roster_type": "open-current-roster",
-  "player_count": 47,
+  "player_count": 43,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -65,67 +65,6 @@
         "through_season": 2025,
         "status": "not_in_2025_release",
         "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 668227,
-      "mlb_id": 668227,
-      "wikidata_id": "Q65972748",
-      "slug": "randy-arozarena",
-      "name": "Randy Arozarena",
-      "full_name": "Randy Arozarena",
-      "number": "56",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "LF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-02-28",
-      "age": 31,
-      "birthplace": "Havana",
-      "height": "5' 11\"",
-      "weight": 170,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 14, 2019",
-      "debut_team": "St. Louis Cardinals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "St. Louis Cardinals",
-        "Tampa Bay Rays",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q65972748",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Randy_Arozarena",
-      "retrosheet_id": "arozr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 801,
-          "plate_appearances": 3359,
-          "at_bats": 2912,
-          "runs": 452,
-          "hits": 729,
-          "doubles": 160,
-          "triples": 10,
-          "home_runs": 118,
-          "runs_batted_in": 390,
-          "walks": 327,
-          "strikeouts": 868,
-          "stolen_bases": 131,
-          "caught_stealing": 49,
-          "average": 0.25,
-          "on_base_percentage": 0.344,
-          "slugging_percentage": 0.434,
-          "ops": 0.778
-        },
         "pitching": null
       }
     },
@@ -450,70 +389,6 @@
           "on_base_percentage": 0.304,
           "slugging_percentage": 0.428,
           "ops": 0.732
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 641487,
-      "mlb_id": 641487,
-      "wikidata_id": "Q16236713",
-      "slug": "j-p-crawford",
-      "name": "J. P. Crawford",
-      "full_name": "J. P. Crawford",
-      "number": "3",
-      "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-01-11",
-      "age": 31,
-      "birthplace": "Lakewood",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "September 5, 2017",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Lakewood High School"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16236713",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/J._P._Crawford",
-      "retrosheet_id": "crawj002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 930,
-          "plate_appearances": 3886,
-          "at_bats": 3369,
-          "runs": 465,
-          "hits": 837,
-          "doubles": 174,
-          "triples": 15,
-          "home_runs": 67,
-          "runs_batted_in": 344,
-          "walks": 441,
-          "strikeouts": 724,
-          "stolen_bases": 35,
-          "caught_stealing": 15,
-          "average": 0.248,
-          "on_base_percentage": 0.34,
-          "slugging_percentage": 0.369,
-          "ops": 0.709
         },
         "pitching": null
       }
@@ -1357,6 +1232,66 @@
       }
     },
     {
+      "id": 687529,
+      "mlb_id": 687529,
+      "wikidata_id": "Q129136419",
+      "slug": "grant-mccray",
+      "name": "Grant McCray",
+      "full_name": "Grant McCray",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2000-12-07",
+      "age": 25,
+      "birthplace": "Billings",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": "August 14, 2024",
+      "debut_team": "San Francisco Giants",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants",
+        "Seattle Mariners"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q129136419",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grant_McCray",
+      "retrosheet_id": "mccrg001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 59,
+          "plate_appearances": 156,
+          "at_bats": 146,
+          "runs": 16,
+          "hits": 27,
+          "doubles": 3,
+          "triples": 3,
+          "home_runs": 5,
+          "runs_batted_in": 12,
+          "walks": 8,
+          "strikeouts": 67,
+          "stolen_bases": 5,
+          "caught_stealing": 0,
+          "average": 0.185,
+          "on_base_percentage": 0.226,
+          "slugging_percentage": 0.349,
+          "ops": 0.575
+        },
+        "pitching": null
+      }
+    },
+    {
       "id": 682243,
       "mlb_id": 682243,
       "wikidata_id": null,
@@ -1431,97 +1366,6 @@
           "complete_games": 0,
           "era": 4.01,
           "whip": 1.127
-        }
-      }
-    },
-    {
-      "id": 571948,
-      "mlb_id": 571948,
-      "wikidata_id": "Q30589253",
-      "slug": "hoby-milner",
-      "name": "Hoby Milner",
-      "full_name": "Hoby Milner",
-      "number": "41",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-01-13",
-      "age": 35,
-      "birthplace": "Dallas",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "June 24, 2017",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Texas at Austin"
-          },
-          {
-            "name": "R. L. Paschal High School"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Tampa Bay Rays",
-        "Los Angeles Angels",
-        "Milwaukee Brewers",
-        "Texas Rangers",
-        "Chicago Cubs",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q30589253",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Hoby_Milner",
-      "retrosheet_id": "milnh001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 367,
-          "plate_appearances": 4,
-          "at_bats": 3,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.25,
-          "slugging_percentage": 0.0,
-          "ops": 0.25
-        },
-        "pitching": {
-          "games": 367,
-          "games_started": 1,
-          "wins": 13,
-          "losses": 9,
-          "saves": 1,
-          "innings_outs": 1024,
-          "hits": 327,
-          "runs": 163,
-          "earned_runs": 145,
-          "home_runs": 39,
-          "walks": 94,
-          "strikeouts": 321,
-          "hit_batters": 22,
-          "wild_pitches": 2,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.82,
-          "whip": 1.233
         }
       }
     },
@@ -2062,66 +1906,6 @@
           "era": 0.0,
           "whip": 2.0
         }
-      }
-    },
-    {
-      "id": 645302,
-      "mlb_id": 645302,
-      "wikidata_id": "Q27919885",
-      "slug": "victor-robles",
-      "name": "Víctor Robles",
-      "full_name": "Víctor Robles",
-      "number": "10",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "RF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-05-19",
-      "age": 29,
-      "birthplace": "Santo Domingo Este",
-      "height": "6' 0\"",
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 7, 2017",
-      "debut_team": "Washington Nationals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Washington Nationals",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q27919885",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Robles",
-      "retrosheet_id": "roblv001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 639,
-          "plate_appearances": 2210,
-          "at_bats": 1945,
-          "runs": 266,
-          "hits": 481,
-          "doubles": 102,
-          "triples": 12,
-          "home_runs": 36,
-          "runs_batted_in": 191,
-          "walks": 133,
-          "strikeouts": 497,
-          "stolen_bases": 106,
-          "caught_stealing": 28,
-          "average": 0.247,
-          "on_base_percentage": 0.319,
-          "slugging_percentage": 0.368,
-          "ops": 0.687
-        },
-        "pitching": null
       }
     },
     {
@@ -2692,77 +2476,6 @@
           "era": 4.08,
           "whip": 1.384
         }
-      }
-    },
-    {
-      "id": 621493,
-      "mlb_id": 621493,
-      "wikidata_id": "Q56169880",
-      "slug": "taylor-ward",
-      "name": "Taylor Ward",
-      "full_name": "Taylor Ward",
-      "number": "27",
-      "position": {
-        "name": "Designated Hitter",
-        "group": "Hitter",
-        "abbreviation": "DH"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-12-14",
-      "age": 32,
-      "birthplace": "Dayton",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 14, 2018",
-      "debut_team": "Los Angeles Angels",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Paul J. Hagerty High School"
-          },
-          {
-            "name": "Shadow Hills High School"
-          },
-          {
-            "name": "California State University, Fresno"
-          }
-        ]
-      },
-      "teams": [
-        "Los Angeles Angels",
-        "Baltimore Orioles",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q56169880",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Taylor_Ward",
-      "retrosheet_id": "wardt002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 704,
-          "plate_appearances": 2833,
-          "at_bats": 2494,
-          "runs": 359,
-          "hits": 615,
-          "doubles": 124,
-          "triples": 8,
-          "home_runs": 113,
-          "runs_batted_in": 345,
-          "walks": 280,
-          "strikeouts": 689,
-          "stolen_bases": 24,
-          "caught_stealing": 11,
-          "average": 0.247,
-          "on_base_percentage": 0.327,
-          "slugging_percentage": 0.439,
-          "ops": 0.766
-        },
-        "pitching": null
       }
     },
     {

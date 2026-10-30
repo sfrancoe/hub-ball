@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:27:05.433604+00:00",
+  "generated_at": "2026-10-30T16:11:18.220480+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 144,
@@ -361,9 +361,9 @@
       "full_name": "Kyle Farmer",
       "number": "15",
       "position": {
-        "name": "Designated Hitter",
+        "name": "Shortstop",
         "group": "Hitter",
-        "abbreviation": "DH"
+        "abbreviation": "SS"
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
@@ -1884,8 +1884,8 @@
       }
     },
     {
-      "id": 1932335789,
-      "mlb_id": null,
+      "id": 680885,
+      "mlb_id": 680885,
       "wikidata_id": "Q107275837",
       "slug": "spencer-schwellenbach",
       "name": "Spencer Schwellenbach",

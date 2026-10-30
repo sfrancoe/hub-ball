@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:30:34.515520+00:00",
+  "generated_at": "2026-10-30T16:15:00.571729+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 158,
     "name": "Milwaukee Brewers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 42,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -239,92 +239,6 @@
           "ops": 0.674
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 641343,
-      "mlb_id": 641343,
-      "wikidata_id": "Q18684647",
-      "slug": "jake-bauers",
-      "name": "Jake Bauers",
-      "full_name": "Jake Bauers",
-      "number": "9",
-      "position": {
-        "name": "First Base",
-        "group": "Infielder",
-        "abbreviation": "1B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-10-06",
-      "age": 31,
-      "birthplace": "Huntington Beach",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "June 7, 2018",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Marina High School"
-          }
-        ]
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "Cleveland Indians",
-        "Seattle Mariners",
-        "New York Yankees",
-        "Milwaukee Brewers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q18684647",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jake_Bauers",
-      "retrosheet_id": "bauej001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 615,
-          "plate_appearances": 1962,
-          "at_bats": 1704,
-          "runs": 222,
-          "hits": 360,
-          "doubles": 78,
-          "triples": 5,
-          "home_runs": 58,
-          "runs_batted_in": 211,
-          "walks": 227,
-          "strikeouts": 569,
-          "stolen_bases": 39,
-          "caught_stealing": 14,
-          "average": 0.211,
-          "on_base_percentage": 0.307,
-          "slugging_percentage": 0.365,
-          "ops": 0.672
-        },
-        "pitching": {
-          "games": 9,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 27,
-          "hits": 13,
-          "runs": 6,
-          "earned_runs": 4,
-          "home_runs": 0,
-          "walks": 7,
-          "strikeouts": 2,
-          "hit_batters": 2,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.0,
-          "whip": 2.222
-        }
       }
     },
     {
@@ -1350,91 +1264,6 @@
       }
     },
     {
-      "id": 669160,
-      "mlb_id": 669160,
-      "wikidata_id": "Q61787599",
-      "slug": "dustin-may",
-      "name": "Dustin May",
-      "full_name": "Dustin May",
-      "number": "21",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-09-06",
-      "age": 29,
-      "birthplace": "Justin",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 2, 2019",
-      "debut_team": "Los Angeles Dodgers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Northwest High School"
-          }
-        ]
-      },
-      "teams": [
-        "Los Angeles Dodgers",
-        "Boston Red Sox",
-        "St. Louis Cardinals",
-        "Milwaukee Brewers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q61787599",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Dustin_May",
-      "retrosheet_id": "may-d003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 71,
-          "plate_appearances": 15,
-          "at_bats": 14,
-          "runs": 0,
-          "hits": 1,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 7,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.071,
-          "on_base_percentage": 0.071,
-          "slugging_percentage": 0.071,
-          "ops": 0.142
-        },
-        "pitching": {
-          "games": 71,
-          "games_started": 57,
-          "wins": 19,
-          "losses": 20,
-          "saves": 0,
-          "innings_outs": 972,
-          "hits": 276,
-          "runs": 152,
-          "earned_runs": 139,
-          "home_runs": 40,
-          "walks": 113,
-          "strikeouts": 297,
-          "hit_batters": 25,
-          "wild_pitches": 4,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.86,
-          "whip": 1.201
-        }
-      }
-    },
-    {
       "id": 656730,
       "mlb_id": 656730,
       "wikidata_id": "Q106634456",
@@ -2043,93 +1872,6 @@
       }
     },
     {
-      "id": 668941,
-      "mlb_id": 668941,
-      "wikidata_id": "Q42427330",
-      "slug": "jojo-romero",
-      "name": "JoJo Romero",
-      "full_name": "JoJo Romero",
-      "number": "33",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-09-09",
-      "age": 30,
-      "birthplace": "Camarillo",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 21, 2020",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Nevada, Reno"
-          },
-          {
-            "name": "Yavapai College"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "St. Louis Cardinals",
-        "Milwaukee Brewers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q42427330",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/JoJo_Romero",
-      "retrosheet_id": "romej002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 197,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 197,
-          "games_started": 0,
-          "wins": 15,
-          "losses": 11,
-          "saves": 12,
-          "innings_outs": 578,
-          "hits": 166,
-          "runs": 88,
-          "earned_runs": 76,
-          "home_runs": 19,
-          "walks": 71,
-          "strikeouts": 183,
-          "hit_batters": 11,
-          "wild_pitches": 5,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.55,
-          "whip": 1.23
-        }
-      }
-    },
-    {
       "id": 622608,
       "mlb_id": 622608,
       "wikidata_id": "Q29107602",
@@ -2704,88 +2446,6 @@
           "complete_games": 0,
           "era": 4.82,
           "whip": 1.408
-        }
-      }
-    },
-    {
-      "id": 605540,
-      "mlb_id": 605540,
-      "wikidata_id": "Q29833546",
-      "slug": "brandon-woodruff",
-      "name": "Brandon Woodruff",
-      "full_name": "Brandon Woodruff",
-      "number": "53",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-02-10",
-      "age": 33,
-      "birthplace": "Tupelo",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "August 4, 2017",
-      "debut_team": "Milwaukee Brewers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Mississippi State University"
-          }
-        ]
-      },
-      "teams": [
-        "Milwaukee Brewers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q29833546",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Woodruff",
-      "retrosheet_id": "woodb005",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 147,
-          "plate_appearances": 129,
-          "at_bats": 115,
-          "runs": 5,
-          "hits": 22,
-          "doubles": 4,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 7,
-          "walks": 6,
-          "strikeouts": 51,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.191,
-          "on_base_percentage": 0.231,
-          "slugging_percentage": 0.252,
-          "ops": 0.483
-        },
-        "pitching": {
-          "games": 142,
-          "games_started": 127,
-          "wins": 53,
-          "losses": 28,
-          "saves": 1,
-          "innings_outs": 2235,
-          "hits": 580,
-          "runs": 269,
-          "earned_runs": 257,
-          "home_runs": 84,
-          "walks": 190,
-          "strikeouts": 871,
-          "hit_batters": 32,
-          "wild_pitches": 8,
-          "balks": 1,
-          "complete_games": 2,
-          "era": 3.1,
-          "whip": 1.034
         }
       }
     },

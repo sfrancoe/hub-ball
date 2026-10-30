@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T16:28:36.470450+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-30T16:13:05.210096+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 120,
     "name": "Washington Nationals"
@@ -1143,86 +1143,6 @@
       }
     },
     {
-      "id": 687849,
-      "mlb_id": 687849,
-      "wikidata_id": "Q127164721",
-      "slug": "zak-kent",
-      "name": "Zak Kent",
-      "full_name": "Zak Kent",
-      "number": "57",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-02-24",
-      "age": 28,
-      "birthplace": "Henrico, Virginia, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 23, 2025",
-      "debut_team": "Cleveland Guardians",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Cleveland Guardians",
-        "Minnesota Twins",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q127164721",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Zak_Kent",
-      "retrosheet_id": "kentz001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 12,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 12,
-          "games_started": 0,
-          "wins": 1,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 53,
-          "hits": 17,
-          "runs": 10,
-          "earned_runs": 9,
-          "home_runs": 1,
-          "walks": 8,
-          "strikeouts": 16,
-          "hit_batters": 1,
-          "wild_pitches": 3,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 4.58,
-          "whip": 1.415
-        }
-      }
-    },
-    {
       "id": 695734,
       "mlb_id": 695734,
       "wikidata_id": "Q134561992",
@@ -2131,6 +2051,48 @@
           "era": 7.81,
           "whip": 2.06
         }
+      }
+    },
+    {
+      "id": 694820,
+      "mlb_id": 694820,
+      "wikidata_id": "Q141185971",
+      "slug": "braxton-roxby",
+      "name": "Braxton Roxby",
+      "full_name": "Braxton Roxby",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1999-03-12",
+      "age": 27,
+      "birthplace": "Windber, Pennsylvania, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "August 28, 2026",
+      "debut_team": "San Francisco Giants",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants",
+        "Washington Nationals"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q141185971",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Braxton_Roxby",
+      "retrosheet_id": "roxbb001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

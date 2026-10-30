@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:31:13.187451+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-30T16:15:28.290155+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 134,
     "name": "Pittsburgh Pirates"
   },
   "roster_type": "open-current-roster",
-  "player_count": 41,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1397,70 +1397,6 @@
       }
     },
     {
-      "id": 664040,
-      "mlb_id": 664040,
-      "wikidata_id": "Q56043254",
-      "slug": "brandon-lowe",
-      "name": "Brandon Lowe",
-      "full_name": "Brandon Lowe",
-      "number": "5",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-07-06",
-      "age": 32,
-      "birthplace": "Newport News",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "August 5, 2018",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Maryland"
-          }
-        ]
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "Pittsburgh Pirates"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q56043254",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Lowe",
-      "retrosheet_id": "loweb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 745,
-          "plate_appearances": 2994,
-          "at_bats": 2657,
-          "runs": 415,
-          "hits": 657,
-          "doubles": 126,
-          "triples": 12,
-          "home_runs": 157,
-          "runs_batted_in": 446,
-          "walks": 282,
-          "strikeouts": 817,
-          "stolen_bases": 33,
-          "caught_stealing": 5,
-          "average": 0.247,
-          "on_base_percentage": 0.326,
-          "slugging_percentage": 0.481,
-          "ops": 0.807
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 663968,
       "mlb_id": 663968,
       "wikidata_id": "Q64748283",
@@ -2347,88 +2283,6 @@
           "complete_games": 1,
           "era": 1.96,
           "whip": 0.948
-        }
-      }
-    },
-    {
-      "id": 642397,
-      "mlb_id": 642397,
-      "wikidata_id": "Q64009044",
-      "slug": "gregory-soto",
-      "name": "Gregory Soto",
-      "full_name": "Gregory Soto",
-      "number": "31",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-02-11",
-      "age": 31,
-      "birthplace": "Bajos de Haina",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "May 11, 2019",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Detroit Tigers",
-        "Philadelphia Phillies",
-        "Baltimore Orioles",
-        "New York Mets",
-        "Pittsburgh Pirates"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q64009044",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gregory_Soto",
-      "retrosheet_id": "sotog003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 391,
-          "plate_appearances": 2,
-          "at_bats": 2,
-          "runs": 0,
-          "hits": 2,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 1.0,
-          "on_base_percentage": 1.0,
-          "slugging_percentage": 1.0,
-          "ops": 2.0
-        },
-        "pitching": {
-          "games": 391,
-          "games_started": 7,
-          "wins": 15,
-          "losses": 34,
-          "saves": 56,
-          "innings_outs": 1135,
-          "hits": 350,
-          "runs": 209,
-          "earned_runs": 179,
-          "home_runs": 34,
-          "walks": 193,
-          "strikeouts": 410,
-          "hit_batters": 31,
-          "wild_pitches": 41,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 4.26,
-          "whip": 1.435
         }
       }
     },

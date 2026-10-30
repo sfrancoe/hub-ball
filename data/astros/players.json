@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:23:40.611405+00:00",
-  "roster_as_of": "September 30, 2026",
+  "generated_at": "2026-10-30T16:08:18.318802+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 117,
     "name": "Houston Astros"
   },
   "roster_type": "open-current-roster",
-  "player_count": 44,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,84 +20,6 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
-    {
-      "id": 650556,
-      "mlb_id": 650556,
-      "wikidata_id": "Q66085269",
-      "slug": "bryan-abreu",
-      "name": "Bryan Abreu",
-      "full_name": "Bryan Abreu",
-      "number": "52",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-04-22",
-      "age": 29,
-      "birthplace": "Santo Domingo",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 31, 2019",
-      "debut_team": "Houston Astros",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Houston Astros"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q66085269",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Bryan_Abreu",
-      "retrosheet_id": "abreb002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 317,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 317,
-          "games_started": 0,
-          "wins": 16,
-          "losses": 12,
-          "saves": 16,
-          "innings_outs": 989,
-          "hits": 239,
-          "runs": 107,
-          "earned_runs": 97,
-          "home_runs": 25,
-          "walks": 148,
-          "strikeouts": 448,
-          "hit_batters": 22,
-          "wild_pitches": 20,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 2.65,
-          "whip": 1.174
-        }
-      }
-    },
     {
       "id": 669397,
       "mlb_id": 669397,
@@ -1186,72 +1108,6 @@
       }
     },
     {
-      "id": 664774,
-      "mlb_id": 664774,
-      "wikidata_id": "Q26405900",
-      "slug": "lamonte-wade-jr",
-      "name": "LaMonte Wade Jr.",
-      "full_name": "LaMonte Wade",
-      "number": "31",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "LF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-01-01",
-      "age": 32,
-      "birthplace": "Baltimore",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "June 28, 2019",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "St. Paul's School"
-          }
-        ]
-      },
-      "teams": [
-        "Minnesota Twins",
-        "San Francisco Giants",
-        "Los Angeles Angels",
-        "Houston Astros"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q26405900",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/LaMonte_Wade_Jr.",
-      "retrosheet_id": "wadel001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 560,
-          "plate_appearances": 1907,
-          "at_bats": 1617,
-          "runs": 222,
-          "hits": 381,
-          "doubles": 67,
-          "triples": 9,
-          "home_runs": 55,
-          "runs_batted_in": 185,
-          "walks": 239,
-          "strikeouts": 401,
-          "stolen_bases": 13,
-          "caught_stealing": 4,
-          "average": 0.236,
-          "on_base_percentage": 0.341,
-          "slugging_percentage": 0.39,
-          "ops": 0.731
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 687911,
       "mlb_id": 687911,
       "wikidata_id": "Q127220501",
@@ -1596,94 +1452,6 @@
       }
     },
     {
-      "id": 595345,
-      "mlb_id": 595345,
-      "wikidata_id": "Q18385536",
-      "slug": "steven-okert",
-      "name": "Steven Okert",
-      "full_name": "Steven Okert",
-      "number": "48",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-07-09",
-      "age": 35,
-      "birthplace": "Riverside",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "April 19, 2016",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Oklahoma"
-          },
-          {
-            "name": "Rowlett High School"
-          }
-        ]
-      },
-      "teams": [
-        "San Francisco Giants",
-        "Miami Marlins",
-        "Minnesota Twins",
-        "Houston Astros"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q18385536",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Okert",
-      "retrosheet_id": "okers001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 340,
-          "plate_appearances": 4,
-          "at_bats": 4,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 340,
-          "games_started": 4,
-          "wins": 18,
-          "losses": 13,
-          "saves": 2,
-          "innings_outs": 904,
-          "hits": 230,
-          "runs": 133,
-          "earned_runs": 124,
-          "home_runs": 39,
-          "walks": 115,
-          "strikeouts": 337,
-          "hit_batters": 21,
-          "wild_pitches": 8,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.7,
-          "whip": 1.145
-        }
-      }
-    },
-    {
       "id": 670623,
       "mlb_id": 670623,
       "wikidata_id": "Q98454850",
@@ -1933,91 +1701,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 660853,
-      "mlb_id": 660853,
-      "wikidata_id": "Q55583700",
-      "slug": "enyel-de-los-santos",
-      "name": "Enyel De Los Santos",
-      "full_name": "Enyel De Los Santos",
-      "number": "65",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-12-25",
-      "age": 30,
-      "birthplace": "San Pedro de Macorís",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 10, 2018",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Pittsburgh Pirates",
-        "Cleveland Guardians",
-        "San Diego Padres",
-        "New York Yankees",
-        "Chicago White Sox",
-        "Atlanta Braves",
-        "Houston Astros"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q55583700",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Enyel_De_Los_Santos",
-      "retrosheet_id": "deloe001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 294,
-          "plate_appearances": 6,
-          "at_bats": 4,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 294,
-          "games_started": 3,
-          "wins": 20,
-          "losses": 9,
-          "saves": 3,
-          "innings_outs": 943,
-          "hits": 291,
-          "runs": 168,
-          "earned_runs": 155,
-          "home_runs": 45,
-          "walks": 122,
-          "strikeouts": 323,
-          "hit_batters": 18,
-          "wild_pitches": 16,
-          "balks": 6,
-          "complete_games": 0,
-          "era": 4.44,
-          "whip": 1.314
-        }
       }
     },
     {
@@ -2471,71 +2154,6 @@
       }
     },
     {
-      "id": 662139,
-      "mlb_id": 662139,
-      "wikidata_id": "Q66730474",
-      "slug": "daulton-varsho",
-      "name": "Daulton Varsho",
-      "full_name": "Daulton Varsho",
-      "number": "18",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-07-02",
-      "age": 30,
-      "birthplace": "Chili",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "July 30, 2020",
-      "debut_team": "Arizona Diamondbacks",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Wisconsin–Milwaukee"
-          }
-        ]
-      },
-      "teams": [
-        "Arizona Diamondbacks",
-        "Toronto Blue Jays",
-        "Houston Astros"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q66730474",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Daulton_Varsho",
-      "retrosheet_id": "varsd001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 648,
-          "plate_appearances": 2387,
-          "at_bats": 2150,
-          "runs": 317,
-          "hits": 487,
-          "doubles": 102,
-          "triples": 19,
-          "home_runs": 99,
-          "runs_batted_in": 295,
-          "walks": 198,
-          "strikeouts": 594,
-          "stolen_bases": 53,
-          "caught_stealing": 16,
-          "average": 0.227,
-          "on_base_percentage": 0.295,
-          "slugging_percentage": 0.43,
-          "ops": 0.725
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 676369,
       "mlb_id": 676369,
       "wikidata_id": "Q110256256",
@@ -2593,71 +2211,6 @@
           "on_base_percentage": 0.286,
           "slugging_percentage": 0.433,
           "ops": 0.719
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 543877,
-      "mlb_id": 543877,
-      "wikidata_id": "Q17334320",
-      "slug": "christian-vazquez",
-      "name": "Christian Vázquez",
-      "full_name": "Christian Vázquez",
-      "number": "2",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1990-08-21",
-      "age": 36,
-      "birthplace": "Bayamón",
-      "height": "5' 9\"",
-      "weight": 194,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 9, 2014",
-      "debut_team": "Boston Red Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Puerto Rico Baseball Academy and High School"
-          }
-        ]
-      },
-      "teams": [
-        "Boston Red Sox",
-        "Houston Astros",
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q17334320",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_V%C3%A1zquez",
-      "retrosheet_id": "vazqc001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 993,
-          "plate_appearances": 3517,
-          "at_bats": 3244,
-          "runs": 360,
-          "hits": 810,
-          "doubles": 157,
-          "triples": 5,
-          "home_runs": 71,
-          "runs_batted_in": 349,
-          "walks": 217,
-          "strikeouts": 656,
-          "stolen_bases": 33,
-          "caught_stealing": 18,
-          "average": 0.25,
-          "on_base_percentage": 0.299,
-          "slugging_percentage": 0.367,
-          "ops": 0.666
         },
         "pitching": null
       }

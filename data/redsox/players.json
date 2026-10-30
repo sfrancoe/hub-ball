@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:16:50.745398+00:00",
-  "roster_as_of": "October 26, 2026",
+  "generated_at": "2026-10-30T16:02:00.577862+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 111,
     "name": "Boston Red Sox"
   },
   "roster_type": "open-current-roster",
-  "player_count": 45,
+  "player_count": 43,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -547,70 +547,6 @@
       }
     },
     {
-      "id": 691907,
-      "mlb_id": 691907,
-      "wikidata_id": "Q67931871",
-      "slug": "tsung-che-cheng",
-      "name": "Tsung-Che Cheng",
-      "full_name": "Cheng Tsung-che",
-      "number": "39",
-      "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-07-26",
-      "age": 25,
-      "birthplace": "Pingtung County",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "April 9, 2025",
-      "debut_team": "Pittsburgh Pirates",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Kaohsiung Private Pu-Men High School"
-          }
-        ]
-      },
-      "teams": [
-        "Pittsburgh Pirates",
-        "Boston Red Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q67931871",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tsung-Che_Cheng",
-      "retrosheet_id": "chent001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 3,
-          "plate_appearances": 7,
-          "at_bats": 7,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 1,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 575929,
       "mlb_id": 575929,
       "wikidata_id": "Q8023023",
@@ -963,92 +899,6 @@
           "ops": 0.721
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 681987,
-      "mlb_id": 681987,
-      "wikidata_id": "Q113108393",
-      "slug": "nate-eaton",
-      "name": "Nate Eaton",
-      "full_name": "Nate Eaton",
-      "number": "18",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "LF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-12-22",
-      "age": 29,
-      "birthplace": "Chester",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 14, 2022",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Thomas Dale High School"
-          },
-          {
-            "name": "Virginia Military Institute"
-          }
-        ]
-      },
-      "teams": [
-        "Kansas City Royals",
-        "Boston Red Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q113108393",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nate_Eaton",
-      "retrosheet_id": "eaton001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 113,
-          "plate_appearances": 268,
-          "at_bats": 240,
-          "runs": 34,
-          "hits": 56,
-          "doubles": 8,
-          "triples": 3,
-          "home_runs": 2,
-          "runs_batted_in": 17,
-          "walks": 18,
-          "strikeouts": 70,
-          "stolen_bases": 23,
-          "caught_stealing": 3,
-          "average": 0.233,
-          "on_base_percentage": 0.293,
-          "slugging_percentage": 0.317,
-          "ops": 0.61
-        },
-        "pitching": {
-          "games": 2,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 6,
-          "hits": 4,
-          "runs": 0,
-          "earned_runs": 0,
-          "home_runs": 0,
-          "walks": 0,
-          "strikeouts": 1,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 0.0,
-          "whip": 2.0
-        }
       }
     },
     {

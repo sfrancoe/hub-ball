@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:35:15.888585+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-30T16:19:21.812245+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 137,
     "name": "San Francisco Giants"
   },
   "roster_type": "open-current-roster",
-  "player_count": 57,
+  "player_count": 52,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -191,66 +191,6 @@
         "through_season": 2025,
         "status": "not_in_2025_release",
         "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 678545,
-      "mlb_id": 678545,
-      "wikidata_id": "Q121422347",
-      "slug": "osleivis-basabe",
-      "name": "Osleivis Basabe",
-      "full_name": "Osleivis Basabe",
-      "number": "39",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-09-13",
-      "age": 26,
-      "birthplace": "Bobures, Zulia, Venezuela",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 13, 2023",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q121422347",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Osleivis_Basabe",
-      "retrosheet_id": "basao001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 31,
-          "plate_appearances": 94,
-          "at_bats": 87,
-          "runs": 15,
-          "hits": 19,
-          "doubles": 5,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 12,
-          "walks": 6,
-          "strikeouts": 25,
-          "stolen_bases": 0,
-          "caught_stealing": 1,
-          "average": 0.218,
-          "on_base_percentage": 0.277,
-          "slugging_percentage": 0.31,
-          "ops": 0.587
-        },
         "pitching": null
       }
     },
@@ -452,93 +392,6 @@
           "complete_games": 0,
           "era": 4.77,
           "whip": 1.438
-        }
-      }
-    },
-    {
-      "id": 664141,
-      "mlb_id": 664141,
-      "wikidata_id": "Q62512879",
-      "slug": "jt-brubaker",
-      "name": "JT Brubaker",
-      "full_name": "J. T. Brubaker",
-      "number": "34",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-11-17",
-      "age": 32,
-      "birthplace": "Springfield",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 26, 2020",
-      "debut_team": "Pittsburgh Pirates",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Akron"
-          },
-          {
-            "name": "Tecumseh High School"
-          }
-        ]
-      },
-      "teams": [
-        "Pittsburgh Pirates",
-        "New York Yankees",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q62512879",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/JT_Brubaker",
-      "retrosheet_id": "brubj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 81,
-          "plate_appearances": 43,
-          "at_bats": 38,
-          "runs": 0,
-          "hits": 3,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 3,
-          "walks": 4,
-          "strikeouts": 15,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.079,
-          "on_base_percentage": 0.167,
-          "slugging_percentage": 0.079,
-          "ops": 0.246
-        },
-        "pitching": {
-          "games": 80,
-          "games_started": 62,
-          "wins": 9,
-          "losses": 28,
-          "saves": 0,
-          "innings_outs": 1033,
-          "hits": 351,
-          "runs": 199,
-          "earned_runs": 187,
-          "home_runs": 51,
-          "walks": 121,
-          "strikeouts": 346,
-          "hit_batters": 22,
-          "wild_pitches": 15,
-          "balks": 3,
-          "complete_games": 0,
-          "era": 4.89,
-          "whip": 1.371
         }
       }
     },
@@ -1061,89 +914,6 @@
       }
     },
     {
-      "id": 671345,
-      "mlb_id": 671345,
-      "wikidata_id": "Q107124893",
-      "slug": "jason-foley",
-      "name": "Jason Foley",
-      "full_name": "Jason Foley",
-      "number": "64",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-11-01",
-      "age": 30,
-      "birthplace": "Manhasset, New York, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 6, 2021",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Sacred Heart University"
-          }
-        ]
-      },
-      "teams": [
-        "Detroit Tigers",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q107124893",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_Foley",
-      "retrosheet_id": "folej001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 210,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 210,
-          "games_started": 0,
-          "wins": 7,
-          "losses": 9,
-          "saves": 35,
-          "innings_outs": 599,
-          "hits": 196,
-          "runs": 79,
-          "earned_runs": 70,
-          "home_runs": 10,
-          "walks": 51,
-          "strikeouts": 150,
-          "hit_batters": 8,
-          "wild_pitches": 6,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 3.16,
-          "whip": 1.237
-        }
-      }
-    },
-    {
       "id": 801501,
       "mlb_id": 801501,
       "wikidata_id": "Q140800576",
@@ -1182,87 +952,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 657424,
-      "mlb_id": 657424,
-      "wikidata_id": "Q112259748",
-      "slug": "matt-gage",
-      "name": "Matt Gage",
-      "full_name": "Matt Gage",
-      "number": "93",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1993-02-11",
-      "age": 33,
-      "birthplace": "Johnstown, New York, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "June 6, 2022",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Toronto Blue Jays",
-        "Houston Astros",
-        "Detroit Tigers",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q112259748",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Gage",
-      "retrosheet_id": "gagem001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 49,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 49,
-          "games_started": 2,
-          "wins": 0,
-          "losses": 2,
-          "saves": 0,
-          "innings_outs": 152,
-          "hits": 47,
-          "runs": 17,
-          "earned_runs": 15,
-          "home_runs": 2,
-          "walks": 21,
-          "strikeouts": 47,
-          "hit_batters": 3,
-          "wild_pitches": 3,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 2.66,
-          "whip": 1.342
-        }
       }
     },
     {
@@ -2718,47 +2407,6 @@
           "era": 3.73,
           "whip": 1.446
         }
-      }
-    },
-    {
-      "id": 694820,
-      "mlb_id": 694820,
-      "wikidata_id": "Q141185971",
-      "slug": "braxton-roxby",
-      "name": "Braxton Roxby",
-      "full_name": "Braxton Roxby",
-      "number": "90",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-03-12",
-      "age": 27,
-      "birthplace": "Windber, Pennsylvania, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 28, 2026",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q141185971",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Braxton_Roxby",
-      "retrosheet_id": "roxbb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
       }
     },
     {

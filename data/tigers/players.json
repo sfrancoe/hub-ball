@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:21:38.844317+00:00",
+  "generated_at": "2026-10-30T16:06:30.870268+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 116,
     "name": "Detroit Tigers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 45,
+  "player_count": 46,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -354,6 +354,71 @@
           "on_base_percentage": 0.322,
           "slugging_percentage": 0.507,
           "ops": 0.829
+        },
+        "pitching": null
+      }
+    },
+    {
+      "id": 691907,
+      "mlb_id": 691907,
+      "wikidata_id": "Q67931871",
+      "slug": "tsung-che-cheng",
+      "name": "Tsung-Che Cheng",
+      "full_name": "Cheng Tsung-che",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-07-26",
+      "age": 25,
+      "birthplace": "Pingtung County",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": "April 9, 2025",
+      "debut_team": "Pittsburgh Pirates",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Kaohsiung Private Pu-Men High School"
+          }
+        ]
+      },
+      "teams": [
+        "Pittsburgh Pirates",
+        "Boston Red Sox",
+        "Detroit Tigers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q67931871",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tsung-Che_Cheng",
+      "retrosheet_id": "chent001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 3,
+          "plate_appearances": 7,
+          "at_bats": 7,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 3,
+          "stolen_bases": 0,
+          "caught_stealing": 1,
+          "average": 0.0,
+          "on_base_percentage": 0.0,
+          "slugging_percentage": 0.0,
+          "ops": 0.0
         },
         "pitching": null
       }
@@ -2242,7 +2307,7 @@
       "roster_status": "60-day injured list",
       "is_active_roster": false,
       "birth_date": "1999-10-30",
-      "age": 26,
+      "age": 27,
       "birthplace": "Azua",
       "height": null,
       "weight": null,
@@ -2380,7 +2445,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2002-10-30",
-      "age": 23,
+      "age": 24,
       "birthplace": "West Warwick, Rhode Island, U.S.",
       "height": null,
       "weight": null,

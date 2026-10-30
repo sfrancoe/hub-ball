@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:27:28.066983+00:00",
-  "roster_as_of": "September 29, 2026",
+  "generated_at": "2026-10-30T16:12:00.595846+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 146,
     "name": "Miami Marlins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 44,
+  "player_count": 43,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -725,93 +725,6 @@
       }
     },
     {
-      "id": 664126,
-      "mlb_id": 664126,
-      "wikidata_id": "Q64980554",
-      "slug": "pete-fairbanks",
-      "name": "Pete Fairbanks",
-      "full_name": "Peter Fairbanks",
-      "number": "29",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-12-16",
-      "age": 32,
-      "birthplace": "St. Louis",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 9, 2019",
-      "debut_team": "Texas Rangers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Webster Groves High School"
-          },
-          {
-            "name": "University of Missouri"
-          }
-        ]
-      },
-      "teams": [
-        "Texas Rangers",
-        "Tampa Bay Rays",
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q64980554",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Pete_Fairbanks",
-      "retrosheet_id": "fairp001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 275,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 275,
-          "games_started": 2,
-          "wins": 20,
-          "losses": 24,
-          "saves": 90,
-          "innings_outs": 796,
-          "hits": 208,
-          "runs": 110,
-          "earned_runs": 94,
-          "home_runs": 24,
-          "walks": 103,
-          "strikeouts": 332,
-          "hit_batters": 8,
-          "wild_pitches": 21,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.19,
-          "whip": 1.172
-        }
-      }
-    },
-    {
       "id": 676534,
       "mlb_id": 676534,
       "wikidata_id": "Q109651425",
@@ -1010,8 +923,8 @@
       }
     },
     {
-      "id": 682790,
-      "mlb_id": 682790,
+      "id": 1963435852,
+      "mlb_id": null,
       "wikidata_id": "Q135103099",
       "slug": "wikelman-gonzalez",
       "name": "Wikelman González",

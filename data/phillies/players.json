@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:28:12.913113+00:00",
-  "roster_as_of": "October 21, 2026",
+  "generated_at": "2026-10-30T16:12:28.535209+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 143,
     "name": "Philadelphia Phillies"
   },
   "roster_type": "open-current-roster",
-  "player_count": 44,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,148 +20,6 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
-    {
-      "id": 621237,
-      "mlb_id": 621237,
-      "wikidata_id": "Q28518913",
-      "slug": "jose-alvarado",
-      "name": "José Alvarado",
-      "full_name": "José Alvarado",
-      "number": "46",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-05-21",
-      "age": 31,
-      "birthplace": "Maracaibo",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "May 3, 2017",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "Philadelphia Phillies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q28518913",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Alvarado_%28baseball%29",
-      "retrosheet_id": "alvaj004",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 408,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 1,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 408,
-          "games_started": 1,
-          "wins": 19,
-          "losses": 27,
-          "saves": 52,
-          "innings_outs": 1105,
-          "hits": 290,
-          "runs": 166,
-          "earned_runs": 142,
-          "home_runs": 26,
-          "walks": 195,
-          "strikeouts": 469,
-          "hit_batters": 13,
-          "wild_pitches": 39,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.47,
-          "whip": 1.317
-        }
-      }
-    },
-    {
-      "id": 650333,
-      "mlb_id": 650333,
-      "wikidata_id": "Q63982823",
-      "slug": "luis-arraez",
-      "name": "Luis Arráez",
-      "full_name": "Luis Arráez",
-      "number": "4",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-04-09",
-      "age": 29,
-      "birthplace": "San Felipe",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "May 18, 2019",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Minnesota Twins",
-        "Miami Marlins",
-        "San Diego Padres",
-        "San Francisco Giants",
-        "Philadelphia Phillies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q63982823",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Arr%C3%A1ez",
-      "retrosheet_id": "arral001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 840,
-          "plate_appearances": 3533,
-          "at_bats": 3244,
-          "runs": 436,
-          "hits": 1028,
-          "doubles": 169,
-          "triples": 18,
-          "home_runs": 36,
-          "runs_batted_in": 308,
-          "walks": 230,
-          "strikeouts": 215,
-          "stolen_bases": 31,
-          "caught_stealing": 17,
-          "average": 0.317,
-          "on_base_percentage": 0.363,
-          "slugging_percentage": 0.413,
-          "ops": 0.776
-        },
-        "pitching": null
-      }
-    },
     {
       "id": 679775,
       "mlb_id": 679775,
@@ -318,69 +176,6 @@
           "era": 3.65,
           "whip": 1.171
         }
-      }
-    },
-    {
-      "id": 664761,
-      "mlb_id": 664761,
-      "wikidata_id": "Q51555689",
-      "slug": "alec-bohm",
-      "name": "Alec Bohm",
-      "full_name": "Alec Bohm",
-      "number": "28",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-08-03",
-      "age": 30,
-      "birthplace": "Omaha",
-      "height": "6' 5\"",
-      "weight": 216,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 13, 2020",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Wichita State University"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q51555689",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Alec_Bohm",
-      "retrosheet_id": "bohma001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 719,
-          "plate_appearances": 2949,
-          "at_bats": 2702,
-          "runs": 338,
-          "hits": 753,
-          "doubles": 143,
-          "triples": 8,
-          "home_runs": 70,
-          "runs_batted_in": 395,
-          "walks": 189,
-          "strikeouts": 519,
-          "stolen_bases": 18,
-          "caught_stealing": 7,
-          "average": 0.279,
-          "on_base_percentage": 0.328,
-          "slugging_percentage": 0.415,
-          "ops": 0.743
-        },
-        "pitching": null
       }
     },
     {
@@ -770,68 +565,6 @@
           "era": 2.44,
           "whip": 1.089
         }
-      }
-    },
-    {
-      "id": 666969,
-      "mlb_id": 666969,
-      "wikidata_id": "Q23899679",
-      "slug": "adolis-garcia",
-      "name": "Adolis García",
-      "full_name": "Adolis García",
-      "number": "53",
-      "position": {
-        "name": "Outfielder",
-        "group": "Pitcher",
-        "abbreviation": "RF"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1993-02-03",
-      "age": 33,
-      "birthplace": "Ciego de Ávila",
-      "height": "6' 1\"",
-      "weight": 168,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 16, 2016",
-      "debut_team": "Yomiuri Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Yomiuri Giants",
-        "St. Louis Cardinals",
-        "Texas Rangers",
-        "Philadelphia Phillies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q23899679",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Adolis_Garc%C3%ADa",
-      "retrosheet_id": "garca005",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 766,
-          "plate_appearances": 3119,
-          "at_bats": 2851,
-          "runs": 402,
-          "hits": 675,
-          "doubles": 145,
-          "triples": 7,
-          "home_runs": 141,
-          "runs_batted_in": 459,
-          "walks": 211,
-          "strikeouts": 875,
-          "stolen_bases": 74,
-          "caught_stealing": 21,
-          "average": 0.237,
-          "on_base_percentage": 0.293,
-          "slugging_percentage": 0.441,
-          "ops": 0.734
-        },
-        "pitching": null
       }
     },
     {
@@ -2100,97 +1833,6 @@
       }
     },
     {
-      "id": 548384,
-      "mlb_id": 548384,
-      "wikidata_id": "Q2926173",
-      "slug": "brooks-raley",
-      "name": "Brooks Raley",
-      "full_name": "Brooks Raley",
-      "number": "30",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1988-06-29",
-      "age": 38,
-      "birthplace": "Q975",
-      "height": "6' 3\"",
-      "weight": 198,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 7, 2012",
-      "debut_team": "Chicago Cubs",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Texas A&M University"
-          },
-          {
-            "name": "Uvalde High School"
-          }
-        ]
-      },
-      "teams": [
-        "Chicago Cubs",
-        "Lotte Giants",
-        "Cincinnati Reds",
-        "Houston Astros",
-        "Tampa Bay Rays",
-        "New York Mets",
-        "Philadelphia Phillies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q2926173",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brooks_Raley",
-      "retrosheet_id": "raleb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 257,
-          "plate_appearances": 14,
-          "at_bats": 13,
-          "runs": 0,
-          "hits": 2,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 2,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.154,
-          "on_base_percentage": 0.154,
-          "slugging_percentage": 0.154,
-          "ops": 0.308
-        },
-        "pitching": {
-          "games": 257,
-          "games_started": 5,
-          "wins": 9,
-          "losses": 11,
-          "saves": 12,
-          "innings_outs": 745,
-          "hits": 197,
-          "runs": 119,
-          "earned_runs": 107,
-          "home_runs": 25,
-          "walks": 90,
-          "strikeouts": 278,
-          "hit_batters": 23,
-          "wild_pitches": 4,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.88,
-          "whip": 1.156
-        }
-      }
-    },
-    {
       "id": 660604,
       "mlb_id": 660604,
       "wikidata_id": "Q119041029",
@@ -2594,9 +2236,9 @@
       "full_name": "Edmundo Sosa",
       "number": "33",
       "position": {
-        "name": "Outfielder",
+        "name": "Shortstop",
         "group": "Outfielder",
-        "abbreviation": "LF"
+        "abbreviation": "SS"
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
@@ -2709,92 +2351,6 @@
           "ops": 0.701
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 596117,
-      "mlb_id": 596117,
-      "wikidata_id": "Q21063352",
-      "slug": "garrett-stubbs",
-      "name": "Garrett Stubbs",
-      "full_name": "Garrett Stubbs",
-      "number": "21",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-05-26",
-      "age": 33,
-      "birthplace": "Del Mar",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "May 28, 2019",
-      "debut_team": "Houston Astros",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "USC Sol Price School of Public Policy"
-          },
-          {
-            "name": "Torrey Pines High School"
-          }
-        ]
-      },
-      "teams": [
-        "Houston Astros",
-        "Philadelphia Phillies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q21063352",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Garrett_Stubbs",
-      "retrosheet_id": "stubg001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 203,
-          "plate_appearances": 521,
-          "at_bats": 461,
-          "runs": 65,
-          "hits": 99,
-          "doubles": 17,
-          "triples": 3,
-          "home_runs": 7,
-          "runs_batted_in": 45,
-          "walks": 46,
-          "strikeouts": 123,
-          "stolen_bases": 10,
-          "caught_stealing": 1,
-          "average": 0.215,
-          "on_base_percentage": 0.293,
-          "slugging_percentage": 0.31,
-          "ops": 0.603
-        },
-        "pitching": {
-          "games": 8,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 23,
-          "hits": 13,
-          "runs": 14,
-          "earned_runs": 14,
-          "home_runs": 5,
-          "walks": 3,
-          "strikeouts": 1,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 16.43,
-          "whip": 2.087
-        }
       }
     },
     {

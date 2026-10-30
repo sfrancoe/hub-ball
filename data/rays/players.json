@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:18:36.985694+00:00",
+  "generated_at": "2026-10-30T16:03:36.294256+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 139,
     "name": "Tampa Bay Rays"
   },
   "roster_type": "open-current-roster",
-  "player_count": 45,
+  "player_count": 42,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1402,71 +1402,6 @@
       }
     },
     {
-      "id": 666158,
-      "mlb_id": 666158,
-      "wikidata_id": "Q24572525",
-      "slug": "gavin-lux",
-      "name": "Gavin Lux",
-      "full_name": "Gavin Lux",
-      "number": "11",
-      "position": {
-        "name": "Outfielder",
-        "group": "Pitcher",
-        "abbreviation": "LF"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1997-11-23",
-      "age": 28,
-      "birthplace": "Kenosha",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "September 2, 2019",
-      "debut_team": "Los Angeles Dodgers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Indian Trail High School and Academy"
-          }
-        ]
-      },
-      "teams": [
-        "Los Angeles Dodgers",
-        "Cincinnati Reds",
-        "Tampa Bay Rays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q24572525",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gavin_Lux",
-      "retrosheet_id": "lux-g001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 552,
-          "plate_appearances": 1993,
-          "at_bats": 1779,
-          "runs": 243,
-          "hits": 456,
-          "doubles": 90,
-          "triples": 16,
-          "home_runs": 33,
-          "runs_batted_in": 208,
-          "walks": 201,
-          "strikeouts": 445,
-          "stolen_bases": 20,
-          "caught_stealing": 5,
-          "average": 0.256,
-          "on_base_percentage": 0.332,
-          "slugging_percentage": 0.381,
-          "ops": 0.713
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 663611,
       "mlb_id": 663611,
       "wikidata_id": "Q30163049",
@@ -1619,87 +1554,6 @@
           "complete_games": 1,
           "era": 4.16,
           "whip": 1.302
-        }
-      }
-    },
-    {
-      "id": 622761,
-      "mlb_id": 622761,
-      "wikidata_id": "Q23901570",
-      "slug": "jorge-mateo",
-      "name": "Jorge Mateo",
-      "full_name": "Jorge Mateo",
-      "number": "9",
-      "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-06-23",
-      "age": 31,
-      "birthplace": "Santo Domingo",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 13, 2020",
-      "debut_team": "San Diego Padres",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Diego Padres",
-        "Baltimore Orioles",
-        "Atlanta Braves",
-        "Tampa Bay Rays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q23901570",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Mateo",
-      "retrosheet_id": "matej003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 488,
-          "plate_appearances": 1411,
-          "at_bats": 1303,
-          "runs": 183,
-          "hits": 288,
-          "doubles": 71,
-          "triples": 12,
-          "home_runs": 30,
-          "runs_batted_in": 121,
-          "walks": 73,
-          "strikeouts": 373,
-          "stolen_bases": 106,
-          "caught_stealing": 21,
-          "average": 0.221,
-          "on_base_percentage": 0.266,
-          "slugging_percentage": 0.363,
-          "ops": 0.629
-        },
-        "pitching": {
-          "games": 1,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 3,
-          "hits": 5,
-          "runs": 5,
-          "earned_runs": 5,
-          "home_runs": 1,
-          "walks": 2,
-          "strikeouts": 0,
-          "hit_batters": 1,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 45.0,
-          "whip": 7.0
         }
       }
     },
@@ -2146,86 +2000,6 @@
           "complete_games": 0,
           "era": 3.54,
           "whip": 1.144
-        }
-      }
-    },
-    {
-      "id": 642547,
-      "mlb_id": 642547,
-      "wikidata_id": "Q50843151",
-      "slug": "freddy-peralta",
-      "name": "Freddy Peralta",
-      "full_name": "Freddy Peralta",
-      "number": "51",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-06-04",
-      "age": 30,
-      "birthplace": "Moca",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 13, 2018",
-      "debut_team": "Milwaukee Brewers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Milwaukee Brewers",
-        "New York Mets",
-        "Tampa Bay Rays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q50843151",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Freddy_Peralta",
-      "retrosheet_id": "peraf001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 213,
-          "plate_appearances": 88,
-          "at_bats": 84,
-          "runs": 2,
-          "hits": 7,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 2,
-          "walks": 1,
-          "strikeouts": 41,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.083,
-          "on_base_percentage": 0.094,
-          "slugging_percentage": 0.083,
-          "ops": 0.177
-        },
-        "pitching": {
-          "games": 211,
-          "games_started": 162,
-          "wins": 70,
-          "losses": 42,
-          "saves": 1,
-          "innings_outs": 2793,
-          "hits": 694,
-          "runs": 392,
-          "earned_runs": 371,
-          "home_runs": 118,
-          "walks": 360,
-          "strikeouts": 1153,
-          "hit_batters": 48,
-          "wild_pitches": 31,
-          "balks": 6,
-          "complete_games": 1,
-          "era": 3.59,
-          "whip": 1.132
         }
       }
     },

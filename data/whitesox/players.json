@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:20:31.878086+00:00",
+  "generated_at": "2026-10-30T16:05:20.637468+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 145,
@@ -141,10 +141,10 @@
       "number": "27",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-08-15",
       "age": 26,
@@ -341,7 +341,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-04-18",
       "age": 26,
@@ -566,8 +566,8 @@
       }
     },
     {
-      "id": 1965926133,
-      "mlb_id": null,
+      "id": 681066,
+      "mlb_id": 681066,
       "wikidata_id": "Q107493653",
       "slug": "ky-bush",
       "name": "Ky Bush",
@@ -578,7 +578,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-11-12",
       "age": 26,
@@ -1188,7 +1188,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-08-15",
       "age": 28,
@@ -1685,10 +1685,10 @@
       "number": "41",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-09-03",
       "age": 27,
@@ -2542,7 +2542,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-03-19",
       "age": 26,

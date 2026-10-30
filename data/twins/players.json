@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:23:13.514141+00:00",
-  "roster_as_of": "October 1, 2026",
+  "generated_at": "2026-10-30T16:07:39.085023+00:00",
+  "roster_as_of": "October 29, 2026",
   "team": {
     "id": 142,
     "name": "Minnesota Twins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 46,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -33,7 +33,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-08-18",
       "age": 25,
@@ -301,99 +301,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 607455,
-      "mlb_id": 607455,
-      "wikidata_id": "Q29032291",
-      "slug": "anthony-banda",
-      "name": "Anthony Banda",
-      "full_name": "Anthony Banda",
-      "number": "43",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1993-08-10",
-      "age": 33,
-      "birthplace": "Corpus Christi",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "July 22, 2017",
-      "debut_team": "Arizona Diamondbacks",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Sinton High School"
-          },
-          {
-            "name": "San Jacinto College"
-          }
-        ]
-      },
-      "teams": [
-        "Arizona Diamondbacks",
-        "Tampa Bay Rays",
-        "New York Mets",
-        "Pittsburgh Pirates",
-        "Toronto Blue Jays",
-        "New York Yankees",
-        "Washington Nationals",
-        "Los Angeles Dodgers",
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q29032291",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Banda",
-      "retrosheet_id": "banda001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 209,
-          "plate_appearances": 7,
-          "at_bats": 6,
-          "runs": 1,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 209,
-          "games_started": 9,
-          "wins": 15,
-          "losses": 9,
-          "saves": 3,
-          "innings_outs": 700,
-          "hits": 234,
-          "runs": 120,
-          "earned_runs": 115,
-          "home_runs": 27,
-          "walks": 101,
-          "strikeouts": 220,
-          "hit_batters": 14,
-          "wild_pitches": 15,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.44,
-          "whip": 1.436
-        }
       }
     },
     {
@@ -830,7 +737,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-03-08",
       "age": 26,
@@ -974,68 +881,6 @@
         "through_season": 2025,
         "status": "not_in_2025_release",
         "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 656484,
-      "mlb_id": 656484,
-      "wikidata_id": "Q122981574",
-      "slug": "tristan-gray",
-      "name": "Tristan Gray",
-      "full_name": "Tristan Gray",
-      "number": "4",
-      "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-03-22",
-      "age": 30,
-      "birthplace": "Houston",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "September 16, 2023",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "Miami Marlins",
-        "Oakland Athletics",
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q122981574",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tristan_Gray",
-      "retrosheet_id": "grayt001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 47,
-          "plate_appearances": 122,
-          "at_bats": 111,
-          "runs": 10,
-          "hits": 23,
-          "doubles": 6,
-          "triples": 0,
-          "home_runs": 4,
-          "runs_batted_in": 10,
-          "walks": 9,
-          "strikeouts": 35,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.207,
-          "on_base_percentage": 0.264,
-          "slugging_percentage": 0.369,
-          "ops": 0.633
-        },
         "pitching": null
       }
     },
@@ -1205,69 +1050,6 @@
           "era": 4.76,
           "whip": 1.393
         }
-      }
-    },
-    {
-      "id": 680777,
-      "mlb_id": 680777,
-      "wikidata_id": "Q98556520",
-      "slug": "ryan-jeffers",
-      "name": "Ryan Jeffers",
-      "full_name": "Ryan Jeffers",
-      "number": "27",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-06-03",
-      "age": 29,
-      "birthplace": "Raleigh",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 20, 2020",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Jesse O. Sanderson High School"
-          }
-        ]
-      },
-      "teams": [
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q98556520",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Jeffers",
-      "retrosheet_id": "jeffr002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 515,
-          "plate_appearances": 1855,
-          "at_bats": 1638,
-          "runs": 207,
-          "hits": 392,
-          "doubles": 83,
-          "triples": 4,
-          "home_runs": 68,
-          "runs_batted_in": 223,
-          "walks": 165,
-          "strikeouts": 467,
-          "stolen_bases": 7,
-          "caught_stealing": 4,
-          "average": 0.239,
-          "on_base_percentage": 0.321,
-          "slugging_percentage": 0.419,
-          "ops": 0.74
-        },
-        "pitching": null
       }
     },
     {
@@ -1731,7 +1513,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-03-07",
       "age": 30,
@@ -1935,90 +1717,6 @@
           "complete_games": 0,
           "era": 5.92,
           "whip": 1.538
-        }
-      }
-    },
-    {
-      "id": 621345,
-      "mlb_id": 621345,
-      "wikidata_id": "Q37904080",
-      "slug": "a-j-minter",
-      "name": "A. J. Minter",
-      "full_name": "A. J. Minter",
-      "number": "33",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-09-02",
-      "age": 33,
-      "birthplace": "Tyler",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 23, 2017",
-      "debut_team": "Atlanta Braves",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Texas A&M University"
-          }
-        ]
-      },
-      "teams": [
-        "Atlanta Braves",
-        "New York Mets",
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q37904080",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/A._J._Minter",
-      "retrosheet_id": "minta001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 397,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 1,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 397,
-          "games_started": 0,
-          "wins": 24,
-          "losses": 29,
-          "saves": 36,
-          "innings_outs": 1079,
-          "hits": 300,
-          "runs": 142,
-          "earned_runs": 129,
-          "home_runs": 27,
-          "walks": 128,
-          "strikeouts": 436,
-          "hit_batters": 8,
-          "wild_pitches": 15,
-          "balks": 4,
-          "complete_games": 0,
-          "era": 3.23,
-          "whip": 1.19
         }
       }
     },
@@ -2356,7 +2054,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-07-27",
       "age": 26,
@@ -2568,96 +2266,6 @@
       }
     },
     {
-      "id": 573124,
-      "mlb_id": 573124,
-      "wikidata_id": "Q23872618",
-      "slug": "taylor-rogers",
-      "name": "Taylor Rogers",
-      "full_name": "Taylor Rogers",
-      "number": "55",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1990-12-17",
-      "age": 35,
-      "birthplace": "Littleton",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "April 14, 2016",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Kentucky"
-          },
-          {
-            "name": "Chatfield Senior High School"
-          }
-        ]
-      },
-      "teams": [
-        "Minnesota Twins",
-        "San Diego Padres",
-        "Milwaukee Brewers",
-        "San Francisco Giants",
-        "Cincinnati Reds",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q23872618",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Taylor_Rogers",
-      "retrosheet_id": "roget001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 566,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 566,
-          "games_started": 0,
-          "wins": 31,
-          "losses": 36,
-          "saves": 83,
-          "innings_outs": 1624,
-          "hits": 482,
-          "runs": 233,
-          "earned_runs": 201,
-          "home_runs": 57,
-          "walks": 165,
-          "strikeouts": 626,
-          "hit_batters": 36,
-          "wild_pitches": 12,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.34,
-          "whip": 1.195
-        }
-      }
-    },
-    {
       "id": 696070,
       "mlb_id": 696070,
       "wikidata_id": "Q139581118",
@@ -2825,54 +2433,6 @@
       }
     },
     {
-      "id": 693306,
-      "mlb_id": 693306,
-      "wikidata_id": "Q86010113",
-      "slug": "aaron-sabato",
-      "name": "Aaron Sabato",
-      "full_name": "Aaron Sabato",
-      "number": "31",
-      "position": {
-        "name": "First Base",
-        "group": "Infielder",
-        "abbreviation": "1B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-06-04",
-      "age": 27,
-      "birthplace": "Rye Brook",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 21, 2026",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of North Carolina at Chapel Hill"
-          },
-          {
-            "name": "Brunswick School"
-          }
-        ]
-      },
-      "teams": [
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q86010113",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Sabato",
-      "retrosheet_id": "sabaa001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 663485,
       "mlb_id": 663485,
       "wikidata_id": "Q111795152",
@@ -2885,7 +2445,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-07-17",
       "age": 29,

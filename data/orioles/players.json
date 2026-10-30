@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:19:16.417608+00:00",
+  "generated_at": "2026-10-30T16:04:14.574965+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 110,
     "name": "Baltimore Orioles"
   },
   "roster_type": "open-current-roster",
-  "player_count": 44,
+  "player_count": 42,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -143,67 +143,6 @@
           "on_base_percentage": 0.341,
           "slugging_percentage": 0.516,
           "ops": 0.857
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 676480,
-      "mlb_id": 676480,
-      "wikidata_id": "Q100377998",
-      "slug": "jose-barrero",
-      "name": "Jose Barrero",
-      "full_name": "José Barrero",
-      "number": "54",
-      "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-04-05",
-      "age": 28,
-      "birthplace": "Havana",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 27, 2020",
-      "debut_team": "Cincinnati Reds",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Cincinnati Reds",
-        "St. Louis Cardinals",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q100377998",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jose_Barrero",
-      "retrosheet_id": "garcj007",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 161,
-          "plate_appearances": 478,
-          "at_bats": 444,
-          "runs": 40,
-          "hits": 81,
-          "doubles": 16,
-          "triples": 1,
-          "home_runs": 5,
-          "runs_batted_in": 35,
-          "walks": 29,
-          "strikeouts": 172,
-          "stolen_bases": 9,
-          "caught_stealing": 4,
-          "average": 0.182,
-          "on_base_percentage": 0.238,
-          "slugging_percentage": 0.257,
-          "ops": 0.495
         },
         "pitching": null
       }
@@ -1614,67 +1553,6 @@
       }
     },
     {
-      "id": 673357,
-      "mlb_id": 673357,
-      "wikidata_id": "Q28842101",
-      "slug": "luis-robert-jr",
-      "name": "Luis Robert Jr.",
-      "full_name": "Luis Robert Jr.",
-      "number": "88",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-08-03",
-      "age": 29,
-      "birthplace": "Havana",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 24, 2020",
-      "debut_team": "Chicago White Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Chicago White Sox",
-        "New York Mets",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q28842101",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Robert_Jr.",
-      "retrosheet_id": "robel002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 577,
-          "plate_appearances": 2375,
-          "at_bats": 2178,
-          "runs": 318,
-          "hits": 565,
-          "doubles": 115,
-          "triples": 2,
-          "home_runs": 102,
-          "runs_batted_in": 298,
-          "walks": 149,
-          "strikeouts": 636,
-          "stolen_bases": 102,
-          "caught_stealing": 24,
-          "average": 0.259,
-          "on_base_percentage": 0.313,
-          "slugging_percentage": 0.455,
-          "ops": 0.768
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 677008,
       "mlb_id": 677008,
       "wikidata_id": "Q85199601",
@@ -1833,6 +1711,69 @@
           "on_base_percentage": 0.285,
           "slugging_percentage": 0.349,
           "ops": 0.634
+        },
+        "pitching": null
+      }
+    },
+    {
+      "id": 663624,
+      "mlb_id": 663624,
+      "wikidata_id": "Q64746911",
+      "slug": "ryan-mountcastle",
+      "name": "Ryan Mountcastle",
+      "full_name": "Ryan Mountcastle",
+      "number": "6",
+      "position": {
+        "name": "First Base",
+        "group": "Pitcher",
+        "abbreviation": "1B"
+      },
+      "roster_status": "60-day injured list",
+      "is_active_roster": false,
+      "birth_date": "1997-02-18",
+      "age": 29,
+      "birthplace": "Winter Springs",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "August 21, 2020",
+      "debut_team": "Baltimore Orioles",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Paul J. Hagerty High School"
+          }
+        ]
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q64746911",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Mountcastle",
+      "retrosheet_id": "mounr001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 652,
+          "plate_appearances": 2669,
+          "at_bats": 2443,
+          "runs": 303,
+          "hits": 642,
+          "doubles": 125,
+          "triples": 5,
+          "home_runs": 98,
+          "runs_batted_in": 363,
+          "walks": 174,
+          "strikeouts": 664,
+          "stolen_bases": 17,
+          "caught_stealing": 6,
+          "average": 0.263,
+          "on_base_percentage": 0.312,
+          "slugging_percentage": 0.438,
+          "ops": 0.75
         },
         "pitching": null
       }
@@ -2141,89 +2082,6 @@
           "ops": 0.654
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 669432,
-      "mlb_id": 669432,
-      "wikidata_id": "Q30122836",
-      "slug": "trevor-rogers",
-      "name": "Trevor Rogers",
-      "full_name": "Trevor Rogers",
-      "number": "28",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-11-13",
-      "age": 28,
-      "birthplace": "Carlsbad",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 25, 2020",
-      "debut_team": "Miami Marlins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Carlsbad High School"
-          }
-        ]
-      },
-      "teams": [
-        "Miami Marlins",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q30122836",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Trevor_Rogers_%28baseball%29",
-      "retrosheet_id": "roget003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 103,
-          "plate_appearances": 48,
-          "at_bats": 45,
-          "runs": 0,
-          "hits": 3,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 29,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.067,
-          "on_base_percentage": 0.087,
-          "slugging_percentage": 0.067,
-          "ops": 0.154
-        },
-        "pitching": {
-          "games": 102,
-          "games_started": 102,
-          "wins": 24,
-          "losses": 37,
-          "saves": 0,
-          "innings_outs": 1560,
-          "hits": 481,
-          "runs": 241,
-          "earned_runs": 221,
-          "home_runs": 48,
-          "walks": 195,
-          "strikeouts": 521,
-          "hit_batters": 21,
-          "wild_pitches": 10,
-          "balks": 4,
-          "complete_games": 1,
-          "era": 3.83,
-          "whip": 1.3
-        }
       }
     },
     {

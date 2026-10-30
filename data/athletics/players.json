@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T16:25:05.231524+00:00",
+  "generated_at": "2026-10-30T16:09:31.921565+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 133,
     "name": "Athletics"
   },
   "roster_type": "open-current-roster",
-  "player_count": 48,
+  "player_count": 43,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -525,47 +525,6 @@
       }
     },
     {
-      "id": 692013,
-      "mlb_id": 692013,
-      "wikidata_id": null,
-      "slug": "henry-baez",
-      "name": "Henry Báez",
-      "full_name": "Henry Báez",
-      "number": "76",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": null,
-      "age": null,
-      "birthplace": "",
-      "height": null,
-      "weight": null,
-      "bats": null,
-      "throws": null,
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Athletics"
-      ],
-      "source_url": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_B%C3%A1ez",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 672016,
       "mlb_id": 672016,
       "wikidata_id": "Q117229684",
@@ -688,81 +647,89 @@
       }
     },
     {
-      "id": 683155,
-      "mlb_id": 683155,
-      "wikidata_id": "Q112174939",
-      "slug": "joey-estes",
-      "name": "Joey Estes",
-      "full_name": "Joey Estes",
-      "number": "68",
+      "id": 681987,
+      "mlb_id": 681987,
+      "wikidata_id": "Q113108393",
+      "slug": "nate-eaton",
+      "name": "Nate Eaton",
+      "full_name": "Nate Eaton",
+      "number": "--",
       "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "LF"
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
-      "birth_date": "2001-10-08",
-      "age": 25,
-      "birthplace": "Palmdale, California, U.S.",
+      "birth_date": "1996-12-22",
+      "age": 29,
+      "birthplace": "Chester",
       "height": null,
       "weight": null,
       "bats": "Right",
       "throws": "Right",
-      "debut_date": "September 20, 2023",
-      "debut_team": "Oakland Athletics",
+      "debut_date": "July 14, 2022",
+      "debut_team": "Kansas City Royals",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "Thomas Dale High School"
+          },
+          {
+            "name": "Virginia Military Institute"
+          }
+        ]
       },
       "teams": [
-        "Oakland Athletics",
+        "Kansas City Royals",
+        "Boston Red Sox",
         "Athletics"
       ],
-      "source_url": "https://www.wikidata.org/wiki/Q112174939",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Joey_Estes",
-      "retrosheet_id": "estej001",
+      "source_url": "https://www.wikidata.org/wiki/Q113108393",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nate_Eaton",
+      "retrosheet_id": "eaton001",
       "career_stats": {
         "through_season": 2025,
         "status": "available",
         "batting": {
-          "games": 30,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
+          "games": 113,
+          "plate_appearances": 268,
+          "at_bats": 240,
+          "runs": 34,
+          "hits": 56,
+          "doubles": 8,
+          "triples": 3,
+          "home_runs": 2,
+          "runs_batted_in": 17,
+          "walks": 18,
+          "strikeouts": 70,
+          "stolen_bases": 23,
+          "caught_stealing": 3,
+          "average": 0.233,
+          "on_base_percentage": 0.293,
+          "slugging_percentage": 0.317,
+          "ops": 0.61
         },
         "pitching": {
-          "games": 30,
-          "games_started": 28,
-          "wins": 7,
-          "losses": 12,
+          "games": 2,
+          "games_started": 0,
+          "wins": 0,
+          "losses": 0,
           "saves": 0,
-          "innings_outs": 446,
-          "hits": 158,
-          "runs": 94,
-          "earned_runs": 91,
-          "home_runs": 31,
-          "walks": 35,
-          "strikeouts": 105,
-          "hit_batters": 14,
-          "wild_pitches": 4,
+          "innings_outs": 6,
+          "hits": 4,
+          "runs": 0,
+          "earned_runs": 0,
+          "home_runs": 0,
+          "walks": 0,
+          "strikeouts": 1,
+          "hit_batters": 0,
+          "wild_pitches": 0,
           "balks": 0,
-          "complete_games": 1,
-          "era": 5.51,
-          "whip": 1.298
+          "complete_games": 0,
+          "era": 0.0,
+          "whip": 2.0
         }
       }
     },
@@ -992,97 +959,6 @@
           "complete_games": 0,
           "era": 4.32,
           "whip": 1.4
-        }
-      }
-    },
-    {
-      "id": 664129,
-      "mlb_id": 664129,
-      "wikidata_id": "Q64009978",
-      "slug": "geoff-hartlieb",
-      "name": "Geoff Hartlieb",
-      "full_name": "Geoff Hartlieb",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-12-09",
-      "age": 32,
-      "birthplace": "Highland",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 18, 2019",
-      "debut_team": "Pittsburgh Pirates",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Quincy University"
-          },
-          {
-            "name": "Lindenwood University"
-          }
-        ]
-      },
-      "teams": [
-        "Pittsburgh Pirates",
-        "New York Mets",
-        "Miami Marlins",
-        "Colorado Rockies",
-        "New York Yankees",
-        "Detroit Tigers",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q64009978",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Geoff_Hartlieb",
-      "retrosheet_id": "hartg001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 68,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 68,
-          "games_started": 0,
-          "wins": 1,
-          "losses": 1,
-          "saves": 0,
-          "innings_outs": 248,
-          "hits": 101,
-          "runs": 76,
-          "earned_runs": 73,
-          "home_runs": 13,
-          "walks": 61,
-          "strikeouts": 81,
-          "hit_batters": 6,
-          "wild_pitches": 10,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 7.95,
-          "whip": 1.96
         }
       }
     },
@@ -2260,67 +2136,6 @@
       }
     },
     {
-      "id": 671286,
-      "mlb_id": 671286,
-      "wikidata_id": "Q123321995",
-      "slug": "johnathan-rodriguez",
-      "name": "Johnathan Rodríguez",
-      "full_name": "Johnathan Rodríguez",
-      "number": "--",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "RF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-11-04",
-      "age": 26,
-      "birthplace": "Toa Baja, Puerto Rico",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 21, 2024",
-      "debut_team": "Cleveland Guardians",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Cleveland Guardians",
-        "Baltimore Orioles",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q123321995",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Johnathan_Rodr%C3%ADguez",
-      "retrosheet_id": "rodrj009",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 44,
-          "plate_appearances": 117,
-          "at_bats": 102,
-          "runs": 12,
-          "hits": 18,
-          "doubles": 5,
-          "triples": 1,
-          "home_runs": 2,
-          "runs_batted_in": 15,
-          "walks": 15,
-          "strikeouts": 36,
-          "stolen_bases": 1,
-          "caught_stealing": 0,
-          "average": 0.176,
-          "on_base_percentage": 0.282,
-          "slugging_percentage": 0.304,
-          "ops": 0.586
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 680723,
       "mlb_id": 680723,
       "wikidata_id": "Q118247253",
@@ -2547,90 +2362,6 @@
           "complete_games": 0,
           "era": 5.56,
           "whip": 1.564
-        }
-      }
-    },
-    {
-      "id": 661531,
-      "mlb_id": 661531,
-      "wikidata_id": "Q112081083",
-      "slug": "brian-serven",
-      "name": "Brian Serven",
-      "full_name": "Brian Serven",
-      "number": "10",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-05-05",
-      "age": 31,
-      "birthplace": "Palm Desert, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 18, 2022",
-      "debut_team": "Colorado Rockies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Palm Desert High School"
-          }
-        ]
-      },
-      "teams": [
-        "Colorado Rockies",
-        "Toronto Blue Jays",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q112081083",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Serven",
-      "retrosheet_id": "servb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 101,
-          "plate_appearances": 299,
-          "at_bats": 273,
-          "runs": 25,
-          "hits": 51,
-          "doubles": 9,
-          "triples": 1,
-          "home_runs": 6,
-          "runs_batted_in": 20,
-          "walks": 18,
-          "strikeouts": 76,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.187,
-          "on_base_percentage": 0.247,
-          "slugging_percentage": 0.293,
-          "ops": 0.54
-        },
-        "pitching": {
-          "games": 1,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 3,
-          "hits": 0,
-          "runs": 0,
-          "earned_runs": 0,
-          "home_runs": 0,
-          "walks": 1,
-          "strikeouts": 0,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 0.0,
-          "whip": 1.0
         }
       }
     },
@@ -2863,90 +2594,6 @@
           "complete_games": 0,
           "era": 3.64,
           "whip": 1.234
-        }
-      }
-    },
-    {
-      "id": 683021,
-      "mlb_id": 683021,
-      "wikidata_id": "Q112895120",
-      "slug": "michael-stefanic",
-      "name": "Michael Stefanic",
-      "full_name": "Michael Stefanic",
-      "number": "17",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-02-24",
-      "age": 30,
-      "birthplace": "Boise, Idaho, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 3, 2022",
-      "debut_team": "Los Angeles Angels",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Westmont College"
-          }
-        ]
-      },
-      "teams": [
-        "Los Angeles Angels",
-        "Toronto Blue Jays",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q112895120",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Stefanic",
-      "retrosheet_id": "stefm001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 99,
-          "plate_appearances": 289,
-          "at_bats": 255,
-          "runs": 19,
-          "hits": 58,
-          "doubles": 8,
-          "triples": 1,
-          "home_runs": 0,
-          "runs_batted_in": 14,
-          "walks": 26,
-          "strikeouts": 43,
-          "stolen_bases": 0,
-          "caught_stealing": 1,
-          "average": 0.227,
-          "on_base_percentage": 0.314,
-          "slugging_percentage": 0.267,
-          "ops": 0.581
-        },
-        "pitching": {
-          "games": 2,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 6,
-          "hits": 1,
-          "runs": 0,
-          "earned_runs": 0,
-          "home_runs": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "hit_batters": 1,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 0.0,
-          "whip": 0.5
         }
       }
     },
