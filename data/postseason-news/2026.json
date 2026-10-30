@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-30T13:10:27.551193+00:00",
+  "generatedAt": "2026-10-30T18:40:32.462478+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 4,
   "articles": [
     {
-      "title": "Dodgers offseason primer: Bullpen needs, Shohei Ohtani’s health and a winter of uncertainty",
-      "description": "The Dodgers hope to address their bullpen needs and pitching depth this offseason, but the threat of a lockout could complicate their free-agency plans.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-30/dodgers-offseason-primer-looming-mlb-lockout-complicates-plans",
-      "published": "2026-10-30T11:00:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
+      "title": "Sonny Gray chooses free agency after bitter end to career year with Red Sox",
+      "description": "A month after his career year with the Red Sox came to a frustrating end in the Wild Card round, Sonny Gray chose to decline his mutual option and become a free agent.",
+      "url": "https://www.bostonherald.com/2026/10/30/red-sox-sonny-gray-elects-free-agency-declines-mutual-option-mlb-news/",
+      "published": "2026-10-30T18:37:49+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox’ top starting pitcher in 2026 becomes free agent",
+      "description": "Starting pitcher Sonny Gray is officially a free agent. His Red Sox’ $30 million mutual option for 2027 has been declined.",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-top-starting-pitcher-in-2026-becomes-free-agent.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Red Sox start baseball’s offseason by trading Nate Eaton and Tsung-Che Cheng",
@@ -33,6 +45,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Brewers World Series parade draws mascots, ex-players and Wisconsin icons",
+      "description": "The World Series-winning Brewers players and coaches were joined along the parade route by Wisconsin icons, former players and hordes of fans.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/30/who-appeared-at-milwaukees-brewers-world-series-championship-parade/92515117007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "What the Yankees need to address before MLB lockout shuts them down",
       "description": "",
       "url": "https://nypost.com/2026/10/30/sports/what-yankees-need-to-address-before-mlb-lockout-shuts-them-down/",
@@ -43,6 +67,18 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Brewers World Series championship parade, rally live coverage",
+      "description": "We have live coverage of the parade and rally in Milwaukee to celebrate the Brewers' World Series championship.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/30/milwaukee-brewers-world-series-parade-rally-celebration-live-coverage--live/92512026007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Yankees mailbag: Should New York pursue Japanese star Teruaki Sato?",
@@ -60,13 +96,13 @@
       "title": "Examining Red Sox 2027 payroll, how it affects trades, free agency before new CBA",
       "description": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million.",
       "url": "https://www.masslive.com/redsox/2026/10/examining-red-sox-2027-payroll-and-how-it-affects-trades-free-agent-signings-before-new-cba.html",
-      "published": "2026-10-30T10:00:01+00:00",
+      "published": "",
       "source": "MassLive",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
-      "publishedSource": "publisher"
+      "publishedSource": "unverified"
     },
     {
       "title": "Everyone knows Red Sox need a bat, but what are club’s other biggest needs?",
@@ -96,90 +132,6 @@
       "title": "The Patriots can’t afford any Miami shenanigans on Sunday | Matt Vautour",
       "description": "Beating a 1-5 Dolphins team should be easy, but games in Miami never are for the Patriots.",
       "url": "https://www.masslive.com/patriots/2026/10/the-patriots-cant-afford-any-miami-shenanigans-on-sunday.html",
-      "published": "2026-10-30T09:00:00+00:00",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Downtown Milwaukee bars opening early for Brewers' victory parade",
-      "description": "Ahead of the Brewers' first-ever World Series victory parade, downtown Milwaukee bars and restaurants will welcome parade-goers as early as 6:30 a.m.",
-      "url": "https://www.jsonline.com/story/entertainment/things-to-do/2026/10/30/downtown-milwaukee-bars-restaurants-open-early-brewers-parade/92509802007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Journal Sentinel revives mini newspapers for Brewers' victory parade",
-      "description": "Milwaukee Journal Sentinel staff will hand out mini newspapers along the championship parade route, with the World Series champions on the cover.",
-      "url": "https://www.jsonline.com/story/news/2026/10/30/journal-sentinel-revives-mini-newspapers-for-brewers-world-series-win/92503772007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Am Fam service elevator operator ecstatic over Brewers World Series win",
-      "description": "Brewers service elevator operator Kevin Patrowsky kept things running behind the scenes at American Family Field throughout the World Series.",
-      "url": "https://www.jsonline.com/story/news/local/2026/10/30/am-fam-elevator-operator-remembers-bob-uecker-in-brewers-world-series/92466968007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "A (likely long) lockout looms again for MLB. Why a salary cap is at the center of it all. Again.",
-      "description": "Thirty-two years after the fight over a salary cap led to a painful strike, MLB is taking another swing at it. And both sides are digging in for a protracted battle.",
-      "url": "https://www.inquirer.com/phillies/mlb-labor-lockout-salary-cap-cba-strike-2028-season-20261030.html",
-      "published": "",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Can the Brewers become a small-market dynasty?",
-      "description": "The longest-tenured Brewers player spotted some of his youngest teammates, including Jackson Chourio and Cooper Pratt, Jacob Misiorowski, and Logan Henderson — all champions before turning 25. “Dang, ...",
-      "url": "https://www.nytimes.com/athletic/7736551/2026/10/30/brewers-mlb-world-series-free-agency-small-market/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "With MLB season complete, here are the key dates to know for the Red Sox’ offseason",
-      "description": "The offseason comes with a de facto transaction deadline of Dec. 1, when MLB owners are expected to impose a lockout until there is a new collective bargaining agreement.",
-      "url": "https://www.bostonglobe.com/2026/10/29/sports/red-sox-offseason-free-agents-arbitration/",
-      "published": "2026-10-30T02:16:41.764000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox make second trade of day, send infielder to Tigers",
-      "description": "The Red Sox have traded infielder Tsung-Che Cheng to the Tigers, according to a source.",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-make-second-trade-of-day-send-infielder-to-tigers.html",
       "published": "",
       "source": "MassLive",
       "teamId": 111,
@@ -189,16 +141,28 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "Red Sox swing second trade, deal infielder to Tigers for cash",
-      "description": "The Red Sox swung another trade on Thursday, dealing a defensive-minded infielder to the Detroit Tigers to clear another 40-man roster spot.",
-      "url": "https://www.bostonherald.com/2026/10/29/red-sox-swing-second-trade-deal-infielder-to-tigers-for-cash/",
-      "published": "2026-10-30T01:50:54+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
+      "title": "Milwaukee Brewers phenom Jackson Chourio always saw this coming | Lori Nickel",
+      "description": "Jackson Chourio helped lead the Milwaukee Brewers to a World Series victory at the age of 22. Chourio overcame a hand fracture and the emotional toll of earthquakes in his native Venezuela during the ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/30/milwaukee-brewers-phenom-jackson-chourio-always-saw-this-coming/92495548007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brewers World Series rally tickets available on StubHub starting at $60",
+      "description": "Tickets to the Brewers' World Series title rally were listed for $60 or more on StubHub with only hours to go before the event was set to begin.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/30/how-to-get-last-minute-milwaukee-brewers-world-series-rally-tickets/92512500007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     }
   ]
 }
