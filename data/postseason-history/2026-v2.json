@@ -2,9 +2,9 @@
   "schemaVersion": 2,
   "season": 2026,
   "status": "locked",
-  "generatedAt": "2026-10-29T22:55:23.296608Z",
-  "rosterRefreshedAt": "2026-10-29T22:55:23.296608Z",
-  "statsRefreshedAt": "2026-10-29T22:55:23.296608Z",
+  "generatedAt": "2026-10-30T08:54:43.017514Z",
+  "rosterRefreshedAt": "2026-10-30T08:54:43.017514Z",
+  "statsRefreshedAt": "2026-10-30T08:54:43.017514Z",
   "source": "MLB Stats API",
   "sourceURL": "https://statsapi.mlb.com/api/v1/standings?leagueId=103,104&season=2026",
   "rosterType": "40Man",
@@ -82,7 +82,7 @@
       "league": "NL"
     }
   ],
-  "playerCount": 453,
+  "playerCount": 452,
   "categories": {
     "hitting": [
       {
