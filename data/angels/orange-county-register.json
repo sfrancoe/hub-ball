@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Angels",
+      "description": "The Angels score three runs in the third inning and then don’t get another runner ...",
+      "published": "2026-09-28T09:51:00+00:00",
+      "title": "Los Angeles Angels",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "category": "Angels",
       "description": "The end of the World Series marks the beginning of the period when player movement starts for the winter. The first month of the offseason could be busy because action will freeze with the expected ...",
       "published": "2026-10-29T09:00:00+00:00",
       "title": "Angels set for condensed period of roster shuffling before lockout begins",
@@ -15,7 +22,7 @@
       "url": "https://www.ocregister.com/2026/10/21/kurt-suzuki-wont-return-as-angels-manager/"
     }
   ],
-  "generated_at": "2026-10-29T19:44:28.200008+00:00",
+  "generated_at": "2026-10-30T02:55:31.511604+00:00",
   "source": "OC Register",
   "source_url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
 }

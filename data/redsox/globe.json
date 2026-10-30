@@ -1,9 +1,23 @@
 {
   "articles": [
     {
+      "category": "Red Sox",
+      "description": "These were practical deals as the Red Sox sort through resetting their roster. Pitcher Jareth Rayo, 18, came over from the Athletics and the Tigers reportedly are sending cash.",
+      "published": "2026-10-30T02:27:19.267Z",
+      "title": "Red Sox start off baseball’s offseason by trading Nate Eaton (Athletics) and Tsung-Che Cheng (Tigers)",
+      "url": "https://www.bostonglobe.com/2026/10/29/sports/nate-eaton-red-sox-athletics/"
+    },
+    {
+      "category": "red sox",
+      "description": "The offseason comes with a de facto transaction deadline of Dec. 1, when MLB owners are expected to impose a lockout until there is a new collective bargaining agreement.",
+      "published": "2026-10-30T02:16:41.764Z",
+      "title": "With MLB season complete, here are the key dates to know for the Red Sox’ offseason",
+      "url": "https://www.bostonglobe.com/2026/10/29/sports/red-sox-offseason-free-agents-arbitration/"
+    },
+    {
       "category": "RED SOX",
       "description": "The Red Sox sought to wait until he was sufficiently healed from a left pinkie finger operation before having him go back under the knife for the foot repair.",
-      "published": "2026-10-29T23:17:56.866Z",
+      "published": "2026-10-30T00:20:53.281Z",
       "title": "Caleb Durbin undergoes second offseason surgery, this time on the Red Sox third baseman’s right foot",
       "url": "https://www.bostonglobe.com/2026/10/29/sports/red-sox-caleb-durbin-toe-surgery/"
     },
@@ -20,20 +34,6 @@
       "published": "2026-10-29T22:09:58.433Z",
       "title": "Willson Contreras celebrates his brother’s star turn at the World Series, and says he’s all good with Red Sox",
       "url": "https://www.bostonglobe.com/2026/10/29/sports/william-contreras-willson-contreras-world-series/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "They received minor league pitcher Jareth Rayo in exchange.",
-      "published": "2026-10-29T21:52:32.615Z",
-      "title": "Red Sox kick off baseball’s offseason by trading utilityman Nate Eaton to the Athletics",
-      "url": "https://www.bostonglobe.com/2026/10/29/sports/nate-eaton-red-sox-athletics/"
-    },
-    {
-      "category": "red sox",
-      "description": "The offseason comes with a de facto transaction deadline of Dec. 1, when MLB owners are expected to impose a lockout until there is a new collective bargaining agreement.",
-      "published": "2026-10-29T21:34:24.876Z",
-      "title": "With MLB season complete, here are the key dates to know for the Red Sox’ offseason",
-      "url": "https://www.bostonglobe.com/2026/10/29/sports/red-sox-offseason-free-agents-arbitration/"
     },
     {
       "category": "Baseball",
@@ -113,7 +113,7 @@
       "url": "https://www.bostonglobe.com/2026/10/26/sports/world-series-game-3-brewers-rays/"
     }
   ],
-  "generated_at": "2026-10-29T23:37:20.867531+00:00",
+  "generated_at": "2026-10-30T02:55:18.381721+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

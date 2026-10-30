@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox swung another trade on Thursday, dealing a defensive-minded infielder to the Detroit Tigers to clear another 40-man roster spot.",
+      "published": "2026-10-30T01:50:54Z",
+      "title": "Red Sox swing second trade, deal infielder to Tigers for cash",
+      "url": "https://www.bostonherald.com/2026/10/29/red-sox-swing-second-trade-deal-infielder-to-tigers-for-cash/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "A few weeks after having surgery on his injured pinky finger, Caleb Durbin has undergone a second procedure to correct an unrelated foot issue.",
       "published": "2026-10-29T22:36:36Z",
       "title": "Red Sox infielder has second offseason surgery, this time on right foot",
@@ -104,16 +111,9 @@
       "published": "2026-10-17T09:30:36Z",
       "title": "Red Sox Report Cards: Mixed reviews for talented outfield group",
       "url": "https://www.bostonherald.com/2026/10/17/red-sox-report-cards-mixed-reviews-for-talented-outfield-group/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Red Sox report cards: Infield defense finally improved, but offensive numbers nosedived in 2026",
-      "published": "2026-10-16T09:15:53Z",
-      "title": "Red Sox Report Cards: Improved infield defense at last, but not enough bats",
-      "url": "https://www.bostonherald.com/2026/10/16/red-sox-report-cards-infield-willson-contreras-caleb-durbin-trevor-story-adley-rutschman-curtis-mead-mlb/"
     }
   ],
-  "generated_at": "2026-10-29T23:37:21.494666+00:00",
+  "generated_at": "2026-10-30T02:55:19.060160+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

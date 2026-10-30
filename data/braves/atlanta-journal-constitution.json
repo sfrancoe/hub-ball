@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Braves",
+      "description": "Albies is the longest-tenured Braves player and among the most accomplished second basemen in franchise history.",
+      "published": "2026-10-28T17:00:00+00:00",
+      "title": "Braves exercise club options on Ozzie Albies, Ronald Acuña Jr.",
+      "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-club-options-albies-acuna/"
+    },
+    {
+      "category": "Braves",
       "description": "Lodise was selected by the Braves in the second round in the 2025 MLB Draft, thus has only played 159 minor league games. But during stops at Augusta, Rome and Columbus in 2026, the 22-year-old ...",
       "published": "2026-10-27T09:10:00+00:00",
       "title": "Here’s which Braves minor leaguers impressed in 2026",
@@ -23,27 +30,13 @@
     },
     {
       "category": "Braves",
-      "description": "ANAHEIM — Ten games into the 2026 season, there remains one Braves player who has not seen the field on defense: Dominic Smith. That’s because Smith has become, essentially, the team’s primary ...",
-      "published": "2026-04-05T16:59:00+00:00",
-      "title": "Braves DH Dominic Smith making mark where he can — at the plate",
-      "url": "https://www.ajc.com/sports/2026/04/braves-dh-dominic-smith-making-mark-where-he-can-at-the-plate/"
-    },
-    {
-      "category": "Braves",
       "description": "The Braves will surely want to re-sign utilityman extraordinaire Mauricio Dubón, but they’ll have to compete for his services if they don’t ink him to an extension before free agency opens in a couple ...",
       "published": "2026-10-20T05:10:00+00:00",
       "title": "Braves’ Mauricio Dubón should be popular in free agency",
       "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-mauricio-dubon-free-agency/"
-    },
-    {
-      "category": "Braves",
-      "description": "A former Braves infielder from the 2026 roster has reached the World Series. Jorge Mateo, released by Atlanta in August, helped the Rays to an American League pennant. He and his new team will face ...",
-      "published": "2026-10-20T08:11:00+00:00",
-      "title": "Released by Braves in August, Jorge Mateo makes World Series with Rays",
-      "url": "https://www.ajc.com/sports/2026/10/world-series-jorge-mateo-rays/"
     }
   ],
-  "generated_at": "2026-10-29T19:44:30.242654+00:00",
+  "generated_at": "2026-10-30T02:55:33.469402+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }
