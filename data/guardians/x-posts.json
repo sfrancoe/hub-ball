@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:18:40.057261+00:00",
+  "generated_at": "2026-10-30T13:11:14.748126+00:00",
   "source": "X",
   "source_url": "https://x.com/CleGuardians",
   "recent": [
@@ -32,34 +32,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2115690140664217607",
-      "text": "RT @cavs: WE GOT 2️⃣7️⃣ IN THE BUILDING FOR TONIGHT'S GAME. #LetEmKnow https://t.co/kon5wJQ47O",
-      "url": "https://x.com/CleGuardians/status/2115690140664217607",
-      "published": "2026-10-29T06:20:11+00:00",
-      "likes": 0,
-      "author": "Cleveland Guardians",
-      "handle": "CleGuardians",
-      "avatar": "https://pbs.twimg.com/profile_images/2100058129538961408/NiDAEcU-_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HVwZxD6WoAACUT-.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2115690102743789690",
-      "text": "RT @cavs: HEDGY'S HERE. @RocketOTD | #LetEmKnow https://t.co/iW61b0enCA",
-      "url": "https://x.com/CleGuardians/status/2115690102743789690",
-      "published": "2026-10-29T06:20:02+00:00",
-      "likes": 0,
-      "author": "Cleveland Guardians",
-      "handle": "CleGuardians",
-      "avatar": "https://pbs.twimg.com/profile_images/2100058129538961408/NiDAEcU-_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HVwJplbWoAANkGE.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
