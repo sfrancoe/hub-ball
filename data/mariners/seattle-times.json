@@ -2,10 +2,31 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "Michael Arroyo had surgery on his right arm this week to address a \"chronic injury,\" the Mariners announced. Here's what we know.",
+      "published": "2026-10-30T06:08:00+00:00",
+      "title": "Mariners’ Michael Arroyo has elbow surgery to address ‘chronic injury’",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-michael-arroyo-has-elbow-surgery-to-address-chronic-injury/"
+    },
+    {
+      "category": "Mariners",
       "description": "The Mariners have declined 2027 contract options for starting pitcher Bryce Miller and outfielder Victor Robles, the club announced Thursday.",
       "published": "2026-10-29T11:41:00+00:00",
       "title": "Mariners decline Bryce Miller’s option for 2027; here’s what that means",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-decline-bryce-millers-option-for-2027-heres-what-that-means/"
+    },
+    {
+      "category": "Mariners",
+      "description": "The Mariners are yet to win a World Series, but the team formerly known as the Seattle Pilots just did. And that's not the only local connection to the World Series.",
+      "published": "2026-10-29T04:11:00+00:00",
+      "title": "The World Series champion Brewers started in Seattle as the Pilots",
+      "url": "https://www.seattletimes.com/sports/mariners/the-world-series-champion-brewers-started-in-seattle-as-the-pilots/"
+    },
+    {
+      "category": "Mariners",
+      "description": "Rick Rizzs, the recently retired Mariners broadcasting legend, now has a road in Issaquah that bears his name.",
+      "published": "2026-10-28T05:36:00+00:00",
+      "title": "Rick Rizzs, recently retired Mariners broadcaster, gets an Issaquah road named after him",
+      "url": "https://www.seattletimes.com/sports/mariners/rick-rizzs-recently-retired-mariners-broadcaster-gets-an-issaquah-road-named-after-him/"
     },
     {
       "category": "Mariners",
@@ -23,13 +44,6 @@
     },
     {
       "category": "Mariners",
-      "description": "Rick Rizzs, the recently retired Mariners broadcasting legend, now has a road in Issaquah that bears his name.",
-      "published": "2026-10-28T05:36:00+00:00",
-      "title": "Rick Rizzs, recently retired Mariners broadcaster, gets an Issaquah road named after him",
-      "url": "https://www.seattletimes.com/sports/mariners/rick-rizzs-recently-retired-mariners-broadcaster-gets-an-issaquah-road-named-after-him/"
-    },
-    {
-      "category": "Mariners",
       "description": "Former Minnesota Twins manager Rocco Baldelli has withdrawn his name from consideration for the Mariners’ open manager role.",
       "published": "2026-10-25T13:46:00+00:00",
       "title": "Rocco Baldelli withdraws name from Mariners’ manager opening",
@@ -44,13 +58,13 @@
     },
     {
       "category": "Mariners",
-      "description": "Compared to the Mariners, Milwaukee and Tampa Bay — which meet in the World Series starting Friday — have done so much more with less.",
-      "published": "2026-10-22T23:00:00+00:00",
-      "title": "Brewers-Rays World Series doesn’t justify Mariners’ payroll strategy",
-      "url": "https://www.seattletimes.com/sports/mariners/brewers-rays-world-series-doesnt-justify-mariners-payroll-strategy/"
+      "description": "While the Mariners have yet to finalize a decision on their next manager, they have reportedly hired a new hitting coach with ties to the team.",
+      "published": "2026-10-30T05:54:00+00:00",
+      "title": "Mariners reportedly hire C.J. Gillman as hitting coach as manager decision still looms",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-hire-c-j-gillman-as-hitting-coach-as-manager-decision-still-looms/"
     }
   ],
-  "generated_at": "2026-10-30T16:20:32.882369+00:00",
+  "generated_at": "2026-10-30T20:42:49.320596+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

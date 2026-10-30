@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Cardinals",
-      "description": "While Cardinals are not confirming any decisions, Post-Dispatch previous reported on two returning coaches and other moves possible for the club this month.",
-      "published": "2026-10-23T13:15:00+00:00",
-      "title": "Cardinals plan change at hitting coach, move on from Brant Brown, per sources",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_b336b60c-ba5f-49ae-abec-3b467066450e.html"
-    },
-    {
-      "category": "Cardinals",
       "description": "During a 10-1 romp in Game 3 of the World Series, Milwaukee's outfielder is youngest with four hits since Joe Garagiola, one hit shy of Albert Pujols' record.",
       "published": "2026-10-27T05:32:00+00:00",
       "title": "Jackson Chourio's 4 hits in Brewers' rout nears feat by Cardinals catcher 80 years ago",
@@ -23,10 +16,10 @@
     },
     {
       "category": "Cardinals",
-      "description": "With a double and a triple, Cardinals outfield prospect Tai Peete improved to a .348 batting average and a 1.097 OPS through 11 games in the Arizona Fall League.",
-      "published": "2026-10-23T03:44:00+00:00",
-      "title": "Cardinals prospect Tai Peete continues fall league success with pair of extra-base hits",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_6878e635-b46a-448c-955e-a40cec921a86.html"
+      "description": "While Cardinals are not confirming any decisions, Post-Dispatch previous reported on two returning coaches and other moves possible for the club this month.",
+      "published": "2026-10-23T13:15:00+00:00",
+      "title": "Cardinals plan change at hitting coach, move on from Brant Brown, per sources",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_b336b60c-ba5f-49ae-abec-3b467066450e.html"
     },
     {
       "category": "Cardinals",
@@ -34,6 +27,13 @@
       "published": "2026-10-18T03:59:00+00:00",
       "title": "Knowing what Cardinals needed from him gave Jose Fermin more comfort in first full season",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_96195570-1939-43f7-abb6-14332f4a80c7.html"
+    },
+    {
+      "category": "Cardinals",
+      "description": "With a double and a triple, Cardinals outfield prospect Tai Peete improved to a .348 batting average and a 1.097 OPS through 11 games in the Arizona Fall League.",
+      "published": "2026-10-23T03:44:00+00:00",
+      "title": "Cardinals prospect Tai Peete continues fall league success with pair of extra-base hits",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_6878e635-b46a-448c-955e-a40cec921a86.html"
     },
     {
       "category": "Cardinals",
@@ -78,7 +78,7 @@
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_67e9fb47-fc8c-4b02-95e0-6ca2fd7134f0.html"
     }
   ],
-  "generated_at": "2026-10-30T16:20:37.213302+00:00",
+  "generated_at": "2026-10-30T20:42:54.170982+00:00",
   "source": "Post-Dispatch",
   "source_url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
 }

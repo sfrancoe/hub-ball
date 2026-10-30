@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "A month after his career year with the Red Sox came to a frustrating end in the Wild Card round, Sonny Gray chose to decline his mutual option and become a free agent.",
+      "published": "2026-10-30T18:37:49Z",
+      "title": "Sonny Gray chooses free agency after bitter end to career year with Red Sox",
+      "url": "https://www.bostonherald.com/2026/10/30/red-sox-sonny-gray-elects-free-agency-declines-mutual-option-mlb-news/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox obviously need a big bat, but what are some of the club’s other needs heading into the offseason?",
       "published": "2026-10-30T09:30:11Z",
       "title": "Everyone knows Red Sox need a bat, but what are club’s other biggest needs?",
@@ -104,16 +111,9 @@
       "published": "2026-10-19T15:28:52Z",
       "title": "Red Sox assistant GM hired as Athletics president of baseball operations",
       "url": "https://www.bostonherald.com/2026/10/19/red-sox-assistant-gm-hired-as-athletics-president-of-baseball-operations/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "MLB wants to institute a salary cap, but how would the new system actually work? Here’s a rundown of the league’s and players’ proposals as the ongoing labor talks heat up.",
-      "published": "2026-10-18T09:30:00Z",
-      "title": "MLB notes: Breaking down salary cap, other proposals as labor talks heat up",
-      "url": "https://www.bostonherald.com/2026/10/18/mlb-notes-breaking-down-salary-cap-other-proposals-as-labor-talks-heat-up/"
     }
   ],
-  "generated_at": "2026-10-30T16:20:09.883012+00:00",
+  "generated_at": "2026-10-30T20:42:35.400554+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

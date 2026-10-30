@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Starting pitcher Sonny Gray is officially a free agent. His Red Sox’ $30 million mutual option for 2027 has been declined.",
+      "published": "2026-10-30T18:15:35+00:00",
+      "title": "Red Sox’ top starting pitcher in 2026 becomes free agent",
+      "url": "https://www.masslive.com/redsox/2026/10/red-sox-top-starting-pitcher-in-2026-becomes-free-agent.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million.",
       "published": "2026-10-30T10:00:01+00:00",
       "title": "Examining Red Sox 2027 payroll, how it affects trades, free agency before new CBA",
@@ -104,16 +111,9 @@
       "published": "2026-10-26T19:54:37+00:00",
       "title": "Roster analysis: Red Sox face big decisions at shortstop this winter",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-shortstop-question-trevor-story-franklin-arias-and-potential-big-move-may-define-winter.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "For the first time since being fired in late April, Alex Cora opened up about the end of his Red Sox tenure on a recent podcast.",
-      "published": "2026-10-26T17:47:09+00:00",
-      "title": "Alex Cora breaks silence on Red Sox firing 6 months later, plus what 'really upset him'",
-      "url": "https://www.masslive.com/redsox/2026/10/alex-cora-finally-discusses-red-sox-firing-regrets-future-five-takeaways.html"
     }
   ],
-  "generated_at": "2026-10-30T16:20:11.350812+00:00",
+  "generated_at": "2026-10-30T20:42:37.422253+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
