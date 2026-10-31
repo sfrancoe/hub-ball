@@ -2,9 +2,9 @@
   "schemaVersion": 2,
   "season": 2026,
   "status": "locked",
-  "generatedAt": "2026-10-30T08:54:43.017514Z",
-  "rosterRefreshedAt": "2026-10-30T08:54:43.017514Z",
-  "statsRefreshedAt": "2026-10-30T08:54:43.017514Z",
+  "generatedAt": "2026-10-31T00:39:00.812835Z",
+  "rosterRefreshedAt": "2026-10-31T00:39:00.812835Z",
+  "statsRefreshedAt": "2026-10-31T00:39:00.812835Z",
   "source": "MLB Stats API",
   "sourceURL": "https://statsapi.mlb.com/api/v1/standings?leagueId=103,104&season=2026",
   "rosterType": "40Man",
@@ -82,7 +82,7 @@
       "league": "NL"
     }
   ],
-  "playerCount": 452,
+  "playerCount": 447,
   "categories": {
     "hitting": [
       {
@@ -641,25 +641,6 @@
               "value": 0.86,
               "games": 85,
               "plateAppearances": 358,
-              "inningsPitched": null
-            }
-          },
-          {
-            "playerId": 608348,
-            "name": "Carson Kelly",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 0.453,
-              "games": 2,
-              "plateAppearances": 7,
-              "inningsPitched": null
-            },
-            "career": {
-              "value": 0.508,
-              "games": 10,
-              "plateAppearances": 37,
               "inningsPitched": null
             }
           },
@@ -3350,25 +3331,6 @@
             }
           },
           {
-            "playerId": 608348,
-            "name": "Carson Kelly",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 0.167,
-              "games": 2,
-              "plateAppearances": 7,
-              "inningsPitched": null
-            },
-            "career": {
-              "value": 0.176,
-              "games": 10,
-              "plateAppearances": 37,
-              "inningsPitched": null
-            }
-          },
-          {
             "playerId": 678882,
             "name": "Ceddanne Rafaela",
             "teamId": 111,
@@ -6055,25 +6017,6 @@
             }
           },
           {
-            "playerId": 608348,
-            "name": "Carson Kelly",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 0.0,
-              "games": 2,
-              "plateAppearances": 7,
-              "inningsPitched": null
-            },
-            "career": {
-              "value": 1.0,
-              "games": 10,
-              "plateAppearances": 37,
-              "inningsPitched": null
-            }
-          },
-          {
             "playerId": 678882,
             "name": "Ceddanne Rafaela",
             "teamId": 111,
@@ -8756,25 +8699,6 @@
               "value": 63.0,
               "games": 85,
               "plateAppearances": 358,
-              "inningsPitched": null
-            }
-          },
-          {
-            "playerId": 608348,
-            "name": "Carson Kelly",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 0.0,
-              "games": 2,
-              "plateAppearances": 7,
-              "inningsPitched": null
-            },
-            "career": {
-              "value": 1.0,
-              "games": 10,
-              "plateAppearances": 37,
               "inningsPitched": null
             }
           },
@@ -11806,25 +11730,6 @@
             }
           },
           {
-            "playerId": 669160,
-            "name": "Dustin May",
-            "teamId": 158,
-            "teamAbbreviation": "MIL",
-            "league": "NL",
-            "season": {
-              "value": 0.0,
-              "games": 5,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            },
-            "career": {
-              "value": 1.0,
-              "games": 14,
-              "plateAppearances": null,
-              "inningsPitched": "25.0"
-            }
-          },
-          {
             "playerId": 689266,
             "name": "Dylan Dodd",
             "teamId": 144,
@@ -12724,25 +12629,6 @@
             }
           },
           {
-            "playerId": 571510,
-            "name": "Matthew Boyd",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 0.0,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.0"
-            },
-            "career": {
-              "value": 0.0,
-              "games": 8,
-              "plateAppearances": null,
-              "inningsPitched": "25.2"
-            }
-          },
-          {
             "playerId": 608331,
             "name": "Max Fried",
             "teamId": 147,
@@ -12773,25 +12659,6 @@
               "games": 3,
               "plateAppearances": null,
               "inningsPitched": "2.1"
-            }
-          },
-          {
-            "playerId": 650633,
-            "name": "Michael King",
-            "teamId": 135,
-            "teamAbbreviation": "SD",
-            "league": "NL",
-            "season": {
-              "value": 1.0,
-              "games": 3,
-              "plateAppearances": null,
-              "inningsPitched": "14.0"
-            },
-            "career": {
-              "value": 3.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "29.0"
             }
           },
           {
@@ -13197,25 +13064,6 @@
             }
           },
           {
-            "playerId": 542888,
-            "name": "Shawn Armstrong",
-            "teamId": 114,
-            "teamAbbreviation": "CLE",
-            "league": "AL",
-            "season": {
-              "value": 0.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "8.2"
-            },
-            "career": {
-              "value": 0.0,
-              "games": 9,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            }
-          },
-          {
             "playerId": 571946,
             "name": "Shelby Miller",
             "teamId": 112,
@@ -13260,25 +13108,6 @@
               "games": 5,
               "plateAppearances": null,
               "inningsPitched": "6.1"
-            }
-          },
-          {
-            "playerId": 543243,
-            "name": "Sonny Gray",
-            "teamId": 111,
-            "teamAbbreviation": "BOS",
-            "league": "AL",
-            "season": {
-              "value": 0.0,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.2"
-            },
-            "career": {
-              "value": 1.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "35.0"
             }
           },
           {
@@ -14551,25 +14380,6 @@
             }
           },
           {
-            "playerId": 669160,
-            "name": "Dustin May",
-            "teamId": 158,
-            "teamAbbreviation": "MIL",
-            "league": "NL",
-            "season": {
-              "value": 1.18,
-              "games": 5,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            },
-            "career": {
-              "value": 1.32,
-              "games": 14,
-              "plateAppearances": null,
-              "inningsPitched": "25.0"
-            }
-          },
-          {
             "playerId": 689266,
             "name": "Dylan Dodd",
             "teamId": 144,
@@ -15464,25 +15274,6 @@
             }
           },
           {
-            "playerId": 571510,
-            "name": "Matthew Boyd",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 1.5,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.0"
-            },
-            "career": {
-              "value": 1.4,
-              "games": 8,
-              "plateAppearances": null,
-              "inningsPitched": "25.2"
-            }
-          },
-          {
             "playerId": 608331,
             "name": "Max Fried",
             "teamId": 147,
@@ -15513,25 +15304,6 @@
               "games": 3,
               "plateAppearances": null,
               "inningsPitched": "2.1"
-            }
-          },
-          {
-            "playerId": 650633,
-            "name": "Michael King",
-            "teamId": 135,
-            "teamAbbreviation": "SD",
-            "league": "NL",
-            "season": {
-              "value": 0.71,
-              "games": 3,
-              "plateAppearances": null,
-              "inningsPitched": "14.0"
-            },
-            "career": {
-              "value": 0.76,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "29.0"
             }
           },
           {
@@ -15937,25 +15709,6 @@
             }
           },
           {
-            "playerId": 542888,
-            "name": "Shawn Armstrong",
-            "teamId": 114,
-            "teamAbbreviation": "CLE",
-            "league": "AL",
-            "season": {
-              "value": 0.35,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "8.2"
-            },
-            "career": {
-              "value": 0.45,
-              "games": 9,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            }
-          },
-          {
             "playerId": 571946,
             "name": "Shelby Miller",
             "teamId": 112,
@@ -16000,25 +15753,6 @@
               "games": 5,
               "plateAppearances": null,
               "inningsPitched": "6.1"
-            }
-          },
-          {
-            "playerId": 543243,
-            "name": "Sonny Gray",
-            "teamId": 111,
-            "teamAbbreviation": "BOS",
-            "league": "AL",
-            "season": {
-              "value": 1.29,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.2"
-            },
-            "career": {
-              "value": 1.37,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "35.0"
             }
           },
           {
@@ -17291,25 +17025,6 @@
             }
           },
           {
-            "playerId": 669160,
-            "name": "Dustin May",
-            "teamId": 158,
-            "teamAbbreviation": "MIL",
-            "league": "NL",
-            "season": {
-              "value": 5.73,
-              "games": 5,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            },
-            "career": {
-              "value": 4.68,
-              "games": 14,
-              "plateAppearances": null,
-              "inningsPitched": "25.0"
-            }
-          },
-          {
             "playerId": 689266,
             "name": "Dylan Dodd",
             "teamId": 144,
@@ -18204,25 +17919,6 @@
             }
           },
           {
-            "playerId": 571510,
-            "name": "Matthew Boyd",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 9.0,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.0"
-            },
-            "career": {
-              "value": 2.81,
-              "games": 8,
-              "plateAppearances": null,
-              "inningsPitched": "25.2"
-            }
-          },
-          {
             "playerId": 608331,
             "name": "Max Fried",
             "teamId": 147,
@@ -18253,25 +17949,6 @@
               "games": 3,
               "plateAppearances": null,
               "inningsPitched": "2.1"
-            }
-          },
-          {
-            "playerId": 650633,
-            "name": "Michael King",
-            "teamId": 135,
-            "teamAbbreviation": "SD",
-            "league": "NL",
-            "season": {
-              "value": 0.64,
-              "games": 3,
-              "plateAppearances": null,
-              "inningsPitched": "14.0"
-            },
-            "career": {
-              "value": 1.86,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "29.0"
             }
           },
           {
@@ -18677,25 +18354,6 @@
             }
           },
           {
-            "playerId": 542888,
-            "name": "Shawn Armstrong",
-            "teamId": 114,
-            "teamAbbreviation": "CLE",
-            "league": "AL",
-            "season": {
-              "value": 1.04,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "8.2"
-            },
-            "career": {
-              "value": 0.82,
-              "games": 9,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            }
-          },
-          {
             "playerId": 571946,
             "name": "Shelby Miller",
             "teamId": 112,
@@ -18740,25 +18398,6 @@
               "games": 5,
               "plateAppearances": null,
               "inningsPitched": "6.1"
-            }
-          },
-          {
-            "playerId": 543243,
-            "name": "Sonny Gray",
-            "teamId": 111,
-            "teamAbbreviation": "BOS",
-            "league": "AL",
-            "season": {
-              "value": 3.86,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.2"
-            },
-            "career": {
-              "value": 3.34,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "35.0"
             }
           },
           {
@@ -20031,25 +19670,6 @@
             }
           },
           {
-            "playerId": 669160,
-            "name": "Dustin May",
-            "teamId": 158,
-            "teamAbbreviation": "MIL",
-            "league": "NL",
-            "season": {
-              "value": 0.0,
-              "games": 5,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            },
-            "career": {
-              "value": 0.0,
-              "games": 14,
-              "plateAppearances": null,
-              "inningsPitched": "25.0"
-            }
-          },
-          {
             "playerId": 689266,
             "name": "Dylan Dodd",
             "teamId": 144,
@@ -20949,25 +20569,6 @@
             }
           },
           {
-            "playerId": 571510,
-            "name": "Matthew Boyd",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 0.0,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.0"
-            },
-            "career": {
-              "value": 0.0,
-              "games": 8,
-              "plateAppearances": null,
-              "inningsPitched": "25.2"
-            }
-          },
-          {
             "playerId": 608331,
             "name": "Max Fried",
             "teamId": 147,
@@ -20998,25 +20599,6 @@
               "games": 3,
               "plateAppearances": null,
               "inningsPitched": "2.1"
-            }
-          },
-          {
-            "playerId": 650633,
-            "name": "Michael King",
-            "teamId": 135,
-            "teamAbbreviation": "SD",
-            "league": "NL",
-            "season": {
-              "value": 1.0,
-              "games": 3,
-              "plateAppearances": null,
-              "inningsPitched": "14.0"
-            },
-            "career": {
-              "value": 1.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "29.0"
             }
           },
           {
@@ -21422,25 +21004,6 @@
             }
           },
           {
-            "playerId": 542888,
-            "name": "Shawn Armstrong",
-            "teamId": 114,
-            "teamAbbreviation": "CLE",
-            "league": "AL",
-            "season": {
-              "value": 0.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "8.2"
-            },
-            "career": {
-              "value": 0.0,
-              "games": 9,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            }
-          },
-          {
             "playerId": 571946,
             "name": "Shelby Miller",
             "teamId": 112,
@@ -21485,25 +21048,6 @@
               "games": 5,
               "plateAppearances": null,
               "inningsPitched": "6.1"
-            }
-          },
-          {
-            "playerId": 543243,
-            "name": "Sonny Gray",
-            "teamId": 111,
-            "teamAbbreviation": "BOS",
-            "league": "AL",
-            "season": {
-              "value": 0.0,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.2"
-            },
-            "career": {
-              "value": 0.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "35.0"
             }
           },
           {
@@ -22776,25 +22320,6 @@
             }
           },
           {
-            "playerId": 669160,
-            "name": "Dustin May",
-            "teamId": 158,
-            "teamAbbreviation": "MIL",
-            "league": "NL",
-            "season": {
-              "value": 8.0,
-              "games": 5,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            },
-            "career": {
-              "value": 22.0,
-              "games": 14,
-              "plateAppearances": null,
-              "inningsPitched": "25.0"
-            }
-          },
-          {
             "playerId": 689266,
             "name": "Dylan Dodd",
             "teamId": 144,
@@ -23694,25 +23219,6 @@
             }
           },
           {
-            "playerId": 571510,
-            "name": "Matthew Boyd",
-            "teamId": 112,
-            "teamAbbreviation": "CHC",
-            "league": "NL",
-            "season": {
-              "value": 4.0,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.0"
-            },
-            "career": {
-              "value": 27.0,
-              "games": 8,
-              "plateAppearances": null,
-              "inningsPitched": "25.2"
-            }
-          },
-          {
             "playerId": 608331,
             "name": "Max Fried",
             "teamId": 147,
@@ -23743,25 +23249,6 @@
               "games": 3,
               "plateAppearances": null,
               "inningsPitched": "2.1"
-            }
-          },
-          {
-            "playerId": 650633,
-            "name": "Michael King",
-            "teamId": 135,
-            "teamAbbreviation": "SD",
-            "league": "NL",
-            "season": {
-              "value": 15.0,
-              "games": 3,
-              "plateAppearances": null,
-              "inningsPitched": "14.0"
-            },
-            "career": {
-              "value": 34.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "29.0"
             }
           },
           {
@@ -24167,25 +23654,6 @@
             }
           },
           {
-            "playerId": 542888,
-            "name": "Shawn Armstrong",
-            "teamId": 114,
-            "teamAbbreviation": "CLE",
-            "league": "AL",
-            "season": {
-              "value": 6.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "8.2"
-            },
-            "career": {
-              "value": 10.0,
-              "games": 9,
-              "plateAppearances": null,
-              "inningsPitched": "11.0"
-            }
-          },
-          {
             "playerId": 571946,
             "name": "Shelby Miller",
             "teamId": 112,
@@ -24230,25 +23698,6 @@
               "games": 5,
               "plateAppearances": null,
               "inningsPitched": "6.1"
-            }
-          },
-          {
-            "playerId": 543243,
-            "name": "Sonny Gray",
-            "teamId": 111,
-            "teamAbbreviation": "BOS",
-            "league": "AL",
-            "season": {
-              "value": 5.0,
-              "games": 1,
-              "plateAppearances": null,
-              "inningsPitched": "4.2"
-            },
-            "career": {
-              "value": 35.0,
-              "games": 7,
-              "plateAppearances": null,
-              "inningsPitched": "35.0"
             }
           },
           {
