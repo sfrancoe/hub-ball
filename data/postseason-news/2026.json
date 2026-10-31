@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-31T14:50:03.705548+00:00",
+  "generatedAt": "2026-10-31T19:21:52.273911+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean",
+      "description": "The Yankees are not renewing the contracts of Omar Minaya and Brian Sabean, a source...",
+      "url": "https://www.nydailynews.com/2026/10/31/yankees-not-renewing-contracts-advisors-omar-minaya-brian-sabean/",
+      "published": "2026-10-31T16:15:07+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees dump two Brian Cashman lieutenants in front office shakeup",
+      "description": "",
+      "url": "https://nypost.com/2026/10/31/sports/yankees-dump-omar-minaya-brian-sabean-in-front-office-shakeup/",
+      "published": "2026-10-31T15:48:11+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "The Brewers’ World Series success was no fluke, and they did their part to help save baseball",
       "description": "Milwaukee won with the 19th-highest payroll in MLB and without falling into the trap of overreliance on home runs.",
@@ -33,33 +57,9 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Hot stove season begins. Will Dave Dombrowski make more mistakes like Pete Alonso, Trea Turner, José Alvarado?",
-      "description": "The Phillies president arrived in 2020 to much fanfare, but Dealin’ Dave's moves in Philly have been mostly misses. He can't afford any more.",
-      "url": "https://www.inquirer.com/sports/phillies-dave-dombrowski-hot-stove-mistakes-pete-alonso-trea-turner-20261031.html",
-      "published": "2026-10-31T09:01:01+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Milwaukee Brewers World Series win highlight of baseball life | Letters",
-      "description": "The Milwaukee Brewers championship came at time of darkness and division that brought fans together to see team win and enjoy experiencing it together ...",
-      "url": "https://www.jsonline.com/story/opinion/readers/2026/10/31/milwaukee-brewers-world-series-wisconsin/92517936007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Houston in October 1996: The Astros get a new manager, a high-wire act at City Hall",
-      "description": "\"Right now, the fate of baseball in Houston is not in (Astros owner Drayton McLane Jr.'s) hands, it's not in my hands, it's in the hands of where it should be, it's in the hands of voters,\" said ...",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/bayou-city-history/article/houston-october-1996-larry-dierker-tilman-22499723.php",
+      "title": "Randy Flores: What to know about Houston Astros' new general manager",
+      "description": "A college baseball standout and World Series winner as a player, Randy Flores comes to the Astros after a decade-plus in the Cardinals' front office.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-gm-things-to-know-22504097.php",
       "published": "",
       "source": "Houston Chronicle",
       "teamId": 117,
@@ -69,15 +69,15 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "The MLB season is over. Get ready for a lockout. Here’s how we got here, and what stands in the way for 2027.",
-      "description": "This bleakest outlook in decades stems from the owners’ desire to introduce a salary cap in negotiations for a new CBA, and the players’ opposition.",
-      "url": "https://www.bostonglobe.com/2026/10/29/sports/mlb-labor-owners-players/",
-      "published": "2026-10-31T03:46:38.101000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
+      "title": "Hot stove season begins. Will Dave Dombrowski make more mistakes like Pete Alonso, Trea Turner, José Alvarado?",
+      "description": "The Phillies president arrived in 2020 to much fanfare, but Dealin’ Dave's moves in Philly have been mostly misses. He can't afford any more.",
+      "url": "https://www.inquirer.com/sports/phillies-dave-dombrowski-hot-stove-mistakes-pete-alonso-trea-turner-20261031.html",
+      "published": "2026-10-31T09:01:01+00:00",
+      "source": "Inquirer",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "teamAbbreviation": "PHI",
+      "league": "NL",
       "publishedSource": "publisher"
     }
   ]
