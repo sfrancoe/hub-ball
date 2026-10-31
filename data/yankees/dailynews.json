@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees are not renewing the contracts of Omar Minaya and Brian Sabean, a source...",
+      "published": "2026-10-31T16:15:07+00:00",
+      "title": "Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean",
+      "url": "https://www.nydailynews.com/2026/10/31/yankees-not-renewing-contracts-advisors-omar-minaya-brian-sabean/"
+    },
+    {
+      "category": "Yankees",
       "description": "This isn’t about what Pat Murphy said to Jake Bauers when it was over on...",
       "published": "2026-10-29T16:16:40+00:00",
       "title": "Mike Lupica: Yankees may not like Pat Murphy’s tough talk, but Brewers culture won",
@@ -132,16 +139,9 @@
       "published": "2026-10-15T18:38:46+00:00",
       "title": "Briefly a Yankee, Jake Bauers emerges as NLCS hero for Brewers",
       "url": "https://www.nydailynews.com/2026/10/15/yankees-jake-bauers-nlcs-brewers-dodgers/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Stanton has reached a point in his contract where the Yankees could be comfortable moving...",
-      "published": "2026-10-15T14:18:34+00:00",
-      "title": "Yankees faced with big Giancarlo Stanton question after another injury-riddled year",
-      "url": "https://www.nydailynews.com/2026/10/15/yankees-faced-with-big-giancarlo-stanton-question-after-another-injury-riddled-year/"
     }
   ],
-  "generated_at": "2026-10-29T19:44:13.439123+00:00",
+  "generated_at": "2026-10-31T19:54:15.620346+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
