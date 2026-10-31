@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-31T19:21:52.273911+00:00",
+  "generatedAt": "2026-10-31T22:52:34.597002+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "The Brewers’ World Series success was no fluke, and they did their part to help save baseball",
+      "description": "Milwaukee won with the 19th-highest payroll in MLB and without falling into the trap of overreliance on home runs.",
+      "url": "https://www.bostonglobe.com/2026/10/31/sports/sunday-baseball-notes-brewers-world-series/",
+      "published": "2026-10-31T21:32:03.412000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean",
       "description": "The Yankees are not renewing the contracts of Omar Minaya and Brian Sabean, a source...",
@@ -33,16 +45,16 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "The Brewers’ World Series success was no fluke, and they did their part to help save baseball",
-      "description": "Milwaukee won with the 19th-highest payroll in MLB and without falling into the trap of overreliance on home runs.",
-      "url": "https://www.bostonglobe.com/2026/10/31/sports/sunday-baseball-notes-brewers-world-series/",
-      "published": "2026-10-31T14:32:30.055000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
+      "title": "Some of the best fan videos from the Brewers World Series parade, rally",
+      "description": "More than 750,000 people went to the Milwaukee Brewers' World Series parade and rally. Here are some of their best videos.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/some-of-best-fan-videos-from-the-brewers-world-series-parade-rally/92536956007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "As Rays look ahead to 2027*, Cash says ‘how can you not be excited?’",
@@ -67,18 +79,6 @@
       "teamAbbreviation": "HOU",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "Hot stove season begins. Will Dave Dombrowski make more mistakes like Pete Alonso, Trea Turner, José Alvarado?",
-      "description": "The Phillies president arrived in 2020 to much fanfare, but Dealin’ Dave's moves in Philly have been mostly misses. He can't afford any more.",
-      "url": "https://www.inquirer.com/sports/phillies-dave-dombrowski-hot-stove-mistakes-pete-alonso-trea-turner-20261031.html",
-      "published": "2026-10-31T09:01:01+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
     }
   ]
 }
