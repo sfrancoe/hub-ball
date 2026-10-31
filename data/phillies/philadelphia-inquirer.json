@@ -2,13 +2,20 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "The Phillies president arrived in 2020 to much fanfare, but Dealin’ Dave's moves in Philly have been mostly misses. He can't afford any more.",
+      "published": "2026-10-31T03:02:00+00:00",
+      "title": "Hot stove season begins. Will Dave Dombrowski make more mistakes like Pete Alonso, Trea Turner, José Alvarado?",
+      "url": "https://www.inquirer.com/sports/phillies-dave-dombrowski-hot-stove-mistakes-pete-alonso-trea-turner-20261031.html"
+    },
+    {
+      "category": "Phillies",
       "description": "As the Phillies' representative in the players' union, Garrett Stubbs is on the front lines of baseball's upcoming labor dispute. He joined \"Phillies Extra\" to discuss the CBA and the next season.",
       "published": "2026-10-30T02:01:00+00:00",
       "title": "Phillies Extra: Garrett Stubbs on baseball’s looming labor fight, the case against a salary cap, and more",
       "url": "https://www.inquirer.com/inquirer-live/garrett-stubbs-mlb-lockout-salary-cap-cba-20261030.html"
     }
   ],
-  "generated_at": "2026-10-30T16:20:34.597364+00:00",
+  "generated_at": "2026-10-31T11:05:14.744897+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }
