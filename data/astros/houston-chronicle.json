@@ -2,10 +2,24 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Randy Flores replaces Dana Brown as general manager. Flores ahs been assistant GM with the St. Louis Cardinals.",
+      "published": "2026-10-29T17:01:00+00:00",
+      "title": "Houston Astros hire Cardinals executive Randy Flores as new general manager",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-randy-flores-general-manager-22500778.php"
+    },
+    {
+      "category": "Astros",
       "description": "With the conclusion of the World Series, a weighty offseason for the Houston Astros will begin to ramp up. The Astros are still without a general manager and manager, yet to announce who will lead ...",
       "published": "2026-10-29T04:00:00+00:00",
       "title": "World Series is over and offseason begins. Key dates and issues for Houston Astros",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-offseason-dates-issues-22497578.php"
+    },
+    {
+      "category": "Astros",
+      "description": "The Houston Astros have hired St. Louis Cardinals executive Randy Flores as their general manager. Flores replaces Dana Brown, who was let go in August with his contract set to expire at the end ...",
+      "published": "2026-10-29T17:01:00+00:00",
+      "title": "Astros hire Randy Flores as general manager. Former pitcher had been assistant GM with Cardinals",
+      "url": "https://www.houstonchronicle.com/sports/article/astros-hire-randy-flores-as-general-manager-22503550.php"
     },
     {
       "category": "Astros",
@@ -69,23 +83,9 @@
       "published": "2026-10-22T04:00:00+00:00",
       "title": "Right fielder Cam Smith a work in progress at the plate | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-cam-smith-right-field-22486972.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Alvarez played 158 games after injuries limited him to 48 last year, and his 42 home runs tied for the fifth-highest total in Astros history ...",
-      "published": "2026-10-28T06:35:00+00:00",
-      "title": "Astros slugger Yordan Alvarez wins two Players Choice Awards ahead of AL MVP vote",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-players-choice-awards-22498087.php"
-    },
-    {
-      "category": "Astros",
-      "description": "The Astros have gone nearly two months without a general manager, but candidates for the job are beginning to emerge as the playoffs wind down.",
-      "published": "2026-10-20T15:42:00+00:00",
-      "title": "Milwaukee Brewers executive Matt Kleine emerging as candidate for Houston Astros' GM job",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-kleine-houston-gm-candidate-22486387.php"
     }
   ],
-  "generated_at": "2026-10-31T00:07:02.766246+00:00",
+  "generated_at": "2026-10-31T05:29:19.598893+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

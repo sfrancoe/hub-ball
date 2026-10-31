@@ -2,13 +2,20 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "Orioles manager Craig Albernaz returned to the dugout 45 minutes after being struck in the head by a foul ball. Scott Taetsch / Getty Images A frightening moment unfolded in the fifth inning of Monday ...",
+      "published": "2026-04-12T17:00:00+00:00",
+      "title": "Orioles manager Craig Albernaz hit in head by foul ball, returns to dugout with red mark",
+      "url": "https://www.nytimes.com/athletic/7194790/2026/04/13/craig-albernaz-foul-ball-head-orioles-jeremiah-jackson/"
+    },
+    {
+      "category": "Orioles",
       "description": "Jared Banner, who had served as an assistant general manager for the Chicago Cubs, is joining Mike Elias in Baltimore. Scott Taetsch / Getty Images At the end of the season, Baltimore Orioles ...",
       "published": "2026-10-19T06:02:00+00:00",
       "title": "Orioles hire Cubs’ Jared Banner as GM in Baltimore: Source",
       "url": "https://www.nytimes.com/athletic/7702293/2026/10/19/jared-banner-orioles-gm-hire/"
     }
   ],
-  "generated_at": "2026-10-23T02:00:15.146623+00:00",
+  "generated_at": "2026-10-31T05:29:17.062777+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/orioles/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rangers",
+      "description": "The first major transactions of the Rangers ' offseason are upon us.",
+      "published": "2026-10-30T15:32:00+00:00",
+      "title": "Mutual option for Texas Rangers' designated hitter Joc Pederson won't be exercised",
+      "url": "https://www.dallasnews.com/sports/rangers/article/mutual-option-joc-pederson-will-not-be-exercised-22503338.php"
+    },
+    {
+      "category": "Rangers",
       "description": "That leaves the Rangers roughly $20 million shy of the projected payroll they operated at this season (per FanGraphs, their estimated payroll was $188 million, and per Spotrac, it ...",
       "published": "2026-10-28T04:00:00+00:00",
       "title": "Texas Rangers payroll breakdown: Expiring free agents, arbitration-eligible players and more",
@@ -16,17 +23,17 @@
     },
     {
       "category": "Rangers",
-      "description": "With holes to fill on the roster, Texas appears ready to wait out labor negotiations before trying to fix them.",
-      "published": "2026-10-29T08:02:00+00:00",
-      "title": "As MLB starts its offseason, the Rangers appear to have picked a dangerous path forward",
-      "url": "https://www.dallasnews.com/sports/rangers/article/mlb-starts-offseason-rangers-appear-pick-22496372.php"
-    },
-    {
-      "category": "Rangers",
       "description": "The bargain bin: The Rangers have struck relative gold here in recent years on both the rotation (see: left-handed pitcher Patrick Corbin and right-handed pitcher Cal Quantrill) and bullpen (see: ...",
       "published": "2026-10-20T04:00:00+00:00",
       "title": "Texas Rangers free agency outlook: Another bargain-bin pitching staff in 2027?",
       "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-free-agents-pitchers-bullpen-22479967.php"
+    },
+    {
+      "category": "Rangers",
+      "description": "With holes to fill on the roster, Texas appears ready to wait out labor negotiations before trying to fix them.",
+      "published": "2026-10-29T08:02:00+00:00",
+      "title": "As MLB starts its offseason, the Rangers appear to have picked a dangerous path forward",
+      "url": "https://www.dallasnews.com/sports/rangers/article/mlb-starts-offseason-rangers-appear-pick-22496372.php"
     },
     {
       "category": "Rangers",
@@ -55,16 +62,9 @@
       "published": "2026-10-22T13:52:00+00:00",
       "title": "Mitch Garver, former Ranger and key part of 2023 World Series team, announces retirement",
       "url": "https://www.dallasnews.com/sports/rangers/article/mitch-garver-texas-rangers-world-series-retirement-22488392.php"
-    },
-    {
-      "category": "Rangers",
-      "description": "SportsDay Insiders Kevin Sherrington, Evan Grant and Calvin Watkins discuss the Cowboys' two-game losing streak and what it'll take to pull them out of the muck. Kevin notes that five of their next ...",
-      "published": "2026-10-21T16:25:00+00:00",
-      "title": "Podcast: Cowboys' and Longhorns' spiral, Mavs' start and a Rangers' star on the horizon",
-      "url": "https://www.dallasnews.com/sports/cowboys/article/podcast-cowboys-rangers-mavericks-stars-walcott-22488196.php"
     }
   ],
-  "generated_at": "2026-10-31T00:07:18.810935+00:00",
+  "generated_at": "2026-10-31T05:29:21.142461+00:00",
   "source": "Dallas Morning News",
   "source_url": "https://www.dallasnews.com/sports/rangers/"
 }
