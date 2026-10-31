@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Angels",
-      "description": "Stephenson had a $2.5 million option for 2027, but he is recovering from his second Tommy John surgery and won’t be able to pitch until the middle of 2027, at the earliest. He pitched 10 innings ...",
-      "published": "2026-10-30T16:44:00+00:00",
-      "title": "Angels decline Robert Stephenson’s option, as expected",
-      "url": "https://www.ocregister.com/2026/10/30/angels-decline-robert-stephensons-option-as-expected/"
-    },
-    {
-      "category": "Angels",
       "description": "The Angels score three runs in the third inning and then don’t get another runner ...",
       "published": "2026-09-28T09:51:00+00:00",
       "title": "Los Angeles Angels",
       "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "category": "Angels",
+      "description": "Stephenson had a $2.5 million option for 2027, but he is recovering from his second Tommy John surgery and won’t be able to pitch until the middle of 2027, at the earliest. He pitched 10 innings ...",
+      "published": "2026-10-30T16:44:00+00:00",
+      "title": "Angels decline Robert Stephenson’s option, as expected",
+      "url": "https://www.ocregister.com/2026/10/30/angels-decline-robert-stephensons-option-as-expected/"
     },
     {
       "category": "Angels",
@@ -36,7 +36,7 @@
       "url": "https://www.ocregister.com/2026/06/27/angels-send-down-christian-moore-to-play-every-day/"
     }
   ],
-  "generated_at": "2026-10-31T11:05:12.316230+00:00",
+  "generated_at": "2026-10-31T16:02:20.378588+00:00",
   "source": "OC Register",
   "source_url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
 }

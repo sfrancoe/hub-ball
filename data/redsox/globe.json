@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Sunday baseball notes",
+      "description": "Milwaukee won with the 19th-highest payroll in MLB and without falling into the trap of overreliance on home runs.",
+      "published": "2026-10-31T14:32:30.055Z",
+      "title": "The Brewers’ World Series success was no fluke, and they did their part to help save baseball",
+      "url": "https://www.bostonglobe.com/2026/10/31/sports/sunday-baseball-notes-brewers-world-series/"
+    },
+    {
       "category": "MLB",
       "description": "Milwaukee city officials were expecting about 400,000 people to attend the parade and celebration.",
       "published": "2026-10-30T22:53:38.242Z",
@@ -104,16 +111,9 @@
       "published": "2026-10-27T09:00:00Z",
       "title": "Riley Adams wants ‘an opportunity to earn my way to the big leagues.’ He believes he has one with the Red Sox.",
       "url": "https://www.bostonglobe.com/2026/10/27/sports/riley-adams-catcher-red-sox/"
-    },
-    {
-      "category": "Peter Abraham | On baseball",
-      "description": "In beating the Rays in Game 3, 10-1, the Brewers looked like a basketball team putting on a full-court press and causing one turnover after another.",
-      "published": "2026-10-27T04:33:54.271Z",
-      "title": "The Brewers, up 3-0 in the World Series, are very good at making other teams look bad",
-      "url": "https://www.bostonglobe.com/2026/10/27/sports/brewers-rays-world-series-game-3/"
     }
   ],
-  "generated_at": "2026-10-31T00:06:36.669541+00:00",
+  "generated_at": "2026-10-31T16:02:02.504467+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

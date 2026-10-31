@@ -2,24 +2,17 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "The Guardians are not expected to exercise either option. Cleveland also holds a $10 million club option for right-hander Emmanuel Clase, who is currently facing federal charges along with another ...",
-      "published": "2026-10-30T09:09:00+00:00",
-      "title": "Four Guardians hit free agency; Shawn Armstrong, Trevor Stephan’s options not expected to be exercised",
-      "url": "https://www.cleveland.com/guardians/2026/10/four-guardians-hit-free-agency-shawn-armstrong-trevor-stephans-option-not-expected-to-be-exercised.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Hey, Hoynsie: At least Gavin Williams will be ready for next year since he didn’t pitch on short rest in Game 6 of the ALCS against the Rays. — Jay Schulman.",
-      "published": "2026-10-30T19:16:00+00:00",
-      "title": "Should the Guardians have started Gavin Williams in Game 6 of ALCS? Hey, Hoynsie",
-      "url": "https://www.cleveland.com/guardians/2026/10/should-the-guardians-have-started-gavin-williams-in-game-6-of-alcs-hey-hoynsie.html"
-    },
-    {
-      "category": "Guardians",
       "description": "The Guardians added a power-hitting prospect to the 40-man roster. In the last two years, he's hit 42 homers at Triple-A Columbus.",
       "published": "2026-10-30T11:15:00+00:00",
       "title": "Guardians promote power-hitter to 40-man roster, decline options on Shawn Armstrong, Trevor Stephan",
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-promote-power-hitter-to-40-man-roster-decline-options-on-shawn-armstrong-trevor-stephan.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians are not expected to exercise either option. Cleveland also holds a $10 million club option for right-hander Emmanuel Clase, who is currently facing federal charges along with another ...",
+      "published": "2026-10-30T09:09:00+00:00",
+      "title": "Four Guardians hit free agency; Shawn Armstrong, Trevor Stephan’s options not expected to be exercised",
+      "url": "https://www.cleveland.com/guardians/2026/10/four-guardians-hit-free-agency-shawn-armstrong-trevor-stephans-option-not-expected-to-be-exercised.html"
     },
     {
       "category": "Guardians",
@@ -30,10 +23,24 @@
     },
     {
       "category": "Guardians",
+      "description": "Hey, Hoynsie: At least Gavin Williams will be ready for next year since he didn’t pitch on short rest in Game 6 of the ALCS against the Rays. — Jay Schulman.",
+      "published": "2026-10-30T19:16:00+00:00",
+      "title": "Should the Guardians have started Gavin Williams in Game 6 of ALCS? Hey, Hoynsie",
+      "url": "https://www.cleveland.com/guardians/2026/10/should-the-guardians-have-started-gavin-williams-in-game-6-of-alcs-hey-hoynsie.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Stephen Vogt says the Guardians' changing roster taught him to move beyond strict platoon matchups and trust his players as they established themselves in 2026.",
       "published": "2026-10-29T08:05:00+00:00",
       "title": "Stephen Vogt on how his managerial philosophy evolved as Guardians found their identity in 2026",
       "url": "https://www.cleveland.com/guardians/2026/10/stephen-vogt-on-how-his-managerial-philosophy-evolved-as-guardians-found-their-identity-in-2026.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "After years of searching for right-handed power, Cleveland now faces a hard payroll choice: bite the bullet on Adell or risk losing the bat their lineup desperately needs.",
+      "published": "2026-10-26T23:05:00+00:00",
+      "title": "Jo Adell’s arbitration price tag could give the Guardians an offseason headache",
+      "url": "https://www.cleveland.com/guardians/2026/10/jo-adells-arbitration-price-tag-could-give-the-guardians-an-offseason-headache.html"
     },
     {
       "category": "Guardians",
@@ -76,16 +83,9 @@
       "published": "2026-10-22T22:15:00+00:00",
       "title": "Guardians lock in their leaders, but continuity is only half the battle",
       "url": "https://www.cleveland.com/guardians/2026/10/guardians-lock-in-their-leaders-but-stability-is-only-half-the-battle.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "CLEVELAND, Ohio — When the Guardians left Progressive Field on Sunday after Game 5 of the American League Championship Series for Tropicana Field and the resumption of the best-of-seven series Monday ...",
-      "published": "2026-10-18T11:07:00+00:00",
-      "title": "Haunted hotel least of Cleveland’s ALCS problems: Guardians takeaways",
-      "url": "https://www.cleveland.com/guardians/2026/10/haunted-hotel-least-of-clevelands-alcs-problems-guardians-takeaways.html"
     }
   ],
-  "generated_at": "2026-10-31T11:05:10.274001+00:00",
+  "generated_at": "2026-10-31T16:02:18.635503+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
