@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "MLB",
+      "description": "Milwaukee city officials were expecting about 400,000 people to attend the parade and celebration.",
+      "published": "2026-10-30T22:53:38.242Z",
+      "title": "Brewers fans flood Milwaukee streets for a long-awaited World Series victory celebration",
+      "url": "https://www.bostonglobe.com/2026/10/30/sports/milwaukee-brewers-world-series-parade/"
+    },
+    {
       "category": "Red Sox",
       "description": "These were practical deals as the Red Sox sort through resetting their roster. Pitcher Jareth Rayo, 18, came over from the Athletics and the Tigers reportedly are sending cash.",
       "published": "2026-10-30T10:53:57.03Z",
@@ -104,16 +111,9 @@
       "published": "2026-10-27T04:33:54.271Z",
       "title": "The Brewers, up 3-0 in the World Series, are very good at making other teams look bad",
       "url": "https://www.bostonglobe.com/2026/10/27/sports/brewers-rays-world-series-game-3/"
-    },
-    {
-      "category": "Brewers 10, Rays 1",
-      "description": "The Brewers piled up 16 hits, batting around the order in their eight-run fifth inning.",
-      "published": "2026-10-27T03:30:07.403Z",
-      "title": "Brewers move one win away from World Series title after routing Rays in Game 3",
-      "url": "https://www.bostonglobe.com/2026/10/26/sports/world-series-game-3-brewers-rays/"
     }
   ],
-  "generated_at": "2026-10-30T16:20:09.328410+00:00",
+  "generated_at": "2026-10-31T00:06:36.669541+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

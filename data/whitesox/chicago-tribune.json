@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "White Sox",
-      "description": "The latest Bears stadium idea would put the team in Bridgeport, on the site of the White Sox’s Rate Field. But like some of the proposals before it, this one was drawn up without participation from ...",
-      "published": "2026-10-29T13:56:00+00:00",
-      "title": "Latest Bears stadium plan for White Sox site in Bridgeport draws interest — but no involvement from the team",
-      "url": "https://www.chicagotribune.com/2026/10/29/bridgeport-bears-stadium-plan/"
-    },
-    {
-      "category": "White Sox",
       "description": "Matt Roffe, who will lead the Chicago White Sox domestic draft duties, most recently worked for the Milwaukee Brewers as assistant director of domestic scouting.",
       "published": "2026-10-29T14:08:00+00:00",
       "title": "Chicago White Sox to hire Matt Roffe from Milwaukee Brewers to fill amateur scouting director role",
       "url": "https://www.chicagotribune.com/2026/10/29/chicago-white-sox-scouting-director-matt-roffe/"
+    },
+    {
+      "category": "White Sox",
+      "description": "The latest Bears stadium idea would put the team in Bridgeport, on the site of the White Sox’s Rate Field. But like some of the proposals before it, this one was drawn up without participation from ...",
+      "published": "2026-10-29T13:56:00+00:00",
+      "title": "Latest Bears stadium plan for White Sox site in Bridgeport draws interest — but no involvement from the team",
+      "url": "https://www.chicagotribune.com/2026/10/29/bridgeport-bears-stadium-plan/"
     },
     {
       "category": "White Sox",
@@ -29,7 +29,7 @@
       "url": "https://www.chicagotribune.com/2026/10/18/chicago-white-sox-offseason-plans/"
     }
   ],
-  "generated_at": "2026-10-29T23:37:32.312246+00:00",
+  "generated_at": "2026-10-31T00:06:54.774112+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }
