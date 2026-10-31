@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:16:34.720711+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:39:31.514981+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 109,
     "name": "Arizona Diamondbacks"
   },
   "roster_type": "open-current-roster",
-  "player_count": 34,
+  "player_count": 33,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1831,92 +1831,6 @@
           "complete_games": 0,
           "era": 0.0,
           "whip": 1.0
-        }
-      }
-    },
-    {
-      "id": 647336,
-      "mlb_id": 647336,
-      "wikidata_id": "Q20745108",
-      "slug": "michael-soroka",
-      "name": "Michael Soroka",
-      "full_name": "Michael Soroka",
-      "number": "34",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-08-04",
-      "age": 29,
-      "birthplace": "Calgary",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 1, 2018",
-      "debut_team": "Atlanta Braves",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Bishop Carroll High School"
-          }
-        ]
-      },
-      "teams": [
-        "Atlanta Braves",
-        "Chicago White Sox",
-        "Washington Nationals",
-        "Chicago Cubs",
-        "Arizona Diamondbacks"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q20745108",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Soroka",
-      "retrosheet_id": "sorom001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 91,
-          "plate_appearances": 71,
-          "at_bats": 60,
-          "runs": 2,
-          "hits": 5,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 3,
-          "walks": 2,
-          "strikeouts": 23,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.083,
-          "on_base_percentage": 0.141,
-          "slugging_percentage": 0.083,
-          "ops": 0.224
-        },
-        "pitching": {
-          "games": 91,
-          "games_started": 69,
-          "wins": 20,
-          "losses": 26,
-          "saves": 0,
-          "innings_outs": 1247,
-          "hits": 368,
-          "runs": 198,
-          "earned_runs": 178,
-          "home_runs": 49,
-          "walks": 140,
-          "strikeouts": 379,
-          "hit_batters": 30,
-          "wild_pitches": 12,
-          "balks": 3,
-          "complete_games": 0,
-          "era": 3.85,
-          "whip": 1.222
         }
       }
     },

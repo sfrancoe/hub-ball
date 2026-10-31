@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:19:21.812245+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:42:18.724035+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 137,
     "name": "San Francisco Giants"
   },
   "roster_type": "open-current-roster",
-  "player_count": 52,
+  "player_count": 51,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1326,90 +1326,6 @@
           "complete_games": 1,
           "era": 4.06,
           "whip": 1.36
-        }
-      }
-    },
-    {
-      "id": 668800,
-      "mlb_id": 668800,
-      "wikidata_id": "Q55583695",
-      "slug": "andrew-knizner",
-      "name": "Andrew Knizner",
-      "full_name": "Andrew Knizner",
-      "number": "19",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-02-03",
-      "age": 31,
-      "birthplace": "Glen Allen",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 2, 2019",
-      "debut_team": "St. Louis Cardinals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "North Carolina State University"
-          }
-        ]
-      },
-      "teams": [
-        "St. Louis Cardinals",
-        "Texas Rangers",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q55583695",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Knizner",
-      "retrosheet_id": "kniza001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 326,
-          "plate_appearances": 975,
-          "at_bats": 881,
-          "runs": 101,
-          "hits": 186,
-          "doubles": 33,
-          "triples": 1,
-          "home_runs": 19,
-          "runs_batted_in": 90,
-          "walks": 70,
-          "strikeouts": 214,
-          "stolen_bases": 4,
-          "caught_stealing": 1,
-          "average": 0.211,
-          "on_base_percentage": 0.281,
-          "slugging_percentage": 0.316,
-          "ops": 0.597
-        },
-        "pitching": {
-          "games": 3,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 11,
-          "hits": 2,
-          "runs": 0,
-          "earned_runs": 0,
-          "home_runs": 0,
-          "walks": 2,
-          "strikeouts": 0,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 0.0,
-          "whip": 1.091
         }
       }
     },

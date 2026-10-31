@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T16:06:04.014311+00:00",
-  "roster_as_of": "October 26, 2026",
+  "generated_at": "2026-10-31T15:29:01.042355+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 114,
     "name": "Cleveland Guardians"
@@ -204,99 +204,6 @@
           "complete_games": 0,
           "era": 4.48,
           "whip": 1.445
-        }
-      }
-    },
-    {
-      "id": 542888,
-      "mlb_id": 542888,
-      "wikidata_id": "Q20804473",
-      "slug": "shawn-armstrong",
-      "name": "Shawn Armstrong",
-      "full_name": "Shawn Armstrong",
-      "number": "43",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1990-09-11",
-      "age": 36,
-      "birthplace": "New Bern",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 8, 2015",
-      "debut_team": "Cleveland Indians",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "East Carolina University"
-          },
-          {
-            "name": "West Craven High School"
-          }
-        ]
-      },
-      "teams": [
-        "Cleveland Indians",
-        "Seattle Mariners",
-        "Baltimore Orioles",
-        "Tampa Bay Rays",
-        "Miami Marlins",
-        "St. Louis Cardinals",
-        "Chicago Cubs",
-        "Texas Rangers",
-        "Cleveland Guardians"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q20804473",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Shawn_Armstrong",
-      "retrosheet_id": "armss001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 370,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 370,
-          "games_started": 18,
-          "wins": 15,
-          "losses": 11,
-          "saves": 17,
-          "innings_outs": 1264,
-          "hits": 379,
-          "runs": 194,
-          "earned_runs": 179,
-          "home_runs": 47,
-          "walks": 140,
-          "strikeouts": 434,
-          "hit_batters": 27,
-          "wild_pitches": 15,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 3.82,
-          "whip": 1.232
         }
       }
     },
@@ -2039,7 +1946,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-10-31",
-      "age": 28,
+      "age": 29,
       "birthplace": "Edmonton, Alberta, Canada",
       "height": null,
       "weight": null,
@@ -2236,6 +2143,47 @@
           "era": 2.42,
           "whip": 0.953
         }
+      }
+    },
+    {
+      "id": 675455,
+      "mlb_id": 675455,
+      "wikidata_id": null,
+      "slug": "milan-tolentino",
+      "name": "Milán Tolentino",
+      "full_name": "Milán Tolentino",
+      "number": "78",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mil%C3%A1n_Tolentino",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

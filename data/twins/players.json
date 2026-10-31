@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:07:39.085023+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:30:40.019543+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 142,
     "name": "Minnesota Twins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 40,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -300,71 +300,6 @@
         "through_season": 2025,
         "status": "not_in_2025_release",
         "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 605137,
-      "mlb_id": 605137,
-      "wikidata_id": "Q6288644",
-      "slug": "josh-bell",
-      "name": "Josh Bell",
-      "full_name": "Josh Bell",
-      "number": "56",
-      "position": {
-        "name": "Designated Hitter",
-        "group": "Hitter",
-        "abbreviation": "DH"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1992-08-14",
-      "age": 34,
-      "birthplace": "Irving",
-      "height": "6' 4\"",
-      "weight": null,
-      "bats": "Switch",
-      "throws": "Right",
-      "debut_date": "July 8, 2016",
-      "debut_team": "Pittsburgh Pirates",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Pittsburgh Pirates",
-        "Washington Nationals",
-        "San Diego Padres",
-        "Cleveland Guardians",
-        "Miami Marlins",
-        "Arizona Diamondbacks",
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q6288644",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Bell_%28first_baseman%29",
-      "retrosheet_id": "bellj005",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 1287,
-          "plate_appearances": 5159,
-          "at_bats": 4503,
-          "runs": 604,
-          "hits": 1153,
-          "doubles": 225,
-          "triples": 20,
-          "home_runs": 193,
-          "runs_batted_in": 676,
-          "walks": 577,
-          "strikeouts": 962,
-          "stolen_bases": 4,
-          "caught_stealing": 17,
-          "average": 0.256,
-          "on_base_percentage": 0.341,
-          "slugging_percentage": 0.443,
-          "ops": 0.784
-        },
         "pitching": null
       }
     },

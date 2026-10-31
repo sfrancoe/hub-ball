@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T16:11:18.220480+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:34:15.810312+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 144,
     "name": "Atlanta Braves"
@@ -1896,7 +1896,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-05-31",
       "age": 26,
@@ -2347,7 +2347,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2002-03-01",
       "age": 24,
@@ -2425,7 +2425,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-10-06",
       "age": 29,

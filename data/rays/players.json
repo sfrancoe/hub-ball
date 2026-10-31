@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:03:36.294256+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:26:32.426484+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 139,
     "name": "Tampa Bay Rays"
   },
   "roster_type": "open-current-roster",
-  "player_count": 42,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1468,96 +1468,6 @@
       }
     },
     {
-      "id": 607259,
-      "mlb_id": 607259,
-      "wikidata_id": "Q16233377",
-      "slug": "nick-martinez",
-      "name": "Nick Martinez",
-      "full_name": "Nick Martínez",
-      "number": "28",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1990-08-05",
-      "age": 36,
-      "birthplace": "Miami",
-      "height": "6' 1\"",
-      "weight": 198,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "April 5, 2014",
-      "debut_team": "Texas Rangers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Belen Jesuit Preparatory School"
-          },
-          {
-            "name": "Fordham University"
-          }
-        ]
-      },
-      "teams": [
-        "Texas Rangers",
-        "Hokkaido Nippon-Ham Fighters",
-        "Fukuoka SoftBank Hawks",
-        "San Diego Padres",
-        "Cincinnati Reds",
-        "Tampa Bay Rays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16233377",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_Martinez_%28baseball%29",
-      "retrosheet_id": "martn002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 283,
-          "plate_appearances": 11,
-          "at_bats": 10,
-          "runs": 3,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 5,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.091,
-          "slugging_percentage": 0.0,
-          "ops": 0.091
-        },
-        "pitching": {
-          "games": 280,
-          "games_started": 129,
-          "wins": 48,
-          "losses": 59,
-          "saves": 9,
-          "innings_outs": 2820,
-          "hits": 935,
-          "runs": 474,
-          "earned_runs": 434,
-          "home_runs": 130,
-          "walks": 289,
-          "strikeouts": 670,
-          "hit_batters": 41,
-          "wild_pitches": 31,
-          "balks": 0,
-          "complete_games": 1,
-          "era": 4.16,
-          "whip": 1.302
-        }
-      }
-    },
-    {
       "id": 571927,
       "mlb_id": 571927,
       "wikidata_id": "Q16610494",
@@ -1784,77 +1694,6 @@
           "on_base_percentage": 0.234,
           "slugging_percentage": 0.186,
           "ops": 0.42
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 656775,
-      "mlb_id": 656775,
-      "wikidata_id": "Q56063045",
-      "slug": "cedric-mullins",
-      "name": "Cedric Mullins",
-      "full_name": "Cedric Mullins",
-      "number": "31",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-10-01",
-      "age": 32,
-      "birthplace": "Greensboro",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 10, 2018",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Brookwood High School"
-          },
-          {
-            "name": "Louisburg College"
-          },
-          {
-            "name": "Campbell University"
-          }
-        ]
-      },
-      "teams": [
-        "Baltimore Orioles",
-        "New York Mets",
-        "Tampa Bay Rays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q56063045",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Cedric_Mullins",
-      "retrosheet_id": "mullc002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 826,
-          "plate_appearances": 3217,
-          "at_bats": 2867,
-          "runs": 404,
-          "hits": 708,
-          "doubles": 144,
-          "triples": 21,
-          "home_runs": 103,
-          "runs_batted_in": 337,
-          "walks": 269,
-          "strikeouts": 658,
-          "stolen_bases": 147,
-          "caught_stealing": 36,
-          "average": 0.247,
-          "on_base_percentage": 0.317,
-          "slugging_percentage": 0.42,
-          "ops": 0.737
         },
         "pitching": null
       }

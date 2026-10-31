@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:02:00.577862+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:24:51.377723+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 111,
     "name": "Boston Red Sox"
   },
   "roster_type": "open-current-roster",
-  "player_count": 43,
+  "player_count": 42,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1086,96 +1086,6 @@
           "complete_games": 0,
           "era": 0.0,
           "whip": 0.0
-        }
-      }
-    },
-    {
-      "id": 543243,
-      "mlb_id": 543243,
-      "wikidata_id": "Q14184394",
-      "slug": "sonny-gray",
-      "name": "Sonny Gray",
-      "full_name": "Sonny Gray",
-      "number": "54",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1989-11-07",
-      "age": 36,
-      "birthplace": "Nashville",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 10, 2013",
-      "debut_team": "Oakland Athletics",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Vanderbilt University"
-          },
-          {
-            "name": "Smyrna High School"
-          }
-        ]
-      },
-      "teams": [
-        "Oakland Athletics",
-        "New York Yankees",
-        "Cincinnati Reds",
-        "Minnesota Twins",
-        "St. Louis Cardinals",
-        "Boston Red Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q14184394",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Sonny_Gray",
-      "retrosheet_id": "grays001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 342,
-          "plate_appearances": 118,
-          "at_bats": 99,
-          "runs": 8,
-          "hits": 14,
-          "doubles": 0,
-          "triples": 1,
-          "home_runs": 0,
-          "runs_batted_in": 3,
-          "walks": 3,
-          "strikeouts": 35,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.141,
-          "on_base_percentage": 0.167,
-          "slugging_percentage": 0.162,
-          "ops": 0.329
-        },
-        "pitching": {
-          "games": 339,
-          "games_started": 330,
-          "wins": 125,
-          "losses": 102,
-          "saves": 0,
-          "innings_outs": 5754,
-          "hits": 1675,
-          "runs": 836,
-          "earned_runs": 763,
-          "home_runs": 192,
-          "walks": 621,
-          "strikeouts": 1925,
-          "hit_batters": 57,
-          "wild_pitches": 106,
-          "balks": 6,
-          "complete_games": 7,
-          "era": 3.58,
-          "whip": 1.197
         }
       }
     },

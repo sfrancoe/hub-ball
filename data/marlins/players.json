@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:12:00.595846+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:34:40.895445+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 146,
     "name": "Miami Marlins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 43,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -363,85 +363,6 @@
       }
     },
     {
-      "id": 694350,
-      "mlb_id": 694350,
-      "wikidata_id": "Q130215769",
-      "slug": "zach-brzykcy",
-      "name": "Zach Brzykcy",
-      "full_name": "Zach Brzykcy",
-      "number": "62",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-07-12",
-      "age": 27,
-      "birthplace": "Hickory",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 1, 2024",
-      "debut_team": "Washington Nationals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Washington Nationals",
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q130215769",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Zach_Brzykcy",
-      "retrosheet_id": "brzyz001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 32,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 32,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 1,
-          "saves": 0,
-          "innings_outs": 86,
-          "hits": 37,
-          "runs": 32,
-          "earned_runs": 32,
-          "home_runs": 8,
-          "walks": 15,
-          "strikeouts": 28,
-          "hit_batters": 2,
-          "wild_pitches": 2,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 10.05,
-          "whip": 1.814
-        }
-      }
-    },
-    {
       "id": 683357,
       "mlb_id": 683357,
       "wikidata_id": "Q111177093",
@@ -560,66 +481,6 @@
           "on_base_percentage": 0.32,
           "slugging_percentage": 0.435,
           "ops": 0.755
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 686482,
-      "mlb_id": 686482,
-      "wikidata_id": "Q130211111",
-      "slug": "logan-driscoll",
-      "name": "Logan Driscoll",
-      "full_name": "Logan Driscoll",
-      "number": "33",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-11-03",
-      "age": 28,
-      "birthplace": "Colorado Springs, Colorado, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "September 3, 2024",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q130211111",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Logan_Driscoll",
-      "retrosheet_id": "drisl001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 15,
-          "plate_appearances": 37,
-          "at_bats": 35,
-          "runs": 2,
-          "hits": 6,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 5,
-          "walks": 1,
-          "strikeouts": 6,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.171,
-          "on_base_percentage": 0.189,
-          "slugging_percentage": 0.257,
-          "ops": 0.446
         },
         "pitching": null
       }
@@ -919,85 +780,6 @@
           "complete_games": 0,
           "era": 2.63,
           "whip": 1.189
-        }
-      }
-    },
-    {
-      "id": 1963435852,
-      "mlb_id": null,
-      "wikidata_id": "Q135103099",
-      "slug": "wikelman-gonzalez",
-      "name": "Wikelman González",
-      "full_name": "Wikelman González",
-      "number": "67",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2002-03-25",
-      "age": 24,
-      "birthplace": "Maracay, Venezuela",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 20, 2025",
-      "debut_team": "Chicago White Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Chicago White Sox",
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q135103099",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Wikelman_Gonz%C3%A1lez",
-      "retrosheet_id": "gonzw002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 16,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 16,
-          "games_started": 0,
-          "wins": 1,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 61,
-          "hits": 13,
-          "runs": 9,
-          "earned_runs": 6,
-          "home_runs": 1,
-          "walks": 12,
-          "strikeouts": 25,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 2.66,
-          "whip": 1.23
         }
       }
     },
@@ -1826,69 +1608,6 @@
           "era": 4.51,
           "whip": 1.373
         }
-      }
-    },
-    {
-      "id": 640459,
-      "mlb_id": 640459,
-      "wikidata_id": "Q98593674",
-      "slug": "brian-navarreto",
-      "name": "Brian Navarreto",
-      "full_name": "Brian Navarreto",
-      "number": "64",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-12-29",
-      "age": 31,
-      "birthplace": "Bayamón",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 23, 2020",
-      "debut_team": "Miami Marlins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Arlington Country Day School"
-          }
-        ]
-      },
-      "teams": [
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q98593674",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Navarreto",
-      "retrosheet_id": "navab001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 10,
-          "plate_appearances": 20,
-          "at_bats": 19,
-          "runs": 3,
-          "hits": 6,
-          "doubles": 2,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 5,
-          "walks": 0,
-          "strikeouts": 4,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.316,
-          "on_base_percentage": 0.3,
-          "slugging_percentage": 0.579,
-          "ops": 0.879
-        },
-        "pitching": null
       }
     },
     {
@@ -2734,91 +2453,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 676604,
-      "mlb_id": 676604,
-      "wikidata_id": "Q97666376",
-      "slug": "tyler-zuber",
-      "name": "Tyler Zuber",
-      "full_name": "Tyler Zuber",
-      "number": "55",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-06-16",
-      "age": 31,
-      "birthplace": "White Hall",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 24, 2020",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Arkansas State University"
-          }
-        ]
-      },
-      "teams": [
-        "Kansas City Royals",
-        "Tampa Bay Rays",
-        "New York Mets",
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q97666376",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tyler_Zuber",
-      "retrosheet_id": "zubet001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 66,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 1,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 66,
-          "games_started": 0,
-          "wins": 1,
-          "losses": 6,
-          "saves": 0,
-          "innings_outs": 194,
-          "hits": 61,
-          "runs": 47,
-          "earned_runs": 45,
-          "home_runs": 14,
-          "walks": 45,
-          "strikeouts": 73,
-          "hit_batters": 2,
-          "wild_pitches": 3,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 6.26,
-          "whip": 1.639
-        }
       }
     }
   ]

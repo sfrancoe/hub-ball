@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:13:37.094577+00:00",
-  "roster_as_of": "October 26, 2026",
+  "generated_at": "2026-10-31T15:36:34.888029+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 112,
     "name": "Chicago Cubs"
   },
   "roster_type": "open-current-roster",
-  "player_count": 40,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -422,98 +422,6 @@
           "ops": 0.743
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 571510,
-      "mlb_id": 571510,
-      "wikidata_id": "Q20487191",
-      "slug": "matthew-boyd",
-      "name": "Matthew Boyd",
-      "full_name": "Matthew Boyd",
-      "number": "16",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-02-02",
-      "age": 35,
-      "birthplace": "Bellevue",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "June 27, 2015",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Oregon State University"
-          },
-          {
-            "name": "Mercer Island High School"
-          },
-          {
-            "name": "Eastside Catholic School"
-          }
-        ]
-      },
-      "teams": [
-        "Toronto Blue Jays",
-        "Detroit Tigers",
-        "Seattle Mariners",
-        "Cleveland Guardians",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q20487191",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Boyd_%28baseball%29",
-      "retrosheet_id": "boydm001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 213,
-          "plate_appearances": 12,
-          "at_bats": 10,
-          "runs": 0,
-          "hits": 3,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 4,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.3,
-          "on_base_percentage": 0.364,
-          "slugging_percentage": 0.3,
-          "ops": 0.664
-        },
-        "pitching": {
-          "games": 213,
-          "games_started": 199,
-          "wins": 60,
-          "losses": 77,
-          "saves": 0,
-          "innings_outs": 3264,
-          "hits": 1053,
-          "runs": 589,
-          "earned_runs": 553,
-          "home_runs": 176,
-          "walks": 336,
-          "strikeouts": 1045,
-          "hit_batters": 53,
-          "wild_pitches": 32,
-          "balks": 7,
-          "complete_games": 2,
-          "era": 4.57,
-          "whip": 1.277
-        }
       }
     },
     {
@@ -1565,92 +1473,6 @@
           "complete_games": 0,
           "era": 2.67,
           "whip": 1.085
-        }
-      }
-    },
-    {
-      "id": 608348,
-      "mlb_id": 608348,
-      "wikidata_id": "Q18637556",
-      "slug": "carson-kelly",
-      "name": "Carson Kelly",
-      "full_name": "Carson Kelly",
-      "number": "15",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-07-14",
-      "age": 32,
-      "birthplace": "Chicago",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 5, 2016",
-      "debut_team": "St. Louis Cardinals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Westview High School"
-          }
-        ]
-      },
-      "teams": [
-        "St. Louis Cardinals",
-        "Arizona Diamondbacks",
-        "Detroit Tigers",
-        "Texas Rangers",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q18637556",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Carson_Kelly",
-      "retrosheet_id": "kellc002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 669,
-          "plate_appearances": 2223,
-          "at_bats": 1960,
-          "runs": 238,
-          "hits": 449,
-          "doubles": 84,
-          "triples": 3,
-          "home_runs": 71,
-          "runs_batted_in": 257,
-          "walks": 219,
-          "strikeouts": 448,
-          "stolen_bases": 5,
-          "caught_stealing": 0,
-          "average": 0.229,
-          "on_base_percentage": 0.312,
-          "slugging_percentage": 0.384,
-          "ops": 0.696
-        },
-        "pitching": {
-          "games": 8,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 25,
-          "hits": 19,
-          "runs": 7,
-          "earned_runs": 7,
-          "home_runs": 2,
-          "walks": 3,
-          "strikeouts": 1,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 7.56,
-          "whip": 2.64
         }
       }
     },

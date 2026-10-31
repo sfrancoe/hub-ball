@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:04:43.245503+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:27:41.545565+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 141,
     "name": "Toronto Blue Jays"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -998,47 +998,6 @@
           "slugging_percentage": 0.495,
           "ops": 0.861
         },
-        "pitching": null
-      }
-    },
-    {
-      "id": 657675,
-      "mlb_id": 657675,
-      "wikidata_id": "Q140602891",
-      "slug": "rudy-martin-jr",
-      "name": "Rudy Martin Jr.",
-      "full_name": "Rudy Martin Jr.",
-      "number": "1",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "RF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-01-31",
-      "age": 30,
-      "birthplace": "Memphis, Tennessee, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 11, 2026",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Toronto Blue Jays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q140602891",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Rudy_Martin_Jr.",
-      "retrosheet_id": "martr008",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
         "pitching": null
       }
     },

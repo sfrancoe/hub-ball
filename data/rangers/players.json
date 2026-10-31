@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:10:40.361940+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:33:35.500427+00:00",
+  "roster_as_of": "October 31, 2026",
   "team": {
     "id": 140,
     "name": "Texas Rangers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -465,6 +465,47 @@
           "era": 16.2,
           "whip": 2.4
         }
+      }
+    },
+    {
+      "id": 1953579129,
+      "mlb_id": null,
+      "wikidata_id": null,
+      "slug": "aidan-curry",
+      "name": "Aidan Curry",
+      "full_name": "Aidan Curry",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Texas Rangers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aidan_Curry",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -1061,71 +1102,6 @@
       }
     },
     {
-      "id": 543309,
-      "mlb_id": 543309,
-      "wikidata_id": "Q29349533",
-      "slug": "kyle-higashioka",
-      "name": "Kyle Higashioka",
-      "full_name": "Kyle Higashioka",
-      "number": "11",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1990-04-20",
-      "age": 36,
-      "birthplace": "Huntington Beach",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 10, 2017",
-      "debut_team": "New York Yankees",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Edison High School"
-          }
-        ]
-      },
-      "teams": [
-        "New York Yankees",
-        "San Diego Padres",
-        "Texas Rangers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q29349533",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kyle_Higashioka",
-      "retrosheet_id": "higak001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 492,
-          "plate_appearances": 1513,
-          "at_bats": 1407,
-          "runs": 156,
-          "hits": 307,
-          "doubles": 62,
-          "triples": 2,
-          "home_runs": 68,
-          "runs_batted_in": 213,
-          "walks": 86,
-          "strikeouts": 390,
-          "stolen_bases": 5,
-          "caught_stealing": 2,
-          "average": 0.218,
-          "on_base_percentage": 0.263,
-          "slugging_percentage": 0.41,
-          "ops": 0.673
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 643376,
       "mlb_id": 643376,
       "wikidata_id": "Q50822516",
@@ -1253,93 +1229,6 @@
           "ops": 0.724
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 596001,
-      "mlb_id": 596001,
-      "wikidata_id": "Q30094054",
-      "slug": "jakob-junis",
-      "name": "Jakob Junis",
-      "full_name": "Jakob Junis",
-      "number": "16",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1992-09-16",
-      "age": 34,
-      "birthplace": "Little Rock",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 12, 2017",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Rock Falls High School"
-          }
-        ]
-      },
-      "teams": [
-        "Kansas City Royals",
-        "San Francisco Giants",
-        "Milwaukee Brewers",
-        "Cincinnati Reds",
-        "Cleveland Guardians",
-        "Texas Rangers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q30094054",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jakob_Junis",
-      "retrosheet_id": "junij001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 249,
-          "plate_appearances": 9,
-          "at_bats": 8,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 5,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 249,
-          "games_started": 116,
-          "wins": 46,
-          "losses": 46,
-          "saves": 2,
-          "innings_outs": 2541,
-          "hits": 876,
-          "runs": 441,
-          "earned_runs": 410,
-          "home_runs": 130,
-          "walks": 216,
-          "strikeouts": 768,
-          "hit_batters": 53,
-          "wild_pitches": 27,
-          "balks": 2,
-          "complete_games": 1,
-          "era": 4.36,
-          "whip": 1.289
-        }
       }
     },
     {
@@ -1912,74 +1801,6 @@
           "era": 4.81,
           "whip": 1.5
         }
-      }
-    },
-    {
-      "id": 592626,
-      "mlb_id": 592626,
-      "wikidata_id": "Q16234668",
-      "slug": "joc-pederson",
-      "name": "Joc Pederson",
-      "full_name": "Joc Pederson",
-      "number": "3",
-      "position": {
-        "name": "Designated Hitter",
-        "group": "Hitter",
-        "abbreviation": "DH"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1992-04-21",
-      "age": 34,
-      "birthplace": "Palo Alto",
-      "height": "6' 1\"",
-      "weight": 218,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 1, 2014",
-      "debut_team": "Los Angeles Dodgers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Palo Alto High School"
-          }
-        ]
-      },
-      "teams": [
-        "Los Angeles Dodgers",
-        "Chicago Cubs",
-        "Atlanta Braves",
-        "San Francisco Giants",
-        "Arizona Diamondbacks",
-        "Texas Rangers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16234668",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Joc_Pederson",
-      "retrosheet_id": "pedej001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 1367,
-          "plate_appearances": 4607,
-          "at_bats": 3948,
-          "runs": 605,
-          "hits": 934,
-          "doubles": 190,
-          "triples": 18,
-          "home_runs": 218,
-          "runs_batted_in": 575,
-          "walks": 531,
-          "strikeouts": 1084,
-          "stolen_bases": 31,
-          "caught_stealing": 27,
-          "average": 0.237,
-          "on_base_percentage": 0.338,
-          "slugging_percentage": 0.459,
-          "ops": 0.797
-        },
-        "pitching": null
       }
     },
     {

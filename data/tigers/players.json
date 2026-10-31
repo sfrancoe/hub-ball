@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:06:30.870268+00:00",
+  "generated_at": "2026-10-31T15:29:29.795099+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 116,
     "name": "Detroit Tigers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 46,
+  "player_count": 44,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -2794,91 +2794,6 @@
       }
     },
     {
-      "id": 434378,
-      "mlb_id": 434378,
-      "wikidata_id": "Q981788",
-      "slug": "justin-verlander",
-      "name": "Justin Verlander",
-      "full_name": "Justin Verlander",
-      "number": "35",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1983-02-20",
-      "age": 43,
-      "birthplace": "Manakin-Sabot",
-      "height": "6' 5\"",
-      "weight": 225,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 4, 2005",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Old Dominion University"
-          }
-        ]
-      },
-      "teams": [
-        "Detroit Tigers",
-        "Houston Astros",
-        "New York Mets",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q981788",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Justin_Verlander",
-      "retrosheet_id": "verlj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 555,
-          "plate_appearances": 60,
-          "at_bats": 50,
-          "runs": 2,
-          "hits": 5,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 1,
-          "walks": 0,
-          "strikeouts": 24,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.1,
-          "on_base_percentage": 0.1,
-          "slugging_percentage": 0.1,
-          "ops": 0.2
-        },
-        "pitching": {
-          "games": 555,
-          "games_started": 555,
-          "wins": 266,
-          "losses": 158,
-          "saves": 0,
-          "innings_outs": 10703,
-          "hits": 3046,
-          "runs": 1428,
-          "earned_runs": 1317,
-          "home_runs": 371,
-          "walks": 1004,
-          "strikeouts": 3553,
-          "hit_batters": 121,
-          "wild_pitches": 99,
-          "balks": 20,
-          "complete_games": 26,
-          "era": 3.32,
-          "whip": 1.135
-        }
-      }
-    },
-    {
       "id": 676684,
       "mlb_id": 676684,
       "wikidata_id": "Q104093814",
@@ -3019,94 +2934,6 @@
           "ops": 0.709
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 621097,
-      "mlb_id": 621097,
-      "wikidata_id": "Q64748280",
-      "slug": "jacob-waguespack",
-      "name": "Jacob Waguespack",
-      "full_name": "Jacob Waguespack",
-      "number": "58",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-11-05",
-      "age": 32,
-      "birthplace": "Prairieville",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 27, 2019",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Dutchtown High School"
-          },
-          {
-            "name": "University of Mississippi"
-          }
-        ]
-      },
-      "teams": [
-        "Toronto Blue Jays",
-        "Orix Buffaloes",
-        "Tampa Bay Rays",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q64748280",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Waguespack",
-      "retrosheet_id": "waguj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 31,
-          "plate_appearances": 3,
-          "at_bats": 2,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 2,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.333,
-          "slugging_percentage": 0.0,
-          "ops": 0.333
-        },
-        "pitching": {
-          "games": 31,
-          "games_started": 14,
-          "wins": 5,
-          "losses": 5,
-          "saves": 0,
-          "innings_outs": 317,
-          "hits": 115,
-          "runs": 70,
-          "earned_runs": 60,
-          "home_runs": 15,
-          "walks": 48,
-          "strikeouts": 90,
-          "hit_batters": 7,
-          "wild_pitches": 3,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.11,
-          "whip": 1.543
-        }
       }
     }
   ]

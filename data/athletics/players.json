@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:09:31.921565+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:32:27.778802+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 133,
     "name": "Athletics"
   },
   "roster_type": "open-current-roster",
-  "player_count": 43,
+  "player_count": 41,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1613,73 +1613,6 @@
       }
     },
     {
-      "id": 643446,
-      "mlb_id": 643446,
-      "wikidata_id": "Q16567206",
-      "slug": "jeff-mcneil",
-      "name": "Jeff McNeil",
-      "full_name": "Jeff McNeil",
-      "number": "22",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1992-04-08",
-      "age": 34,
-      "birthplace": "Santa Barbara",
-      "height": "6' 1\"",
-      "weight": 165,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "July 24, 2018",
-      "debut_team": "New York Mets",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Nipomo High School"
-          },
-          {
-            "name": "California State University, Long Beach"
-          }
-        ]
-      },
-      "teams": [
-        "New York Mets",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16567206",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jeff_McNeil",
-      "retrosheet_id": "mcnej002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 923,
-          "plate_appearances": 3621,
-          "at_bats": 3245,
-          "runs": 432,
-          "hits": 920,
-          "doubles": 193,
-          "triples": 18,
-          "home_runs": 80,
-          "runs_batted_in": 367,
-          "walks": 261,
-          "strikeouts": 430,
-          "stolen_bases": 37,
-          "caught_stealing": 10,
-          "average": 0.284,
-          "on_base_percentage": 0.351,
-          "slugging_percentage": 0.428,
-          "ops": 0.779
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 665622,
       "mlb_id": 665622,
       "wikidata_id": "Q105821002",
@@ -2507,94 +2440,6 @@
           "ops": 0.754
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 605488,
-      "mlb_id": 605488,
-      "wikidata_id": "Q55956057",
-      "slug": "jeffrey-springs",
-      "name": "Jeffrey Springs",
-      "full_name": "Jeffrey Springs",
-      "number": "59",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1992-09-20",
-      "age": 34,
-      "birthplace": "Belmont",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "July 31, 2018",
-      "debut_team": "Texas Rangers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Appalachian State University"
-          },
-          {
-            "name": "South Point High School"
-          }
-        ]
-      },
-      "teams": [
-        "Texas Rangers",
-        "Boston Red Sox",
-        "Tampa Bay Rays",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q55956057",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jeffrey_Springs",
-      "retrosheet_id": "sprij001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 177,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 177,
-          "games_started": 67,
-          "wins": 34,
-          "losses": 23,
-          "saves": 2,
-          "innings_outs": 1454,
-          "hits": 440,
-          "runs": 221,
-          "earned_runs": 196,
-          "home_runs": 70,
-          "walks": 158,
-          "strikeouts": 497,
-          "hit_batters": 7,
-          "wild_pitches": 9,
-          "balks": 4,
-          "complete_games": 0,
-          "era": 3.64,
-          "whip": 1.234
-        }
       }
     },
     {

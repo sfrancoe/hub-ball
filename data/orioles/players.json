@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T16:04:14.574965+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-10-31T15:27:11.913503+00:00",
+  "roster_as_of": "October 30, 2026",
   "team": {
     "id": 110,
     "name": "Baltimore Orioles"
   },
   "roster_type": "open-current-roster",
-  "player_count": 42,
+  "player_count": 41,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -644,90 +644,6 @@
           "ops": 0.704
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 621107,
-      "mlb_id": 621107,
-      "wikidata_id": "Q18390636",
-      "slug": "zach-eflin",
-      "name": "Zach Eflin",
-      "full_name": "Zach Eflin",
-      "number": "24",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1994-04-08",
-      "age": 32,
-      "birthplace": "Chuluota",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 14, 2016",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Paul J. Hagerty High School"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Tampa Bay Rays",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q18390636",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Zach_Eflin",
-      "retrosheet_id": "efliz001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 201,
-          "plate_appearances": 184,
-          "at_bats": 167,
-          "runs": 10,
-          "hits": 21,
-          "doubles": 3,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 6,
-          "walks": 1,
-          "strikeouts": 94,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.126,
-          "on_base_percentage": 0.136,
-          "slugging_percentage": 0.162,
-          "ops": 0.298
-        },
-        "pitching": {
-          "games": 200,
-          "games_started": 188,
-          "wins": 68,
-          "losses": 67,
-          "saves": 1,
-          "innings_outs": 3221,
-          "hits": 1106,
-          "runs": 550,
-          "earned_runs": 511,
-          "home_runs": 162,
-          "walks": 221,
-          "strikeouts": 922,
-          "hit_batters": 32,
-          "wild_pitches": 14,
-          "balks": 0,
-          "complete_games": 5,
-          "era": 4.28,
-          "whip": 1.236
-        }
       }
     },
     {
