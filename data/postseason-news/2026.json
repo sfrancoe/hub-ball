@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-01T02:19:31.851682+00:00",
+  "generatedAt": "2026-11-01T09:47:19.209102+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 3,
   "articles": [
     {
       "title": "Rays pick up Drew Rasmussen’s option for franchise-record $20M salary",
@@ -33,57 +33,9 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "The Brewers’ World Series success was no fluke, and they did their part to help save baseball",
-      "description": "Milwaukee won with the 19th-highest payroll in MLB and without falling into the trap of overreliance on home runs.",
-      "url": "https://www.bostonglobe.com/2026/10/31/sports/sunday-baseball-notes-brewers-world-series/",
-      "published": "2026-10-31T21:32:03.412000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Brewers players thank fans after historic World Series winning season",
-      "description": "Milwaukee Brewers players let loose at the team's World Series parade and rally. They also took some time to reflect on their historic season.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/see-what-aaron-ashby-and-his-teammates-said-after-world-series-parade/92537039007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean",
-      "description": "The Yankees are not renewing the contracts of Omar Minaya and Brian Sabean, a source...",
-      "url": "https://www.nydailynews.com/2026/10/31/yankees-not-renewing-contracts-advisors-omar-minaya-brian-sabean/",
-      "published": "2026-10-31T16:15:07+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees dump two Brian Cashman lieutenants in front office shakeup",
-      "description": "",
-      "url": "https://nypost.com/2026/10/31/sports/yankees-dump-omar-minaya-brian-sabean-in-front-office-shakeup/",
-      "published": "2026-10-31T15:48:11+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Some of the best fan videos from the Brewers World Series parade, rally",
-      "description": "More than 750,000 people went to the Milwaukee Brewers' World Series parade and rally. Here are some of their best videos.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/some-of-best-fan-videos-from-the-brewers-world-series-parade-rally/92536956007/",
+      "title": "World Series champion Brewers appear on 'Saturday Night Live,' watch here",
+      "description": "Fresh off their World Series championship and parade, the Milwaukee Brewers appeared on \"Saturday Night Live\" for the Weekend Update segment.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/milwaukee-brewers-snl-world-series-champions-saturday-night-live/92539222007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
