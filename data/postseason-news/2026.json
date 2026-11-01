@@ -1,48 +1,36 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-01T09:47:19.209102+00:00",
+  "generatedAt": "2026-11-01T16:28:32.279187+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 2,
   "articles": [
     {
-      "title": "Rays pick up Drew Rasmussen’s option for franchise-record $20M salary",
-      "description": "The ace starter maxed out a series of escalator clauses based on games pitched and days healthy. Plus, Yandy Diaz’s option is formalized.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/31/drew-rasmussen-team-option-yandy-diaz-taylor-walls-charlie-morton/",
-      "published": "2026-11-01T01:26:58.659000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Young Yankees star, girlfriend get engaged at Empire State Building: ‘Forever starts today’",
-      "description": "",
-      "url": "https://nypost.com/2026/10/31/sports/yankees-spencer-jones-girlfriend-ava-oconnor-get-engaged-at-empire-state-building/",
-      "published": "2026-11-01T00:28:56+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "World Series champion Brewers appear on 'Saturday Night Live,' watch here",
-      "description": "Fresh off their World Series championship and parade, the Milwaukee Brewers appeared on \"Saturday Night Live\" for the Weekend Update segment.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/milwaukee-brewers-snl-world-series-champions-saturday-night-live/92539222007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
+      "title": "Column: Raucous Milwaukee Brewers celebration reminds Chicago Cubs fans of their fleeting moment in the sun",
+      "description": "The Milwaukee Brewers’ championship celebration reminds us of a similar one from a certain team in a certain town 10 years ago Monday.",
+      "url": "https://www.chicagotribune.com/2026/11/01/chicago-cubs-milwaukee-brewers-series-celebration/",
+      "published": "2026-11-01T12:00:51+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
       "league": "NL",
-      "publishedSource": "unverified"
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "MLB notes: Japanese Triple Crown winner may be big bat Red Sox need to target",
+      "description": "This year’s free agent class is light on power bats, but one Japanese superstar is expected to officially make the jump to MLB.",
+      "url": "https://www.bostonherald.com/2026/11/01/mlb-notes-japanese-triple-crown-winner-may-be-big-bat-red-sox-need/",
+      "published": "2026-11-01T10:30:08+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
     }
   ]
 }
