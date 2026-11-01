@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:58:16.698025+00:00",
+  "generated_at": "2026-11-01T22:10:56.219081+00:00",
   "source": "X",
   "source_url": "https://x.com/Reds",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "The #Reds today announced the following transactions: https://t.co/pgDIb2tf44",
       "url": "https://x.com/Reds/status/2116647857277239414",
       "published": "2026-10-31T21:45:49+00:00",
-      "likes": 578,
+      "likes": 594,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
@@ -32,20 +32,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2116647857277239414",
-      "text": "The #Reds today announced the following transactions: https://t.co/pgDIb2tf44",
-      "url": "https://x.com/Reds/status/2116647857277239414",
-      "published": "2026-10-31T21:45:49+00:00",
-      "likes": 578,
-      "author": "Cincinnati Reds",
-      "handle": "Reds",
-      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HV_X6OJXgAABKi7.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
