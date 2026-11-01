@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Hundreds of fans lined up to meet Brewers catcher William Contreras after the World Series at Dick's Sporting Goods in Brookfield.",
+      "published": "2026-11-01T14:30:00+00:00",
+      "title": "Hundreds wait for hours to meet Milwaukee Brewers star William Contreras",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/fans-line-up-to-meet-milwaukee-brewers-star-william-contreras/92552485007/"
+    },
+    {
+      "category": "Brewers",
       "description": "The buses that carted the World Champion Milwaukee Brewers down Wisconsin Avenue as 750,000 fans filled streets, balconies, parking garages for the Oct. 30 parade ended up in an unlikely spot the next ...",
       "published": "2026-11-01T11:19:00+00:00",
       "title": "Milwaukee Brewers championship buses spotted in Chicago",
@@ -16,13 +23,6 @@
     },
     {
       "category": "Brewers",
-      "description": "If it wasn't clear from the 750,000 fans at the championship parade and celebration, it is from the stories fans submitted about how they celebrated the Milwaukee Brewers ' first World Series title ...",
-      "published": "2026-11-01T03:40:00+00:00",
-      "title": "The Brewers won the World Series. These are your celebration stories.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/the-brewers-won-the-world-series-these-are-your-celebration-stories/92535208007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Fresh off their World Series championship and parade, the Milwaukee Brewers appeared on \"Saturday Night Live\" for the Weekend Update segment.",
       "published": "2026-11-01T00:16:00+00:00",
       "title": "World Series champion Brewers appear on 'Saturday Night Live,' watch here",
@@ -30,17 +30,17 @@
     },
     {
       "category": "Brewers",
+      "description": "If it wasn't clear from the 750,000 fans at the championship parade and celebration, it is from the stories fans submitted about how they celebrated the Milwaukee Brewers ' first World Series title ...",
+      "published": "2026-11-01T03:40:00+00:00",
+      "title": "The Brewers won the World Series. These are your celebration stories.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/the-brewers-won-the-world-series-these-are-your-celebration-stories/92535208007/"
+    },
+    {
+      "category": "Brewers",
       "description": "How many parents have the means and wherewithal to arrange and pay for childcare with less than 24 hours notice so kids can attend Brewers parade?",
       "published": "2026-11-01T03:04:00+00:00",
       "title": "Short notice MPS closing for Brewers parade an abject failure | Letter",
       "url": "https://www.jsonline.com/story/opinion/readers/2026/11/01/milwaukee-brewers-mps-parade-celebration/92505009007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Newly crowned World Series Champion Milwaukee Brewers paraded through downtown Milwaukee Oct. 30 before a massive crowd.",
-      "published": "2026-10-30T18:06:00+00:00",
-      "title": "Brewers' celebration of World Series in Milwaukee is decades in the waiting",
-      "url": "https://www.jsonline.com/story/news/2026/10/30/brewers-world-series-parade-rally-is-decades-in-the-waiting/92496223007/"
     },
     {
       "category": "Brewers",
@@ -85,7 +85,7 @@
       "url": "https://www.jsonline.com/story/sports/nfl/packers/2026/10/29/milwaukee-brewers-celebrate-world-series-win-at-lambeau-field/92470395007/"
     }
   ],
-  "generated_at": "2026-11-01T19:43:08.244633+00:00",
+  "generated_at": "2026-11-01T23:08:04.614125+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

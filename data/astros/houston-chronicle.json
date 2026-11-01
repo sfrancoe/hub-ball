@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Randy Flores replaces Dana Brown as general manager. Flores ahs been assistant GM with the St. Louis Cardinals.",
+      "published": "2026-10-29T17:01:00+00:00",
+      "title": "Houston Astros hire Cardinals executive Randy Flores as new general manager",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-randy-flores-general-manager-22500778.php"
+    },
+    {
+      "category": "Astros",
       "description": "Randy Flores begins his tenure as Astros GM needing to hire a manager, has a roster with an aging core and the bar set high by ownership.",
       "published": "2026-11-01T04:02:00+00:00",
       "title": "Houston Astros have a new GM in Randy Flores. What are biggest questions facing him right away?",
@@ -9,10 +16,10 @@
     },
     {
       "category": "Astros",
-      "description": "Randy Flores replaces Dana Brown as general manager. Flores ahs been assistant GM with the St. Louis Cardinals.",
-      "published": "2026-10-29T17:01:00+00:00",
-      "title": "Houston Astros hire Cardinals executive Randy Flores as new general manager",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-randy-flores-general-manager-22500778.php"
+      "description": "Randy Flores inherits an Astros farm system that is considered one of the majors' worst. A look at how he built a highly-rated Cardinals pipeline.",
+      "published": "2026-11-01T11:56:00+00:00",
+      "title": "New Astros GM Randy Flores helped build the Cardinals' farm system. A closer look at his draft record",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-houston-gm-cardinals-record-22505342.php"
     },
     {
       "category": "Astros",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Astros",
-      "description": "Tatsuya Imai, who struggled in first season in MLB, had the option to leave the Astros but decided to stay for at least one more season.",
-      "published": "2026-10-29T12:22:00+00:00",
-      "title": "Pitcher Tatsuya Imai opts to return to Houston Astros for 2027 at $18 million",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/tatsuya-imai-return-houston-22501167.php"
-    },
-    {
-      "category": "Astros",
       "description": "The Houston Astros have hired St. Louis Cardinals executive Randy Flores as their general manager. Flores replaces Dana Brown, who was let go in August with his contract set to expire at the end ...",
       "published": "2026-10-29T17:01:00+00:00",
       "title": "Astros hire Randy Flores as general manager. Former pitcher had been assistant GM with Cardinals",
@@ -44,10 +44,10 @@
     },
     {
       "category": "Astros",
-      "description": "Jason Bell, who spent 10 seasons with the Astros in various roles, is leaving the organization despite being among the holdovers following a coaching staff shakeup.",
-      "published": "2026-10-28T12:06:00+00:00",
-      "title": "Houston Astros coach Jason Bell departing for role with Boston Red Sox",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/jason-bell-leaving-red-sox-22498795.php"
+      "description": "Tatsuya Imai, who struggled in first season in MLB, had the option to leave the Astros but decided to stay for at least one more season.",
+      "published": "2026-10-29T12:22:00+00:00",
+      "title": "Pitcher Tatsuya Imai opts to return to Houston Astros for 2027 at $18 million",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/tatsuya-imai-return-houston-22501167.php"
     },
     {
       "category": "Astros",
@@ -55,6 +55,13 @@
       "published": "2026-10-20T04:00:00+00:00",
       "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-left-field-yordan-alvarez-22483382.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Jason Bell, who spent 10 seasons with the Astros in various roles, is leaving the organization despite being among the holdovers following a coaching staff shakeup.",
+      "published": "2026-10-28T12:06:00+00:00",
+      "title": "Houston Astros coach Jason Bell departing for role with Boston Red Sox",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/jason-bell-leaving-red-sox-22498795.php"
     },
     {
       "category": "Astros",
@@ -78,7 +85,7 @@
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php"
     }
   ],
-  "generated_at": "2026-11-01T19:43:04.163005+00:00",
+  "generated_at": "2026-11-01T23:07:44.904087+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
