@@ -2,17 +2,24 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "The buses that carted the World Champion Milwaukee Brewers down Wisconsin Avenue as 750,000 fans filled streets, balconies, parking garages for the Oct. 30 parade ended up in an unlikely spot the next ...",
+      "published": "2026-11-01T11:19:00+00:00",
+      "title": "Milwaukee Brewers championship buses spotted in Chicago",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/milwaukee-brewers-championship-buses-spotted-in-chicago/92548494007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "It was an eventful Saturday for the World Series champion Milwaukee Brewers. Some went trick-or-treating, others to an NBA game. There was even an SNL appearance.",
+      "published": "2026-11-01T07:01:00+00:00",
+      "title": "A Saturday with the World Series champion Brewers, here’s everywhere they are",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/brewers-post-world-series-trick-or-treating-snl-appearance-bucks/92542008007/"
+    },
+    {
+      "category": "Brewers",
       "description": "If it wasn't clear from the 750,000 fans at the championship parade and celebration, it is from the stories fans submitted about how they celebrated the Milwaukee Brewers ' first World Series title ...",
       "published": "2026-11-01T03:40:00+00:00",
       "title": "The Brewers won the World Series. These are your celebration stories.",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/the-brewers-won-the-world-series-these-are-your-celebration-stories/92535208007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "How many parents have the means and wherewithal to arrange and pay for childcare with less than 24 hours notice so kids can attend Brewers parade?",
-      "published": "2026-11-01T03:04:00+00:00",
-      "title": "Short notice MPS closing for Brewers parade an abject failure | Letter",
-      "url": "https://www.jsonline.com/story/opinion/readers/2026/11/01/milwaukee-brewers-mps-parade-celebration/92505009007/"
     },
     {
       "category": "Brewers",
@@ -23,24 +30,17 @@
     },
     {
       "category": "Brewers",
-      "description": "Milwaukee Brewers players let loose at the team's World Series parade and rally. They also took some time to reflect on their historic season.",
-      "published": "2026-10-31T17:34:00+00:00",
-      "title": "Brewers players thank fans after historic World Series winning season",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/see-what-aaron-ashby-and-his-teammates-said-after-world-series-parade/92537039007/"
+      "description": "How many parents have the means and wherewithal to arrange and pay for childcare with less than 24 hours notice so kids can attend Brewers parade?",
+      "published": "2026-11-01T03:04:00+00:00",
+      "title": "Short notice MPS closing for Brewers parade an abject failure | Letter",
+      "url": "https://www.jsonline.com/story/opinion/readers/2026/11/01/milwaukee-brewers-mps-parade-celebration/92505009007/"
     },
     {
       "category": "Brewers",
-      "description": "More than 750,000 people went to the Milwaukee Brewers' World Series parade and rally. Here are some of their best videos.",
-      "published": "2026-10-31T15:33:00+00:00",
-      "title": "Some of the best fan videos from the Brewers World Series parade, rally",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/some-of-best-fan-videos-from-the-brewers-world-series-parade-rally/92536956007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Milwaukee Brewers Jake Bauers, Andrew Vaughn, Grant Anderson, DL Hall and Sal Frelick went trick-or-treating on Halloween in Wauwatosa.",
-      "published": "2026-10-31T21:12:00+00:00",
-      "title": "Brewers stars go trick-or-treating in Wauwatosa, pose for selfies",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/brewers-go-trick-or-treating-one-day-after-world-series-parade/92542698007/"
+      "description": "Newly crowned World Series Champion Milwaukee Brewers paraded through downtown Milwaukee Oct. 30 before a massive crowd.",
+      "published": "2026-10-30T18:06:00+00:00",
+      "title": "Brewers' celebration of World Series in Milwaukee is decades in the waiting",
+      "url": "https://www.jsonline.com/story/news/2026/10/30/brewers-world-series-parade-rally-is-decades-in-the-waiting/92496223007/"
     },
     {
       "category": "Brewers",
@@ -58,17 +58,17 @@
     },
     {
       "category": "Brewers",
-      "description": "Here's how to buy the merchandise. The cream-colored sweatshirts, T-shirts and hats are available from Fanatics. The hat features \"World Champions\" in a pennant across the front with the ...",
-      "published": "2026-10-30T15:42:00+00:00",
-      "title": "Where to buy Milwaukee Brewers championship parade merch",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/30/brewers-world-series-championship-merch-where-to-buy/92515284007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Hundreds of fans lined up outside Milwaukee Mitchell International Airport to welcome the Milwaukee Brewers home after winning the World Series.",
       "published": "2026-10-29T18:00:00+00:00",
       "title": "Hundreds of fans welcome Brewers back to Milwaukee after World Series",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/29/hundreds-of-fans-welcome-brewers-back-after-world-series-victory/92487478007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Here's how to buy the merchandise. The cream-colored sweatshirts, T-shirts and hats are available from Fanatics. The hat features \"World Champions\" in a pennant across the front with the ...",
+      "published": "2026-10-30T15:42:00+00:00",
+      "title": "Where to buy Milwaukee Brewers championship parade merch",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/30/brewers-world-series-championship-merch-where-to-buy/92515284007/"
     },
     {
       "category": "Brewers",
@@ -79,13 +79,13 @@
     },
     {
       "category": "Brewers",
-      "description": "Milwaukee Public Schools will close Oct. 30 for the Milwaukee Brewers World Series parade. MPS said the parade would affect operations and safety.",
-      "published": "2026-10-29T15:11:00+00:00",
-      "title": "MPS, Tosa schools to close Oct. 30 for Milwaukee Brewers World Series parade",
-      "url": "https://www.jsonline.com/story/news/education/2026/10/29/no-school-for-mps-oct-30-due-to-brewers-world-series-parade/92497292007/"
+      "description": "Fresh off their World Series victory, members of the Milwaukee Brewers were recognized at the end of the first quarter of the Green Bay Packers' game.",
+      "published": "2026-10-29T01:58:00+00:00",
+      "title": "Milwaukee Brewers celebrate World Series win at Lambeau Field",
+      "url": "https://www.jsonline.com/story/sports/nfl/packers/2026/10/29/milwaukee-brewers-celebrate-world-series-win-at-lambeau-field/92470395007/"
     }
   ],
-  "generated_at": "2026-11-01T15:13:19.369549+00:00",
+  "generated_at": "2026-11-01T19:43:08.244633+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

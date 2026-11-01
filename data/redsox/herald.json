@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "A key arm in the Red Sox bullpen is officially locked in for next season.",
+      "published": "2026-11-01T19:41:26Z",
+      "title": "Red Sox exercise 2027 option on top reliever Garrett Whitlock",
+      "url": "https://www.bostonherald.com/2026/11/01/red-sox-exercise-2027-option-on-reliever-garrett-whitlock-bullpen-mlb-news-lockout/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "This year’s free agent class is light on power bats, but one Japanese superstar is expected to officially make the jump to MLB.",
       "published": "2026-11-01T10:30:08Z",
       "title": "MLB notes: Japanese Triple Crown winner may be big bat Red Sox need to target",
@@ -104,16 +111,9 @@
       "published": "2026-10-22T09:30:14Z",
       "title": "How does Red Sox veteran stack up among Cy Young Award contenders?",
       "url": "https://www.bostonherald.com/2026/10/22/how-does-red-sox-veteran-stack-up-among-cy-young-award-contenders/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Despite a recent vote of confidence from Red Sox chief baseball officer Craig Breslow, the coaching staff is undergoing changes once again.",
-      "published": "2026-10-21T20:01:13Z",
-      "title": "Two Red Sox coaches returning to minor leagues after midseason promotions",
-      "url": "https://www.bostonherald.com/2026/10/21/red-sox-coaching-staff-changes-chad-epperson-triple-a-manager-pablo-cabrera-minor-leagues-milb-mlb/"
     }
   ],
-  "generated_at": "2026-11-01T15:12:56.580763+00:00",
+  "generated_at": "2026-11-01T19:42:50.627875+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
