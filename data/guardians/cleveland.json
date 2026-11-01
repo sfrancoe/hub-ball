@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "Hey, Hoynsie: At least Gavin Williams will be ready for next year since he didn’t pitch on short rest in Game 6 of the ALCS against the Rays. — Jay Schulman.",
-      "published": "2026-10-30T22:06:00+00:00",
-      "title": "Should the Guardians have started Gavin Williams in Game 6 of ALCS? Hey, Hoynsie!",
-      "url": "https://www.cleveland.com/guardians/2026/10/should-the-guardians-have-started-gavin-williams-in-game-6-of-alcs-hey-hoynsie.html"
-    },
-    {
-      "category": "Guardians",
       "description": "The Guardians are not expected to exercise either option. Cleveland also holds a $10 million club option for right-hander Emmanuel Clase, who is currently facing federal charges along with another ...",
       "published": "2026-10-30T09:09:00+00:00",
       "title": "Four Guardians hit free agency; Shawn Armstrong, Trevor Stephan’s options not expected to be exercised",
@@ -30,10 +23,10 @@
     },
     {
       "category": "Guardians",
-      "description": "After years of searching for right-handed power, Cleveland now faces a hard payroll choice: bite the bullet on Adell or risk losing the bat their lineup desperately needs.",
-      "published": "2026-10-26T23:05:00+00:00",
-      "title": "Jo Adell’s arbitration price tag could give the Guardians an offseason headache",
-      "url": "https://www.cleveland.com/guardians/2026/10/jo-adells-arbitration-price-tag-could-give-the-guardians-an-offseason-headache.html"
+      "description": "Hey, Hoynsie: At least Gavin Williams will be ready for next year since he didn’t pitch on short rest in Game 6 of the ALCS against the Rays. — Jay Schulman.",
+      "published": "2026-10-30T22:06:00+00:00",
+      "title": "Should the Guardians have started Gavin Williams in Game 6 of ALCS? Hey, Hoynsie!",
+      "url": "https://www.cleveland.com/guardians/2026/10/should-the-guardians-have-started-gavin-williams-in-game-6-of-alcs-hey-hoynsie.html"
     },
     {
       "category": "Guardians",
@@ -41,6 +34,13 @@
       "published": "2026-10-29T08:05:00+00:00",
       "title": "Stephen Vogt on how his managerial philosophy evolved as Guardians found their identity in 2026",
       "url": "https://www.cleveland.com/guardians/2026/10/stephen-vogt-on-how-his-managerial-philosophy-evolved-as-guardians-found-their-identity-in-2026.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians have five players headed for free agency, including Austin Hedges, Foster Griffin and Nathaniel Lowe. Here's who could return in 2027.",
+      "published": "2026-10-25T22:03:00+00:00",
+      "title": "Guardians have five free agents, but here’s why you shouldn’t expect many reunions this offseason",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-have-five-free-agents-but-dont-expect-many-reunions-this-offseason.html"
     },
     {
       "category": "Guardians",
@@ -58,17 +58,10 @@
     },
     {
       "category": "Guardians",
-      "description": "The Guardians are losing assistant director of hitting development Conner Watson to the Houston Astros, where former Cleveland coach Victor Rodriguez awaits.",
-      "published": "2026-10-27T12:16:00+00:00",
-      "title": "Astros hire Guardians hitting development assistant with Driveline background",
-      "url": "https://www.cleveland.com/guardians/2026/10/astros-hire-guardians-hitting-development-assistant-with-driveline-background.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "From Tanner Bibee's October disappearing act to Daniel Espino's uncertain role, Cleveland's pitching decisions this offseason could define its 2027 season.",
-      "published": "2026-10-22T22:10:00+00:00",
-      "title": "The Guardians’ bullpen is burned out and the rotation has holes — Cleveland’s pitching problem is real",
-      "url": "https://www.cleveland.com/guardians/2026/10/the-guardians-bullpen-is-burned-out-and-the-rotation-has-holes-clevelands-pitching-problem-is-real.html"
+      "description": "With Kyle Manzardo and Ralphy Velasquez pushing from the minors, Cleveland faces a familiar bridging decision at first base as Lowe tests the free agent market.",
+      "published": "2026-10-26T23:01:00+00:00",
+      "title": "Nathaniel Lowe gave the Guardians exactly what they needed — but first base belongs to the next generation",
+      "url": "https://www.cleveland.com/guardians/2026/10/nathaniel-lowe-gave-the-guardians-exactly-what-they-needed-but-first-base-belongs-to-the-next-generation.html"
     },
     {
       "category": "Guardians",
@@ -79,13 +72,20 @@
     },
     {
       "category": "Guardians",
-      "description": "CLEVELAND, Ohio — When the Guardians left Progressive Field on Sunday after Game 5 of the American League Championship Series for Tropicana Field and the resumption of the best-of-seven series Monday ...",
-      "published": "2026-10-18T11:07:00+00:00",
-      "title": "Haunted hotel least of Cleveland’s ALCS problems: Guardians takeaways",
-      "url": "https://www.cleveland.com/guardians/2026/10/haunted-hotel-least-of-clevelands-alcs-problems-guardians-takeaways.html"
+      "description": "From Tanner Bibee's October disappearing act to Daniel Espino's uncertain role, Cleveland's pitching decisions this offseason could define its 2027 season.",
+      "published": "2026-10-22T22:10:00+00:00",
+      "title": "The Guardians’ bullpen is burned out and the rotation has holes — Cleveland’s pitching problem is real",
+      "url": "https://www.cleveland.com/guardians/2026/10/the-guardians-bullpen-is-burned-out-and-the-rotation-has-holes-clevelands-pitching-problem-is-real.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians are losing assistant director of hitting development Conner Watson to the Houston Astros, where former Cleveland coach Victor Rodriguez awaits.",
+      "published": "2026-10-27T12:16:00+00:00",
+      "title": "Astros hire Guardians hitting development assistant with Driveline background",
+      "url": "https://www.cleveland.com/guardians/2026/10/astros-hire-guardians-hitting-development-assistant-with-driveline-background.html"
     }
   ],
-  "generated_at": "2026-10-31T22:56:01.763049+00:00",
+  "generated_at": "2026-11-01T01:47:26.391585+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
