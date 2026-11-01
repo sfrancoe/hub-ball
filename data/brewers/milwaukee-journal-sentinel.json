@@ -2,24 +2,24 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "If it wasn't clear from the 750,000 fans at the championship parade and celebration, it is from the stories fans submitted about how they celebrated the Milwaukee Brewers ' first World Series title ...",
+      "published": "2026-11-01T03:40:00+00:00",
+      "title": "The Brewers won the World Series. These are your celebration stories.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/the-brewers-won-the-world-series-these-are-your-celebration-stories/92535208007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "How many parents have the means and wherewithal to arrange and pay for childcare with less than 24 hours notice so kids can attend Brewers parade?",
+      "published": "2026-11-01T03:04:00+00:00",
+      "title": "Short notice MPS closing for Brewers parade an abject failure | Letter",
+      "url": "https://www.jsonline.com/story/opinion/readers/2026/11/01/milwaukee-brewers-mps-parade-celebration/92505009007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Fresh off their World Series championship and parade, the Milwaukee Brewers appeared on \"Saturday Night Live\" for the Weekend Update segment.",
-      "published": "2026-10-31T23:59:00+00:00",
+      "published": "2026-11-01T00:16:00+00:00",
       "title": "World Series champion Brewers appear on 'Saturday Night Live,' watch here",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/milwaukee-brewers-snl-world-series-champions-saturday-night-live/92539222007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Milwaukee Brewers Jake Bauers, Andrew Vaughn, Grant Anderson, DL Hall and Sal Frelick went trick-or-treating on Halloween in Wauwatosa.",
-      "published": "2026-10-31T21:12:00+00:00",
-      "title": "Brewers stars go trick-or-treating in Wauwatosa, pose for selfies",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/brewers-go-trick-or-treating-one-day-after-world-series-parade/92542698007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Milwaukee Brewers championship came at time of darkness and division that brought fans together to see team win and enjoy experiencing it together ...",
-      "published": "2026-10-31T04:03:00+00:00",
-      "title": "Milwaukee Brewers World Series win highlight of baseball life | Letters",
-      "url": "https://www.jsonline.com/story/opinion/readers/2026/10/31/milwaukee-brewers-world-series-wisconsin/92517936007/"
     },
     {
       "category": "Brewers",
@@ -37,6 +37,13 @@
     },
     {
       "category": "Brewers",
+      "description": "Milwaukee Brewers Jake Bauers, Andrew Vaughn, Grant Anderson, DL Hall and Sal Frelick went trick-or-treating on Halloween in Wauwatosa.",
+      "published": "2026-10-31T21:12:00+00:00",
+      "title": "Brewers stars go trick-or-treating in Wauwatosa, pose for selfies",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/brewers-go-trick-or-treating-one-day-after-world-series-parade/92542698007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Jackson Chourio helped lead the Milwaukee Brewers to a World Series victory at the age of 22. Chourio overcame a hand fracture and the emotional toll of earthquakes in his native Venezuela during the ...",
       "published": "2026-10-30T08:37:00+00:00",
       "title": "Milwaukee Brewers phenom Jackson Chourio always saw this coming | Lori Nickel",
@@ -44,10 +51,10 @@
     },
     {
       "category": "Brewers",
-      "description": "Fans took to the streets after the Milwaukee Brewers won the World Series. Some partied for the outcome, others reflected on the journey.",
-      "published": "2026-10-29T22:44:00+00:00",
-      "title": "In Milwaukee, a Brewers World Series win inspires fans to party, reflect",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/29/in-milwaukee-a-brewers-world-series-win-inspires-fans-party-reflect/92492791007/"
+      "description": "The Milwaukee Brewers championship came at time of darkness and division that brought fans together to see team win and enjoy experiencing it together ...",
+      "published": "2026-10-31T04:03:00+00:00",
+      "title": "Milwaukee Brewers World Series win highlight of baseball life | Letters",
+      "url": "https://www.jsonline.com/story/opinion/readers/2026/10/31/milwaukee-brewers-world-series-wisconsin/92517936007/"
     },
     {
       "category": "Brewers",
@@ -72,20 +79,13 @@
     },
     {
       "category": "Brewers",
-      "description": "It was the biggest night in Milwaukee Brewers history. Here's the story of it, with captain Christian Yelich the main character.",
-      "published": "2026-10-29T05:38:00+00:00",
-      "title": "Inside the night that Christian Yelich and the Milwaukee Brewers won the World Series",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/29/inside-the-night-brewers-captain-christian-yelich-won-world-series/92476152007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Milwaukee Public Schools will close Oct. 30 for the Milwaukee Brewers World Series parade. MPS said the parade would affect operations and safety.",
       "published": "2026-10-29T15:11:00+00:00",
       "title": "MPS, Tosa schools to close Oct. 30 for Milwaukee Brewers World Series parade",
       "url": "https://www.jsonline.com/story/news/education/2026/10/29/no-school-for-mps-oct-30-due-to-brewers-world-series-parade/92497292007/"
     }
   ],
-  "generated_at": "2026-11-01T08:13:35.917317+00:00",
+  "generated_at": "2026-11-01T15:13:19.369549+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

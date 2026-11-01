@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Randy Flores begins his tenure as Astros GM needing to hire a manager, has a roster with an aging core and the bar set high by ownership.",
+      "published": "2026-11-01T04:02:00+00:00",
+      "title": "Houston Astros have a new GM in Randy Flores. What are biggest questions facing him right away?",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-gm-biggest-questions-22504629.php"
+    },
+    {
+      "category": "Astros",
       "description": "Randy Flores replaces Dana Brown as general manager. Flores ahs been assistant GM with the St. Louis Cardinals.",
       "published": "2026-10-29T17:01:00+00:00",
       "title": "Houston Astros hire Cardinals executive Randy Flores as new general manager",
@@ -20,13 +27,6 @@
       "published": "2026-10-29T04:00:00+00:00",
       "title": "World Series is over and offseason begins. Key dates and issues for Houston Astros",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-offseason-dates-issues-22497578.php"
-    },
-    {
-      "category": "Astros",
-      "description": "\"Right now, the fate of baseball in Houston is not in (Astros owner Drayton McLane Jr.'s) hands, it's not in my hands, it's in the hands of where it should be, it's in the hands of voters,\" said ...",
-      "published": "2026-10-31T04:00:00+00:00",
-      "title": "Houston in October 1996: The Astros get a new manager, a high-wire act at City Hall",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/bayou-city-history/article/houston-october-1996-larry-dierker-tilman-22499723.php"
     },
     {
       "category": "Astros",
@@ -51,13 +51,6 @@
     },
     {
       "category": "Astros",
-      "description": "The condition Joey Loperfido had addressed will delay his availability for spring training — assuming it actually begins on time given the expiring collective bargaining agreement.",
-      "published": "2026-10-26T10:29:00+00:00",
-      "title": "Houston Astros outfielder Joey Loperfido has hip surgery, return date uncertain",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/joey-loperfido-hip-surgery-22495003.php"
-    },
-    {
-      "category": "Astros",
       "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
       "published": "2026-10-20T04:00:00+00:00",
       "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
@@ -65,10 +58,10 @@
     },
     {
       "category": "Astros",
-      "description": "It marked a step back for Diaz in his third season as the primary catcher. Framing pitches at the bottom of the strike zone remained a weakness (minus-5 runs saved, per Statcast). Vázquez’s framing ...",
-      "published": "2026-10-19T04:00:00+00:00",
-      "title": "Who will back up Yainer Diaz at catcher? | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-diaz-vazquez-22482722.php"
+      "description": "The condition Joey Loperfido had addressed will delay his availability for spring training — assuming it actually begins on time given the expiring collective bargaining agreement.",
+      "published": "2026-10-26T10:29:00+00:00",
+      "title": "Houston Astros outfielder Joey Loperfido has hip surgery, return date uncertain",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/joey-loperfido-hip-surgery-22495003.php"
     },
     {
       "category": "Astros",
@@ -79,13 +72,20 @@
     },
     {
       "category": "Astros",
+      "description": "It marked a step back for Diaz in his third season as the primary catcher. Framing pitches at the bottom of the strike zone remained a weakness (minus-5 runs saved, per Statcast). Vázquez’s framing ...",
+      "published": "2026-10-19T04:00:00+00:00",
+      "title": "Who will back up Yainer Diaz at catcher? | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-analysis-diaz-vazquez-22482722.php"
+    },
+    {
+      "category": "Astros",
       "description": "Houston went through a rotating cast of center fielders in 2026, with nobody seizing the position. Will the Astros be able to find options internally or in free agency to provide stability?",
       "published": "2026-10-21T03:59:00+00:00",
       "title": "Can stability be found in center field after 2026 revolving door? | Houston Astros roster analysis",
       "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php"
     }
   ],
-  "generated_at": "2026-11-01T08:13:02.144549+00:00",
+  "generated_at": "2026-11-01T15:13:15.390322+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
