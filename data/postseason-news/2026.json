@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-10-31T22:52:34.597002+00:00",
+  "generatedAt": "2026-11-01T02:19:31.851682+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Rays pick up Drew Rasmussen’s option for franchise-record $20M salary",
+      "description": "The ace starter maxed out a series of escalator clauses based on games pitched and days healthy. Plus, Yandy Diaz’s option is formalized.",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/31/drew-rasmussen-team-option-yandy-diaz-taylor-walls-charlie-morton/",
+      "published": "2026-11-01T01:26:58.659000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Young Yankees star, girlfriend get engaged at Empire State Building: ‘Forever starts today’",
+      "description": "",
+      "url": "https://nypost.com/2026/10/31/sports/yankees-spencer-jones-girlfriend-ava-oconnor-get-engaged-at-empire-state-building/",
+      "published": "2026-11-01T00:28:56+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "The Brewers’ World Series success was no fluke, and they did their part to help save baseball",
       "description": "Milwaukee won with the 19th-highest payroll in MLB and without falling into the trap of overreliance on home runs.",
@@ -19,6 +43,18 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Brewers players thank fans after historic World Series winning season",
+      "description": "Milwaukee Brewers players let loose at the team's World Series parade and rally. They also took some time to reflect on their historic season.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/31/see-what-aaron-ashby-and-his-teammates-said-after-world-series-parade/92537039007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean",
@@ -54,30 +90,6 @@
       "teamName": "Milwaukee Brewers",
       "teamAbbreviation": "MIL",
       "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "As Rays look ahead to 2027*, Cash says ‘how can you not be excited?’",
-      "description": "The upcoming labor battle may alter or do worse to next season, but the Rays are confident even with some roster changes that they can contend.",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/31/rays-look-ahead-2027-cash-says-how-can-you-not-be-excited/",
-      "published": "2026-10-31T13:00:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Randy Flores: What to know about Houston Astros' new general manager",
-      "description": "A college baseball standout and World Series winner as a player, Randy Flores comes to the Astros after a decade-plus in the Cardinals' front office.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-gm-things-to-know-22504097.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
       "publishedSource": "unverified"
     }
   ]
