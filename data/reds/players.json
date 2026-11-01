@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-31T15:37:14.166218+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-01T16:21:16.287176+00:00",
+  "roster_as_of": "October 32, 2026",
   "team": {
     "id": 113,
     "name": "Cincinnati Reds"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 36,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1031,94 +1031,6 @@
       }
     },
     {
-      "id": 572955,
-      "mlb_id": 572955,
-      "wikidata_id": "Q16233891",
-      "slug": "pierce-johnson",
-      "name": "Pierce Johnson",
-      "full_name": "Pierce Johnson",
-      "number": "52",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-05-10",
-      "age": 35,
-      "birthplace": "Arvada",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 19, 2017",
-      "debut_team": "Chicago Cubs",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Missouri State University"
-          }
-        ]
-      },
-      "teams": [
-        "Chicago Cubs",
-        "San Francisco Giants",
-        "Hanshin Tigers",
-        "San Diego Padres",
-        "Colorado Rockies",
-        "Atlanta Braves",
-        "Cincinnati Reds"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16233891",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierce_Johnson",
-      "retrosheet_id": "johnp001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 330,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 330,
-          "games_started": 2,
-          "wins": 21,
-          "losses": 24,
-          "saves": 16,
-          "innings_outs": 947,
-          "hits": 279,
-          "runs": 145,
-          "earned_runs": 133,
-          "home_runs": 38,
-          "walks": 141,
-          "strikeouts": 379,
-          "hit_batters": 4,
-          "wild_pitches": 17,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.79,
-          "whip": 1.331
-        }
-      }
-    },
-    {
       "id": 699115,
       "mlb_id": 699115,
       "wikidata_id": "Q141351087",
@@ -1709,99 +1621,6 @@
       }
     },
     {
-      "id": 641941,
-      "mlb_id": 641941,
-      "wikidata_id": "Q28736640",
-      "slug": "emilio-pagan",
-      "name": "Emilio Pagán",
-      "full_name": "Emilio Pagán",
-      "number": "15",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-05-07",
-      "age": 35,
-      "birthplace": "Simpsonville",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "May 3, 2017",
-      "debut_team": "Seattle Mariners",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "J. L. Mann High School"
-          },
-          {
-            "name": "Gardner–Webb University"
-          },
-          {
-            "name": "Belmont Abbey College"
-          }
-        ]
-      },
-      "teams": [
-        "Seattle Mariners",
-        "Oakland Athletics",
-        "Tampa Bay Rays",
-        "San Diego Padres",
-        "Minnesota Twins",
-        "Cincinnati Reds"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q28736640",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Emilio_Pag%C3%A1n",
-      "retrosheet_id": "pagae001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 477,
-          "plate_appearances": 5,
-          "at_bats": 5,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 477,
-          "games_started": 2,
-          "wins": 28,
-          "losses": 27,
-          "saves": 65,
-          "innings_outs": 1520,
-          "hits": 395,
-          "runs": 223,
-          "earned_runs": 206,
-          "home_runs": 85,
-          "walks": 147,
-          "strikeouts": 581,
-          "hit_batters": 11,
-          "wild_pitches": 13,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 3.66,
-          "whip": 1.07
-        }
-      }
-    },
-    {
       "id": 695534,
       "mlb_id": 695534,
       "wikidata_id": "Q107463180",
@@ -2322,68 +2141,6 @@
           "on_base_percentage": 0.293,
           "slugging_percentage": 0.545,
           "ops": 0.838
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 553993,
-      "mlb_id": 553993,
-      "wikidata_id": "Q17089035",
-      "slug": "eugenio-suarez",
-      "name": "Eugenio Suárez",
-      "full_name": "Eugenio Suárez",
-      "number": "28",
-      "position": {
-        "name": "Designated Hitter",
-        "group": "Hitter",
-        "abbreviation": "DH"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-07-18",
-      "age": 35,
-      "birthplace": "Ciudad Piar",
-      "height": "5' 11\"",
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 4, 2014",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Detroit Tigers",
-        "Cincinnati Reds",
-        "Seattle Mariners",
-        "Arizona Diamondbacks"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q17089035",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Eugenio_Su%C3%A1rez",
-      "retrosheet_id": "suare001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 1630,
-          "plate_appearances": 6627,
-          "at_bats": 5820,
-          "runs": 831,
-          "hits": 1434,
-          "doubles": 262,
-          "triples": 15,
-          "home_runs": 325,
-          "runs_batted_in": 949,
-          "walks": 632,
-          "strikeouts": 1814,
-          "stolen_bases": 36,
-          "caught_stealing": 20,
-          "average": 0.246,
-          "on_base_percentage": 0.328,
-          "slugging_percentage": 0.464,
-          "ops": 0.792
         },
         "pitching": null
       }

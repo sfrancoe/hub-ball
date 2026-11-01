@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-31T15:41:29.160324+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-01T16:25:30.874601+00:00",
+  "roster_as_of": "October 31, 2026",
   "team": {
     "id": 135,
     "name": "San Diego Padres"
   },
   "roster_type": "open-current-roster",
-  "player_count": 36,
+  "player_count": 35,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -635,7 +635,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-11-01",
-      "age": 27,
+      "age": 28,
       "birthplace": "Rancho Mirage, California, U.S.",
       "height": "6' 1\"",
       "weight": null,
@@ -1763,93 +1763,6 @@
           "complete_games": 0,
           "era": 3.77,
           "whip": 1.339
-        }
-      }
-    },
-    {
-      "id": 601713,
-      "mlb_id": 601713,
-      "wikidata_id": "Q28924864",
-      "slug": "nick-pivetta",
-      "name": "Nick Pivetta",
-      "full_name": "Nick Pivetta",
-      "number": "27",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-02-14",
-      "age": 33,
-      "birthplace": "Victoria",
-      "height": "6' 5\"",
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 30, 2017",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Lambrick Park Secondary School"
-          },
-          {
-            "name": "New Mexico Junior College"
-          }
-        ]
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Boston Red Sox",
-        "San Diego Padres"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q28924864",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_Pivetta",
-      "retrosheet_id": "piven001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 255,
-          "plate_appearances": 122,
-          "at_bats": 111,
-          "runs": 7,
-          "hits": 9,
-          "doubles": 1,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 1,
-          "walks": 3,
-          "strikeouts": 62,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.081,
-          "on_base_percentage": 0.105,
-          "slugging_percentage": 0.09,
-          "ops": 0.195
-        },
-        "pitching": {
-          "games": 254,
-          "games_started": 209,
-          "wins": 69,
-          "losses": 76,
-          "saves": 3,
-          "innings_outs": 3633,
-          "hits": 1107,
-          "runs": 631,
-          "earned_runs": 602,
-          "home_runs": 197,
-          "walks": 427,
-          "strikeouts": 1329,
-          "hit_batters": 34,
-          "wild_pitches": 53,
-          "balks": 5,
-          "complete_games": 2,
-          "era": 4.47,
-          "whip": 1.267
         }
       }
     },
