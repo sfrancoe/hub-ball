@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Tigers",
-      "description": "The Detroit Tigers have acquired Tsung-Che Cheng, a left-handed hitting infielder, from the Boston Red Sox for cash considerations ...",
-      "published": "2026-10-30T08:05:00+00:00",
-      "title": "Detroit Tigers swing trade for infielder Tsung-Che Cheng",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/30/detroit-tigers-trade-infielder-tsung-che-cheng/92512827007/"
-    },
-    {
-      "category": "Tigers",
       "description": "Tigers top prospect Zyhir Hope is showing signs of growth during the Arizona Fall League with an increase in walks.",
       "published": "2026-10-28T05:58:00+00:00",
       "title": "Tigers top prospect Zyhir Hope showing growth at Arizona Fall League",
@@ -20,6 +13,13 @@
       "published": "2026-10-27T14:26:00+00:00",
       "title": "Brewers seek first World Series sweep since Giants swept Tigers in 2012",
       "url": "https://www.freep.com/story/sports/mlb/brewers/2026/10/27/brewers-could-end-14-year-world-series-sweep-drought-with-game-4-win/92461550007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "The Detroit Tigers have acquired Tsung-Che Cheng, a left-handed hitting infielder, from the Boston Red Sox for cash considerations, the team announced on Friday, Oct. 30. Cheng, 25, played 14 games ...",
+      "published": "2026-10-30T08:05:00+00:00",
+      "title": "Detroit Tigers swing trade for infielder Tsung-Che Cheng",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/30/detroit-tigers-trade-infielder-tsung-che-cheng/92512827007/"
     },
     {
       "category": "Tigers",
@@ -78,7 +78,7 @@
       "url": "https://www.freep.com/story/sports/college/auburn/football/2026/10/24/auburn-football-tigers-of-the-game-lsu/92418955007/"
     }
   ],
-  "generated_at": "2026-10-31T22:56:02.207090+00:00",
+  "generated_at": "2026-11-01T08:12:57.213526+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }
