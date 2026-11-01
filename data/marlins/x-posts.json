@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:24:05.375461+00:00",
+  "generated_at": "2026-11-01T17:58:16.696782+00:00",
   "source": "X",
   "source_url": "https://x.com/Marlins",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Happy Halloween from the Frightin’ Fish! 👻 https://t.co/9szhOiXKyT",
       "url": "https://x.com/Marlins/status/2116551888376315936",
       "published": "2026-10-31T15:24:28+00:00",
-      "likes": 128,
+      "likes": 136,
       "author": "Miami Marlins",
       "handle": "Marlins",
       "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
@@ -18,20 +18,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2116551888376315936",
-      "text": "Happy Halloween from the Frightin’ Fish! 👻 https://t.co/9szhOiXKyT",
-      "url": "https://x.com/Marlins/status/2116551888376315936",
-      "published": "2026-10-31T15:24:28+00:00",
-      "likes": 128,
-      "author": "Miami Marlins",
-      "handle": "Marlins",
-      "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HV-AmiXWcAAhCLY.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:24:05.376723+00:00",
+  "generated_at": "2026-11-01T17:58:16.697744+00:00",
   "source": "X",
   "source_url": "https://x.com/Cubs",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Wishing you all a safe and spooky Halloween. 🎃 https://t.co/sXqMfCihwa",
       "url": "https://x.com/Cubs/status/2116515546439274789",
       "published": "2026-10-31T13:00:03+00:00",
-      "likes": 758,
+      "likes": 780,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -18,20 +18,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2116515546439274789",
-      "text": "Wishing you all a safe and spooky Halloween. 🎃 https://t.co/sXqMfCihwa",
-      "url": "https://x.com/Cubs/status/2116515546439274789",
-      "published": "2026-10-31T13:00:03+00:00",
-      "likes": 758,
-      "author": "Chicago Cubs",
-      "handle": "Cubs",
-      "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HVuuQ5cXUAAKnfG.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

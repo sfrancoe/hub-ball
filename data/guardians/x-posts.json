@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:24:05.369729+00:00",
+  "generated_at": "2026-11-01T17:58:16.693495+00:00",
   "source": "X",
   "source_url": "https://x.com/CleGuardians",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Happy birthday to one of our favorite Canadians! #GuardsBall https://t.co/kAboM94Xu2",
       "url": "https://x.com/CleGuardians/status/2116560832062792133",
       "published": "2026-10-31T16:00:00+00:00",
-      "likes": 625,
+      "likes": 667,
       "author": "Cleveland Guardians",
       "handle": "CleGuardians",
       "avatar": "https://pbs.twimg.com/profile_images/2100058129538961408/NiDAEcU-_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "Boo! 👻 Happy Halloween, everyone. Be safe! #GuardsBall https://t.co/V5jCm4v0P3",
       "url": "https://x.com/CleGuardians/status/2116530642444063163",
       "published": "2026-10-31T14:00:03+00:00",
-      "likes": 796,
+      "likes": 850,
       "author": "Cleveland Guardians",
       "handle": "CleGuardians",
       "avatar": "https://pbs.twimg.com/profile_images/2100058129538961408/NiDAEcU-_normal.jpg",
@@ -46,34 +46,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2116530642444063163",
-      "text": "Boo! 👻 Happy Halloween, everyone. Be safe! #GuardsBall https://t.co/V5jCm4v0P3",
-      "url": "https://x.com/CleGuardians/status/2116530642444063163",
-      "published": "2026-10-31T14:00:03+00:00",
-      "likes": 796,
-      "author": "Cleveland Guardians",
-      "handle": "CleGuardians",
-      "avatar": "https://pbs.twimg.com/profile_images/2100058129538961408/NiDAEcU-_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HV6TbQDWIAAFkRU.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2116560832062792133",
-      "text": "Happy birthday to one of our favorite Canadians! #GuardsBall https://t.co/kAboM94Xu2",
-      "url": "https://x.com/CleGuardians/status/2116560832062792133",
-      "published": "2026-10-31T16:00:00+00:00",
-      "likes": 625,
-      "author": "Cleveland Guardians",
-      "handle": "CleGuardians",
-      "avatar": "https://pbs.twimg.com/profile_images/2100058129538961408/NiDAEcU-_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HV6TKMSWQAA7slQ.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
