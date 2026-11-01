@@ -1,13 +1,61 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-01T16:28:32.279187+00:00",
+  "generatedAt": "2026-11-01T20:52:41.316559+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 2,
+  "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Garrett Whitlock's $8.25M option an easy call for Red Sox",
+      "description": "One of the Red Sox’ first moves of the offseason became official Sunday afternoon — and it was something of a no-brainer.",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-make-easy-825-million-call-on-key-reliever-bring-him-back-for-2027.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Red Sox exercise 2027 option on top reliever Garrett Whitlock",
+      "description": "A key arm in the Red Sox bullpen is officially locked in for next season.",
+      "url": "https://www.bostonherald.com/2026/11/01/red-sox-exercise-2027-option-on-reliever-garrett-whitlock-bullpen-mlb-news-lockout/",
+      "published": "2026-11-01T19:41:26+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yuki Matsui decides to stay with Padres; club exercises option to keep Kyle Hart",
+      "description": "The Padres might lose left-hander Adrian Morejón, the lynchpin of their bullpen, to free agency. But they will retain three others — Kyle Hart, Yuki Matsui and Wandy Peralta.",
+      "url": "https://www.sandiegouniontribune.com/2026/11/01/yuki-matsui-decides-to-stay-padres-exercise-option-to-keep-kyle-hart/",
+      "published": "2026-11-01T19:25:27+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox pick up team option on Garrett Whitlock to bring righthander back for 2027",
+      "description": "The Red Sox could have parted ways with Whitlock for a $1 million buyout, but chose to bring back one of their top relief pitchers.",
+      "url": "https://www.bostonglobe.com/2026/11/01/sports/red-sox-garrett-whitlock-team-option-2027/",
+      "published": "2026-11-01T19:17:09.167000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Column: Raucous Milwaukee Brewers celebration reminds Chicago Cubs fans of their fleeting moment in the sun",
       "description": "The Milwaukee Brewers’ championship celebration reminds us of a similar one from a certain team in a certain town 10 years ago Monday.",
@@ -19,6 +67,30 @@
       "teamAbbreviation": "CHC",
       "league": "NL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "New Astros GM Randy Flores helped build the Cardinals' farm system. A closer look at his draft record",
+      "description": "Randy Flores inherits an Astros farm system that is considered one of the majors' worst. A look at how he built a highly-rated Cardinals pipeline.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-houston-gm-cardinals-record-22505342.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Milwaukee Brewers championship buses spotted in Chicago",
+      "description": "The buses that carted the World Champion Milwaukee Brewers down Wisconsin Avenue as 750,000 fans filled streets, balconies, parking garages for the Oct. 30 parade ended up in an unlikely spot the next ...",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/milwaukee-brewers-championship-buses-spotted-in-chicago/92548494007/",
+      "published": "",
+      "source": "Journal Sentinel",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "MLB notes: Japanese Triple Crown winner may be big bat Red Sox need to target",
