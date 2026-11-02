@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:20:05.096150+00:00",
+  "generated_at": "2026-11-02T19:48:27.393423+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 120,
@@ -804,6 +804,48 @@
       }
     },
     {
+      "id": 801501,
+      "mlb_id": 801501,
+      "wikidata_id": "Q140800576",
+      "slug": "nate-furman",
+      "name": "Nate Furman",
+      "full_name": "Nate Furman",
+      "number": "--",
+      "position": {
+        "name": "Second Base",
+        "group": "Infielder",
+        "abbreviation": "2B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-07-23",
+      "age": 25,
+      "birthplace": "Brookhaven, Pennsylvania, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": "August 1, 2026",
+      "debut_team": "San Francisco Giants",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants",
+        "Washington Nationals"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q140800576",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nate_Furman",
+      "retrosheet_id": "furmn001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 680686,
       "mlb_id": 680686,
       "wikidata_id": "Q107583556",
@@ -1276,97 +1318,6 @@
           "complete_games": 0,
           "era": 4.34,
           "whip": 1.293
-        }
-      }
-    },
-    {
-      "id": 663992,
-      "mlb_id": 663992,
-      "wikidata_id": "Q63117664",
-      "slug": "richard-lovelady",
-      "name": "Richard Lovelady",
-      "full_name": "Richard Lovelady",
-      "number": "55",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-07-07",
-      "age": 31,
-      "birthplace": "Hinesville",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "April 9, 2019",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Kennesaw State University"
-          },
-          {
-            "name": "First Presbyterian Day School"
-          }
-        ]
-      },
-      "teams": [
-        "Kansas City Royals",
-        "Oakland Athletics",
-        "Chicago Cubs",
-        "Tampa Bay Rays",
-        "Toronto Blue Jays",
-        "New York Mets",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q63117664",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Lovelady",
-      "retrosheet_id": "lover001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 118,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 118,
-          "games_started": 0,
-          "wins": 5,
-          "losses": 13,
-          "saves": 3,
-          "innings_outs": 333,
-          "hits": 108,
-          "runs": 70,
-          "earned_runs": 66,
-          "home_runs": 15,
-          "walks": 42,
-          "strikeouts": 102,
-          "hit_batters": 11,
-          "wild_pitches": 3,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.35,
-          "whip": 1.351
         }
       }
     },

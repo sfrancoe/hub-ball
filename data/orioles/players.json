@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:11:16.488374+00:00",
-  "roster_as_of": "October 31, 2026",
+  "generated_at": "2026-11-02T19:39:39.516440+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 110,
     "name": "Baltimore Orioles"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -310,7 +310,11 @@
       "debut_team": "Tampa Bay Rays",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "Concordia Lutheran High School"
+          }
+        ]
       },
       "teams": [
         "Tampa Bay Rays",
@@ -1092,7 +1096,7 @@
       "is_active_roster": false,
       "birth_date": "2000-09-05",
       "age": 26,
-      "birthplace": "Niceville, Florida, U.S.",
+      "birthplace": "Niceville",
       "height": null,
       "weight": null,
       "bats": "Right",
@@ -1537,69 +1541,6 @@
           "on_base_percentage": 0.285,
           "slugging_percentage": 0.349,
           "ops": 0.634
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 663624,
-      "mlb_id": 663624,
-      "wikidata_id": "Q64746911",
-      "slug": "ryan-mountcastle",
-      "name": "Ryan Mountcastle",
-      "full_name": "Ryan Mountcastle",
-      "number": "6",
-      "position": {
-        "name": "First Base",
-        "group": "Pitcher",
-        "abbreviation": "1B"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1997-02-18",
-      "age": 29,
-      "birthplace": "Winter Springs",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 21, 2020",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Paul J. Hagerty High School"
-          }
-        ]
-      },
-      "teams": [
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q64746911",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Mountcastle",
-      "retrosheet_id": "mounr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 652,
-          "plate_appearances": 2669,
-          "at_bats": 2443,
-          "runs": 303,
-          "hits": 642,
-          "doubles": 125,
-          "triples": 5,
-          "home_runs": 98,
-          "runs_batted_in": 363,
-          "walks": 174,
-          "strikeouts": 664,
-          "stolen_bases": 17,
-          "caught_stealing": 6,
-          "average": 0.263,
-          "on_base_percentage": 0.312,
-          "slugging_percentage": 0.438,
-          "ops": 0.75
         },
         "pitching": null
       }

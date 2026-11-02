@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:15:19.286861+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-02T19:44:00.646528+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 117,
     "name": "Houston Astros"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -2151,68 +2151,6 @@
           "era": 5.06,
           "whip": 1.688
         }
-      }
-    },
-    {
-      "id": 676369,
-      "mlb_id": 676369,
-      "wikidata_id": "Q110256256",
-      "slug": "nelson-velazquez",
-      "name": "Nelson Velázquez",
-      "full_name": "Nelson Velázquez",
-      "number": "30",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "LF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-12-26",
-      "age": 27,
-      "birthplace": "Carolina, Puerto Rico",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 30, 2022",
-      "debut_team": "Chicago Cubs",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Chicago Cubs",
-        "Kansas City Royals",
-        "St. Louis Cardinals",
-        "Houston Astros"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q110256256",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nelson_Vel%C3%A1zquez",
-      "retrosheet_id": "velan001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 194,
-          "plate_appearances": 615,
-          "at_bats": 552,
-          "runs": 86,
-          "hits": 117,
-          "doubles": 21,
-          "triples": 4,
-          "home_runs": 31,
-          "runs_batted_in": 87,
-          "walks": 52,
-          "strikeouts": 177,
-          "stolen_bases": 7,
-          "caught_stealing": 2,
-          "average": 0.212,
-          "on_base_percentage": 0.286,
-          "slugging_percentage": 0.433,
-          "ops": 0.719
-        },
-        "pitching": null
       }
     },
     {

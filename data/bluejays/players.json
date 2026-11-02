@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:12:00.651676+00:00",
+  "generated_at": "2026-11-02T19:40:19.338688+00:00",
   "roster_as_of": "October 30, 2026",
   "team": {
     "id": 141,
     "name": "Toronto Blue Jays"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -197,6 +197,85 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
+      }
+    },
+    {
+      "id": 621244,
+      "mlb_id": 621244,
+      "wikidata_id": "Q16226514",
+      "slug": "jose-berrios",
+      "name": "José Berríos",
+      "full_name": "José Berríos",
+      "number": "17",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "60-day injured list",
+      "is_active_roster": false,
+      "birth_date": "1994-05-27",
+      "age": 32,
+      "birthplace": "Bayamón",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "April 27, 2016",
+      "debut_team": "Minnesota Twins",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Minnesota Twins",
+        "Toronto Blue Jays"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q16226514",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Berr%C3%ADos",
+      "retrosheet_id": "berrj001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 275,
+          "plate_appearances": 19,
+          "at_bats": 17,
+          "runs": 1,
+          "hits": 2,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 1,
+          "strikeouts": 10,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": 0.118,
+          "on_base_percentage": 0.167,
+          "slugging_percentage": 0.118,
+          "ops": 0.285
+        },
+        "pitching": {
+          "games": 275,
+          "games_started": 273,
+          "wins": 108,
+          "losses": 82,
+          "saves": 0,
+          "innings_outs": 4715,
+          "hits": 1474,
+          "runs": 765,
+          "earned_runs": 713,
+          "home_runs": 219,
+          "walks": 473,
+          "strikeouts": 1481,
+          "hit_batters": 98,
+          "wild_pitches": 35,
+          "balks": 4,
+          "complete_games": 5,
+          "era": 4.08,
+          "whip": 1.239
+        }
       }
     },
     {

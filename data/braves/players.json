@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:18:20.575029+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-02T19:47:00.561022+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 144,
     "name": "Atlanta Braves"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 35,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -349,92 +349,6 @@
           "complete_games": 1,
           "era": 4.58,
           "whip": 1.355
-        }
-      }
-    },
-    {
-      "id": 571657,
-      "mlb_id": 571657,
-      "wikidata_id": "Q33977406",
-      "slug": "kyle-farmer",
-      "name": "Kyle Farmer",
-      "full_name": "Kyle Farmer",
-      "number": "15",
-      "position": {
-        "name": "Shortstop",
-        "group": "Hitter",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1990-08-17",
-      "age": 36,
-      "birthplace": "Atlanta",
-      "height": "6' 0\"",
-      "weight": 214,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 30, 2017",
-      "debut_team": "Los Angeles Dodgers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Marist School"
-          }
-        ]
-      },
-      "teams": [
-        "Los Angeles Dodgers",
-        "Cincinnati Reds",
-        "Minnesota Twins",
-        "Colorado Rockies",
-        "Atlanta Braves"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q33977406",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kyle_Farmer",
-      "retrosheet_id": "farmk001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 804,
-          "plate_appearances": 2387,
-          "at_bats": 2172,
-          "runs": 245,
-          "hits": 537,
-          "doubles": 102,
-          "triples": 7,
-          "home_runs": 63,
-          "runs_batted_in": 285,
-          "walks": 134,
-          "strikeouts": 487,
-          "stolen_bases": 16,
-          "caught_stealing": 17,
-          "average": 0.247,
-          "on_base_percentage": 0.306,
-          "slugging_percentage": 0.388,
-          "ops": 0.694
-        },
-        "pitching": {
-          "games": 5,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 19,
-          "hits": 11,
-          "runs": 4,
-          "earned_runs": 4,
-          "home_runs": 1,
-          "walks": 1,
-          "strikeouts": 0,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.68,
-          "whip": 1.895
         }
       }
     },
@@ -901,66 +815,6 @@
           "on_base_percentage": 0.384,
           "slugging_percentage": 0.524,
           "ops": 0.908
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 680577,
-      "mlb_id": 680577,
-      "wikidata_id": "Q130241179",
-      "slug": "dashawn-keirsey-jr",
-      "name": "DaShawn Keirsey Jr.",
-      "full_name": "DaShawn Keirsey Jr.",
-      "number": "49",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-05-13",
-      "age": 29,
-      "birthplace": "San Diego, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 5, 2024",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Minnesota Twins",
-        "Atlanta Braves"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q130241179",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/DaShawn_Keirsey_Jr.",
-      "retrosheet_id": "keird001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 80,
-          "plate_appearances": 102,
-          "at_bats": 97,
-          "runs": 12,
-          "hits": 11,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 3,
-          "runs_batted_in": 7,
-          "walks": 2,
-          "strikeouts": 34,
-          "stolen_bases": 10,
-          "caught_stealing": 3,
-          "average": 0.113,
-          "on_base_percentage": 0.149,
-          "slugging_percentage": 0.206,
-          "ops": 0.355
         },
         "pitching": null
       }
@@ -2206,93 +2060,6 @@
       }
     },
     {
-      "id": 642133,
-      "mlb_id": 642133,
-      "wikidata_id": "Q29446153",
-      "slug": "rowdy-tellez",
-      "name": "Rowdy Tellez",
-      "full_name": "Rowdy Tellez",
-      "number": "11",
-      "position": {
-        "name": "First Base",
-        "group": "Infielder",
-        "abbreviation": "1B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-03-16",
-      "age": 31,
-      "birthplace": "Sacramento",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 5, 2018",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Elk Grove High School"
-          }
-        ]
-      },
-      "teams": [
-        "Toronto Blue Jays",
-        "Milwaukee Brewers",
-        "Pittsburgh Pirates",
-        "Seattle Mariners",
-        "Texas Rangers",
-        "Atlanta Braves"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q29446153",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Rowdy_Tellez",
-      "retrosheet_id": "tellr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 778,
-          "plate_appearances": 2617,
-          "at_bats": 2362,
-          "runs": 278,
-          "hits": 552,
-          "doubles": 108,
-          "triples": 3,
-          "home_runs": 122,
-          "runs_batted_in": 368,
-          "walks": 210,
-          "strikeouts": 601,
-          "stolen_bases": 5,
-          "caught_stealing": 3,
-          "average": 0.234,
-          "on_base_percentage": 0.3,
-          "slugging_percentage": 0.437,
-          "ops": 0.737
-        },
-        "pitching": {
-          "games": 5,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 17,
-          "hits": 11,
-          "runs": 5,
-          "earned_runs": 5,
-          "home_runs": 1,
-          "walks": 1,
-          "strikeouts": 1,
-          "hit_batters": 3,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 7.94,
-          "whip": 2.118
-        }
-      }
-    },
-    {
       "id": 700413,
       "mlb_id": 700413,
       "wikidata_id": "Q138939955",
@@ -2494,6 +2261,85 @@
           "complete_games": 0,
           "era": 5.57,
           "whip": 1.535
+        }
+      }
+    },
+    {
+      "id": 689172,
+      "mlb_id": 689172,
+      "wikidata_id": "Q113999509",
+      "slug": "brett-wisely",
+      "name": "Brett Wisely",
+      "full_name": "Brett Wisely",
+      "number": "--",
+      "position": {
+        "name": "Second Base",
+        "group": "Infielder",
+        "abbreviation": "2B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1999-05-08",
+      "age": 27,
+      "birthplace": "Jacksonville, Florida, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": "March 30, 2023",
+      "debut_team": "San Francisco Giants",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants",
+        "Atlanta Braves"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q113999509",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brett_Wisely",
+      "retrosheet_id": "wiseb001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 168,
+          "plate_appearances": 466,
+          "at_bats": 426,
+          "runs": 40,
+          "hits": 91,
+          "doubles": 22,
+          "triples": 1,
+          "home_runs": 7,
+          "runs_batted_in": 49,
+          "walks": 29,
+          "strikeouts": 119,
+          "stolen_bases": 5,
+          "caught_stealing": 5,
+          "average": 0.214,
+          "on_base_percentage": 0.265,
+          "slugging_percentage": 0.319,
+          "ops": 0.584
+        },
+        "pitching": {
+          "games": 1,
+          "games_started": 0,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "innings_outs": 3,
+          "hits": 1,
+          "runs": 1,
+          "earned_runs": 1,
+          "home_runs": 1,
+          "walks": 0,
+          "strikeouts": 0,
+          "hit_batters": 0,
+          "wild_pitches": 0,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 9.0,
+          "whip": 1.0
         }
       }
     },

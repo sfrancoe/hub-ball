@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:16:29.798137+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-02T19:45:08.091356+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 133,
     "name": "Athletics"
   },
   "roster_type": "open-current-roster",
-  "player_count": 41,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1264,95 +1264,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 621139,
-      "mlb_id": 621139,
-      "wikidata_id": "Q98045134",
-      "slug": "brooks-kriske",
-      "name": "Brooks Kriske",
-      "full_name": "Brooks Kriske",
-      "number": "48",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1994-02-03",
-      "age": 32,
-      "birthplace": "Scottsdale",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 29, 2020",
-      "debut_team": "New York Yankees",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Palm Desert High School"
-          }
-        ]
-      },
-      "teams": [
-        "New York Yankees",
-        "Baltimore Orioles",
-        "Yokohama DeNA BayStars",
-        "Kansas City Royals",
-        "Saitama Seibu Lions",
-        "Chicago Cubs",
-        "Minnesota Twins",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q98045134",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brooks_Kriske",
-      "retrosheet_id": "krisb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 36,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 36,
-          "games_started": 0,
-          "wins": 2,
-          "losses": 2,
-          "saves": 0,
-          "innings_outs": 119,
-          "hits": 43,
-          "runs": 43,
-          "earned_runs": 42,
-          "home_runs": 11,
-          "walks": 32,
-          "strikeouts": 43,
-          "hit_batters": 1,
-          "wild_pitches": 8,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 9.53,
-          "whip": 1.891
-        }
       }
     },
     {

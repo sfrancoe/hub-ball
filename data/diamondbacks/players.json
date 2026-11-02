@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:23:34.829481+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-02T19:52:08.404214+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 109,
     "name": "Arizona Diamondbacks"
   },
   "roster_type": "open-current-roster",
-  "player_count": 33,
+  "player_count": 34,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -708,6 +708,91 @@
       }
     },
     {
+      "id": 686753,
+      "mlb_id": 686753,
+      "wikidata_id": "Q64759122",
+      "slug": "drey-jameson",
+      "name": "Drey Jameson",
+      "full_name": "Drey Jameson",
+      "number": "20",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1997-08-17",
+      "age": 29,
+      "birthplace": "Greenfield, Indiana, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "September 15, 2022",
+      "debut_team": "Arizona Diamondbacks",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Ball State University"
+          },
+          {
+            "name": "Greenfield-Central High School"
+          }
+        ]
+      },
+      "teams": [
+        "Arizona Diamondbacks"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q64759122",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Drey_Jameson",
+      "retrosheet_id": "jamed003",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 22,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 22,
+          "games_started": 7,
+          "wins": 6,
+          "losses": 2,
+          "saves": 2,
+          "innings_outs": 204,
+          "hits": 64,
+          "runs": 21,
+          "earned_runs": 20,
+          "home_runs": 8,
+          "walks": 28,
+          "strikeouts": 61,
+          "hit_batters": 2,
+          "wild_pitches": 2,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 2.65,
+          "whip": 1.353
+        }
+      }
+    },
+    {
       "id": 518876,
       "mlb_id": 518876,
       "wikidata_id": "Q18621033",
@@ -863,10 +948,10 @@
       "number": "31",
       "position": {
         "name": "First Base",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "1B"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-11-24",
       "age": 25,
@@ -1064,7 +1149,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2002-12-21",
       "age": 23,
@@ -1687,7 +1772,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-08-18",
       "age": 29,

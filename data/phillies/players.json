@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:19:26.313523+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-02T19:48:03.905907+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 143,
     "name": "Philadelphia Phillies"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -2225,66 +2225,6 @@
           "era": 3.52,
           "whip": 1.137
         }
-      }
-    },
-    {
-      "id": 624641,
-      "mlb_id": 624641,
-      "wikidata_id": "Q50812739",
-      "slug": "edmundo-sosa",
-      "name": "Edmundo Sosa",
-      "full_name": "Edmundo Sosa",
-      "number": "33",
-      "position": {
-        "name": "Shortstop",
-        "group": "Outfielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-03-06",
-      "age": 30,
-      "birthplace": "Panama City",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 23, 2018",
-      "debut_team": "St. Louis Cardinals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "St. Louis Cardinals",
-        "Philadelphia Phillies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q50812739",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Edmundo_Sosa",
-      "retrosheet_id": "sosae001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 485,
-          "plate_appearances": 1364,
-          "at_bats": 1245,
-          "runs": 171,
-          "hits": 321,
-          "doubles": 58,
-          "triples": 15,
-          "home_runs": 36,
-          "runs_batted_in": 148,
-          "walks": 55,
-          "strikeouts": 312,
-          "stolen_bases": 23,
-          "caught_stealing": 9,
-          "average": 0.258,
-          "on_base_percentage": 0.311,
-          "slugging_percentage": 0.415,
-          "ops": 0.726
-        },
-        "pitching": null
       }
     },
     {

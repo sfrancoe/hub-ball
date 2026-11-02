@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:26:23.985602+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-02T19:54:30.725361+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 137,
     "name": "San Francisco Giants"
   },
   "roster_type": "open-current-roster",
-  "player_count": 51,
+  "player_count": 49,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -914,47 +914,6 @@
       }
     },
     {
-      "id": 801501,
-      "mlb_id": 801501,
-      "wikidata_id": "Q140800576",
-      "slug": "nate-furman",
-      "name": "Nate Furman",
-      "full_name": "Nate Furman",
-      "number": "56",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-07-23",
-      "age": 25,
-      "birthplace": "Brookhaven, Pennsylvania, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "August 1, 2026",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q140800576",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nate_Furman",
-      "retrosheet_id": "furmn001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 687551,
       "mlb_id": 687551,
       "wikidata_id": "Q111461948",
@@ -1706,65 +1665,6 @@
           "on_base_percentage": 0.272,
           "slugging_percentage": 0.402,
           "ops": 0.674
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 687529,
-      "mlb_id": 687529,
-      "wikidata_id": "Q129136419",
-      "slug": "grant-mccray",
-      "name": "Grant McCray",
-      "full_name": "Grant McCray",
-      "number": "58",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-12-07",
-      "age": 25,
-      "birthplace": "Billings",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "August 14, 2024",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q129136419",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Grant_McCray",
-      "retrosheet_id": "mccrg001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 59,
-          "plate_appearances": 156,
-          "at_bats": 146,
-          "runs": 16,
-          "hits": 27,
-          "doubles": 3,
-          "triples": 3,
-          "home_runs": 5,
-          "runs_batted_in": 12,
-          "walks": 8,
-          "strikeouts": 67,
-          "stolen_bases": 5,
-          "caught_stealing": 0,
-          "average": 0.185,
-          "on_base_percentage": 0.226,
-          "slugging_percentage": 0.349,
-          "ops": 0.575
         },
         "pitching": null
       }

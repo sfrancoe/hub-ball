@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:20:34.722970+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-02T19:49:08.087982+00:00",
+  "roster_as_of": null,
   "team": {
     "id": 112,
     "name": "Chicago Cubs"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 36,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1318,87 +1318,6 @@
       }
     },
     {
-      "id": 605280,
-      "mlb_id": 605280,
-      "wikidata_id": "Q30039215",
-      "slug": "clay-holmes",
-      "name": "Clay Holmes",
-      "full_name": "Clay Holmes",
-      "number": "25",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1993-03-27",
-      "age": 33,
-      "birthplace": "Dothan",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 6, 2018",
-      "debut_team": "Pittsburgh Pirates",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Pittsburgh Pirates",
-        "New York Yankees",
-        "New York Mets",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q30039215",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Clay_Holmes",
-      "retrosheet_id": "holmc001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 344,
-          "plate_appearances": 12,
-          "at_bats": 12,
-          "runs": 1,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 7,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 344,
-          "games_started": 35,
-          "wins": 36,
-          "losses": 30,
-          "saves": 74,
-          "innings_outs": 1509,
-          "hits": 436,
-          "runs": 235,
-          "earned_runs": 204,
-          "home_runs": 34,
-          "walks": 219,
-          "strikeouts": 489,
-          "hit_batters": 43,
-          "wild_pitches": 33,
-          "balks": 3,
-          "complete_games": 0,
-          "era": 3.65,
-          "whip": 1.302
-        }
-      }
-    },
-    {
       "id": 690990,
       "mlb_id": 690990,
       "wikidata_id": "Q112766835",
@@ -1934,92 +1853,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 607067,
-      "mlb_id": 607067,
-      "wikidata_id": "Q20817015",
-      "slug": "colin-rea",
-      "name": "Colin Rea",
-      "full_name": "Colin Rea",
-      "number": "53",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1990-07-01",
-      "age": 36,
-      "birthplace": "Cascade",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 11, 2015",
-      "debut_team": "San Diego Padres",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Cascade Junior/Senior High School"
-          }
-        ]
-      },
-      "teams": [
-        "San Diego Padres",
-        "Miami Marlins",
-        "Chicago Cubs",
-        "Fukuoka SoftBank Hawks",
-        "Milwaukee Brewers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q20817015",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Colin_Rea",
-      "retrosheet_id": "rea-c001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 128,
-          "plate_appearances": 54,
-          "at_bats": 45,
-          "runs": 5,
-          "hits": 6,
-          "doubles": 1,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 1,
-          "walks": 3,
-          "strikeouts": 23,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.133,
-          "on_base_percentage": 0.188,
-          "slugging_percentage": 0.156,
-          "ops": 0.344
-        },
-        "pitching": {
-          "games": 126,
-          "games_started": 103,
-          "wins": 37,
-          "losses": 27,
-          "saves": 2,
-          "innings_outs": 1818,
-          "hits": 587,
-          "runs": 314,
-          "earned_runs": 297,
-          "home_runs": 91,
-          "walks": 182,
-          "strikeouts": 493,
-          "hit_batters": 29,
-          "wild_pitches": 6,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 4.41,
-          "whip": 1.269
-        }
       }
     },
     {

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:22:27.397095+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-02T19:51:00.962283+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 134,
     "name": "Pittsburgh Pirates"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -2494,98 +2494,6 @@
           "complete_games": 0,
           "era": 4.74,
           "whip": 1.342
-        }
-      }
-    },
-    {
-      "id": 489446,
-      "mlb_id": 489446,
-      "wikidata_id": "Q16232037",
-      "slug": "kirby-yates",
-      "name": "Kirby Yates",
-      "full_name": "Kirby Yates",
-      "number": "54",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1987-03-25",
-      "age": 39,
-      "birthplace": "Līhuʻe",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "June 7, 2014",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Kauai High School"
-          },
-          {
-            "name": "Yavapai College"
-          }
-        ]
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "New York Yankees",
-        "Los Angeles Angels",
-        "San Diego Padres",
-        "Atlanta Braves",
-        "Texas Rangers",
-        "Los Angeles Dodgers",
-        "Pittsburgh Pirates"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16232037",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kirby_Yates",
-      "retrosheet_id": "yatek001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 472,
-          "plate_appearances": 2,
-          "at_bats": 2,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 472,
-          "games_started": 0,
-          "wins": 30,
-          "losses": 24,
-          "saves": 98,
-          "innings_outs": 1358,
-          "hits": 332,
-          "runs": 183,
-          "earned_runs": 169,
-          "home_runs": 63,
-          "walks": 181,
-          "strikeouts": 623,
-          "hit_batters": 29,
-          "wild_pitches": 18,
-          "balks": 4,
-          "complete_games": 0,
-          "era": 3.36,
-          "whip": 1.133
         }
       }
     },

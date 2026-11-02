@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:21:16.287176+00:00",
-  "roster_as_of": "October 32, 2026",
+  "generated_at": "2026-11-02T19:49:34.399455+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 113,
     "name": "Cincinnati Reds"
   },
   "roster_type": "open-current-roster",
-  "player_count": 36,
+  "player_count": 35,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -2141,73 +2141,6 @@
           "on_base_percentage": 0.293,
           "slugging_percentage": 0.545,
           "ops": 0.838
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 669911,
-      "mlb_id": 669911,
-      "wikidata_id": "Q64009985",
-      "slug": "michael-toglia",
-      "name": "Michael Toglia",
-      "full_name": "Mike Toglia",
-      "number": "48",
-      "position": {
-        "name": "First Base",
-        "group": "Pitcher",
-        "abbreviation": "1B"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1998-08-16",
-      "age": 28,
-      "birthplace": "Phoenix",
-      "height": null,
-      "weight": null,
-      "bats": "Switch",
-      "throws": "Left",
-      "debut_date": "August 30, 2022",
-      "debut_team": "Colorado Rockies",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of California, Los Angeles"
-          },
-          {
-            "name": "Gig Harbor High School"
-          }
-        ]
-      },
-      "teams": [
-        "Colorado Rockies",
-        "Cincinnati Reds"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q64009985",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Toglia",
-      "retrosheet_id": "toglm001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 280,
-          "plate_appearances": 1067,
-          "at_bats": 957,
-          "runs": 112,
-          "hits": 192,
-          "doubles": 42,
-          "triples": 6,
-          "home_runs": 42,
-          "runs_batted_in": 108,
-          "walks": 101,
-          "strikeouts": 373,
-          "stolen_bases": 15,
-          "caught_stealing": 3,
-          "average": 0.201,
-          "on_base_percentage": 0.278,
-          "slugging_percentage": 0.389,
-          "ops": 0.667
         },
         "pitching": null
       }

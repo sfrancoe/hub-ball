@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:16:04.153744+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-02T19:44:28.859923+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 108,
     "name": "Los Angeles Angels"
   },
   "roster_type": "open-current-roster",
-  "player_count": 36,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1263,7 +1263,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-12-22",
       "age": 25,
@@ -1744,6 +1744,47 @@
           "era": 30.86,
           "whip": 3.857
         }
+      }
+    },
+    {
+      "id": 695950,
+      "mlb_id": 695950,
+      "wikidata_id": null,
+      "slug": "nicolo-pinazzi",
+      "name": "Nicolò Pinazzi",
+      "full_name": "Nicolò Pinazzi",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Los Angeles Angels"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%B2_Pinazzi",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

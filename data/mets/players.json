@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T16:10:09.145999+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-02T19:38:32.248654+00:00",
+  "roster_as_of": "November 1, 2026",
   "team": {
     "id": 121,
     "name": "New York Mets"
   },
   "roster_type": "open-current-roster",
-  "player_count": 43,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,86 +20,6 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
-    {
-      "id": 691769,
-      "mlb_id": 691769,
-      "wikidata_id": "Q136341544",
-      "slug": "philip-abner",
-      "name": "Philip Abner",
-      "full_name": "Philip Abner",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2002-05-05",
-      "age": 24,
-      "birthplace": "Charlotte, North Carolina, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 19, 2025",
-      "debut_team": "Arizona Diamondbacks",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Arizona Diamondbacks",
-        "San Francisco Giants",
-        "New York Mets"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q136341544",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_Abner",
-      "retrosheet_id": "abnep001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 5,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 5,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 11,
-          "hits": 5,
-          "runs": 2,
-          "earned_runs": 2,
-          "home_runs": 0,
-          "walks": 3,
-          "strikeouts": 5,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.91,
-          "whip": 2.182
-        }
-      }
-    },
     {
       "id": 683146,
       "mlb_id": 683146,
@@ -450,7 +370,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1993-01-02",
       "age": 33,
@@ -1044,7 +964,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1995-07-28",
       "age": 31,
@@ -1521,10 +1441,10 @@
       "number": "11",
       "position": {
         "name": "Designated Hitter",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "DH"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1993-07-05",
       "age": 33,
@@ -2397,67 +2317,6 @@
       }
     },
     {
-      "id": 676572,
-      "mlb_id": 676572,
-      "wikidata_id": "Q130277965",
-      "slug": "eric-wagaman",
-      "name": "Eric Wagaman",
-      "full_name": "Eric Wagaman",
-      "number": "39",
-      "position": {
-        "name": "First Base",
-        "group": "Infielder",
-        "abbreviation": "1B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-08-14",
-      "age": 29,
-      "birthplace": "Mission Viejo, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 10, 2024",
-      "debut_team": "Los Angeles Angels",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Los Angeles Angels",
-        "Miami Marlins",
-        "New York Mets"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q130277965",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Wagaman",
-      "retrosheet_id": "wagae001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 158,
-          "plate_appearances": 588,
-          "at_bats": 548,
-          "runs": 62,
-          "hits": 137,
-          "doubles": 33,
-          "triples": 3,
-          "home_runs": 11,
-          "runs_batted_in": 63,
-          "walks": 34,
-          "strikeouts": 117,
-          "stolen_bases": 4,
-          "caught_stealing": 1,
-          "average": 0.25,
-          "on_base_percentage": 0.293,
-          "slugging_percentage": 0.381,
-          "ops": 0.674
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 681810,
       "mlb_id": 681810,
       "wikidata_id": "Q107692798",
@@ -2571,48 +2430,6 @@
       "source_url": "https://www.wikidata.org/wiki/Q140972726",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Weisenburger_%28baseball%29",
       "retrosheet_id": "weisj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 687721,
-      "mlb_id": 687721,
-      "wikidata_id": "Q139974136",
-      "slug": "cameron-weston",
-      "name": "Cameron Weston",
-      "full_name": "Cameron Weston",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-08-27",
-      "age": 26,
-      "birthplace": "Pittsburgh, Pennsylvania, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 28, 2026",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Baltimore Orioles",
-        "New York Mets"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q139974136",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Weston",
-      "retrosheet_id": "westc001",
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",

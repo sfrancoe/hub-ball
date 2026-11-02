@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:17:39.283709+00:00",
+  "generated_at": "2026-11-02T19:46:21.076080+00:00",
   "roster_as_of": "October 31, 2026",
   "team": {
     "id": 140,
@@ -468,8 +468,8 @@
       }
     },
     {
-      "id": 1953579129,
-      "mlb_id": null,
+      "id": 695778,
+      "mlb_id": 695778,
       "wikidata_id": null,
       "slug": "aidan-curry",
       "name": "Aidan Curry",
@@ -1681,7 +1681,7 @@
       "is_active_roster": false,
       "birth_date": "2002-10-10",
       "age": 24,
-      "birthplace": "Ahome Municipality",
+      "birthplace": "Los Mochis",
       "height": null,
       "weight": null,
       "bats": "Left",
