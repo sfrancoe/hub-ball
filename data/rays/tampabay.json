@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Though known as a great defender, the award provides some public gratification. Beating out Bobby Witt Jr. is cool, too.",
+      "published": "2026-11-02T01:38:43+00:00",
+      "title": "Rays shortstop Taylor Walls fulfills childhood dream, wins Gold Glove",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/01/taylor-walls-al-gold-glove-bobby-witt-andres-gimenez-chandler-simpson-drew-rasmussen/"
+    },
+    {
+      "category": "Rays",
+      "description": "Though a trade is always possible, Drew Rasmussen says it’s “nice to know that there is an intention for me to be back,” and he sees a good future.",
+      "published": "2026-11-02T00:58:00+00:00",
+      "title": "Rays’ Rasmussen ‘incredibly excited’ to have his $20M option picked up",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/01/drew-rasmussen-2027-option-20-million-dollar-salary-picked-up/"
+    },
+    {
+      "category": "Rays",
       "description": "The ace starter maxed out a series of escalator clauses based on games pitched and days healthy. Plus, Yandy Diaz’s option is formalized.",
       "published": "2026-11-01T01:26:58+00:00",
       "title": "Rays pick up Drew Rasmussen’s option for franchise-record $20M salary",
@@ -104,16 +118,9 @@
       "published": "2026-10-28T00:57:53+00:00",
       "title": "Evan Longoria enjoys return to Trop to throw 1st pitch before Game 4",
       "url": "https://www.tampabay.com/sports/rays/2026/10/27/evan-longoria-world-series-game-4-first-pitch-james-shields-giants-diamondbacks/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | What started during the Sept. 11 playoff-clinching celebration has spawned several new developments, now including a shirt.",
-      "published": "2026-10-27T21:44:53+00:00",
-      "title": "Yandy Diaz’s postseason steak eating gets the T-shirt treatment",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/27/yandy-diaz-t-shirt-tomahawk-steak-chandler-simpson-catch-junior-caminero-drew-rasmussen/"
     }
   ],
-  "generated_at": "2026-11-01T01:47:23.745406+00:00",
+  "generated_at": "2026-11-02T02:26:23.582490+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

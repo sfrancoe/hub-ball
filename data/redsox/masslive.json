@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Red Sox right fielder Wilyer Abreu won his third consecutive Gold Glove on Sunday. Center fielder Ceddanne Rafaela won his second straight and third baseman Caleb Durbin became a first-time winner.",
+      "published": "2026-11-02T02:08:44+00:00",
+      "title": "Red Sox have three 2026 Gold Glove winners, including first-timer",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-have-three-2026-gold-glove-winners-including-first-timer-who-played-through-injuries.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "One of the Red Sox’ first moves of the offseason became official Sunday afternoon — and it was something of a no-brainer.",
       "published": "2026-11-01T20:46:04+00:00",
       "title": "Garrett Whitlock's $8.25M option an easy call for Red Sox",
@@ -104,16 +111,9 @@
       "published": "2026-10-27T19:03:42+00:00",
       "title": "The Red Sox have too many outfielders and not enough answers — here's how Craig Breslow might fix it this winter",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-how-will-outfield-logjam-pursuit-of-slugging-dh-impact-jarren-duran-others.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Philadelphia Phillies have hired former Boston Red Sox coach Pete Fatse to be their hitting coach.",
-      "published": "2026-10-26T22:46:05+00:00",
-      "title": "Ex-Red Sox coach fired with Alex Cora named Phillies hitting coach",
-      "url": "https://www.masslive.com/redsox/2026/10/ex-red-sox-coach-fired-with-alex-cora-named-phillies-hitting-coach.html"
     }
   ],
-  "generated_at": "2026-11-01T23:07:22.435110+00:00",
+  "generated_at": "2026-11-02T02:26:09.533599+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

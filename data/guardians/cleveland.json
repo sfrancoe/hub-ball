@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "Tanner Bibee wins his first career Gold Glove Award after a frustrating 2026 season, while Steven Kwan's four-year winning streak ends.",
+      "published": "2026-11-01T13:11:00+00:00",
+      "title": "Guardians’ Tanner Bibee earns 1st Gold Glove Award as Steven Kwan falls short of 5th straight",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-tanner-bibee-earns-1st-gold-glove-award-as-steven-kwan-falls-short-of-5th-straight.html"
+    },
+    {
+      "category": "Guardians",
       "description": "With top prospects developing simultaneously and a pitching staff built to win, the Guardians may have the pieces to reward their franchise cornerstone — if everything breaks right.",
       "published": "2026-10-29T22:15:00+00:00",
       "title": "The José Ramírez clock is running — Can the Guardians win it all before his window closes?",
@@ -23,13 +30,6 @@
     },
     {
       "category": "Guardians",
-      "description": "After years of searching for right-handed power, Cleveland now faces a hard payroll choice: bite the bullet on Adell or risk losing the bat their lineup desperately needs.",
-      "published": "2026-10-26T23:05:00+00:00",
-      "title": "Jo Adell’s arbitration price tag could give the Guardians an offseason headache",
-      "url": "https://www.cleveland.com/guardians/2026/10/jo-adells-arbitration-price-tag-could-give-the-guardians-an-offseason-headache.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Stephen Vogt says the Guardians' changing roster taught him to move beyond strict platoon matchups and trust his players as they established themselves in 2026.",
       "published": "2026-10-29T08:05:00+00:00",
       "title": "Stephen Vogt on how his managerial philosophy evolved as Guardians found their identity in 2026",
@@ -41,13 +41,6 @@
       "published": "2026-10-28T06:57:00+00:00",
       "title": "The Guardians keep building baseball’s best development pipeline — and everyone else keeps stealing the architects",
       "url": "https://www.cleveland.com/guardians/2026/10/the-guardians-keep-building-baseballs-best-development-pipeline-and-everyone-else-keeps-stealing-the-architects.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Hey, Hoynsie: At least Gavin Williams will be ready for next year since he didn’t pitch on short rest in Game 6 of the ALCS against the Rays. — Jay Schulman.",
-      "published": "2026-10-30T22:06:00+00:00",
-      "title": "Should the Guardians have started Gavin Williams in Game 6 of ALCS? Hey, Hoynsie!",
-      "url": "https://www.cleveland.com/guardians/2026/10/should-the-guardians-have-started-gavin-williams-in-game-6-of-alcs-hey-hoynsie.html"
     },
     {
       "category": "Guardians",
@@ -65,6 +58,13 @@
     },
     {
       "category": "Guardians",
+      "description": "Hey, Hoynsie: At least Gavin Williams will be ready for next year since he didn’t pitch on short rest in Game 6 of the ALCS against the Rays. — Jay Schulman.",
+      "published": "2026-10-30T22:06:00+00:00",
+      "title": "Should the Guardians have started Gavin Williams in Game 6 of ALCS? Hey, Hoynsie!",
+      "url": "https://www.cleveland.com/guardians/2026/10/should-the-guardians-have-started-gavin-williams-in-game-6-of-alcs-hey-hoynsie.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Austin Hedges' devastated reaction after the ALCS loss showed just how much he means to the Guardians — and why letting him walk this offseason could be harder to replace than any free-agent bat.",
       "published": "2026-10-21T22:05:00+00:00",
       "title": "Austin Hedges is more than a backup catcher — he’s the emotional engine of the Guardians",
@@ -79,13 +79,13 @@
     },
     {
       "category": "Guardians",
-      "description": "CLEVELAND, Ohio — The Guardians are two wins away from their first trip to the Fall Classic since 2016 after defeating the Tampa Bay Rays 3-2 in Game 3 of the American League Championship Series.",
-      "published": "2026-10-15T05:02:00+00:00",
-      "title": "Guardians’ 3-2 victory over the Tampa Bay Rays in ALCS Game 3: Game recap inning-by-inning",
-      "url": "https://www.cleveland.com/guardians/2026/10/alcs-game-3-guardians-vs-rays-live-blog-will-cleveland-regain-control-of-the-series-at-home.html"
+      "description": "Manager Stephen Vogt says he's in a \"good place\" with Tanner Bibee, the forgotten pitcher in the Guardians' playoff run.",
+      "published": "2026-10-22T12:05:00+00:00",
+      "title": "Guardians’ Stephen Vogt, Tanner Bibee walk and talk their way through playoff snub",
+      "url": "https://www.cleveland.com/guardians/2026/10/guardians-stephen-vogt-tanner-bibee-walk-and-talk-their-way-through-playoff-snub.html"
     }
   ],
-  "generated_at": "2026-11-01T23:07:38.821639+00:00",
+  "generated_at": "2026-11-02T02:26:27.634773+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

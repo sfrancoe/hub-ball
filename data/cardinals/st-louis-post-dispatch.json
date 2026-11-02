@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cardinals",
+      "description": "The Cardinals are going to decline the one-year option on reliever Ryne Stanek’s contract, a source told Post-Dispatch reporter Derrick Goold. The decision will set up Stanek for free agency.",
+      "published": "2026-11-01T16:45:00+00:00",
+      "title": "Cardinals to decline one-year option on veteran reliever Ryne Stanek: Source",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_461268a4-4f10-4ccd-aafb-bd0eaa4aac54.html"
+    },
+    {
+      "category": "Cardinals",
       "description": "During a 10-1 romp in Game 3 of the World Series, Milwaukee's outfielder is youngest with four hits since Joe Garagiola, one hit shy of Albert Pujols' record.",
       "published": "2026-10-27T05:32:00+00:00",
       "title": "Jackson Chourio's 4 hits in Brewers' rout nears feat by Cardinals catcher 80 years ago",
@@ -69,16 +76,9 @@
       "published": "2026-10-23T05:29:00+00:00",
       "title": "The Write Fielder: Derrick Goold takes a trip to see a title, revisit what baseball brings, too",
       "url": "https://www.stltoday.com/sports/article_603a6914-7b97-4b71-bfac-9c80590bfc54.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "Cardinals prospect Tai Peete produced a 3 for 4 game Monday in the Arizona Fall League that included a homer, double, three RBIs and a stolen base.",
-      "published": "2026-10-27T04:00:00+00:00",
-      "title": "Cardinals prospect Tai Peete continues scorching fall league with 3-hit, 3-RBI game",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/minor-league/article_c65c1ef5-0c7f-4657-85e8-a9729d897bed.html"
     }
   ],
-  "generated_at": "2026-11-01T23:08:09.618535+00:00",
+  "generated_at": "2026-11-02T02:26:38.792926+00:00",
   "source": "Post-Dispatch",
   "source_url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
 }

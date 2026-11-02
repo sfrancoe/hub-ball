@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Angels",
+      "description": "Orange County Register coverage of the Los Angeles Angels of Anaheim, including Mike Trout and other L.A. Angels baseball players. Full Angels game coverage, scores, rosters and news.",
+      "published": "2026-09-28T09:51:00+00:00",
+      "title": "Los Angeles Angels",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "category": "Angels",
       "description": "Stephenson had a $2.5 million option for 2027, but he is recovering from his second Tommy John surgery and won’t be able to pitch until the middle of 2027, at the earliest. He pitched 10 innings ...",
       "published": "2026-10-30T16:44:00+00:00",
       "title": "Angels decline Robert Stephenson’s option, as expected",
@@ -29,7 +36,7 @@
       "url": "https://www.ocregister.com/2026/06/27/angels-send-down-christian-moore-to-play-every-day/"
     }
   ],
-  "generated_at": "2026-11-01T19:43:04.558939+00:00",
+  "generated_at": "2026-11-02T02:26:30.938778+00:00",
   "source": "OC Register",
   "source_url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
 }
