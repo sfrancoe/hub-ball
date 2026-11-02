@@ -1,22 +1,65 @@
 {
-  "generated_at": "2026-11-02T06:24:59.722961+00:00",
+  "generated_at": "2026-11-02T21:47:44.334524+00:00",
   "source": "X",
   "source_url": "https://x.com/Reds",
   "recent": [
     {
-      "id": "2116647857277239414",
-      "text": "The #Reds today announced the following transactions: https://t.co/pgDIb2tf44",
-      "url": "https://x.com/Reds/status/2116647857277239414",
-      "published": "2026-10-31T21:45:49+00:00",
-      "likes": 610,
+      "id": "2117349938598223898",
+      "text": "The #Reds today claimed off waivers RHP Duncan Davitt from the Giants and RHP Paxton Schultz from the Nationals.",
+      "url": "https://x.com/Reds/status/2117349938598223898",
+      "published": "2026-11-02T20:15:38+00:00",
+      "likes": 158,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HV_X6OJXgAABKi7.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2117318673103012167",
+      "text": "RT @ChattLookouts: Going Gold 🌟 Carlos Jorge is your 2026 MiLB Gold Glove Award winner! Congratulations Carlos!! https://t.co/iHzvaxYk2d",
+      "url": "https://x.com/Reds/status/2117318673103012167",
+      "published": "2026-11-02T18:11:24+00:00",
+      "likes": 0,
+      "author": "Cincinnati Reds",
+      "handle": "Reds",
+      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWI4UMMXQAAVFAP.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2117349938598223898",
+      "text": "The #Reds today claimed off waivers RHP Duncan Davitt from the Giants and RHP Paxton Schultz from the Nationals.",
+      "url": "https://x.com/Reds/status/2117349938598223898",
+      "published": "2026-11-02T20:15:38+00:00",
+      "likes": 158,
+      "author": "Cincinnati Reds",
+      "handle": "Reds",
+      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2117318673103012167",
+      "text": "RT @ChattLookouts: Going Gold 🌟 Carlos Jorge is your 2026 MiLB Gold Glove Award winner! Congratulations Carlos!! https://t.co/iHzvaxYk2d",
+      "url": "https://x.com/Reds/status/2117318673103012167",
+      "published": "2026-11-02T18:11:24+00:00",
+      "likes": 0,
+      "author": "Cincinnati Reds",
+      "handle": "Reds",
+      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWI4UMMXQAAVFAP.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
