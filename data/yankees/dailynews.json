@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "With 21 Defensive Runs Saved, Bellinger led all left fielders by a wide margin in...",
+      "published": "2026-11-02T15:06:34+00:00",
+      "title": "Yankees’ Cody Bellinger earns Gold Glove Award for stellar left field defense",
+      "url": "https://www.nydailynews.com/2026/11/02/yankees-cody-bellinger-earns-gold-glove-award-for-stellar-left-field-defense/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees are not renewing the contracts of Omar Minaya and Brian Sabean, a source...",
       "published": "2026-10-31T16:15:07+00:00",
       "title": "Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean",
@@ -132,16 +139,9 @@
       "published": "2026-10-19T11:30:58+00:00",
       "title": "9 Yankees are arbitration eligible: What could they earn, and who could be non-tendered?",
       "url": "https://www.nydailynews.com/2026/10/19/9-yankees-are-arbitration-eligible-what-could-they-earn-and-who-could-be-non-tendered/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Three years after a brief stint with the Yankees, Jake Bauers has emerged as an...",
-      "published": "2026-10-15T18:38:46+00:00",
-      "title": "Briefly a Yankee, Jake Bauers emerges as NLCS hero for Brewers",
-      "url": "https://www.nydailynews.com/2026/10/15/yankees-jake-bauers-nlcs-brewers-dodgers/"
     }
   ],
-  "generated_at": "2026-10-31T19:54:15.620346+00:00",
+  "generated_at": "2026-11-02T19:55:05.892305+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

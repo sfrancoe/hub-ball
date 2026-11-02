@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "red sox",
+      "description": "Contreras said he was physically “doing great” after the season and was eager to see how the Sox improve the lineup during the offseason.",
+      "published": "2026-11-02T18:17:32.772Z",
+      "title": "Willson Contreras optimistic about 2027 Red Sox, and other thoughts",
+      "url": "https://www.bostonglobe.com/2026/11/02/sports/willson-contreras/"
+    },
+    {
+      "category": "red sox",
+      "description": "The Red Sox could look to add some thump to their lineup and depth to their starting rotation.",
+      "published": "2026-11-02T10:00:00Z",
+      "title": "What to do with Jarren Duran, how to replace Sonny Gray, and other questions hanging over the Red Sox",
+      "url": "https://www.bostonglobe.com/2026/11/02/sports/red-sox-offseason-key-questions/"
+    },
+    {
       "category": "Red Sox",
       "description": "It is Durbin's first Gold Glove, Ceddanne Rafaela's second in a row, and Wilyer Abreu's third consecutive.",
       "published": "2026-11-02T02:55:39.641Z",
@@ -97,23 +111,9 @@
       "published": "2026-10-28T07:30:37.946Z",
       "title": "‘Baseball is amazing sometimes’: Rays and Brewers gave us another World Series game to remember",
       "url": "https://www.bostonglobe.com/2026/10/28/sports/world-series-game-4-rays-brewers/"
-    },
-    {
-      "category": "RAYS 4, BREWERS 3 (12 inn.)",
-      "description": "After Cooper Pratt's HR gave Milwaukee the lead in the top half, RBI singles by Jonny DeLuca and Ben Williamson lifted Tampa Bay to a Game 4 victory.",
-      "published": "2026-10-28T05:10:57.824Z",
-      "title": "Rays stun Brewers with two-run rally in 12th inning to stay alive, force World Series Game 5",
-      "url": "https://www.bostonglobe.com/2026/10/28/sports/world-series-game-4-rays-brewers-score/"
-    },
-    {
-      "category": "BASEBALL",
-      "description": "The pair of former Red Sox coaches were fired, along with manager Alex Cora and three other coaches, back in April.",
-      "published": "2026-10-28T00:01:24.801Z",
-      "title": "Phillies name Pete Fatse hitting coach, hire Joe Cronin as assistant hitting coach",
-      "url": "https://www.bostonglobe.com/2026/10/27/sports/baseball-phillies-coaches-pete-fatse-joe-cronin/"
     }
   ],
-  "generated_at": "2026-11-02T09:45:29.489314+00:00",
+  "generated_at": "2026-11-02T19:55:03.688454+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

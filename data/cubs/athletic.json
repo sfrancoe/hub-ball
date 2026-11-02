@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "That was true 10 years ago, when Maddon guided the Chicago Cubs to their first World Series title since 1908, and it was true on a warm ...",
+      "published": "2026-11-02T06:47:00+00:00",
+      "title": "The Cubs won the World Series 10 years ago. So much has changed since",
+      "url": "https://www.nytimes.com/athletic/7746130/2026/11/02/cubs-2016-world-series-10-years/"
+    },
+    {
+      "category": "Cubs",
+      "description": "Game 7 was baseball heaven, and the first historic sports moment covered by The Athletic. A moment that will last forever.",
+      "published": "2026-11-02T03:30:00+00:00",
+      "title": "Ten years later, reflecting on the Cubs’ World Series and The Athletic’s beginning",
+      "url": "https://www.nytimes.com/athletic/7744318/2026/11/02/cubs-world-series-10th-anniversary-the-athletic-chicago/"
+    },
+    {
+      "category": "Cubs",
       "description": "Left fielder Ian Happ, right fielder Seiya Suzuki and shortstop Dansby Swanson were also finalists but did not win the award.",
       "published": "2026-11-01T20:16:00+00:00",
       "title": "Pete Crow-Armstrong, Alex Bregman Gold Gloves highlight Cubs’ elite defensive season",
@@ -41,16 +55,9 @@
       "published": "2026-10-21T03:31:00+00:00",
       "title": "Here are 4 Cubs who need to bounce back next season",
       "url": "https://www.nytimes.com/athletic/7709186/2026/10/21/cubs-bounce-back-season-2027/"
-    },
-    {
-      "category": "Cubs",
-      "description": "Former Astros manager Joe Espada is among the known candidates in the Mariners’ search for a new skipper. Ishika Samant / Getty Images In their ongoing search for a new manager, the Seattle Mariners ...",
-      "published": "2026-10-21T12:43:00+00:00",
-      "title": "Mariners’ manager search includes Cubs farm director Jason Kanzler, among others: Sources",
-      "url": "https://www.nytimes.com/athletic/7711238/2026/10/21/mariners-manager-search-candidates/"
     }
   ],
-  "generated_at": "2026-11-02T09:46:27.934435+00:00",
+  "generated_at": "2026-11-02T19:55:24.722635+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

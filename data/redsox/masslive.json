@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The MLB offseason might move quickly this winter. What will the Red Sox do? We polled our three baseball writers for some bold predictions on Craig Breslow's plans.",
+      "published": "2026-11-02T11:00:01+00:00",
+      "title": "Red Sox bold predictions: Who stays and who goes this winter?",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-bold-predictions-will-franklin-arias-jarren-duran-be-traded-where-will-the-big-bat-come-from.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Red Sox right fielder Wilyer Abreu won his third consecutive Gold Glove on Sunday. Center fielder Ceddanne Rafaela won his second straight and third baseman Caleb Durbin became a first-time winner.",
       "published": "2026-11-02T02:08:44+00:00",
       "title": "Red Sox have three 2026 Gold Glove winners, including first-timer",
@@ -104,16 +111,9 @@
       "published": "2026-10-28T09:00:00+00:00",
       "title": "Fenway Insider: Submit questions for MassLive’s Chris Cotillo",
       "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-submit-questions-for-masslives-chris-cotillo.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "How will the Red Sox solve their outfield logjam while adding thump to the DH spot n 2027? It could be an eventful winter toward that end.",
-      "published": "2026-10-27T19:03:42+00:00",
-      "title": "The Red Sox have too many outfielders and not enough answers — here's how Craig Breslow might fix it this winter",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-how-will-outfield-logjam-pursuit-of-slugging-dh-impact-jarren-duran-others.html"
     }
   ],
-  "generated_at": "2026-11-02T02:26:09.533599+00:00",
+  "generated_at": "2026-11-02T19:55:05.711770+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

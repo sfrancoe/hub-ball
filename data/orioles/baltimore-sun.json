@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "MLB’s offseason is officially underway, and one of the Orioles’ first decisions was to part ways with one of their longest-tenured players.",
+      "published": "2026-11-02T10:49:00+00:00",
+      "title": "Orioles decline Ryan Mountcastle’s $7.5M team option, making him free agent",
+      "url": "https://www.baltimoresun.com/2026/11/02/orioles-ryan-mountcastle-option-declined/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles declined outfielder Luis Robert Jr.’s $20 million team option for 2027, a source confirmed to The Baltimore Sun.",
       "published": "2026-10-31T16:13:00+00:00",
       "title": "Orioles decline $20M team option for Luis Robert Jr. amid flurry of moves",
@@ -51,27 +58,20 @@
     },
     {
       "category": "Orioles",
+      "description": "Jerry Koosman, an All-Star left-hander who got the final out of the Miracle Mets’ shocking 1969 World Series victory over the Baltimore Orioles, died Sunday. He was 83. Mets spokesman Jay Horwitz said ...",
+      "published": "2026-11-02T10:59:00+00:00",
+      "title": "Jerry Koosman, who got final out in the 1969 Miracle Mets’ World Series victory, dies at 83",
+      "url": "https://www.baltimoresun.com/2026/11/02/jerry-koosman-who-got-final-out-in-the-1969-miracle-mets-world-series-victory-dies-at-83/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles became the 14th team in MLB with both a president of baseball operations and GM when they hired Jared Banner under Mike Elias.",
       "published": "2026-10-21T03:30:00+00:00",
       "title": "What Jared Banner’s hiring means for Mike Elias and the Orioles",
       "url": "https://www.baltimoresun.com/2026/10/21/orioles-jared-banner-mike-elias-tandem-impact/"
-    },
-    {
-      "category": "Orioles",
-      "description": "We asked readers if the Orioles’ hire of general manager Jared Banner changes their outlook on the team? Here’s what they said.",
-      "published": "2026-10-22T12:02:00+00:00",
-      "title": "READERS RESPOND: Orioles fans skeptical of new GM’s potential impact",
-      "url": "https://www.baltimoresun.com/2026/10/22/readers-respond-orioles-general-manager-impact/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Orioles prospect Vance Honeycutt’s stock continues to soar after carrying over his strong finish in Double-A to the Arizona Fall League.",
-      "published": "2026-10-22T04:15:00+00:00",
-      "title": "Orioles prospect Vance Honeycutt continues hot streak in fall league",
-      "url": "https://www.baltimoresun.com/2026/10/22/orioles-vance-honeycutt-hot-streak-fall-league/"
     }
   ],
-  "generated_at": "2026-11-02T02:26:26.005874+00:00",
+  "generated_at": "2026-11-02T19:55:17.843699+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

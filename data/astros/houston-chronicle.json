@@ -2,10 +2,31 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Dusty Baker, who led a record five teams to the playoffs, is among eight former managers or executives on the Contemporary Baseball Era Committee's ballot.",
+      "published": "2026-11-02T08:54:00+00:00",
+      "title": "Former Houston Astros manager Dusty Baker up for Hall of Fame election on Contemporary Era ballot",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/dusty-baker-hall-of-fame-22506485.php"
+    },
+    {
+      "category": "Astros",
       "description": "Randy Flores replaces Dana Brown as general manager. Flores ahs been assistant GM with the St. Louis Cardinals.",
       "published": "2026-10-29T17:01:00+00:00",
       "title": "Houston Astros hire Cardinals executive Randy Flores as new general manager",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-randy-flores-general-manager-22500778.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Jim Crane often weighs in on baseball decisions, but the Astros owner says general manager Randy Flores is being given the power while the owner will continue to keep tabs on everything.",
+      "published": "2026-11-02T11:12:00+00:00",
+      "title": "Houston Astros owner Jim Crane says new general manager Randy Flores will 'have full authority'",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/jim-crane-randy-flores-gm-power-22505709.php"
+    },
+    {
+      "category": "Astros",
+      "description": "The Houston Astros interviewed a variety of candidates in the search for their next general manager. It quickly became clear that Randy Flores was their guy. Astros owner Jim Crane says “we ...",
+      "published": "2026-11-02T10:57:00+00:00",
+      "title": "Astros owner Jim Crane hails Randy Flores as a 'perfect fit' in GM hire",
+      "url": "https://www.houstonchronicle.com/sports/article/astros-owner-jim-crane-hails-randy-flores-as-a-22506793.php"
     },
     {
       "category": "Astros",
@@ -51,20 +72,6 @@
     },
     {
       "category": "Astros",
-      "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
-      "published": "2026-10-20T04:00:00+00:00",
-      "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-left-field-yordan-alvarez-22483382.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Tarik Skubal is at the top of Major League Baseball's free agency class this offseason, but there are other players in the Top 20, who would better fit the Astros' price range.",
-      "published": "2026-10-29T08:50:00+00:00",
-      "title": "As Houston Astros look to fill needs, here are MLB's 20 best free agents this offseason",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/mlb-free-agents-ranked-offseason-22499840.php"
-    },
-    {
-      "category": "Astros",
       "description": "Jason Bell, who spent 10 seasons with the Astros in various roles, is leaving the organization despite being among the holdovers following a coaching staff shakeup.",
       "published": "2026-10-28T12:06:00+00:00",
       "title": "Houston Astros coach Jason Bell departing for role with Boston Red Sox",
@@ -72,20 +79,13 @@
     },
     {
       "category": "Astros",
-      "description": "The Houston Astros have hired St. Louis Cardinals executive Randy Flores as their general manager. Flores replaces Dana Brown, who was let go in August with his contract set to expire at the end ...",
-      "published": "2026-10-29T17:01:00+00:00",
-      "title": "Astros hire Randy Flores as general manager. Former pitcher had been assistant GM with Cardinals",
-      "url": "https://www.houstonchronicle.com/sports/article/astros-hire-randy-flores-as-general-manager-22503550.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Houston went through a rotating cast of center fielders in 2026, with nobody seizing the position. Will the Astros be able to find options internally or in free agency to provide stability?",
-      "published": "2026-10-21T03:59:00+00:00",
-      "title": "Can stability be found in center field after 2026 revolving door? | Houston Astros roster analysis",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-roster-analysis-center-field-stability-22485084.php"
+      "description": "Houston's left fielders other than Alvarez combined for a .580 OPS. Will the Astros add an everyday option or give Alvarez more time in the outfield?",
+      "published": "2026-10-20T04:00:00+00:00",
+      "title": "Should Yordan Alvarez play more in left field? | Houston Astros roster analysis",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-left-field-yordan-alvarez-22483382.php"
     }
   ],
-  "generated_at": "2026-11-02T09:46:04.612854+00:00",
+  "generated_at": "2026-11-02T19:55:20.846997+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
