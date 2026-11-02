@@ -1,14 +1,42 @@
 {
-  "generated_at": "2026-11-01T22:10:56.213901+00:00",
+  "generated_at": "2026-11-02T06:24:59.718737+00:00",
   "source": "X",
   "source_url": "https://x.com/tigers",
   "recent": [
+    {
+      "id": "2117071425022595226",
+      "text": "That’s two-time Gold Glover Dillon Dingler to you 🥇🥇 https://t.co/QczU0PhLgh",
+      "url": "https://x.com/tigers/status/2117071425022595226",
+      "published": "2026-11-02T01:48:55+00:00",
+      "likes": 1024,
+      "author": "Detroit Tigers",
+      "handle": "tigers",
+      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2117071232671625216/img/nRBInL4ZqyrosML0.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2117069856457568411",
+      "text": "Behind the plate. Ahead of the rest. Dillon Dingler is a back-to-back Gold Glover! 🏆 https://t.co/iZpywIXIlV",
+      "url": "https://x.com/tigers/status/2117069856457568411",
+      "published": "2026-11-02T01:42:41+00:00",
+      "likes": 2316,
+      "author": "Detroit Tigers",
+      "handle": "tigers",
+      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWFXz7mX0AA3ki1.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2116622732653715549",
       "text": "I found a place… Happy Halloween, Tigers fans! 🎃 https://t.co/a8whxOv23P",
       "url": "https://x.com/tigers/status/2116622732653715549",
       "published": "2026-10-31T20:05:59+00:00",
-      "likes": 599,
+      "likes": 608,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
@@ -16,35 +44,36 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2116305932619538851",
-      "text": "RT @PAWSDetroit: In case any of you need a last minute costume 👀",
-      "url": "https://x.com/tigers/status/2116305932619538851",
-      "published": "2026-10-30T23:07:08+00:00",
-      "likes": 0,
+      "id": "2117069856457568411",
+      "text": "Behind the plate. Ahead of the rest. Dillon Dingler is a back-to-back Gold Glover! 🏆 https://t.co/iZpywIXIlV",
+      "url": "https://x.com/tigers/status/2117069856457568411",
+      "published": "2026-11-02T01:42:41+00:00",
+      "likes": 2316,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "",
+      "media": "https://pbs.twimg.com/media/HWFXz7mX0AA3ki1.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     },
     {
-      "id": "2116304478731468818",
-      "text": "i hope whoever stole our package was also planning on being @maxxclarkk13 for Halloween https://t.co/KZvQf17j3y",
-      "url": "https://x.com/tigers/status/2116304478731468818",
-      "published": "2026-10-30T23:01:21+00:00",
-      "likes": 506,
+      "id": "2117071425022595226",
+      "text": "That’s two-time Gold Glover Dillon Dingler to you 🥇🥇 https://t.co/QczU0PhLgh",
+      "url": "https://x.com/tigers/status/2117071425022595226",
+      "published": "2026-11-02T01:48:55+00:00",
+      "likes": 1024,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HV6ftPyWgAAK6yf.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2117071232671625216/img/nRBInL4ZqyrosML0.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }

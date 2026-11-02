@@ -1,14 +1,42 @@
 {
-  "generated_at": "2026-11-01T22:10:56.217071+00:00",
+  "generated_at": "2026-11-02T06:24:59.721221+00:00",
   "source": "X",
   "source_url": "https://x.com/Braves",
   "recent": [
+    {
+      "id": "2117080246226936283",
+      "text": "Congratulations to Mauricio Dubón on being named a 2026 Rawlings Gold Glove Award winner! https://t.co/pSHSulNA7O",
+      "url": "https://x.com/Braves/status/2117080246226936283",
+      "published": "2026-11-02T02:23:58+00:00",
+      "likes": 3395,
+      "author": "Atlanta Braves",
+      "handle": "Braves",
+      "avatar": "https://pbs.twimg.com/profile_images/2036843909838491648/sy11GuAA_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWFhQ3FXcAAh6VW.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2117078958806310931",
+      "text": "Congratulations to Matt Olson on being named a 2026 Rawlings Gold Glove Award winner! https://t.co/WEJVj3wIaT",
+      "url": "https://x.com/Braves/status/2117078958806310931",
+      "published": "2026-11-02T02:18:51+00:00",
+      "likes": 4620,
+      "author": "Atlanta Braves",
+      "handle": "Braves",
+      "avatar": "https://pbs.twimg.com/profile_images/2036843909838491648/sy11GuAA_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWFgF9wWAAAo35U.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2116621257634644066",
       "text": "Happy Birthday to Hall of Famer Fred McGriff! https://t.co/iJhucP4T5v",
       "url": "https://x.com/Braves/status/2116621257634644066",
       "published": "2026-10-31T20:00:07+00:00",
-      "likes": 3134,
+      "likes": 3378,
       "author": "Atlanta Braves",
       "handle": "Braves",
       "avatar": "https://pbs.twimg.com/profile_images/2036843909838491648/sy11GuAA_normal.jpg",
@@ -16,21 +44,36 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2116526952039567852",
-      "text": "Happy Halloween, #BravesCountry! https://t.co/PXfl67jjDk",
-      "url": "https://x.com/Braves/status/2116526952039567852",
-      "published": "2026-10-31T13:45:23+00:00",
-      "likes": 1547,
+      "id": "2117078958806310931",
+      "text": "Congratulations to Matt Olson on being named a 2026 Rawlings Gold Glove Award winner! https://t.co/WEJVj3wIaT",
+      "url": "https://x.com/Braves/status/2117078958806310931",
+      "published": "2026-11-02T02:18:51+00:00",
+      "likes": 4620,
       "author": "Atlanta Braves",
       "handle": "Braves",
       "avatar": "https://pbs.twimg.com/profile_images/2036843909838491648/sy11GuAA_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HV9qC1qWUAAn1su.jpg",
+      "media": "https://pbs.twimg.com/media/HWFgF9wWAAAo35U.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2117080246226936283",
+      "text": "Congratulations to Mauricio Dubón on being named a 2026 Rawlings Gold Glove Award winner! https://t.co/pSHSulNA7O",
+      "url": "https://x.com/Braves/status/2117080246226936283",
+      "published": "2026-11-02T02:23:58+00:00",
+      "likes": 3395,
+      "author": "Atlanta Braves",
+      "handle": "Braves",
+      "avatar": "https://pbs.twimg.com/profile_images/2036843909838491648/sy11GuAA_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWFhQ3FXcAAh6VW.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
