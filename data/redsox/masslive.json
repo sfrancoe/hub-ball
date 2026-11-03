@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox have traded left-handed pitcher Eduardo Rivera to the St. Louis Cardinals for minor league right-handed pitcher Juan García.",
+      "published": "2026-11-03T16:59:39+00:00",
+      "title": "Red Sox trade hard-throwing lefty to Cardinals for 18-year-old minor leaguer",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-trade-hard-throwing-lefty-to-cardinals-for-18-year-old-minor-leaguer.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Payton Tolle and Chad Tracy were named BBWAA award finalists, while Sonny Gray was snubbed for the AL Cy Young despite an 18-5 record and 2.72 ERA.",
       "published": "2026-11-03T00:35:14+00:00",
       "title": "Red Sox duo earns spots among BBWAA award finalists",
@@ -104,16 +111,9 @@
       "published": "2026-10-28T21:48:54+00:00",
       "title": "Red Sox hire ex-Astros coach to work with outfielders",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-add-new-coach-to-big-league-staff-ex-astros-staffer-will-work-with-outfielders.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "As soon as the World Series ends, the Red Sox have some cuts to make. There are few easy decisions on the back end of their 40-man roster.",
-      "published": "2026-10-28T12:25:56+00:00",
-      "title": "Red Sox cuts coming — but few easy choices on the roster",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-moves-coming-soon-including-possible-early-trades-due-to-40-man-crunch.html"
     }
   ],
-  "generated_at": "2026-11-03T01:55:39.343019+00:00",
+  "generated_at": "2026-11-03T22:04:20.765398+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

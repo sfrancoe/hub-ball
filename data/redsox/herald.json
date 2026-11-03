@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "With the offseason already underway, MLB has offered to push back the start of its proposed salary cap system until next winter.",
+      "published": "2026-11-03T20:41:07Z",
+      "title": "MLB offers to delay start of proposed salary cap until 2028",
+      "url": "https://www.bostonherald.com/2026/11/03/mlb-offers-to-delay-start-of-proposed-salary-cap-until-2028/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Two members of the Red Sox have been named finalists for the BBWAA’s major year-end awards.",
       "published": "2026-11-03T00:45:13Z",
       "title": "Red Sox left-hander, manager named finalists for major year-end awards",
@@ -104,16 +111,9 @@
       "published": "2026-10-26T17:19:13Z",
       "title": "Alex Cora opens up on Red Sox firing, managing future in podcast interview",
       "url": "https://www.bostonherald.com/2026/10/26/alex-cora-opens-up-on-red-sox-firing-managing-future-in-podcast-interview/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Two franchises going for their first World Series title? Two clubs both looking to end droughts of 25 years or longer? Neither has happened often, making this week’s Brewers-Rays matchup especially unique.",
-      "published": "2026-10-25T09:30:31Z",
-      "title": "MLB notes: Looking back at extremely rare World Series matchups in same ilk as Brewers-Rays",
-      "url": "https://www.bostonherald.com/2026/10/25/mlb-notes-brewers-rays-providing-exceptionally-rare-world-series-matchup/"
     }
   ],
-  "generated_at": "2026-11-03T01:55:37.766169+00:00",
+  "generated_at": "2026-11-03T22:04:18.625582+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
