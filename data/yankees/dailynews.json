@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "In what was essentially a formality, Cam Schlittler was named a finalist for the American...",
+      "published": "2026-11-03T12:30:17+00:00",
+      "title": "Yankees’ Cam Schlittler expectedly named Cy Young finalist, spurned for bigger award",
+      "url": "https://www.nydailynews.com/2026/11/03/yankees-cam-schlittler-cy-young-finalist-spurned-award/"
+    },
+    {
+      "category": "Yankees",
       "description": "Brad Ausmus, who has been the Yankees' bench coach the past three years, is in...",
       "published": "2026-11-02T22:42:48+00:00",
       "title": "Yankees bench coach Brad Ausmus interviewing for Astros manager job",
@@ -132,16 +139,9 @@
       "published": "2026-10-21T17:12:34+00:00",
       "title": "Yankees, GM Brian Cashman agree to a new contract",
       "url": "https://www.nydailynews.com/2026/10/21/yankees-gm-brian-cashman-agree-new-contract-steinbrenner/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees have two theoretical candidates for the qualifying offer: closer David Bednar and second...",
-      "published": "2026-10-20T16:29:03+00:00",
-      "title": "How the Yankees could handle the qualifying offer this offseason",
-      "url": "https://www.nydailynews.com/2026/10/20/yankees-qualifying-offer-strategy-offseason-grisham-bednar/"
     }
   ],
-  "generated_at": "2026-11-03T01:55:40.008264+00:00",
+  "generated_at": "2026-11-03T16:46:37.452841+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
