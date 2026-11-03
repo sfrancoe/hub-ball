@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Payton Tolle and Chad Tracy were named BBWAA award finalists, while Sonny Gray was snubbed for the AL Cy Young despite an 18-5 record and 2.72 ERA.",
+      "published": "2026-11-03T00:35:14+00:00",
+      "title": "Red Sox duo earns spots among BBWAA award finalists",
+      "url": "https://www.masslive.com/redsox/2026/11/two-red-sox-named-finalists-for-bbwaa-awards.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Faced with a deadline to clean up their 40-man roster Monday afternoon, the Red Sox moved on from two high-powered arms by designating them for assignment",
+      "published": "2026-11-03T00:15:37+00:00",
+      "title": "Red Sox DFA pair of pitchers as offseason roster moves begin",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-roster-crunch-leads-to-two-cuts-from-pitching-staff-including-longtime-reliever.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The MLB offseason might move quickly this winter. What will the Red Sox do? We polled our three baseball writers for some bold predictions on Craig Breslow's plans.",
       "published": "2026-11-02T11:00:01+00:00",
       "title": "Red Sox bold predictions: Who stays and who goes this winter?",
@@ -97,23 +111,9 @@
       "published": "2026-10-28T12:25:56+00:00",
       "title": "Red Sox cuts coming — but few easy choices on the roster",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-moves-coming-soon-including-possible-early-trades-due-to-40-man-crunch.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Top Red Sox prospect Franklin Arias is expected to break into the majors at some point in 2027, during his age 21 season. What are realistic expectations?",
-      "published": "2026-10-28T10:55:45+00:00",
-      "title": "Red Sox have baseball's No. 2 prospect; what are realistic expectations in 2027?",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-have-baseballs-no-2-prospect-what-are-realistic-expectations-in-2027.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Chris Cotillo will be filling in for Sean McAdam on this week's Fenway Insider Live. What Red Sox questions do you have? Drop them in the comments or send them to fenwayinsider@masslive.com",
-      "published": "2026-10-28T09:00:00+00:00",
-      "title": "Fenway Insider: Submit questions for MassLive’s Chris Cotillo",
-      "url": "https://www.masslive.com/redsox/2026/10/fenway-insider-submit-questions-for-masslives-chris-cotillo.html"
     }
   ],
-  "generated_at": "2026-11-02T19:55:05.711770+00:00",
+  "generated_at": "2026-11-03T01:55:39.343019+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

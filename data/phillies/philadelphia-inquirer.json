@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "Sánchez was named a NL Cy Young finalist, while closer Duran was considered for Reliever of the Year Award and Mattingly was added as a finalist for Manager of the Year.",
+      "published": "2026-11-02T17:04:00+00:00",
+      "title": "Phillies’ Cristopher Sanchez, Jhoan Duran and Don Mattingly named finalists for MLB awards",
+      "url": "https://www.inquirer.com/phillies/phillies-cristopher-sanchez-jhoan-duran-don-mattingly-awards-20261102.html"
+    },
+    {
+      "category": "Phillies",
       "description": "The Phillies president arrived in 2020 to much fanfare, but Dealin’ Dave's moves in Philly have been mostly misses. He can't afford any more.",
       "published": "2026-10-31T03:02:00+00:00",
       "title": "Hot stove season begins. Will Dave Dombrowski make more mistakes like Pete Alonso, Trea Turner, José Alvarado?",
@@ -15,7 +22,7 @@
       "url": "https://www.inquirer.com/inquirer-live/garrett-stubbs-mlb-lockout-salary-cap-cba-20261030.html"
     }
   ],
-  "generated_at": "2026-10-31T11:05:14.744897+00:00",
+  "generated_at": "2026-11-03T01:57:00.095815+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }

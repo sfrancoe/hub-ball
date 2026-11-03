@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "\"There was a belief that we were just going to do it,\" manager Stephen Vogt said of Cleveland's quest to win the World Series.",
+      "published": "2026-10-23T02:30:00+00:00",
+      "title": "Guardians end-of-season takeaways: ‘This group, it felt different’",
+      "url": "https://www.nytimes.com/athletic/7715795/2026/10/23/guardians-end-of-season-takeaways/"
+    },
+    {
+      "category": "Guardians",
       "description": "The trial will mark one of the first tests of the Justice Department’s ambitious efforts to crack down on manipulation in sports betting and prediction markets.",
       "published": "2026-11-02T10:51:00+00:00",
       "title": "Trial Begins for M.L.B. Players Accused of Tipping Pitches to Gamblers",
@@ -16,10 +23,10 @@
     },
     {
       "category": "Guardians",
-      "description": "\"There was a belief that we were just going to do it,\" manager Stephen Vogt said of Cleveland's quest to win the World Series.",
-      "published": "2026-10-23T02:30:00+00:00",
-      "title": "Guardians end-of-season takeaways: ‘This group, it felt different’",
-      "url": "https://www.nytimes.com/athletic/7715795/2026/10/23/guardians-end-of-season-takeaways/"
+      "description": "Closer Cade Smith pitches during the ninth inning with the Guardians trailing 3-1 against the Rays in Game 5 of the ALCS. Nick Cammett / Getty Images CLEVELAND — For nearly seven months, they have ...",
+      "published": "2026-10-19T03:04:00+00:00",
+      "title": "The Cleveland Guardians are running out of arms … and time",
+      "url": "https://www.nytimes.com/athletic/7703517/2026/10/19/cleveland-guardians-bullpen-pitching/"
     },
     {
       "category": "Guardians",
@@ -37,20 +44,20 @@
     },
     {
       "category": "Guardians",
-      "description": "Propelled by strong pitching and timely hitting, the Rays squeaked out a 3-1 win over the Guardians Sunday evening to gain a 3-2 series lead. With a win today. Tampa Bay would advance to the World ...",
-      "published": "2026-10-19T21:46:00+00:00",
-      "title": "Rays advance to World Series after beating Guardians in ALCS Game 6: Live updates, reaction",
-      "url": "https://www.nytimes.com/athletic/live-blogs/guardians-vs-rays-live-updates-mlb-playoffs-game-6-score-result/vTJRVqOY5yh4/"
-    },
-    {
-      "category": "Guardians",
       "description": "Somehow, two small-market teams are playing in the World Series and the Guardians aren’t one of them. A long, cold winter awaits.",
       "published": "2026-10-20T03:30:00+00:00",
       "title": "Hugs, tears and missed chances: Scenes from a crushed Guardians clubhouse",
       "url": "https://www.nytimes.com/athletic/7706821/2026/10/20/guardians-missed-chances-alcs-loss-rays-game-6/"
+    },
+    {
+      "category": "Guardians",
+      "description": "Propelled by strong pitching and timely hitting, the Rays squeaked out a 3-1 win over the Guardians Sunday evening to gain a 3-2 series lead. With a win today. Tampa Bay would advance to the World ...",
+      "published": "2026-10-19T21:46:00+00:00",
+      "title": "Rays advance to World Series after beating Guardians in ALCS Game 6: Live updates, reaction",
+      "url": "https://www.nytimes.com/athletic/live-blogs/guardians-vs-rays-live-updates-mlb-playoffs-game-6-score-result/vTJRVqOY5yh4/"
     }
   ],
-  "generated_at": "2026-11-02T19:55:19.312228+00:00",
+  "generated_at": "2026-11-03T01:56:13.152378+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

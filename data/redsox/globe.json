@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "Red Sox notebook",
+      "description": "The Red Sox were 77-58 under Tracy, including a 37-game stretch in which they were 32-5.",
+      "published": "2026-11-03T01:17:47.809Z",
+      "title": "Chad Tracy, Payton Tolle get major award nods; Red Sox cut two pitchers",
+      "url": "https://www.bostonglobe.com/2026/11/02/sports/red-sox-chad-tracy-payton-tolle/"
+    },
+    {
+      "category": "Baseball",
+      "description": "The ballot in this cycle was for executives, managers, and umpires whose primary contributions to the game came after 1980.",
+      "published": "2026-11-02T22:36:45.514Z",
+      "title": "Retired managers Dusty Baker and Bruce Bochy among eight candidates on Contemporary Baseball Era ballot for Hall of Fame",
+      "url": "https://www.bostonglobe.com/2026/11/02/sports/baseball-hall-of-fame/"
+    },
+    {
       "category": "red sox",
       "description": "Contreras said he was physically “doing great” after the season and was eager to see how the Sox improve the lineup during the offseason.",
       "published": "2026-11-02T18:17:32.772Z",
@@ -97,23 +111,9 @@
       "published": "2026-10-28T21:18:35.47Z",
       "title": "Despite small-market World Series, the push for a salary cap will lead to a baseball nuclear winter",
       "url": "https://www.bostonglobe.com/2026/10/28/sports/gasper-major-league-baseball-lockout-crisis/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Sox have at least two openings under manager Chad Tracy: first base coach and third base coach.",
-      "published": "2026-10-28T19:42:19.013Z",
-      "title": "Red Sox add longtime Astro Jason Bell to coaching staff, including as the outfield instructor",
-      "url": "https://www.bostonglobe.com/2026/10/28/sports/jason-bell-red-sox-outfield/"
-    },
-    {
-      "category": "ON BASEBALL",
-      "description": "The Brewers were three outs from the first championship in franchise history. But in the bottom of the 12th inning, they couldn’t get even one out.",
-      "published": "2026-10-28T07:30:37.946Z",
-      "title": "‘Baseball is amazing sometimes’: Rays and Brewers gave us another World Series game to remember",
-      "url": "https://www.bostonglobe.com/2026/10/28/sports/world-series-game-4-rays-brewers/"
     }
   ],
-  "generated_at": "2026-11-02T19:55:03.688454+00:00",
+  "generated_at": "2026-11-03T01:55:36.874025+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

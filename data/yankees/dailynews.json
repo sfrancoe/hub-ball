@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Brad Ausmus, who has been the Yankees' bench coach the past three years, is in...",
+      "published": "2026-11-02T22:42:48+00:00",
+      "title": "Yankees bench coach Brad Ausmus interviewing for Astros manager job",
+      "url": "https://www.nydailynews.com/2026/11/02/yankees-brad-ausmus-astros-manager-lou-piniella/"
+    },
+    {
+      "category": "Yankees",
+      "description": "The Yankees have made the qualifying offer to David Bednar, their closer since being acquired...",
+      "published": "2026-11-02T22:05:52+00:00",
+      "title": "Yankees extend one-year qualifying offer to David Bednar: source",
+      "url": "https://www.nydailynews.com/2026/11/02/yankees-extend-one-year-qualifying-offer-to-david-bednar-source/"
+    },
+    {
+      "category": "Yankees",
       "description": "With 21 Defensive Runs Saved, Bellinger led all left fielders by a wide margin in...",
       "published": "2026-11-02T15:06:34+00:00",
       "title": "Yankees’ Cody Bellinger earns Gold Glove Award for stellar left field defense",
@@ -125,23 +139,9 @@
       "published": "2026-10-20T16:29:03+00:00",
       "title": "How the Yankees could handle the qualifying offer this offseason",
       "url": "https://www.nydailynews.com/2026/10/20/yankees-qualifying-offer-strategy-offseason-grisham-bednar/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Boone is sticking around after another early playoff exit.",
-      "published": "2026-10-19T22:45:25+00:00",
-      "title": "Yankees bringing Aaron Boone back as manager in 2027: source",
-      "url": "https://www.nydailynews.com/2026/10/19/yankees-bringing-aaron-boone-back-as-manager-in-2027-source/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Luis García Jr., Anthony Volpe and Austin Wells are among the Yankees' arbitration-eligible players.",
-      "published": "2026-10-19T11:30:58+00:00",
-      "title": "9 Yankees are arbitration eligible: What could they earn, and who could be non-tendered?",
-      "url": "https://www.nydailynews.com/2026/10/19/9-yankees-are-arbitration-eligible-what-could-they-earn-and-who-could-be-non-tendered/"
     }
   ],
-  "generated_at": "2026-11-02T19:55:05.892305+00:00",
+  "generated_at": "2026-11-03T01:55:40.008264+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
