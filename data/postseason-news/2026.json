@@ -1,13 +1,97 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-03T15:18:39.569378+00:00",
+  "generatedAt": "2026-11-03T21:08:22.320786+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 3,
   "articles": [
+    {
+      "title": "Red Sox trade lefthanded pitcher Eduardo Rivera to Chaim Bloom’s Cardinals",
+      "description": "In exchange, the Sox received Juan García, an 18-year-old Mexican righthander who has pitched in the Dominican Summer League the past two years.",
+      "url": "https://www.bostonglobe.com/2026/11/03/sports/eduardo-rivera-red-sox-cardinals/",
+      "published": "2026-11-03T21:01:01.868000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Major League Baseball proposes delaying salary cap and floor for one year to the start of the 2028 season",
+      "description": "The delay is not expected to change the players’ resistance to a cap.",
+      "url": "https://www.bostonglobe.com/2026/11/03/sports/mlb-labor-salary-cap-floor/",
+      "published": "2026-11-03T20:48:24.615000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "MLB offers to delay start of proposed salary cap until 2028",
+      "description": "With the offseason already underway, MLB has offered to push back the start of its proposed salary cap system until next winter.",
+      "url": "https://www.bostonherald.com/2026/11/03/mlb-offers-to-delay-start-of-proposed-salary-cap-until-2028/",
+      "published": "2026-11-03T20:41:07+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "In reviewing Series loss, Rays’ Erik Neander says ‘best is yet to come’",
+      "description": "The baseball operations boss says the Brewers provide a model that his team should be able to follow, and there is ample reason for optimism.",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/03/erik-neader-2027-outlook-world-series/",
+      "published": "2026-11-03T20:23:46.723000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees split with polarizing star feels inevitable after $23 million decision",
+      "description": "",
+      "url": "https://nypost.com/2026/11/03/sports/yankees-jazz-chisholm-split-feels-inevitable-after-qualifying-offer-decision/",
+      "published": "2026-11-03T20:12:25+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Brewers manager reveals Brian Cashman damage control after getting ‘caught’ bashing Yankees",
+      "description": "",
+      "url": "https://nypost.com/2026/11/03/sports/pat-murphy-reveals-brian-cashman-damage-control-after-getting-caught-bashing-yankees/",
+      "published": "2026-11-03T20:00:44+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox trade hard-throwing lefty to Cardinals for 18-year-old minor leaguer",
+      "description": "The Red Sox have traded left-handed pitcher Eduardo Rivera to the St. Louis Cardinals for minor league right-handed pitcher Juan García.",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-trade-hard-throwing-lefty-to-cardinals-for-18-year-old-minor-leaguer.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Baseball’s bizarre free agency has begun — and Yankees, Mets are already on clock with intriguing slugger",
       "description": "",
@@ -67,18 +151,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "Sale, Weiss named finalists for BBWAA awards",
-      "description": "A pair of Braves — pitcher Chris Sale and manager Walt Weiss — were named finalists for the Baseball Writers Association of America awards.",
-      "url": "https://www.ajc.com/sports/2026/11/braves-sale-weiss-finalists-bbwaa-awards/",
-      "published": "2026-11-03T03:28:37.324000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
     }
   ]
 }
