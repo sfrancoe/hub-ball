@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:47:25.301923+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-03T17:20:25.885852+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 146,
     "name": "Miami Marlins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 36,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -875,7 +875,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-06-20",
       "age": 26,
@@ -1101,7 +1101,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-06-18",
       "age": 25,
@@ -1294,8 +1294,8 @@
       }
     },
     {
-      "id": 1914790941,
-      "mlb_id": null,
+      "id": 800049,
+      "mlb_id": 800049,
       "wikidata_id": "Q112339357",
       "slug": "adam-mazur",
       "name": "Adam Mazur",
@@ -1306,7 +1306,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-04-20",
       "age": 25,
@@ -1455,84 +1455,6 @@
       }
     },
     {
-      "id": 687287,
-      "mlb_id": 687287,
-      "wikidata_id": "Q133963435",
-      "slug": "patrick-monteverde",
-      "name": "Patrick Monteverde",
-      "full_name": "Patrick Monteverde",
-      "number": "44",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-09-24",
-      "age": 29,
-      "birthplace": "Pittsburgh, Pennsylvania, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "April 19, 2025",
-      "debut_team": "Miami Marlins",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q133963435",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Monteverde",
-      "retrosheet_id": "montp001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 1,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 1,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 11,
-          "hits": 9,
-          "runs": 4,
-          "earned_runs": 4,
-          "home_runs": 0,
-          "walks": 1,
-          "strikeouts": 4,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 9.82,
-          "whip": 2.727
-        }
-      }
-    },
-    {
       "id": 677053,
       "mlb_id": 677053,
       "wikidata_id": "Q113543707",
@@ -1545,7 +1467,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-08-18",
       "age": 28,
@@ -1608,66 +1530,6 @@
           "era": 4.51,
           "whip": 1.373
         }
-      }
-    },
-    {
-      "id": 688363,
-      "mlb_id": 688363,
-      "wikidata_id": "Q125020449",
-      "slug": "graham-pauley",
-      "name": "Graham Pauley",
-      "full_name": "Graham Pauley",
-      "number": "21",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-09-24",
-      "age": 26,
-      "birthplace": "Alpharetta, Georgia, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "March 20, 2024",
-      "debut_team": "San Diego Padres",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Diego Padres",
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q125020449",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Pauley",
-      "retrosheet_id": "paulg001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 75,
-          "plate_appearances": 216,
-          "at_bats": 193,
-          "runs": 22,
-          "hits": 40,
-          "doubles": 9,
-          "triples": 1,
-          "home_runs": 6,
-          "runs_batted_in": 16,
-          "walks": 21,
-          "strikeouts": 51,
-          "stolen_bases": 2,
-          "caught_stealing": 0,
-          "average": 0.207,
-          "on_base_percentage": 0.284,
-          "slugging_percentage": 0.358,
-          "ops": 0.642
-        },
-        "pitching": null
       }
     },
     {
@@ -2243,7 +2105,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2003-12-19",
       "age": 22,
@@ -2411,13 +2273,13 @@
       }
     },
     {
-      "id": 687985,
-      "mlb_id": 687985,
-      "wikidata_id": "Q138201599",
-      "slug": "josh-white",
-      "name": "Josh White",
-      "full_name": "Josh White",
-      "number": "59",
+      "id": 687721,
+      "mlb_id": 687721,
+      "wikidata_id": "Q139974136",
+      "slug": "cameron-weston",
+      "name": "Cameron Weston",
+      "full_name": "Cameron Weston",
+      "number": "--",
       "position": {
         "name": "Pitcher",
         "group": "Pitcher",
@@ -2425,29 +2287,26 @@
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
-      "birth_date": "2000-11-24",
-      "age": 25,
-      "birthplace": "Walnut Creek",
+      "birth_date": "2000-08-27",
+      "age": 26,
+      "birthplace": "Pittsburgh, Pennsylvania, U.S.",
       "height": null,
       "weight": null,
       "bats": "Right",
       "throws": "Right",
-      "debut_date": "May 31, 2026",
-      "debut_team": "Miami Marlins",
+      "debut_date": "May 28, 2026",
+      "debut_team": "Baltimore Orioles",
       "education": {
         "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of California, Berkeley"
-          }
-        ]
+        "colleges": []
       },
       "teams": [
+        "Baltimore Orioles",
         "Miami Marlins"
       ],
-      "source_url": "https://www.wikidata.org/wiki/Q138201599",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_White_%28baseball%29",
-      "retrosheet_id": "whitj003",
+      "source_url": "https://www.wikidata.org/wiki/Q139974136",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Weston",
+      "retrosheet_id": "westc001",
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",

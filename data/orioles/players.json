@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T19:39:39.516440+00:00",
+  "generated_at": "2026-11-03T17:12:38.324848+00:00",
   "roster_as_of": "November 2, 2026",
   "team": {
     "id": 110,
@@ -20,6 +20,86 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
+    {
+      "id": 691769,
+      "mlb_id": 691769,
+      "wikidata_id": "Q136341544",
+      "slug": "philip-abner",
+      "name": "Philip Abner",
+      "full_name": "Philip Abner",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2002-05-05",
+      "age": 24,
+      "birthplace": "Charlotte, North Carolina, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "September 19, 2025",
+      "debut_team": "Arizona Diamondbacks",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Arizona Diamondbacks",
+        "San Francisco Giants",
+        "Baltimore Orioles"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q136341544",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_Abner",
+      "retrosheet_id": "abnep001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 5,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 5,
+          "games_started": 0,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "innings_outs": 11,
+          "hits": 5,
+          "runs": 2,
+          "earned_runs": 2,
+          "home_runs": 0,
+          "walks": 3,
+          "strikeouts": 5,
+          "hit_batters": 0,
+          "wild_pitches": 0,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 4.91,
+          "whip": 2.182
+        }
+      }
+    },
     {
       "id": 677942,
       "mlb_id": 677942,
@@ -443,7 +523,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-09-12",
       "age": 30,
@@ -933,6 +1013,47 @@
       }
     },
     {
+      "id": 694633,
+      "mlb_id": 694633,
+      "wikidata_id": "Q123405267",
+      "slug": "chase-hampton",
+      "name": "Chase Hampton",
+      "full_name": "Chase Hampton",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-08-07",
+      "age": 25,
+      "birthplace": "Longview",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q123405267",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chase_Hampton_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 664854,
       "mlb_id": 664854,
       "wikidata_id": "Q42434072",
@@ -945,7 +1066,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-07-18",
       "age": 32,
@@ -1383,69 +1504,6 @@
       }
     },
     {
-      "id": 677008,
-      "mlb_id": 677008,
-      "wikidata_id": "Q85199601",
-      "slug": "heston-kjerstad",
-      "name": "Heston Kjerstad",
-      "full_name": "Heston Kjerstad",
-      "number": "13",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "LF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-02-12",
-      "age": 27,
-      "birthplace": "Amarillo",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "September 14, 2023",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Randall High School"
-          }
-        ]
-      },
-      "teams": [
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q85199601",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Heston_Kjerstad",
-      "retrosheet_id": "kjerh001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 106,
-          "plate_appearances": 314,
-          "at_bats": 285,
-          "runs": 27,
-          "hits": 62,
-          "doubles": 8,
-          "triples": 2,
-          "home_runs": 10,
-          "runs_batted_in": 36,
-          "walks": 18,
-          "strikeouts": 88,
-          "stolen_bases": 2,
-          "caught_stealing": 0,
-          "average": 0.218,
-          "on_base_percentage": 0.284,
-          "slugging_percentage": 0.365,
-          "ops": 0.649
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 801725,
       "mlb_id": 801725,
       "wikidata_id": "Q141796784",
@@ -1542,6 +1600,47 @@
           "slugging_percentage": 0.349,
           "ops": 0.634
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 681439,
+      "mlb_id": 681439,
+      "wikidata_id": "Q140992058",
+      "slug": "zach-morgan",
+      "name": "Zach Morgan",
+      "full_name": "Zach Morgan",
+      "number": "--",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2000-03-30",
+      "age": 26,
+      "birthplace": "Stockton, California, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q140992058",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zach_Morgan",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -1657,10 +1756,10 @@
       "number": "9",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "RF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1995-06-22",
       "age": 31,
@@ -1791,67 +1890,6 @@
       }
     },
     {
-      "id": 650968,
-      "mlb_id": 650968,
-      "wikidata_id": "Q108077687",
-      "slug": "yohel-pozo",
-      "name": "Yohel Pozo",
-      "full_name": "Yohel Pozo",
-      "number": "79",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-06-14",
-      "age": 29,
-      "birthplace": "Maracaibo, Venezuela",
-      "height": "6' 0\"",
-      "weight": 201,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 13, 2021",
-      "debut_team": "Texas Rangers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Texas Rangers",
-        "St. Louis Cardinals",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q108077687",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Yohel_Pozo",
-      "retrosheet_id": "pozoy001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 88,
-          "plate_appearances": 245,
-          "at_bats": 234,
-          "runs": 24,
-          "hits": 58,
-          "doubles": 12,
-          "triples": 0,
-          "home_runs": 6,
-          "runs_batted_in": 28,
-          "walks": 10,
-          "strikeouts": 32,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.248,
-          "on_base_percentage": 0.278,
-          "slugging_percentage": 0.376,
-          "ops": 0.654
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 676742,
       "mlb_id": 676742,
       "wikidata_id": "Q135654232",
@@ -1928,67 +1966,6 @@
           "era": 8.1,
           "whip": 2.1
         }
-      }
-    },
-    {
-      "id": 665750,
-      "mlb_id": 665750,
-      "wikidata_id": "Q97645643",
-      "slug": "leody-taveras",
-      "name": "Leody Taveras",
-      "full_name": "Leody Taveras",
-      "number": "30",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-09-08",
-      "age": 28,
-      "birthplace": "Tenares",
-      "height": null,
-      "weight": null,
-      "bats": "Switch",
-      "throws": "Right",
-      "debut_date": "July 24, 2020",
-      "debut_team": "Texas Rangers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Texas Rangers",
-        "Seattle Mariners",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q97645643",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Leody_Taveras",
-      "retrosheet_id": "tavel001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 533,
-          "plate_appearances": 1923,
-          "at_bats": 1769,
-          "runs": 212,
-          "hits": 418,
-          "doubles": 80,
-          "triples": 12,
-          "home_runs": 41,
-          "runs_batted_in": 177,
-          "walks": 126,
-          "strikeouts": 470,
-          "stolen_bases": 75,
-          "caught_stealing": 19,
-          "average": 0.236,
-          "on_base_percentage": 0.287,
-          "slugging_percentage": 0.365,
-          "ops": 0.652
-        },
-        "pitching": null
       }
     },
     {
@@ -2113,19 +2090,19 @@
       }
     },
     {
-      "id": 1996334676,
-      "mlb_id": null,
+      "id": 676059,
+      "mlb_id": 676059,
       "wikidata_id": "Q95970456",
       "slug": "jordan-westburg",
       "name": "Jordan Westburg",
       "full_name": "Jordan Westburg",
       "number": "11",
       "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
+        "name": "Third Base",
+        "group": "Infielder",
+        "abbreviation": "3B"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-02-18",
       "age": 27,
@@ -2175,6 +2152,52 @@
           "slugging_percentage": 0.456,
           "ops": 0.768
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 687985,
+      "mlb_id": 687985,
+      "wikidata_id": "Q138201599",
+      "slug": "josh-white",
+      "name": "Josh White",
+      "full_name": "Josh White",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2000-11-24",
+      "age": 25,
+      "birthplace": "Walnut Creek",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "May 31, 2026",
+      "debut_team": "Miami Marlins",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "University of California, Berkeley"
+          }
+        ]
+      },
+      "teams": [
+        "Miami Marlins",
+        "Baltimore Orioles"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q138201599",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_White_%28baseball%29",
+      "retrosheet_id": "whitj003",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -2335,85 +2358,6 @@
           "complete_games": 0,
           "era": 6.24,
           "whip": 1.543
-        }
-      }
-    },
-    {
-      "id": 691172,
-      "mlb_id": 691172,
-      "wikidata_id": "Q60243006",
-      "slug": "yosver-zulueta",
-      "name": "Yosver Zulueta",
-      "full_name": "Yosver Zulueta",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-01-23",
-      "age": 28,
-      "birthplace": "Villa Clara Province",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 25, 2024",
-      "debut_team": "Cincinnati Reds",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Cincinnati Reds",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q60243006",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Yosver_Zulueta",
-      "retrosheet_id": "zuluy001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 19,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 19,
-          "games_started": 0,
-          "wins": 1,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 71,
-          "hits": 20,
-          "runs": 15,
-          "earned_runs": 14,
-          "home_runs": 3,
-          "walks": 11,
-          "strikeouts": 25,
-          "hit_batters": 1,
-          "wild_pitches": 2,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.32,
-          "whip": 1.31
         }
       }
     }

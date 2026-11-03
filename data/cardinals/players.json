@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:51:28.211532+00:00",
-  "roster_as_of": "October 23, 2026",
+  "generated_at": "2026-11-03T17:24:26.344118+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 138,
     "name": "St. Louis Cardinals"
   },
   "roster_type": "open-current-roster",
-  "player_count": 40,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -873,47 +873,6 @@
           "era": 6.04,
           "whip": 1.421
         }
-      }
-    },
-    {
-      "id": 694633,
-      "mlb_id": 694633,
-      "wikidata_id": "Q123405267",
-      "slug": "chase-hampton",
-      "name": "Chase Hampton",
-      "full_name": "Chase Hampton",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-08-07",
-      "age": 25,
-      "birthplace": "Longview",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "St. Louis Cardinals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q123405267",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Chase_Hampton_%28baseball%29",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
       }
     },
     {
@@ -1802,7 +1761,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-08-03",
       "age": 25,
@@ -2051,96 +2010,6 @@
           "complete_games": 0,
           "era": 5.95,
           "whip": 1.475
-        }
-      }
-    },
-    {
-      "id": 592773,
-      "mlb_id": 592773,
-      "wikidata_id": "Q16234210",
-      "slug": "ryne-stanek",
-      "name": "Ryne Stanek",
-      "full_name": "Ryne Stanek",
-      "number": "55",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-07-26",
-      "age": 35,
-      "birthplace": "Overland Park",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 14, 2017",
-      "debut_team": "Tampa Bay Rays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Arkansas"
-          },
-          {
-            "name": "Blue Valley High School"
-          }
-        ]
-      },
-      "teams": [
-        "Tampa Bay Rays",
-        "Miami Marlins",
-        "Houston Astros",
-        "Seattle Mariners",
-        "New York Mets",
-        "St. Louis Cardinals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q16234210",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryne_Stanek",
-      "retrosheet_id": "stanr002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 466,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 466,
-          "games_started": 56,
-          "wins": 21,
-          "losses": 23,
-          "saves": 14,
-          "innings_outs": 1375,
-          "hits": 371,
-          "runs": 218,
-          "earned_runs": 196,
-          "home_runs": 61,
-          "walks": 232,
-          "strikeouts": 531,
-          "hit_batters": 10,
-          "wild_pitches": 34,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.85,
-          "whip": 1.316
         }
       }
     },

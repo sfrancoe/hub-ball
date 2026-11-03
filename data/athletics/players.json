@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T19:45:08.091356+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-03T17:18:11.671552+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 133,
     "name": "Athletics"
@@ -813,7 +813,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-05-20",
       "age": 27,
@@ -1035,7 +1035,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-12-17",
       "age": 26,
@@ -1324,10 +1324,10 @@
       "number": "16",
       "position": {
         "name": "First Base",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "1B"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2003-03-12",
       "age": 23,
@@ -2069,10 +2069,10 @@
       "number": "25",
       "position": {
         "name": "Designated Hitter",
-        "group": "Pitcher",
+        "group": "Hitter",
         "abbreviation": "DH"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-11-01",
       "age": 32,
@@ -2222,7 +2222,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-02-20",
       "age": 32,
@@ -2299,10 +2299,10 @@
       "number": "21",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-11-24",
       "age": 24,
@@ -2366,7 +2366,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-08-29",
       "age": 30,
@@ -2678,10 +2678,10 @@
       "number": "5",
       "position": {
         "name": "Shortstop",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "SS"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2002-03-30",
       "age": 24,

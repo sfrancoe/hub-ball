@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:49:34.399455+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-03T17:22:36.631310+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 113,
     "name": "Cincinnati Reds"
   },
   "roster_type": "open-current-roster",
-  "player_count": 35,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -740,6 +740,49 @@
       }
     },
     {
+      "id": 701474,
+      "mlb_id": 701474,
+      "wikidata_id": "Q139198375",
+      "slug": "duncan-davitt",
+      "name": "Duncan Davitt",
+      "full_name": "Duncan Davitt",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1999-09-23",
+      "age": 27,
+      "birthplace": "Des Moines, Iowa, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "April 10, 2026",
+      "debut_team": "Chicago White Sox",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Chicago White Sox",
+        "San Francisco Giants",
+        "Cincinnati Reds"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q139198375",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Duncan_Davitt",
+      "retrosheet_id": "david005",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 694362,
       "mlb_id": 694362,
       "wikidata_id": "Q126367690",
@@ -749,10 +792,10 @@
       "number": "59",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "CF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-09-05",
       "age": 28,
@@ -897,7 +940,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-08-06",
       "age": 27,
@@ -1904,6 +1947,86 @@
       }
     },
     {
+      "id": 687606,
+      "mlb_id": 687606,
+      "wikidata_id": "Q133970455",
+      "slug": "paxton-schultz",
+      "name": "Paxton Schultz",
+      "full_name": "Paxton Schultz",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1998-01-05",
+      "age": 28,
+      "birthplace": "Orem, Utah, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "April 20, 2025",
+      "debut_team": "Toronto Blue Jays",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Toronto Blue Jays",
+        "Washington Nationals",
+        "Cincinnati Reds"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q133970455",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paxton_Schultz",
+      "retrosheet_id": "schup002",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 13,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 13,
+          "games_started": 2,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "innings_outs": 74,
+          "hits": 27,
+          "runs": 16,
+          "earned_runs": 12,
+          "home_runs": 4,
+          "walks": 8,
+          "strikeouts": 28,
+          "hit_batters": 1,
+          "wild_pitches": 0,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 4.38,
+          "whip": 1.419
+        }
+      }
+    },
+    {
       "id": 686678,
       "mlb_id": 686678,
       "wikidata_id": "Q139676906",
@@ -2033,10 +2156,10 @@
       "number": "7",
       "position": {
         "name": "First Base",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "1B"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-12-07",
       "age": 28,

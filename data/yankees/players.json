@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T19:38:04.971937+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-03T17:11:05.541717+00:00",
+  "roster_as_of": "November 3, 2026",
   "team": {
     "id": 147,
     "name": "New York Yankees"
@@ -227,7 +227,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-02-07",
       "age": 27,
@@ -473,7 +473,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1990-03-28",
       "age": 36,

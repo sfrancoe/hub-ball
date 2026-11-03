@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:54:30.725361+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-03T17:27:30.120271+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 137,
     "name": "San Francisco Giants"
   },
   "roster_type": "open-current-roster",
-  "player_count": 49,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -91,10 +91,10 @@
       "number": "9",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "CF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-06-03",
       "age": 32,
@@ -195,88 +195,6 @@
       }
     },
     {
-      "id": 663941,
-      "mlb_id": 663941,
-      "wikidata_id": "Q29649499",
-      "slug": "tristan-beck",
-      "name": "Tristan Beck",
-      "full_name": "Tristan Beck",
-      "number": "43",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-06-24",
-      "age": 30,
-      "birthplace": "Corona",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 20, 2023",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Corona High School"
-          }
-        ]
-      },
-      "teams": [
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q29649499",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tristan_Beck",
-      "retrosheet_id": "beckt002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 71,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 71,
-          "games_started": 5,
-          "wins": 4,
-          "losses": 3,
-          "saves": 4,
-          "innings_outs": 473,
-          "hits": 144,
-          "runs": 72,
-          "earned_runs": 69,
-          "home_runs": 19,
-          "walks": 41,
-          "strikeouts": 123,
-          "hit_batters": 5,
-          "wild_pitches": 6,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.94,
-          "whip": 1.173
-        }
-      }
-    },
-    {
       "id": 682674,
       "mlb_id": 682674,
       "wikidata_id": "Q139893065",
@@ -330,7 +248,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-08-30",
       "age": 25,
@@ -396,85 +314,6 @@
       }
     },
     {
-      "id": 676130,
-      "mlb_id": 676130,
-      "wikidata_id": "Q113577922",
-      "slug": "jose-butto",
-      "name": "José Buttó",
-      "full_name": "José Buttó",
-      "number": "70",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1998-03-19",
-      "age": 28,
-      "birthplace": "Cumaná",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 21, 2022",
-      "debut_team": "New York Mets",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "New York Mets",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q113577922",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Butt%C3%B3",
-      "retrosheet_id": "buttj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 95,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 95,
-          "games_started": 15,
-          "wins": 13,
-          "losses": 10,
-          "saves": 4,
-          "innings_outs": 561,
-          "hits": 145,
-          "runs": 76,
-          "earned_runs": 74,
-          "home_runs": 15,
-          "walks": 95,
-          "strikeouts": 180,
-          "hit_batters": 7,
-          "wild_pitches": 5,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 3.56,
-          "whip": 1.283
-        }
-      }
-    },
-    {
       "id": 701852,
       "mlb_id": 701852,
       "wikidata_id": "Q140370472",
@@ -525,10 +364,10 @@
       "number": "26",
       "position": {
         "name": "Third Base",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "3B"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1993-04-28",
       "age": 33,
@@ -673,48 +512,6 @@
       }
     },
     {
-      "id": 701474,
-      "mlb_id": 701474,
-      "wikidata_id": "Q139198375",
-      "slug": "duncan-davitt",
-      "name": "Duncan Davitt",
-      "full_name": "Duncan Davitt",
-      "number": "76",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-09-23",
-      "age": 27,
-      "birthplace": "Des Moines, Iowa, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 10, 2026",
-      "debut_team": "Chicago White Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Chicago White Sox",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q139198375",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Duncan_Davitt",
-      "retrosheet_id": "david005",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 646240,
       "mlb_id": 646240,
       "wikidata_id": "Q17385826",
@@ -724,10 +521,10 @@
       "number": "16",
       "position": {
         "name": "First Base",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "1B"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-10-24",
       "age": 30,
@@ -1021,68 +818,6 @@
       }
     },
     {
-      "id": 695391,
-      "mlb_id": 695391,
-      "wikidata_id": "Q125820644",
-      "slug": "brett-harris",
-      "name": "Brett Harris",
-      "full_name": "Brett Harris",
-      "number": "29",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-06-24",
-      "age": 28,
-      "birthplace": "Arlington Heights, Illinois, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 3, 2024",
-      "debut_team": "Oakland Athletics",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Oakland Athletics",
-        "Athletics",
-        "Boston Red Sox",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q125820644",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Brett_Harris",
-      "retrosheet_id": "harrb002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 68,
-          "plate_appearances": 207,
-          "at_bats": 176,
-          "runs": 26,
-          "hits": 35,
-          "doubles": 8,
-          "triples": 0,
-          "home_runs": 3,
-          "runs_batted_in": 17,
-          "walks": 24,
-          "strikeouts": 46,
-          "stolen_bases": 1,
-          "caught_stealing": 3,
-          "average": 0.199,
-          "on_base_percentage": 0.306,
-          "slugging_percentage": 0.295,
-          "ops": 0.601
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 656529,
       "mlb_id": 656529,
       "wikidata_id": "Q72833501",
@@ -1219,7 +954,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1993-02-02",
       "age": 33,
@@ -1367,93 +1102,6 @@
       }
     },
     {
-      "id": 669270,
-      "mlb_id": 669270,
-      "wikidata_id": "Q66560359",
-      "slug": "joel-kuhnel",
-      "name": "Joel Kuhnel",
-      "full_name": "Joel Kuhnel",
-      "number": "54",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-02-19",
-      "age": 31,
-      "birthplace": "Goldsboro",
-      "height": "6' 5\"",
-      "weight": 258,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 16, 2019",
-      "debut_team": "Cincinnati Reds",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Central Arizona College"
-          }
-        ]
-      },
-      "teams": [
-        "Cincinnati Reds",
-        "Houston Astros",
-        "Tampa Bay Rays",
-        "Athletics",
-        "Milwaukee Brewers",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q66560359",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Joel_Kuhnel",
-      "retrosheet_id": "kuhnj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 82,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 82,
-          "games_started": 0,
-          "wins": 4,
-          "losses": 3,
-          "saves": 1,
-          "innings_outs": 281,
-          "hits": 103,
-          "runs": 61,
-          "earned_runs": 61,
-          "home_runs": 14,
-          "walks": 24,
-          "strikeouts": 76,
-          "hit_batters": 7,
-          "wild_pitches": 1,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.86,
-          "whip": 1.356
-        }
-      }
-    },
-    {
       "id": 808982,
       "mlb_id": 808982,
       "wikidata_id": "Q27952219",
@@ -1520,47 +1168,6 @@
           "slugging_percentage": 0.391,
           "ops": 0.715
         },
-        "pitching": null
-      }
-    },
-    {
-      "id": 675920,
-      "mlb_id": 675920,
-      "wikidata_id": "Q141215972",
-      "slug": "seth-lonsway",
-      "name": "Seth Lonsway",
-      "full_name": "Seth Lonsway",
-      "number": "86",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-10-07",
-      "age": 28,
-      "birthplace": "St. Marys, Ohio, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 29, 2026",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q141215972",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Seth_Lonsway",
-      "retrosheet_id": "lonss001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
         "pitching": null
       }
     },
@@ -1682,7 +1289,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-02-26",
       "age": 25,
@@ -1828,47 +1435,6 @@
       }
     },
     {
-      "id": 681439,
-      "mlb_id": 681439,
-      "wikidata_id": "Q140992058",
-      "slug": "zach-morgan",
-      "name": "Zach Morgan",
-      "full_name": "Zach Morgan",
-      "number": "80",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-03-30",
-      "age": 26,
-      "birthplace": "Stockton, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q140992058",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Zach_Morgan",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 700280,
       "mlb_id": 700280,
       "wikidata_id": null,
@@ -1922,7 +1488,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-05-05",
       "age": 29,
@@ -2029,47 +1595,6 @@
       }
     },
     {
-      "id": 683679,
-      "mlb_id": 683679,
-      "wikidata_id": "Q139749938",
-      "slug": "jesus-rodriguez",
-      "name": "Jesús Rodríguez",
-      "full_name": "Jesús Rodríguez",
-      "number": "79",
-      "position": {
-        "name": "Catcher",
-        "group": "Pitcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "2002-04-23",
-      "age": 24,
-      "birthplace": "La Victoria, Venezuela",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 4, 2026",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q139749938",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Rodr%C3%ADguez_%28baseball%29",
-      "retrosheet_id": "rodrj010",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 678495,
       "mlb_id": 678495,
       "wikidata_id": "Q113567798",
@@ -2082,7 +1607,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-09-05",
       "age": 27,
@@ -2145,6 +1670,47 @@
           "era": 3.06,
           "whip": 1.068
         }
+      }
+    },
+    {
+      "id": 683679,
+      "mlb_id": 683679,
+      "wikidata_id": "Q139749938",
+      "slug": "jesus-rodriguez",
+      "name": "Jesús Rodríguez",
+      "full_name": "Jesús Rodríguez",
+      "number": "79",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2002-04-23",
+      "age": 24,
+      "birthplace": "La Victoria, Venezuela",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "May 4, 2026",
+      "debut_team": "San Francisco Giants",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q139749938",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Rodr%C3%ADguez_%28baseball%29",
+      "retrosheet_id": "rodrj010",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -2226,85 +1792,6 @@
       }
     },
     {
-      "id": 665665,
-      "mlb_id": 665665,
-      "wikidata_id": "Q108700592",
-      "slug": "reiver-sanmartin",
-      "name": "Reiver Sanmartín",
-      "full_name": "Reiver Sanmartin",
-      "number": "48",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-04-15",
-      "age": 30,
-      "birthplace": "Cartagena",
-      "height": "6' 2\"",
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 27, 2021",
-      "debut_team": "Cincinnati Reds",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Cincinnati Reds",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q108700592",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Reiver_Sanmart%C3%ADn",
-      "retrosheet_id": "sanmr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 62,
-          "plate_appearances": 8,
-          "at_bats": 8,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 6,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 62,
-          "games_started": 6,
-          "wins": 7,
-          "losses": 4,
-          "saves": 0,
-          "innings_outs": 253,
-          "hits": 97,
-          "runs": 59,
-          "earned_runs": 53,
-          "home_runs": 10,
-          "walks": 42,
-          "strikeouts": 73,
-          "hit_batters": 0,
-          "wild_pitches": 6,
-          "balks": 3,
-          "complete_games": 0,
-          "era": 5.66,
-          "whip": 1.648
-        }
-      }
-    },
-    {
       "id": 669477,
       "mlb_id": 669477,
       "wikidata_id": "Q118247254",
@@ -2314,10 +1801,10 @@
       "number": "10",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-03-01",
       "age": 27,
@@ -2530,10 +2017,10 @@
       "number": "6",
       "position": {
         "name": "Catcher",
-        "group": "Pitcher",
+        "group": "Catcher",
         "abbreviation": "C"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-05-14",
       "age": 25,
@@ -2581,7 +2068,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-06-08",
       "age": 25,
@@ -2820,7 +2307,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-10-20",
       "age": 26,
@@ -2886,66 +2373,6 @@
       }
     },
     {
-      "id": 694376,
-      "mlb_id": 694376,
-      "wikidata_id": "Q114498034",
-      "slug": "shay-whitcomb",
-      "name": "Shay Whitcomb",
-      "full_name": "Shay Whitcomb",
-      "number": "13",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-09-28",
-      "age": 28,
-      "birthplace": "Thousand Oaks, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 17, 2024",
-      "debut_team": "Houston Astros",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Houston Astros",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q114498034",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Shay_Whitcomb",
-      "retrosheet_id": "whits003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 40,
-          "plate_appearances": 78,
-          "at_bats": 73,
-          "runs": 5,
-          "hits": 13,
-          "doubles": 3,
-          "triples": 0,
-          "home_runs": 1,
-          "runs_batted_in": 6,
-          "walks": 5,
-          "strikeouts": 18,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.178,
-          "on_base_percentage": 0.231,
-          "slugging_percentage": 0.26,
-          "ops": 0.491
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 592858,
       "mlb_id": 592858,
       "wikidata_id": "Q28924877",
@@ -2958,7 +2385,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1992-11-09",
       "age": 33,
@@ -3084,7 +2511,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-02-20",
       "age": 28,

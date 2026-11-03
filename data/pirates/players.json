@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T19:51:00.962283+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-03T17:24:04.310440+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 134,
     "name": "Pittsburgh Pirates"
@@ -175,6 +175,70 @@
           "era": 3.92,
           "whip": 1.232
         }
+      }
+    },
+    {
+      "id": 668731,
+      "mlb_id": 668731,
+      "wikidata_id": "Q104162085",
+      "slug": "akil-baddoo",
+      "name": "Akil Baddoo",
+      "full_name": "Akil Baddoo",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "LF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1998-08-16",
+      "age": 28,
+      "birthplace": "Silver Spring",
+      "height": "6' 1\"",
+      "weight": 209,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "April 4, 2021",
+      "debut_team": "Detroit Tigers",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Salem High School"
+          }
+        ]
+      },
+      "teams": [
+        "Detroit Tigers",
+        "Pittsburgh Pirates"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q104162085",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Akil_Baddoo",
+      "retrosheet_id": "badda001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 347,
+          "plate_appearances": 1143,
+          "at_bats": 1016,
+          "runs": 137,
+          "hits": 228,
+          "doubles": 39,
+          "triples": 12,
+          "home_runs": 28,
+          "runs_batted_in": 104,
+          "walks": 120,
+          "strikeouts": 307,
+          "stolen_bases": 43,
+          "caught_stealing": 13,
+          "average": 0.224,
+          "on_base_percentage": 0.305,
+          "slugging_percentage": 0.369,
+          "ops": 0.674
+        },
+        "pitching": null
       }
     },
     {
@@ -1286,7 +1350,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-04-04",
       "age": 30,
@@ -1458,89 +1522,6 @@
           "ops": 0.698
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 676755,
-      "mlb_id": 676755,
-      "wikidata_id": "Q106766480",
-      "slug": "isaac-mattson",
-      "name": "Isaac Mattson",
-      "full_name": "Isaac Mattson",
-      "number": "72",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-07-14",
-      "age": 31,
-      "birthplace": "Erie",
-      "height": "6' 2\"",
-      "weight": 203,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 7, 2021",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of Pittsburgh"
-          }
-        ]
-      },
-      "teams": [
-        "Baltimore Orioles",
-        "Pittsburgh Pirates"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q106766480",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Mattson",
-      "retrosheet_id": "matti001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 51,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 51,
-          "games_started": 0,
-          "wins": 3,
-          "losses": 3,
-          "saves": 0,
-          "innings_outs": 172,
-          "hits": 41,
-          "runs": 20,
-          "earned_runs": 19,
-          "home_runs": 4,
-          "walks": 29,
-          "strikeouts": 54,
-          "hit_batters": 3,
-          "wild_pitches": 1,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 2.98,
-          "whip": 1.221
-        }
       }
     },
     {
@@ -2010,10 +1991,10 @@
       "number": "13",
       "position": {
         "name": "Catcher",
-        "group": "Pitcher",
+        "group": "Catcher",
         "abbreviation": "C"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-05-26",
       "age": 26,

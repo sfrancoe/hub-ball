@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:48:27.393423+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-03T17:21:30.273842+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 120,
     "name": "Washington Nationals"
   },
   "roster_type": "open-current-roster",
-  "player_count": 45,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1331,10 +1331,10 @@
       "number": "14",
       "position": {
         "name": "Catcher",
-        "group": "Pitcher",
+        "group": "Catcher",
         "abbreviation": "C"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-01-15",
       "age": 28,
@@ -1689,84 +1689,6 @@
       }
     },
     {
-      "id": 680730,
-      "mlb_id": 680730,
-      "wikidata_id": "Q125766408",
-      "slug": "mitchell-parker",
-      "name": "Mitchell Parker",
-      "full_name": "Mitchell Parker",
-      "number": "70",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1999-09-27",
-      "age": 27,
-      "birthplace": "Albuquerque",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "April 15, 2024",
-      "debut_team": "Washington Nationals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q125766408",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Mitchell_Parker",
-      "retrosheet_id": "parkm001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 62,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 62,
-          "games_started": 59,
-          "wins": 16,
-          "losses": 26,
-          "saves": 1,
-          "innings_outs": 947,
-          "hits": 332,
-          "runs": 198,
-          "earned_runs": 176,
-          "home_runs": 43,
-          "walks": 101,
-          "strikeouts": 236,
-          "hit_batters": 6,
-          "wild_pitches": 10,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.02,
-          "whip": 1.372
-        }
-      }
-    },
-    {
       "id": 691384,
       "mlb_id": 691384,
       "wikidata_id": "Q139737081",
@@ -1846,84 +1768,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 676571,
-      "mlb_id": 676571,
-      "wikidata_id": "Q135225177",
-      "slug": "pj-poulin",
-      "name": "PJ Poulin",
-      "full_name": "PJ Poulin",
-      "number": "50",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1996-07-25",
-      "age": 30,
-      "birthplace": "Marion, Massachusetts, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "August 5, 2025",
-      "debut_team": "Washington Nationals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q135225177",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/PJ_Poulin",
-      "retrosheet_id": "poulp001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 28,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 28,
-          "games_started": 0,
-          "wins": 2,
-          "losses": 1,
-          "saves": 1,
-          "innings_outs": 74,
-          "hits": 23,
-          "runs": 10,
-          "earned_runs": 10,
-          "home_runs": 2,
-          "walks": 13,
-          "strikeouts": 27,
-          "hit_batters": 2,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.65,
-          "whip": 1.459
-        }
       }
     },
     {
@@ -2107,85 +1951,6 @@
       }
     },
     {
-      "id": 687606,
-      "mlb_id": 687606,
-      "wikidata_id": "Q133970455",
-      "slug": "paxton-schultz",
-      "name": "Paxton Schultz",
-      "full_name": "Paxton Schultz",
-      "number": "75",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-01-05",
-      "age": 28,
-      "birthplace": "Orem, Utah, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 20, 2025",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Toronto Blue Jays",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q133970455",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Paxton_Schultz",
-      "retrosheet_id": "schup002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 13,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 13,
-          "games_started": 2,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 74,
-          "hits": 27,
-          "runs": 16,
-          "earned_runs": 12,
-          "home_runs": 4,
-          "walks": 8,
-          "strikeouts": 28,
-          "hit_batters": 1,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.38,
-          "whip": 1.419
-        }
-      }
-    },
-    {
       "id": 688692,
       "mlb_id": 688692,
       "wikidata_id": "Q141249995",
@@ -2271,66 +2036,6 @@
         "through_season": 2025,
         "status": "not_in_2025_release",
         "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 677588,
-      "mlb_id": 677588,
-      "wikidata_id": "Q121225205",
-      "slug": "jose-tena",
-      "name": "José Tena",
-      "full_name": "José Tena",
-      "number": "8",
-      "position": {
-        "name": "Designated Hitter",
-        "group": "Hitter",
-        "abbreviation": "DH"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-03-20",
-      "age": 25,
-      "birthplace": "San Cristóbal, Dominican Republic",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "August 5, 2023",
-      "debut_team": "Cleveland Guardians",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Cleveland Guardians",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q121225205",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Tena_%28baseball%29",
-      "retrosheet_id": "tenaj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 112,
-          "plate_appearances": 371,
-          "at_bats": 344,
-          "runs": 35,
-          "hits": 87,
-          "doubles": 20,
-          "triples": 2,
-          "home_runs": 3,
-          "runs_batted_in": 34,
-          "walks": 25,
-          "strikeouts": 91,
-          "stolen_bases": 9,
-          "caught_stealing": 2,
-          "average": 0.253,
-          "on_base_percentage": 0.305,
-          "slugging_percentage": 0.349,
-          "ops": 0.654
-        },
         "pitching": null
       }
     },
@@ -2517,85 +2222,6 @@
       }
     },
     {
-      "id": 686610,
-      "mlb_id": 686610,
-      "wikidata_id": "Q112127335",
-      "slug": "ken-waldichuk",
-      "name": "Ken Waldichuk",
-      "full_name": "Ken Waldichuk",
-      "number": "52",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1998-01-08",
-      "age": 28,
-      "birthplace": "San Diego, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 1, 2022",
-      "debut_team": "Oakland Athletics",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Oakland Athletics",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q112127335",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Ken_Waldichuk",
-      "retrosheet_id": "waldk003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 42,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 42,
-          "games_started": 29,
-          "wins": 6,
-          "losses": 11,
-          "saves": 1,
-          "innings_outs": 527,
-          "hits": 181,
-          "runs": 112,
-          "earned_runs": 103,
-          "home_runs": 29,
-          "walks": 81,
-          "strikeouts": 165,
-          "hit_batters": 13,
-          "wild_pitches": 8,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 5.28,
-          "whip": 1.491
-        }
-      }
-    },
-    {
       "id": 663362,
       "mlb_id": 663362,
       "wikidata_id": "Q119938251",
@@ -2608,7 +2234,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-09-26",
       "age": 30,

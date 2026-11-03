@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:52:08.404214+00:00",
+  "generated_at": "2026-11-03T17:25:08.550688+00:00",
   "roster_as_of": "November 2, 2026",
   "team": {
     "id": 109,
     "name": "Arizona Diamondbacks"
   },
   "roster_type": "open-current-roster",
-  "player_count": 34,
+  "player_count": 33,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1137,8 +1137,8 @@
       }
     },
     {
-      "id": 1920900549,
-      "mlb_id": null,
+      "id": 691441,
+      "mlb_id": 691441,
       "wikidata_id": "Q127045935",
       "slug": "cristian-mena",
       "name": "Cristian Mena",
@@ -1518,7 +1518,7 @@
       "is_active_roster": false,
       "birth_date": "1999-10-22",
       "age": 27,
-      "birthplace": "Santo Domingo, Dominican Republic",
+      "birthplace": "Santo Domingo",
       "height": null,
       "weight": null,
       "bats": "Switch",
@@ -1760,8 +1760,8 @@
       }
     },
     {
-      "id": 1906695535,
-      "mlb_id": null,
+      "id": 685314,
+      "mlb_id": 685314,
       "wikidata_id": "Q122222874",
       "slug": "andrew-saalfrank",
       "name": "Andrew Saalfrank",
@@ -1834,88 +1834,6 @@
           "complete_games": 0,
           "era": 1.79,
           "whip": 1.14
-        }
-      }
-    },
-    {
-      "id": 656976,
-      "mlb_id": 656976,
-      "wikidata_id": "Q30110121",
-      "slug": "pavin-smith",
-      "name": "Pavin Smith",
-      "full_name": "Pavin Smith",
-      "number": "26",
-      "position": {
-        "name": "First Base",
-        "group": "Infielder",
-        "abbreviation": "1B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-02-06",
-      "age": 30,
-      "birthplace": "Jupiter",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 12, 2020",
-      "debut_team": "Arizona Diamondbacks",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Palm Beach Gardens Community High School"
-          }
-        ]
-      },
-      "teams": [
-        "Arizona Diamondbacks"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q30110121",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Pavin_Smith",
-      "retrosheet_id": "smitp002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 448,
-          "plate_appearances": 1540,
-          "at_bats": 1352,
-          "runs": 187,
-          "hits": 333,
-          "doubles": 69,
-          "triples": 6,
-          "home_runs": 45,
-          "runs_batted_in": 180,
-          "walks": 169,
-          "strikeouts": 349,
-          "stolen_bases": 7,
-          "caught_stealing": 3,
-          "average": 0.246,
-          "on_base_percentage": 0.33,
-          "slugging_percentage": 0.406,
-          "ops": 0.736
-        },
-        "pitching": {
-          "games": 1,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 3,
-          "hits": 0,
-          "runs": 0,
-          "earned_runs": 0,
-          "home_runs": 0,
-          "walks": 1,
-          "strikeouts": 0,
-          "hit_batters": 1,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 0.0,
-          "whip": 1.0
         }
       }
     },

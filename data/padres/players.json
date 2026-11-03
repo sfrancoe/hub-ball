@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:54:04.109886+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-03T17:27:04.939937+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 135,
     "name": "San Diego Padres"
   },
   "roster_type": "open-current-roster",
-  "player_count": 32,
+  "player_count": 33,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -437,10 +437,10 @@
       "number": "48",
       "position": {
         "name": "Catcher",
-        "group": "Pitcher",
+        "group": "Catcher",
         "abbreviation": "C"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-02-19",
       "age": 28,
@@ -604,6 +604,47 @@
           "slugging_percentage": 0.376,
           "ops": 0.685
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 692294,
+      "mlb_id": 692294,
+      "wikidata_id": null,
+      "slug": "luis-gutierrez",
+      "name": "Luis Gutierrez",
+      "full_name": "Luis Gutierrez",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2003-07-31",
+      "age": 23,
+      "birthplace": "Cabimas, Venezuela",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Diego Padres"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Gutierrez_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -810,7 +851,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-10-19",
       "age": 30,
@@ -1995,7 +2036,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-11-03",
-      "age": 27,
+      "age": 28,
       "birthplace": "Bisonó",
       "height": "6' 0\"",
       "weight": null,

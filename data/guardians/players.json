@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T19:41:30.355089+00:00",
+  "generated_at": "2026-11-03T17:14:28.938638+00:00",
   "roster_as_of": "October 30, 2026",
   "team": {
     "id": 114,
@@ -342,7 +342,14 @@
       "debut_team": "Cleveland Guardians",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "Mission Viejo High School"
+          },
+          {
+            "name": "California State University, Fullerton"
+          }
+        ]
       },
       "teams": [
         "Cleveland Guardians"

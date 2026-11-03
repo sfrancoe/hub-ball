@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:49:08.087982+00:00",
-  "roster_as_of": null,
+  "generated_at": "2026-11-03T17:22:11.630196+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 112,
     "name": "Chicago Cubs"
   },
   "roster_type": "open-current-roster",
-  "player_count": 36,
+  "player_count": 34,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -357,74 +357,6 @@
       }
     },
     {
-      "id": 592122,
-      "mlb_id": 592122,
-      "wikidata_id": "Q7859942",
-      "slug": "tyler-austin",
-      "name": "Tyler Austin",
-      "full_name": "Tyler Austin",
-      "number": "17",
-      "position": {
-        "name": "First Base",
-        "group": "Pitcher",
-        "abbreviation": "1B"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1991-09-06",
-      "age": 35,
-      "birthplace": "Conyers",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 13, 2016",
-      "debut_team": "New York Yankees",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Heritage High School"
-          }
-        ]
-      },
-      "teams": [
-        "New York Yankees",
-        "Minnesota Twins",
-        "San Francisco Giants",
-        "Milwaukee Brewers",
-        "Yokohama DeNA BayStars",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q7859942",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tyler_Austin",
-      "retrosheet_id": "austt001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 209,
-          "plate_appearances": 583,
-          "at_bats": 521,
-          "runs": 75,
-          "hits": 114,
-          "doubles": 20,
-          "triples": 1,
-          "home_runs": 33,
-          "runs_batted_in": 91,
-          "walks": 54,
-          "strikeouts": 215,
-          "stolen_bases": 4,
-          "caught_stealing": 2,
-          "average": 0.219,
-          "on_base_percentage": 0.292,
-          "slugging_percentage": 0.451,
-          "ops": 0.743
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 608324,
       "mlb_id": 608324,
       "wikidata_id": "Q16206952",
@@ -505,7 +437,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-09-09",
       "age": 27,
@@ -1010,93 +942,8 @@
       }
     },
     {
-      "id": 640451,
-      "mlb_id": 640451,
-      "wikidata_id": "Q17037407",
-      "slug": "hunter-harvey",
-      "name": "Hunter Harvey",
-      "full_name": "Hunter Harvey",
-      "number": "45",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1994-09-02",
-      "age": 32,
-      "birthplace": "Catawba",
-      "height": "6' 3\"",
-      "weight": 174,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 17, 2019",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Bandys High School"
-          }
-        ]
-      },
-      "teams": [
-        "Baltimore Orioles",
-        "Washington Nationals",
-        "Kansas City Royals",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q17037407",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Hunter_Harvey",
-      "retrosheet_id": "harvh001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 182,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 182,
-          "games_started": 0,
-          "wins": 10,
-          "losses": 11,
-          "saves": 11,
-          "innings_outs": 555,
-          "hits": 153,
-          "runs": 72,
-          "earned_runs": 64,
-          "home_runs": 17,
-          "walks": 51,
-          "strikeouts": 201,
-          "hit_batters": 8,
-          "wild_pitches": 8,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.11,
-          "whip": 1.103
-        }
-      }
-    },
-    {
-      "id": 1912877239,
-      "mlb_id": null,
+      "id": 687863,
+      "mlb_id": 687863,
       "wikidata_id": "Q126071032",
       "slug": "porter-hodge",
       "name": "Porter Hodge",
@@ -1107,7 +954,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-02-21",
       "age": 25,
@@ -1330,7 +1177,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-08-20",
       "age": 25,
@@ -1408,7 +1255,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-03-19",
       "age": 28,
@@ -1449,7 +1296,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1993-03-25",
       "age": 33,
@@ -1538,7 +1385,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1990-10-10",
       "age": 36,
@@ -1734,6 +1581,87 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
+      }
+    },
+    {
+      "id": 679358,
+      "mlb_id": 679358,
+      "wikidata_id": "Q127277829",
+      "slug": "eric-orze",
+      "name": "Eric Orze",
+      "full_name": "Eric Orze",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1997-08-21",
+      "age": 29,
+      "birthplace": "Elk Grove, Illinois, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "July 8, 2024",
+      "debut_team": "New York Mets",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "New York Mets",
+        "Tampa Bay Rays",
+        "Minnesota Twins",
+        "Chicago Cubs"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q127277829",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Orze",
+      "retrosheet_id": "orzee001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 35,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 35,
+          "games_started": 0,
+          "wins": 1,
+          "losses": 2,
+          "saves": 3,
+          "innings_outs": 130,
+          "hits": 41,
+          "runs": 20,
+          "earned_runs": 18,
+          "home_runs": 5,
+          "walks": 21,
+          "strikeouts": 41,
+          "hit_batters": 4,
+          "wild_pitches": 0,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 3.74,
+          "whip": 1.431
+        }
       }
     },
     {
@@ -2102,7 +2030,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1995-07-11",
       "age": 31,
@@ -2236,89 +2164,6 @@
           "ops": 0.732
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 573204,
-      "mlb_id": 573204,
-      "wikidata_id": "Q13417049",
-      "slug": "caleb-thielbar",
-      "name": "Caleb Thielbar",
-      "full_name": "Caleb Thielbar",
-      "number": "24",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1987-01-31",
-      "age": 39,
-      "birthplace": "Northfield",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "May 20, 2013",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "South Dakota State University"
-          }
-        ]
-      },
-      "teams": [
-        "Minnesota Twins",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q13417049",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Caleb_Thielbar",
-      "retrosheet_id": "thiec001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 414,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 414,
-          "games_started": 0,
-          "wins": 26,
-          "losses": 16,
-          "saves": 5,
-          "innings_outs": 1134,
-          "hits": 311,
-          "runs": 151,
-          "earned_runs": 137,
-          "home_runs": 38,
-          "walks": 120,
-          "strikeouts": 403,
-          "hit_batters": 4,
-          "wild_pitches": 11,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 3.26,
-          "whip": 1.14
-        }
       }
     },
     {

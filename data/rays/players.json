@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T19:39:12.710418+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-03T17:12:12.533801+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 139,
     "name": "Tampa Bay Rays"
@@ -20,6 +20,47 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
+    {
+      "id": 693739,
+      "mlb_id": 693739,
+      "wikidata_id": null,
+      "slug": "alexander-alberto",
+      "name": "Alexander Alberto",
+      "full_name": "Alexander Alberto",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Tampa Bay Rays"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Alberto",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
     {
       "id": 666018,
       "mlb_id": 666018,
@@ -80,17 +121,17 @@
       }
     },
     {
-      "id": 1960378667,
-      "mlb_id": null,
+      "id": 699130,
+      "mlb_id": 699130,
       "wikidata_id": null,
       "slug": "jadher-areinamo",
       "name": "Jadher Areinamo",
       "full_name": "Jadher Areinamo",
       "number": "45",
       "position": {
-        "name": "Infielder",
+        "name": "Second Base",
         "group": "Infielder",
-        "abbreviation": "IF"
+        "abbreviation": "2B"
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
@@ -873,86 +914,6 @@
       }
     },
     {
-      "id": 669169,
-      "mlb_id": 669169,
-      "wikidata_id": "Q108576609",
-      "slug": "jonathan-heasley",
-      "name": "Jonathan Heasley",
-      "full_name": "Jonathan Heasley",
-      "number": "68",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1997-01-27",
-      "age": 29,
-      "birthplace": "Plano, Texas, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 17, 2021",
-      "debut_team": "Kansas City Royals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Kansas City Royals",
-        "Baltimore Orioles",
-        "Tampa Bay Rays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q108576609",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jonathan_Heasley",
-      "retrosheet_id": "heasj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 40,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 40,
-          "games_started": 24,
-          "wins": 5,
-          "losses": 12,
-          "saves": 0,
-          "innings_outs": 417,
-          "hits": 150,
-          "runs": 99,
-          "earned_runs": 91,
-          "home_runs": 29,
-          "walks": 55,
-          "strikeouts": 89,
-          "hit_batters": 10,
-          "wild_pitches": 11,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.89,
-          "whip": 1.475
-        }
-      }
-    },
-    {
       "id": 689414,
       "mlb_id": 689414,
       "wikidata_id": "Q131427868",
@@ -1402,72 +1363,6 @@
       }
     },
     {
-      "id": 663611,
-      "mlb_id": 663611,
-      "wikidata_id": "Q30163049",
-      "slug": "nick-madrigal",
-      "name": "Nick Madrigal",
-      "full_name": "Nick Madrigal",
-      "number": "20",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-03-05",
-      "age": 29,
-      "birthplace": "Sacramento",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 31, 2020",
-      "debut_team": "Chicago White Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Elk Grove High School"
-          }
-        ]
-      },
-      "teams": [
-        "Chicago White Sox",
-        "Chicago Cubs",
-        "Los Angeles Angels",
-        "Tampa Bay Rays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q30163049",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_Madrigal",
-      "retrosheet_id": "madrn001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 285,
-          "plate_appearances": 940,
-          "at_bats": 868,
-          "runs": 96,
-          "hits": 238,
-          "doubles": 39,
-          "triples": 5,
-          "home_runs": 4,
-          "runs_batted_in": 77,
-          "walks": 43,
-          "strikeouts": 85,
-          "stolen_bases": 17,
-          "caught_stealing": 6,
-          "average": 0.274,
-          "on_base_percentage": 0.323,
-          "slugging_percentage": 0.344,
-          "ops": 0.667
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 571927,
       "mlb_id": 571927,
       "wikidata_id": "Q16610494",
@@ -1648,10 +1543,10 @@
       "number": "29",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-09-07",
       "age": 26,
@@ -1772,7 +1667,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-08-21",
       "age": 29,
@@ -2364,6 +2259,70 @@
       }
     },
     {
+      "id": 669261,
+      "mlb_id": 669261,
+      "wikidata_id": "Q110231233",
+      "slug": "jack-suwinski",
+      "name": "Jack Suwinski",
+      "full_name": "Jack Suwinski",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "RF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1998-07-29",
+      "age": 28,
+      "birthplace": "Chicago",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "April 26, 2022",
+      "debut_team": "Pittsburgh Pirates",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "William Howard Taft High School"
+          }
+        ]
+      },
+      "teams": [
+        "Pittsburgh Pirates",
+        "Tampa Bay Rays"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q110231233",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Suwinski",
+      "retrosheet_id": "suwij001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 397,
+          "plate_appearances": 1361,
+          "at_bats": 1170,
+          "runs": 152,
+          "hits": 233,
+          "doubles": 47,
+          "triples": 2,
+          "home_runs": 57,
+          "runs_batted_in": 148,
+          "walks": 167,
+          "strikeouts": 422,
+          "stolen_bases": 33,
+          "caught_stealing": 6,
+          "average": 0.199,
+          "on_base_percentage": 0.305,
+          "slugging_percentage": 0.389,
+          "ops": 0.694
+        },
+        "pitching": null
+      }
+    },
+    {
       "id": 670955,
       "mlb_id": 670955,
       "wikidata_id": "Q106658277",
@@ -2376,7 +2335,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-01-09",
       "age": 28,
@@ -2513,7 +2472,7 @@
       "wikidata_id": "Q106939281",
       "slug": "taylor-walls",
       "name": "Taylor Walls",
-      "full_name": "Coach Tyler Wall",
+      "full_name": "Taylor Walls",
       "number": "6",
       "position": {
         "name": "Shortstop",

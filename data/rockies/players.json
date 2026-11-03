@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:52:36.377140+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-03T17:25:32.993360+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 115,
     "name": "Colorado Rockies"
   },
   "roster_type": "open-current-roster",
-  "player_count": 42,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,47 +20,6 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
-    {
-      "id": 687060,
-      "mlb_id": 687060,
-      "wikidata_id": "Q141169186",
-      "slug": "blake-adams",
-      "name": "Blake Adams",
-      "full_name": "Blake Adams",
-      "number": "57",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-09-11",
-      "age": 26,
-      "birthplace": "Springdale, Arkansas, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 24, 2026",
-      "debut_team": "Colorado Rockies",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q141169186",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Blake_Adams_%28baseball%29",
-      "retrosheet_id": "adamb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
     {
       "id": 690279,
       "mlb_id": 690279,
@@ -379,8 +338,8 @@
       }
     },
     {
-      "id": 1923051240,
-      "mlb_id": null,
+      "id": 685326,
+      "mlb_id": 685326,
       "wikidata_id": "Q135931529",
       "slug": "mccade-brown",
       "name": "McCade Brown",
@@ -391,7 +350,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-08-15",
       "age": 26,
@@ -466,10 +425,10 @@
       "number": "23",
       "position": {
         "name": "Designated Hitter",
-        "group": "Pitcher",
+        "group": "Hitter",
         "abbreviation": "DH"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1992-01-04",
       "age": 34,
@@ -639,47 +598,6 @@
           "era": 9.0,
           "whip": 2.0
         }
-      }
-    },
-    {
-      "id": 682769,
-      "mlb_id": 682769,
-      "wikidata_id": "Q136737535",
-      "slug": "eiberson-castellano",
-      "name": "Eiberson Castellano",
-      "full_name": "Eiberson Castellano",
-      "number": "55",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-05-09",
-      "age": 25,
-      "birthplace": "Maracaibo, Venezuela",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 14, 2026",
-      "debut_team": "Colorado Rockies",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q136737535",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Eiberson_Castellano",
-      "retrosheet_id": "caste002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
       }
     },
     {
@@ -854,7 +772,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-10-26",
       "age": 25,
@@ -1431,7 +1349,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2004-04-03",
       "age": 22,
@@ -2032,85 +1950,6 @@
       }
     },
     {
-      "id": 1923167986,
-      "mlb_id": null,
-      "wikidata_id": "Q135491657",
-      "slug": "pierson-ohl",
-      "name": "Pierson Ohl",
-      "full_name": "Pierson Ohl",
-      "number": "40",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1999-09-10",
-      "age": 27,
-      "birthplace": "Moorpark, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 29, 2025",
-      "debut_team": "Minnesota Twins",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Minnesota Twins",
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q135491657",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierson_Ohl",
-      "retrosheet_id": "ohl-p001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 14,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 14,
-          "games_started": 3,
-          "wins": 0,
-          "losses": 3,
-          "saves": 0,
-          "innings_outs": 90,
-          "hits": 38,
-          "runs": 22,
-          "earned_runs": 17,
-          "home_runs": 5,
-          "walks": 7,
-          "strikeouts": 27,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.1,
-          "whip": 1.5
-        }
-      }
-    },
-    {
       "id": 1934832883,
       "mlb_id": null,
       "wikidata_id": null,
@@ -2123,7 +1962,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": null,
       "age": null,
@@ -2248,107 +2087,6 @@
         "through_season": 2025,
         "status": "not_in_2025_release",
         "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 669298,
-      "mlb_id": 669298,
-      "wikidata_id": "Q140027923",
-      "slug": "tj-shook",
-      "name": "TJ Shook",
-      "full_name": "TJ Shook",
-      "number": "52",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-05-29",
-      "age": 28,
-      "birthplace": "Columbia, South Carolina, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 2, 2026",
-      "debut_team": "Colorado Rockies",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q140027923",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/TJ_Shook",
-      "retrosheet_id": "shoot001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 677060,
-      "mlb_id": 677060,
-      "wikidata_id": "Q135232227",
-      "slug": "chad-stevens",
-      "name": "Chad Stevens",
-      "full_name": "Chad Stevens",
-      "number": "39",
-      "position": {
-        "name": "Second Base",
-        "group": "Infielder",
-        "abbreviation": "2B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-02-03",
-      "age": 27,
-      "birthplace": "Walnut Creek, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 3, 2025",
-      "debut_team": "Los Angeles Angels",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Los Angeles Angels",
-        "Colorado Rockies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q135232227",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Chad_Stevens_%28baseball%29",
-      "retrosheet_id": "stevc002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 5,
-          "plate_appearances": 14,
-          "at_bats": 13,
-          "runs": 1,
-          "hits": 2,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 7,
-          "stolen_bases": 0,
-          "caught_stealing": 1,
-          "average": 0.154,
-          "on_base_percentage": 0.154,
-          "slugging_percentage": 0.154,
-          "ops": 0.308
-        },
         "pitching": null
       }
     },

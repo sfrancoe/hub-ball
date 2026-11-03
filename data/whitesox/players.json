@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:41:05.442910+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-03T17:14:04.532298+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 145,
     "name": "Chicago White Sox"
   },
   "roster_type": "open-current-roster",
-  "player_count": 40,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -562,94 +562,6 @@
           "complete_games": 0,
           "era": 3.87,
           "whip": 1.389
-        }
-      }
-    },
-    {
-      "id": 681066,
-      "mlb_id": 681066,
-      "wikidata_id": "Q107493653",
-      "slug": "ky-bush",
-      "name": "Ky Bush",
-      "full_name": "Ky Bush",
-      "number": "57",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-11-12",
-      "age": 26,
-      "birthplace": "Ogden",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "August 5, 2024",
-      "debut_team": "Chicago White Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Fremont High School"
-          },
-          {
-            "name": "Central Arizona College"
-          },
-          {
-            "name": "Saint Mary's College"
-          }
-        ]
-      },
-      "teams": [
-        "Chicago White Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q107493653",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Ky_Bush",
-      "retrosheet_id": "bushk001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 4,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 4,
-          "games_started": 4,
-          "wins": 0,
-          "losses": 3,
-          "saves": 0,
-          "innings_outs": 53,
-          "hits": 20,
-          "runs": 11,
-          "earned_runs": 11,
-          "home_runs": 2,
-          "walks": 16,
-          "strikeouts": 11,
-          "hit_batters": 1,
-          "wild_pitches": 2,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.6,
-          "whip": 2.038
         }
       }
     },
@@ -1771,6 +1683,67 @@
       }
     },
     {
+      "id": 688363,
+      "mlb_id": 688363,
+      "wikidata_id": "Q125020449",
+      "slug": "graham-pauley",
+      "name": "Graham Pauley",
+      "full_name": "Graham Pauley",
+      "number": "--",
+      "position": {
+        "name": "Third Base",
+        "group": "Infielder",
+        "abbreviation": "3B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2000-09-24",
+      "age": 26,
+      "birthplace": "Alpharetta, Georgia, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": "March 20, 2024",
+      "debut_team": "San Diego Padres",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Diego Padres",
+        "Miami Marlins",
+        "Chicago White Sox"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q125020449",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Pauley",
+      "retrosheet_id": "paulg001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 75,
+          "plate_appearances": 216,
+          "at_bats": 193,
+          "runs": 22,
+          "hits": 40,
+          "doubles": 9,
+          "triples": 1,
+          "home_runs": 6,
+          "runs_batted_in": 16,
+          "walks": 21,
+          "strikeouts": 51,
+          "stolen_bases": 2,
+          "caught_stealing": 0,
+          "average": 0.207,
+          "on_base_percentage": 0.284,
+          "slugging_percentage": 0.358,
+          "ops": 0.642
+        },
+        "pitching": null
+      }
+    },
+    {
       "id": 671976,
       "mlb_id": 671976,
       "wikidata_id": "Q135678508",
@@ -1827,47 +1800,6 @@
           "slugging_percentage": 0.0,
           "ops": 0.0
         },
-        "pitching": null
-      }
-    },
-    {
-      "id": 678577,
-      "mlb_id": 678577,
-      "wikidata_id": "Q140299739",
-      "slug": "junior-perez",
-      "name": "Junior Pérez",
-      "full_name": "Junior Pérez",
-      "number": "37",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-07-04",
-      "age": 25,
-      "birthplace": "San Cristobal, Dominican Republic",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 18, 2026",
-      "debut_team": "Chicago White Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Chicago White Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q140299739",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Junior_P%C3%A9rez",
-      "retrosheet_id": "perej005",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
         "pitching": null
       }
     },

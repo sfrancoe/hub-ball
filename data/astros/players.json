@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:44:00.646528+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-03T17:17:04.589967+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 117,
     "name": "Houston Astros"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -510,7 +510,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-11-08",
       "age": 26,
@@ -645,10 +645,10 @@
       "number": "1",
       "position": {
         "name": "Shortstop",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "SS"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-09-22",
       "age": 32,
@@ -1389,66 +1389,83 @@
       }
     },
     {
-      "id": 676694,
-      "mlb_id": 676694,
-      "wikidata_id": "Q107220364",
-      "slug": "jake-meyers",
-      "name": "Jake Meyers",
-      "full_name": "Jake Meyers",
-      "number": "6",
+      "id": 682610,
+      "mlb_id": 682610,
+      "wikidata_id": "Q125547102",
+      "slug": "roddery-munoz",
+      "name": "Roddery Muñoz",
+      "full_name": "Roddery Muñoz",
+      "number": "--",
       "position": {
-        "name": "Outfielder",
+        "name": "Pitcher",
         "group": "Pitcher",
-        "abbreviation": "CF"
+        "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
-      "birth_date": "1996-06-18",
-      "age": 30,
-      "birthplace": "Omaha, Nebraska, U.S.",
+      "birth_date": "2000-04-14",
+      "age": 26,
+      "birthplace": "Santo Domingo, Dominican Republic",
       "height": null,
       "weight": null,
       "bats": "Right",
-      "throws": "Left",
-      "debut_date": "August 1, 2021",
-      "debut_team": "Houston Astros",
+      "throws": "Right",
+      "debut_date": "April 20, 2024",
+      "debut_team": "Miami Marlins",
       "education": {
         "high_schools": [],
-        "colleges": [
-          {
-            "name": "Westside High School"
-          }
-        ]
+        "colleges": []
       },
       "teams": [
+        "Miami Marlins",
+        "St. Louis Cardinals",
         "Houston Astros"
       ],
-      "source_url": "https://www.wikidata.org/wiki/Q107220364",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jake_Meyers",
-      "retrosheet_id": "meyej002",
+      "source_url": "https://www.wikidata.org/wiki/Q125547102",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roddery_Mu%C3%B1oz",
+      "retrosheet_id": "munor001",
       "career_stats": {
         "through_season": 2025,
         "status": "available",
         "batting": {
-          "games": 465,
-          "plate_appearances": 1558,
-          "at_bats": 1409,
-          "runs": 181,
-          "hits": 343,
-          "doubles": 65,
-          "triples": 8,
-          "home_runs": 33,
-          "runs_batted_in": 161,
-          "walks": 109,
-          "strikeouts": 376,
-          "stolen_bases": 37,
-          "caught_stealing": 11,
-          "average": 0.243,
-          "on_base_percentage": 0.307,
-          "slugging_percentage": 0.371,
-          "ops": 0.678
+          "games": 27,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
         },
-        "pitching": null
+        "pitching": {
+          "games": 27,
+          "games_started": 17,
+          "wins": 2,
+          "losses": 7,
+          "saves": 0,
+          "innings_outs": 281,
+          "hits": 98,
+          "runs": 76,
+          "earned_runs": 70,
+          "home_runs": 30,
+          "walks": 51,
+          "strikeouts": 84,
+          "hit_batters": 5,
+          "wild_pitches": 5,
+          "balks": 1,
+          "complete_games": 0,
+          "era": 6.73,
+          "whip": 1.591
+        }
       }
     },
     {
@@ -1660,6 +1677,125 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
+      }
+    },
+    {
+      "id": 682126,
+      "mlb_id": 682126,
+      "wikidata_id": null,
+      "slug": "evan-reifert",
+      "name": "Evan Reifert",
+      "full_name": "Evan Reifert",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Houston Astros"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Evan_Reifert",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 663967,
+      "mlb_id": 663967,
+      "wikidata_id": "Q117599088",
+      "slug": "cesar-salazar",
+      "name": "César Salazar",
+      "full_name": "César Salazar",
+      "number": "--",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1996-03-15",
+      "age": 30,
+      "birthplace": "Hermosillo, Sonora, Mexico",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": "April 2, 2023",
+      "debut_team": "Houston Astros",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Houston Astros"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q117599088",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Salazar_%28baseball%29",
+      "retrosheet_id": "salac001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 36,
+          "plate_appearances": 67,
+          "at_bats": 56,
+          "runs": 6,
+          "hits": 13,
+          "doubles": 2,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 9,
+          "walks": 5,
+          "strikeouts": 14,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": 0.232,
+          "on_base_percentage": 0.318,
+          "slugging_percentage": 0.268,
+          "ops": 0.586
+        },
+        "pitching": {
+          "games": 1,
+          "games_started": 0,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "innings_outs": 3,
+          "hits": 0,
+          "runs": 0,
+          "earned_runs": 0,
+          "home_runs": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "hit_batters": 1,
+          "wild_pitches": 0,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 0.0,
+          "whip": 0.0
+        }
       }
     },
     {
@@ -2231,7 +2367,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-09-08",
       "age": 30,

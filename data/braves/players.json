@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:47:00.561022+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-03T17:20:04.622418+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 144,
     "name": "Atlanta Braves"
   },
   "roster_type": "open-current-roster",
-  "player_count": 35,
+  "player_count": 36,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1481,6 +1481,85 @@
           "ops": 0.859
         },
         "pitching": null
+      }
+    },
+    {
+      "id": 680730,
+      "mlb_id": 680730,
+      "wikidata_id": "Q125766408",
+      "slug": "mitchell-parker",
+      "name": "Mitchell Parker",
+      "full_name": "Mitchell Parker",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1999-09-27",
+      "age": 27,
+      "birthplace": "Albuquerque",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "April 15, 2024",
+      "debut_team": "Washington Nationals",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Washington Nationals",
+        "Atlanta Braves"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q125766408",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mitchell_Parker",
+      "retrosheet_id": "parkm001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 62,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 62,
+          "games_started": 59,
+          "wins": 16,
+          "losses": 26,
+          "saves": 1,
+          "innings_outs": 947,
+          "hits": 332,
+          "runs": 198,
+          "earned_runs": 176,
+          "home_runs": 43,
+          "walks": 101,
+          "strikeouts": 236,
+          "hit_batters": 6,
+          "wild_pitches": 10,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 5.02,
+          "whip": 1.372
+        }
       }
     },
     {

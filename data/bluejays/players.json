@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:40:19.338688+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-03T17:13:18.371910+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 141,
     "name": "Toronto Blue Jays"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -109,10 +109,10 @@
       "number": "47",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "RF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-11-12",
       "age": 26,
@@ -212,7 +212,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-05-27",
       "age": 32,
@@ -279,8 +279,8 @@
       }
     },
     {
-      "id": 1976310272,
-      "mlb_id": null,
+      "id": 814005,
+      "mlb_id": 814005,
       "wikidata_id": "Q126787685",
       "slug": "jake-bloss",
       "name": "Jake Bloss",
@@ -291,7 +291,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-06-23",
       "age": 25,
@@ -492,10 +492,10 @@
       "number": "8",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2002-05-23",
       "age": 24,
@@ -663,51 +663,6 @@
       "source_url": "https://www.wikidata.org/wiki/Q139737062",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Chad_Dallas",
       "retrosheet_id": "dallc001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 669310,
-      "mlb_id": 669310,
-      "wikidata_id": "Q85209585",
-      "slug": "cj-van-eyk",
-      "name": "CJ Van Eyk",
-      "full_name": "CJ Van Eyk",
-      "number": "58",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-09-15",
-      "age": 28,
-      "birthplace": "Q49255",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 17, 2026",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Steinbrenner High School"
-          }
-        ]
-      },
-      "teams": [
-        "Toronto Blue Jays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q85209585",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/CJ_Van_Eyk",
-      "retrosheet_id": "vanec001",
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",
@@ -891,7 +846,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-04-22",
       "age": 30,
@@ -1632,7 +1587,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-04-25",
       "age": 32,
@@ -1888,10 +1843,10 @@
       "number": "25",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "RF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-10-19",
       "age": 32,
@@ -2141,71 +2096,6 @@
           "era": 3.89,
           "whip": 1.321
         }
-      }
-    },
-    {
-      "id": 664702,
-      "mlb_id": 664702,
-      "wikidata_id": "Q56635599",
-      "slug": "myles-straw",
-      "name": "Myles Straw",
-      "full_name": "Myles Straw",
-      "number": "3",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-10-17",
-      "age": 32,
-      "birthplace": "Garden Grove",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 15, 2018",
-      "debut_team": "Houston Astros",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Braden River High School"
-          }
-        ]
-      },
-      "teams": [
-        "Houston Astros",
-        "Cleveland Indians / Guardians",
-        "Toronto Blue Jays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q56635599",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Myles_Straw",
-      "retrosheet_id": "stram002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 699,
-          "plate_appearances": 2279,
-          "at_bats": 2031,
-          "runs": 302,
-          "hits": 501,
-          "doubles": 91,
-          "triples": 10,
-          "home_runs": 10,
-          "runs_batted_in": 157,
-          "walks": 206,
-          "strikeouts": 401,
-          "stolen_bases": 101,
-          "caught_stealing": 17,
-          "average": 0.247,
-          "on_base_percentage": 0.316,
-          "slugging_percentage": 0.316,
-          "ops": 0.632
-        },
-        "pitching": null
       }
     },
     {

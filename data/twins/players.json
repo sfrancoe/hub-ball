@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:43:15.237224+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-03T17:16:19.054781+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 142,
     "name": "Minnesota Twins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -259,48 +259,6 @@
           "era": 7.49,
           "whip": 1.663
         }
-      }
-    },
-    {
-      "id": 681252,
-      "mlb_id": 681252,
-      "wikidata_id": "Q139759589",
-      "slug": "jack-anderson",
-      "name": "Jack Anderson",
-      "full_name": "Jack Anderson",
-      "number": "30",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-11-23",
-      "age": 26,
-      "birthplace": "Tampa, Florida, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 14, 2026",
-      "debut_team": "Boston Red Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Boston Red Sox",
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q139759589",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Anderson_%28baseball%2C_born_1999%29",
-      "retrosheet_id": "andej006",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
       }
     },
     {
@@ -660,8 +618,8 @@
       }
     },
     {
-      "id": 1949433718,
-      "mlb_id": null,
+      "id": 701581,
+      "mlb_id": 701581,
       "wikidata_id": "Q126942706",
       "slug": "david-festa",
       "name": "David Festa",
@@ -692,12 +650,49 @@
       ],
       "source_url": "https://www.wikidata.org/wiki/Q126942706",
       "wikipedia_url": "https://en.wikipedia.org/wiki/David_Festa",
-      "retrosheet_id": null,
+      "retrosheet_id": "festd001",
       "career_stats": {
         "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
+        "status": "available",
+        "batting": {
+          "games": 25,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 25,
+          "games_started": 23,
+          "wins": 5,
+          "losses": 10,
+          "saves": 0,
+          "innings_outs": 353,
+          "hits": 111,
+          "runs": 71,
+          "earned_runs": 67,
+          "home_runs": 19,
+          "walks": 42,
+          "strikeouts": 130,
+          "hit_batters": 6,
+          "wild_pitches": 3,
+          "balks": 1,
+          "complete_games": 0,
+          "era": 5.12,
+          "whip": 1.3
+        }
       }
     },
     {
@@ -1893,86 +1888,6 @@
           "complete_games": 2,
           "era": 4.08,
           "whip": 1.122
-        }
-      }
-    },
-    {
-      "id": 679358,
-      "mlb_id": 679358,
-      "wikidata_id": "Q127277829",
-      "slug": "eric-orze",
-      "name": "Eric Orze",
-      "full_name": "Eric Orze",
-      "number": "19",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-08-21",
-      "age": 29,
-      "birthplace": "Elk Grove, Illinois, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 8, 2024",
-      "debut_team": "New York Mets",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "New York Mets",
-        "Tampa Bay Rays",
-        "Minnesota Twins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q127277829",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Orze",
-      "retrosheet_id": "orzee001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 35,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 35,
-          "games_started": 0,
-          "wins": 1,
-          "losses": 2,
-          "saves": 3,
-          "innings_outs": 130,
-          "hits": 41,
-          "runs": 20,
-          "earned_runs": 18,
-          "home_runs": 5,
-          "walks": 21,
-          "strikeouts": 41,
-          "hit_batters": 4,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.74,
-          "whip": 1.431
         }
       }
     },

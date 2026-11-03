@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:50:15.879075+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-03T17:23:18.257747+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 158,
     "name": "Milwaukee Brewers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 33,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -175,70 +175,6 @@
           "era": 3.62,
           "whip": 1.274
         }
-      }
-    },
-    {
-      "id": 668731,
-      "mlb_id": 668731,
-      "wikidata_id": "Q104162085",
-      "slug": "akil-baddoo",
-      "name": "Akil Baddoo",
-      "full_name": "Akil Baddoo",
-      "number": "25",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "LF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1998-08-16",
-      "age": 28,
-      "birthplace": "Silver Spring",
-      "height": "6' 1\"",
-      "weight": 209,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "April 4, 2021",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Salem High School"
-          }
-        ]
-      },
-      "teams": [
-        "Detroit Tigers",
-        "Milwaukee Brewers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q104162085",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Akil_Baddoo",
-      "retrosheet_id": "badda001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 347,
-          "plate_appearances": 1143,
-          "at_bats": 1016,
-          "runs": 137,
-          "hits": 228,
-          "doubles": 39,
-          "triples": 12,
-          "home_runs": 28,
-          "runs_batted_in": 104,
-          "walks": 120,
-          "strikeouts": 307,
-          "stolen_bases": 43,
-          "caught_stealing": 13,
-          "average": 0.224,
-          "on_base_percentage": 0.305,
-          "slugging_percentage": 0.369,
-          "ops": 0.674
-        },
-        "pitching": null
       }
     },
     {
@@ -1074,92 +1010,6 @@
       }
     },
     {
-      "id": 657649,
-      "mlb_id": 657649,
-      "wikidata_id": "Q112303863",
-      "slug": "jared-koenig",
-      "name": "Jared Koenig",
-      "full_name": "Jared Koenig",
-      "number": "47",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-01-24",
-      "age": 32,
-      "birthplace": "Aptos",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "June 8, 2022",
-      "debut_team": "Oakland Athletics",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "California State University, Monterey Bay"
-          },
-          {
-            "name": "Aptos High School"
-          }
-        ]
-      },
-      "teams": [
-        "Oakland Athletics",
-        "Milwaukee Brewers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q112303863",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jared_Koenig",
-      "retrosheet_id": "koenj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 137,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 137,
-          "games_started": 11,
-          "wins": 16,
-          "losses": 8,
-          "saves": 3,
-          "innings_outs": 502,
-          "hits": 151,
-          "runs": 68,
-          "earned_runs": 63,
-          "home_runs": 14,
-          "walks": 58,
-          "strikeouts": 153,
-          "hit_batters": 13,
-          "wild_pitches": 5,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 3.39,
-          "whip": 1.249
-        }
-      }
-    },
-    {
       "id": 800325,
       "mlb_id": 800325,
       "wikidata_id": "Q139736206",
@@ -1876,85 +1726,6 @@
       }
     },
     {
-      "id": 622608,
-      "mlb_id": 622608,
-      "wikidata_id": "Q29107602",
-      "slug": "antonio-senzatela",
-      "name": "Antonio Senzatela",
-      "full_name": "Antonio Senzatela",
-      "number": "49",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-01-21",
-      "age": 31,
-      "birthplace": "Valencia",
-      "height": "6' 1\"",
-      "weight": 179,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 6, 2017",
-      "debut_team": "Colorado Rockies",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Colorado Rockies",
-        "Milwaukee Brewers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q29107602",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Senzatela",
-      "retrosheet_id": "senza001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 178,
-          "plate_appearances": 165,
-          "at_bats": 135,
-          "runs": 5,
-          "hits": 9,
-          "doubles": 2,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 12,
-          "walks": 1,
-          "strikeouts": 76,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.067,
-          "on_base_percentage": 0.074,
-          "slugging_percentage": 0.081,
-          "ops": 0.155
-        },
-        "pitching": {
-          "games": 178,
-          "games_started": 145,
-          "wins": 43,
-          "losses": 59,
-          "saves": 0,
-          "innings_outs": 2466,
-          "hits": 979,
-          "runs": 502,
-          "earned_runs": 473,
-          "home_runs": 105,
-          "walks": 264,
-          "strikeouts": 531,
-          "hit_batters": 35,
-          "wild_pitches": 17,
-          "balks": 9,
-          "complete_games": 1,
-          "era": 5.18,
-          "whip": 1.512
-        }
-      }
-    },
-    {
       "id": 687075,
       "mlb_id": 687075,
       "wikidata_id": "Q120496276",
@@ -2076,89 +1847,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 596142,
-      "mlb_id": 596142,
-      "wikidata_id": "Q5526029",
-      "slug": "gary-sanchez",
-      "name": "Gary Sánchez",
-      "full_name": "Gary Sánchez",
-      "number": "99",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1992-12-02",
-      "age": 33,
-      "birthplace": "Santo Domingo",
-      "height": "6' 2\"",
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "October 3, 2015",
-      "debut_team": "New York Yankees",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "New York Yankees",
-        "Minnesota Twins",
-        "New York Mets",
-        "San Diego Padres",
-        "Milwaukee Brewers",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q5526029",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gary_S%C3%A1nchez",
-      "retrosheet_id": "sancg002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 860,
-          "plate_appearances": 3313,
-          "at_bats": 2927,
-          "runs": 417,
-          "hits": 657,
-          "doubles": 120,
-          "triples": 3,
-          "home_runs": 189,
-          "runs_batted_in": 509,
-          "walks": 312,
-          "strikeouts": 888,
-          "stolen_bases": 6,
-          "caught_stealing": 2,
-          "average": 0.224,
-          "on_base_percentage": 0.309,
-          "slugging_percentage": 0.461,
-          "ops": 0.77
-        },
-        "pitching": {
-          "games": 1,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 3,
-          "hits": 2,
-          "runs": 4,
-          "earned_runs": 4,
-          "home_runs": 1,
-          "walks": 1,
-          "strikeouts": 0,
-          "hit_batters": 1,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 36.0,
-          "whip": 3.0
-        }
       }
     },
     {
@@ -2364,93 +2052,6 @@
           "ops": 0.724
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 669060,
-      "mlb_id": 669060,
-      "wikidata_id": "Q56212695",
-      "slug": "bryse-wilson",
-      "name": "Bryse Wilson",
-      "full_name": "Bryse Wilson",
-      "number": "41",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-12-20",
-      "age": 28,
-      "birthplace": "Durham",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 20, 2018",
-      "debut_team": "Atlanta Braves",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Orange High School"
-          }
-        ]
-      },
-      "teams": [
-        "Atlanta Braves",
-        "Pittsburgh Pirates",
-        "Milwaukee Brewers",
-        "Chicago White Sox",
-        "Philadelphia Phillies",
-        "Chicago Cubs"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q56212695",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Bryse_Wilson",
-      "retrosheet_id": "wilsb003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 163,
-          "plate_appearances": 36,
-          "at_bats": 32,
-          "runs": 1,
-          "hits": 3,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 1,
-          "walks": 0,
-          "strikeouts": 15,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.094,
-          "on_base_percentage": 0.121,
-          "slugging_percentage": 0.094,
-          "ops": 0.215
-        },
-        "pitching": {
-          "games": 163,
-          "games_started": 57,
-          "wins": 20,
-          "losses": 23,
-          "saves": 4,
-          "innings_outs": 1383,
-          "hits": 498,
-          "runs": 267,
-          "earned_runs": 247,
-          "home_runs": 82,
-          "walks": 151,
-          "strikeouts": 333,
-          "hit_batters": 19,
-          "wild_pitches": 14,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 4.82,
-          "whip": 1.408
-        }
       }
     },
     {

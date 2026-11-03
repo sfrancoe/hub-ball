@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:45:36.933235+00:00",
-  "roster_as_of": "October 30, 2026",
+  "generated_at": "2026-11-03T17:18:36.778461+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 136,
     "name": "Seattle Mariners"
   },
   "roster_type": "open-current-roster",
-  "player_count": 43,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -84,7 +84,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2004-11-03",
-      "age": 21,
+      "age": 22,
       "birthplace": "Cartagena, Colombia",
       "height": null,
       "weight": null,
@@ -261,7 +261,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-05-12",
       "age": 28,
@@ -491,7 +491,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1998-11-21",
       "age": 27,
@@ -520,8 +520,8 @@
       }
     },
     {
-      "id": 1951882311,
-      "mlb_id": null,
+      "id": 680695,
+      "mlb_id": 680695,
       "wikidata_id": "Q107938733",
       "slug": "brennen-davis",
       "name": "Brennen Davis",
@@ -529,10 +529,10 @@
       "number": "--",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
-        "abbreviation": "P"
+        "group": "Outfielder",
+        "abbreviation": "CF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-11-02",
       "age": 27,
@@ -718,10 +718,10 @@
       "number": "4",
       "position": {
         "name": "Shortstop",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "SS"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2005-07-20",
       "age": 21,
@@ -762,7 +762,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-06-05",
       "age": 25,
@@ -1228,6 +1228,90 @@
           "complete_games": 0,
           "era": 0.0,
           "whip": 2.0
+        }
+      }
+    },
+    {
+      "id": 676755,
+      "mlb_id": 676755,
+      "wikidata_id": "Q106766480",
+      "slug": "isaac-mattson",
+      "name": "Isaac Mattson",
+      "full_name": "Isaac Mattson",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1995-07-14",
+      "age": 31,
+      "birthplace": "Erie",
+      "height": "6' 2\"",
+      "weight": 203,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "May 7, 2021",
+      "debut_team": "Baltimore Orioles",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "University of Pittsburgh"
+          }
+        ]
+      },
+      "teams": [
+        "Baltimore Orioles",
+        "Pittsburgh Pirates",
+        "Seattle Mariners"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q106766480",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Mattson",
+      "retrosheet_id": "matti001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 51,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 51,
+          "games_started": 0,
+          "wins": 3,
+          "losses": 3,
+          "saves": 0,
+          "innings_outs": 172,
+          "hits": 41,
+          "runs": 20,
+          "earned_runs": 19,
+          "home_runs": 4,
+          "walks": 29,
+          "strikeouts": 54,
+          "hit_batters": 3,
+          "wild_pitches": 1,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 2.98,
+          "whip": 1.221
         }
       }
     },
@@ -1753,10 +1837,10 @@
       "number": "20",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "RF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1994-09-19",
       "age": 32,
@@ -2092,85 +2176,6 @@
       }
     },
     {
-      "id": 681006,
-      "mlb_id": 681006,
-      "wikidata_id": "Q135008887",
-      "slug": "josh-simpson",
-      "name": "Josh Simpson",
-      "full_name": "Josh Simpson",
-      "number": "37",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-08-19",
-      "age": 29,
-      "birthplace": "Stafford, Connecticut, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "June 21, 2025",
-      "debut_team": "Miami Marlins",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Miami Marlins",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q135008887",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Simpson_%28baseball%29",
-      "retrosheet_id": "simpj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 31,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 31,
-          "games_started": 0,
-          "wins": 4,
-          "losses": 2,
-          "saves": 0,
-          "innings_outs": 92,
-          "hits": 34,
-          "runs": 28,
-          "earned_runs": 25,
-          "home_runs": 5,
-          "walks": 22,
-          "strikeouts": 36,
-          "hit_batters": 3,
-          "wild_pitches": 3,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 7.34,
-          "whip": 1.826
-        }
-      }
-    },
-    {
       "id": 642100,
       "mlb_id": 642100,
       "wikidata_id": "Q30030263",
@@ -2479,47 +2484,6 @@
       }
     },
     {
-      "id": 681890,
-      "mlb_id": 681890,
-      "wikidata_id": null,
-      "slug": "troy-watson",
-      "name": "Troy Watson",
-      "full_name": "Troy Watson",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": null,
-      "age": null,
-      "birthplace": "",
-      "height": null,
-      "weight": null,
-      "bats": null,
-      "throws": null,
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Seattle Mariners"
-      ],
-      "source_url": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Troy_Watson",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 677961,
       "mlb_id": 677961,
       "wikidata_id": "Q85232651",
@@ -2602,258 +2566,6 @@
           "complete_games": 0,
           "era": 27.0,
           "whip": 7.0
-        }
-      }
-    },
-    {
-      "id": 642215,
-      "mlb_id": 642215,
-      "wikidata_id": "Q121337961",
-      "slug": "weston-wilson",
-      "name": "Weston Wilson",
-      "full_name": "Weston Wilson",
-      "number": "31",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-09-11",
-      "age": 32,
-      "birthplace": "High Point",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 9, 2023",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Baltimore Orioles",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q121337961",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Weston_Wilson",
-      "retrosheet_id": "wilsw002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 103,
-          "plate_appearances": 245,
-          "at_bats": 215,
-          "runs": 33,
-          "hits": 52,
-          "doubles": 11,
-          "triples": 1,
-          "home_runs": 9,
-          "runs_batted_in": 29,
-          "walks": 26,
-          "strikeouts": 68,
-          "stolen_bases": 8,
-          "caught_stealing": 4,
-          "average": 0.242,
-          "on_base_percentage": 0.328,
-          "slugging_percentage": 0.428,
-          "ops": 0.756
-        },
-        "pitching": {
-          "games": 3,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 12,
-          "hits": 4,
-          "runs": 0,
-          "earned_runs": 0,
-          "home_runs": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 0.0,
-          "whip": 1.0
-        }
-      }
-    },
-    {
-      "id": 669717,
-      "mlb_id": 669717,
-      "wikidata_id": "Q63112519",
-      "slug": "will-wilson",
-      "name": "Will Wilson",
-      "full_name": "Will Wilson",
-      "number": "7",
-      "position": {
-        "name": "Third Base",
-        "group": "Pitcher",
-        "abbreviation": "3B"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1998-07-21",
-      "age": 28,
-      "birthplace": "Kings Mountain",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 23, 2025",
-      "debut_team": "Cleveland Guardians",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "North Carolina State University"
-          }
-        ]
-      },
-      "teams": [
-        "Cleveland Guardians",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q63112519",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Will_Wilson_%28baseball%29",
-      "retrosheet_id": "wilsw003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 34,
-          "plate_appearances": 91,
-          "at_bats": 78,
-          "runs": 7,
-          "hits": 15,
-          "doubles": 4,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 2,
-          "walks": 7,
-          "strikeouts": 34,
-          "stolen_bases": 2,
-          "caught_stealing": 0,
-          "average": 0.192,
-          "on_base_percentage": 0.267,
-          "slugging_percentage": 0.244,
-          "ops": 0.511
-        },
-        "pitching": {
-          "games": 1,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 6,
-          "hits": 2,
-          "runs": 2,
-          "earned_runs": 2,
-          "home_runs": 1,
-          "walks": 0,
-          "strikeouts": 0,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 9.0,
-          "whip": 1.0
-        }
-      }
-    },
-    {
-      "id": 621550,
-      "mlb_id": 621550,
-      "wikidata_id": "Q56073223",
-      "slug": "patrick-wisdom",
-      "name": "Patrick Wisdom",
-      "full_name": "Patrick Wisdom",
-      "number": "35",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1991-08-27",
-      "age": 35,
-      "birthplace": "Murrieta",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 12, 2018",
-      "debut_team": "St. Louis Cardinals",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Murrieta Valley High School"
-          },
-          {
-            "name": "Saint Mary's College of California"
-          }
-        ]
-      },
-      "teams": [
-        "St. Louis Cardinals",
-        "Texas Rangers",
-        "Chicago Cubs",
-        "Kia Tigers",
-        "Seattle Mariners"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q56073223",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Wisdom",
-      "retrosheet_id": "wisdp001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 455,
-          "plate_appearances": 1473,
-          "at_bats": 1311,
-          "runs": 192,
-          "hits": 274,
-          "doubles": 58,
-          "triples": 3,
-          "home_runs": 88,
-          "runs_batted_in": 207,
-          "walks": 132,
-          "strikeouts": 540,
-          "stolen_bases": 23,
-          "caught_stealing": 8,
-          "average": 0.209,
-          "on_base_percentage": 0.291,
-          "slugging_percentage": 0.459,
-          "ops": 0.75
-        },
-        "pitching": {
-          "games": 1,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 1,
-          "hits": 1,
-          "runs": 0,
-          "earned_runs": 0,
-          "home_runs": 0,
-          "walks": 1,
-          "strikeouts": 0,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 0.0,
-          "whip": 6.0
         }
       }
     },
@@ -2961,7 +2673,11 @@
       "debut_team": "Seattle Mariners",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "North Allegheny Senior High School"
+          }
+        ]
       },
       "teams": [
         "Seattle Mariners"

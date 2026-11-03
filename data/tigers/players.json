@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:42:08.671535+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-03T17:15:12.330225+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 116,
     "name": "Detroit Tigers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 44,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -305,10 +305,10 @@
       "number": "30",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "RF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-09-02",
       "age": 29,
@@ -485,7 +485,7 @@
       "is_active_roster": false,
       "birth_date": "1998-09-17",
       "age": 28,
-      "birthplace": "Massillon, Ohio, U.S.",
+      "birthplace": "Massillon",
       "height": null,
       "weight": null,
       "bats": "Right",
@@ -495,6 +495,9 @@
       "education": {
         "high_schools": [],
         "colleges": [
+          {
+            "name": "Jackson High School"
+          },
           {
             "name": "Ohio State University"
           }
@@ -529,85 +532,6 @@
           "ops": 0.713
         },
         "pitching": null
-      }
-    },
-    {
-      "id": 700270,
-      "mlb_id": 700270,
-      "wikidata_id": "Q127278405",
-      "slug": "yilber-diaz",
-      "name": "Yilber Díaz",
-      "full_name": "Yilber Díaz",
-      "number": "62",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-08-19",
-      "age": 26,
-      "birthplace": "Guatire, Venezuela",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 8, 2024",
-      "debut_team": "Arizona Diamondbacks",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Arizona Diamondbacks",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q127278405",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Yilber_D%C3%ADaz",
-      "retrosheet_id": "diazy005",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 8,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 8,
-          "games_started": 4,
-          "wins": 1,
-          "losses": 1,
-          "saves": 0,
-          "innings_outs": 94,
-          "hits": 31,
-          "runs": 16,
-          "earned_runs": 15,
-          "home_runs": 3,
-          "walks": 15,
-          "strikeouts": 20,
-          "hit_batters": 0,
-          "wild_pitches": 2,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.31,
-          "whip": 1.468
-        }
       }
     },
     {
@@ -690,84 +614,6 @@
           "complete_games": 0,
           "era": 3.55,
           "whip": 1.284
-        }
-      }
-    },
-    {
-      "id": 687830,
-      "mlb_id": 687830,
-      "wikidata_id": "Q122350826",
-      "slug": "sawyer-gipson-long",
-      "name": "Sawyer Gipson-Long",
-      "full_name": "Sawyer Gipson-Long",
-      "number": "66",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-12-12",
-      "age": 28,
-      "birthplace": "Lithia Springs, Georgia, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 10, 2023",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q122350826",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Sawyer_Gipson-Long",
-      "retrosheet_id": "gipss001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 12,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 12,
-          "games_started": 7,
-          "wins": 1,
-          "losses": 2,
-          "saves": 0,
-          "innings_outs": 154,
-          "hits": 48,
-          "runs": 33,
-          "earned_runs": 31,
-          "home_runs": 10,
-          "walks": 14,
-          "strikeouts": 52,
-          "hit_batters": 2,
-          "wild_pitches": 3,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 5.44,
-          "whip": 1.208
         }
       }
     },
@@ -992,85 +838,6 @@
       }
     },
     {
-      "id": 690544,
-      "mlb_id": 690544,
-      "wikidata_id": "Q126942708",
-      "slug": "bailey-horn",
-      "name": "Bailey Horn",
-      "full_name": "Bailey Horn",
-      "number": "57",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1998-01-15",
-      "age": 28,
-      "birthplace": "Waco, Texas, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "June 29, 2024",
-      "debut_team": "Boston Red Sox",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Boston Red Sox",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q126942708",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Bailey_Horn",
-      "retrosheet_id": "hornb002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 28,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 28,
-          "games_started": 0,
-          "wins": 1,
-          "losses": 2,
-          "saves": 0,
-          "innings_outs": 88,
-          "hits": 33,
-          "runs": 16,
-          "earned_runs": 15,
-          "home_runs": 6,
-          "walks": 17,
-          "strikeouts": 23,
-          "hit_batters": 0,
-          "wild_pitches": 1,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.6,
-          "whip": 1.705
-        }
-      }
-    },
-    {
       "id": 676428,
       "mlb_id": 676428,
       "wikidata_id": "Q128595780",
@@ -1145,88 +912,6 @@
           "complete_games": 0,
           "era": 2.49,
           "whip": 1.145
-        }
-      }
-    },
-    {
-      "id": 445276,
-      "mlb_id": 445276,
-      "wikidata_id": "Q1902109",
-      "slug": "kenley-jansen",
-      "name": "Kenley Jansen",
-      "full_name": "Kenley Jansen",
-      "number": "74",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1987-09-30",
-      "age": 39,
-      "birthplace": "Willemstad",
-      "height": "6' 5\"",
-      "weight": 265,
-      "bats": "Switch",
-      "throws": "Right",
-      "debut_date": "July 24, 2010",
-      "debut_team": "Los Angeles Dodgers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Los Angeles Dodgers",
-        "Atlanta Braves",
-        "Boston Red Sox",
-        "Los Angeles Angels",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q1902109",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kenley_Jansen",
-      "retrosheet_id": "jansk001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 934,
-          "plate_appearances": 10,
-          "at_bats": 9,
-          "runs": 1,
-          "hits": 3,
-          "doubles": 1,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 1,
-          "walks": 1,
-          "strikeouts": 3,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.333,
-          "on_base_percentage": 0.4,
-          "slugging_percentage": 0.444,
-          "ops": 0.844
-        },
-        "pitching": {
-          "games": 932,
-          "games_started": 0,
-          "wins": 54,
-          "losses": 40,
-          "saves": 476,
-          "innings_outs": 2779,
-          "hits": 608,
-          "runs": 282,
-          "earned_runs": 263,
-          "home_runs": 86,
-          "walks": 282,
-          "strikeouts": 1276,
-          "hit_batters": 32,
-          "wild_pitches": 21,
-          "balks": 18,
-          "complete_games": 0,
-          "era": 2.56,
-          "whip": 0.961
         }
       }
     },
@@ -1387,67 +1072,6 @@
           "era": 3.91,
           "whip": 1.415
         }
-      }
-    },
-    {
-      "id": 667452,
-      "mlb_id": 667452,
-      "wikidata_id": "Q117350991",
-      "slug": "corey-julks",
-      "name": "Corey Julks",
-      "full_name": "Corey Julks",
-      "number": "44",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "LF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-02-27",
-      "age": 30,
-      "birthplace": "Friendswood",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "March 31, 2023",
-      "debut_team": "Houston Astros",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Houston Astros",
-        "Chicago White Sox",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q117350991",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Corey_Julks",
-      "retrosheet_id": "julkc001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 165,
-          "plate_appearances": 525,
-          "at_bats": 483,
-          "runs": 54,
-          "hits": 113,
-          "doubles": 23,
-          "triples": 0,
-          "home_runs": 9,
-          "runs_batted_in": 48,
-          "walks": 37,
-          "strikeouts": 128,
-          "stolen_bases": 20,
-          "caught_stealing": 5,
-          "average": 0.234,
-          "on_base_percentage": 0.288,
-          "slugging_percentage": 0.337,
-          "ops": 0.625
-        },
-        "pitching": null
       }
     },
     {
@@ -1926,10 +1550,10 @@
       "number": "22",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "CF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-11-02",
       "age": 27,
@@ -2173,8 +1797,8 @@
       }
     },
     {
-      "id": 1958861254,
-      "mlb_id": null,
+      "id": 681857,
+      "mlb_id": 681857,
       "wikidata_id": "Q118999219",
       "slug": "reese-olson",
       "name": "Reese Olson",
@@ -2185,7 +1809,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-07-31",
       "age": 27,
@@ -2301,10 +1925,10 @@
       "number": "46",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "RF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-10-30",
       "age": 27,
@@ -2558,10 +2182,10 @@
       "number": "27",
       "position": {
         "name": "Shortstop",
-        "group": "Pitcher",
+        "group": "Infielder",
         "abbreviation": "SS"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-04-24",
       "age": 26,
@@ -2806,7 +2430,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1995-06-06",
       "age": 31,
@@ -2886,10 +2510,10 @@
       "number": "8",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "CF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-09-16",
       "age": 30,
@@ -2934,6 +2558,94 @@
           "ops": 0.709
         },
         "pitching": null
+      }
+    },
+    {
+      "id": 621097,
+      "mlb_id": 621097,
+      "wikidata_id": "Q64748280",
+      "slug": "jacob-waguespack",
+      "name": "Jacob Waguespack",
+      "full_name": "Jacob Waguespack",
+      "number": "58",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1993-11-05",
+      "age": 32,
+      "birthplace": "Prairieville",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "May 27, 2019",
+      "debut_team": "Toronto Blue Jays",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Dutchtown High School"
+          },
+          {
+            "name": "University of Mississippi"
+          }
+        ]
+      },
+      "teams": [
+        "Toronto Blue Jays",
+        "Orix Buffaloes",
+        "Tampa Bay Rays",
+        "Detroit Tigers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q64748280",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Waguespack",
+      "retrosheet_id": "waguj001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 31,
+          "plate_appearances": 3,
+          "at_bats": 2,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 1,
+          "strikeouts": 2,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": 0.0,
+          "on_base_percentage": 0.333,
+          "slugging_percentage": 0.0,
+          "ops": 0.333
+        },
+        "pitching": {
+          "games": 31,
+          "games_started": 14,
+          "wins": 5,
+          "losses": 5,
+          "saves": 0,
+          "innings_outs": 317,
+          "hits": 115,
+          "runs": 70,
+          "earned_runs": 60,
+          "home_runs": 15,
+          "walks": 48,
+          "strikeouts": 90,
+          "hit_batters": 7,
+          "wild_pitches": 3,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 5.11,
+          "whip": 1.543
+        }
       }
     }
   ]

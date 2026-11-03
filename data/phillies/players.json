@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:48:03.905907+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-03T17:21:08.509255+00:00",
+  "roster_as_of": "November 2, 2026",
   "team": {
     "id": 143,
     "name": "Philadelphia Phillies"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -299,93 +299,6 @@
       }
     },
     {
-      "id": 641482,
-      "mlb_id": 641482,
-      "wikidata_id": "Q50577085",
-      "slug": "nestor-cortes",
-      "name": "Nestor Cortes",
-      "full_name": "Néstor Cortés",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-12-10",
-      "age": 31,
-      "birthplace": "Hialeah",
-      "height": "5' 10\"",
-      "weight": null,
-      "bats": "Right",
-      "throws": "Left",
-      "debut_date": "March 31, 2018",
-      "debut_team": "Baltimore Orioles",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Hialeah High School"
-          }
-        ]
-      },
-      "teams": [
-        "Baltimore Orioles",
-        "New York Yankees",
-        "Seattle Mariners",
-        "Milwaukee Brewers",
-        "San Diego Padres",
-        "Philadelphia Phillies"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q50577085",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nestor_Cortes",
-      "retrosheet_id": "cortn001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 144,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 143,
-          "games_started": 94,
-          "wins": 35,
-          "losses": 25,
-          "saves": 0,
-          "innings_outs": 1807,
-          "hits": 537,
-          "runs": 272,
-          "earned_runs": 264,
-          "home_runs": 102,
-          "walks": 180,
-          "strikeouts": 604,
-          "hit_batters": 16,
-          "wild_pitches": 6,
-          "balks": 2,
-          "complete_games": 1,
-          "era": 3.94,
-          "whip": 1.19
-        }
-      }
-    },
-    {
       "id": 702222,
       "mlb_id": 702222,
       "wikidata_id": "Q112238306",
@@ -630,6 +543,69 @@
           "on_base_percentage": 0.387,
           "slugging_percentage": 0.519,
           "ops": 0.906
+        },
+        "pitching": null
+      }
+    },
+    {
+      "id": 695391,
+      "mlb_id": 695391,
+      "wikidata_id": "Q125820644",
+      "slug": "brett-harris",
+      "name": "Brett Harris",
+      "full_name": "Brett Harris",
+      "number": "--",
+      "position": {
+        "name": "Third Base",
+        "group": "Infielder",
+        "abbreviation": "3B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1998-06-24",
+      "age": 28,
+      "birthplace": "Arlington Heights, Illinois, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "May 3, 2024",
+      "debut_team": "Oakland Athletics",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Oakland Athletics",
+        "Athletics",
+        "Boston Red Sox",
+        "San Francisco Giants",
+        "Philadelphia Phillies"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q125820644",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brett_Harris",
+      "retrosheet_id": "harrb002",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 68,
+          "plate_appearances": 207,
+          "at_bats": 176,
+          "runs": 26,
+          "hits": 35,
+          "doubles": 8,
+          "triples": 0,
+          "home_runs": 3,
+          "runs_batted_in": 17,
+          "walks": 24,
+          "strikeouts": 46,
+          "stolen_bases": 1,
+          "caught_stealing": 3,
+          "average": 0.199,
+          "on_base_percentage": 0.306,
+          "slugging_percentage": 0.295,
+          "ops": 0.601
         },
         "pitching": null
       }
@@ -930,7 +906,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1995-07-27",
       "age": 31,
@@ -1160,7 +1136,7 @@
         "group": "Pitcher",
         "abbreviation": "P"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-06-02",
       "age": 29,
@@ -1333,7 +1309,7 @@
         "high_schools": [],
         "colleges": [
           {
-            "name": "Marjory Stoneman Douglas High School"
+            "name": "Aksiid"
           }
         ]
       },
@@ -1984,10 +1960,10 @@
       "number": "29",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "LF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2001-03-26",
       "age": 25,
@@ -2025,10 +2001,10 @@
       "number": "23",
       "position": {
         "name": "Outfielder",
-        "group": "Pitcher",
+        "group": "Outfielder",
         "abbreviation": "CF"
       },
-      "roster_status": "60-day injured list",
+      "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-08-14",
       "age": 26,
@@ -2580,6 +2556,67 @@
           "era": 3.28,
           "whip": 1.137
         }
+      }
+    },
+    {
+      "id": 694376,
+      "mlb_id": 694376,
+      "wikidata_id": "Q114498034",
+      "slug": "shay-whitcomb",
+      "name": "Shay Whitcomb",
+      "full_name": "Shay Whitcomb",
+      "number": "--",
+      "position": {
+        "name": "Third Base",
+        "group": "Infielder",
+        "abbreviation": "3B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1998-09-28",
+      "age": 28,
+      "birthplace": "Thousand Oaks, California, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "August 17, 2024",
+      "debut_team": "Houston Astros",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Houston Astros",
+        "San Francisco Giants",
+        "Philadelphia Phillies"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q114498034",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Shay_Whitcomb",
+      "retrosheet_id": "whits003",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 40,
+          "plate_appearances": 78,
+          "at_bats": 73,
+          "runs": 5,
+          "hits": 13,
+          "doubles": 3,
+          "triples": 0,
+          "home_runs": 1,
+          "runs_batted_in": 6,
+          "walks": 5,
+          "strikeouts": 18,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": 0.178,
+          "on_base_percentage": 0.231,
+          "slugging_percentage": 0.26,
+          "ops": 0.491
+        },
+        "pitching": null
       }
     }
   ]
