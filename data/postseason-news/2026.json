@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-04T01:28:16.326782+00:00",
+  "generatedAt": "2026-11-04T08:08:42.957969+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
@@ -105,7 +105,7 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Yankees split with polarizing star feels inevitable after $23 million decision",
+      "title": "Yankees split with polarizing star feels inevitable after $23M decision",
       "description": "",
       "url": "https://nypost.com/2026/11/03/sports/yankees-jazz-chisholm-split-feels-inevitable-after-qualifying-offer-decision/",
       "published": "2026-11-03T20:12:25+00:00",
@@ -115,30 +115,6 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Brewers manager reveals Brian Cashman damage control after getting ‘caught’ bashing Yankees",
-      "description": "",
-      "url": "https://nypost.com/2026/11/03/sports/pat-murphy-reveals-brian-cashman-damage-control-after-getting-caught-bashing-yankees/",
-      "published": "2026-11-03T20:00:44+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox trade hard-throwing lefty to Cardinals for 18-year-old minor leaguer",
-      "description": "The Red Sox have traded left-handed pitcher Eduardo Rivera to the St. Louis Cardinals for minor league right-handed pitcher Juan García.",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-trade-hard-throwing-lefty-to-cardinals-for-18-year-old-minor-leaguer.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
