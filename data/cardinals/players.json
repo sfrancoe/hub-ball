@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-03T17:24:26.344118+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-04T17:37:10.902253+00:00",
+  "roster_as_of": "November 3, 2026",
   "team": {
     "id": 138,
     "name": "St. Louis Cardinals"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1823,6 +1823,48 @@
       "source_url": "https://www.wikidata.org/wiki/Q141244967",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Hancel_Rincon",
       "retrosheet_id": "rinch001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 700842,
+      "mlb_id": 700842,
+      "wikidata_id": "Q139761276",
+      "slug": "eduardo-rivera",
+      "name": "Eduardo Rivera",
+      "full_name": "Eduardo Rivera",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2003-06-13",
+      "age": 23,
+      "birthplace": "San Juan",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "April 22, 2026",
+      "debut_team": "Boston Red Sox",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Boston Red Sox",
+        "St. Louis Cardinals"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q139761276",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eduardo_Rivera_%28baseball%29",
+      "retrosheet_id": "rivee002",
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",
