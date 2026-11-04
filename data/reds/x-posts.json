@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-04T06:40:22.180070+00:00",
+  "generated_at": "2026-11-04T19:52:45.970515+00:00",
   "source": "X",
   "source_url": "https://x.com/Reds",
   "recent": [
+    {
+      "id": "2118036914003685712",
+      "text": "A rookie season to remember https://t.co/iYInvRa6tn",
+      "url": "https://x.com/Reds/status/2118036914003685712",
+      "published": "2026-11-04T17:45:26+00:00",
+      "likes": 414,
+      "author": "Cincinnati Reds",
+      "handle": "Reds",
+      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWTHRr5XUAAOI9B.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2117398771327812092",
       "text": "Season of Sal https://t.co/lg7IpTJOon",
       "url": "https://x.com/Reds/status/2117398771327812092",
       "published": "2026-11-02T23:29:41+00:00",
-      "likes": 990,
+      "likes": 1011,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
@@ -22,7 +36,7 @@
       "text": "No surprises here. Sal Stewart is a finalist for NL Rookie of the Year‼️ https://t.co/l9m0jNeRY1",
       "url": "https://x.com/Reds/status/2117397681228104020",
       "published": "2026-11-02T23:25:21+00:00",
-      "likes": 2634,
+      "likes": 2677,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
@@ -32,5 +46,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2118036914003685712",
+      "text": "A rookie season to remember https://t.co/iYInvRa6tn",
+      "url": "https://x.com/Reds/status/2118036914003685712",
+      "published": "2026-11-04T17:45:26+00:00",
+      "likes": 414,
+      "author": "Cincinnati Reds",
+      "handle": "Reds",
+      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWTHRr5XUAAOI9B.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

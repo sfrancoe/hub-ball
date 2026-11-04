@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-04T06:40:22.174921+00:00",
+  "generated_at": "2026-11-04T19:52:45.967718+00:00",
   "source": "X",
   "source_url": "https://x.com/whitesox",
   "recent": [
+    {
+      "id": "2118039802570268942",
+      "text": "RT @PlayersTribune: “I truly believe this season was only just a glimpse of what’s to come.” @tristandpeters knows this is only the beginn…",
+      "url": "https://x.com/whitesox/status/2118039802570268942",
+      "published": "2026-11-04T17:56:54+00:00",
+      "likes": 0,
+      "author": "Chicago White Sox",
+      "handle": "whitesox",
+      "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2117400394112344480",
       "text": "No doubt about it. Will Venable has been named an AL Manager of the Year finalist! https://t.co/Ha8WGLXyOG",
       "url": "https://x.com/whitesox/status/2117400394112344480",
       "published": "2026-11-02T23:36:08+00:00",
-      "likes": 3635,
+      "likes": 3742,
       "author": "Chicago White Sox",
       "handle": "whitesox",
       "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
@@ -18,5 +32,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2118039802570268942",
+      "text": "RT @PlayersTribune: “I truly believe this season was only just a glimpse of what’s to come.” @tristandpeters knows this is only the beginn…",
+      "url": "https://x.com/whitesox/status/2118039802570268942",
+      "published": "2026-11-04T17:56:54+00:00",
+      "likes": 0,
+      "author": "Chicago White Sox",
+      "handle": "whitesox",
+      "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
