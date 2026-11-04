@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Marlins",
+      "description": "A look at how the Marlins will fill their payroll if they are required to reach a salary floor under a new labor agreement.",
+      "published": "2026-10-22T07:24:00+00:00",
+      "title": "How Marlins will fill their payroll if there’s a salary floor. And hot stove news",
+      "url": "https://www.miamiherald.com/sports/mlb/miami-marlins/article317355499.html"
+    },
+    {
+      "category": "Marlins",
       "description": "The Marlins exercised ace Sandy Alcantara’s $21 million team option for 2027 on Friday while also clearing out space on their 40-man roster for potential additions. Alcantara’s retention was seen as a ...",
       "published": "2026-10-30T04:58:00+00:00",
       "title": "Marlins make move with Alcantara and five other players on busy transaction day",
@@ -9,20 +16,13 @@
     },
     {
       "category": "Marlins",
-      "description": "A six-pack of Marlins notes on a Thursday: The Marlins finished the season with a $100.2 million payroll, including $18 million in player benefits, a figure that places them ahead of only the ...",
-      "published": "2026-10-22T07:24:00+00:00",
-      "title": "How Marlins will fill their payroll if there’s a salary floor. And hot stove news",
-      "url": "https://www.miamiherald.com/sports/mlb/miami-marlins/article317355499.html"
-    },
-    {
-      "category": "Marlins",
-      "description": "The Marlins moved on from third baseman Graham Pauley, among nine roster moves.",
-      "published": "2026-11-02T14:10:00+00:00",
+      "description": "The Marlins exercised Sandy Alcantara’s 2027 team option and removed five players from their 40-man roster ...",
+      "published": "2026-11-02T07:53:00+00:00",
       "title": "Miami Marlins",
       "url": "https://www.miamiherald.com/sports/mlb/miami-marlins/"
     }
   ],
-  "generated_at": "2026-11-03T22:04:42.738452+00:00",
+  "generated_at": "2026-11-04T02:11:34.785227+00:00",
   "source": "Miami Herald",
   "source_url": "https://www.miamiherald.com/sports/mlb/miami-marlins/"
 }
