@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:36:48.648997+00:00",
+  "generated_at": "2026-11-04T06:40:22.171880+00:00",
   "source": "X",
   "source_url": "https://x.com/Yankees",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Congratulations @Cam31Schlittler on being named a 2026 AL Cy Young finalist 🔥 https://t.co/BIqKR8fhCC",
       "url": "https://x.com/Yankees/status/2117407097906430409",
       "published": "2026-11-03T00:02:46+00:00",
-      "likes": 6879,
+      "likes": 7470,
       "author": "New York Yankees",
       "handle": "Yankees",
       "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "Today, the Yankees have extended a qualifying offer to RHP David Bednar. Additionally, the Yankees have added INF/OF Marco Luciano to the 40-man roster.",
       "url": "https://x.com/Yankees/status/2117383491469861022",
       "published": "2026-11-02T22:28:58+00:00",
-      "likes": 2399,
+      "likes": 2725,
       "author": "New York Yankees",
       "handle": "Yankees",
       "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
@@ -32,34 +32,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2117407097906430409",
-      "text": "Congratulations @Cam31Schlittler on being named a 2026 AL Cy Young finalist 🔥 https://t.co/BIqKR8fhCC",
-      "url": "https://x.com/Yankees/status/2117407097906430409",
-      "published": "2026-11-03T00:02:46+00:00",
-      "likes": 6879,
-      "author": "New York Yankees",
-      "handle": "Yankees",
-      "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWKKh1gXcAAuWQp.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2117383491469861022",
-      "text": "Today, the Yankees have extended a qualifying offer to RHP David Bednar. Additionally, the Yankees have added INF/OF Marco Luciano to the 40-man roster.",
-      "url": "https://x.com/Yankees/status/2117383491469861022",
-      "published": "2026-11-02T22:28:58+00:00",
-      "likes": 2399,
-      "author": "New York Yankees",
-      "handle": "Yankees",
-      "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:36:48.653195+00:00",
+  "generated_at": "2026-11-04T06:40:22.179616+00:00",
   "source": "X",
   "source_url": "https://x.com/Cubs",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "seemed pretty obvious to us. https://t.co/Xu5yKANTSq",
       "url": "https://x.com/Cubs/status/2117402374713331949",
       "published": "2026-11-02T23:44:00+00:00",
-      "likes": 1208,
+      "likes": 1313,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "Start the chant again. Pete Crow-Armstrong is an NL MVP finalist. https://t.co/1OrEbmk9vs",
       "url": "https://x.com/Cubs/status/2117393229620621590",
       "published": "2026-11-02T23:07:39+00:00",
-      "likes": 3938,
+      "likes": 4176,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -36,7 +36,7 @@
       "text": "The Cubs today claimed RHP Eric Orze off waivers from the Minnesota Twins.",
       "url": "https://x.com/Cubs/status/2117373459345055799",
       "published": "2026-11-02T21:49:06+00:00",
-      "likes": 715,
+      "likes": 734,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -50,7 +50,7 @@
       "text": "The Cubs today have agreed to terms with RHP Jacob Webb on a one-year major league contract with a club option for 2028.",
       "url": "https://x.com/Cubs/status/2117370080296419391",
       "published": "2026-11-02T21:35:40+00:00",
-      "likes": 1252,
+      "likes": 1416,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -60,62 +60,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2117393229620621590",
-      "text": "Start the chant again. Pete Crow-Armstrong is an NL MVP finalist. https://t.co/1OrEbmk9vs",
-      "url": "https://x.com/Cubs/status/2117393229620621590",
-      "published": "2026-11-02T23:07:39+00:00",
-      "likes": 3938,
-      "author": "Chicago Cubs",
-      "handle": "Cubs",
-      "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2117393206795030528/img/brrkDKPD6QuOKIzl.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2117370080296419391",
-      "text": "The Cubs today have agreed to terms with RHP Jacob Webb on a one-year major league contract with a club option for 2028.",
-      "url": "https://x.com/Cubs/status/2117370080296419391",
-      "published": "2026-11-02T21:35:40+00:00",
-      "likes": 1252,
-      "author": "Chicago Cubs",
-      "handle": "Cubs",
-      "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2117402374713331949",
-      "text": "seemed pretty obvious to us. https://t.co/Xu5yKANTSq",
-      "url": "https://x.com/Cubs/status/2117402374713331949",
-      "published": "2026-11-02T23:44:00+00:00",
-      "likes": 1208,
-      "author": "Chicago Cubs",
-      "handle": "Cubs",
-      "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWKCCHeWcAAj2DK.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2117373459345055799",
-      "text": "The Cubs today claimed RHP Eric Orze off waivers from the Minnesota Twins.",
-      "url": "https://x.com/Cubs/status/2117373459345055799",
-      "published": "2026-11-02T21:49:06+00:00",
-      "likes": 715,
-      "author": "Chicago Cubs",
-      "handle": "Cubs",
-      "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

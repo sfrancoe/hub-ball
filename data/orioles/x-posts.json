@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:36:48.650233+00:00",
+  "generated_at": "2026-11-04T06:40:22.173837+00:00",
   "source": "X",
   "source_url": "https://x.com/Orioles",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "We have made the following roster moves: https://t.co/xE4D3aREj4",
       "url": "https://x.com/Orioles/status/2117382627464208533",
       "published": "2026-11-02T22:25:32+00:00",
-      "likes": 521,
+      "likes": 553,
       "author": "Baltimore Orioles",
       "handle": "Orioles",
       "avatar": "https://pbs.twimg.com/profile_images/2101286481792815104/kl2Ddh51_normal.jpg",
@@ -18,20 +18,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2117382627464208533",
-      "text": "We have made the following roster moves: https://t.co/xE4D3aREj4",
-      "url": "https://x.com/Orioles/status/2117382627464208533",
-      "published": "2026-11-02T22:25:32+00:00",
-      "likes": 521,
-      "author": "Baltimore Orioles",
-      "handle": "Orioles",
-      "avatar": "https://pbs.twimg.com/profile_images/2101286481792815104/kl2Ddh51_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWJz3FgXwAAoweQ.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
