@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "After a monthlong search, the Mariners have settled on a first-time manager to succeed Dan Wilson in the dugout. Here's what to know about Jason Kanzler.",
+      "published": "2026-11-03T01:15:00+00:00",
+      "title": "Mariners to hire Jason Kanzler as new manager, Dan Wilson’s successor",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-to-hire-jason-kanzler-as-new-manager-dan-wilsons-successor/"
+    },
+    {
+      "category": "Mariners",
       "description": "At 36, Jason Kanzler becomes the youngest manager in Mariners history and was a high school teacher before getting his first pro coaching job. Here's what else to know.",
       "published": "2026-11-03T03:05:00+00:00",
       "title": "Who is Jason Kanzler? Here’s what to know about Mariners’ new manager",
@@ -16,17 +23,17 @@
     },
     {
       "category": "Mariners",
-      "description": "After a monthlong search, the Mariners have settled on a first-time manager to succeed Dan Wilson in the dugout. Here's what to know about Jason Kanzler.",
-      "published": "2026-11-03T01:15:00+00:00",
-      "title": "Mariners to hire Jason Kanzler as new manager, Dan Wilson’s successor",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-to-hire-jason-kanzler-as-new-manager-dan-wilsons-successor/"
-    },
-    {
-      "category": "Mariners",
       "description": "On Sunday, Cole Young was named the Gold Glove Award winner for second base in the American League, paying off his dedication to improving on defense.",
       "published": "2026-11-01T10:26:00+00:00",
       "title": "Mariners second baseman Cole Young wins AL Gold Glove Award",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-second-baseman-cole-young-wins-al-gold-glove-award/"
+    },
+    {
+      "category": "Mariners",
+      "description": "The Mariners are yet to win a World Series, but the team formerly known as the Seattle Pilots just did. And that's not the only local connection to the World Series.",
+      "published": "2026-10-29T09:22:00+00:00",
+      "title": "The World Series champion Brewers started in Seattle as the Pilots",
+      "url": "https://www.seattletimes.com/sports/mariners/the-world-series-champion-brewers-started-in-seattle-as-the-pilots/"
     },
     {
       "category": "Mariners",
@@ -41,13 +48,6 @@
       "published": "2026-10-29T10:41:00+00:00",
       "title": "Mariners decline Bryce Miller’s option for 2027; here’s what that means",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-decline-bryce-millers-option-for-2027-heres-what-that-means/"
-    },
-    {
-      "category": "Mariners",
-      "description": "Rick Rizzs, the recently retired Mariners broadcasting legend, now has a road in Issaquah that bears his name.",
-      "published": "2026-10-28T05:36:00+00:00",
-      "title": "Rick Rizzs, recently retired Mariners broadcaster, gets an Issaquah road named after him",
-      "url": "https://www.seattletimes.com/sports/mariners/rick-rizzs-recently-retired-mariners-broadcaster-gets-an-issaquah-road-named-after-him/"
     },
     {
       "category": "Mariners",
@@ -71,7 +71,7 @@
       "url": "https://www.seattletimes.com/sports/mariners/mariners-extend-qualifying-offer-to-randy-arozarena-heres-what-it-means/"
     }
   ],
-  "generated_at": "2026-11-04T17:21:18.576020+00:00",
+  "generated_at": "2026-11-04T22:43:32.145903+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

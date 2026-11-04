@@ -2,10 +2,24 @@
   "articles": [
     {
       "category": "Reds",
+      "description": "New Cincinnati Reds pitching coach Joe Torres spent the past five seasons as the Cleveland Guardians assistant pitching coach.",
+      "published": "2026-11-04T13:32:00+00:00",
+      "title": "Cincinnati Reds tap Cleveland Guardian assistant as new pitching coach",
+      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/04/cincinnati-reds-hire-guardians-assistant-new-pitching-coach/92615866007/"
+    },
+    {
+      "category": "Reds",
       "description": "Former Cincinnati Reds manager David Bell resigned as the Toronto Blue Jays' vice president of baseball operations and assistant general manager.",
       "published": "2026-11-03T10:07:00+00:00",
       "title": "Former Reds manager David Bell resigns from Toronto job",
       "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/03/david-bell-resigns-blue-jays-assistant-general-manager/92588934007/"
+    },
+    {
+      "category": "Reds",
+      "description": "Would a salary cap help the Cincinnati Reds? Would it compel a trade of Elly De La Cruz? How long will an MLB lockout last?",
+      "published": "2026-11-02T09:44:00+00:00",
+      "title": "MLB's lockout is coming. How it impacts Reds, Elly De La Cruz, fans",
+      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/02/mlbs-lockout-is-coming-how-it-impacts-reds-elly-de-la-cruz-fans/92551062007/"
     },
     {
       "category": "Reds",
@@ -22,7 +36,7 @@
       "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/10/30/why-emilio-pagan-decision-key-to-cincinnati-reds-2027-plans/92523154007/"
     }
   ],
-  "generated_at": "2026-11-04T17:21:21.952726+00:00",
+  "generated_at": "2026-11-04T22:43:36.930697+00:00",
   "source": "Enquirer",
   "source_url": "https://www.cincinnati.com/sports/reds/"
 }
