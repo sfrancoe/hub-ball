@@ -2,17 +2,31 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "Matt Kleine spent the past 19 seasons in Milwaukee’s organization, a tenure he began as an associate scout and ended as an assistant general manager. Kenneth Richmond / Getty Images HOUSTON — Before ...",
+      "description": "Flores enters the unusual ecosystem that is the Houston front office. Will he have the autonomy to make a meaningful impact?",
+      "published": "2026-11-02T13:05:00+00:00",
+      "title": "On his first day as Astros GM, Randy Flores was in full control. Can he maintain it?",
+      "url": "https://www.nytimes.com/athletic/7748604/2026/11/02/randy-flores-astros-jim-crane/"
+    },
+    {
+      "category": "Astros",
+      "description": "If Flores was Houston owner Jim Crane’s target all along, waiting until Oct. 30 to hire him is borderline indefensible.",
+      "published": "2026-11-01T03:51:00+00:00",
+      "title": "Astros’ GM search raises questions — and gives Randy Flores little time to establish new era",
+      "url": "https://www.nytimes.com/athletic/7742521/2026/11/01/astros-gm-search-randy-flores-lockout-matt-kleine/"
+    },
+    {
+      "category": "Astros",
+      "description": "Longtime executive Matt Kleine has emerged as the Astros’ top choice in their general manager search, multiple league sources who spoke Thursday on condition of anonymity because they were not ...",
       "published": "2026-10-29T08:01:00+00:00",
       "title": "Brewers exec Matt Kleine emerges as focus of Astros GM search: Sources",
       "url": "https://www.nytimes.com/athletic/7712356/2026/10/29/brewers-matt-kleine-astros-gm-candidate/"
     },
     {
       "category": "Astros",
-      "description": "The Astros are looking for a new general manager after parting ways with Dana Brown in August. Kenneth Richmond / Getty Images HOUSTON — The Houston Astros’ two-month search for a general manager is ...",
-      "published": "2026-10-20T12:37:00+00:00",
-      "title": "Astros could name new general manager before end of World Series: Sources",
-      "url": "https://www.nytimes.com/athletic/7708292/2026/10/20/astros-general-manager-candidates/"
+      "description": "Imai struggled in his first major-league season in 2026 and was eventually demoted from Houston’s starting rotation.",
+      "published": "2026-10-29T11:59:00+00:00",
+      "title": "Tatsuya Imai won’t exercise opt out, will return to Astros in 2027: Sources",
+      "url": "https://www.nytimes.com/athletic/7736366/2026/10/29/astros-tatsuya-imai-contract-player-option-2027/"
     },
     {
       "category": "Astros",
@@ -22,7 +36,7 @@
       "url": "https://www.nytimes.com/athletic/7711238/2026/10/21/mariners-manager-search-candidates/"
     }
   ],
-  "generated_at": "2026-11-04T02:11:31.401726+00:00",
+  "generated_at": "2026-11-04T17:21:17.508119+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/astros/"
 }

@@ -2,13 +2,55 @@
   "articles": [
     {
       "category": "Cubs",
-      "description": "The perfect fall weather in Chicago and the turning of the ivy reminds us that Game 3 of the World Series could have been set for Monday night at Wrigley Field. Alas, the Chicago Cubs did not ...",
+      "description": "New Seattle Mariners manager Jason Kanzler was the Chicago Cubs director of player development, leading their minor-league system, players and coaching staff.",
+      "published": "2026-11-03T09:52:00+00:00",
+      "title": "Seattle Mariners hire Jason Kanzler, the Chicago Cubs farm director, as their new manager",
+      "url": "https://www.chicagotribune.com/2026/11/03/seattle-mariners-hire-jason-kanzler-chicago-cubs/"
+    },
+    {
+      "category": "Cubs",
+      "description": "On Nov. 2, 2016 — 10 years ago Monday — the Chicago Cubs ended the longest title drought in North American sports history by winning the World Series.",
+      "published": "2026-11-02T04:00:00+00:00",
+      "title": "‘Everyone can die happy’: 10 years later, Chicago Cubs’ 2016 World Series title still resonates",
+      "url": "https://www.chicagotribune.com/2026/11/02/chicago-cubs-world-series-anniversary/"
+    },
+    {
+      "category": "Cubs",
+      "description": "Chicago Cubs’ Pete Crow-Armstrong and Alex Bregman won NL Gold Glove Awards, while three finalist teammates fell short of the honor.",
+      "published": "2026-11-01T19:43:00+00:00",
+      "title": "Chicago Cubs’ Pete Crow-Armstrong and Alex Bregman win Gold Glove Awards",
+      "url": "https://www.chicagotribune.com/2026/11/01/chicago-cubs-pete-crow-armstrong-and-alex-bregman-win-gold-glove-awards/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The Milwaukee Brewers’ championship celebration reminds us of a similar one from a certain team in a certain town 10 years ago Monday.",
+      "published": "2026-11-01T03:01:00+00:00",
+      "title": "Column: Raucous Milwaukee Brewers celebration reminds Chicago Cubs fans of their fleeting moment in the sun",
+      "url": "https://www.chicagotribune.com/2026/11/01/chicago-cubs-milwaukee-brewers-series-celebration/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The Chicago Cubs added to their pitching depth Monday by claiming right-hander Eric Orze, an Elk Grove native and Glenbard North graduate, off waivers from the Minnesota Twins.",
+      "published": "2026-11-02T15:02:00+00:00",
+      "title": "Chicago Cubs begin the offseason by extending a qualifying offer to right fielder Seiya Suzuki",
+      "url": "https://www.chicagotribune.com/2026/11/02/chicago-cubs-seiya-suzuki-qualifying-offer/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The Chicago Cubs are currently ripping up sidewalks outside Wrigley Field for security updates in conjunction with the planned 2027 All-Star Game.",
       "published": "2026-10-26T13:52:00+00:00",
       "title": "Column: Security upgrades are underway at Wrigley Field while Chicago Cubs watch the World Series on TV",
       "url": "https://www.chicagotribune.com/2026/10/26/chicago-cubs-wrigley-field-security-upgrades/"
+    },
+    {
+      "category": "Cubs",
+      "description": "2019: The Chicago Cubs hired veteran catcher and 2016 World Series team member David Ross as their manager.",
+      "published": "2026-10-23T01:59:00+00:00",
+      "title": "Today in Chicago History: Cubs hire ‘Grandpa Rossy’ David Ross as their manager",
+      "url": "https://www.chicagotribune.com/2026/10/23/october-23-chicago-history/"
     }
   ],
-  "generated_at": "2026-11-04T09:17:33.710591+00:00",
+  "generated_at": "2026-11-04T17:21:21.393831+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

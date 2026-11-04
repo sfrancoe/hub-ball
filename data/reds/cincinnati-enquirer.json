@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Reds",
+      "description": "Former Cincinnati Reds manager David Bell resigned as the Toronto Blue Jays' vice president of baseball operations and assistant general manager.",
+      "published": "2026-11-03T10:07:00+00:00",
+      "title": "Former Reds manager David Bell resigns from Toronto job",
+      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/03/david-bell-resigns-blue-jays-assistant-general-manager/92588934007/"
+    },
+    {
+      "category": "Reds",
       "description": "Cincinnati Reds closer Emilio Pagán declined a $10 million option for 2027 to enter free agency. Neither Pagán nor the Reds has ruled out a reunion.",
       "published": "2026-10-31T16:47:00+00:00",
       "title": "Cincinnati Reds closer Emilio Pagán free agent after declining option",
@@ -15,7 +22,7 @@
       "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/10/30/why-emilio-pagan-decision-key-to-cincinnati-reds-2027-plans/92523154007/"
     }
   ],
-  "generated_at": "2026-11-04T02:11:36.981649+00:00",
+  "generated_at": "2026-11-04T17:21:21.952726+00:00",
   "source": "Enquirer",
   "source_url": "https://www.cincinnati.com/sports/reds/"
 }

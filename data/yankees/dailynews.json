@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Republicans were routed in Tuesday's midterm elections, but at least they'll have a ringer for...",
+      "published": "2026-11-04T16:08:57+00:00",
+      "title": "Former Yankee Mark Teixeira wins U.S. House seat in Texas despite GOP bloodbath",
+      "url": "https://www.nydailynews.com/2026/11/04/yankees-mark-teixeira-wins-house-seat-texas-republican/"
+    },
+    {
+      "category": "Yankees",
       "description": "In what was essentially a formality, Cam Schlittler was named a finalist for the American...",
       "published": "2026-11-03T12:30:17+00:00",
       "title": "Yankees’ Cam Schlittler expectedly named Cy Young finalist, spurned for bigger award",
@@ -132,16 +139,9 @@
       "published": "2026-10-21T19:48:35+00:00",
       "title": "Hal Steinbrenner has no plans to sell Yankees after Apollo deal",
       "url": "https://www.nydailynews.com/2026/10/21/hal-steinbrenner-no-plans-sell-yankees-apollo-deal/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Brian Cashman isn’t going anywhere. The longtime Yankees general manager said Wednesday morning that the...",
-      "published": "2026-10-21T17:12:34+00:00",
-      "title": "Yankees, GM Brian Cashman agree to a new contract",
-      "url": "https://www.nydailynews.com/2026/10/21/yankees-gm-brian-cashman-agree-new-contract-steinbrenner/"
     }
   ],
-  "generated_at": "2026-11-03T16:46:37.452841+00:00",
+  "generated_at": "2026-11-04T17:21:00.926739+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
