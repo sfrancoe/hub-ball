@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-04T16:24:16.964872+00:00",
+  "generatedAt": "2026-11-04T22:15:19.592101+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Alex McCoy headlines Padres prospects playing in the Arizona Fall League all-star game",
+      "description": "Outfielder Alex McCoy and right-hander Kannon Kemp were selected to the 20th Annual “Fall Stars Game” on Sunday at Salt River Fields in Scottsdale, Ariz. Meantime, infielder Justin DeCriscio is up ...",
+      "url": "https://www.sandiegouniontribune.com/2026/11/04/alex-mccoy-headlines-padres-prospects-playing-in-the-arizona-fall-league-all-star-game/",
+      "published": "2026-11-04T21:05:40+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Pair of Braves prospects make Arizona Fall League All-Star Game",
+      "description": "Shortstop Tate Southisene and pitcher Briggs McKenzie will represent the Atlanta Braves during the event Sunday at Salt River Fields in Arizona.",
+      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-prospects-arizona-fall-league-all-star-game/",
+      "published": "2026-11-04T20:10:19.629000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Liverpool and Boston Red Sox owners looking to purchase stake in Cadillac Formula 1 Team",
+      "description": "Cadillac joined the F1 grid this season, backed by General Motors and Walter’s TWG Global.",
+      "url": "https://www.nytimes.com/athletic/7753516/2026/11/04/liverpool-red-sox-owners-formula-1-cadillac-team/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Former Yankee Mark Teixeira wins U.S. House seat in Texas despite GOP bloodbath",
       "description": "Republicans were routed in Tuesday's midterm elections, but at least they'll have a ringer for...",
@@ -19,6 +55,30 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Atlanta Braves Holdings releases third quarter financial report",
+      "description": "Total revenue for Atlanta Braves Holdings grew to $325 million in the third quarter, up 4% from the prior year period.",
+      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-holdings-third-quarter-earnings/",
+      "published": "2026-11-04T15:00:23.661000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Houston Astros to interview Albert Pujols for manager's job",
+      "description": "Albert Pujols, who played with new Houston general manager Randy Flores in St. Louis, will interview for the Astros' managerial spot.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/albert-pujols-houston-interview-22512602.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Yankees World Series champ is one of the few Republicans who had a good night",
@@ -69,6 +129,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "Albert Pujols to interview for Astros’ managerial vacancy: Source",
+      "description": "The Astros will interview former St. Louis Cardinals star Albert Pujols for their managerial opening this week, according to a league source who spoke on condition of anonymity because they were not ...",
+      "url": "https://www.nytimes.com/athletic/7753889/2026/11/04/albert-pujols-astros-manager-interview/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "How Red Sox prospects from 2026 Draft did in their debuts (and other notes)",
       "description": "Six of the 20 players who the Red Sox selected in the 2026 Draft made their professional debuts before the season ended. Here's how they did.",
       "url": "https://www.masslive.com/redsox/2026/11/how-red-sox-prospects-from-2026-draft-did-in-their-debuts-and-other-notes.html",
@@ -81,9 +153,21 @@
       "publishedSource": "unverified"
     },
     {
-      "title": "You voted for the Brewers postseason MVP, and it was a landslide",
-      "description": "We asked readers to select an MVP for the entire Milwaukee Brewers postseason run, which finished with a World Series title. Your answer was clear.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/04/readers-make-clear-cut-choice-for-brewers-2026-postseason-mvp/92608419007/",
+      "title": "As MLB heads toward lockout, Braves tout record revenue but sidestep labor questions",
+      "description": "Atlanta’s third-quarter revenue in 2026 was a record, up 4 percent from the year prior. But going forward, the lockout makes things murky.",
+      "url": "https://www.nytimes.com/athletic/7753728/2026/11/04/mlb-braves-record-revenue-labor-lockout/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Brice Turang named Brewers MVP, plus other awards from local writers",
+      "description": "Brice Turang was acknowledged as the Milwaukee Brewers' MVP for a second straight year by the local baseball writers. Check out other award winners.",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/04/local-baseball-writers-chapter-brewers-mvp-awards/92611644007/",
       "published": "",
       "source": "Journal Sentinel",
       "teamId": 158,
