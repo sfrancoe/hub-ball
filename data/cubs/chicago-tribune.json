@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "New Seattle Mariners manager Jason Kanzler was the Chicago Cubs director of player development, leading their minor-league system, players and coaching staff.",
+      "published": "2026-11-03T09:52:00+00:00",
+      "title": "Seattle Mariners hire Jason Kanzler, the Chicago Cubs farm director, as their new manager",
+      "url": "https://www.chicagotribune.com/2026/11/03/seattle-mariners-hire-jason-kanzler-chicago-cubs/"
+    },
+    {
+      "category": "Cubs",
       "description": "On Nov. 2, 2016 — 10 years ago Monday — the Chicago Cubs ended the longest title drought in North American sports history by winning the World Series.",
       "published": "2026-11-02T04:00:00+00:00",
       "title": "‘Everyone can die happy’: 10 years later, Chicago Cubs’ 2016 World Series title still resonates",
@@ -9,10 +16,10 @@
     },
     {
       "category": "Cubs",
-      "description": "New Seattle Mariners manager Jason Kanzler was the Chicago Cubs director of player development, leading their minor-league system, players and coaching staff.",
-      "published": "2026-11-03T09:52:00+00:00",
-      "title": "Seattle Mariners hire Jason Kanzler, the Chicago Cubs farm director, as their new manager",
-      "url": "https://www.chicagotribune.com/2026/11/03/seattle-mariners-hire-jason-kanzler-chicago-cubs/"
+      "description": "Chicago Cubs’ Pete Crow-Armstrong and Alex Bregman won NL Gold Glove Awards, while three finalist teammates fell short of the honor.",
+      "published": "2026-11-01T19:43:00+00:00",
+      "title": "Chicago Cubs’ Pete Crow-Armstrong and Alex Bregman win Gold Glove Awards",
+      "url": "https://www.chicagotribune.com/2026/11/01/chicago-cubs-pete-crow-armstrong-and-alex-bregman-win-gold-glove-awards/"
     },
     {
       "category": "Cubs",
@@ -23,10 +30,10 @@
     },
     {
       "category": "Cubs",
-      "description": "Chicago Cubs’ Pete Crow-Armstrong and Alex Bregman won NL Gold Glove Awards, while three finalist teammates fell short of the honor.",
-      "published": "2026-11-01T19:43:00+00:00",
-      "title": "Chicago Cubs’ Pete Crow-Armstrong and Alex Bregman win Gold Glove Awards",
-      "url": "https://www.chicagotribune.com/2026/11/01/chicago-cubs-pete-crow-armstrong-and-alex-bregman-win-gold-glove-awards/"
+      "description": "Ten years ago, the Cubs won the World Series, and my son was hospitalized. My religious communities buoyed my family during that time.",
+      "published": "2026-11-05T03:00:00+00:00",
+      "title": "Rebecca Russo: 10 years after a miracle in Wrigleyville and an outpouring of love",
+      "url": "https://www.chicagotribune.com/2026/11/05/opinion-10-years-after-miracle-wrigleyville/"
     },
     {
       "category": "Cubs",
@@ -50,7 +57,7 @@
       "url": "https://www.chicagotribune.com/2026/10/23/october-23-chicago-history/"
     }
   ],
-  "generated_at": "2026-11-05T10:04:11.190511+00:00",
+  "generated_at": "2026-11-05T17:58:12.102659+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

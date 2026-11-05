@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "Who’s in and who’s out of a way-too-early 2027 opening day roster projection for the Orioles as they enter free agency.",
+      "published": "2026-11-05T04:00:00+00:00",
+      "title": "Orioles roster projection: Where things stand as free agency begins",
+      "url": "https://www.baltimoresun.com/2026/11/05/orioles-roster-projection-free-agency/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles have plenty of needs to address this offseason. With a new GM and the lockout looming, how aggressive will they be?",
       "published": "2026-11-03T21:48:00+00:00",
       "title": "5 biggest offseason questions facing the Orioles as free agency begins",
@@ -16,17 +23,17 @@
     },
     {
       "category": "Orioles",
-      "description": "From Ryan Mountcastle to Trevor Rogers to Ryan Helsley, how likely is every Orioles free agent and option player to return in 2027?",
-      "published": "2026-10-29T12:25:00+00:00",
-      "title": "Ranking Orioles free agents and option players most likely to return",
-      "url": "https://www.baltimoresun.com/2026/10/29/orioles-ranking-free-agents-option-players-most-likely-to-return-in-2027/"
-    },
-    {
-      "category": "Orioles",
       "description": "The Orioles declined outfielder Luis Robert Jr.’s $20 million team option for 2027, a source confirmed to The Baltimore Sun.",
       "published": "2026-10-31T16:13:00+00:00",
       "title": "Orioles decline $20M team option for Luis Robert Jr. amid flurry of moves",
       "url": "https://www.baltimoresun.com/2026/10/31/orioles-luis-robert-team-option/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles moved on from injured starter Zach Eflin but brought back outfielder Rece Hinds on a one-year deal for the 2027 season.",
+      "published": "2026-10-30T11:41:00+00:00",
+      "title": "Orioles decline Zach Eflin’s mutual option, re-sign Rece Hinds to MLB deal",
+      "url": "https://www.baltimoresun.com/2026/10/30/orioles-zach-eflin-rece-hinds/"
     },
     {
       "category": "Orioles",
@@ -37,10 +44,10 @@
     },
     {
       "category": "Orioles",
-      "description": "The Orioles moved on from injured starter Zach Eflin but brought back outfielder Rece Hinds on a one-year deal for the 2027 season.",
-      "published": "2026-10-30T11:41:00+00:00",
-      "title": "Orioles decline Zach Eflin’s mutual option, re-sign Rece Hinds to MLB deal",
-      "url": "https://www.baltimoresun.com/2026/10/30/orioles-zach-eflin-rece-hinds/"
+      "description": "From Ryan Mountcastle to Trevor Rogers to Ryan Helsley, how likely is every Orioles free agent and option player to return in 2027?",
+      "published": "2026-10-29T12:25:00+00:00",
+      "title": "Ranking Orioles free agents and option players most likely to return",
+      "url": "https://www.baltimoresun.com/2026/10/29/orioles-ranking-free-agents-option-players-most-likely-to-return-in-2027/"
     },
     {
       "category": "Orioles",
@@ -55,16 +62,9 @@
       "published": "2026-11-02T13:54:00+00:00",
       "title": "Orioles make $23.15M qualifying offer to Trevor Rogers before free agency",
       "url": "https://www.baltimoresun.com/2026/11/02/orioles-trevor-rogers-qualifying-offer/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Jared Banner held his introductory news conference Tuesday alongside Mike Elias. Here are five things we learned about the new GM.",
-      "published": "2026-10-28T03:30:00+00:00",
-      "title": "5 things we learned from Orioles GM Jared Banner’s introduction",
-      "url": "https://www.baltimoresun.com/2026/10/28/orioles-jared-banner-mike-elias-news-conference/"
     }
   ],
-  "generated_at": "2026-11-05T10:03:57.863706+00:00",
+  "generated_at": "2026-11-05T17:57:53.805286+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

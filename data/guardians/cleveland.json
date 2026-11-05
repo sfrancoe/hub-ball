@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "Messick is trying to become only the second rookie in MLB history to win both the Cy Young and Rookie of the Year, joining 1981 Dodgers legend Fernando Valenzuela on a very short list.",
+      "published": "2026-11-05T03:19:00+00:00",
+      "title": "How Parker Messick’s historic rookie season could reshape the Guardians’ 2027 draft",
+      "url": "https://www.cleveland.com/guardians/2026/11/how-parker-messicks-historic-rookie-season-keeps-paying-off-for-the-guardians.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Guardians rookie Chase DeLauter is an AL Silver Slugger finalist after hitting .287 in 2026, rewarding the team's patience through years of injuries.",
+      "published": "2026-11-05T04:12:00+00:00",
+      "title": "Guardians’ patience with Chase DeLauter pays off with Silver Slugger nomination",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-patience-with-chase-delauter-pays-off-with-silver-slugger-nomination.html"
+    },
+    {
+      "category": "Guardians",
       "description": "A key figure in Cleveland's pitching development for a decade is departing to become the Cincinnati Reds' pitching coach under Terry Francona.",
       "published": "2026-11-04T08:20:00+00:00",
       "title": "Terry Francona raids Guardians’ pitching staff, brings trusted coach to Cincinnati",
@@ -30,17 +44,17 @@
     },
     {
       "category": "Guardians",
-      "description": "In this week's Terry's Talkin' podcast, Terry Pluto and host David Campbell consider the best and worst things about the 5-3 Browns; and discuss whether the Guardians can be better if they run it back ...",
-      "published": "2026-11-04T09:53:00+00:00",
-      "title": "The best and worst thing about the 5-3 Browns; Will the Guardians be better in 2027? Terry’s Talkin’ podcast",
-      "url": "https://www.cleveland.com/pluto/2026/11/the-best-and-worst-thing-about-the-5-3-browns-will-the-guardians-be-better-in-2027-terrys-talkin-podcast.html"
-    },
-    {
-      "category": "Guardians",
       "description": "With top prospects developing simultaneously and a pitching staff built to win, the Guardians may have the pieces to reward their franchise cornerstone — if everything breaks right.",
       "published": "2026-10-29T22:15:00+00:00",
       "title": "The José Ramírez clock is running — Can the Guardians win it all before his window closes?",
       "url": "https://www.cleveland.com/guardians/2026/10/the-jose-ramirez-clock-is-running-can-the-guardians-win-it-all-before-his-window-closes.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "In this week's Terry's Talkin' podcast, Terry Pluto and host David Campbell consider the best and worst things about the 5-3 Browns; and discuss whether the Guardians can be better if they run it back ...",
+      "published": "2026-11-04T09:53:00+00:00",
+      "title": "The best and worst thing about the 5-3 Browns; Will the Guardians be better in 2027? Terry’s Talkin’ podcast",
+      "url": "https://www.cleveland.com/pluto/2026/11/the-best-and-worst-thing-about-the-5-3-browns-will-the-guardians-be-better-in-2027-terrys-talkin-podcast.html"
     },
     {
       "category": "Guardians",
@@ -51,24 +65,10 @@
     },
     {
       "category": "Guardians",
-      "description": "Clase and Luis Ortiz face federal charges in Brooklyn for allegedly manipulating pitches for gamblers, and Guardians fans are wrestling with something harder than a verdict: how to trust what they see ...",
-      "published": "2026-11-02T05:23:00+00:00",
-      "title": "As Emmanuel Clase’s trial begins, the Guardians may never fully escape what it reveals",
-      "url": "https://www.cleveland.com/guardians/2026/11/as-emmanuel-clases-trial-begins-the-guardians-may-never-fully-escape-what-it-reveals.html"
-    },
-    {
-      "category": "Guardians",
       "description": "CLEVELAND, Ohio — Monday was a good night for Guardians pitchers Parker Messick and Cade Smith. Messick, the rookie left-hander, was named a finalist by the Baseball Writers Association of America for ...",
       "published": "2026-11-02T11:57:00+00:00",
       "title": "Guardians’ Parker Messick doubles up as finalist for Cy Young, Rookie of the Year; Cade Smith Reliever of the Year finalist",
       "url": "https://www.cleveland.com/guardians/2026/11/guardians-parker-messick-doubles-up-as-finalist-for-cy-young-rookie-of-the-year-cade-smith-reliever-of-the-year-finalist.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The Guardians are losing assistant director of hitting development Conner Watson to the Houston Astros, where former Cleveland coach Victor Rodriguez awaits.",
-      "published": "2026-10-27T12:16:00+00:00",
-      "title": "Astros hire Guardians hitting development assistant with Driveline background",
-      "url": "https://www.cleveland.com/guardians/2026/10/astros-hire-guardians-hitting-development-assistant-with-driveline-background.html"
     },
     {
       "category": "Guardians",
@@ -79,13 +79,13 @@
     },
     {
       "category": "Guardians",
-      "description": "The Guardians are not expected to exercise either option. Cleveland also holds a $10 million club option for right-hander Emmanuel Clase, who is currently facing federal charges along with another ...",
-      "published": "2026-10-30T09:09:00+00:00",
-      "title": "Four Guardians hit free agency; Shawn Armstrong, Trevor Stephan’s options not expected to be exercised",
-      "url": "https://www.cleveland.com/guardians/2026/10/four-guardians-hit-free-agency-shawn-armstrong-trevor-stephans-option-not-expected-to-be-exercised.html"
+      "description": "Clase and Luis Ortiz face federal charges in Brooklyn for allegedly manipulating pitches for gamblers, and Guardians fans are wrestling with something harder than a verdict: how to trust what they see ...",
+      "published": "2026-11-02T05:23:00+00:00",
+      "title": "As Emmanuel Clase’s trial begins, the Guardians may never fully escape what it reveals",
+      "url": "https://www.cleveland.com/guardians/2026/11/as-emmanuel-clases-trial-begins-the-guardians-may-never-fully-escape-what-it-reveals.html"
     }
   ],
-  "generated_at": "2026-11-05T10:04:02.885455+00:00",
+  "generated_at": "2026-11-05T17:57:55.292408+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

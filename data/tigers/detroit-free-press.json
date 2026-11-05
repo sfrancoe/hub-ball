@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Three Detroit Tigers are up for Silver Slugger awards, it was announced on Thursday, Nov. 5. Shortstop Kevin McGonigle, outfielder Riley Greene and catcher Dillon Dingler are up for the award at their ...",
+      "published": "2026-11-05T08:16:00+00:00",
+      "title": "3 Detroit Tigers named 2026 Silver Slugger finalists",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/05/detroit-tigers-kevin-mcgonigle-riley-greene-dillon-dingler/92625252007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "Back in May, Win Scott was pitching in independent ball – one step below the minor leagues, just hoping to catch on with an MLB organization.",
+      "published": "2026-11-05T02:02:00+00:00",
+      "title": "For the Win: Meet the Tigers pitching prospect who came out of nowhere",
+      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/05/detroit-tigers-pitching-prospect-win-scott/92612789007/"
+    },
+    {
+      "category": "Tigers",
       "description": "RJ Petit, a 6-foot-8 right-handed pitcher, has been sent back to the Tigers by way of Rule 5 draft rules. The Colorado Rockies took Petit from the Tigers with the No. 1 overall pick in the 2025 Rule 5 ...",
       "published": "2026-11-03T12:38:00+00:00",
       "title": "Detroit Tigers get a pitcher back after losing him to Rule 5 draft",
@@ -16,17 +30,17 @@
     },
     {
       "category": "Tigers",
-      "description": "The Detroit Tigers have acquired Tsung-Che Cheng, a left-handed hitting infielder, from the Boston Red Sox for cash considerations ...",
-      "published": "2026-10-30T08:05:00+00:00",
-      "title": "Detroit Tigers swing trade for infielder Tsung-Che Cheng",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/30/detroit-tigers-trade-infielder-tsung-che-cheng/92512827007/"
-    },
-    {
-      "category": "Tigers",
       "description": "For the second year in a row, Detroit Tigers catcher Dillon Dingler is the American League’s best defensive backstop.",
       "published": "2026-11-01T19:10:00+00:00",
       "title": "Dillon Dingler joins elite club of Tigers catchers with 2nd Gold Glove",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/01/detroit-tigers-catcher-dillon-dingler-wins-2nd-straight-gold-glove/92557629007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "The Detroit Tigers have acquired Tsung-Che Cheng, a left-handed hitting infielder, from the Boston Red Sox for cash considerations ...",
+      "published": "2026-10-30T08:05:00+00:00",
+      "title": "Detroit Tigers swing trade for infielder Tsung-Che Cheng",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/30/detroit-tigers-trade-infielder-tsung-che-cheng/92512827007/"
     },
     {
       "category": "Tigers",
@@ -48,16 +62,9 @@
       "published": "2026-10-27T14:26:00+00:00",
       "title": "Brewers seek first World Series sweep since Giants swept Tigers in 2012",
       "url": "https://www.freep.com/story/sports/mlb/brewers/2026/10/27/brewers-could-end-14-year-world-series-sweep-drought-with-game-4-win/92461550007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "Alabama travels to Baton Rouge on Saturday afternoon for a tough test against LSU. Here is everything you need to know about the Tigers.",
-      "published": "2026-11-04T08:50:00+00:00",
-      "title": "Alabama football Week 10 opponent preview: LSU Tigers",
-      "url": "https://www.freep.com/story/sports/college/crimson-tide/football/2026/11/04/alabama-football-lsu-tigers-week-10-preview/92571496007/"
     }
   ],
-  "generated_at": "2026-11-05T10:04:03.495088+00:00",
+  "generated_at": "2026-11-05T17:57:55.915952+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

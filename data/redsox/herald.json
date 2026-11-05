@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Two of the winningest managers in MLB history are among the favorites to earn enshrinement in Cooperstown this winter.",
+      "published": "2026-11-05T10:30:24Z",
+      "title": "Cerullo: World Series champion managers headline Hall of Fame era ballot",
+      "url": "https://www.bostonherald.com/2026/11/05/cerullo-world-series-champion-managers-headline-hall-of-fame-era-ballot/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox’s quest to get creative with their 40-man roster crunch continued Tuesday with a pitching trade.",
       "published": "2026-11-04T00:06:17Z",
       "title": "Red Sox trade rookie left-hander amid difficult roster decisions",
@@ -104,16 +111,9 @@
       "published": "2026-10-27T09:30:50Z",
       "title": "Alex Cora shares, takes issue with believed cause of Red Sox firing",
       "url": "https://www.bostonherald.com/2026/10/27/alex-cora-shares-believed-cause-of-red-sox-firing/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "After twice failing to convince Alex Cora to manage the Philadelphia Phillies, former Red Sox exec Dave Dombrowski is hiring one of the coaches fired alongside Cora in April.",
-      "published": "2026-10-26T22:04:46Z",
-      "title": "Ex-Red Sox coach fired alongside Alex Cora gets second chance with Phillies",
-      "url": "https://www.bostonherald.com/2026/10/26/red-sox-ex-hitting-coach-pete-fatse-hired-philadelphia-phillies-dave-dombrowski-alex-cora-mlb/"
     }
   ],
-  "generated_at": "2026-11-04T02:11:11.992120+00:00",
+  "generated_at": "2026-11-05T17:57:44.387688+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

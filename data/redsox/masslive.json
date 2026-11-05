@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox have two American League Silver Slugger finalists.",
+      "published": "2026-11-05T17:36:48+00:00",
+      "title": "Red Sox have two 2026 AL Silver Slugger finalists",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-have-two-2026-al-silver-slugger-finalists.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "MassLive’s Fenway Insider Sean McAdam hosted a live mailbag Thursday, Nov. 5 to highlight the latest news from the Boston Red Sox.",
+      "published": "2026-11-05T16:00:00+00:00",
+      "title": "Fenway Insider Live: Sean McAdam on Red Sox options in free agency ahead of potential lockout, more",
+      "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-live-sean-mcadam-on-red-sox-options-in-free-agency-ahead-of-potential-lockout-more.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Shelley Duncan, a former Yankees minor league manager and 2025 International League Manager of the Year, has been hired to join Chad Tracy's Red Sox coaching staff.",
       "published": "2026-11-05T00:43:22+00:00",
       "title": "Red Sox bolster staff with hire of Yankees' Triple-A manager",
@@ -97,23 +111,9 @@
       "published": "2026-10-29T22:31:52+00:00",
       "title": "Red Sox infielder undergoes foot surgery after already having finger surgery",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-infielder-undergoes-foot-surgery-after-already-having-finger-surgery.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "On Thursday, the first day of baseball’s offseason, two Red Sox officially became free agents. They’ll be joined by another (now-former) teammate soon.",
-      "published": "2026-10-29T18:31:16+00:00",
-      "title": "Kiner-Falefa, Sandoval among Red Sox heading to free agency",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-free-agents-two-veterans-hit-open-market-and-a-third-will-join-them-soon.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox have made a trade.",
-      "published": "2026-10-29T18:02:35+00:00",
-      "title": "Red Sox trade outfielder Nate Eaton to the Athletics",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-make-first-trade-of-offseason-ship-speedy-outfielder-to-as.html"
     }
   ],
-  "generated_at": "2026-11-05T02:50:05.128155+00:00",
+  "generated_at": "2026-11-05T17:57:46.709032+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

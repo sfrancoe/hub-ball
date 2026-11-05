@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Winners will be announced Nov. 17. Silver Sluggers are determined by a vote of every manager and three coaches from each team.",
+      "published": "2026-11-05T17:06:01.657Z",
+      "title": "Red Sox’ Wilyer Abreu, Willson Contreras named Silver Slugger Award finalists",
+      "url": "https://www.bostonglobe.com/2026/11/05/sports/red-sox-silver-slugger-abreu-contreras/"
+    },
+    {
+      "category": "Red Sox",
       "description": "Duncan managed Scranton/Wilkes-Barre, the Yankees’ Triple-A affiliate, for the last four seasons.",
       "published": "2026-11-05T02:58:15.078Z",
       "title": "Red Sox hiring the Yankees’ Shelley Duncan for Chad Tracy’s coaching staff",
@@ -104,16 +111,9 @@
       "published": "2026-10-29T22:44:28.293Z",
       "title": "Sal Frelick knew the Brewers had something special. Now they’re World Series champions.",
       "url": "https://www.bostonglobe.com/2026/10/28/sports/world-series-brewers-first-championship/"
-    },
-    {
-      "category": "world series",
-      "description": "The Red Sox' first baseman was critical of his team at the end of the season, but said Wednesday he \"feels good\" about where things stand after a meeting with leadership.",
-      "published": "2026-10-29T22:09:58.433Z",
-      "title": "Willson Contreras celebrates his brother’s star turn at the World Series, and says he’s all good with Red Sox",
-      "url": "https://www.bostonglobe.com/2026/10/29/sports/william-contreras-willson-contreras-world-series/"
     }
   ],
-  "generated_at": "2026-11-05T10:03:46.512149+00:00",
+  "generated_at": "2026-11-05T17:57:44.035074+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
