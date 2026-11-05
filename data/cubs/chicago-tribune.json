@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Cubs",
-      "description": "New Seattle Mariners manager Jason Kanzler was the Chicago Cubs director of player development, leading their minor-league system, players and coaching staff.",
-      "published": "2026-11-03T09:52:00+00:00",
-      "title": "Seattle Mariners hire Jason Kanzler, the Chicago Cubs farm director, as their new manager",
-      "url": "https://www.chicagotribune.com/2026/11/03/seattle-mariners-hire-jason-kanzler-chicago-cubs/"
-    },
-    {
-      "category": "Cubs",
       "description": "On Nov. 2, 2016 — 10 years ago Monday — the Chicago Cubs ended the longest title drought in North American sports history by winning the World Series.",
       "published": "2026-11-02T04:00:00+00:00",
       "title": "‘Everyone can die happy’: 10 years later, Chicago Cubs’ 2016 World Series title still resonates",
       "url": "https://www.chicagotribune.com/2026/11/02/chicago-cubs-world-series-anniversary/"
+    },
+    {
+      "category": "Cubs",
+      "description": "New Seattle Mariners manager Jason Kanzler was the Chicago Cubs director of player development, leading their minor-league system, players and coaching staff.",
+      "published": "2026-11-03T09:52:00+00:00",
+      "title": "Seattle Mariners hire Jason Kanzler, the Chicago Cubs farm director, as their new manager",
+      "url": "https://www.chicagotribune.com/2026/11/03/seattle-mariners-hire-jason-kanzler-chicago-cubs/"
     },
     {
       "category": "Cubs",
@@ -50,7 +50,7 @@
       "url": "https://www.chicagotribune.com/2026/10/23/october-23-chicago-history/"
     }
   ],
-  "generated_at": "2026-11-05T02:50:34.012211+00:00",
+  "generated_at": "2026-11-05T10:04:11.190511+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

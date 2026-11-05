@@ -2,27 +2,6 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "The Dodgers are hiring former San Diego Padres executive Caroline Perry as their executive vice president and chief operating officer.",
-      "published": "2026-11-02T14:51:00+00:00",
-      "title": "Dodgers adding former Padres executive to their front office",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-02/dodgers-hire-former-padres-coo-caroline-perry"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Dodgers hope to address their bullpen needs and pitching depth this offseason, but the threat of a lockout could complicate their free-agency plans.",
-      "published": "2026-10-30T04:00:00+00:00",
-      "title": "Dodgers offseason primer: Bullpen needs, Shohei Ohtani’s health and a winter of uncertainty",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-30/dodgers-offseason-primer-looming-mlb-lockout-complicates-plans"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Mark Walter and his representatives have said multiple times the Dodgers won't be sold, but he also said that about his stake in the Cadillac Formula One team.",
-      "published": "2026-11-02T17:04:00+00:00",
-      "title": "Mark Walter says he won’t sell the Dodgers, but his plans keep changing",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-02/mark-walter-trust-he-will-not-sell-dodgers-formula-one"
-    },
-    {
-      "category": "Dodgers",
       "description": "An insurer controlled by Mark Walter, the billionaire owner of the Los Angeles Dodgers, received partial approval on its plan to slash a pile of loans that is being scrutinized by the Justice ...",
       "published": "2026-10-23T08:50:00+00:00",
       "title": "Dodgers owner Mark Walter wins partial approval to begin reshaping $20-billion network of loans",
@@ -41,9 +20,16 @@
       "published": "2026-10-23T14:50:00+00:00",
       "title": "As a kid, this World Series starter rooted for the Astros. Then he learned they cheated",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-23/this-world-series-starter-rooted-for-astros-then-they-cheated"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Readers of the Los Angeles Times Sports section give their thoughts on the Dodgers and Bill Plaschke’s commentary, the Rams, Chargers, Lakers and more.",
+      "published": "2026-10-24T04:00:00+00:00",
+      "title": "Letters to Sports: Debating Shohei Ohtani’s two-way workload",
+      "url": "https://www.latimes.com/sports/story/2026-10-24/letters-to-sports-debating-shohei-ohtanis-two-way-workload"
     }
   ],
-  "generated_at": "2026-11-05T02:50:42.162875+00:00",
+  "generated_at": "2026-11-05T10:04:22.679583+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }
