@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Shelley Duncan, a former Yankees minor league manager and 2025 International League Manager of the Year, has been hired to join Chad Tracy's Red Sox coaching staff.",
+      "published": "2026-11-05T00:43:22+00:00",
+      "title": "Red Sox bolster staff with hire of Yankees' Triple-A manager",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-hire-longtime-yankee-staffer-to-chad-tracys-staff.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "What questions do you have for Sean McAdam this week? Drop them in the comments or send an email to fenwayinsider@masslive.com",
       "published": "2026-11-04T12:40:38+00:00",
       "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
@@ -104,16 +111,9 @@
       "published": "2026-10-29T18:02:35+00:00",
       "title": "Red Sox trade outfielder Nate Eaton to the Athletics",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-make-first-trade-of-offseason-ship-speedy-outfielder-to-as.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox have to decide on two option decisions on key pitchers in the coming days. Both represent easy calls.",
-      "published": "2026-10-29T17:03:01+00:00",
-      "title": "Red Sox decisions on Sonny Gray, Garrett Whitlock due soon — and there's not much suspense",
-      "url": "https://www.masslive.com/redsox/2026/10/red-sox-offseason-will-start-with-two-option-decisions-on-key-pitchers-and-theyre-both-no-brainers.html"
     }
   ],
-  "generated_at": "2026-11-04T17:21:00.581155+00:00",
+  "generated_at": "2026-11-05T02:50:05.128155+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

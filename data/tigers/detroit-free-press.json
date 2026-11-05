@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Tigers",
-      "description": "Bay Area author Adam Henig sat with the Free Press to talk about his new book about former Detroit Tigers star Ron LeFlore.",
-      "published": "2026-11-04T02:01:00+00:00",
-      "title": "Former inmate-turned-Tigers star Ron LeFlore's story told in new book",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/04/detroit-tigers-ron-leflore-biography/92533306007/"
-    },
-    {
-      "category": "Tigers",
       "description": "RJ Petit, a 6-foot-8 right-handed pitcher, has been sent back to the Tigers by way of Rule 5 draft rules. The Colorado Rockies took Petit from the Tigers with the No. 1 overall pick in the 2025 Rule 5 ...",
       "published": "2026-11-03T12:38:00+00:00",
       "title": "Detroit Tigers get a pitcher back after losing him to Rule 5 draft",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Tigers",
-      "description": "For the second year in a row, Detroit Tigers catcher Dillon Dingler is the American League’s best defensive backstop.",
-      "published": "2026-11-01T19:10:00+00:00",
-      "title": "Dillon Dingler joins elite club of Tigers catchers with 2nd Gold Glove",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/01/detroit-tigers-catcher-dillon-dingler-wins-2nd-straight-gold-glove/92557629007/"
+      "description": "Bay Area author Adam Henig sat with the Free Press to talk about his new book about former Detroit Tigers star Ron LeFlore.",
+      "published": "2026-11-04T02:01:00+00:00",
+      "title": "Former inmate-turned-Tigers star Ron LeFlore's story told in new book",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/04/detroit-tigers-ron-leflore-biography/92533306007/"
     },
     {
       "category": "Tigers",
@@ -30,10 +23,10 @@
     },
     {
       "category": "Tigers",
-      "description": "Tigers top prospect Zyhir Hope is showing signs of growth during the Arizona Fall League with an increase in walks.",
-      "published": "2026-10-28T19:16:00+00:00",
-      "title": "Tigers top prospect Zyhir Hope showing growth at Arizona Fall League",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/10/28/tigers-top-prospect-zyhir-hope-arizona-fall-league/92469334007/"
+      "description": "For the second year in a row, Detroit Tigers catcher Dillon Dingler is the American League’s best defensive backstop.",
+      "published": "2026-11-01T19:10:00+00:00",
+      "title": "Dillon Dingler joins elite club of Tigers catchers with 2nd Gold Glove",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/01/detroit-tigers-catcher-dillon-dingler-wins-2nd-straight-gold-glove/92557629007/"
     },
     {
       "category": "Tigers",
@@ -44,17 +37,24 @@
     },
     {
       "category": "Tigers",
-      "description": "There have been 19 sweeps in the World Series, plus two more in 1907 and 1922 that finished 4-0 with a tie game. The Brewers could get the 20th sweep tonight.",
-      "published": "2026-10-27T14:26:00+00:00",
-      "title": "Brewers seek first World Series sweep since Giants swept Tigers in 2012",
-      "url": "https://www.freep.com/story/sports/mlb/brewers/2026/10/27/brewers-could-end-14-year-world-series-sweep-drought-with-game-4-win/92461550007/"
-    },
-    {
-      "category": "Tigers",
       "description": "Alabama travels to Baton Rouge on Saturday afternoon for a tough test against LSU. Here is everything you need to know about the Tigers.",
       "published": "2026-11-04T08:50:00+00:00",
       "title": "Alabama football Week 10 opponent preview: LSU Tigers",
       "url": "https://www.freep.com/story/sports/college/crimson-tide/football/2026/11/04/alabama-football-lsu-tigers-week-10-preview/92571496007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "Tigers top prospect Zyhir Hope is showing signs of growth during the Arizona Fall League with an increase in walks.",
+      "published": "2026-10-28T19:16:00+00:00",
+      "title": "Tigers top prospect Zyhir Hope showing growth at Arizona Fall League",
+      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/10/28/tigers-top-prospect-zyhir-hope-arizona-fall-league/92469334007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "There have been 19 sweeps in the World Series, plus two more in 1907 and 1922 that finished 4-0 with a tie game. The Brewers could get the 20th sweep tonight.",
+      "published": "2026-10-27T14:26:00+00:00",
+      "title": "Brewers seek first World Series sweep since Giants swept Tigers in 2012",
+      "url": "https://www.freep.com/story/sports/mlb/brewers/2026/10/27/brewers-could-end-14-year-world-series-sweep-drought-with-game-4-win/92461550007/"
     },
     {
       "category": "Tigers",
@@ -69,9 +69,23 @@
       "published": "2026-10-24T14:53:00+00:00",
       "title": "Massillon football score vs Canton McKinley, Tigers extend win streak",
       "url": "https://www.freep.com/story/sports/high-school/fridaynightohio/2026/10/24/massillon-tigers-football-score-canton-mckinley-high-school-ohsaa-live-updates/92357368007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "The No. 17 LSU Tigers and the Auburn Tigers meet Saturday in Auburn, Alabama. Kickoff in the SEC matchup is slated for noon ET.",
+      "published": "2026-10-23T08:04:00+00:00",
+      "title": "LSU Tigers at Auburn Tigers odds, picks and predictions",
+      "url": "https://www.freep.com/story/sports/ncaaf/2026/10/23/lsu-at-auburn-odds-picks-and-predictions/92391051007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "A former Clemson lineman and current analyst has shared his thoughts on Clemson’s quarterback situation and upcoming Florida State game.",
+      "published": "2026-10-30T06:04:00+00:00",
+      "title": "Former Clemson star lineman, analyst talk Tigers’ quarterback issues",
+      "url": "https://www.freep.com/story/sports/college/clemson/football/2026/10/30/clemson-football-eric-mac-lain-prediction-florida-state-game/92511515007/"
     }
   ],
-  "generated_at": "2026-11-04T22:43:27.526094+00:00",
+  "generated_at": "2026-11-05T02:50:23.339670+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

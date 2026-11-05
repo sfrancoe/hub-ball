@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "New details were released on election day because baseball stops for nothing except, well, labor...",
+      "published": "2026-11-04T23:58:21+00:00",
+      "title": "Mets Notebook: MLB releases new CBA proposal, team hires A.J. Ellis as coordinator",
+      "url": "https://www.nydailynews.com/2026/11/04/mets-notes-cba-aj-ellis-rob-manfred-steve-cohen/"
+    },
+    {
+      "category": "Mets",
       "description": "Jerry Koosman, the steady lefty who played “Sundance” to Tom Seaver’s “Butch Cassidy” as the...",
       "published": "2026-11-01T21:05:33+00:00",
       "title": "Jerry Koosman, Mets pitching legend and ’69 World Series champ, dies at 83",
@@ -132,16 +139,9 @@
       "published": "2026-09-24T20:27:54+00:00",
       "title": "Mets add former Twins exec Derek Falvey as senior baseball operations advisor",
       "url": "https://www.nydailynews.com/2026/09/24/mets-derek-falvey-twins-stearns-gm-baseball-operations-gross/"
-    },
-    {
-      "category": "Mets",
-      "description": "Now that Green is in place, the team can finally start to form an identity...",
-      "published": "2026-09-24T00:16:55+00:00",
-      "title": "How Andy Green’s attention to detail can help the Mets form an identity",
-      "url": "https://www.nydailynews.com/2026/09/23/how-andy-greens-attention-to-detail-can-help-the-mets-form-an-identity/"
     }
   ],
-  "generated_at": "2026-11-01T23:07:27.883375+00:00",
+  "generated_at": "2026-11-05T02:50:12.635318+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

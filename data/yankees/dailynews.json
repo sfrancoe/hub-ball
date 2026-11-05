@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees will have a new manager in 2027... at Triple-A.",
+      "published": "2026-11-05T01:28:15+00:00",
+      "title": "Yankees’ longtime Triple-A manager joining Red Sox: source",
+      "url": "https://www.nydailynews.com/2026/11/04/yankees-longtime-triple-a-manager-joining-red-sox-source/"
+    },
+    {
+      "category": "Yankees",
       "description": "Republicans were routed in Tuesday's midterm elections, but at least they'll have a ringer for...",
       "published": "2026-11-04T16:08:57+00:00",
       "title": "Former Yankee Mark Teixeira wins U.S. House seat in Texas despite GOP bloodbath",
@@ -132,16 +139,9 @@
       "published": "2026-10-21T20:01:06+00:00",
       "title": "Hal Steinbrenner rips Yankees’ ‘detrimental’ offense, backs Brian Cashman and Aaron Boone again",
       "url": "https://www.nydailynews.com/2026/10/21/yankees-hal-steinbrenner-brian-cashman-aaron-boone-mlb-aaron-judge/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees are staying with the Steinbrenners.",
-      "published": "2026-10-21T19:48:35+00:00",
-      "title": "Hal Steinbrenner has no plans to sell Yankees after Apollo deal",
-      "url": "https://www.nydailynews.com/2026/10/21/hal-steinbrenner-no-plans-sell-yankees-apollo-deal/"
     }
   ],
-  "generated_at": "2026-11-04T17:21:00.926739+00:00",
+  "generated_at": "2026-11-05T02:50:05.605483+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

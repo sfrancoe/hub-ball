@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "Jason Kanzler endeared himself to fans with a dig at their rivals. Here's what the Mariners' new 36-year-old manager said in his opening media availability.",
+      "published": "2026-11-04T09:09:00+00:00",
+      "title": "Mariners’ new manager Jason Kanzler hits all the right notes in Seattle introduction",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-new-manager-jason-kanzler-hits-all-the-right-notes-in-seattle-introduction/"
+    },
+    {
+      "category": "Mariners",
       "description": "After a monthlong search, the Mariners have settled on a first-time manager to succeed Dan Wilson in the dugout. Here's what to know about Jason Kanzler.",
       "published": "2026-11-03T01:15:00+00:00",
       "title": "Mariners to hire Jason Kanzler as new manager, Dan Wilson’s successor",
@@ -23,20 +30,6 @@
     },
     {
       "category": "Mariners",
-      "description": "On Sunday, Cole Young was named the Gold Glove Award winner for second base in the American League, paying off his dedication to improving on defense.",
-      "published": "2026-11-01T10:26:00+00:00",
-      "title": "Mariners second baseman Cole Young wins AL Gold Glove Award",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-second-baseman-cole-young-wins-al-gold-glove-award/"
-    },
-    {
-      "category": "Mariners",
-      "description": "The Mariners are yet to win a World Series, but the team formerly known as the Seattle Pilots just did. And that's not the only local connection to the World Series.",
-      "published": "2026-10-29T09:22:00+00:00",
-      "title": "The World Series champion Brewers started in Seattle as the Pilots",
-      "url": "https://www.seattletimes.com/sports/mariners/the-world-series-champion-brewers-started-in-seattle-as-the-pilots/"
-    },
-    {
-      "category": "Mariners",
       "description": "The Mariners' manager search reportedly is down to two finalists. The options are uninspiring, but don't dismiss the next manager before they arrive.",
       "published": "2026-10-31T23:00:00+00:00",
       "title": "Don’t dismiss Mariners manager candidates Joe Espada, Jason Kanzler",
@@ -51,27 +44,48 @@
     },
     {
       "category": "Mariners",
-      "description": "Michael Arroyo had surgery on his right arm this week to address a \"chronic injury,\" the Mariners announced. Here's what we know.",
-      "published": "2026-10-30T06:08:00+00:00",
-      "title": "Mariners’ Michael Arroyo has elbow surgery to address ‘chronic injury’",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-michael-arroyo-has-elbow-surgery-to-address-chronic-injury/"
-    },
-    {
-      "category": "Mariners",
-      "description": "With the MLB offseason beginning now that the World Series is over, here are some important dates for Mariners fans to watch in the coming months.",
-      "published": "2026-10-29T06:23:00+00:00",
-      "title": "Here are key dates to know for Mariners fans during MLB offseason",
-      "url": "https://www.seattletimes.com/sports/mariners/here-are-key-dates-to-know-for-mariners-fans-during-mlb-offseason/"
-    },
-    {
-      "category": "Mariners",
       "description": "The Mariners on Monday extended a qualifying offer to Arozarena, who is expected to reject the one-year offer and seek a multiyear deal on the open market.",
       "published": "2026-11-02T06:35:00+00:00",
       "title": "Mariners extend qualifying offer to Randy Arozarena. Here’s what it means.",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-extend-qualifying-offer-to-randy-arozarena-heres-what-it-means/"
+    },
+    {
+      "category": "Mariners",
+      "description": "On Sunday, Cole Young was named the Gold Glove Award winner for second base in the American League, paying off his dedication to improving on defense.",
+      "published": "2026-11-01T10:26:00+00:00",
+      "title": "Mariners second baseman Cole Young wins AL Gold Glove Award",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-second-baseman-cole-young-wins-al-gold-glove-award/"
+    },
+    {
+      "category": "Mariners",
+      "description": "Former Minnesota Twins manager Rocco Baldelli has withdrawn his name from consideration for the Mariners’ open manager role.",
+      "published": "2026-10-25T13:46:00+00:00",
+      "title": "Rocco Baldelli withdraws name from Mariners’ manager opening",
+      "url": "https://www.seattletimes.com/sports/mariners/rocco-baldelli-withdraws-name-from-mariners-manager-opening/"
+    },
+    {
+      "category": "Mariners",
+      "description": "Is this the year Sweet Lou finally gets in the Hall of Fame? Former Mariners manager Lou Piniella has again been selected as a finalist on this year’s contemporary era ballot.",
+      "published": "2026-11-02T02:13:00+00:00",
+      "title": "Ex-Mariners manager Lou Piniella named Hall of Fame contemporary era ballot finalist",
+      "url": "https://www.seattletimes.com/sports/mariners/ex-mariners-manager-lou-piniella-named-hall-of-fame-contemporary-ballot-finalist/"
+    },
+    {
+      "category": "Mariners",
+      "description": "Compared to the Mariners, Milwaukee and Tampa Bay — which meet in the World Series starting Friday — have done so much more with less.",
+      "published": "2026-10-22T23:00:00+00:00",
+      "title": "Brewers-Rays World Series doesn’t justify Mariners’ payroll strategy",
+      "url": "https://www.seattletimes.com/sports/mariners/brewers-rays-world-series-doesnt-justify-mariners-payroll-strategy/"
+    },
+    {
+      "category": "Mariners",
+      "description": "One month after parting ways with Dan Wilson, the Mariners are nearing a decision to name his successor. Here's where things stand.",
+      "published": "2026-10-27T03:11:00+00:00",
+      "title": "Mariners’ manager search down to finalists Joe Espada, Jason Kanzler",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-manager-search-down-to-finalists-joe-espada-jason-kanzler/"
     }
   ],
-  "generated_at": "2026-11-04T22:43:32.145903+00:00",
+  "generated_at": "2026-11-05T02:50:28.805574+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }
