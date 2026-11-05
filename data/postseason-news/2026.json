@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-04T22:15:19.592101+00:00",
+  "generatedAt": "2026-11-05T02:34:52.073613+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Red Sox hiring the Yankees’ Shelley Duncan for Chad Tracy’s coaching staff",
+      "description": "Duncan managed Scranton/Wilkes-Barre, the Yankees’ Triple-A affiliate, for the last four seasons.",
+      "url": "https://www.bostonglobe.com/2026/11/04/sports/red-sox-shelley-duncan/",
+      "published": "2026-11-05T02:00:18.459000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees’ longtime Triple-A manager joining Red Sox: source",
+      "description": "The Yankees will have a new manager in 2027... at Triple-A.",
+      "url": "https://www.nydailynews.com/2026/11/04/yankees-longtime-triple-a-manager-joining-red-sox-source/",
+      "published": "2026-11-05T01:28:15+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox bolster staff with hire of Yankees' Triple-A manager",
+      "description": "Shelley Duncan, a former Yankees minor league manager and 2025 International League Manager of the Year, has been hired to join Chad Tracy's Red Sox coaching staff.",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-hire-longtime-yankee-staffer-to-chad-tracys-staff.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Alex McCoy headlines Padres prospects playing in the Arizona Fall League all-star game",
       "description": "Outfielder Alex McCoy and right-hander Kannon Kemp were selected to the 20th Annual “Fall Stars Game” on Sunday at Salt River Fields in Scottsdale, Ariz. Meantime, infielder Justin DeCriscio is up ...",
@@ -67,114 +103,6 @@
       "teamAbbreviation": "ATL",
       "league": "NL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Houston Astros to interview Albert Pujols for manager's job",
-      "description": "Albert Pujols, who played with new Houston general manager Randy Flores in St. Louis, will interview for the Astros' managerial spot.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/albert-pujols-houston-interview-22512602.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees World Series champ is one of the few Republicans who had a good night",
-      "description": "",
-      "url": "https://nypost.com/2026/11/04/sports/mark-teixeira-is-one-of-the-few-republicans-who-had-a-good-night/",
-      "published": "2026-11-04T13:28:28+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Could Braves and Sonny Gray finally happen this offseason?",
-      "description": "Gray, who turns 37 in a few days, is a free agent. He’s well-documented to prefer playing closer to his home in Nashville, Tennessee.",
-      "url": "https://www.ajc.com/sports/2026/11/could-braves-and-sonny-gray-finally-happen-this-offseason/",
-      "published": "2026-11-04T13:00:00+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
-      "description": "What questions do you have for Sean McAdam this week? Drop them in the comments or send an email to fenwayinsider@masslive.com",
-      "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-submit-questions-for-masslives-sean-mcadam.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Former top prospect ‘immediately bought into’ Yankees changes — now they hope he can take off",
-      "description": "",
-      "url": "https://nypost.com/2026/11/04/sports/marco-luciano-immediately-bought-into-yankees-coaching/",
-      "published": "2026-11-04T12:30:00+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Albert Pujols to interview for Astros’ managerial vacancy: Source",
-      "description": "The Astros will interview former St. Louis Cardinals star Albert Pujols for their managerial opening this week, according to a league source who spoke on condition of anonymity because they were not ...",
-      "url": "https://www.nytimes.com/athletic/7753889/2026/11/04/albert-pujols-astros-manager-interview/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "How Red Sox prospects from 2026 Draft did in their debuts (and other notes)",
-      "description": "Six of the 20 players who the Red Sox selected in the 2026 Draft made their professional debuts before the season ended. Here's how they did.",
-      "url": "https://www.masslive.com/redsox/2026/11/how-red-sox-prospects-from-2026-draft-did-in-their-debuts-and-other-notes.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "As MLB heads toward lockout, Braves tout record revenue but sidestep labor questions",
-      "description": "Atlanta’s third-quarter revenue in 2026 was a record, up 4 percent from the year prior. But going forward, the lockout makes things murky.",
-      "url": "https://www.nytimes.com/athletic/7753728/2026/11/04/mlb-braves-record-revenue-labor-lockout/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brice Turang named Brewers MVP, plus other awards from local writers",
-      "description": "Brice Turang was acknowledged as the Milwaukee Brewers' MVP for a second straight year by the local baseball writers. Check out other award winners.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/04/local-baseball-writers-chapter-brewers-mvp-awards/92611644007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
