@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:52:45.971915+00:00",
+  "generated_at": "2026-11-05T06:59:18.271754+00:00",
   "source": "X",
   "source_url": "https://x.com/Dodgers",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Happy birthday, Roki! https://t.co/NH5RyEQqXu",
       "url": "https://x.com/Dodgers/status/2117735243709042755",
       "published": "2026-11-03T21:46:42+00:00",
-      "likes": 16602,
+      "likes": 17281,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -36,7 +36,7 @@
       "text": "The best Sho in baseball. Congratulations Shohei on being named a finalist for the 2026 NL MVP Award! https://t.co/7khIyYm9yx",
       "url": "https://x.com/Dodgers/status/2117420555716747414",
       "published": "2026-11-03T00:56:14+00:00",
-      "likes": 15887,
+      "likes": 16039,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -46,20 +46,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2117735243709042755",
-      "text": "Happy birthday, Roki! https://t.co/NH5RyEQqXu",
-      "url": "https://x.com/Dodgers/status/2117735243709042755",
-      "published": "2026-11-03T21:46:42+00:00",
-      "likes": 16602,
-      "author": "Los Angeles Dodgers",
-      "handle": "Dodgers",
-      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWO0-mZagAA9_lP.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
