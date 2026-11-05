@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-04T17:23:33.867367+00:00",
+  "generated_at": "2026-11-05T17:30:04.402842+00:00",
   "roster_as_of": "November 3, 2026",
   "team": {
     "id": 147,
     "name": "New York Yankees"
   },
   "roster_type": "open-current-roster",
-  "player_count": 32,
+  "player_count": 33,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1149,6 +1149,66 @@
           "on_base_percentage": 0.413,
           "slugging_percentage": 0.615,
           "ops": 1.028
+        },
+        "pitching": null
+      }
+    },
+    {
+      "id": 682617,
+      "mlb_id": 682617,
+      "wikidata_id": "Q96707402",
+      "slug": "marco-luciano",
+      "name": "Marco Luciano",
+      "full_name": "Marco Luciano",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-09-10",
+      "age": 25,
+      "birthplace": "San Francisco de Macorís, Dominican Republic",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "July 26, 2023",
+      "debut_team": "San Francisco Giants",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants",
+        "New York Yankees"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q96707402",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Luciano",
+      "retrosheet_id": "lucim001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 41,
+          "plate_appearances": 126,
+          "at_bats": 115,
+          "runs": 14,
+          "hits": 25,
+          "doubles": 8,
+          "triples": 1,
+          "home_runs": 0,
+          "runs_batted_in": 3,
+          "walks": 11,
+          "strikeouts": 45,
+          "stolen_bases": 1,
+          "caught_stealing": 1,
+          "average": 0.217,
+          "on_base_percentage": 0.286,
+          "slugging_percentage": 0.304,
+          "ops": 0.59
         },
         "pitching": null
       }
