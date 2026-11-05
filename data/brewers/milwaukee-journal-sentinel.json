@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "A couple of members of the Milwaukee Brewers family made major life announcements on baseball's biggest stage.",
+      "published": "2026-11-05T11:00:00+00:00",
+      "title": "These 2 Brewers announce with their wives that they're expecting",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/05/milwaukee-brewers-wives-announce-expecting/92624834007/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Brewers won their first championship. Leaders can use this momentum as a recruiting bonanza for Milwaukee as a welcoming city on the rise.",
       "published": "2026-11-05T03:01:00+00:00",
       "title": "Brewers are world champs. So what happens after the parade? | Opinion",
@@ -9,17 +16,17 @@
     },
     {
       "category": "Brewers",
-      "description": "The Brewers have won the World Series. Now, here's a look at where their roster stands in terms of contracts, arbitration, free agency and more.",
-      "published": "2026-11-02T10:01:00+00:00",
-      "title": "What to know about Milwaukee Brewers' offseason, free agents, contracts, potential roster moves",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/02/heres-how-things-stand-with-brewers-roster-entering-this-offseason/92553757007/"
-    },
-    {
-      "category": "Brewers",
       "description": "The Brewers had many stars in their run to the World Series. Who gets your vote for the most valuable player in the 2026 playoffs?",
       "published": "2026-11-03T07:10:00+00:00",
       "title": "Who's your pick for Milwaukee Brewers' postseason MVP?",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/03/vote-mvp-milwaukee-brewers-postseason/92576000007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "The Brewers have won the World Series. Now, here's a look at where their roster stands in terms of contracts, arbitration, free agency and more.",
+      "published": "2026-11-02T10:01:00+00:00",
+      "title": "What to know about Milwaukee Brewers' offseason, free agents, contracts, potential roster moves",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/02/heres-how-things-stand-with-brewers-roster-entering-this-offseason/92553757007/"
     },
     {
       "category": "Brewers",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Brewers",
-      "description": "Hundreds of fans lined up outside Milwaukee Mitchell International Airport to welcome the Milwaukee Brewers home after winning the World Series.",
-      "published": "2026-10-29T18:00:00+00:00",
-      "title": "Hundreds of fans welcome Brewers back to Milwaukee after World Series",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/29/hundreds-of-fans-welcome-brewers-back-after-world-series-victory/92487478007/"
-    },
-    {
-      "category": "Brewers",
       "description": "They started coming before dawn, on a holy journey of sorts to honor a team that means much to each of them, in different ways. Different but the same. They walked, biked, scootered, rolled in on ...",
       "published": "2026-10-30T18:06:00+00:00",
       "title": "Brewers' celebration of World Series in Milwaukee is decades in the waiting",
@@ -58,10 +58,10 @@
     },
     {
       "category": "Brewers",
-      "description": "Hundreds of fans lined up to meet Brewers catcher William Contreras after the World Series at Dick's Sporting Goods in Brookfield.",
-      "published": "2026-11-01T15:12:00+00:00",
-      "title": "Hundreds wait for hours to meet Milwaukee Brewers star William Contreras",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/fans-line-up-to-meet-milwaukee-brewers-star-william-contreras/92552485007/"
+      "description": "Hundreds of fans lined up outside Milwaukee Mitchell International Airport to welcome the Milwaukee Brewers home after winning the World Series.",
+      "published": "2026-10-29T18:00:00+00:00",
+      "title": "Hundreds of fans welcome Brewers back to Milwaukee after World Series",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/29/hundreds-of-fans-welcome-brewers-back-after-world-series-victory/92487478007/"
     },
     {
       "category": "Brewers",
@@ -72,13 +72,13 @@
     },
     {
       "category": "Brewers",
-      "description": "Brewers fans can now purchase T-shirts featuring the Milwaukee Journal Sentinel's 2026 World Series championship front page. Here's where to buy one.",
-      "published": "2026-10-29T06:51:00+00:00",
-      "title": "Milwaukee Journal Sentinel's Brewers World Series front page now on T-shirts",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/29/brewers-world-series-championship-journal-sentinel-t-shirts/92505779007/"
+      "description": "Hundreds of fans lined up to meet Brewers catcher William Contreras after the World Series at Dick's Sporting Goods in Brookfield.",
+      "published": "2026-11-01T15:12:00+00:00",
+      "title": "Hundreds wait for hours to meet Milwaukee Brewers star William Contreras",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/fans-line-up-to-meet-milwaukee-brewers-star-william-contreras/92552485007/"
     }
   ],
-  "generated_at": "2026-11-05T17:58:14.645302+00:00",
+  "generated_at": "2026-11-05T23:20:28.669130+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

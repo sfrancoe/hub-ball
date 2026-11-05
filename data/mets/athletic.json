@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Washington previously served on Mets manager Andy Green’s staff when Green managed the San Diego Padres.",
+      "published": "2026-11-05T21:21:44+00:00",
+      "title": "Mets hiring Johnny Washington to major-league coaching staff: Sources",
+      "url": "https://www.nytimes.com/athletic/7757117/2026/11/05/johnny-washington-mets-hitting-coach/"
+    },
+    {
+      "category": "Mets",
       "description": "Ellis spent 11 years in the major leagues as a catcher and previously worked as a special assistant in the Padres’ front office.",
       "published": "2026-11-04T16:29:04+00:00",
       "title": "Mets hiring A.J. Ellis as major-league strategy coordinator: Sources",
@@ -132,16 +139,9 @@
       "published": "2026-09-27T09:57:51+00:00",
       "title": "Carson Benge's 20-20 rookie season is the Mets' biggest win in a sorry year",
       "url": "https://www.nytimes.com/athletic/7633029/2026/09/27/carson-benge-mets-rookie-20-20-season-breakout/"
-    },
-    {
-      "category": "Mets",
-      "description": "“A 4-for-4 today doesn’t translate to 2027,” manager Andy Green said. “But the mindset does.”",
-      "published": "2026-09-25T10:00:38+00:00",
-      "title": "The Mets are finishing a lost season strong. How much does that matter?",
-      "url": "https://www.nytimes.com/athletic/7627342/2026/09/25/mets-strong-season-finish-does-that-matter/"
     }
   ],
-  "generated_at": "2026-11-04T17:21:11.902856+00:00",
+  "generated_at": "2026-11-05T23:20:16.496534+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }
