@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T19:02:38+00:00",
+ "generated_at": "2026-11-06T18:30:40+00:00",
  "source": "MLB Stats API (statsapi.mlb.com)",
  "war_source": "Baseball Reference daily bWAR (baseball-reference.com/data)",
  "team_id": 142,
@@ -10,16 +10,16 @@
    "in_progress": false,
    "war_leader": {
     "name": "Taj Bradley",
-    "war": 4.4
+    "war": 4.3
    },
    "war_leaders": [
     {
      "name": "Taj Bradley",
-     "war": 4.4
+     "war": 4.3
     },
     {
      "name": "Byron Buxton",
-     "war": 3.4
+     "war": 3.2
     },
     {
      "name": "Ryan Jeffers",

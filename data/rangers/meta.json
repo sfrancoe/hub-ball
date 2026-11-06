@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T19:02:48+00:00",
+ "generated_at": "2026-11-06T18:30:42+00:00",
  "source": "MLB Stats API (statsapi.mlb.com)",
  "war_source": "Baseball Reference daily bWAR (baseball-reference.com/data)",
  "team_id": 140,
@@ -23,7 +23,7 @@
     },
     {
      "name": "Corey Seager",
-     "war": 3.2
+     "war": 3.1
     }
    ],
    "pitching_leaders": {
