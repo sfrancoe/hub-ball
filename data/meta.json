@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:33:30+00:00",
+ "generated_at": "2026-11-06T17:49:18+00:00",
  "source": "MLB Stats API (statsapi.mlb.com)",
  "war_source": "Baseball Reference daily bWAR (baseball-reference.com/data)",
  "team_id": 111,
@@ -383,12 +383,12 @@
    "checkpoint_record": "57-51",
    "war_leader": {
     "name": "Wilyer Abreu",
-    "war": 5.8
+    "war": 5.9
    },
    "war_leaders": [
     {
      "name": "Wilyer Abreu",
-     "war": 5.8
+     "war": 5.9
     },
     {
      "name": "Ceddanne Rafaela",
