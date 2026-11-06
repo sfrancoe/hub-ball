@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-06T11:37:08.465851+00:00",
+  "generatedAt": "2026-11-06T18:31:28.866453+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 2,
   "articles": [
+    {
+      "title": "What might the 2027 Red Sox roster look like? Evaluating how Boston will attack this unusual offseason.",
+      "description": "The Sox, anticipating a return to health from Garrett Crochet and Roman Anthony, and full seasons from Adley Rutschman and Curtis Mead, appear optimistic.",
+      "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-roster-offseason/",
+      "published": "2026-11-06T13:24:44.704000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Red Sox free-agent targets: From Seiya Suzuki to Michael King, six names to watch",
       "description": "The Red Sox could use some help in the middle of the order, and it's not out of the question that they go after a right-handed starter.",
@@ -33,7 +45,7 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Yankees free-agents to target: Brandon Lowe, Luis Arraez and four more names to consider",
+      "title": "Yankees free agents to target: Ryan Jeffers, Brandon Lowe and four more names to consider",
       "description": "Brian Cashman should keep an eye on these players before the lockout begins.",
       "url": "https://www.nytimes.com/athletic/7757550/2026/11/06/yankees-mlb-free-agent-targets-ryan-jeffers/",
       "published": "2026-11-06T11:14:04+00:00",
@@ -42,18 +54,6 @@
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
       "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Jim Duquette on the Phillies’ offseason and what to expect at the GM meetings",
-      "description": "The general managers' meetings will begin Monday evening in Las Vegas, and the Phillies will be there. Former Mets and Orioles GM Jim Duquette joins Scott this week to discuss all this and more.",
-      "url": "https://www.inquirer.com/inquirer-live/gm-meeting-jim-duquette-offseason-20261106.html",
-      "published": "2026-11-06T10:01:01+00:00",
-      "source": "Inquirer",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
       "publishedSource": "publisher"
     },
     {
@@ -67,66 +67,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "After back-to-back short playoff runs, how will the Red Sox attack this unusual offseason?",
-      "description": "The Sox, anticipating a return to health from Garrett Crochet and Roman Anthony, and full seasons from Adley Rutschman and Curtis Mead, appear optimistic.",
-      "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-roster-offseason/",
-      "published": "2026-11-06T08:00:00+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Ty France once wondered ‘Why can’t I do it anymore?’ Now, he’s a coveted free agent",
-      "description": "While there is mutual interest in a reunion with the Padres, France also plans to explore other possibilities.",
-      "url": "https://www.nytimes.com/athletic/7757718/2026/11/06/mlb-free-agency-ty-france-padres/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "teamAbbreviation": "SD",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees teen prospect overhauled swing in one week — and it changed everything",
-      "description": "",
-      "url": "https://nypost.com/2026/11/05/sports/yankees-prospect-dax-kilby-overhauled-swing-in-one-week/",
-      "published": "2026-11-06T02:15:22+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Pitches within scope of Guardians’ scouting report, catcher testifies in pitch-rigging trial",
-      "description": "Testifying for the defense, former Guardians catcher Bo Naylor called low-and-away offerings \"a pretty good pitch to have as a weapon.\" ...",
-      "url": "https://www.nytimes.com/athletic/7757630/2026/11/05/guardians-pitch-rigging-trial-testify-bo-naylor/",
-      "published": "2026-11-06T01:55:53+00:00",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees’ biggest infield need might not be what you think",
-      "description": "",
-      "url": "https://nypost.com/2026/11/05/sports/yankees-biggest-infield-need-might-not-be-what-you-think/",
-      "published": "2026-11-06T01:39:01+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
