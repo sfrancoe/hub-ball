@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Tanner Swanson, the Yankees' valued catching coordinator since November 2019, is heading home.",
+      "published": "2026-11-06T22:42:15+00:00",
+      "title": "Mariners poaching key Yankees coach Tanner Swanson for bench job",
+      "url": "https://www.nydailynews.com/2026/11/06/mariners-poaching-key-yankees-coach-tanner-swanson-for-bench-coach-job/"
+    },
+    {
+      "category": "Yankees",
       "description": "Six of the Yankees' 10 free agents are relievers.",
       "published": "2026-11-05T14:07:30+00:00",
       "title": "Yankees need to think bigger than reunions when addressing their bullpen",
@@ -132,16 +139,9 @@
       "published": "2026-10-22T13:46:25+00:00",
       "title": "How would a salary cap help the Yankees? Hal Steinbrenner doesn’t want to talk about it",
       "url": "https://www.nydailynews.com/2026/10/22/yankees-hal-steinbrenner-salary-cap-cba-lockout-world-series/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Judge said it's \"tough to say\" whether the Yankees have been \"all in\" enough during...",
-      "published": "2026-10-21T21:56:09+00:00",
-      "title": "Hal Steinbrenner responds to Aaron Judge’s insinuation Yankees haven’t been ‘all in’ enough: ‘We did that this year’",
-      "url": "https://www.nydailynews.com/2026/10/21/hal-steinbrenner-responds-to-aaron-judges-insinuation-yankees-havent-been-all-in-enough-we-did-that-this-year/"
     }
   ],
-  "generated_at": "2026-11-05T17:57:47.275882+00:00",
+  "generated_at": "2026-11-06T23:11:40.836046+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

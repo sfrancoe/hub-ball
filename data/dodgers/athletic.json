@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "Readers asked about the Dodgers' pitching depth, the future of the infield and what's next for James Tibbs III.",
+      "published": "2026-11-06T05:17:00+00:00",
+      "title": "Dodgers early offseason mailbag: Will Tarik Skubal be back? Plans for Josue De Paula?",
+      "url": "https://www.nytimes.com/athletic/7757032/2026/11/06/dodgers-tarik-skubal-josue-de-paula/"
+    },
+    {
+      "category": "Dodgers",
       "description": "Walter told the California Post, “We’re going to keep the team no matter what,” despite his recent sales of the Lakers and Chelsea.",
       "published": "2026-10-28T12:41:00+00:00",
       "title": "Mark Walter reportedly says he is keeping the Dodgers ‘no matter what’",
@@ -50,7 +57,7 @@
       "url": "https://www.nytimes.com/athletic/7729570/2026/10/27/world-series-tv-ratings-fox-2026-brewers-rays/"
     }
   ],
-  "generated_at": "2026-11-06T18:11:36.699806+00:00",
+  "generated_at": "2026-11-06T23:12:04.183808+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

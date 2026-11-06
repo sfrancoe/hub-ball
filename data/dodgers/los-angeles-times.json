@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "Aaron Bates spent 12 years in the Dodgers organization, including four as a co-hitting coach with Robert Van Scoyoc, and four as an assistant hitting coach.",
+      "published": "2026-11-06T09:00:00+00:00",
+      "title": "Dodgers and hitting coach Aaron Bates part ways in shakeup to coaching staff",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-06/dodgers-hitting-coach-aaron-bates-part-ways"
+    },
+    {
+      "category": "Dodgers",
       "description": "This is read by an automated voice. Please report any issues or inconsistencies here. See more from the L.A. Times in Google Search. Set us as preferred With the Dodgers eliminated, Los Angeles needs ...",
       "published": "2026-10-23T04:00:00+00:00",
       "title": "Why Dodgers fans need to be cheering for the Brewers in this World Series",
@@ -16,20 +23,13 @@
     },
     {
       "category": "Dodgers",
-      "description": "Brewers World Series pitcher Logan Henderson grew up cheering for the Astros, but he reluctantly concedes their cheating scandal alters the 2017 title.",
+      "description": "This is read by an automated voice. Please report any issues or inconsistencies here. See more from the L.A. Times in Google Search. Set us as preferred Brewers World Series pitcher Logan Henderson ...",
       "published": "2026-10-23T14:50:00+00:00",
       "title": "As a kid, this World Series starter rooted for the Astros. Then he learned they cheated",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-23/this-world-series-starter-rooted-for-astros-then-they-cheated"
-    },
-    {
-      "category": "Dodgers",
-      "description": "An insurer controlled by Mark Walter, the billionaire owner of the Los Angeles Dodgers, received partial approval on its plan to slash a pile of loans that is being scrutinized by the Justice ...",
-      "published": "2026-10-23T08:50:00+00:00",
-      "title": "Dodgers owner Mark Walter wins partial approval to begin reshaping $20-billion network of loans",
-      "url": "https://www.latimes.com/business/story/2026-10-23/dodgers-owner-mark-walter-wins-partial-approval-to-begin-reshaping-20-billion-web-of-loans"
     }
   ],
-  "generated_at": "2026-11-06T18:11:36.466996+00:00",
+  "generated_at": "2026-11-06T23:12:03.848020+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

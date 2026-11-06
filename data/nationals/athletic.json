@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Nationals",
+      "description": "The Washington Nationals and outfielder Jacob Young have agreed to a four-year, $23 million contract extension with an $8 million club option for a fifth season, said league sources who spoke to The ...",
+      "published": "2026-11-06T08:16:00+00:00",
+      "title": "Jacob Young, Nationals agree to 4-year contract extension: Sources",
+      "url": "https://www.nytimes.com/athletic/7759312/2026/11/06/jacob-young-nationals-contract-extension/"
+    },
+    {
+      "category": "Nationals",
       "description": "This is an important detail to keep in mind as free agency opens on Monday and the Washington Nationals try to ...",
       "published": "2026-11-02T04:48:00+00:00",
       "title": "10 relievers the Nationals should target to close games next season",
@@ -22,7 +29,7 @@
       "url": "https://www.nytimes.com/athletic/7712242/2026/10/22/nationals-retain-coaching-staff-part-ways-trainers/"
     }
   ],
-  "generated_at": "2026-11-04T17:21:21.179528+00:00",
+  "generated_at": "2026-11-06T23:11:59.889811+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/nationals/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "The team confirmed Thursday that an affiliate bought 2345 Grand Blvd., an office tower near Crown Center and where its new stadium will go.",
+      "published": "2026-11-05T21:00:00+00:00",
+      "title": "Royals-tied company buys 28-story office tower near Crown Center, future stadium site",
+      "url": "https://www.kansascity.com/news/local/article317950476.html"
+    },
+    {
+      "category": "Royals",
       "description": "On Thursday, the Royals reportedly hired San Francisco Giants hitting coach Hunter Mense as an assistant coach. A native of Liberty, just north of KC, he’d join the Royals’ hitting department ...",
       "published": "2026-11-05T07:59:00+00:00",
       "title": "Royals hire former Liberty High & Mizzou player as new hitting coach, per report",
@@ -27,6 +34,13 @@
       "published": "2026-11-01T12:28:00+00:00",
       "title": "Royals had 4 AL Gold Glove finalist infielders, but even Witt fell short in vote",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317875762.html"
+    },
+    {
+      "category": "Royals",
+      "description": "But the scene will be at the Country Club Plaza instead of Kauffman Stadium. Royals catcher Carter Jensen was chosen to flip the switch for the annual lighting of the Country Club Plaza on ...",
+      "published": "2026-11-06T02:46:00+00:00",
+      "title": "Hometown sports hero chosen for Country Club Plaza lighting on Thanksgiving",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317959739.html"
     },
     {
       "category": "Royals",
@@ -57,7 +71,7 @@
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317892955.html"
     }
   ],
-  "generated_at": "2026-11-06T18:11:27.887918+00:00",
+  "generated_at": "2026-11-06T23:11:51.968698+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

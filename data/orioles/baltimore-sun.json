@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "Steven Bumbry, the son of an Orioles Hall of Famer and a former MLB draft pick, will serve as an assistant coach at Coppin State.",
+      "published": "2026-11-06T05:30:00+00:00",
+      "title": "Son of Orioles great brings ‘instant credibility’ to Coppin State baseball",
+      "url": "https://www.baltimoresun.com/2026/11/06/orioles-steven-bumbry-al-bumbry-son-coppin-state-baseball-coach/"
+    },
+    {
+      "category": "Orioles",
       "description": "Who’s in and who’s out of a way-too-early 2027 opening day roster projection for the Orioles as they enter free agency.",
       "published": "2026-11-05T04:00:00+00:00",
       "title": "Orioles roster projection: Where things stand as free agency begins",
@@ -13,6 +20,13 @@
       "published": "2026-11-04T11:39:00+00:00",
       "title": "5 biggest offseason questions facing the Orioles as free agency begins",
       "url": "https://www.baltimoresun.com/2026/11/04/orioles-biggest-offseason-questions/"
+    },
+    {
+      "category": "Orioles",
+      "description": "MLB’s offseason is officially underway, and one of the Orioles’ first decisions was to part ways with one of their longest-tenured players.",
+      "published": "2026-11-02T11:24:00+00:00",
+      "title": "Orioles decline Ryan Mountcastle’s $7.5M team option, making him free agent",
+      "url": "https://www.baltimoresun.com/2026/11/02/orioles-ryan-mountcastle-option-declined/"
     },
     {
       "category": "Orioles",
@@ -44,13 +58,13 @@
     },
     {
       "category": "Orioles",
-      "description": "Major League Baseball’s offseason is officially underway, and one of the Orioles’ first decisions was to part ways with one of their longest-tenured players. The Orioles on Monday declined Ryan ...",
-      "published": "2026-11-02T11:24:00+00:00",
-      "title": "Orioles decline Ryan Mountcastle’s $7.5M team option, making him free agent",
-      "url": "https://www.baltimoresun.com/2026/11/02/orioles-ryan-mountcastle-option-declined/"
+      "description": "Orioles closer Ryan Helsley is returning for another season after he picked up his 2027 player option, a source confirmed to The Sun.",
+      "published": "2026-10-29T09:45:00+00:00",
+      "title": "Orioles’ Ryan Helsley picks up $14M player option to return for 2027 season",
+      "url": "https://www.baltimoresun.com/2026/10/29/orioles-ryan-helsley-player-option/"
     }
   ],
-  "generated_at": "2026-11-06T18:11:25.430900+00:00",
+  "generated_at": "2026-11-06T23:11:48.017527+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

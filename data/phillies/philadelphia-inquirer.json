@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "The general managers' meetings will begin Monday evening in Las Vegas, and the Phillies will be there. Former Mets and Orioles GM Jim Duquette joins Scott this week to discuss all this and more.",
+      "published": "2026-11-06T02:00:00+00:00",
+      "title": "Jim Duquette on the Phillies’ offseason and what to expect at the GM meetings",
+      "url": "https://www.inquirer.com/inquirer-live/gm-meeting-jim-duquette-offseason-20261106.html"
+    },
+    {
+      "category": "Phillies",
       "description": "Sánchez was named a NL Cy Young finalist, while closer Duran was considered for Reliever of the Year Award and Mattingly was added as a finalist for Manager of the Year.",
       "published": "2026-11-02T17:04:00+00:00",
       "title": "Phillies’ Cristopher Sanchez, Jhoan Duran and Don Mattingly named finalists for MLB awards",
@@ -15,7 +22,7 @@
       "url": "https://www.inquirer.com/sports/phillies-dave-dombrowski-hot-stove-mistakes-pete-alonso-trea-turner-20261031.html"
     }
   ],
-  "generated_at": "2026-11-06T18:11:32.402244+00:00",
+  "generated_at": "2026-11-06T23:11:59.158351+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }
