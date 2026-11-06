@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Red Sox GM Craig Breslow heads into the GM Meetings navigating roster decisions amid significant uncertainty surrounding upcoming CBA negotiations and a looming lockout.",
+      "published": "2026-11-06T10:00:00+00:00",
+      "title": "State of the Sox: Red Sox' Breslow heads to GM meetings amid CBA uncertainty",
+      "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-upcoming-gm-meetings-full-of-uncertainty.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox have two American League Silver Slugger finalists.",
       "published": "2026-11-05T17:36:48+00:00",
       "title": "Red Sox have two 2026 AL Silver Slugger finalists",
@@ -83,23 +90,9 @@
       "published": "2026-10-30T18:15:35+00:00",
       "title": "Red Sox’ top starting pitcher in 2026 becomes free agent",
       "url": "https://www.masslive.com/redsox/2026/10/red-sox-top-starting-pitcher-in-2026-becomes-free-agent.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "A complicated offseason is underway for the Red Sox, whose early estimated 2027 payroll sits at approximately $262 million.",
-      "published": "2026-10-30T10:00:01+00:00",
-      "title": "Examining Red Sox 2027 payroll, how it affects trades, free agency before new CBA",
-      "url": "https://www.masslive.com/redsox/2026/10/examining-red-sox-2027-payroll-and-how-it-affects-trades-free-agent-signings-before-new-cba.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Beating a 1-5 Dolphins team should be easy, but games in Miami never are for the Patriots.",
-      "published": "2026-10-30T09:00:00+00:00",
-      "title": "The Patriots can’t afford any Miami shenanigans on Sunday | Matt Vautour",
-      "url": "https://www.masslive.com/patriots/2026/10/the-patriots-cant-afford-any-miami-shenanigans-on-sunday.html"
     }
   ],
-  "generated_at": "2026-11-06T03:30:05.564243+00:00",
+  "generated_at": "2026-11-06T11:25:39.903792+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

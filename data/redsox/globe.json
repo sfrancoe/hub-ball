@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Sox, anticipating a return to health from Garrett Crochet and Roman Anthony, and full seasons from Adley Rutschman and Curtis Mead, appear optimistic.",
+      "published": "2026-11-06T08:00:00Z",
+      "title": "After back-to-back short playoff runs, how will the Red Sox attack this unusual offseason?",
+      "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-roster-offseason/"
+    },
+    {
+      "category": "Red Sox",
       "description": "Winners will be announced Nov. 17. Silver Sluggers are determined by a vote of every manager and three coaches from each team.",
       "published": "2026-11-05T22:47:28.984Z",
       "title": "Red Sox’ Wilyer Abreu, Willson Contreras named Silver Slugger Award finalists",
@@ -104,16 +111,9 @@
       "published": "2026-10-30T00:20:53.281Z",
       "title": "Caleb Durbin undergoes second offseason surgery, this time on the Red Sox third baseman’s right foot",
       "url": "https://www.bostonglobe.com/2026/10/29/sports/red-sox-caleb-durbin-toe-surgery/"
-    },
-    {
-      "category": "ON BASEBALL",
-      "description": "Frelick grew up in Lexington rooting for the Red Sox and had firsthand knowledge that the right group of players can change history.",
-      "published": "2026-10-29T22:44:28.293Z",
-      "title": "Sal Frelick knew the Brewers had something special. Now they’re World Series champions.",
-      "url": "https://www.bostonglobe.com/2026/10/28/sports/world-series-brewers-first-championship/"
     }
   ],
-  "generated_at": "2026-11-05T23:20:09.459783+00:00",
+  "generated_at": "2026-11-06T11:25:38.016583+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
