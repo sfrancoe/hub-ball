@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Cubs",
-      "description": "New Seattle Mariners manager Jason Kanzler was the Chicago Cubs director of player development, leading their minor-league system, players and coaching staff.",
-      "published": "2026-11-03T09:52:00+00:00",
-      "title": "Seattle Mariners hire Jason Kanzler, the Chicago Cubs farm director, as their new manager",
-      "url": "https://www.chicagotribune.com/2026/11/03/seattle-mariners-hire-jason-kanzler-chicago-cubs/"
-    },
-    {
-      "category": "Cubs",
       "description": "On Nov. 2, 2016 — 10 years ago Monday — the Chicago Cubs ended the longest title drought in North American sports history by winning the World Series.",
       "published": "2026-11-02T04:00:00+00:00",
       "title": "‘Everyone can die happy’: 10 years later, Chicago Cubs’ 2016 World Series title still resonates",
@@ -30,7 +23,14 @@
     },
     {
       "category": "Cubs",
-      "description": "The Chicago Cubs have their work cut out for them. For an organization that fell short of its lofty postseason goals, the Cubs need to take advantage of the foundation they built over the last couple ...",
+      "description": "New Seattle Mariners manager Jason Kanzler was the Chicago Cubs director of player development, leading their minor-league system, players and coaching staff.",
+      "published": "2026-11-03T09:52:00+00:00",
+      "title": "Seattle Mariners hire Jason Kanzler, the Chicago Cubs farm director, as their new manager",
+      "url": "https://www.chicagotribune.com/2026/11/03/seattle-mariners-hire-jason-kanzler-chicago-cubs/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The Chicago Cubs added to their pitching depth Monday by claiming right-hander Eric Orze, an Elk Grove native and Glenbard North graduate, off waivers from the Minnesota Twins.",
       "published": "2026-11-02T15:02:00+00:00",
       "title": "Chicago Cubs begin the offseason by extending a qualifying offer to right fielder Seiya Suzuki",
       "url": "https://www.chicagotribune.com/2026/11/02/chicago-cubs-seiya-suzuki-qualifying-offer/"
@@ -50,7 +50,7 @@
       "url": "https://www.chicagotribune.com/2026/10/26/chicago-cubs-wrigley-field-security-upgrades/"
     }
   ],
-  "generated_at": "2026-11-06T11:25:57.074532+00:00",
+  "generated_at": "2026-11-06T18:11:33.305519+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

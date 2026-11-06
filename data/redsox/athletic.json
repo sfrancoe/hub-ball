@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox could use some help in the middle of the order, and it's not out of the question that they go after a right-handed starter.",
+      "published": "2026-11-06T11:30:43+00:00",
+      "title": "Red Sox free-agent targets: From Seiya Suzuki to Michael King, six names to watch",
+      "url": "https://www.nytimes.com/athletic/7756774/2026/11/06/red-sox-free-agent-targets/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Cadillac joined the F1 grid this season, backed by General Motors and Walter’s TWG Global.",
       "published": "2026-11-04T17:49:39+00:00",
       "title": "Liverpool and Boston Red Sox owners looking to purchase stake in Cadillac Formula 1 Team",
@@ -104,16 +111,9 @@
       "published": "2026-10-21T09:01:17+00:00",
       "title": "How a quest to track down Carlton Fisk ticket stubs helped create a baseball community",
       "url": "https://www.nytimes.com/athletic/7686476/2026/10/21/tickets-baseball-memorabilia-collectors/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Athletic's Keith Law ranked Arias as the No. 4 prospect in baseball in his most recent top-70 list.",
-      "published": "2026-10-20T10:30:11+00:00",
-      "title": "Red Sox shortstop conundrum: What will Boston do with Trevor Story, Franklin Arias?",
-      "url": "https://www.nytimes.com/athletic/7705551/2026/10/20/red-sox-shortstop-decision-trevor-story-franklin-arias/"
     }
   ],
-  "generated_at": "2026-11-05T23:20:10.750431+00:00",
+  "generated_at": "2026-11-06T18:11:16.743081+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

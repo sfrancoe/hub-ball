@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cardinals",
+      "description": "Arizona Fall League success has earned Cardinals prospects Tai Peete and Tekoah Roby recognition as Fall Stars. Peete will also compete in the AFL’s Home Run Derby.",
+      "published": "2026-11-04T09:32:00+00:00",
+      "title": "Cardinals prospects Tai Peete, Tekoah Roby named Fall Stars in Arizona Fall League",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_c617ac07-a471-4fb8-9979-883789abfbd1.html"
+    },
+    {
+      "category": "Cardinals",
       "description": "Two teammates who won a World Series championship together with the Cardinals, Albert Pujols and Randy Flores are set to meet and discuss if they're the tandem to lead the ...",
       "published": "2026-11-05T05:35:00+00:00",
       "title": "Albert Pujols to interview for Astros manager with Randy Flores, his Cardinals teammate",
@@ -9,10 +16,10 @@
     },
     {
       "category": "Cardinals",
-      "description": "Arizona Fall League success has earned Cardinals prospects Tai Peete and Tekoah Roby recognition as Fall Stars. Peete will also compete in the AFL’s Home Run Derby.",
-      "published": "2026-11-04T09:32:00+00:00",
-      "title": "Cardinals prospects Tai Peete, Tekoah Roby named Fall Stars in Arizona Fall League",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_c617ac07-a471-4fb8-9979-883789abfbd1.html"
+      "description": "Cardinals youngsters JJ Wetherholt, Masyn Winn and Michael McGreevy were named 2026 Gold Glove finalists, but each came up short of winning the defensive honor ...",
+      "published": "2026-11-02T10:59:00+00:00",
+      "title": "Cardinals shut out from 2026 Gold Glove awards after having three finalists",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_164293e0-264f-42e2-b23c-c3e4fe983a4e.html"
     },
     {
       "category": "Cardinals",
@@ -55,37 +62,9 @@
       "published": "2026-11-02T17:20:00+00:00",
       "title": "Cardinals’ JJ Wetherholt named finalist for National League Rookie of the Year",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_afb27296-62b4-41b4-a3e0-f9d7ccb01b12.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "Cardinals scouting director Randy Flores was named Astros general manager on Friday. Flores takes on the GM role in Houston after over a decade in the Cardinals' front office.",
-      "published": "2026-10-30T19:26:00+00:00",
-      "title": "Cardinals scouting director Randy Flores hired as next Houston Astros GM",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_635051a5-57b8-4341-9537-e6ed8edcf922.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "While Cardinals are not confirming any decisions, Post-Dispatch previous reported on two returning coaches and other moves possible for the club this month.",
-      "published": "2026-10-23T13:15:00+00:00",
-      "title": "Cardinals plan change at hitting coach, move on from Brant Brown, per sources",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_b336b60c-ba5f-49ae-abec-3b467066450e.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "Welcome to the Oct. 30, 2026, edition of The Write Fielder – a weekly newsletter on baseball and the St. Louis Cardinals from the. Every Friday, lead baseball writer ...",
-      "published": "2026-10-30T05:30:00+00:00",
-      "title": "The Write Fielder: Derrick Goold looks to the past for when Cardinals' future will arrive",
-      "url": "https://www.stltoday.com/sports/article_5a9f3248-dfbb-4021-9a33-072b2bb9c314.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "Arizona Cardinals quarterback Jacoby Brissett passes the ball against the Dallas Cowboys during the first quarter at AT&T Stadium on Nov. 1 in Arlington, Texas.",
-      "published": "2026-11-04T14:03:00+00:00",
-      "title": "FOOTBALL-NFL-DAL-ARI/",
-      "url": "https://www.stltoday.com/image_f2563679-5402-5c87-8e95-a2448b3b86fa.html"
     }
   ],
-  "generated_at": "2026-11-06T11:25:58.916631+00:00",
+  "generated_at": "2026-11-06T18:11:35.169799+00:00",
   "source": "Post-Dispatch",
   "source_url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
 }
