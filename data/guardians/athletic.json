@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "Testifying for the defense, former Guardians catcher Bo Naylor called low-and-away offerings \"a pretty good pitch to have as a weapon.\" ...",
+      "published": "2026-11-05T17:55:00+00:00",
+      "title": "Pitches within scope of Guardians’ scouting report, catcher testifies in pitch-rigging trial",
+      "url": "https://www.nytimes.com/athletic/7757630/2026/11/05/guardians-pitch-rigging-trial-testify-bo-naylor/"
+    },
+    {
+      "category": "Guardians",
       "description": "NEW YORK — After months of telegraphing vastly different perspectives on the pitch-rigging allegations against them, indicted Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz were in ...",
       "published": "2026-11-04T20:02:00+00:00",
       "title": "MLB pitch-rigging trial: Attorneys for Guardians’ Clase, Ortiz say players were exploited",
@@ -23,20 +30,20 @@
     },
     {
       "category": "Guardians",
-      "description": "The Cleveland Guardians made their playoff exit on Monday night with a Game 6 loss to the Tampa Bay Rays. Mike Stobe / Getty Images ST. PETERSBURG, Fla. — Before Albert Belle flexed his right biceps ...",
-      "published": "2026-10-20T03:14:00+00:00",
-      "title": "For the Guardians, a still-elusive World Series and a frustratingly familiar refrain",
-      "url": "https://www.nytimes.com/athletic/7703367/2026/10/20/guardians-game-6-alcs-loss-mlb-playoffs/"
-    },
-    {
-      "category": "Guardians",
       "description": "The trial will mark one of the first tests of the Justice Department’s ambitious efforts to crack down on manipulation in sports betting and prediction markets.",
       "published": "2026-11-02T10:51:00+00:00",
       "title": "Trial Begins for M.L.B. Players Accused of Tipping Pitches to Gamblers",
       "url": "https://www.nytimes.com/2026/11/02/nyregion/cleveland-guardians-gambling-trial.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Tanner Bibee only pitched to three batters in the postseason, and he did not get a chance to throw in the ALCS. Michael Reaves / Getty Images ST. PETERSBURG, Fla. — The Cleveland Guardians left ...",
+      "published": "2026-10-21T03:00:00+00:00",
+      "title": "The pitching plan and offensive disappearance that led to the Guardians’ ALCS demise",
+      "url": "https://www.nytimes.com/athletic/7708247/2026/10/21/guardians-alcs-pitching-batting-analysis/"
     }
   ],
-  "generated_at": "2026-11-05T23:20:20.342882+00:00",
+  "generated_at": "2026-11-06T03:30:17.489246+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }
