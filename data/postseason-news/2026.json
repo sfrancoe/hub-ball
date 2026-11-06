@@ -1,13 +1,97 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-06T03:43:04.935287+00:00",
+  "generatedAt": "2026-11-06T11:37:08.465851+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Red Sox free-agent targets: From Seiya Suzuki to Michael King, six names to watch",
+      "description": "The Red Sox could use some help in the middle of the order, and it's not out of the question that they go after a right-handed starter.",
+      "url": "https://www.nytimes.com/athletic/7756774/2026/11/06/red-sox-free-agent-targets/",
+      "published": "2026-11-06T11:30:43+00:00",
+      "source": "The Athletic",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Breaking down the Yankees’ nine decisions at the non-tender deadline, from Anthony Volpe to Luis Gil",
+      "description": "",
+      "url": "https://nypost.com/2026/11/06/sports/breaking-down-yankees-nine-decisions-at-non-tender-deadline/",
+      "published": "2026-11-06T11:20:00+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees free-agents to target: Brandon Lowe, Luis Arraez and four more names to consider",
+      "description": "Brian Cashman should keep an eye on these players before the lockout begins.",
+      "url": "https://www.nytimes.com/athletic/7757550/2026/11/06/yankees-mlb-free-agent-targets-ryan-jeffers/",
+      "published": "2026-11-06T11:14:04+00:00",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Jim Duquette on the Phillies’ offseason and what to expect at the GM meetings",
+      "description": "The general managers' meetings will begin Monday evening in Las Vegas, and the Phillies will be there. Former Mets and Orioles GM Jim Duquette joins Scott this week to discuss all this and more.",
+      "url": "https://www.inquirer.com/inquirer-live/gm-meeting-jim-duquette-offseason-20261106.html",
+      "published": "2026-11-06T10:01:01+00:00",
+      "source": "Inquirer",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "teamAbbreviation": "PHI",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "State of the Sox: Red Sox' Breslow heads to GM meetings amid CBA uncertainty",
+      "description": "Red Sox GM Craig Breslow heads into the GM Meetings navigating roster decisions amid significant uncertainty surrounding upcoming CBA negotiations and a looming lockout.",
+      "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-upcoming-gm-meetings-full-of-uncertainty.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "After back-to-back short playoff runs, how will the Red Sox attack this unusual offseason?",
+      "description": "The Sox, anticipating a return to health from Garrett Crochet and Roman Anthony, and full seasons from Adley Rutschman and Curtis Mead, appear optimistic.",
+      "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-roster-offseason/",
+      "published": "2026-11-06T08:00:00+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Ty France once wondered ‘Why can’t I do it anymore?’ Now, he’s a coveted free agent",
+      "description": "While there is mutual interest in a reunion with the Padres, France also plans to explore other possibilities.",
+      "url": "https://www.nytimes.com/athletic/7757718/2026/11/06/mlb-free-agency-ty-france-padres/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Yankees teen prospect overhauled swing in one week — and it changed everything",
       "description": "",
@@ -17,6 +101,18 @@
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Pitches within scope of Guardians’ scouting report, catcher testifies in pitch-rigging trial",
+      "description": "Testifying for the defense, former Guardians catcher Bo Naylor called low-and-away offerings \"a pretty good pitch to have as a weapon.\" ...",
+      "url": "https://www.nytimes.com/athletic/7757630/2026/11/05/guardians-pitch-rigging-trial-testify-bo-naylor/",
+      "published": "2026-11-06T01:55:53+00:00",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
       "league": "AL",
       "publishedSource": "publisher"
     },
@@ -31,90 +127,6 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox’ Wilyer Abreu, Willson Contreras named Silver Slugger Award finalists",
-      "description": "Winners will be announced Nov. 17. Silver Sluggers are determined by a vote of every manager and three coaches from each team.",
-      "url": "https://www.bostonglobe.com/2026/11/05/sports/red-sox-silver-slugger-abreu-contreras/",
-      "published": "2026-11-05T22:47:28.984000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Rays’ Silver Slugger finalists are Caminero and — surprise! — Simpson",
-      "description": "The slugging third baseman looks to have a strong case. The contact-hitting outfielder would join a very select group of winners with zero homers.",
-      "url": "https://www.tampabay.com/sports/rays/2026/11/05/junior-caminero-chandler-simpson-silver-al-slugger-award-finalists-randy-arozarena/",
-      "published": "2026-11-05T22:33:36.489000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Matt Roffe, who will oversee the Chicago White Sox drafts, aims to blend data with traditional scouting",
-      "description": "Chicago White Sox director of amateur scouting Matt Roffe spent the last five seasons with the World Series champion Milwaukee Brewers.",
-      "url": "https://www.chicagotribune.com/2026/11/05/chicago-white-sox-matt-roffe-scouting/",
-      "published": "2026-11-05T22:31:02+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Pair of Red Sox named Silver Slugger Awards finalists",
-      "description": "A pair of Red Sox are Silver Slugger Award finalists, but how do they stack up against the competition?",
-      "url": "https://www.bostonherald.com/2026/11/05/red-sox-wilyer-abreu-willson-contreras-silver-slugger-award-finalists-mlb-news/",
-      "published": "2026-11-05T21:56:36+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Pitches within scope of Guardians’ scouting report, catcher testifies in pitch-rigging trial",
-      "description": "Testifying for the defense, former Guardians catcher Bo Naylor called low-and-away offerings \"a pretty good pitch to have as a weapon.\" ...",
-      "url": "https://www.nytimes.com/athletic/7757630/2026/11/05/guardians-pitch-rigging-trial-testify-bo-naylor/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Red Sox have two 2026 AL Silver Slugger finalists",
-      "description": "The Red Sox have two American League Silver Slugger finalists.",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-have-two-2026-al-silver-slugger-finalists.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Fenway Insider Live: Sean McAdam on Red Sox options in free agency ahead of potential lockout, more",
-      "description": "MassLive’s Fenway Insider Sean McAdam hosted a live mailbag Thursday, Nov. 5 to highlight the latest news from the Boston Red Sox.",
-      "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-live-sean-mcadam-on-red-sox-options-in-free-agency-ahead-of-potential-lockout-more.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
