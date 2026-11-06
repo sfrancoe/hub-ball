@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:58:56.815543+00:00",
+  "generated_at": "2026-11-06T19:31:37.893461+00:00",
   "source": "X",
   "source_url": "https://x.com/Marlins",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "The Hits King would like a word. 👑 https://t.co/rcEtRHOiGq",
       "url": "https://x.com/Marlins/status/2118392512729514311",
       "published": "2026-11-05T17:18:27+00:00",
-      "likes": 163,
+      "likes": 182,
       "author": "Miami Marlins",
       "handle": "Marlins",
       "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "Otto-matically in the conversation https://t.co/f8wNHGDml6",
       "url": "https://x.com/Marlins/status/2118387301302796436",
       "published": "2026-11-05T16:57:45+00:00",
-      "likes": 253,
+      "likes": 272,
       "author": "Miami Marlins",
       "handle": "Marlins",
       "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
@@ -32,34 +32,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2118387301302796436",
-      "text": "Otto-matically in the conversation https://t.co/f8wNHGDml6",
-      "url": "https://x.com/Marlins/status/2118387301302796436",
-      "published": "2026-11-05T16:57:45+00:00",
-      "likes": 253,
-      "author": "Miami Marlins",
-      "handle": "Marlins",
-      "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWYGAdnWUAAG2PH.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2118392512729514311",
-      "text": "The Hits King would like a word. 👑 https://t.co/rcEtRHOiGq",
-      "url": "https://x.com/Marlins/status/2118392512729514311",
-      "published": "2026-11-05T17:18:27+00:00",
-      "likes": 163,
-      "author": "Miami Marlins",
-      "handle": "Marlins",
-      "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2118392433167790080/img/oL3AKJ5jhr_B2vJG.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
