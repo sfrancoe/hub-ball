@@ -1,18 +1,30 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-06T23:33:11.060948+00:00",
+  "generatedAt": "2026-11-07T03:16:49.366153+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 2,
   "articles": [
+    {
+      "title": "Where the Yankees can turn to in free agency to bolster center field",
+      "description": "",
+      "url": "https://nypost.com/2026/11/06/sports/where-the-yankees-can-turn-to-in-free-agency-to-bolster-center-field/",
+      "published": "2026-11-07T02:20:55+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "For Craig Breslow, adding to Red Sox’ front office ‘near or at the top of my list’ this offseason",
       "description": "The Red Sox' front office has lost two assistant general managers in the past year-plus.",
       "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-craig-breslow-front-office/",
-      "published": "2026-11-06T23:22:30.274000+00:00",
+      "published": "2026-11-07T00:56:40.464000+00:00",
       "source": "The Boston Globe",
       "teamId": 111,
       "teamName": "Boston Red Sox",
@@ -21,7 +33,7 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Mariners poaching key Yankees coach Tanner Swanson for bench job",
+      "title": "Mariners poaching key Yankees coach Tanner Swanson for bench job: source",
       "description": "Tanner Swanson, the Yankees' valued catching coordinator since November 2019, is heading home.",
       "url": "https://www.nydailynews.com/2026/11/06/mariners-poaching-key-yankees-coach-tanner-swanson-for-bench-coach-job/",
       "published": "2026-11-06T21:55:07+00:00",
@@ -53,42 +65,6 @@
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Guardians re-acquire former utility man on waivers; 40-man roster at 37",
-      "description": "CLEVELAND, Ohio — The Guardians have brought Jose Tena home. They traded Tena to the Nationals at the deadline in 2024 for outfielder Lane Thomas. On Friday, they claimed Tena on waivers from ...",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-re-acquire-former-utility-man-on-waivers-40-man-roster-at-37.html",
-      "published": "2026-11-06T20:41:17.403000+00:00",
-      "source": "Cleveland.com",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Dodgers and hitting coach Aaron Bates part ways in shakeup to coaching staff",
-      "description": "Aaron Bates spent 12 years in the Dodgers organization, including four as a co-hitting coach with Robert Van Scoyoc, and four as an assistant hitting coach.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-06/dodgers-hitting-coach-aaron-bates-part-ways",
-      "published": "2026-11-06T17:00:56.498000+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "What might the 2027 Red Sox roster look like? Evaluating how Boston will attack this unusual offseason.",
-      "description": "The Sox, anticipating a return to health from Garrett Crochet and Roman Anthony, and full seasons from Adley Rutschman and Curtis Mead, appear optimistic.",
-      "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-roster-offseason/",
-      "published": "2026-11-06T13:24:44.704000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
     }
