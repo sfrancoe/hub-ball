@@ -1,13 +1,61 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-07T03:16:49.366153+00:00",
+  "generatedAt": "2026-11-07T10:28:11.387194+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 2,
+  "coveredTeamCount": 3,
   "articles": [
+    {
+      "title": "Today in Chicago History: Cubs reliever Bruce Sutter named National League’s Cy Young Award winner",
+      "description": "Here’s a look back at what happened in the Chicago area on Nov. 7, according to the Tribune’s archives. Is an important event missing from this date? Email us. Flashback: Nov. 7, 2006 On Nov. 7, 2006, ...",
+      "url": "https://www.chicagotribune.com/2026/11/07/november-7-chicago-history/",
+      "published": "2026-11-07T10:00:10+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees All-Star caps stellar season with Platinum Glove as AL’s top defender",
+      "description": "",
+      "url": "https://nypost.com/2026/11/07/sports/cody-bellinger-caps-stellar-yankees-season-with-platinum-glove/",
+      "published": "2026-11-07T05:22:54+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Center fielder Pete Crow-Armstrong wins NL Platinum Glove award — and Chicago Cubs earn team Gold Glove honor",
+      "description": "Center fielder Pete Crow-Armstrong won the National League Platinum Glove award Friday while the Chicago Cubs took home the team Gold Glove award.",
+      "url": "https://www.chicagotribune.com/2026/11/06/pete-crow-armstrong-platinum-glove-cubs/",
+      "published": "2026-11-07T04:53:52+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Ceddanne Rafaela robbed of Platinum Glove as Yankees star wins award",
+      "description": "Ceddanne Rafaela will have to wait until next year to try to check Platinum Glove Award off his career bucket list.",
+      "url": "https://www.bostonherald.com/2026/11/06/red-sox-ceddanne-rafaela-platinum-glove-gold-glove-award-wilyer-abreu-mlb/",
+      "published": "2026-11-07T04:27:30+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Where the Yankees can turn to in free agency to bolster center field",
       "description": "",
@@ -29,42 +77,6 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Mariners poaching key Yankees coach Tanner Swanson for bench job: source",
-      "description": "Tanner Swanson, the Yankees' valued catching coordinator since November 2019, is heading home.",
-      "url": "https://www.nydailynews.com/2026/11/06/mariners-poaching-key-yankees-coach-tanner-swanson-for-bench-coach-job/",
-      "published": "2026-11-06T21:55:07+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees lose catching coach Tanner Swanson to Mariners for promotion to bench coach: Source",
-      "description": "Swanson is widely considered one of the top catching coaches in all of baseball. He returns to his hometown in joining the Mariners.",
-      "url": "https://www.nytimes.com/athletic/7760154/2026/11/06/yankees-tanner-swanson-mariners-bench-coach/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Mariners swipe longtime Yankees coordinator as bench coach",
-      "description": "",
-      "url": "https://nypost.com/2026/11/06/sports/mariners-hire-yankees-coordinator-tanner-swanson-as-bench-coach/",
-      "published": "2026-11-06T21:00:44+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
     }
