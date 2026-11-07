@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The accolades for Cody Bellinger’s defense keep coming.",
+      "published": "2026-11-07T19:54:13+00:00",
+      "title": "Cody Bellinger becomes Yankees’ second Platinum Glove winner",
+      "url": "https://www.nydailynews.com/2026/11/07/cody-bellinger-becomes-yankees-second-platinum-glove-winner/"
+    },
+    {
+      "category": "Yankees",
       "description": "Tanner Swanson, the Yankees' valued catching coordinator since November 2019, is heading home.",
       "published": "2026-11-07T15:39:59+00:00",
       "title": "Mariners poaching key Yankees coach Tanner Swanson for bench job: source",
@@ -132,16 +139,9 @@
       "published": "2026-10-22T15:32:14+00:00",
       "title": "Yankees’ Aaron Boone says managing on an expiring contract ‘doesn’t bother me at all’",
       "url": "https://www.nydailynews.com/2026/10/22/yankees-aaron-boone-expiring-contract/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Yankees owner Hal Steinbrenner shied away from labor issues on Wednesday.",
-      "published": "2026-10-22T13:46:25+00:00",
-      "title": "How would a salary cap help the Yankees? Hal Steinbrenner doesn’t want to talk about it",
-      "url": "https://www.nydailynews.com/2026/10/22/yankees-hal-steinbrenner-salary-cap-cba-lockout-world-series/"
     }
   ],
-  "generated_at": "2026-11-07T19:40:37.795108+00:00",
+  "generated_at": "2026-11-07T23:04:05.480723+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

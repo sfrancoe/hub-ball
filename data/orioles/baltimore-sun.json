@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "Steven Bumbry, the son of an Orioles Hall of Famer and a former MLB draft pick, will serve as an assistant coach at Coppin State.",
-      "published": "2026-11-06T03:20:00+00:00",
-      "title": "Son of Orioles great brings ‘instant credibility’ to Coppin State baseball",
-      "url": "https://www.baltimoresun.com/2026/11/06/orioles-steven-bumbry-al-bumbry-son-coppin-state-baseball-coach/"
-    },
-    {
-      "category": "Orioles",
       "description": "Who’s in and who’s out of a way-too-early 2027 opening day roster projection for the Orioles as they enter free agency.",
       "published": "2026-11-05T04:00:00+00:00",
       "title": "Orioles roster projection: Where things stand as free agency begins",
@@ -23,17 +16,17 @@
     },
     {
       "category": "Orioles",
+      "description": "Steven Bumbry, the son of an Orioles Hall of Famer and a former MLB draft pick, will serve as an assistant coach at Coppin State.",
+      "published": "2026-11-06T03:20:00+00:00",
+      "title": "Son of Orioles great brings ‘instant credibility’ to Coppin State baseball",
+      "url": "https://www.baltimoresun.com/2026/11/06/orioles-steven-bumbry-al-bumbry-son-coppin-state-baseball-coach/"
+    },
+    {
+      "category": "Orioles",
       "description": "MLB’s offseason is officially underway, and one of the Orioles’ first decisions was to part ways with one of their longest-tenured players.",
       "published": "2026-11-02T11:24:00+00:00",
       "title": "Orioles decline Ryan Mountcastle’s $7.5M team option, making him free agent",
       "url": "https://www.baltimoresun.com/2026/11/02/orioles-ryan-mountcastle-option-declined/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles declined outfielder Luis Robert Jr.’s $20 million team option for 2027, a source confirmed to The Baltimore Sun.",
-      "published": "2026-10-31T16:13:00+00:00",
-      "title": "Orioles decline $20M team option for Luis Robert Jr. amid flurry of moves",
-      "url": "https://www.baltimoresun.com/2026/10/31/orioles-luis-robert-team-option/"
     },
     {
       "category": "Orioles",
@@ -64,7 +57,7 @@
       "url": "https://www.baltimoresun.com/2026/10/30/orioles-zach-eflin-rece-hinds/"
     }
   ],
-  "generated_at": "2026-11-07T19:40:50.046642+00:00",
+  "generated_at": "2026-11-07T23:04:11.559301+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
