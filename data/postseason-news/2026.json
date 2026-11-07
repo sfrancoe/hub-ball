@@ -1,13 +1,37 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-07T10:28:11.387194+00:00",
+  "generatedAt": "2026-11-07T16:39:09.449706+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 3,
   "articles": [
+    {
+      "title": "The big-money regrets that hang over Yankees’ pivotal rebuild",
+      "description": "",
+      "url": "https://nypost.com/2026/11/07/sports/the-big-money-regrets-that-hang-over-yankees-bullpen-rebuild/",
+      "published": "2026-11-07T15:09:35+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Former Red Sox pitcher Andrew Miller remains in game with key labor role for MLB Players Association",
+      "description": "Miller retired as a player after helping the union through the last MLB lockout. As another lockout looms, he sees unity among the players and their opposition to the salary cap.",
+      "url": "https://www.bostonglobe.com/2026/11/07/sports/sunday-baseball-notes-labor-andrew-miller-red-sox/",
+      "published": "2026-11-07T14:30:18.743000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Today in Chicago History: Cubs reliever Bruce Sutter named National League’s Cy Young Award winner",
       "description": "Here’s a look back at what happened in the Chicago area on Nov. 7, according to the Tribune’s archives. Is an important event missing from this date? Email us. Flashback: Nov. 7, 2006 On Nov. 7, 2006, ...",
@@ -42,42 +66,6 @@
       "teamName": "Chicago Cubs",
       "teamAbbreviation": "CHC",
       "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Ceddanne Rafaela robbed of Platinum Glove as Yankees star wins award",
-      "description": "Ceddanne Rafaela will have to wait until next year to try to check Platinum Glove Award off his career bucket list.",
-      "url": "https://www.bostonherald.com/2026/11/06/red-sox-ceddanne-rafaela-platinum-glove-gold-glove-award-wilyer-abreu-mlb/",
-      "published": "2026-11-07T04:27:30+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Where the Yankees can turn to in free agency to bolster center field",
-      "description": "",
-      "url": "https://nypost.com/2026/11/06/sports/where-the-yankees-can-turn-to-in-free-agency-to-bolster-center-field/",
-      "published": "2026-11-07T02:20:55+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "For Craig Breslow, adding to Red Sox’ front office ‘near or at the top of my list’ this offseason",
-      "description": "The Red Sox' front office has lost two assistant general managers in the past year-plus.",
-      "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-craig-breslow-front-office/",
-      "published": "2026-11-07T00:56:40.464000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
       "publishedSource": "publisher"
     }
   ]
