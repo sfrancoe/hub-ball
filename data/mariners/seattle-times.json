@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Mariners",
-      "description": "With a lockout expected to begin Dec. 1, the Mariners have limited time to make moves early in the offseason. Here's what to expect as MLB's GM Meetings begin next week.",
-      "published": "2026-11-06T03:19:00+00:00",
-      "title": "As MLB lockout looms, how aggressive will Mariners be at GM Meetings?",
-      "url": "https://www.seattletimes.com/sports/mariners/as-mlb-lockout-looms-how-aggressive-will-mariners-be-at-gm-meetings/"
-    },
-    {
-      "category": "Mariners",
       "description": "Jason Kanzler wowed the Mariners during his interview process. Here's why he left the team's brass 'no choice' in their decision to hire him as manager.",
       "published": "2026-11-04T22:01:00+00:00",
       "title": "What Mariners’ brass said about hiring Jason Kanzler as next manager",
@@ -20,6 +13,13 @@
       "published": "2026-11-04T09:09:00+00:00",
       "title": "Mariners’ new manager Jason Kanzler hits all the right notes in Seattle introduction",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-new-manager-jason-kanzler-hits-all-the-right-notes-in-seattle-introduction/"
+    },
+    {
+      "category": "Mariners",
+      "description": "With a lockout expected to begin Dec. 1, the Mariners have limited time to make moves early in the offseason. Here's what to expect as MLB's GM Meetings begin next week.",
+      "published": "2026-11-06T03:19:00+00:00",
+      "title": "As MLB lockout looms, how aggressive will Mariners be at GM Meetings?",
+      "url": "https://www.seattletimes.com/sports/mariners/as-mlb-lockout-looms-how-aggressive-will-mariners-be-at-gm-meetings/"
     },
     {
       "category": "Mariners",
@@ -62,16 +62,9 @@
       "published": "2026-11-05T04:25:00+00:00",
       "title": "How Mariners might benefit from Jason Kanzler’s coding background",
       "url": "https://www.seattletimes.com/sports/mariners/how-mariners-might-benefit-from-jason-kanzlers-coding-background/"
-    },
-    {
-      "category": "Mariners",
-      "description": "Former Minnesota Twins manager Rocco Baldelli has withdrawn his name from consideration for the Mariners’ open manager role.",
-      "published": "2026-10-25T13:46:00+00:00",
-      "title": "Rocco Baldelli withdraws name from Mariners’ manager opening",
-      "url": "https://www.seattletimes.com/sports/mariners/rocco-baldelli-withdraws-name-from-mariners-manager-opening/"
     }
   ],
-  "generated_at": "2026-11-07T09:25:43.354863+00:00",
+  "generated_at": "2026-11-07T19:40:54.312032+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

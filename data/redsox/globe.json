@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Sunday baseball notes",
+      "description": "Miller retired as a player after helping the union through the last MLB lockout. As another lockout looms, he sees unity among the players and their opposition to the salary cap.",
+      "published": "2026-11-07T14:30:18.743Z",
+      "title": "Former Red Sox pitcher Andrew Miller remains in game with key labor role for MLB Players Association",
+      "url": "https://www.bostonglobe.com/2026/11/07/sports/sunday-baseball-notes-labor-andrew-miller-red-sox/"
+    },
+    {
       "category": "Red Sox",
       "description": "The Red Sox' front office has lost two assistant general managers in the past year-plus.",
       "published": "2026-11-06T23:00:03.506Z",
@@ -104,16 +111,9 @@
       "published": "2026-10-30T10:53:57.03Z",
       "title": "Red Sox start baseball’s offseason by trading Nate Eaton and Tsung-Che Cheng",
       "url": "https://www.bostonglobe.com/2026/10/29/sports/nate-eaton-red-sox-athletics/"
-    },
-    {
-      "category": "red sox",
-      "description": "The offseason comes with a de facto transaction deadline of Dec. 1, when MLB owners are expected to impose a lockout until there is a new collective bargaining agreement.",
-      "published": "2026-10-30T02:16:41.764Z",
-      "title": "With MLB season complete, here are the key dates to know for the Red Sox’ offseason",
-      "url": "https://www.bostonglobe.com/2026/10/29/sports/red-sox-offseason-free-agents-arbitration/"
     }
   ],
-  "generated_at": "2026-11-06T23:11:37.949848+00:00",
+  "generated_at": "2026-11-07T19:40:35.226323+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
