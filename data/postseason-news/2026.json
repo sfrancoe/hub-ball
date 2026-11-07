@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-07T16:39:09.449706+00:00",
+  "generatedAt": "2026-11-07T20:33:35.716498+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 3,
   "articles": [
+    {
+      "title": "Cody Bellinger becomes Yankees’ second Platinum Glove winner",
+      "description": "The accolades for Cody Bellinger’s defense keep coming.",
+      "url": "https://www.nydailynews.com/2026/11/07/cody-bellinger-becomes-yankees-second-platinum-glove-winner/",
+      "published": "2026-11-07T19:54:13+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "The big-money regrets that hang over Yankees’ pivotal rebuild",
       "description": "",
@@ -37,30 +49,6 @@
       "description": "Here’s a look back at what happened in the Chicago area on Nov. 7, according to the Tribune’s archives. Is an important event missing from this date? Email us. Flashback: Nov. 7, 2006 On Nov. 7, 2006, ...",
       "url": "https://www.chicagotribune.com/2026/11/07/november-7-chicago-history/",
       "published": "2026-11-07T10:00:10+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees All-Star caps stellar season with Platinum Glove as AL’s top defender",
-      "description": "",
-      "url": "https://nypost.com/2026/11/07/sports/cody-bellinger-caps-stellar-yankees-season-with-platinum-glove/",
-      "published": "2026-11-07T05:22:54+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Center fielder Pete Crow-Armstrong wins NL Platinum Glove award — and Chicago Cubs earn team Gold Glove honor",
-      "description": "Center fielder Pete Crow-Armstrong won the National League Platinum Glove award Friday while the Chicago Cubs took home the team Gold Glove award.",
-      "url": "https://www.chicagotribune.com/2026/11/06/pete-crow-armstrong-platinum-glove-cubs/",
-      "published": "2026-11-07T04:53:52+00:00",
       "source": "Chicago Tribune",
       "teamId": 112,
       "teamName": "Chicago Cubs",
