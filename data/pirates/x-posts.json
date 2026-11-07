@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-07T13:16:19.178621+00:00",
+  "generated_at": "2026-11-07T21:59:12.501748+00:00",
   "source": "X",
   "source_url": "https://x.com/Pirates",
   "recent": [
+    {
+      "id": "2119090983543410964",
+      "text": "Pirates Picks: Best Fan Moment. 👏 Which are you picking? ⤵️ https://t.co/yYqKgwiv5C",
+      "url": "https://x.com/Pirates/status/2119090983543410964",
+      "published": "2026-11-07T15:33:55+00:00",
+      "likes": 107,
+      "author": "Pittsburgh Pirates",
+      "handle": "Pirates",
+      "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2119090709160411136/img/jmWeY4AGyVtpj2Im.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2118687499660984449",
       "text": "Happy 73rd Birthday to the Candy Man! 🍬🎉 https://t.co/25w5yPjzKg",
       "url": "https://x.com/Pirates/status/2118687499660984449",
       "published": "2026-11-06T12:50:37+00:00",
-      "likes": 1001,
+      "likes": 1058,
       "author": "Pittsburgh Pirates",
       "handle": "Pirates",
       "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
@@ -22,7 +36,7 @@
       "text": "We present to you: all 35 of Brandon Lowe's home runs from this season. 💣 https://t.co/QO8zCc0MPK",
       "url": "https://x.com/Pirates/status/2118383090804703665",
       "published": "2026-11-05T16:41:01+00:00",
-      "likes": 967,
+      "likes": 1040,
       "author": "Pittsburgh Pirates",
       "handle": "Pirates",
       "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
@@ -32,5 +46,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2119090983543410964",
+      "text": "Pirates Picks: Best Fan Moment. 👏 Which are you picking? ⤵️ https://t.co/yYqKgwiv5C",
+      "url": "https://x.com/Pirates/status/2119090983543410964",
+      "published": "2026-11-07T15:33:55+00:00",
+      "likes": 107,
+      "author": "Pittsburgh Pirates",
+      "handle": "Pirates",
+      "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2119090709160411136/img/jmWeY4AGyVtpj2Im.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

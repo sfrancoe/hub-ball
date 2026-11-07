@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-07T13:16:19.172904+00:00",
+  "generated_at": "2026-11-07T21:59:12.492788+00:00",
   "source": "X",
   "source_url": "https://x.com/RaysBaseball",
   "recent": [
+    {
+      "id": "2119086019211391174",
+      "text": "The Great Bryan Bake Off Bryan Baker served up an incredible season 🍽️ https://t.co/kA5TflK69M",
+      "url": "https://x.com/RaysBaseball/status/2119086019211391174",
+      "published": "2026-11-07T15:14:12+00:00",
+      "likes": 358,
+      "author": "Tampa Bay Rays",
+      "handle": "RaysBaseball",
+      "avatar": "https://pbs.twimg.com/profile_images/2115827526450741248/_YCdUPdx_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWiBK8tW0AASKnF.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2118381798891635125",
       "text": "Certified Sluggers 👏 Well deserved Junior & Chandler! https://t.co/A2w8Xv6cLM",
       "url": "https://x.com/RaysBaseball/status/2118381798891635125",
       "published": "2026-11-05T16:35:53+00:00",
-      "likes": 960,
+      "likes": 977,
       "author": "Tampa Bay Rays",
       "handle": "RaysBaseball",
       "avatar": "https://pbs.twimg.com/profile_images/2115827526450741248/_YCdUPdx_normal.jpg",
@@ -22,7 +36,7 @@
       "text": "The bats speak for themselves 😮‍💨 Our guys are AL Silver Slugger offensive team finalists! https://t.co/pwUw99bOdR",
       "url": "https://x.com/RaysBaseball/status/2118381058064519271",
       "published": "2026-11-05T16:32:56+00:00",
-      "likes": 417,
+      "likes": 421,
       "author": "Tampa Bay Rays",
       "handle": "RaysBaseball",
       "avatar": "https://pbs.twimg.com/profile_images/2115827526450741248/_YCdUPdx_normal.jpg",
@@ -30,21 +44,22 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2118378825554035075",
-      "text": "RT @MLB: Your 2026 American League @SluggerNation Silver Slugger Award finalists 💪 The winners will be announced on Tuesday, Nov. 17. http…",
-      "url": "https://x.com/RaysBaseball/status/2118378825554035075",
-      "published": "2026-11-05T16:24:04+00:00",
-      "likes": 0,
+      "id": "2119086019211391174",
+      "text": "The Great Bryan Bake Off Bryan Baker served up an incredible season 🍽️ https://t.co/kA5TflK69M",
+      "url": "https://x.com/RaysBaseball/status/2119086019211391174",
+      "published": "2026-11-07T15:14:12+00:00",
+      "likes": 358,
       "author": "Tampa Bay Rays",
       "handle": "RaysBaseball",
       "avatar": "https://pbs.twimg.com/profile_images/2115827526450741248/_YCdUPdx_normal.jpg",
-      "media": "",
+      "media": "https://pbs.twimg.com/media/HWiBK8tW0AASKnF.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
