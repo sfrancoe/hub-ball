@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Ceddanne Rafaela will have to wait until next year to try to check Platinum Glove Award off his career bucket list.",
+      "published": "2026-11-07T04:27:30Z",
+      "title": "Ceddanne Rafaela robbed of Platinum Glove as Yankees star wins award",
+      "url": "https://www.bostonherald.com/2026/11/06/red-sox-ceddanne-rafaela-platinum-glove-gold-glove-award-wilyer-abreu-mlb/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "A pair of Red Sox are Silver Slugger Award finalists, but how do they stack up against the competition?",
       "published": "2026-11-05T21:56:36Z",
       "title": "Pair of Red Sox named Silver Slugger Awards finalists",
@@ -104,16 +111,9 @@
       "published": "2026-10-28T23:26:27Z",
       "title": "Awards, deadlines and the lockout: Key MLB offseason dates to know",
       "url": "https://www.bostonherald.com/2026/10/28/mlb-offseason-key-dates-gold-glove-silver-slugger-qualifying-offer-options-non-tender-deadline-red-sox/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox have reportedly hired a longtime Houston Astros coach to serve as the club’s new outfield instructor.",
-      "published": "2026-10-28T23:04:16Z",
-      "title": "Report: Red Sox hire former Houston Astros coach to big league staff",
-      "url": "https://www.bostonherald.com/2026/10/28/report-red-sox-hire-former-houston-astros-coach-to-big-league-staff/"
     }
   ],
-  "generated_at": "2026-11-05T23:20:10.247707+00:00",
+  "generated_at": "2026-11-07T09:25:28.724789+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

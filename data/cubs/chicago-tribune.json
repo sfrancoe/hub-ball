@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "Center fielder Pete Crow-Armstrong won the National League Platinum Glove award Friday while the Chicago Cubs took home the team Gold Glove award.",
+      "published": "2026-11-06T20:53:00+00:00",
+      "title": "Center fielder Pete Crow-Armstrong wins NL Platinum Glove award — and Chicago Cubs earn team Gold Glove honor",
+      "url": "https://www.chicagotribune.com/2026/11/06/pete-crow-armstrong-platinum-glove-cubs/"
+    },
+    {
+      "category": "Cubs",
       "description": "On Nov. 2, 2016 — 10 years ago Monday — the Chicago Cubs ended the longest title drought in North American sports history by winning the World Series.",
       "published": "2026-11-02T04:00:00+00:00",
       "title": "‘Everyone can die happy’: 10 years later, Chicago Cubs’ 2016 World Series title still resonates",
@@ -50,7 +57,7 @@
       "url": "https://www.chicagotribune.com/2026/11/05/opinion-10-years-after-miracle-wrigleyville/"
     }
   ],
-  "generated_at": "2026-11-06T23:12:00.124651+00:00",
+  "generated_at": "2026-11-07T09:25:46.202504+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }
