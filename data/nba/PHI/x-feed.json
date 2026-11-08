@@ -1,11 +1,26 @@
 {
-  "generated_at": "2026-11-08T21:23:51.507031+00:00",
+  "generated_at": "2026-11-08T23:25:02.175445+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451079351886117",
   "team_id": "20",
-  "likes_as_of": "2026-11-08T21:23:51.507031+00:00",
+  "sport": "nba",
+  "likes_as_of": "2026-11-08T23:25:02.175445+00:00",
   "recent": [
+    {
+      "id": "2119561574184542562",
+      "text": "Tyrese Maxey‼️ https://t.co/dDL3QtBviX",
+      "url": "https://x.com/sixers/status/2119561574184542562",
+      "published": "2026-11-08T22:43:53+00:00",
+      "likes": 612,
+      "author": "Philadelphia 76ers",
+      "handle": "sixers",
+      "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2119561461039026177/img/Yu8RDlwf1YrWYHm6.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2118164522200334520",
       "text": "RT @76ersPR_stats: Joel Embiid (20 points, 11 rebounds) has recorded at least 20 points and 10 rebounds for the third time this season, tie…",
@@ -39,7 +54,7 @@
       "text": "before the game speeds up, Dean Wade slows things down. 🧘‍♂️ @PennMedicine https://t.co/V1prukPvrn",
       "url": "https://x.com/sixers/status/2118003036865827095",
       "published": "2026-11-04T15:30:49+00:00",
-      "likes": 598,
+      "likes": 599,
       "author": "Philadelphia 76ers",
       "handle": "sixers",
       "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
@@ -49,5 +64,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2119561574184542562",
+      "text": "Tyrese Maxey‼️ https://t.co/dDL3QtBviX",
+      "url": "https://x.com/sixers/status/2119561574184542562",
+      "published": "2026-11-08T22:43:53+00:00",
+      "likes": 612,
+      "author": "Philadelphia 76ers",
+      "handle": "sixers",
+      "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2119561461039026177/img/Yu8RDlwf1YrWYHm6.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

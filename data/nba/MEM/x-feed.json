@@ -1,11 +1,26 @@
 {
-  "generated_at": "2026-11-08T19:29:42.492012+00:00",
+  "generated_at": "2026-11-08T23:24:56.401436+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450835151142983",
   "team_id": "29",
-  "likes_as_of": "2026-11-08T19:29:42.492012+00:00",
+  "sport": "nba",
+  "likes_as_of": "2026-11-08T23:24:56.401436+00:00",
   "recent": [
+    {
+      "id": "2119554878024409178",
+      "text": "Watch Party tomorrow night at Nashoba 🐻🎉 Enjoy @MichelobULTRA specials & prizes! More info 🔗 https://t.co/YWg5AcILbr https://t.co/AZRZqwZU4e",
+      "url": "https://x.com/memgrizz/status/2119554878024409178",
+      "published": "2026-11-08T22:17:17+00:00",
+      "likes": 18,
+      "author": "Memphis Grizzlies",
+      "handle": "memgrizz",
+      "avatar": "https://pbs.twimg.com/profile_images/2099960573207117824/gqvyqO_f_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWor7NCWEAAn8ZT.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2118928135844774226",
       "text": "GG Jackson got off to a strong start in the preseason, but he appears to be falling out of favor in the rotation. He was the lone available Grizz player to not play v OKC. “It’s tough.” Iisalo explained the reasoning behind the decision after the game. https://t.co/2fryGVNdb1",
@@ -123,7 +138,7 @@
       "text": "Regarding Isaiah Stewart’s injury, Tuomas Iisalo says he “avoided anything major.” He’s walking around at practice without a noticeable limp. Positive news",
       "url": "https://x.com/DamichaelC/status/2118428474796826946",
       "published": "2026-11-05T19:41:21+00:00",
-      "likes": 179,
+      "likes": 178,
       "author": "Damichael Cole",
       "handle": "DamichaelC",
       "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
@@ -327,21 +342,22 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2117482557281276207",
-      "text": "RT @JoeMullinax: It's a \"Memphis is unbeaten no more\" episode of Locked on Grizzlies! - Ty Jerome tried his best! - Fouls, turnovers, and…",
-      "url": "https://x.com/DamichaelC/status/2117482557281276207",
-      "published": "2026-11-03T05:02:37+00:00",
-      "likes": 0,
-      "author": "Damichael Cole",
-      "handle": "DamichaelC",
-      "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
-      "media": "",
+      "id": "2119554878024409178",
+      "text": "Watch Party tomorrow night at Nashoba 🐻🎉 Enjoy @MichelobULTRA specials & prizes! More info 🔗 https://t.co/YWg5AcILbr https://t.co/AZRZqwZU4e",
+      "url": "https://x.com/memgrizz/status/2119554878024409178",
+      "published": "2026-11-08T22:17:17+00:00",
+      "likes": 18,
+      "author": "Memphis Grizzlies",
+      "handle": "memgrizz",
+      "avatar": "https://pbs.twimg.com/profile_images/2099960573207117824/gqvyqO_f_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWor7NCWEAAn8ZT.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
