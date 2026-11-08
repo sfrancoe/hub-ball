@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rockies",
+      "description": "It didn’t take long for the Rockies to realize the flier they took on Konner Eaton as a sixth-round pick could pay big dividends.",
+      "published": "2026-11-07T20:00:00+00:00",
+      "title": "Konner Eaton, showing promise as a future Rockies starter, enters his ‘finishing school’",
+      "url": "https://www.denverpost.com/2026/11/08/konner-eaton-rockies-pitching-prospect/"
+    },
+    {
+      "category": "Rockies",
       "description": "Desperate to improve their pitchers, the Rockies are tightening their focus on opposing hitters to help accelerate in-game adjustments.",
       "published": "2026-11-04T06:46:00+00:00",
       "title": "Rockies hire former big leaguer Andre Lipcius as video advance scout",
@@ -29,7 +36,7 @@
       "url": "https://extras.denverpost.com/rock/rock1203.htm"
     }
   ],
-  "generated_at": "2026-11-07T19:40:59.769766+00:00",
+  "generated_at": "2026-11-08T16:02:16.716299+00:00",
   "source": "Denver Post",
   "source_url": "https://www.denverpost.com/sports/colorado-rockies/"
 }

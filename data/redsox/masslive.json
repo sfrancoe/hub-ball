@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Random thoughts about (mostly) sport topics.",
+      "published": "2026-11-08T10:00:00+00:00",
+      "title": "Some Things I Think I Think: Red Sox’ needs are obvious as offseason gets underway",
+      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-needs-are-obvious-as-offseason-gets-underway.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Red Sox GM Craig Breslow heads into the GM Meetings navigating roster decisions amid significant uncertainty surrounding upcoming CBA negotiations and a looming lockout.",
       "published": "2026-11-06T10:00:00+00:00",
       "title": "State of the Sox: Red Sox' Breslow heads to GM meetings amid CBA uncertainty",
@@ -85,7 +92,7 @@
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-make-easy-825-million-call-on-key-reliever-bring-him-back-for-2027.html"
     }
   ],
-  "generated_at": "2026-11-06T23:11:40.274952+00:00",
+  "generated_at": "2026-11-08T16:01:53.929262+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

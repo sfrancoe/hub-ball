@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Tales | They seem to need another starter, though not much else. And the payroll can handle Drew Rasmussen’s salary without breaking up the team.",
+      "published": "2026-11-08T12:00:00+00:00",
+      "title": "Could Nick Martinez return? And other questions as Rays look toward 2027",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/08/nick-martinez-freddy-peralta-drew-rasmussen-free-agency-erik-neander-lockout/"
+    },
+    {
+      "category": "Rays",
       "description": "The slugging third baseman looks to have a strong case. The contact-hitting outfielder would join a very select group of winners with zero homers.",
       "published": "2026-11-05T22:33:36+00:00",
       "title": "Rays’ Silver Slugger finalists are Caminero and — surprise! — Simpson",
@@ -118,16 +125,9 @@
       "published": "2026-10-29T01:27:45+00:00",
       "title": "Rays owner turns to a good luck charm for a comeback — Kevin Millar",
       "url": "https://www.tampabay.com/sports/rays/2026/10/28/patrick-zalupski-world-series-brewers-kevin-millar-red-sox-yankees-2004-alcs/"
-    },
-    {
-      "category": "Rays",
-      "description": "Manager Kevin Cash said Junior Caminero is “fine” despite a left foot issue. TV broadcaster Dewayne Staats to throw out the first pitch.",
-      "published": "2026-10-28T19:21:13+00:00",
-      "title": "World Series warmup: Drew Rasmussen to start Game 5 for Rays",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/28/drew-rasmussen-world-series-game-5/"
     }
   ],
-  "generated_at": "2026-11-06T23:11:46.295200+00:00",
+  "generated_at": "2026-11-08T16:02:02.217558+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

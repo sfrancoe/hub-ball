@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Braves",
-      "description": "The Atlanta Braves are seeking another starting pitcher. Now that free agency is open, here are some of the top prospects available.",
-      "published": "2026-11-05T03:00:00+00:00",
-      "title": "Which free agent starting pitchers could fit Braves?",
-      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-need-starting-pitcher/"
-    },
-    {
-      "category": "Braves",
       "description": "Total revenue for Atlanta Braves Holdings grew to $325 million in the third quarter, up 4% from the prior year period.",
       "published": "2026-11-04T07:00:00+00:00",
       "title": "Atlanta Braves Holdings releases third quarter financial report",
@@ -20,6 +13,13 @@
       "published": "2026-11-02T06:15:00+00:00",
       "title": "Braves sign Vidal Bruján to improve depth in infield",
       "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-vidal-brujan/"
+    },
+    {
+      "category": "Braves",
+      "description": "The Atlanta Braves are seeking another starting pitcher. Now that free agency is open, here are some of the top prospects available.",
+      "published": "2026-11-05T03:00:00+00:00",
+      "title": "Which free agent starting pitchers could fit Braves?",
+      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-need-starting-pitcher/"
     },
     {
       "category": "Braves",
@@ -57,7 +57,7 @@
       "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-minor-league-prospects-impressed/"
     }
   ],
-  "generated_at": "2026-11-08T09:17:03.665759+00:00",
+  "generated_at": "2026-11-08T16:02:10.070776+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }

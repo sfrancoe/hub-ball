@@ -1,10 +1,17 @@
 {
   "articles": [
     {
+      "category": "ON BASEBALL",
+      "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute..",
+      "published": "2026-11-08T13:39:04.573Z",
+      "title": "MLB’s General Managers meetings a chance for Craig Breslow and Red Sox to position themselves ahead of lockout",
+      "url": "https://www.bostonglobe.com/2026/11/08/sports/baseball-red-sox-general-managers-meetings-lockout/"
+    },
+    {
       "category": "RED SOX",
       "description": "LeVangie earned four World Series rings over 36 years with the organization. The 57-year-old will be a pro scout for the Royals.",
       "published": "2026-11-07T21:51:38.147Z",
-      "title": "Longtime Red Sox staffer Dana LeVangie leaving Boston for first MLB gig away from Boston",
+      "title": "Longtime staffer Dana LeVangie leaving Red Sox for first MLB job away from Boston",
       "url": "https://www.bostonglobe.com/2026/11/07/sports/red-sox-dana-levangie-leaves-royals/"
     },
     {
@@ -104,16 +111,9 @@
       "published": "2026-10-31T14:32:30.055Z",
       "title": "The Brewers’ World Series success was no fluke, and they did their part to help save baseball",
       "url": "https://www.bostonglobe.com/2026/10/31/sports/sunday-baseball-notes-brewers-world-series/"
-    },
-    {
-      "category": "MLB",
-      "description": "Milwaukee city officials were expecting about 400,000 people to attend the parade and celebration.",
-      "published": "2026-10-30T22:53:38.242Z",
-      "title": "Brewers fans flood Milwaukee streets for a long-awaited World Series victory celebration",
-      "url": "https://www.bostonglobe.com/2026/10/30/sports/milwaukee-brewers-world-series-parade/"
     }
   ],
-  "generated_at": "2026-11-07T23:04:02.610085+00:00",
+  "generated_at": "2026-11-08T16:01:51.214540+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

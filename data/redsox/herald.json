@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "With a lockout looming and lingering uncertainty over the sport’s economic landscape, Craig Breslow and the Red Sox are heading into uncharted waters this offseason.",
+      "published": "2026-11-08T11:30:08Z",
+      "title": "MLB notes: Where Red Sox, Craig Breslow stand ahead of upcoming GM Meetings",
+      "url": "https://www.bostonherald.com/2026/11/08/mlb-notes-red-sox-craig-breslow-navigating-uncertain-waters-entering-2027/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Pedro Martinez knows firsthand how damaging a protracted work stoppage can be, and Saturday at his foundation’s gala the Hall of Famer implored MLB’s owners and players to avoid a lockout.",
+      "published": "2026-11-08T10:30:24Z",
+      "title": "‘Figure it out’: Red Sox legend implores MLB, players to avoid lockout",
+      "url": "https://www.bostonherald.com/2026/11/08/figure-it-out-red-sox-legend-implores-mlb-players-to-avoid-lockout/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Ceddanne Rafaela will have to wait until next year to try to check Platinum Glove Award off his career bucket list.",
       "published": "2026-11-07T04:27:30Z",
       "title": "Ceddanne Rafaela robbed of Platinum Glove as Yankees star wins award",
@@ -97,23 +111,9 @@
       "published": "2026-10-29T22:36:36Z",
       "title": "Red Sox infielder has second offseason surgery, this time on right foot",
       "url": "https://www.bostonherald.com/2026/10/29/red-sox-infielder-has-second-offseason-surgery-this-time-on-right-foot/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox made their first move of the offseason on Thursday, trading an outfielder to the Athletics.",
-      "published": "2026-10-29T18:05:48Z",
-      "title": "Red Sox trade outfielder to Athletics in first deal of offseason",
-      "url": "https://www.bostonherald.com/2026/10/29/source-red-sox-trade-outfielder-to-athletics-in-first-deal-of-offseason/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Though the 2026 Red Sox season ended nearly a month ago, the Major League Baseball offseason is only just beginning, and it’s expected to be a chaotic one. The league is almost certainly set to lock out the players when their Collective Bargaining Agreement expires Dec. 1 at 11:59 p.m. ET, as they did for […]",
-      "published": "2026-10-28T23:26:27Z",
-      "title": "Awards, deadlines and the lockout: Key MLB offseason dates to know",
-      "url": "https://www.bostonherald.com/2026/10/28/mlb-offseason-key-dates-gold-glove-silver-slugger-qualifying-offer-options-non-tender-deadline-red-sox/"
     }
   ],
-  "generated_at": "2026-11-07T09:25:28.724789+00:00",
+  "generated_at": "2026-11-08T16:01:51.874852+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
