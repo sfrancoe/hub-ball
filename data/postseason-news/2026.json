@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-08T18:31:50.276822+00:00",
+  "generatedAt": "2026-11-08T22:31:33.190118+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 2,
   "articles": [
+    {
+      "title": "MLB’s General Managers meetings a chance for Craig Breslow and Red Sox to position themselves ahead of lockout",
+      "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute..",
+      "url": "https://www.bostonglobe.com/2026/11/08/sports/baseball-red-sox-general-managers-meetings-lockout/",
+      "published": "2026-11-08T21:58:53.948000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Former Red Sox pitcher Andrew Miller remains in game with key labor role for MLB Players Association",
       "description": "Miller retired as a player after helping the union through the last MLB lockout. As another lockout looms, he sees unity among the players and their opposition to the salary cap.",
@@ -33,18 +45,6 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "MLB’s General Managers meetings a chance for Craig Breslow and Red Sox to position themselves ahead of lockout",
-      "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute..",
-      "url": "https://www.bostonglobe.com/2026/11/08/sports/baseball-red-sox-general-managers-meetings-lockout/",
-      "published": "2026-11-08T13:39:04.573000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
       "title": "Could Nick Martinez return? And other questions as Rays look toward 2027",
       "description": "Tales | They seem to need another starter, though not much else. And the payroll can handle Drew Rasmussen’s salary without breaking up the team.",
       "url": "https://www.tampabay.com/sports/rays/2026/11/08/nick-martinez-freddy-peralta-drew-rasmussen-free-agency-erik-neander-lockout/",
@@ -60,32 +60,8 @@
       "title": "MLB notes: Where Red Sox, Craig Breslow stand ahead of upcoming GM Meetings",
       "description": "With a lockout looming and lingering uncertainty over the sport’s economic landscape, Craig Breslow and the Red Sox are heading into uncharted waters this offseason.",
       "url": "https://www.bostonherald.com/2026/11/08/mlb-notes-red-sox-craig-breslow-navigating-uncertain-waters-entering-2027/",
-      "published": "2026-11-08T11:30:08+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "‘Figure it out’: Red Sox legend implores MLB, players to avoid lockout",
-      "description": "Pedro Martinez knows firsthand how damaging a protracted work stoppage can be, and Saturday at his foundation’s gala the Hall of Famer implored MLB’s owners and players to avoid a lockout.",
-      "url": "https://www.bostonherald.com/2026/11/08/figure-it-out-red-sox-legend-implores-mlb-players-to-avoid-lockout/",
-      "published": "2026-11-08T10:30:24+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Some Things I Think I Think: Red Sox’ needs are obvious as offseason gets underway",
-      "description": "Random thoughts about (mostly) sport topics.",
-      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-needs-are-obvious-as-offseason-gets-underway.html",
       "published": "",
-      "source": "MassLive",
+      "source": "The Boston Herald",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
