@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "Who’s in and who’s out of a way-too-early 2027 opening day roster projection for the Orioles as they enter free agency.",
-      "published": "2026-11-05T04:00:00+00:00",
-      "title": "Orioles roster projection: Where things stand as free agency begins",
-      "url": "https://www.baltimoresun.com/2026/11/05/orioles-roster-projection-free-agency/"
-    },
-    {
-      "category": "Orioles",
       "description": "Steven Bumbry, the son of an Orioles Hall of Famer and a former MLB draft pick, will serve as an assistant coach at Coppin State.",
       "published": "2026-11-06T03:20:00+00:00",
       "title": "Son of Orioles great brings ‘instant credibility’ to Coppin State baseball",
@@ -20,6 +13,13 @@
       "published": "2026-11-04T11:39:00+00:00",
       "title": "5 biggest offseason questions facing the Orioles as free agency begins",
       "url": "https://www.baltimoresun.com/2026/11/04/orioles-biggest-offseason-questions/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Who’s in and who’s out of a way-too-early 2027 opening day roster projection for the Orioles as they enter free agency.",
+      "published": "2026-11-05T04:00:00+00:00",
+      "title": "Orioles roster projection: Where things stand as free agency begins",
+      "url": "https://www.baltimoresun.com/2026/11/05/orioles-roster-projection-free-agency/"
     },
     {
       "category": "Orioles",
@@ -55,9 +55,16 @@
       "published": "2026-10-29T09:45:00+00:00",
       "title": "Orioles’ Ryan Helsley picks up $14M player option to return for 2027 season",
       "url": "https://www.baltimoresun.com/2026/10/29/orioles-ryan-helsley-player-option/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles moved on from injured starter Zach Eflin but brought back outfielder Rece Hinds on a one-year deal for the 2027 season.",
+      "published": "2026-10-30T11:41:00+00:00",
+      "title": "Orioles decline Zach Eflin’s mutual option, re-sign Rece Hinds to MLB deal",
+      "url": "https://www.baltimoresun.com/2026/10/30/orioles-zach-eflin-rece-hinds/"
     }
   ],
-  "generated_at": "2026-11-08T16:02:03.699440+00:00",
+  "generated_at": "2026-11-08T20:25:05.171572+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
