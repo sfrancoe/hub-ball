@@ -1,16 +1,40 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-08T13:40:09.409680+00:00",
+  "generatedAt": "2026-11-08T18:31:50.276822+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 2,
   "articles": [
     {
-      "title": "MLB general managers meetings present last chance to make deals before near certain lockout",
-      "description": "Teams with an open window for contention will at least try to make major roster moves now.",
+      "title": "Former Red Sox pitcher Andrew Miller remains in game with key labor role for MLB Players Association",
+      "description": "Miller retired as a player after helping the union through the last MLB lockout. As another lockout looms, he sees unity among the players and their opposition to the salary cap.",
+      "url": "https://www.bostonglobe.com/2026/11/07/sports/sunday-baseball-notes-labor-andrew-miller-red-sox/",
+      "published": "2026-11-08T15:04:03.432000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Longtime staffer Dana LeVangie leaving Red Sox for first MLB job away from Boston",
+      "description": "LeVangie earned four World Series rings over 36 years with the organization. The 57-year-old will be a pro scout for the Royals.",
+      "url": "https://www.bostonglobe.com/2026/11/07/sports/red-sox-dana-levangie-leaves-royals/",
+      "published": "2026-11-08T13:51:10.301000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "MLB’s General Managers meetings a chance for Craig Breslow and Red Sox to position themselves ahead of lockout",
+      "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute..",
       "url": "https://www.bostonglobe.com/2026/11/08/sports/baseball-red-sox-general-managers-meetings-lockout/",
       "published": "2026-11-08T13:39:04.573000+00:00",
       "source": "The Boston Globe",
@@ -65,18 +89,6 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Houston Astros prospect Nehomar Ochoa Jr. survived a freak accident. He keeps chasing his MLB dream",
-      "description": "A hook crashed through Nehomar Ochoa’s windshield during spring training in 2025, leaving him glad to be alive. Now the Galena Park graduate is focusing on his path through the Astros' system.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/nehomar-ochoa-jr-prospect-accident-22518319.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
       "league": "AL",
       "publishedSource": "unverified"
     }
