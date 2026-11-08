@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Random thoughts about (mostly) sport topics.",
+        "published": "2026-11-08T10:00:00+00:00",
+        "title": "Some Things I Think I Think: Red Sox’ needs are obvious as offseason gets underway",
+        "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-needs-are-obvious-as-offseason-gets-underway.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Payton Pritchard said he couldn't see out of his right eye due to an abrasion, but it cleared up by Friday's game against the Hornets.",
         "published": "2026-11-07T10:00:00+00:00",
         "title": "Couldn’t see out an eye, wanting the NBA Cup, strategic rest (Celtics Notebook)",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T02:59:45+00:00",
         "title": "Neemias Queta is Celtics’ Name to Know Player of the Game in win over Bucks",
         "url": "https://www.masslive.com/celtics/2026/11/neemias-queta-is-celtics-name-to-know-player-of-the-game-in-win-over-bucks.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics led by as many as 22 points in the first half before holding off a Bucks rally late in the win.",
-        "published": "2026-11-05T02:58:52+00:00",
-        "title": "4 takeaways as Celtics beat Bucks with late rally following stunning collapse",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-bucks-with-late-rally-following-stunning-collapse.html"
       }
     ],
-    "generated_at": "2026-11-08T00:33:28.820722+00:00",
+    "generated_at": "2026-11-08T10:08:18.706775+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
