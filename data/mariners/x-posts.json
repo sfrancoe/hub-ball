@@ -1,14 +1,42 @@
 {
-  "generated_at": "2026-11-08T13:37:47.147093+00:00",
+  "generated_at": "2026-11-08T22:15:34.743075+00:00",
   "source": "X",
   "source_url": "https://x.com/Mariners",
   "recent": [
+    {
+      "id": "2119553045893935463",
+      "text": "RT @TMobilePark: On Monday, the punks come out at twilight. https://t.co/bjY0bV0jZr",
+      "url": "https://x.com/Mariners/status/2119553045893935463",
+      "published": "2026-11-08T22:10:00+00:00",
+      "likes": 0,
+      "author": "Seattle Mariners",
+      "handle": "Mariners",
+      "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWomsgcbAAAf81L.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2119467927829393604",
+      "text": "Best of luck to our friends @reignfc in the @NWSL Playoffs 🙌",
+      "url": "https://x.com/Mariners/status/2119467927829393604",
+      "published": "2026-11-08T16:31:46+00:00",
+      "likes": 55,
+      "author": "Seattle Mariners",
+      "handle": "Mariners",
+      "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
+      "media": "",
+      "quoted_text": "Rise and shine, it’s QUARTERFINALS MATCHDAY! ⚡️ 🆚 Gotham FC 🏟️ Sports Illustrated Stadium ⏰ 9:30AM PT 📺 ABC and ESPN Deportes 🎉 Rough & Tumble Ballard #GFCvSEA https://t.co/8IuRpEGWSx",
+      "quoted_author": "Seattle Reign FC",
+      "quoted_handle": "reignfc"
+    },
     {
       "id": "2118841587790975442",
       "text": "Get to know the new skipper, Jason Kanzler 🫡 https://t.co/lbpS7fGsez",
       "url": "https://x.com/Mariners/status/2118841587790975442",
       "published": "2026-11-06T23:02:55+00:00",
-      "likes": 873,
+      "likes": 899,
       "author": "Seattle Mariners",
       "handle": "Mariners",
       "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
@@ -22,7 +50,7 @@
       "text": "A memorable first day in Seattle. https://t.co/3qPhaSoa9a",
       "url": "https://x.com/Mariners/status/2118512474211356866",
       "published": "2026-11-06T01:15:08+00:00",
-      "likes": 759,
+      "likes": 760,
       "author": "Seattle Mariners",
       "handle": "Mariners",
       "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
@@ -30,21 +58,36 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2118389599919890586",
-      "text": "More accolades for Raaaaandy 🔱 @RandyArozarena has been named a 2026 AL Silver Slugger Finalist! #TridentsUp 🔗 https://t.co/IN2ayjhh8W https://t.co/Rcver6qEhN",
-      "url": "https://x.com/Mariners/status/2118389599919890586",
-      "published": "2026-11-05T17:06:53+00:00",
-      "likes": 1070,
+      "id": "2119467927829393604",
+      "text": "Best of luck to our friends @reignfc in the @NWSL Playoffs 🙌",
+      "url": "https://x.com/Mariners/status/2119467927829393604",
+      "published": "2026-11-08T16:31:46+00:00",
+      "likes": 55,
       "author": "Seattle Mariners",
       "handle": "Mariners",
       "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWYHcv8bEAAHmA1.jpg",
+      "media": "",
+      "quoted_text": "Rise and shine, it’s QUARTERFINALS MATCHDAY! ⚡️ 🆚 Gotham FC 🏟️ Sports Illustrated Stadium ⏰ 9:30AM PT 📺 ABC and ESPN Deportes 🎉 Rough & Tumble Ballard #GFCvSEA https://t.co/8IuRpEGWSx",
+      "quoted_author": "Seattle Reign FC",
+      "quoted_handle": "reignfc"
+    },
+    {
+      "id": "2119553045893935463",
+      "text": "RT @TMobilePark: On Monday, the punks come out at twilight. https://t.co/bjY0bV0jZr",
+      "url": "https://x.com/Mariners/status/2119553045893935463",
+      "published": "2026-11-08T22:10:00+00:00",
+      "likes": 0,
+      "author": "Seattle Mariners",
+      "handle": "Mariners",
+      "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWomsgcbAAAf81L.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }

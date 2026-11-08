@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-08T13:37:47.143610+00:00",
+  "generated_at": "2026-11-08T22:15:34.741067+00:00",
   "source": "X",
   "source_url": "https://x.com/whitesox",
   "recent": [
+    {
+      "id": "2119448620374048885",
+      "text": "May the Festival of Lights radiate love and happiness to you and your family! https://t.co/B9Xb7ZS2Xn",
+      "url": "https://x.com/whitesox/status/2119448620374048885",
+      "published": "2026-11-08T15:15:03+00:00",
+      "likes": 618,
+      "author": "Chicago White Sox",
+      "handle": "whitesox",
+      "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWnLSWLXgAEThYN.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2118423162505322884",
       "text": "go best friend https://t.co/I0xxTAxDfe",
       "url": "https://x.com/whitesox/status/2118423162505322884",
       "published": "2026-11-05T19:20:14+00:00",
-      "likes": 2560,
+      "likes": 2561,
       "author": "Chicago White Sox",
       "handle": "whitesox",
       "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
@@ -16,21 +30,22 @@
       "quoted_text": "@whitesox Make a Vargas and Murakami power of friendship edit next",
       "quoted_author": "georgina",
       "quoted_handle": "kittonacci"
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2118388297881817518",
-      "text": "Adding a World Series champ to the organization https://t.co/jlBgx8wuPB",
-      "url": "https://x.com/whitesox/status/2118388297881817518",
-      "published": "2026-11-05T17:01:42+00:00",
-      "likes": 1219,
+      "id": "2119448620374048885",
+      "text": "May the Festival of Lights radiate love and happiness to you and your family! https://t.co/B9Xb7ZS2Xn",
+      "url": "https://x.com/whitesox/status/2119448620374048885",
+      "published": "2026-11-08T15:15:03+00:00",
+      "likes": 618,
       "author": "Chicago White Sox",
       "handle": "whitesox",
       "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWYG7gBWQAAFvom.jpg",
+      "media": "https://pbs.twimg.com/media/HWnLSWLXgAEThYN.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }

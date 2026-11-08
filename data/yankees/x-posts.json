@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-08T13:37:47.140726+00:00",
+  "generated_at": "2026-11-08T22:15:34.739107+00:00",
   "source": "X",
   "source_url": "https://x.com/Yankees",
   "recent": [
+    {
+      "id": "2119504805844648058",
+      "text": "Happy Birthday Big G!! Wishing you a great day 🎂🥳🎁 https://t.co/vC0ZkwVTz3",
+      "url": "https://x.com/Yankees/status/2119504805844648058",
+      "published": "2026-11-08T18:58:18+00:00",
+      "likes": 1500,
+      "author": "New York Yankees",
+      "handle": "Yankees",
+      "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWn-KSwXcAE0hiY.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119061557871071235",
       "text": "From Gold to Platinum 👏 Congratulations to Cody Bellinger, the @RawlingsSports 2026 AL Platinum Glove Winner! https://t.co/qtPfhq7c07",
       "url": "https://x.com/Yankees/status/2119061557871071235",
       "published": "2026-11-07T13:37:00+00:00",
-      "likes": 4338,
+      "likes": 4561,
       "author": "New York Yankees",
       "handle": "Yankees",
       "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
@@ -22,7 +36,7 @@
       "text": "Certified Platinum 👏 @Cody_Bellinger",
       "url": "https://x.com/Yankees/status/2118919281211748853",
       "published": "2026-11-07T04:11:38+00:00",
-      "likes": 2948,
+      "likes": 3029,
       "author": "New York Yankees",
       "handle": "Yankees",
       "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
@@ -30,21 +44,22 @@
       "quoted_text": "Your 2026 Platinum Glove Award Winners Pete Crow-Armstrong & Cody Bellinger! https://t.co/n5iWmkIsax",
       "quoted_author": "Rawlings Baseball",
       "quoted_handle": "RawlingsSports"
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2118403406310334870",
-      "text": "Single game tickets are on sale now for 2027 Yankees Spring Training at @GMSField 🎟️: https://t.co/yNiwPtfWPY https://t.co/kOCgHej5SO",
-      "url": "https://x.com/Yankees/status/2118403406310334870",
-      "published": "2026-11-05T18:01:44+00:00",
-      "likes": 174,
+      "id": "2119504805844648058",
+      "text": "Happy Birthday Big G!! Wishing you a great day 🎂🥳🎁 https://t.co/vC0ZkwVTz3",
+      "url": "https://x.com/Yankees/status/2119504805844648058",
+      "published": "2026-11-08T18:58:18+00:00",
+      "likes": 1500,
       "author": "New York Yankees",
       "handle": "Yankees",
       "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWYUPRyWkAA8Dsj.jpg",
+      "media": "https://pbs.twimg.com/media/HWn-KSwXcAE0hiY.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
