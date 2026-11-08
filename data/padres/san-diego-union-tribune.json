@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Padres",
-      "description": "The Padres’ outgoing minor league free agents include two homegrown assets: Left-hander Jagger Haynes and outfielder Tirso Ornelas. The 24-year-old Haynes was the Padres’ fifth-rounder in the 2020 ...",
-      "published": "2026-11-04T20:55:00+00:00",
-      "title": "Jagger Haynes, Tirso Ornelas headline the Padres’ outgoing minor league free agents",
-      "url": "https://www.sandiegouniontribune.com/2026/11/04/jagger-haynes-tirso-ornelas-headline-the-padres-outgoing-minor-league-free-agents/"
-    },
-    {
-      "category": "Padres",
       "description": "Outfielder Alex McCoy and right-hander Kannon Kemp were selected to the 20th Annual “Fall Stars Game” on Sunday at Salt River Fields in Scottsdale, Ariz. Meantime, infielder Justin DeCriscio is up ...",
       "published": "2026-11-03T22:02:00+00:00",
       "title": "Alex McCoy headlines Padres prospects playing in the Arizona Fall League all-star game",
       "url": "https://www.sandiegouniontribune.com/2026/11/04/alex-mccoy-headlines-padres-prospects-playing-in-the-arizona-fall-league-all-star-game/"
+    },
+    {
+      "category": "Padres",
+      "description": "The Padres’ outgoing minor league free agents include two homegrown assets: Left-hander Jagger Haynes and outfielder Tirso Ornelas. The 24-year-old Haynes was the Padres’ fifth-rounder in the 2020 ...",
+      "published": "2026-11-04T20:55:00+00:00",
+      "title": "Jagger Haynes, Tirso Ornelas headline the Padres’ outgoing minor league free agents",
+      "url": "https://www.sandiegouniontribune.com/2026/11/04/jagger-haynes-tirso-ornelas-headline-the-padres-outgoing-minor-league-free-agents/"
     },
     {
       "category": "Padres",
@@ -37,13 +37,20 @@
     },
     {
       "category": "Padres",
+      "description": "Our ranking of the top 15 available free agents include two players who were keys to the Padres' 2026 success. Updated after Monday Night Football, the Week 8 fantasy football waiver wire features 24 ...",
+      "published": "2026-11-06T15:20:00+00:00",
+      "title": "San Diego Padres",
+      "url": "https://www.sandiegouniontribune.com/sports/mlb/san-diego-padres/"
+    },
+    {
+      "category": "Padres",
       "description": "The Padres have a month to get started on offseason business before the current collective bargaining agreement expires on Dec. 1 ...",
       "published": "2026-10-29T05:00:00+00:00",
       "title": "Padres offseason primer: Lockout looms as baseball gets back to business",
       "url": "https://www.sandiegouniontribune.com/2026/10/29/padres-offseason-primer-lockout-looms-as-baseball-gets-back-to-business/"
     }
   ],
-  "generated_at": "2026-11-07T23:04:29.755424+00:00",
+  "generated_at": "2026-11-08T09:17:09.510908+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }
