@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-08T00:01:37.996373+00:00",
+  "generatedAt": "2026-11-08T06:17:58.752417+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 2,
   "articles": [
     {
       "title": "Longtime Red Sox staffer Dana LeVangie leaving Boston for first MLB gig away from Boston",
@@ -31,42 +31,6 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "The big-money regrets that hang over Yankees’ pivotal rebuild",
-      "description": "",
-      "url": "https://nypost.com/2026/11/07/sports/the-big-money-regrets-that-hang-over-yankees-bullpen-rebuild/",
-      "published": "2026-11-07T15:09:35+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Former Red Sox pitcher Andrew Miller remains in game with key labor role for MLB Players Association",
-      "description": "Miller retired as a player after helping the union through the last MLB lockout. As another lockout looms, he sees unity among the players and their opposition to the salary cap.",
-      "url": "https://www.bostonglobe.com/2026/11/07/sports/sunday-baseball-notes-labor-andrew-miller-red-sox/",
-      "published": "2026-11-07T14:30:18.743000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "As GM meetings arrive, Astros’ Randy Flores enters high-stakes offseason amid labor uncertainty",
-      "description": "New Astros executive Randy Flores enters the GM meetings with a manager to hire, roster questions to weigh and a possible Dec. 1 lockout looming over baseball.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-randy-flores-gm-meetings-22466804.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
