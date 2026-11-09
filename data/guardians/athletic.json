@@ -2,10 +2,17 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "Prospective jurors were questioned on sports betting, with several acknowledging they're bettors. More than 100 jurors were excused.",
-      "published": "2026-11-02T16:00:00+00:00",
-      "title": "Jury selected in pitch-rigging trial of Guardians’ Emmanuel Clase and Luis Ortiz",
-      "url": "https://www.nytimes.com/athletic/7751867/2026/11/03/emmanuel-clase-luis-ortiz-trial-mlb-betting-jury-selection/"
+      "description": "The year of Parker Messick isn't over yet. He has some awards to win and some vows to read. \"It's been a fun ride this year,\" he says.",
+      "published": "2026-11-09T03:00:00+00:00",
+      "title": "A whirlwind week for Guardians’ Parker Messick with ROY, Cy Young results and his wedding",
+      "url": "https://www.nytimes.com/athletic/7764056/2026/11/09/guardians-parker-messick-roy-cy-young-wedding/"
+    },
+    {
+      "category": "Guardians",
+      "description": "The federal government’s case against star Cleveland Guardians closer Emmanuel Clase and starting pitcher Luis Ortiz enters its second week, as the prosecution attempts to earn a landmark conviction ...",
+      "published": "2026-11-09T03:30:00+00:00",
+      "title": "Rigged pitches or baseball strategy? What to know as Clase-Ortiz trial enters second week",
+      "url": "https://www.nytimes.com/athletic/7764691/2026/11/09/clase-ortiz-pitch-rigging-trial-mlb-what-to-know/"
     },
     {
       "category": "Guardians",
@@ -13,6 +20,13 @@
       "published": "2026-10-20T03:14:00+00:00",
       "title": "For the Guardians, a still-elusive World Series and a frustratingly familiar refrain",
       "url": "https://www.nytimes.com/athletic/7703367/2026/10/20/guardians-game-6-alcs-loss-mlb-playoffs/"
+    },
+    {
+      "category": "Guardians",
+      "description": "Prospective jurors were questioned on sports betting, with several acknowledging they're bettors. More than 100 jurors were excused.",
+      "published": "2026-11-02T16:00:00+00:00",
+      "title": "Jury selected in pitch-rigging trial of Guardians’ Emmanuel Clase and Luis Ortiz",
+      "url": "https://www.nytimes.com/athletic/7751867/2026/11/03/emmanuel-clase-luis-ortiz-trial-mlb-betting-jury-selection/"
     },
     {
       "category": "Guardians",
@@ -36,7 +50,7 @@
       "url": "https://www.nytimes.com/2026/11/02/nyregion/cleveland-guardians-gambling-trial.html"
     }
   ],
-  "generated_at": "2026-11-08T23:51:18.595865+00:00",
+  "generated_at": "2026-11-09T12:10:51.980059+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

@@ -2,13 +2,20 @@
   "articles": [
     {
       "category": "Cardinals",
+      "description": "Missing several key players, and with their backup quarterback playing through two injuries, the Seahawks still handled the Cardinals.",
+      "published": "2026-11-09T04:00:00+00:00",
+      "title": "How Drew Lock, Seahawks gutted out a win with injuries piling up: ‘That dude’s a beast’",
+      "url": "https://www.nytimes.com/athletic/7766574/2026/11/09/drew-lock-injury-seahawks-cardinals/"
+    },
+    {
+      "category": "Cardinals",
       "description": "The Astros will interview former St. Louis Cardinals star Albert Pujols for their managerial opening this week, according to a league source who spoke on condition of anonymity because they were not ...",
       "published": "2026-11-04T11:32:00+00:00",
       "title": "Albert Pujols to interview for Astros’ managerial vacancy: Source",
       "url": "https://www.nytimes.com/athletic/7753889/2026/11/04/albert-pujols-astros-manager-interview/"
     }
   ],
-  "generated_at": "2026-11-06T18:11:35.385233+00:00",
+  "generated_at": "2026-11-09T12:10:58.789126+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cardinals/"
 }

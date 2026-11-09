@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "A select group of Mariners players, veterans who are considered clubhouse leaders, participated in the final managerial interviews, according to sources briefed on the process who were granted ...",
+      "published": "2026-11-09T02:09:00+00:00",
+      "title": "Mariners involved some players in team’s managerial search: Sources",
+      "url": "https://www.nytimes.com/athletic/7766336/2026/11/09/mariners-manager-search-players/"
+    },
+    {
+      "category": "Mariners",
       "description": "The Mariners are bringing back CJ Gillman as hitting coach, according to people briefed on the hire. Gillman previously served as Seattle’s minor-league hitting coordinator before a stint with the ...",
       "published": "2026-10-30T11:30:00+00:00",
       "title": "Mariners, still searching for a manager, add CJ Gillman as hitting coach: Sources",
@@ -29,7 +36,7 @@
       "url": "https://www.nytimes.com/athletic/7736600/2026/10/29/sf-giants-roster-purge-grant-mccray-mariners/"
     }
   ],
-  "generated_at": "2026-11-08T16:02:09.409316+00:00",
+  "generated_at": "2026-11-09T12:10:54.763790+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mariners/"
 }

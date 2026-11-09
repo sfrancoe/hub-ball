@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Days after being the victim of a 40-man roster crunch, right-handed reliever Zack Kelly has officially departed the Red Sox organization.",
+      "published": "2026-11-09T10:00:00+00:00",
+      "title": "Red Sox release longtime reliever after DFA — and he’s expected to have strong free agent market",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-release-longtime-reliever-after-dfa-and-hes-expected-to-have-strong-free-agent-market.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Random thoughts about (mostly) sport topics.",
       "published": "2026-11-08T10:00:00+00:00",
       "title": "Some Things I Think I Think: Red Sox’ needs are obvious as offseason gets underway",
@@ -69,16 +76,9 @@
       "published": "2026-11-03T00:15:37+00:00",
       "title": "Red Sox DFA pair of pitchers as offseason roster moves begin",
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-roster-crunch-leads-to-two-cuts-from-pitching-staff-including-longtime-reliever.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The MLB offseason might move quickly this winter. What will the Red Sox do? We polled our three baseball writers for some bold predictions on Craig Breslow's plans.",
-      "published": "2026-11-02T11:00:01+00:00",
-      "title": "Red Sox bold predictions: Who stays and who goes this winter?",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-bold-predictions-will-franklin-arias-jarren-duran-be-traded-where-will-the-big-bat-come-from.html"
     }
   ],
-  "generated_at": "2026-11-09T03:42:36.507020+00:00",
+  "generated_at": "2026-11-09T12:10:39.881059+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
