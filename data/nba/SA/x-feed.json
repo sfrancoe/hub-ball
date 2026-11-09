@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T03:25:28.069983+00:00",
+  "generated_at": "2026-11-09T05:25:50.181044+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451209689870734",
   "team_id": "24",
   "sport": "nba",
-  "likes_as_of": "2026-11-09T03:25:28.069983+00:00",
+  "likes_as_of": "2026-11-09T05:25:50.181044+00:00",
   "recent": [
     {
       "id": "2119283314645221485",
       "text": "OH MY CASTLE 🫣🏰 📺 @DAZN https://t.co/WI98xW6qfg",
       "url": "https://x.com/spurs/status/2119283314645221485",
       "published": "2026-11-08T04:18:11+00:00",
-      "likes": 948,
+      "likes": 958,
       "author": "San Antonio Spurs",
       "handle": "spurs",
       "avatar": "https://pbs.twimg.com/profile_images/2109702130558803968/wrHcaxT4_normal.jpg",
@@ -40,7 +40,7 @@
       "text": "STEPHON CASTLE OMG 😱😤 📺 @DAZN https://t.co/E78x3XUB2p",
       "url": "https://x.com/spurs/status/2118934982865355087",
       "published": "2026-11-07T05:14:02+00:00",
-      "likes": 1403,
+      "likes": 1402,
       "author": "San Antonio Spurs",
       "handle": "spurs",
       "avatar": "https://pbs.twimg.com/profile_images/2109702130558803968/wrHcaxT4_normal.jpg",
@@ -96,7 +96,7 @@
       "text": "Victor Wembanyama is the first player in the play-by-play data era to have 25+ points, 15+ rebounds and 5+ blocks in a single half!",
       "url": "https://x.com/spurs/status/2118193493512225010",
       "published": "2026-11-05T04:07:37+00:00",
-      "likes": 3392,
+      "likes": 3391,
       "author": "San Antonio Spurs",
       "handle": "spurs",
       "avatar": "https://pbs.twimg.com/profile_images/2109702130558803968/wrHcaxT4_normal.jpg",
@@ -106,20 +106,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2119283314645221485",
-      "text": "OH MY CASTLE 🫣🏰 📺 @DAZN https://t.co/WI98xW6qfg",
-      "url": "https://x.com/spurs/status/2119283314645221485",
-      "published": "2026-11-08T04:18:11+00:00",
-      "likes": 948,
-      "author": "San Antonio Spurs",
-      "handle": "spurs",
-      "avatar": "https://pbs.twimg.com/profile_images/2109702130558803968/wrHcaxT4_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWk0wJeWoAAJTcY.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
