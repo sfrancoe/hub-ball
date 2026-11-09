@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jaylen Brown, Jayson Tatum and Paul George shared their expectations for Tuesday’s Celtics-76ers showdown.",
+        "published": "2026-11-09T04:58:26Z",
+        "title": "What Jaylen Brown, Jayson Tatum expect from Celtics-76ers matchup",
+        "url": "https://www.bostonherald.com/2026/11/08/what-jaylen-brown-jayson-tatum-expect-from-celtics-76ers-matchup/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics overwhelmed the Bucks on Sunday to improve to 8-2. Next up: a blockbuster showdown against Jaylen Brown and the 76ers.",
         "published": "2026-11-09T03:21:06Z",
         "title": "Celtics breeze into Jaylen Brown showdown with blowout of Bucks",
@@ -105,16 +112,9 @@
         "published": "2026-11-01T23:08:37Z",
         "title": "Celtics get defensive to begin road grind with win over feisty Magic",
         "url": "https://www.bostonherald.com/2026/11/01/celtics-get-defensive-to-begin-road-grind-with-win-over-magic/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics will be without their top free agent addition when they visit the Magic on Sunday.",
-        "published": "2026-11-01T15:26:56Z",
-        "title": "Celtics rule out starting center for road game vs. Magic",
-        "url": "https://www.bostonherald.com/2026/11/01/celtics-rule-out-starting-center-for-road-game-vs-magic/"
       }
     ],
-    "generated_at": "2026-11-09T03:23:59.388291+00:00",
+    "generated_at": "2026-11-09T05:04:34.692657+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
