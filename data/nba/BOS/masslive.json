@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The entire NBA world will be watching as the Celtics face Jaylen Brown on Tuesday for the first time since the blockbuster deal.",
+        "published": "2026-11-09T10:30:00+00:00",
+        "title": "Jayson Tatum on facing Jaylen Brown, Mitchell Robinson getting into shape (Celtics Notebook)",
+        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-on-facing-jaylen-brown-mitchell-robinson-getting-into-shape-celtics-notebook.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Kristaps Porzingis spent two seasons in Boston and had a positive impact on his teammates, plus he won the 2024 NBA championship.",
         "published": "2026-11-09T10:00:00+00:00",
         "title": "Jayson Tatum on Kristaps Porzingis retirement: ‘I got nothing but love for him’",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T21:26:10+00:00",
         "title": "Celtics injury report: Payton Pritchard listed for Hornets game Friday",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-injury-report-payton-pritchard-listed-for-hornets-game-friday.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Our model now makes the Celtics the East favorite at 18.8%. Compare DraftKings title odds and Jayson Tatum’s MVP and ECF MVP prices.",
-        "published": "2026-11-05T15:15:00+00:00",
-        "title": "Jayson Tatum at +1000 for MVP after Player of the Week honors: Celtics futures update",
-        "url": "https://www.masslive.com/betting/2026/11/celtics-futures-update-draftkings-odds-model.html"
       }
     ],
-    "generated_at": "2026-11-09T10:06:10.869146+00:00",
+    "generated_at": "2026-11-09T10:36:24.406378+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
