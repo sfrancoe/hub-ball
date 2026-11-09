@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T11:26:42.526877+00:00",
+  "generated_at": "2026-11-09T15:27:08.868269+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450516421841029",
   "team_id": "5",
   "sport": "nba",
-  "likes_as_of": "2026-11-09T11:26:42.526877+00:00",
+  "likes_as_of": "2026-11-09T15:27:08.868269+00:00",
   "recent": [
     {
       "id": "2119440954755305785",
@@ -344,20 +344,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2119440954755305785",
-      "text": "RT @CavsCare: Wishing a bright and joyful Diwali to all who celebrate! https://t.co/oeiX9NNhDI",
-      "url": "https://x.com/cavs/status/2119440954755305785",
-      "published": "2026-11-08T14:44:35+00:00",
-      "likes": 0,
-      "author": "Cleveland Cavaliers",
-      "handle": "cavs",
-      "avatar": "https://pbs.twimg.com/profile_images/2094420137319284736/fxZglZef_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWnDxEYW8AA-cOL.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
