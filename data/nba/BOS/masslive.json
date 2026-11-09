@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jayson Tatum and Jaylen Brown has had their relationship scrutinized over the past few weeks. But how did we even get here?",
+        "published": "2026-11-09T16:39:24+00:00",
+        "title": "How did Jayson Tatum, Jaylen Brown ‘lamb chops’ get to this point? Let’s recap",
+        "url": "https://www.masslive.com/celtics/2026/11/how-did-jayson-tatum-jaylen-brown-lamb-chops-get-to-this-point-lets-recap.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics travel to Xfinity Mobile Arena to take on the Philadelphia 76ers on Wednesday. Compare Polymarket odds, spread lines, and score projections before tip off.",
         "published": "2026-11-09T16:17:59+00:00",
         "title": "Experts release Celtics vs. 76ers prediction as Tatum and Brown headline latest player props",
@@ -105,16 +112,9 @@
         "published": "2026-11-06T10:00:00+00:00",
         "title": "It's time for MIAA to stop punishing blameless kids for adult mistakes | Matt Vautour",
         "url": "https://www.masslive.com/sports/2026/11/the-miaa-needs-to-stop-punishing-blameless-kids-for-adult-mistakes.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "This week's Celtics mailbag features talk of the centers and how they can improve.",
-        "published": "2026-11-06T10:00:00+00:00",
-        "title": "How to get Neemias Queta to stop fouling so much? (Celtics Mailbag)",
-        "url": "https://www.masslive.com/celtics/2026/11/how-to-get-neemias-queta-to-stop-fouling-so-much-celtics-mailbag.html"
       }
     ],
-    "generated_at": "2026-11-09T16:28:12.430860+00:00",
+    "generated_at": "2026-11-09T16:48:19.864199+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
