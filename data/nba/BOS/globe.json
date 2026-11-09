@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Celtics 117, Bucks 97",
+        "description": "The Bucks raced to a 14-point lead before the Celtics rallied, led by Paul George's 27 points and Jayson Tatum's 21.",
+        "published": "2026-11-09T03:25:35.644Z",
+        "title": "Celtics overcome slow start to pull away for victory over Bucks",
+        "url": "https://www.bostonglobe.com/2026/11/08/sports/celtics-bucks-game-score/"
+      },
+      {
         "category": "celtics at bucks | 8 p.m. (NBCSB)",
         "description": "Boston will take on Milwaukee for the second time in less than a week, but then won't see the Bucks again until April.",
         "published": "2026-11-08T15:16:55.272Z",
@@ -93,13 +100,6 @@
         "url": "https://www.bostonglobe.com/2026/11/03/sports/celtics-center-mitchell-robinson/"
       },
       {
-        "category": "ROCKETS 109, CELTICS 93",
-        "description": "It was a rough night from behind the 3-point arc, and Jayson Tatum didn't get much help from teammates in a loss on Monday.",
-        "published": "2026-11-03T11:50:51.454Z",
-        "title": "The Celtics knew they were in for a tough one in Houston, and that’s where their winning streak ended",
-        "url": "https://www.bostonglobe.com/2026/11/02/sports/nba-celtics-rockets-game-score/"
-      },
-      {
         "category": "Celtics",
         "description": "We know serious Celtics fans don’t want to miss a beat. Now, you don’t have to.",
         "published": "2024-10-17T15:28:56.377Z",
@@ -107,7 +107,7 @@
         "url": "https://www.bostonglobe.com/2023/04/04/sports/boston-globe-celtics-newsletter/"
       }
     ],
-    "generated_at": "2026-11-08T15:29:54.267260+00:00",
+    "generated_at": "2026-11-09T03:34:03.667119+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
