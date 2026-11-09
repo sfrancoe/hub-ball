@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "\"We're playing basketball. Both of us are trying to win, so it's nothing to talk about. Just check the ball up,\" Brown said of Tatum.",
+        "published": "2026-11-09T02:04:59+00:00",
+        "title": "Jaylen Brown asked again about Jayson Tatum: 'He's on his side; I'm on my side'",
+        "url": "https://www.nytimes.com/athletic/7766202/2026/11/08/jaylen-brown-jayson-tatum-76ers-celtics-beef-lamb-chops/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Though Robinson had only one offensive rebound against the Rockets on Monday, Mazzulla sounded encouraged after diving into the tape.",
         "published": "2026-11-04T23:52:53+00:00",
         "title": "Joe Mazzulla on Mitchell Robinson adjusting to Celtics: 'Process versus a result thing'",
@@ -105,16 +112,9 @@
         "published": "2026-10-24T09:41:03+00:00",
         "title": "Celtics Mitchell Robinson faces Knicks as a rival: 'You can’t let your feelings in it'",
         "url": "https://www.nytimes.com/athletic/7719000/2026/10/24/celtics-mitchell-robinson-faces-knicks/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Tatum believes he and Brown \"should be celebrated\" and that the friction between them is a result of \"not enough communication.\"",
-        "published": "2026-10-24T04:33:27+00:00",
-        "title": "Jayson Tatum wants to stop Jaylen Brown drama: 'This ain't no f---ing Shaq and Kobe'",
-        "url": "https://www.nytimes.com/athletic/7719178/2026/10/24/jayson-tatum-jaylen-brown-drama-celtics-76ers/"
       }
     ],
-    "generated_at": "2026-11-08T00:33:29.228216+00:00",
+    "generated_at": "2026-11-09T02:13:35.702233+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
