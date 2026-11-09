@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-08T16:10:13.020946+00:00",
-  "roster_as_of": "November 6, 2026",
+  "generated_at": "2026-11-09T19:59:31.302161+00:00",
+  "roster_as_of": "November 9, 2026",
   "team": {
     "id": 114,
     "name": "Cleveland Guardians"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1372,6 +1372,48 @@
           "slugging_percentage": 0.415,
           "ops": 0.707
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 681520,
+      "mlb_id": 681520,
+      "wikidata_id": "Q98066355",
+      "slug": "antoine-kelly",
+      "name": "Antoine Kelly",
+      "full_name": "Antoine Kelly",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "Non-roster invitee",
+      "is_active_roster": false,
+      "birth_date": "1999-12-05",
+      "age": 26,
+      "birthplace": "Chicago, Illinois, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "July 31, 2026",
+      "debut_team": "Chicago Cubs",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Chicago Cubs",
+        "Cleveland Guardians"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q98066355",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_Kelly",
+      "retrosheet_id": "kella002",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
