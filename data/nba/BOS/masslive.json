@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics will be at full strength ahead of their game against the first-place Sixers and Jaylen Brown.",
+        "published": "2026-11-09T21:34:17+00:00",
+        "title": "Celtics get fortunate injury news ahead of 76ers clash",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-get-fortunate-injury-news-ahead-of-76ers-clash.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jayson Tatum and Jaylen Brown has had their relationship scrutinized over the past few weeks. But how did we even get here?",
         "published": "2026-11-09T16:39:24+00:00",
         "title": "How did Jayson Tatum, Jaylen Brown ‘lamb chops’ get to this point? Let’s recap",
@@ -105,16 +112,9 @@
         "published": "2026-11-06T16:15:00+00:00",
         "title": "Expert release Celtics vs. Hornets prediction as Tatum and White headline latest Polymarket props",
         "url": "https://www.masslive.com/betting/2026/11/expert-release-celtics-vs-hornets-prediction-as-tatum-and-white-headline-latest-polymarket-props.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Boston English's playoff disqualification over a clerical slip is the latest example of the MIAA's flawed enforcement. A smarter penalty system could finally set things right.",
-        "published": "2026-11-06T10:00:00+00:00",
-        "title": "It's time for MIAA to stop punishing blameless kids for adult mistakes | Matt Vautour",
-        "url": "https://www.masslive.com/sports/2026/11/the-miaa-needs-to-stop-punishing-blameless-kids-for-adult-mistakes.html"
       }
     ],
-    "generated_at": "2026-11-09T16:48:19.864199+00:00",
+    "generated_at": "2026-11-09T21:49:52.145607+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
