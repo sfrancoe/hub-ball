@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Paul George was everywhere Sunday as the Celtics blew out the Bucks, and this time, they didn't give up the lead.",
+        "published": "2026-11-09T03:31:29+00:00",
+        "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in win over Bucks",
+        "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-celtics-name-to-know-player-of-the-game-in-win-over-bucks.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics rallied from a 14-point deficit in the first quarter for a convincing win over the Bucks on Sunday night.",
         "published": "2026-11-09T03:16:50+00:00",
         "title": "4 takeaways as Celtics beat Bucks using surprise starting lineup",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T10:53:49+00:00",
         "title": "Celtics’ Paul George: 'I won’t lie. No. I’m still trying to figure it out myself’",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-paul-george-i-wont-lie-no-im-still-trying-to-figure-it-out-myself.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Mitchell Robinson had a season-high in rebounds in the win over the Bucks on Wednesday.",
-        "published": "2026-11-05T10:00:00+00:00",
-        "title": "Celtics facing Mitchell Robinson dilemma, injury update, gusty win (Notebook)",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-facing-mitchell-robinson-dilemma-injury-update-gusty-win-notebook.html"
       }
     ],
-    "generated_at": "2026-11-09T03:23:59.880770+00:00",
+    "generated_at": "2026-11-09T03:44:09.427102+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
