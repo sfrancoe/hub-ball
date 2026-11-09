@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jaylen Brown will face the Celtics and Jayson Tatum for the first time since the trade Tuesday in Philadelphia.",
+        "published": "2026-11-09T01:24:56+00:00",
+        "title": "Jaylen Brown addresses Jayson Tatum ahead of Celtics clash: ‘Nothing to talk about’",
+        "url": "https://www.masslive.com/celtics/2026/11/jaylen-brown-addresses-jayson-tatum-ahead-of-celtics-clash-nothing-to-talk-about.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Random thoughts about (mostly) sport topics.",
         "published": "2026-11-08T10:00:00+00:00",
         "title": "Some Things I Think I Think: Red Sox’ needs are obvious as offseason gets underway",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T04:28:20+00:00",
         "title": "Celtics avoid disaster, Paul George: What we learned from win over Bucks",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-avoid-disaster-paul-george-what-we-learned-from-win-over-bucks.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Neemias Queta made multiple winning plays during a close fourth quarter to help the Celtics to a 109-102 win over the Bucks at TD Garden.",
-        "published": "2026-11-05T02:59:45+00:00",
-        "title": "Neemias Queta is Celtics’ Name to Know Player of the Game in win over Bucks",
-        "url": "https://www.masslive.com/celtics/2026/11/neemias-queta-is-celtics-name-to-know-player-of-the-game-in-win-over-bucks.html"
       }
     ],
-    "generated_at": "2026-11-08T10:08:18.706775+00:00",
+    "generated_at": "2026-11-09T01:33:20.849790+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
