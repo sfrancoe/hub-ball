@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Kristaps Porzingis spent two seasons in Boston and had a positive impact on his teammates, plus he won the 2024 NBA championship.",
+        "published": "2026-11-09T10:00:00+00:00",
+        "title": "Jayson Tatum on Kristaps Porzingis retirement: ‘I got nothing but love for him’",
+        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-on-kristaps-porzingis-retirement-i-got-nothing-but-love-for-him.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics are 8-2 on the season after blowing out the Bucks, but they have a date with the Sixers and Jaylen Brown coming up.",
         "published": "2026-11-09T03:56:13+00:00",
         "title": "Mitchell Robinson looks good: What we learned from Celtics’ blowout win over Bucks",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T15:15:00+00:00",
         "title": "Jayson Tatum at +1000 for MVP after Player of the Week honors: Celtics futures update",
         "url": "https://www.masslive.com/betting/2026/11/celtics-futures-update-draftkings-odds-model.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Philadelphia Inquirer columnist Mike Sielski joins Matt Vautour and Chris Mason to talk about Philadelphia fans loving both A.J. Brown’s struggles in New England, Jaylen Brown start in Philly and his new book \"Going the Distance - Stallone, Philly and the Story of Rocky\"",
-        "published": "2026-11-05T12:00:00+00:00",
-        "title": "Two Browns, two cities: A rivalry renewed between Boston and Philly",
-        "url": "https://www.masslive.com/patriots/2026/11/boston-philadelphia-rivalry-reaches-a-new-peak-with-new-faces.html"
       }
     ],
-    "generated_at": "2026-11-09T04:04:16.527270+00:00",
+    "generated_at": "2026-11-09T10:06:10.869146+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },

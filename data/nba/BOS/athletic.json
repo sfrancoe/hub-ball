@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "When the Celtics and 76ers meet Tuesday in Philadelphia, the unmistakable tension between Brown and Tatum will command the spotlight.",
+        "published": "2026-11-09T10:05:01+00:00",
+        "title": "How Jaylen Brown and Jayson Tatum’s Celtics partnership quietly unraveled",
+        "url": "https://www.nytimes.com/athletic/7761461/2026/11/09/jaylen-brown-jayson-tatum-celtics-partnership-unraveling/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "\"We're playing basketball. Both of us are trying to win, so it's nothing to talk about. Just check the ball up,\" Brown said of Tatum.",
         "published": "2026-11-09T02:04:59+00:00",
         "title": "Jaylen Brown on Jayson Tatum before 76ers-Celtics clash: 'He's on his side; I'm on mine'",
@@ -105,16 +112,9 @@
         "published": "2026-10-24T10:06:06+00:00",
         "title": "Two years after blowout in Boston, the Knicks are the ones laughing",
         "url": "https://www.nytimes.com/athletic/7717843/2026/10/24/knicks-celtics-franchise-trajectories/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "\"Nobody was happy with that move. But I was,\" Mitchell Robinson said.",
-        "published": "2026-10-24T09:41:03+00:00",
-        "title": "Celtics Mitchell Robinson faces Knicks as a rival: 'You can’t let your feelings in it'",
-        "url": "https://www.nytimes.com/athletic/7719000/2026/10/24/celtics-mitchell-robinson-faces-knicks/"
       }
     ],
-    "generated_at": "2026-11-09T02:43:46.617977+00:00",
+    "generated_at": "2026-11-09T10:06:11.276030+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
