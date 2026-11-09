@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-09T02:03:44.184565+00:00",
+  "generatedAt": "2026-11-09T09:55:43.106700+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
@@ -25,18 +25,6 @@
       "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute.",
       "url": "https://www.bostonglobe.com/2026/11/08/sports/baseball-red-sox-general-managers-meetings-lockout/",
       "published": "2026-11-08T22:50:50.472000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Former Red Sox pitcher Andrew Miller remains in game with key labor role for MLB Players Association",
-      "description": "Miller retired as a player after helping the union through the last MLB lockout. As another lockout looms, he sees unity among the players and their opposition to the salary cap.",
-      "url": "https://www.bostonglobe.com/2026/11/07/sports/sunday-baseball-notes-labor-andrew-miller-red-sox/",
-      "published": "2026-11-08T15:04:03.432000+00:00",
       "source": "The Boston Globe",
       "teamId": 111,
       "teamName": "Boston Red Sox",
