@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-09T01:25:07.207485+00:00",
+  "generated_at": "2026-11-09T03:25:29.650297+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451293391446344",
   "team_id": "26",
   "sport": "nba",
-  "likes_as_of": "2026-11-09T01:25:07.207485+00:00",
+  "likes_as_of": "2026-11-09T03:25:29.650297+00:00",
   "recent": [
+    {
+      "id": "2119615737941602792",
+      "text": "Injury Update: Keyonte George (right ankle) will not return tonight.",
+      "url": "https://x.com/utahjazz/status/2119615737941602792",
+      "published": "2026-11-09T02:19:07+00:00",
+      "likes": 34,
+      "author": "Utah Jazz",
+      "handle": "utahjazz",
+      "avatar": "https://pbs.twimg.com/profile_images/2100285735291199488/5EJJMVx4_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119568764496683168",
       "text": "UPDATED Jazz Injury Report (as of 11/8) *OUT - Lauri Markkanen (Right Wrist; Sprain) *AVAILABLE - Keyonte George (Illness) OUT - Trey Alexander (G League - Two-Way) OUT - Harrison Ingram (G League - Two-Way) OUT - Jaren Jackson Jr. (Right Knee; MCL Tear) OUT - Jusuf",
@@ -132,20 +146,6 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2118135785832755356",
-      "text": "UPDATED Jazz Injury Report (as of 11/4) *AVAILABLE - Mo Bamba (Right Ankle; Sprain) OUT - Trey Alexander (G League - Two-Way) OUT - Harrison Ingram (G League - Two-Way) OUT - Jaren Jackson Jr. (Right Knee; MCL Tear) OUT - Jusuf Nurkic (Right Foot; 2nd Plantar Plate Tear)",
-      "url": "https://x.com/utahjazz/status/2118135785832755356",
-      "published": "2026-11-05T00:18:19+00:00",
-      "likes": 36,
-      "author": "Utah Jazz",
-      "handle": "utahjazz",
-      "avatar": "https://pbs.twimg.com/profile_images/2100285735291199488/5EJJMVx4_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
     }
   ],
   "popular": [
@@ -155,6 +155,20 @@
       "url": "https://x.com/utahjazz/status/2119463702122434874",
       "published": "2026-11-08T16:14:58+00:00",
       "likes": 61,
+      "author": "Utah Jazz",
+      "handle": "utahjazz",
+      "avatar": "https://pbs.twimg.com/profile_images/2100285735291199488/5EJJMVx4_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2119615737941602792",
+      "text": "Injury Update: Keyonte George (right ankle) will not return tonight.",
+      "url": "https://x.com/utahjazz/status/2119615737941602792",
+      "published": "2026-11-09T02:19:07+00:00",
+      "likes": 34,
       "author": "Utah Jazz",
       "handle": "utahjazz",
       "avatar": "https://pbs.twimg.com/profile_images/2100285735291199488/5EJJMVx4_normal.jpg",
