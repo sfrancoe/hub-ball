@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-11-08T21:23:59.706596+00:00",
+  "generated_at": "2026-11-09T01:25:11.273017+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450347437457646",
   "team_id": "30",
-  "likes_as_of": "2026-11-08T21:23:59.706596+00:00",
+  "sport": "nba",
+  "likes_as_of": "2026-11-09T01:25:11.273017+00:00",
   "recent": [
     {
       "id": "2119199325918273781",
@@ -165,7 +166,7 @@
       "text": "https://t.co/M35IjB5gu3",
       "url": "https://x.com/hornets/status/2118041414386766133",
       "published": "2026-11-04T18:03:19+00:00",
-      "likes": 849,
+      "likes": 848,
       "author": "Charlotte Hornets",
       "handle": "hornets",
       "avatar": "https://pbs.twimg.com/profile_images/2112959629168648192/JPorJ98R_normal.jpg",
@@ -243,64 +244,7 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2117016366490488915",
-      "text": "https://t.co/3qasWjOwsG",
-      "url": "https://x.com/hornets/status/2117016366490488915",
-      "published": "2026-11-01T22:10:08+00:00",
-      "likes": 1111,
-      "author": "Charlotte Hornets",
-      "handle": "hornets",
-      "avatar": "https://pbs.twimg.com/profile_images/2112959629168648192/JPorJ98R_normal.jpg",
-      "media": "https://pbs.twimg.com/tweet_video_thumb/HWEnKX6WcAAX7IX.jpg",
-      "quoted_text": ".@hornets guard Coby White is not listed on the injury report and will make his season debut vs. DET on 11/2.",
-      "quoted_author": "Charlotte Hornets PR",
-      "quoted_handle": "HornetsPR"
-    },
-    {
-      "id": "2116957929534361809",
-      "text": "RT @bgeis_bird: Hornets - Horns Small Spain - Tidjane Salaun ATO play for Charlotte at Philly: Horns set with the 5 spaced in the left cor…",
-      "url": "https://x.com/buzzbeatpod/status/2116957929534361809",
-      "published": "2026-11-01T18:17:56+00:00",
-      "likes": 0,
-      "author": "Buzz Beat Podcast",
-      "handle": "buzzbeatpod",
-      "avatar": "https://pbs.twimg.com/profile_images/1891290496108003329/ctmu13yU_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2116691779647136209",
-      "text": "Sixers 109-104 Hornets Maxey was incredible, some unlucky bounces and l poor decisions in the late 4th Q see Charlotte unravel to a 0-13 run. Hornets drop to 3-4 and need reinforcements Top Performers Allen⭐️⭐️⭐️ Miller⭐️⭐️ Diabate ⭐️ https://t.co/PrxWFcAe3V",
-      "url": "https://x.com/British_Buzz/status/2116691779647136209",
-      "published": "2026-11-01T00:40:21+00:00",
-      "likes": 12,
-      "author": "James Plowright",
-      "handle": "British_Buzz",
-      "avatar": "https://pbs.twimg.com/profile_images/1369951238620667904/ndXDs1J__normal.jpg",
-      "media": "https://pbs.twimg.com/media/HV__84ZWIAAkzLM.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2119199325918273781",
-      "text": "NEW | Postgame - 119-80 Loss to Boston ▪️Lopsided three-point differential ▪️Miller exits before halftime ▪️Sion = Player of the Game? ▪️Naz Reid elevated to top option LISTEN: https://t.co/wnhGrFcKV7 https://t.co/OPqXu3X1S5",
-      "url": "https://x.com/buzzbeatpod/status/2119199325918273781",
-      "published": "2026-11-07T22:44:26+00:00",
-      "likes": 3,
-      "author": "Buzz Beat Podcast",
-      "handle": "buzzbeatpod",
-      "avatar": "https://pbs.twimg.com/profile_images/1891290496108003329/ctmu13yU_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2119199280606916608/img/uGGmYtbD6zV1KUAW.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
