@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-09T11:26:39.382959+00:00",
+  "generated_at": "2026-11-09T13:27:01.916374+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119449951423852993",
   "team_id": "1",
   "sport": "nba",
-  "likes_as_of": "2026-11-09T11:26:39.382959+00:00",
+  "likes_as_of": "2026-11-09T13:27:01.916374+00:00",
   "recent": [
+    {
+      "id": "2119767558488289439",
+      "text": "The Hawks are currently 1.5-point home underdogs against the Lakers tonight… if you enjoy that sort of thing. Jock Landale is questionable for Atlanta, with Newell, Gueye, Gilbert, Veesaar out. 2nd night of a B2B for L.A., so no injury report yet. Luka missed last night.",
+      "url": "https://x.com/BTRowland/status/2119767558488289439",
+      "published": "2026-11-09T12:22:23+00:00",
+      "likes": 36,
+      "author": "Brad Rowland",
+      "handle": "BTRowland",
+      "avatar": "https://pbs.twimg.com/profile_images/1463002494636896261/JCFTsIJj_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119550851371147595",
       "text": "For tomorrow’s game vs. Los Angeles Lakers: Jock Landale (left hip strain) is questionable. Gilbert, Gueye, Newell, Veesaar remain out.",
@@ -68,7 +82,7 @@
       "text": "::raises hand::",
       "url": "https://x.com/BTRowland/status/2119463612628730339",
       "published": "2026-11-08T16:14:37+00:00",
-      "likes": 235,
+      "likes": 237,
       "author": "Brad Rowland",
       "handle": "BTRowland",
       "avatar": "https://pbs.twimg.com/profile_images/1463002494636896261/JCFTsIJj_normal.jpg",
@@ -110,7 +124,7 @@
       "text": "Dyson Daniels tonight: 9 PTS 10 REB 7 AST 6 STL https://t.co/yyoBYUZFyG",
       "url": "https://x.com/ATLHawks/status/2119272411195376091",
       "published": "2026-11-08T03:34:51+00:00",
-      "likes": 355,
+      "likes": 359,
       "author": "Atlanta Hawks",
       "handle": "ATLHawks",
       "avatar": "https://pbs.twimg.com/profile_images/2002806932290105344/iJa0vtAL_normal.jpg",
@@ -124,7 +138,7 @@
       "text": "Per Hawks PR, Dyson Daniels is the first NBA player to have 100+ points, 75+ rebounds, 50+ assists and 30+ steals through the first 11 games of a season since Scottie Pippen in 1994.",
       "url": "https://x.com/BTRowland/status/2119271425479446910",
       "published": "2026-11-08T03:30:56+00:00",
-      "likes": 713,
+      "likes": 716,
       "author": "Brad Rowland",
       "handle": "BTRowland",
       "avatar": "https://pbs.twimg.com/profile_images/1463002494636896261/JCFTsIJj_normal.jpg",
@@ -328,20 +342,6 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2119252584418460089",
-      "text": "Jalen Johnson has made 7-of-7 twos and 0-of-5 threes.",
-      "url": "https://x.com/KLChouinard/status/2119252584418460089",
-      "published": "2026-11-08T02:16:04+00:00",
-      "likes": 41,
-      "author": "Kevin Chouinard",
-      "handle": "KLChouinard",
-      "avatar": "https://pbs.twimg.com/profile_images/1879589257104257024/KkcbB0XZ_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
     }
   ],
   "popular": [
@@ -350,7 +350,7 @@
       "text": "::raises hand::",
       "url": "https://x.com/BTRowland/status/2119463612628730339",
       "published": "2026-11-08T16:14:37+00:00",
-      "likes": 235,
+      "likes": 237,
       "author": "Brad Rowland",
       "handle": "BTRowland",
       "avatar": "https://pbs.twimg.com/profile_images/1463002494636896261/JCFTsIJj_normal.jpg",
@@ -358,6 +358,20 @@
       "quoted_text": "Has anyone started the early buzz for Aaron Wiggins: Sixth Man of the Year yet? If not, let this be the start. He's been awesome this season.",
       "quoted_author": "Keith Smith",
       "quoted_handle": "KeithSmithNBA"
+    },
+    {
+      "id": "2119767558488289439",
+      "text": "The Hawks are currently 1.5-point home underdogs against the Lakers tonight… if you enjoy that sort of thing. Jock Landale is questionable for Atlanta, with Newell, Gueye, Gilbert, Veesaar out. 2nd night of a B2B for L.A., so no injury report yet. Luka missed last night.",
+      "url": "https://x.com/BTRowland/status/2119767558488289439",
+      "published": "2026-11-09T12:22:23+00:00",
+      "likes": 36,
+      "author": "Brad Rowland",
+      "handle": "BTRowland",
+      "avatar": "https://pbs.twimg.com/profile_images/1463002494636896261/JCFTsIJj_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
     },
     {
       "id": "2119519926222258246",
