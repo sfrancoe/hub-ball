@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Padres",
+      "description": "Justin DeCriscio drives in go-ahead run in Sunday’s all-star game, Alex McCoy hits 503-foot homer in Saturday’s home run derby ...",
+      "published": "2026-11-09T05:00:00+00:00",
+      "title": "Alex McCoy, Padres prospects star in Arizona Fall League all-star festivities",
+      "url": "https://www.sandiegouniontribune.com/2026/11/09/alex-mccoy-padres-prospects-star-in-arizona-fall-league-all-star-festivities/"
+    },
+    {
+      "category": "Padres",
       "description": "Outfielder Alex McCoy and right-hander Kannon Kemp were selected to the 20th Annual “Fall Stars Game” on Sunday at Salt River Fields in Scottsdale, Ariz. Meantime, infielder Justin DeCriscio is up ...",
       "published": "2026-11-03T22:02:00+00:00",
       "title": "Alex McCoy headlines Padres prospects playing in the Arizona Fall League all-star game",
@@ -30,20 +37,20 @@
     },
     {
       "category": "Padres",
-      "description": "Bruce Bochy could find a home in Cooperstown as soon as next summer. Sandy Alderson, too. The two former Padres highlight the eight-person, non-player ballot that the Contemporary Baseball Era ...",
-      "published": "2026-11-02T11:06:00+00:00",
-      "title": "Former Padres Bruce Bochy, Sandy Alderson up for Hall of Fame consideration",
-      "url": "https://www.sandiegouniontribune.com/2026/11/02/former-padres-bruce-bochy-sandy-alderson-up-for-hall-of-fame-consideration/"
-    },
-    {
-      "category": "Padres",
       "description": "The Padres have a month to get started on offseason business before the current collective bargaining agreement expires on Dec. 1 ...",
       "published": "2026-10-29T05:00:00+00:00",
       "title": "Padres offseason primer: Lockout looms as baseball gets back to business",
       "url": "https://www.sandiegouniontribune.com/2026/10/29/padres-offseason-primer-lockout-looms-as-baseball-gets-back-to-business/"
+    },
+    {
+      "category": "Padres",
+      "description": "Bruce Bochy could find a home in Cooperstown as soon as next summer. Sandy Alderson, too. The two former Padres highlight the eight-person, non-player ballot that the Contemporary Baseball Era ...",
+      "published": "2026-11-02T11:06:00+00:00",
+      "title": "Former Padres Bruce Bochy, Sandy Alderson up for Hall of Fame consideration",
+      "url": "https://www.sandiegouniontribune.com/2026/11/02/former-padres-bruce-bochy-sandy-alderson-up-for-hall-of-fame-consideration/"
     }
   ],
-  "generated_at": "2026-11-09T03:43:00.256677+00:00",
+  "generated_at": "2026-11-09T22:24:40.368559+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }

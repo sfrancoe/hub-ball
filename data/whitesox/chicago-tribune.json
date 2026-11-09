@@ -2,17 +2,24 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "Chicago White Sox radio broadcaster and former major-league outfielder Darrin Jackson and his wife, Robin, sold their house in Western Springs for $800,000.",
+      "published": "2026-11-09T11:16:00+00:00",
+      "title": "White Sox radio broadcaster Darrin Jackson sells Western Springs home for $800,000",
+      "url": "https://www.chicagotribune.com/2026/11/09/white-sox-darrin-jackson-western-springs/"
+    },
+    {
+      "category": "White Sox",
+      "description": "Sam Abbott was drafted by the Chicago White Sox in 2017. After years in the minors, he’s now a 27-year-old defender for the Long Beach State men’s water polo team.",
+      "published": "2026-11-09T13:36:00+00:00",
+      "title": "Former Chicago White Sox prospect Sam Abbott switches to college water polo with Long Beach State",
+      "url": "https://www.chicagotribune.com/2026/11/09/chicago-white-sox-sam-abbott-water-polo/"
+    },
+    {
+      "category": "White Sox",
       "description": "Chicago White Sox director of amateur scouting Matt Roffe spent the last five seasons with the World Series champion Milwaukee Brewers.",
       "published": "2026-11-05T14:31:00+00:00",
       "title": "Matt Roffe, who will oversee the Chicago White Sox drafts, aims to blend data with traditional scouting",
       "url": "https://www.chicagotribune.com/2026/11/05/chicago-white-sox-matt-roffe-scouting/"
-    },
-    {
-      "category": "White Sox",
-      "description": "The Chicago White Sox informed John Schriffen that his contract will not be extended as the club’s lead television play-by-play announcer.",
-      "published": "2026-10-26T15:24:00+00:00",
-      "title": "Chicago White Sox part ways with television play-by-play announcer John Schriffen",
-      "url": "https://www.chicagotribune.com/2026/10/26/chicago-white-sox-john-schriffen/"
     },
     {
       "category": "White Sox",
@@ -23,20 +30,27 @@
     },
     {
       "category": "White Sox",
+      "description": "The latest Bears stadium idea would put the team in Bridgeport, on the site of the White Sox’s Rate Field. But like some of the proposals before it, this one was drawn up without participation from ...",
+      "published": "2026-10-29T13:56:00+00:00",
+      "title": "Latest Bears stadium plan for White Sox site in Bridgeport draws interest — but no involvement from the team",
+      "url": "https://www.chicagotribune.com/2026/10/29/bridgeport-bears-stadium-plan/"
+    },
+    {
+      "category": "White Sox",
+      "description": "The Chicago White Sox informed John Schriffen that his contract will not be extended as the club’s lead television play-by-play announcer.",
+      "published": "2026-10-26T15:24:00+00:00",
+      "title": "Chicago White Sox part ways with television play-by-play announcer John Schriffen",
+      "url": "https://www.chicagotribune.com/2026/10/26/chicago-white-sox-john-schriffen/"
+    },
+    {
+      "category": "White Sox",
       "description": "Chicago White Sox prospect Caleb Bonemer went to the Arizona Fall League with a mission. Bonemer, who turned 21 on Oct. 5, spent most of his season at third base or shortstop with High-A Winston-Salem ...",
       "published": "2026-11-03T04:00:00+00:00",
       "title": "Chicago White Sox prospect Caleb Bonemer makes the most of outfield opportunities in Arizona Fall League stint",
       "url": "https://www.chicagotribune.com/2026/11/03/chicago-white-sox-caleb-bonemer-afl/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Planners keep drawing new homes for the Chicago Bears, with renderings of football stadiums full of bells and whistles. But a common thread to the proposals is that the Bears aren’t involved. The ...",
-      "published": "2026-10-29T13:56:00+00:00",
-      "title": "Latest Bears stadium plan for White Sox site in Bridgeport draws interest — but no involvement from the team",
-      "url": "https://www.chicagotribune.com/2026/10/29/bridgeport-bears-stadium-plan/"
     }
   ],
-  "generated_at": "2026-11-09T03:42:46.913919+00:00",
+  "generated_at": "2026-11-09T22:24:30.744180+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

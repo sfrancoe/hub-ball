@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox have officially released a veteran right-hander days after he was caught up in last week’s 40-man roster crunch.",
+      "published": "2026-11-09T18:10:46Z",
+      "title": "Red Sox release veteran reliever who was recently designated for assignment",
+      "url": "https://www.bostonherald.com/2026/11/09/red-sox-release-veteran-reliever-who-was-recently-designated-for-assignment/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "With a lockout looming and lingering uncertainty over the sport’s economic landscape, Craig Breslow and the Red Sox are heading into uncharted waters this offseason.",
       "published": "2026-11-08T11:30:08Z",
       "title": "MLB notes: Where Red Sox, Craig Breslow stand ahead of upcoming GM Meetings",
@@ -104,16 +111,9 @@
       "published": "2026-10-30T01:50:54Z",
       "title": "Red Sox swing second trade, deal infielder to Tigers for cash",
       "url": "https://www.bostonherald.com/2026/10/29/red-sox-swing-second-trade-deal-infielder-to-tigers-for-cash/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "A few weeks after having surgery on his injured pinky finger, Caleb Durbin has undergone a second procedure to correct an unrelated foot issue.",
-      "published": "2026-10-29T22:36:36Z",
-      "title": "Red Sox infielder has second offseason surgery, this time on right foot",
-      "url": "https://www.bostonherald.com/2026/10/29/red-sox-infielder-has-second-offseason-surgery-this-time-on-right-foot/"
     }
   ],
-  "generated_at": "2026-11-08T16:01:51.874852+00:00",
+  "generated_at": "2026-11-09T22:24:16.422084+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

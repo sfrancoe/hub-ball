@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Gershenfeld spent the last two seasons as the Yankees' run prevention and catching coordinator, a...",
+      "published": "2026-11-09T21:48:56+00:00",
+      "title": "Yankees promoting catching coordinator Aaron Gershenfeld following Tanner Swanson’s departure: sources",
+      "url": "https://www.nydailynews.com/2026/11/09/yankees-promoting-catching-coordinator-aaron-gershenfeld-following-tanner-swansons-departure-sources/"
+    },
+    {
+      "category": "Yankees",
+      "description": "It remains to be seen how aggressive the Yankees will be before MLB's CBA expires.",
+      "published": "2026-11-09T16:22:53+00:00",
+      "title": "Uncertainty awaits Yankees, MLB as GM Meetings get underway",
+      "url": "https://www.nydailynews.com/2026/11/09/uncertainty-awaits-yankees-mlb-as-gm-meetings-get-underway/"
+    },
+    {
+      "category": "Yankees",
       "description": "The accolades for Cody Bellinger’s defense keep coming.",
       "published": "2026-11-07T19:54:13+00:00",
       "title": "Cody Bellinger becomes Yankees’ second Platinum Glove winner",
@@ -125,23 +139,9 @@
       "published": "2026-10-23T14:41:06+00:00",
       "title": "Yankees great Hideki Matsui named manager of Japan’s Yomiuri Giants",
       "url": "https://www.nydailynews.com/2026/10/23/yankees-hideki-matsui-manager-japan-yomiuri-giants/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees' clubhouse culture and their approach to accountability have been popular topics since the...",
-      "published": "2026-10-23T11:30:40+00:00",
-      "title": "Yankees say they’ll ‘look into’ clubhouse culture criticisms, even as they downplay them",
-      "url": "https://www.nydailynews.com/2026/10/23/yankees-aaron-boone-brian-cashman-mlb-october-rays-world-series/"
-    },
-    {
-      "category": "Yankees",
-      "description": "For the second time in four seasons, Aaron Boone is set to manage the Yankees...",
-      "published": "2026-10-22T15:32:14+00:00",
-      "title": "Yankees’ Aaron Boone says managing on an expiring contract ‘doesn’t bother me at all’",
-      "url": "https://www.nydailynews.com/2026/10/22/yankees-aaron-boone-expiring-contract/"
     }
   ],
-  "generated_at": "2026-11-07T23:04:05.480723+00:00",
+  "generated_at": "2026-11-09T22:24:18.221502+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

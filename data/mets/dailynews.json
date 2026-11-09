@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The MLB General Manager Meetings kick off Tuesday at the Aria Resort and Casino, and...",
+      "published": "2026-11-09T22:07:04+00:00",
+      "title": "Mets storylines to watch with MLB GM Meetings set to begin",
+      "url": "https://www.nydailynews.com/2026/11/09/mets-storylines-gm-meetings-las-vegas/"
+    },
+    {
+      "category": "Mets",
       "description": "New details were released on election day because baseball stops for nothing except, well, labor...",
       "published": "2026-11-04T23:58:21+00:00",
       "title": "Mets Notebook: MLB releases new CBA proposal, team hires A.J. Ellis as coordinator",
@@ -132,16 +139,9 @@
       "published": "2026-09-24T22:00:32+00:00",
       "title": "Zac Thornton delivers in final start, Mets still fall to Rangers",
       "url": "https://www.nydailynews.com/2026/09/24/mets-rangers-mlb-zac-thornton-carson-benge-andy-green/"
-    },
-    {
-      "category": "Mets",
-      "description": "Two years of operating without a general manager has come to an end for the...",
-      "published": "2026-09-24T20:27:54+00:00",
-      "title": "Mets add former Twins exec Derek Falvey as senior baseball operations advisor",
-      "url": "https://www.nydailynews.com/2026/09/24/mets-derek-falvey-twins-stearns-gm-baseball-operations-gross/"
     }
   ],
-  "generated_at": "2026-11-05T02:50:12.635318+00:00",
+  "generated_at": "2026-11-09T22:24:25.882474+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }
