@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-09T21:28:11.923999+00:00",
+  "generated_at": "2026-11-09T23:28:38.443871+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451209689870734",
   "team_id": "24",
   "sport": "nba",
-  "likes_as_of": "2026-11-09T21:28:11.923999+00:00",
+  "likes_as_of": "2026-11-09T23:28:38.443871+00:00",
   "recent": [
+    {
+      "id": "2119934841059938333",
+      "text": "RT @spurs_way: ¡Vamos, Spurs Fam! 📚💛 Celebrate Hispanic Heritage Night by giving an English, Spanish or bilingual book to an SAISD element…",
+      "url": "https://x.com/spurs/status/2119934841059938333",
+      "published": "2026-11-09T23:27:07+00:00",
+      "likes": 0,
+      "author": "San Antonio Spurs",
+      "handle": "spurs",
+      "avatar": "https://pbs.twimg.com/profile_images/2109702130558803968/wrHcaxT4_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119283314645221485",
       "text": "OH MY CASTLE 🫣🏰 📺 @DAZN https://t.co/WI98xW6qfg",
       "url": "https://x.com/spurs/status/2119283314645221485",
       "published": "2026-11-08T04:18:11+00:00",
-      "likes": 974,
+      "likes": 978,
       "author": "San Antonio Spurs",
       "handle": "spurs",
       "avatar": "https://pbs.twimg.com/profile_images/2109702130558803968/wrHcaxT4_normal.jpg",
@@ -26,7 +40,7 @@
       "text": "can't escape the Castle's dungeon 🏰😤 https://t.co/alrQP8CZh8",
       "url": "https://x.com/spurs/status/2119127752213205343",
       "published": "2026-11-07T18:00:02+00:00",
-      "likes": 590,
+      "likes": 591,
       "author": "San Antonio Spurs",
       "handle": "spurs",
       "avatar": "https://pbs.twimg.com/profile_images/2109702130558803968/wrHcaxT4_normal.jpg",
@@ -90,13 +104,15 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2118193493512225010",
-      "text": "Victor Wembanyama is the first player in the play-by-play data era to have 25+ points, 15+ rebounds and 5+ blocks in a single half!",
-      "url": "https://x.com/spurs/status/2118193493512225010",
-      "published": "2026-11-05T04:07:37+00:00",
-      "likes": 3394,
+      "id": "2119934841059938333",
+      "text": "RT @spurs_way: ¡Vamos, Spurs Fam! 📚💛 Celebrate Hispanic Heritage Night by giving an English, Spanish or bilingual book to an SAISD element…",
+      "url": "https://x.com/spurs/status/2119934841059938333",
+      "published": "2026-11-09T23:27:07+00:00",
+      "likes": 0,
       "author": "San Antonio Spurs",
       "handle": "spurs",
       "avatar": "https://pbs.twimg.com/profile_images/2109702130558803968/wrHcaxT4_normal.jpg",
@@ -105,6 +121,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }

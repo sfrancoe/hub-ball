@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-09T21:28:14.782695+00:00",
+  "generated_at": "2026-11-09T23:28:40.459351+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451317521326169",
   "team_id": "27",
   "sport": "nba",
-  "likes_as_of": "2026-11-09T21:28:14.782695+00:00",
+  "likes_as_of": "2026-11-09T23:28:40.459351+00:00",
   "recent": [
+    {
+      "id": "2119931570446381079",
+      "text": "Update: Anthony Davis is now available for tonight’s matchup. Bilal Coulibaly (left hand soreness) is now OUT.",
+      "url": "https://x.com/WashWizards/status/2119931570446381079",
+      "published": "2026-11-09T23:14:07+00:00",
+      "likes": 36,
+      "author": "Washington Wizards",
+      "handle": "WashWizards",
+      "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
+      "media": "",
+      "quoted_text": "Injury report ahead of our matchup against the Pistons. Reece Beekman - Out (right AC joint injury) Justin Champagnie - Out (right foot surgery) Anthony Davis - Questionable (right ankle sprain) Tristan Vukčević - Out (left hip impingement) Jamir Watkins - Out (left ACL https://t.co/breRYL36Z9",
+      "quoted_author": "Washington Wizards",
+      "quoted_handle": "WashWizards"
+    },
     {
       "id": "2119882791378731447",
       "text": "Tune in on @NBCSports 👀 ⏰ 7:00 p.m. ET 📺 @NBCSports & @peacock 📻 @1067theFan & Wizards App 📲 Monumental+ App 💻 Watch live: https://t.co/zXl7saXMWi 🤝 Pres. by @CapitalOne https://t.co/6havFyNBFf",
       "url": "https://x.com/WashWizards/status/2119882791378731447",
       "published": "2026-11-09T20:00:17+00:00",
-      "likes": 44,
+      "likes": 58,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -234,25 +248,11 @@
   ],
   "popular": [
     {
-      "id": "2119559825168519634",
-      "text": "Injury report ahead of our matchup against the Pistons. Reece Beekman - Out (right AC joint injury) Justin Champagnie - Out (right foot surgery) Anthony Davis - Questionable (right ankle sprain) Tristan Vukčević - Out (left hip impingement) Jamir Watkins - Out (left ACL https://t.co/breRYL36Z9",
-      "url": "https://x.com/WashWizards/status/2119559825168519634",
-      "published": "2026-11-08T22:36:56+00:00",
-      "likes": 45,
-      "author": "Washington Wizards",
-      "handle": "WashWizards",
-      "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWowbHbXgAAo963.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
       "id": "2119882791378731447",
       "text": "Tune in on @NBCSports 👀 ⏰ 7:00 p.m. ET 📺 @NBCSports & @peacock 📻 @1067theFan & Wizards App 📲 Monumental+ App 💻 Watch live: https://t.co/zXl7saXMWi 🤝 Pres. by @CapitalOne https://t.co/6havFyNBFf",
       "url": "https://x.com/WashWizards/status/2119882791378731447",
       "published": "2026-11-09T20:00:17+00:00",
-      "likes": 44,
+      "likes": 58,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -260,6 +260,20 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
+    },
+    {
+      "id": "2119931570446381079",
+      "text": "Update: Anthony Davis is now available for tonight’s matchup. Bilal Coulibaly (left hand soreness) is now OUT.",
+      "url": "https://x.com/WashWizards/status/2119931570446381079",
+      "published": "2026-11-09T23:14:07+00:00",
+      "likes": 36,
+      "author": "Washington Wizards",
+      "handle": "WashWizards",
+      "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
+      "media": "",
+      "quoted_text": "Injury report ahead of our matchup against the Pistons. Reece Beekman - Out (right AC joint injury) Justin Champagnie - Out (right foot surgery) Anthony Davis - Questionable (right ankle sprain) Tristan Vukčević - Out (left hip impingement) Jamir Watkins - Out (left ACL https://t.co/breRYL36Z9",
+      "quoted_author": "Washington Wizards",
+      "quoted_handle": "WashWizards"
     }
   ]
 }
