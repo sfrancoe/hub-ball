@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics are 8-2 on the season after blowing out the Bucks, but they have a date with the Sixers and Jaylen Brown coming up.",
+        "published": "2026-11-09T03:56:13+00:00",
+        "title": "Mitchell Robinson looks good: What we learned from Celtics’ blowout win over Bucks",
+        "url": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-looks-good-what-we-learned-from-celtics-blowout-win-over-bucks.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Paul George was everywhere Sunday as the Celtics blew out the Bucks, and this time, they didn't give up the lead.",
         "published": "2026-11-09T03:31:29+00:00",
         "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in win over Bucks",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T12:00:00+00:00",
         "title": "Two Browns, two cities: A rivalry renewed between Boston and Philly",
         "url": "https://www.masslive.com/patriots/2026/11/boston-philadelphia-rivalry-reaches-a-new-peak-with-new-faces.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Paul George scored a team-high 25 points in the Celtics’ 109-102 win over the Milwaukee Bucks at TD Garden on Wednesday.",
-        "published": "2026-11-05T10:53:49+00:00",
-        "title": "Celtics’ Paul George: 'I won’t lie. No. I’m still trying to figure it out myself’",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-paul-george-i-wont-lie-no-im-still-trying-to-figure-it-out-myself.html"
       }
     ],
-    "generated_at": "2026-11-09T03:44:09.427102+00:00",
+    "generated_at": "2026-11-09T04:04:16.527270+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
