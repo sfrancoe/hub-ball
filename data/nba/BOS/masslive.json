@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics rallied from a 14-point deficit in the first quarter for a convincing win over the Bucks on Sunday night.",
+        "published": "2026-11-09T03:16:50+00:00",
+        "title": "4 takeaways as Celtics beat Bucks using surprise starting lineup",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-bucks-using-surprise-starting-lineup.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jaylen Brown will face the Celtics and Jayson Tatum for the first time since the trade Tuesday in Philadelphia.",
         "published": "2026-11-09T01:24:56+00:00",
         "title": "Jaylen Brown addresses Jayson Tatum ahead of Celtics clash: ‘Nothing to talk about’",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T10:00:00+00:00",
         "title": "Celtics facing Mitchell Robinson dilemma, injury update, gusty win (Notebook)",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-facing-mitchell-robinson-dilemma-injury-update-gusty-win-notebook.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics saw their 22-point lead on the Bucks evaporate, but they still avoided disaster by picking up the victory.",
-        "published": "2026-11-05T04:28:20+00:00",
-        "title": "Celtics avoid disaster, Paul George: What we learned from win over Bucks",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-avoid-disaster-paul-george-what-we-learned-from-win-over-bucks.html"
       }
     ],
-    "generated_at": "2026-11-09T01:33:20.849790+00:00",
+    "generated_at": "2026-11-09T03:23:59.880770+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },

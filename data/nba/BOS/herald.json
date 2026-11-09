@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics overwhelmed the Bucks on Sunday to improve to 8-2. Next up: a blockbuster showdown against Jaylen Brown and the 76ers.",
+        "published": "2026-11-09T03:21:06Z",
+        "title": "Celtics breeze into Jaylen Brown showdown with blowout of Bucks",
+        "url": "https://www.bostonherald.com/2026/11/08/celtics-breeze-into-jaylen-brown-showdown-with-blowout-of-bucks/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Thanks to a sensational first half by Jayson Tatum, the Celtics breezed to a 39-point NBA Cup win over the slumping Hornets.",
         "published": "2026-11-07T02:25:36Z",
         "title": "Jayson Tatum, Celtics scorch Hornets in 39-point NBA Cup rout",
@@ -105,16 +112,9 @@
         "published": "2026-11-01T15:26:56Z",
         "title": "Celtics rule out starting center for road game vs. Magic",
         "url": "https://www.bostonherald.com/2026/11/01/celtics-rule-out-starting-center-for-road-game-vs-magic/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics opened 2026 NBA Cup group play by cruising past the Chicago Bulls for the second time in five days.",
-        "published": "2026-10-31T02:08:36Z",
-        "title": "‘Best version’ of Payton Pritchard leads Celtics past Bulls in NBA Cup opener",
-        "url": "https://www.bostonherald.com/2026/10/30/payton-pritchard-jayson-tatum-lead-celtics-past-bulls-in-nba-cup-opener/"
       }
     ],
-    "generated_at": "2026-11-08T00:33:28.291814+00:00",
+    "generated_at": "2026-11-09T03:23:59.388291+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
