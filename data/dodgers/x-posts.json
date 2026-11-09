@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-09T06:51:05.752661+00:00",
+  "generated_at": "2026-11-09T22:30:03.900905+00:00",
   "source": "X",
   "source_url": "https://x.com/Dodgers",
   "recent": [
+    {
+      "id": "2119905778878541948",
+      "text": "The Dodgers claimed IF Christian Cairo from the New York Mets.",
+      "url": "https://x.com/Dodgers/status/2119905778878541948",
+      "published": "2026-11-09T21:31:38+00:00",
+      "likes": 720,
+      "author": "Los Angeles Dodgers",
+      "handle": "Dodgers",
+      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119118174125949208",
       "text": "Good luck in the NWSL Playoffs, @weareangelcity! https://t.co/cfhHZjhIOx",
       "url": "https://x.com/Dodgers/status/2119118174125949208",
       "published": "2026-11-07T17:21:58+00:00",
-      "likes": 839,
+      "likes": 861,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -18,5 +32,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2119905778878541948",
+      "text": "The Dodgers claimed IF Christian Cairo from the New York Mets.",
+      "url": "https://x.com/Dodgers/status/2119905778878541948",
+      "published": "2026-11-09T21:31:38+00:00",
+      "likes": 720,
+      "author": "Los Angeles Dodgers",
+      "handle": "Dodgers",
+      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
