@@ -1,18 +1,78 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-09T09:55:43.106700+00:00",
+  "generatedAt": "2026-11-09T20:50:37.796015+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 2,
+  "coveredTeamCount": 4,
   "articles": [
     {
-      "title": "The long-shot play Yankees should make to solve their third base problem",
+      "title": "White Sox radio broadcaster Darrin Jackson sells Western Springs home for $800,000",
+      "description": "Chicago White Sox radio broadcaster and former major-league outfielder Darrin Jackson and his wife, Robin, sold their house in Western Springs for $800,000.",
+      "url": "https://www.chicagotribune.com/2026/11/09/white-sox-darrin-jackson-western-springs/",
+      "published": "2026-11-09T19:12:39+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox release veteran reliever who was recently designated for assignment",
+      "description": "The Red Sox have officially released a veteran right-hander days after he was caught up in last week’s 40-man roster crunch.",
+      "url": "https://www.bostonherald.com/2026/11/09/red-sox-release-veteran-reliever-who-was-recently-designated-for-assignment/",
+      "published": "2026-11-09T18:10:46+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox should be in the market for a starter, and other observations on the team",
+      "description": "The Sox could benefit from adding a veteran righthander to better balance the rotation and guard against injuries.",
+      "url": "https://www.bostonglobe.com/2026/11/09/sports/red-sox-starting-pitching-market/",
+      "published": "2026-11-09T16:43:45.366000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Uncertainty awaits Yankees, MLB as GM Meetings get underway",
+      "description": "It remains to be seen how aggressive the Yankees will be before MLB's CBA expires.",
+      "url": "https://www.nydailynews.com/2026/11/09/uncertainty-awaits-yankees-mlb-as-gm-meetings-get-underway/",
+      "published": "2026-11-09T16:22:53+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Alex McCoy, Padres prospects star in Arizona Fall League all-star festivities",
+      "description": "Justin DeCriscio drives in go-ahead run in Sunday’s all-star game, Alex McCoy hits 503-foot homer in Saturday’s home run derby ...",
+      "url": "https://www.sandiegouniontribune.com/2026/11/09/alex-mccoy-padres-prospects-star-in-arizona-fall-league-all-star-festivities/",
+      "published": "2026-11-09T13:00:24+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "The biggest Yankees questions looming over MLB GM meetings",
       "description": "",
-      "url": "https://nypost.com/2026/11/08/sports/the-long-shot-corey-seager-play-yankees-should-make-to-solve-third-base-problem/",
-      "published": "2026-11-08T22:51:10+00:00",
+      "url": "https://nypost.com/2026/11/09/sports/the-biggest-yankees-questions-looming-over-mlb-gm-meetings/",
+      "published": "2026-11-09T12:30:00+00:00",
       "source": "New York Post",
       "teamId": 147,
       "teamName": "New York Yankees",
@@ -21,16 +81,16 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "MLB’s General Managers Meetings a chance for Craig Breslow and Red Sox to position themselves ahead of lockout",
-      "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute.",
-      "url": "https://www.bostonglobe.com/2026/11/08/sports/baseball-red-sox-general-managers-meetings-lockout/",
-      "published": "2026-11-08T22:50:50.472000+00:00",
-      "source": "The Boston Globe",
+      "title": "Red Sox release longtime reliever after DFA — and he’s expected to have strong free agent market",
+      "description": "Days after being the victim of a 40-man roster crunch, right-handed reliever Zack Kelly has officially departed the Red Sox organization.",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-release-longtime-reliever-after-dfa-and-hes-expected-to-have-strong-free-agent-market.html",
+      "published": "",
+      "source": "MassLive",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
-      "publishedSource": "publisher"
+      "publishedSource": "unverified"
     }
   ]
 }
