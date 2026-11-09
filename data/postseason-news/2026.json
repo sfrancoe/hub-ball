@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-08T22:31:33.190118+00:00",
+  "generatedAt": "2026-11-09T02:03:44.184565+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
@@ -9,10 +9,22 @@
   "coveredTeamCount": 2,
   "articles": [
     {
-      "title": "MLB’s General Managers meetings a chance for Craig Breslow and Red Sox to position themselves ahead of lockout",
-      "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute..",
+      "title": "The long-shot play Yankees should make to solve their third base problem",
+      "description": "",
+      "url": "https://nypost.com/2026/11/08/sports/the-long-shot-corey-seager-play-yankees-should-make-to-solve-third-base-problem/",
+      "published": "2026-11-08T22:51:10+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "MLB’s General Managers Meetings a chance for Craig Breslow and Red Sox to position themselves ahead of lockout",
+      "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute.",
       "url": "https://www.bostonglobe.com/2026/11/08/sports/baseball-red-sox-general-managers-meetings-lockout/",
-      "published": "2026-11-08T21:58:53.948000+00:00",
+      "published": "2026-11-08T22:50:50.472000+00:00",
       "source": "The Boston Globe",
       "teamId": 111,
       "teamName": "Boston Red Sox",
@@ -31,42 +43,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Longtime staffer Dana LeVangie leaving Red Sox for first MLB job away from Boston",
-      "description": "LeVangie earned four World Series rings over 36 years with the organization. The 57-year-old will be a pro scout for the Royals.",
-      "url": "https://www.bostonglobe.com/2026/11/07/sports/red-sox-dana-levangie-leaves-royals/",
-      "published": "2026-11-08T13:51:10.301000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Could Nick Martinez return? And other questions as Rays look toward 2027",
-      "description": "Tales | They seem to need another starter, though not much else. And the payroll can handle Drew Rasmussen’s salary without breaking up the team.",
-      "url": "https://www.tampabay.com/sports/rays/2026/11/08/nick-martinez-freddy-peralta-drew-rasmussen-free-agency-erik-neander-lockout/",
-      "published": "2026-11-08T12:00:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "MLB notes: Where Red Sox, Craig Breslow stand ahead of upcoming GM Meetings",
-      "description": "With a lockout looming and lingering uncertainty over the sport’s economic landscape, Craig Breslow and the Red Sox are heading into uncharted waters this offseason.",
-      "url": "https://www.bostonherald.com/2026/11/08/mlb-notes-red-sox-craig-breslow-navigating-uncertain-waters-entering-2027/",
-      "published": "",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
