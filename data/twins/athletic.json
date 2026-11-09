@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Twins",
-      "description": "Twins general manager Jeremy Zoll said he expects a flurry of activity over the next few weeks before the lockout begins.",
-      "published": "2026-11-05T15:42:00+00:00",
-      "title": "With offseason underway, Twins ready to ‘exhaust our energy’ to improve roster",
-      "url": "https://www.nytimes.com/athletic/7757223/2026/11/05/minnesota-twins-offseason-plans/"
-    },
-    {
-      "category": "Twins",
       "description": "Five weeks ago, Tom Pohlad put the onus on himself to set the Minnesota Twins up for future success. Encouraged by the late-season performance of the team’s young core, the club ...",
       "published": "2026-11-02T06:59:00+00:00",
       "title": "Where the Twins can improve once free agency opens",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Twins",
-      "description": "Royce Lewis has started 12 games at third base for the Twins this season. David Berding / Getty Images Royce Lewis hopes his stint on the injured list will be brief. The third baseman told reporters ...",
-      "published": "2026-04-11T11:24:00+00:00",
-      "title": "Twins place Royce Lewis on injured list with Grade 1 left knee strain",
-      "url": "https://www.nytimes.com/athletic/7188753/2026/04/11/minnesota-twins-royce-lewis-injury/"
+      "description": "Twins general manager Jeremy Zoll anticipates a lot of free-agent movement before the expected lockout begins next month. David Berding / Getty Images Five years ago, the business of baseball operated ...",
+      "published": "2026-11-05T15:42:00+00:00",
+      "title": "With offseason underway, Twins ready to ‘exhaust our energy’ to improve roster",
+      "url": "https://www.nytimes.com/athletic/7757223/2026/11/05/minnesota-twins-offseason-plans/"
     },
     {
       "category": "Twins",
@@ -34,9 +27,16 @@
       "published": "2026-10-29T03:59:00+00:00",
       "title": "After a midseason position switch, Twins’ Brooks Lee is a Gold Glove finalist at third",
       "url": "https://www.nytimes.com/athletic/7732972/2026/10/29/twins-brooks-lee-third-base-gold-glove-finalist/"
+    },
+    {
+      "category": "Twins",
+      "description": "Royce Lewis has started 12 games at third base for the Twins this season. David Berding / Getty Images Royce Lewis hopes his stint on the injured list will be brief. The third baseman told reporters ...",
+      "published": "2026-04-11T11:24:00+00:00",
+      "title": "Twins place Royce Lewis on injured list with Grade 1 left knee strain",
+      "url": "https://www.nytimes.com/athletic/7188753/2026/04/11/minnesota-twins-royce-lewis-injury/"
     }
   ],
-  "generated_at": "2026-11-08T23:51:20.120369+00:00",
+  "generated_at": "2026-11-09T03:42:51.519454+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/twins/"
 }
