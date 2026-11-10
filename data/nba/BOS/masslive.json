@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Paul George said he's been thrilled with how his Celtics tenure has been so far early in the season.",
+        "published": "2026-11-10T17:28:41+00:00",
+        "title": "Paul George gushes about Celtics ahead of Sixers return: ‘I’ve been blown away’",
+        "url": "https://www.masslive.com/celtics/2026/11/paul-george-gushes-about-celtics-ahead-of-sixers-return-ive-been-blown-away.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jaylen Brown has spent weeks baiting his former Celtics teammate. How Jayson Tatum responds will be telling.",
         "published": "2026-11-10T10:00:00+00:00",
         "title": "Jaylen Brown wants a fight. Jayson Tatum needs to show up for it | Matt Vautour",
@@ -105,16 +112,9 @@
         "published": "2026-11-07T02:25:57+00:00",
         "title": "4 takeaways as Celtics dominate Hornets, get good news for NBA Cup",
         "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-dominate-hornets-get-good-news-for-nba-cup.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Kristaps Porzingis has called it a career after dealing with health issues throughout the past couple years.",
-        "published": "2026-11-06T21:59:25+00:00",
-        "title": "Former Celtics center announces retirement after health issues",
-        "url": "https://www.masslive.com/celtics/2026/11/former-celtics-center-announces-retirement-after-health-issues.html"
       }
     ],
-    "generated_at": "2026-11-10T10:14:15.435651+00:00",
+    "generated_at": "2026-11-10T17:36:46.852170+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
