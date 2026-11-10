@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "“I can’t talk (enough) about just the thrill and the happiness and excitement and joy that it has brought being here (in Boston).”",
+        "published": "2026-11-10T18:36:03Z",
+        "title": "Paul George in his element with Celtics: ‘It’s exceeded my expectations’",
+        "url": "https://www.bostonherald.com/2026/11/10/paul-george-in-his-element-with-celtics-its-exceeded-my-expectations/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "“I don’t think there was ever beef or anything. I think it’s working relationships. Some people are closer than others, but find a way to win and keep going.”",
         "published": "2026-11-10T17:43:36Z",
         "title": "Celtics veteran reflects on Jaylen Brown’s tenure: ‘I don’t think was ever beef’",
@@ -105,16 +112,9 @@
         "published": "2026-11-03T04:07:09Z",
         "title": "Tired Celtics can’t keep pace with Rockets as five-game win streak ends",
         "url": "https://www.bostonherald.com/2026/11/02/tired-celtics-cant-keep-pace-with-rockets-as-five-game-win-streak-ends/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics are resting Paul George for their Monday night matchup with the Houston Rockets.",
-        "published": "2026-11-02T19:37:35Z",
-        "title": "Paul George ruled out for Celtics-Rockets matchup",
-        "url": "https://www.bostonherald.com/2026/11/02/paul-george-ruled-out-for-celtics-rockets-matchup/"
       }
     ],
-    "generated_at": "2026-11-10T17:46:50.429765+00:00",
+    "generated_at": "2026-11-10T18:37:13.958057+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
