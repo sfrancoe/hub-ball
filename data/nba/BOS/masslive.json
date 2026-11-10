@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics made some funny music choices during shootaround on the morning of Jayson Tatum vs. Jaylen Brown.",
+        "published": "2026-11-10T17:49:02+00:00",
+        "title": "Payton Pritchard addresses Tatum-Brown feud without being asked",
+        "url": "https://www.masslive.com/celtics/2026/11/payton-pritchard-talks-about-jayson-tatum-jaylen-brown-feud-without-even-being-asked.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Paul George said he's been thrilled with how his Celtics tenure has been so far early in the season.",
         "published": "2026-11-10T17:28:41+00:00",
         "title": "Paul George gushes about Celtics ahead of Sixers return: ‘I’ve been blown away’",
@@ -105,16 +112,9 @@
         "published": "2026-11-07T02:29:04+00:00",
         "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in win over Hornets",
         "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-hornets.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics improved to 2-0 in NBA Cup play, helping their point differential significantly by blowing out the Hornets.",
-        "published": "2026-11-07T02:25:57+00:00",
-        "title": "4 takeaways as Celtics dominate Hornets, get good news for NBA Cup",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-dominate-hornets-get-good-news-for-nba-cup.html"
       }
     ],
-    "generated_at": "2026-11-10T17:36:46.852170+00:00",
+    "generated_at": "2026-11-10T17:56:59.696692+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
