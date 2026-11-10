@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-10T01:28:48.282639+00:00",
+  "generated_at": "2026-11-10T03:29:12.429970+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450516421841029",
   "team_id": "5",
   "sport": "nba",
-  "likes_as_of": "2026-11-10T01:28:48.282639+00:00",
+  "likes_as_of": "2026-11-10T03:29:12.429970+00:00",
   "recent": [
+    {
+      "id": "2119984749058118022",
+      "text": "Player Grades: Cavs vs Hornets – James Harden reaches DEFCON 1 https://t.co/CVNRqlpZeA",
+      "url": "https://x.com/FearTheSword/status/2119984749058118022",
+      "published": "2026-11-10T02:45:26+00:00",
+      "likes": 4,
+      "author": "FearTheSword",
+      "handle": "FearTheSword",
+      "avatar": "https://pbs.twimg.com/profile_images/859037428325199872/rvQZgaop_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119959699059802561",
       "text": "RT @CavsNotes: .@_bigjayy_ just grabbed his 4,000th defensive rebound of his @NBA career. He needed 5 DREB to reach that mark entering ton…",
@@ -166,7 +180,7 @@
       "text": "RILEY MINIX MAKING AN IMPACT EARLY! @MinixRiley | #LetEmKnow https://t.co/m3y3kTpphg",
       "url": "https://x.com/cavs/status/2119246183184974147",
       "published": "2026-11-08T01:50:38+00:00",
-      "likes": 131,
+      "likes": 132,
       "author": "Cleveland Cavaliers",
       "handle": "cavs",
       "avatar": "https://pbs.twimg.com/profile_images/2094420137319284736/fxZglZef_normal.jpg",
@@ -314,27 +328,15 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2119132791455830462",
-      "text": "#Cavs Jaylon Tyson (ankle), Sam Merrill (elbow injury management) and Jarrett Allen (knee) are OUT tonight against New York.",
-      "url": "https://x.com/ChrisFedor/status/2119132791455830462",
-      "published": "2026-11-07T18:20:03+00:00",
-      "likes": 91,
-      "author": "Chris Fedor",
-      "handle": "ChrisFedor",
-      "avatar": "https://pbs.twimg.com/profile_images/1119012155800600579/gBDA4wf7_normal.png",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2119113031376310728",
-      "text": "RT @JacksFlickinger: There wasn't the usual buzz in the arena for LeBron James's return yesterday. That's understandable, but it was a sad…",
-      "url": "https://x.com/FearTheSword/status/2119113031376310728",
-      "published": "2026-11-07T17:01:32+00:00",
-      "likes": 0,
+      "id": "2119984749058118022",
+      "text": "Player Grades: Cavs vs Hornets – James Harden reaches DEFCON 1 https://t.co/CVNRqlpZeA",
+      "url": "https://x.com/FearTheSword/status/2119984749058118022",
+      "published": "2026-11-10T02:45:26+00:00",
+      "likes": 4,
       "author": "FearTheSword",
       "handle": "FearTheSword",
       "avatar": "https://pbs.twimg.com/profile_images/859037428325199872/rvQZgaop_normal.jpg",
@@ -342,9 +344,7 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    }
-  ],
-  "popular": [
+    },
     {
       "id": "2119959699059802561",
       "text": "RT @CavsNotes: .@_bigjayy_ just grabbed his 4,000th defensive rebound of his @NBA career. He needed 5 DREB to reach that mark entering ton…",
