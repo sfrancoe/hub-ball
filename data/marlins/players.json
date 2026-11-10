@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T20:05:26.845475+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-10T17:20:04.090250+00:00",
+  "roster_as_of": "November 9, 2026",
   "team": {
     "id": 146,
     "name": "Miami Marlins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 36,
+  "player_count": 35,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -280,86 +280,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 687134,
-      "mlb_id": 687134,
-      "wikidata_id": "Q126870820",
-      "slug": "bradley-blalock",
-      "name": "Bradley Blalock",
-      "full_name": "Bradley Blalock",
-      "number": "31",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-12-25",
-      "age": 25,
-      "birthplace": "Conyers, Georgia, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 20, 2024",
-      "debut_team": "Milwaukee Brewers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Milwaukee Brewers",
-        "Colorado Rockies",
-        "Miami Marlins"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q126870820",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Bradley_Blalock",
-      "retrosheet_id": "blalb001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 21,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 21,
-          "games_started": 18,
-          "wins": 3,
-          "losses": 9,
-          "saves": 0,
-          "innings_outs": 268,
-          "hits": 120,
-          "runs": 83,
-          "earned_runs": 81,
-          "home_runs": 21,
-          "walks": 43,
-          "strikeouts": 47,
-          "hit_batters": 4,
-          "wild_pitches": 2,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 8.16,
-          "whip": 1.825
-        }
       }
     },
     {

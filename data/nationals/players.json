@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T20:06:31.270344+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-10T17:21:07.118951+00:00",
+  "roster_as_of": "November 9, 2026",
   "team": {
     "id": 120,
     "name": "Washington Nationals"
@@ -1426,86 +1426,6 @@
       }
     },
     {
-      "id": 693312,
-      "mlb_id": 693312,
-      "wikidata_id": "Q122723726",
-      "slug": "kyle-nicolas",
-      "name": "Kyle Nicolas",
-      "full_name": "Kyle Nicolas",
-      "number": "41",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-02-22",
-      "age": 27,
-      "birthplace": "Massillon, Ohio, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "September 19, 2023",
-      "debut_team": "Pittsburgh Pirates",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Pittsburgh Pirates",
-        "Cincinnati Reds",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q122723726",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Kyle_Nicolas",
-      "retrosheet_id": "nicok001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 86,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 86,
-          "games_started": 0,
-          "wins": 3,
-          "losses": 4,
-          "saves": 0,
-          "innings_outs": 294,
-          "hits": 92,
-          "runs": 58,
-          "earned_runs": 51,
-          "home_runs": 8,
-          "walks": 53,
-          "strikeouts": 96,
-          "hit_batters": 7,
-          "wild_pitches": 9,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 4.68,
-          "whip": 1.48
-        }
-      }
-    },
-    {
       "id": 683083,
       "mlb_id": 683083,
       "wikidata_id": "Q115529794",
@@ -1948,6 +1868,86 @@
           "ops": 0.665
         },
         "pitching": null
+      }
+    },
+    {
+      "id": 665665,
+      "mlb_id": 665665,
+      "wikidata_id": "Q108700592",
+      "slug": "reiver-sanmartin",
+      "name": "Reiver Sanmartín",
+      "full_name": "Reiver Sanmartin",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1996-04-15",
+      "age": 30,
+      "birthplace": "Cartagena",
+      "height": "6' 2\"",
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "September 27, 2021",
+      "debut_team": "Cincinnati Reds",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Cincinnati Reds",
+        "San Francisco Giants",
+        "Washington Nationals"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q108700592",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Reiver_Sanmart%C3%ADn",
+      "retrosheet_id": "sanmr001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 62,
+          "plate_appearances": 8,
+          "at_bats": 8,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 6,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": 0.0,
+          "on_base_percentage": 0.0,
+          "slugging_percentage": 0.0,
+          "ops": 0.0
+        },
+        "pitching": {
+          "games": 62,
+          "games_started": 6,
+          "wins": 7,
+          "losses": 4,
+          "saves": 0,
+          "innings_outs": 253,
+          "hits": 97,
+          "runs": 59,
+          "earned_runs": 53,
+          "home_runs": 10,
+          "walks": 42,
+          "strikeouts": 73,
+          "hit_batters": 0,
+          "wild_pitches": 6,
+          "balks": 3,
+          "complete_games": 0,
+          "era": 5.66,
+          "whip": 1.648
+        }
       }
     },
     {

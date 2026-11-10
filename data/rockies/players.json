@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T20:10:33.217716+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-10T17:25:11.486240+00:00",
+  "roster_as_of": "November 9, 2026",
   "team": {
     "id": 115,
     "name": "Colorado Rockies"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 36,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1950,47 +1950,6 @@
       }
     },
     {
-      "id": 1934832883,
-      "mlb_id": null,
-      "wikidata_id": null,
-      "slug": "rj-petit",
-      "name": "RJ Petit",
-      "full_name": "RJ Petit",
-      "number": "58",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": null,
-      "age": null,
-      "birthplace": "",
-      "height": null,
-      "weight": null,
-      "bats": null,
-      "throws": null,
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Colorado Rockies"
-      ],
-      "source_url": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/RJ_Petit",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 690022,
       "mlb_id": 690022,
       "wikidata_id": "Q119929832",
@@ -2006,7 +1965,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "2000-11-10",
-      "age": 25,
+      "age": 26,
       "birthplace": "Illinois",
       "height": null,
       "weight": null,

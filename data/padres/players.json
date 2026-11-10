@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:12:04.194173+00:00",
+  "generated_at": "2026-11-10T17:26:26.874581+00:00",
   "roster_as_of": "November 2, 2026",
   "team": {
     "id": 135,
@@ -610,7 +610,7 @@
     {
       "id": 692294,
       "mlb_id": 692294,
-      "wikidata_id": null,
+      "wikidata_id": "Q142102241",
       "slug": "luis-gutierrez",
       "name": "Luis Gutierrez",
       "full_name": "Luis Gutierrez",
@@ -638,7 +638,7 @@
       "teams": [
         "San Diego Padres"
       ],
-      "source_url": null,
+      "source_url": "https://www.wikidata.org/wiki/Q142102241",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Gutierrez_%28baseball%29",
       "retrosheet_id": null,
       "career_stats": {

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T19:58:18.056847+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-10T17:13:00.469161+00:00",
+  "roster_as_of": "November 10, 2026",
   "team": {
     "id": 141,
     "name": "Toronto Blue Jays"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 41,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,6 +20,47 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
+    {
+      "id": 1945220072,
+      "mlb_id": null,
+      "wikidata_id": null,
+      "slug": "victor-arias",
+      "name": "Victor Arias",
+      "full_name": "Victor Arias",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "OF"
+      },
+      "roster_status": "Non-roster invitee",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Toronto Blue Jays"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Arias",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
     {
       "id": 681293,
       "mlb_id": 681293,
@@ -671,6 +712,84 @@
       }
     },
     {
+      "id": 681751,
+      "mlb_id": 681751,
+      "wikidata_id": null,
+      "slug": "lazaro-estrada",
+      "name": "Lazaro Estrada",
+      "full_name": "Lazaro Estrada",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "Non-roster invitee",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Toronto Blue Jays"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lazaro_Estrada",
+      "retrosheet_id": "estrl002",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 2,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 2,
+          "games_started": 0,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "innings_outs": 22,
+          "hits": 10,
+          "runs": 7,
+          "earned_runs": 7,
+          "home_runs": 2,
+          "walks": 1,
+          "strikeouts": 10,
+          "hit_batters": 2,
+          "wild_pitches": 0,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 8.59,
+          "whip": 1.5
+        }
+      }
+    },
+    {
       "id": 680755,
       "mlb_id": 680755,
       "wikidata_id": "Q107265615",
@@ -1032,6 +1151,47 @@
           "slugging_percentage": 0.495,
           "ops": 0.861
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 657675,
+      "mlb_id": 657675,
+      "wikidata_id": "Q140602891",
+      "slug": "rudy-martin-jr",
+      "name": "Rudy Martin Jr.",
+      "full_name": "Rudy Martin Jr.",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "RF"
+      },
+      "roster_status": "Non-roster invitee",
+      "is_active_roster": false,
+      "birth_date": "1996-01-31",
+      "age": 30,
+      "birthplace": "Memphis, Tennessee, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "September 11, 2026",
+      "debut_team": "Toronto Blue Jays",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Toronto Blue Jays"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q140602891",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rudy_Martin_Jr.",
+      "retrosheet_id": "martr008",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -2096,6 +2256,47 @@
           "era": 3.89,
           "whip": 1.321
         }
+      }
+    },
+    {
+      "id": 1934317517,
+      "mlb_id": null,
+      "wikidata_id": null,
+      "slug": "josh-stephan",
+      "name": "Josh Stephan",
+      "full_name": "Josh Stephan",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "Non-roster invitee",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Toronto Blue Jays"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Stephan",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T20:11:18.134176+00:00",
-  "roster_as_of": "November 6, 2026",
+  "generated_at": "2026-11-10T17:26:01.165924+00:00",
+  "roster_as_of": "November 9, 2026",
   "team": {
     "id": 119,
     "name": "Los Angeles Dodgers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -84,6 +84,47 @@
           "slugging_percentage": 0.512,
           "ops": 0.881
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 686551,
+      "mlb_id": 686551,
+      "wikidata_id": "Q131428007",
+      "slug": "christian-cairo",
+      "name": "Christian Cairo",
+      "full_name": "Christian Cairo",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-06-11",
+      "age": 25,
+      "birthplace": "Bakersfield, California, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Los Angeles Dodgers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q131428007",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Cairo",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
