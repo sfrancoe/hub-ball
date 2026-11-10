@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-11-09T23:28:39.254451+00:00",
+  "generated_at": "2026-11-10T01:29:02.213146+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451236462219580",
   "team_id": "28",
   "sport": "nba",
-  "likes_as_of": "2026-11-09T23:28:39.254451+00:00",
+  "likes_as_of": "2026-11-10T01:29:02.213146+00:00",
   "recent": [
+    {
+      "id": "2119962992377016742",
+      "text": "👌👌👌 https://t.co/gkkeELap6r",
+      "url": "https://x.com/Raptors/status/2119962992377016742",
+      "published": "2026-11-10T01:18:59+00:00",
+      "likes": 59,
+      "author": "Toronto Raptors",
+      "handle": "Raptors",
+      "avatar": "https://pbs.twimg.com/profile_images/2117116058410602496/AJS1fAvT_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWufGm6XsAEkBMk.jpg",
+      "quoted_text": "JAMAL SHEAD : 3/3 FROM 3 https://t.co/GcDvKG56pI",
+      "quoted_author": "Toronto Raptors",
+      "quoted_handle": "Raptors"
+    },
+    {
+      "id": "2119960536549134632",
+      "text": "JAMAL SHEAD : 3/3 FROM 3 https://t.co/GcDvKG56pI",
+      "url": "https://x.com/Raptors/status/2119960536549134632",
+      "published": "2026-11-10T01:09:13+00:00",
+      "likes": 97,
+      "author": "Toronto Raptors",
+      "handle": "Raptors",
+      "avatar": "https://pbs.twimg.com/profile_images/2117116058410602496/AJS1fAvT_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2119960490449285120/img/gI7Zrefd3Yv6WL_w.jpg",
+      "quoted_text": "ANOTHER 3 FROM JAMAL‼️",
+      "quoted_author": "Toronto Raptors",
+      "quoted_handle": "Raptors"
+    },
     {
       "id": "2118925416077684833",
       "text": "A CAREER-HIGH NIGHT FOR ALIJAH MARTIN 😮‍💨 https://t.co/FrMVevy3G4",
@@ -54,7 +82,7 @@
       "text": "SHEAD ➡️ CMB FOR THE SLAM 🔨 https://t.co/GcnZdgDSTd",
       "url": "https://x.com/Raptors/status/2118886288376070372",
       "published": "2026-11-07T02:00:32+00:00",
-      "likes": 157,
+      "likes": 158,
       "author": "Toronto Raptors",
       "handle": "Raptors",
       "avatar": "https://pbs.twimg.com/profile_images/2117116058410602496/AJS1fAvT_normal.jpg",
@@ -90,21 +118,36 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2117480001469550932",
-      "text": "Battle letting it fly 🎯 https://t.co/yEhteLNL2H",
-      "url": "https://x.com/Raptors/status/2117480001469550932",
-      "published": "2026-11-03T04:52:27+00:00",
-      "likes": 125,
+      "id": "2119960536549134632",
+      "text": "JAMAL SHEAD : 3/3 FROM 3 https://t.co/GcDvKG56pI",
+      "url": "https://x.com/Raptors/status/2119960536549134632",
+      "published": "2026-11-10T01:09:13+00:00",
+      "likes": 97,
       "author": "Toronto Raptors",
       "handle": "Raptors",
       "avatar": "https://pbs.twimg.com/profile_images/2117116058410602496/AJS1fAvT_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2117479927981211648/img/IcQ8X8DltmGQVKVy.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2119960490449285120/img/gI7Zrefd3Yv6WL_w.jpg",
+      "quoted_text": "ANOTHER 3 FROM JAMAL‼️",
+      "quoted_author": "Toronto Raptors",
+      "quoted_handle": "Raptors"
+    },
+    {
+      "id": "2119962992377016742",
+      "text": "👌👌👌 https://t.co/gkkeELap6r",
+      "url": "https://x.com/Raptors/status/2119962992377016742",
+      "published": "2026-11-10T01:18:59+00:00",
+      "likes": 59,
+      "author": "Toronto Raptors",
+      "handle": "Raptors",
+      "avatar": "https://pbs.twimg.com/profile_images/2117116058410602496/AJS1fAvT_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWufGm6XsAEkBMk.jpg",
+      "quoted_text": "JAMAL SHEAD : 3/3 FROM 3 https://t.co/GcDvKG56pI",
+      "quoted_author": "Toronto Raptors",
+      "quoted_handle": "Raptors"
     }
-  ],
-  "popular": []
+  ]
 }

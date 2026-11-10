@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-11-09T21:28:20.695791+00:00",
+  "generated_at": "2026-11-10T01:28:48.282639+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450516421841029",
   "team_id": "5",
   "sport": "nba",
-  "likes_as_of": "2026-11-09T21:28:20.695791+00:00",
+  "likes_as_of": "2026-11-10T01:28:48.282639+00:00",
   "recent": [
+    {
+      "id": "2119959699059802561",
+      "text": "RT @CavsNotes: .@_bigjayy_ just grabbed his 4,000th defensive rebound of his @NBA career. He needed 5 DREB to reach that mark entering ton…",
+      "url": "https://x.com/cavs/status/2119959699059802561",
+      "published": "2026-11-10T01:05:53+00:00",
+      "likes": 0,
+      "author": "Cleveland Cavaliers",
+      "handle": "cavs",
+      "avatar": "https://pbs.twimg.com/profile_images/2094420137319284736/fxZglZef_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2119947846262911362",
+      "text": "RT @CavsNotes: .@_bigjayy_ just made his 3rd three-pointer of the season (23rd of his @NBA career). He is 3-4 (.750) on triples this seaso…",
+      "url": "https://x.com/cavs/status/2119947846262911362",
+      "published": "2026-11-10T00:18:47+00:00",
+      "likes": 0,
+      "author": "Cleveland Cavaliers",
+      "handle": "cavs",
+      "avatar": "https://pbs.twimg.com/profile_images/2094420137319284736/fxZglZef_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119440954755305785",
       "text": "RT @CavsCare: Wishing a bright and joyful Diwali to all who celebrate! https://t.co/oeiX9NNhDI",
@@ -138,7 +166,7 @@
       "text": "RILEY MINIX MAKING AN IMPACT EARLY! @MinixRiley | #LetEmKnow https://t.co/m3y3kTpphg",
       "url": "https://x.com/cavs/status/2119246183184974147",
       "published": "2026-11-08T01:50:38+00:00",
-      "likes": 129,
+      "likes": 131,
       "author": "Cleveland Cavaliers",
       "handle": "cavs",
       "avatar": "https://pbs.twimg.com/profile_images/2094420137319284736/fxZglZef_normal.jpg",
@@ -264,7 +292,7 @@
       "text": "✍️ OFFICIAL: We have signed Riley Minix to a Two-Way contract! #LetEmKnow FULL DETAILS: https://t.co/tn4MfyMlOL https://t.co/EGVPdr6U1G",
       "url": "https://x.com/cavs/status/2119208941280522514",
       "published": "2026-11-07T23:22:39+00:00",
-      "likes": 111,
+      "likes": 112,
       "author": "Cleveland Cavaliers",
       "handle": "cavs",
       "avatar": "https://pbs.twimg.com/profile_images/2094420137319284736/fxZglZef_normal.jpg",
@@ -314,26 +342,28 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2119079441330524341",
-      "text": "s/o @peytonwatson_! FULL MEDIA AVAILS: https://t.co/3QpTuADFT0 https://t.co/h1z6rrDcQm",
-      "url": "https://x.com/cavs/status/2119079441330524341",
-      "published": "2026-11-07T14:48:04+00:00",
-      "likes": 66,
+      "id": "2119959699059802561",
+      "text": "RT @CavsNotes: .@_bigjayy_ just grabbed his 4,000th defensive rebound of his @NBA career. He needed 5 DREB to reach that mark entering ton…",
+      "url": "https://x.com/cavs/status/2119959699059802561",
+      "published": "2026-11-10T01:05:53+00:00",
+      "likes": 0,
       "author": "Cleveland Cavaliers",
       "handle": "cavs",
       "avatar": "https://pbs.twimg.com/profile_images/2094420137319284736/fxZglZef_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2119079372996890624/img/Zs56BbNjSg2n8r1a.jpg",
+      "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     },
     {
-      "id": "2119077249244639485",
-      "text": "RT @NBA: DONOVAN MITCHELL: PLAYMAKER 23 PTS 7 REB 8 AST 2 STL Cleveland wins their first game in @emirates NBA Cup Group Play! https://t…",
-      "url": "https://x.com/cavs/status/2119077249244639485",
-      "published": "2026-11-07T14:39:21+00:00",
+      "id": "2119947846262911362",
+      "text": "RT @CavsNotes: .@_bigjayy_ just made his 3rd three-pointer of the season (23rd of his @NBA career). He is 3-4 (.750) on triples this seaso…",
+      "url": "https://x.com/cavs/status/2119947846262911362",
+      "published": "2026-11-10T00:18:47+00:00",
       "likes": 0,
       "author": "Cleveland Cavaliers",
       "handle": "cavs",
@@ -343,6 +373,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
