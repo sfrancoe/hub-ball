@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "“You're going to be a rich f---er,\" Brewers manager Pat Murphy told one of his players.",
+      "published": "2026-11-10T10:30:10+00:00",
+      "title": "Pat Murphy was embarrassed by his viral gaffe. But it revealed a powerful idea about culture",
+      "url": "https://www.nytimes.com/athletic/7768638/2026/11/10/pat-murphy-brewers-viral-yankees-culture/"
+    },
+    {
+      "category": "Yankees",
       "description": "Swanson is widely considered one of the top catching coaches in all of baseball. He returns to his hometown in joining the Mariners.",
       "published": "2026-11-06T21:46:40+00:00",
       "title": "Yankees lose catching coach Tanner Swanson to Mariners for promotion to bench coach: Source",
@@ -132,16 +139,9 @@
       "published": "2026-10-21T15:03:16+00:00",
       "title": "Yankees, GM Brian Cashman agree on new contract: 'We're locked and loaded'",
       "url": "https://www.nytimes.com/athletic/7677134/2026/10/21/brian-cashman-yankees-new-contract/"
-    },
-    {
-      "category": "Yankees",
-      "description": "No one knows what the rules governing the sport's finances will be in 2027, but here's where the different parts of the payroll stand.",
-      "published": "2026-10-20T11:05:29+00:00",
-      "title": "Yankees' 2027 payroll breakdown: What to expect as New York prepares for offseason moves",
-      "url": "https://www.nytimes.com/athletic/7705114/2026/10/20/yankees-2027-payroll-scenarios/"
     }
   ],
-  "generated_at": "2026-11-06T23:11:43.399328+00:00",
+  "generated_at": "2026-11-10T12:41:18.793491+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

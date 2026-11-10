@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "Nobody is denying Chicago's top need. But that doesn’t mean the Cubs plan on only addressing their rotation this winter.",
+      "published": "2026-11-10T02:46:00+00:00",
+      "title": "The Cubs have roster needs beyond starting pitching. Here’s how they plan to address them",
+      "url": "https://www.nytimes.com/athletic/7769309/2026/11/10/cubs-roster-needs-gm-meetings/"
+    },
+    {
+      "category": "Cubs",
       "description": "Though the Cubs are expected to stay on the sidelines for the Skubal frenzy, they will at least check in on every other free-agent pitcher.",
       "published": "2026-11-09T03:20:00+00:00",
       "title": "Cubs plan to sit out Tarik Skubal bidding war, but pitching needs are clear",
@@ -48,16 +55,9 @@
       "published": "2026-10-29T04:00:00+00:00",
       "title": "After Brewers’ World Series win, Milwaukee will remain the Cubs’ problem for a long time",
       "url": "https://www.nytimes.com/athletic/7734358/2026/10/29/brewers-world-series-cubs-nl-central-problem/"
-    },
-    {
-      "category": "Cubs",
-      "description": "Left fielder Ian Happ, right fielder Seiya Suzuki and shortstop Dansby Swanson were also finalists but did not win the award.",
-      "published": "2026-10-31T17:00:00+00:00",
-      "title": "Pete Crow-Armstrong, Alex Bregman Gold Gloves highlight Cubs’ elite defensive season",
-      "url": "https://www.nytimes.com/athletic/7746647/2026/11/01/cubs-gold-gloves-crow-armstrong-bregman/"
     }
   ],
-  "generated_at": "2026-11-09T22:24:37.175281+00:00",
+  "generated_at": "2026-11-10T12:41:30.835214+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

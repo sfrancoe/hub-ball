@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "As the Giants enter the GM Meetings, there is a path for them to be competitive next season, thanks to a strong lineup foundation.",
+      "published": "2026-11-10T03:00:00+00:00",
+      "title": "The Giants still have a chance to compete in 2027, even after a terrible 2026 season",
+      "url": "https://www.nytimes.com/athletic/7768408/2026/11/10/sf-giants-2027-outlook/"
+    },
+    {
+      "category": "Giants",
       "description": "Even though the CBA could change considerably, the Giants must act fast to get started on addressing their long list of roster needs.",
-      "published": "2026-11-09T09:11:00+00:00",
+      "published": "2026-11-09T10:03:00+00:00",
       "title": "Giants focused on pitching and defense as GM meetings begin",
       "url": "https://www.nytimes.com/athletic/7767848/2026/11/09/sf-giants-offseason-pitching-defense-gm-meetings/"
     },
@@ -27,16 +34,9 @@
       "published": "2026-11-01T16:01:00+00:00",
       "title": "Giants reduce to 40 players after purging 9 more, including José Buttó and Tristan Beck",
       "url": "https://www.nytimes.com/athletic/7749330/2026/11/02/giants-roster-moves-offseason/"
-    },
-    {
-      "category": "Giants",
-      "description": "Would he be open to another advisory stint in San Francisco? \"You never know,\" Sabean said. \"I'd certainly answer the call.\" ...",
-      "published": "2026-11-02T12:46:00+00:00",
-      "title": "Brian Sabean discusses Hall of Fame ballot, Yankees role ending, Giants return possibility",
-      "url": "https://www.nytimes.com/athletic/7748429/2026/11/02/brian-sabean-hall-of-fame-ballot-yankees-giants/"
     }
   ],
-  "generated_at": "2026-11-10T04:13:15.416549+00:00",
+  "generated_at": "2026-11-10T12:41:34.540791+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/giants/"
 }
