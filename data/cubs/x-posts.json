@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:29:33.025403+00:00",
+  "generated_at": "2026-11-10T19:51:37.750516+00:00",
   "source": "X",
   "source_url": "https://x.com/Cubs",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Lots of birthday wishes for Buschy today! 🎂 https://t.co/fZrUeeSc7c",
       "url": "https://x.com/Cubs/status/2119819476824654304",
       "published": "2026-11-09T15:48:42+00:00",
-      "likes": 1266,
+      "likes": 1408,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -18,20 +18,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2119819476824654304",
-      "text": "Lots of birthday wishes for Buschy today! 🎂 https://t.co/fZrUeeSc7c",
-      "url": "https://x.com/Cubs/status/2119819476824654304",
-      "published": "2026-11-09T15:48:42+00:00",
-      "likes": 1266,
-      "author": "Chicago Cubs",
-      "handle": "Cubs",
-      "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWsb9qmX0AALLBh.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
