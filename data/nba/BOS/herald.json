@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "“I don’t think there was ever beef or anything. I think it’s working relationships. Some people are closer than others, but find a way to win and keep going.”",
+        "published": "2026-11-10T17:43:36Z",
+        "title": "Celtics veteran reflects on Jaylen Brown’s tenure: ‘I don’t think was ever beef’",
+        "url": "https://www.bostonherald.com/2026/11/10/celtics-veteran-reflects-on-jaylen-browns-tenure-i-dont-think-was-ever-beef/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jaylen Brown and Jayson Tatum played 617 games together as Celtics. Tonight, they’ll meet for the first time as adversaries.",
         "published": "2026-11-10T10:00:05Z",
         "title": "Jaylen Brown vs. Jayson Tatum more than ‘another game’ as Celtics-76ers clash",
@@ -105,16 +112,9 @@
         "published": "2026-11-02T19:37:35Z",
         "title": "Paul George ruled out for Celtics-Rockets matchup",
         "url": "https://www.bostonherald.com/2026/11/02/paul-george-ruled-out-for-celtics-rockets-matchup/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "From Paul George’s immediate all-around impact to Jayson Tatum living at the foul line, here’s what four early trends tell us about the 5-1 Celtics.",
-        "published": "2026-11-02T17:08:45Z",
-        "title": "Paul George’s fit, Tatum at the line and turnovers galore: What four early trends tell us about 5-1 Celtics",
-        "url": "https://www.bostonherald.com/2026/11/02/paul-georges-fit-tatum-at-the-line-and-turnovers-galore-what-four-early-trends-tell-us-about-5-1-celtics/"
       }
     ],
-    "generated_at": "2026-11-10T10:04:10.399392+00:00",
+    "generated_at": "2026-11-10T17:46:50.429765+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
