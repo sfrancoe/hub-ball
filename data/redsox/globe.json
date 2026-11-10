@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "category": "Red Sox notebook",
+      "description": "Story turns 34 on Sunday and played only 64 games last season, hitting .235 with a .621 OPS.",
+      "published": "2026-11-10T03:04:08.383Z",
+      "title": "Craig Breslow does not commit to Trevor Story as the Red Sox starting shortstop next season",
+      "url": "https://www.bostonglobe.com/2026/11/09/sports/craig-breslow-red-sox-trevor-story-shortstop/"
+    },
+    {
+      "category": "ON BASEBALL",
+      "description": "With Tolle, Garrett Crochet, and Ranger Suarez, plus a recent track record of helping arms blossom, the Sox can view their staff as a renewable strength.",
+      "published": "2026-11-10T02:47:08.333Z",
+      "title": "Payton Tolle’s breakout a sign of a better Red Sox pitching pipeline, and guidance for their offseason plan",
+      "url": "https://www.bostonglobe.com/2026/11/09/sports/red-sox-rotation-payton-tolle/"
+    },
+    {
+      "category": "MLB",
+      "description": "McGonigle received 28 of 30 possible first-place votes, while Guardians lefthander Parker Messick received the other two.",
+      "published": "2026-11-10T00:53:49.725Z",
+      "title": "Tigers infielder Kevin McGonigle wins AL Rookie of the Year, Red Sox lefthander Payton Tolle finishes third",
+      "url": "https://www.bostonglobe.com/2026/11/09/sports/kevin-mcgonigle-al-rookie-of-the-year/"
+    },
+    {
       "category": "red sox",
       "description": "The Sox could benefit from adding a veteran righthander to better balance the rotation and guard against injuries.",
       "published": "2026-11-09T16:43:45.366Z",
@@ -90,30 +111,9 @@
       "published": "2026-11-02T18:17:32.772Z",
       "title": "Willson Contreras optimistic about 2027 Red Sox, and other thoughts",
       "url": "https://www.bostonglobe.com/2026/11/02/sports/willson-contreras/"
-    },
-    {
-      "category": "red sox",
-      "description": "The Red Sox could look to add some thump to their lineup and depth to their starting rotation.",
-      "published": "2026-11-02T10:00:00Z",
-      "title": "What to do with Jarren Duran, how to replace Sonny Gray, and other questions hanging over the Red Sox",
-      "url": "https://www.bostonglobe.com/2026/11/02/sports/red-sox-offseason-key-questions/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "It is Durbin's first Gold Glove, Ceddanne Rafaela's second in a row, and Wilyer Abreu's third consecutive.",
-      "published": "2026-11-02T02:55:39.641Z",
-      "title": "Red Sox’ Caleb Durbin, Ceddanne Rafaela, and Wilyer Abreu win AL Gold Glove Awards",
-      "url": "https://www.bostonglobe.com/2026/11/01/sports/red-sox-gold-gloves-caleb-durbin-ceddanne-rafaela-wilyer-abreu/"
-    },
-    {
-      "category": "red sox",
-      "description": "The Red Sox could have parted ways with Whitlock for a $1 million buyout, but chose to bring back one of their top relief pitchers.",
-      "published": "2026-11-01T19:15:24.64Z",
-      "title": "Red Sox pick up team option on Garrett Whitlock to bring righthander back for 2027",
-      "url": "https://www.bostonglobe.com/2026/11/01/sports/red-sox-garrett-whitlock-team-option-2027/"
     }
   ],
-  "generated_at": "2026-11-09T22:24:15.689725+00:00",
+  "generated_at": "2026-11-10T04:12:52.098543+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

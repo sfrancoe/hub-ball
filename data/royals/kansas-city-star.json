@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "Kansas City Royals ( Shop Royals Fan Gear) catcher Carter Jensen finished fifth in 2026 American League Rookie of the Year voting.",
+      "published": "2026-11-09T11:42:00+00:00",
+      "title": "KC Royals catcher Carter Jensen finishes 5th in AL Rookie of the Year voting",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317988383.html"
+    },
+    {
+      "category": "Royals",
       "description": "On Thursday, the Royals reportedly hired San Francisco Giants hitting coach Hunter Mense as an assistant coach. A native of Liberty, just north of KC, he’d join the Royals’ hitting department ...",
       "published": "2026-11-05T07:59:00+00:00",
       "title": "Royals hire former Liberty High & Mizzou player as new hitting coach, per report",
@@ -48,16 +55,9 @@
       "published": "2026-11-01T12:28:00+00:00",
       "title": "Royals had 4 AL Gold Glove finalist infielders, but even Witt fell short in vote",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317875762.html"
-    },
-    {
-      "category": "Royals",
-      "description": "Delaware North Sportservice will begin operations at Kauffman Stadium in 2028. The company has worked with the Cardinals and the Brewers.",
-      "published": "2026-10-27T22:00:00+00:00",
-      "title": "Royals name new food provider for future stadium – looking toward local restaurants",
-      "url": "https://www.kansascity.com/news/local/article317802341.html"
     }
   ],
-  "generated_at": "2026-11-09T22:24:31.987928+00:00",
+  "generated_at": "2026-11-10T04:13:05.530774+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

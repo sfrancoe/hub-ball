@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Detroit Tigers rookie Kevin McGonigle was named the 2026 American League Rookie of the Year on Monday, Nov. 9, becoming the sixth Tiger so honored.",
+      "published": "2026-11-09T16:26:00+00:00",
+      "title": "Kevin McGonigle becomes 6th Tiger to win MLB AL Rookie of the Year",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/09/kevin-mcgonigle-rookie-of-the-year-mlb-awards-2026/92382256007/"
+    },
+    {
+      "category": "Tigers",
       "description": "Former Krispy Kreme worker Logan Berrier is pitching against some of the best prospects in baseball as a Detroit Tigers prospect in the AFL.",
       "published": "2026-11-09T02:11:00+00:00",
       "title": "How Krispy Kreme worker became Tigers prospect impressing in Arizona",
@@ -51,20 +58,13 @@
     },
     {
       "category": "Tigers",
-      "description": "The Detroit Tigers made a flurry of moves on Monday, Nov. 2, offering some clues about the direction they are headed. The big news: Tigers right-hander Drew Anderson is staying, while veteran closer ...",
-      "published": "2026-11-02T15:30:00+00:00",
-      "title": "Detroit Tigers bring back Drew Anderson, let Kenley Jansen walk",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/02/detroit-tigers-bring-back-drew-anderson-let-kenley-jansen-walk/92573876007/"
-    },
-    {
-      "category": "Tigers",
       "description": "The Detroit Tigers have acquired Tsung-Che Cheng, a left-handed hitting infielder, from the Boston Red Sox for cash considerations ...",
       "published": "2026-10-30T08:05:00+00:00",
       "title": "Detroit Tigers swing trade for infielder Tsung-Che Cheng",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/30/detroit-tigers-trade-infielder-tsung-che-cheng/92512827007/"
     }
   ],
-  "generated_at": "2026-11-09T22:24:31.554341+00:00",
+  "generated_at": "2026-11-10T04:13:05.139551+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

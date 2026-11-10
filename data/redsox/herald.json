@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Craig Breslow provided a series of Red Sox injury updates at the GM Meetings, most notably concerning Roman Anthony and Triston Casas.",
+      "published": "2026-11-10T04:00:43Z",
+      "title": "Red Sox boss provides injury updates on Roman Anthony, Triston Casas",
+      "url": "https://www.bostonherald.com/2026/11/09/red-sox-boss-provides-injury-updates-on-roman-anthony-triston-casas/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Typically Craig Breslow has a clear checklist of needs to address heading into the offseason, but with capable starters at every position he said he expects to take a different approach this winter.",
+      "published": "2026-11-10T01:25:29Z",
+      "title": "‘We’ll be opportunistic’: Red Sox boss plans to build around existing core",
+      "url": "https://www.bostonherald.com/2026/11/09/well-be-opportunistic-red-sox-boss-plans-to-build-around-existing-core/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Payton Tolle’s magical 2026 season does not end with the American League Rookie of the Year Award",
+      "published": "2026-11-10T00:57:11Z",
+      "title": "No Rookie of the Year Award for Payton Tolle despite magical 2026 season",
+      "url": "https://www.bostonherald.com/2026/11/09/red-sox-payton-tolle-rookie-of-the-year-mlb-awards/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox have officially released a veteran right-hander days after he was caught up in last week’s 40-man roster crunch.",
       "published": "2026-11-09T18:10:46Z",
       "title": "Red Sox release veteran reliever who was recently designated for assignment",
@@ -90,30 +111,9 @@
       "published": "2026-11-01T10:30:08Z",
       "title": "MLB notes: Japanese Triple Crown winner may be big bat Red Sox need to target",
       "url": "https://www.bostonherald.com/2026/11/01/mlb-notes-japanese-triple-crown-winner-may-be-big-bat-red-sox-need/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "A month after his career year with the Red Sox came to a frustrating end in the Wild Card round, Sonny Gray chose to decline his mutual option and become a free agent.",
-      "published": "2026-10-30T18:37:49Z",
-      "title": "Sonny Gray chooses free agency after bitter end to career year with Red Sox",
-      "url": "https://www.bostonherald.com/2026/10/30/red-sox-sonny-gray-elects-free-agency-declines-mutual-option-mlb-news/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox obviously need a big bat, but what are some of the club’s other needs heading into the offseason?",
-      "published": "2026-10-30T09:30:11Z",
-      "title": "Everyone knows Red Sox need a bat, but what are club’s other biggest needs?",
-      "url": "https://www.bostonherald.com/2026/10/30/everyone-knows-red-sox-need-a-bat-but-what-are-clubs-other-biggest-needs/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox swung another trade on Thursday, dealing a defensive-minded infielder to the Detroit Tigers to clear another 40-man roster spot.",
-      "published": "2026-10-30T01:50:54Z",
-      "title": "Red Sox swing second trade, deal infielder to Tigers for cash",
-      "url": "https://www.bostonherald.com/2026/10/29/red-sox-swing-second-trade-deal-infielder-to-tigers-for-cash/"
     }
   ],
-  "generated_at": "2026-11-09T22:24:16.422084+00:00",
+  "generated_at": "2026-11-10T04:12:52.875238+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

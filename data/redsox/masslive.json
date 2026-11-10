@@ -2,6 +2,34 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Red Sox' Craig Breslow gave several injury updates at the GM Meetings in Las Vegas.",
+      "published": "2026-11-10T03:29:26+00:00",
+      "title": "Craig Breslow gives Red Sox injury updates on Roman Anthony, others",
+      "url": "https://www.masslive.com/redsox/2026/11/craig-breslow-gives-red-sox-injury-updates-on-roman-anthony-triston-casas-others.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Red Sox CBO Craig Breslow addressed many key offseason topics as the GM Meetings got underway in Las Vegas.",
+      "published": "2026-11-10T03:16:10+00:00",
+      "title": "From Jarren Duran trade rumors to Sonny Gray's future, here's what Red Sox CBO Craig Breslow said at the winter meetings",
+      "url": "https://www.masslive.com/redsox/2026/11/what-craig-breslow-said-about-red-sox-coaching-adds-sonny-gray-triston-casas-health-jarren-durans-future-more.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "A year ago, as the annual GM Meetings opened, Craig Breslow made it abundantly clear that he viewed Trevor Story as the Red Sox' starting shortstop in 2026. He wouldn't make the same proclamation Monday.",
+      "published": "2026-11-10T03:04:08+00:00",
+      "title": "Trevor Story's future at shortstop uncertain as Red Sox weigh options",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-open-minded-on-shortstop-ahead-of-2027-and-wont-commit-to-trevor-story-again.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Payton Tolle’s performance on the mound was good enough for the Red Sox to hand him a start in Game 1 of a playoff series at Yankee Stadium a few weeks ago. On Monday, he was recognized among the American League’s best rookies.",
+      "published": "2026-11-10T00:54:46+00:00",
+      "title": "Red Sox rookie Payton Tolle finishes third in AL ROY voting",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-lefty-finishes-third-in-al-rookie-of-the-year-voting-is-hungry-to-take-the-next-step.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Days after being the victim of a 40-man roster crunch, right-handed reliever Zack Kelly has officially departed the Red Sox organization.",
       "published": "2026-11-09T10:00:00+00:00",
       "title": "Red Sox release longtime reliever after DFA — and he’s expected to have strong free agent market",
@@ -62,23 +90,9 @@
       "published": "2026-11-03T16:59:39+00:00",
       "title": "Red Sox trade hard-throwing lefty to Cardinals for 18-year-old minor leaguer",
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-trade-hard-throwing-lefty-to-cardinals-for-18-year-old-minor-leaguer.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Payton Tolle and Chad Tracy were named BBWAA award finalists, while Sonny Gray was snubbed for the AL Cy Young despite an 18-5 record and 2.72 ERA.",
-      "published": "2026-11-03T00:35:14+00:00",
-      "title": "Red Sox duo earns spots among BBWAA award finalists",
-      "url": "https://www.masslive.com/redsox/2026/11/two-red-sox-named-finalists-for-bbwaa-awards.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Faced with a deadline to clean up their 40-man roster Monday afternoon, the Red Sox moved on from two high-powered arms by designating them for assignment",
-      "published": "2026-11-03T00:15:37+00:00",
-      "title": "Red Sox DFA pair of pitchers as offseason roster moves begin",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-roster-crunch-leads-to-two-cuts-from-pitching-staff-including-longtime-reliever.html"
     }
   ],
-  "generated_at": "2026-11-09T12:10:39.881059+00:00",
+  "generated_at": "2026-11-10T04:12:54.214328+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
