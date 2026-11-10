@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jaylen Brown and Jayson Tatum played 617 games together as Celtics. Tonight, they’ll meet for the first time as adversaries.",
+        "published": "2026-11-10T10:00:05Z",
+        "title": "Jaylen Brown vs. Jayson Tatum more than ‘another game’ as Celtics-76ers clash",
+        "url": "https://www.bostonherald.com/2026/11/10/try-as-he-might-jayson-tatum-cant-downplay-intrigue-of-jaylen-brown-matchup/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jaylen Brown, Jayson Tatum and Paul George shared their expectations for Tuesday’s Celtics-76ers showdown.",
         "published": "2026-11-09T04:58:26Z",
         "title": "What Jaylen Brown, Jayson Tatum expect from Celtics-76ers matchup",
@@ -105,16 +112,9 @@
         "published": "2026-11-02T17:08:45Z",
         "title": "Paul George’s fit, Tatum at the line and turnovers galore: What four early trends tell us about 5-1 Celtics",
         "url": "https://www.bostonherald.com/2026/11/02/paul-georges-fit-tatum-at-the-line-and-turnovers-galore-what-four-early-trends-tell-us-about-5-1-celtics/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "It’s going to take a road warriors mentality for the Boston Celtics to get through November. And they set the tone Sunday in a win over the Magic.",
-        "published": "2026-11-01T23:08:37Z",
-        "title": "Celtics get defensive to begin road grind with win over feisty Magic",
-        "url": "https://www.bostonherald.com/2026/11/01/celtics-get-defensive-to-begin-road-grind-with-win-over-magic/"
       }
     ],
-    "generated_at": "2026-11-09T05:04:34.692657+00:00",
+    "generated_at": "2026-11-10T10:04:10.399392+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
