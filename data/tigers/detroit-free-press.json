@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Detroit Tigers rookie Kevin McGonigle was named the 2026 American League Rookie of the Year on Monday, Nov. 9, becoming the sixth Tiger so honored.",
+      "published": "2026-11-09T17:20:00+00:00",
+      "title": "Kevin McGonigle becomes 6th Tiger to win MLB AL Rookie of the Year",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/09/kevin-mcgonigle-rookie-of-the-year-mlb-awards-2026/92382256007/"
+    },
+    {
+      "category": "Tigers",
       "description": "Before winning the 2026 AL Rookie of the Year Award, Kevin McGonigle saw a familiar face while having dinner on Halloween – himself.",
       "published": "2026-11-10T02:09:00+00:00",
       "title": "Kevin McGonigle deserved AL Rookie of the Year Award, and he earned it",
@@ -9,10 +16,10 @@
     },
     {
       "category": "Tigers",
-      "description": "Detroit Tigers rookie Kevin McGonigle was named the 2026 American League Rookie of the Year on Monday, Nov. 9, becoming the sixth Tiger so honored.",
-      "published": "2026-11-09T17:20:00+00:00",
-      "title": "Kevin McGonigle becomes 6th Tiger to win MLB AL Rookie of the Year",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/09/kevin-mcgonigle-rookie-of-the-year-mlb-awards-2026/92382256007/"
+      "description": "Kevin McGonigle broke a 73-year old Tiger rookie record on his way to AL Rookie of the Year. Here's how the vote went and what it means for Detroit.",
+      "published": "2026-11-09T16:48:00+00:00",
+      "title": "Kevin McGonigle wins AL Rookie of the Year. Tigers get a bonus, too",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/09/kevin-mcgonigle-al-rookie-of-the-year-tigers/92647904007/"
     },
     {
       "category": "Tigers",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Tigers",
-      "description": "The big guy has returned to the Detroit Tigers. RJ Petit, a 6-foot-8 right-handed pitcher, has been sent back to the Tigers by way of Rule 5 draft rules. The Colorado Rockies took Petit from the ...",
-      "published": "2026-11-03T12:38:00+00:00",
-      "title": "Detroit Tigers get a pitcher back after losing him to Rule 5 draft",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/03/detroit-tigers-rj-petit-mlb-rule-5-draft/92588274007/"
-    },
-    {
-      "category": "Tigers",
       "description": "Back in May, Win Scott was pitching in independent ball – one step below the minor leagues, just hoping to catch on with an MLB organization.",
       "published": "2026-11-05T02:02:00+00:00",
       "title": "For the Win: Meet the Tigers pitching prospect who came out of nowhere",
@@ -51,20 +51,20 @@
     },
     {
       "category": "Tigers",
+      "description": "The big guy has returned to the Detroit Tigers. RJ Petit, a 6-foot-8 right-handed pitcher, has been sent back to the Tigers by way of Rule 5 draft rules. The Colorado Rockies took Petit from the ...",
+      "published": "2026-11-03T12:38:00+00:00",
+      "title": "Detroit Tigers get a pitcher back after losing him to Rule 5 draft",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/03/detroit-tigers-rj-petit-mlb-rule-5-draft/92588274007/"
+    },
+    {
+      "category": "Tigers",
       "description": "Detroit Tigers announced a plethora of coaching staff changes for the 2027 season, along with the return of analytics guru Jay Sartori.",
       "published": "2026-11-06T08:58:00+00:00",
       "title": "Tigers tweak coaching staff, bring in familiar face to front office",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/06/detroit-tigers-coaching-staff-2027-jay-sartori/92641335007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "For the second year in a row, Detroit Tigers catcher Dillon Dingler is the American League’s best defensive backstop.",
-      "published": "2026-11-01T19:10:00+00:00",
-      "title": "Dillon Dingler joins elite club of Tigers catchers with 2nd Gold Glove",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/01/detroit-tigers-catcher-dillon-dingler-wins-2nd-straight-gold-glove/92557629007/"
     }
   ],
-  "generated_at": "2026-11-10T12:41:25.682956+00:00",
+  "generated_at": "2026-11-10T20:02:11.588182+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The Mets' right fielder finished second to Cincinnati's Sal Stewart.",
+      "published": "2026-11-10T15:18:36+00:00",
+      "title": "Mets’ Carson Benge snubbed of NL Rookie of the Year honors",
+      "url": "https://www.nydailynews.com/2026/11/10/mets-carson-benge-mlb-sal-stewart-nl-rookie-of-the-year-nolan-mclean/"
+    },
+    {
+      "category": "Mets",
       "description": "The MLB General Manager Meetings kick off Tuesday at the Aria Resort and Casino, and...",
       "published": "2026-11-09T22:07:04+00:00",
       "title": "Mets storylines to watch with MLB GM Meetings set to begin",
@@ -132,16 +139,9 @@
       "published": "2026-09-26T00:25:10+00:00",
       "title": "Mets Notebook: Experimental weekend vs. Nationals in season finale",
       "url": "https://www.nydailynews.com/2026/09/25/mets-nationals-mlb-jefry-yan-andy-green-regular-season/"
-    },
-    {
-      "category": "Mets",
-      "description": "In his final start of the season, Zac Thornton pitched well enough to give the...",
-      "published": "2026-09-24T22:00:32+00:00",
-      "title": "Zac Thornton delivers in final start, Mets still fall to Rangers",
-      "url": "https://www.nydailynews.com/2026/09/24/mets-rangers-mlb-zac-thornton-carson-benge-andy-green/"
     }
   ],
-  "generated_at": "2026-11-09T22:24:25.882474+00:00",
+  "generated_at": "2026-11-10T20:02:02.552467+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

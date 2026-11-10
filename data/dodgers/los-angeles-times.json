@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "GM meetings are generally the precursor to the more widely-attended winter meetings in December, but this year's winter meetings are expected to be canceled in the face of a lockout.",
-      "published": "2026-11-10T03:00:00+00:00",
-      "title": "Four Dodgers-related story lines to follow at the GM Meetings in Las Vegas",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-10/four-dodgers-related-storylines-mlb-gm-meetings"
-    },
-    {
-      "category": "Dodgers",
       "description": "This is read by an automated voice. Please report any issues or inconsistencies here. See more from the L.A. Times in Google Search. Set us as preferred Ross Newhan, the Hall of Fame Times baseball ...",
       "published": "2026-10-27T04:00:00+00:00",
       "title": "Appreciation: Ross Newhan, Hall of Fame baseball writer for The Times, dies at 89",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-10-27/ross-newhan-times-hall-of-fame-baseball-writer-dies-obit"
+    },
+    {
+      "category": "Dodgers",
+      "description": "GM meetings are generally the precursor to the more widely-attended winter meetings in December, but this year's winter meetings are expected to be canceled in the face of a lockout.",
+      "published": "2026-11-10T03:00:00+00:00",
+      "title": "Four Dodgers-related story lines to follow at the GM Meetings in Las Vegas",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-10/four-dodgers-related-storylines-mlb-gm-meetings"
     },
     {
       "category": "Dodgers",
@@ -22,7 +22,7 @@
       "url": "https://www.latimes.com/sports/dodgers/story/2026-11-06/dodgers-hitting-coach-aaron-bates-part-ways"
     }
   ],
-  "generated_at": "2026-11-10T12:41:33.523926+00:00",
+  "generated_at": "2026-11-10T20:02:19.776470+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

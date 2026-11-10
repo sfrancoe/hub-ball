@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Over the last 15 years, the Cubs have successfully drafted and developed just one first-round pitcher, Horton, who underwent major surgery on his right elbow in April. A few of those first-round picks ...",
+      "published": "2026-11-10T02:03:00+00:00",
+      "title": "Cubs, bested by the Brewers this year, get to work on a familiar problem: Pitching",
+      "url": "https://www.nytimes.com/athletic/7768997/2026/11/10/cubs-pitching-problems-offseason/"
+    },
+    {
+      "category": "Brewers",
       "description": "Pat Murphy has managed the Milwaukee Brewers for three seasons. Illustration: Dan Goldfarb / The Athletic; Elsa / This story is part of Peak, The Athletic’s desk covering the mental side of sports.",
       "published": "2026-11-10T02:30:00+00:00",
       "title": "Pat Murphy was embarrassed by his viral gaffe. But it revealed a powerful idea about culture",
@@ -36,7 +43,7 @@
       "url": "https://www.nytimes.com/athletic/7734617/2026/10/29/brewers-world-series-2026-fans/"
     }
   ],
-  "generated_at": "2026-11-10T12:41:31.686919+00:00",
+  "generated_at": "2026-11-10T20:02:17.935342+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }

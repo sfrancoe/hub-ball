@@ -1,18 +1,32 @@
 {
   "articles": [
     {
+      "category": "MLB",
+      "description": "Boone won seven Gold Gloves and was the catcher on the Phillies’ first World Series championship team in 1980.",
+      "published": "2026-11-10T19:33:11.716Z",
+      "title": "Bob Boone, World Series champion and part of 3-generation baseball family, dies at 78",
+      "url": "https://www.bostonglobe.com/2026/11/10/sports/bob-boone-catcher-dies-78/"
+    },
+    {
+      "category": "MLB",
+      "description": "The 25-year-old righthander would be the first Cy Young winner from Massachusetts since first-ballot Hall of Famer Tom Glavine of Billerica in 1998.",
+      "published": "2026-11-10T13:59:15.707Z",
+      "title": "From Walpole to Northeastern to a likely Cy Young Award with the Yankees, Cam Schlittler keeps getting better and better",
+      "url": "https://www.bostonglobe.com/2026/11/10/sports/cam-schlittler-yankees-cy-young-northeastern/"
+    },
+    {
+      "category": "ON BASEBALL",
+      "description": "The chief baseball officer believes Tolle's development indicates how the team is getting much better at developing pitchers.",
+      "published": "2026-11-10T13:14:46.186Z",
+      "title": "What Craig Breslow thinks Payton Tolle’s breakout season says about the Red Sox’ pipeline",
+      "url": "https://www.bostonglobe.com/2026/11/09/sports/red-sox-rotation-payton-tolle/"
+    },
+    {
       "category": "Red Sox notebook",
       "description": "Story turns 34 on Sunday and played only 64 games last season, hitting .235 with a .621 OPS.",
       "published": "2026-11-10T03:04:08.383Z",
       "title": "Craig Breslow does not commit to Trevor Story as the Red Sox starting shortstop next season",
       "url": "https://www.bostonglobe.com/2026/11/09/sports/craig-breslow-red-sox-trevor-story-shortstop/"
-    },
-    {
-      "category": "ON BASEBALL",
-      "description": "With Tolle, Garrett Crochet, and Ranger Suarez, plus a recent track record of helping arms blossom, the Sox can view their staff as a renewable strength.",
-      "published": "2026-11-10T02:47:08.333Z",
-      "title": "Payton Tolle’s breakout a sign of a better Red Sox pitching pipeline, and guidance for their offseason plan",
-      "url": "https://www.bostonglobe.com/2026/11/09/sports/red-sox-rotation-payton-tolle/"
     },
     {
       "category": "MLB",
@@ -97,23 +111,9 @@
       "published": "2026-11-03T01:17:47.809Z",
       "title": "Chad Tracy, Payton Tolle get major award nods; Red Sox cut two pitchers",
       "url": "https://www.bostonglobe.com/2026/11/02/sports/red-sox-chad-tracy-payton-tolle/"
-    },
-    {
-      "category": "Baseball",
-      "description": "The ballot in this cycle was for executives, managers, and umpires whose primary contributions to the game came after 1980.",
-      "published": "2026-11-02T22:36:45.514Z",
-      "title": "Retired managers Dusty Baker and Bruce Bochy among eight candidates on Contemporary Baseball Era ballot for Hall of Fame",
-      "url": "https://www.bostonglobe.com/2026/11/02/sports/baseball-hall-of-fame/"
-    },
-    {
-      "category": "red sox",
-      "description": "Contreras said he was physically “doing great” after the season and was eager to see how the Sox improve the lineup during the offseason.",
-      "published": "2026-11-02T18:17:32.772Z",
-      "title": "Willson Contreras optimistic about 2027 Red Sox, and other thoughts",
-      "url": "https://www.bostonglobe.com/2026/11/02/sports/willson-contreras/"
     }
   ],
-  "generated_at": "2026-11-10T04:12:52.098543+00:00",
+  "generated_at": "2026-11-10T20:01:52.927055+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

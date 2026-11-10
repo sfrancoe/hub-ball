@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Will Trevor Story still be the Red Sox’s starting shortstop in 2027? Craig Breslow wouldn’t commit to it when pressed on Monday in Las Vegas.",
+      "published": "2026-11-10T19:47:22Z",
+      "title": "Craig Breslow open-minded about shortstop job, won’t commit to Trevor Story",
+      "url": "https://www.bostonherald.com/2026/11/10/craig-breslow-open-minded-about-shortstop-job-wont-commit-to-trevor-story/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Craig Breslow provided a series of Red Sox injury updates at the GM Meetings, most notably concerning Roman Anthony and Triston Casas.",
       "published": "2026-11-10T04:00:43Z",
       "title": "Red Sox boss provides injury updates on Roman Anthony, Triston Casas",
@@ -104,16 +111,9 @@
       "published": "2026-11-01T19:41:26Z",
       "title": "Red Sox exercise 2027 option on top reliever Garrett Whitlock",
       "url": "https://www.bostonherald.com/2026/11/01/red-sox-exercise-2027-option-on-reliever-garrett-whitlock-bullpen-mlb-news-lockout/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "This year’s free agent class is light on power bats, but one Japanese superstar is expected to officially make the jump to MLB.",
-      "published": "2026-11-01T10:30:08Z",
-      "title": "MLB notes: Japanese Triple Crown winner may be big bat Red Sox need to target",
-      "url": "https://www.bostonherald.com/2026/11/01/mlb-notes-japanese-triple-crown-winner-may-be-big-bat-red-sox-need/"
     }
   ],
-  "generated_at": "2026-11-10T04:12:52.875238+00:00",
+  "generated_at": "2026-11-10T20:01:53.853696+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
