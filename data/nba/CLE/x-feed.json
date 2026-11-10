@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-10T11:30:28.729177+00:00",
+  "generated_at": "2026-11-10T15:30:53.852724+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450516421841029",
   "team_id": "5",
   "sport": "nba",
-  "likes_as_of": "2026-11-10T11:30:28.729177+00:00",
+  "likes_as_of": "2026-11-10T15:30:53.852724+00:00",
   "recent": [
+    {
+      "id": "2120125260788084823",
+      "text": "Charge want to be a pipeline for the Cavs: ‘We want the development to be in-house’ https://t.co/41IBE0NBv4",
+      "url": "https://x.com/FearTheSword/status/2120125260788084823",
+      "published": "2026-11-10T12:03:46+00:00",
+      "likes": 3,
+      "author": "FearTheSword",
+      "handle": "FearTheSword",
+      "avatar": "https://pbs.twimg.com/profile_images/859037428325199872/rvQZgaop_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2120024199263904132",
       "text": "RT @WineGoldTalkPod: The #Cavs traded for and re-signed James Harden to relieve pressure on Donovan Mitchell. That hasn't happened through…",
@@ -26,7 +40,7 @@
       "text": "After whatever the hell tonight was in Charlotte, #Cavs starting lineup of James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen has a net rating of -17.4 this season. The only starting lineups worse are Phoenix and Utah (since Jaren Jackson Jr. got hurt).",
       "url": "https://x.com/ChrisFedor/status/2120007339097092144",
       "published": "2026-11-10T04:15:12+00:00",
-      "likes": 223,
+      "likes": 333,
       "author": "Chris Fedor",
       "handle": "ChrisFedor",
       "avatar": "https://pbs.twimg.com/profile_images/1119012155800600579/gBDA4wf7_normal.png",
@@ -328,20 +342,6 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2119208941280522514",
-      "text": "✍️ OFFICIAL: We have signed Riley Minix to a Two-Way contract! #LetEmKnow FULL DETAILS: https://t.co/tn4MfyMlOL https://t.co/EGVPdr6U1G",
-      "url": "https://x.com/cavs/status/2119208941280522514",
-      "published": "2026-11-07T23:22:39+00:00",
-      "likes": 111,
-      "author": "Cleveland Cavaliers",
-      "handle": "cavs",
-      "avatar": "https://pbs.twimg.com/profile_images/2094420137319284736/fxZglZef_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWjuS7_WgAAbXpj.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
     }
   ],
   "popular": [
@@ -350,7 +350,7 @@
       "text": "After whatever the hell tonight was in Charlotte, #Cavs starting lineup of James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen has a net rating of -17.4 this season. The only starting lineups worse are Phoenix and Utah (since Jaren Jackson Jr. got hurt).",
       "url": "https://x.com/ChrisFedor/status/2120007339097092144",
       "published": "2026-11-10T04:15:12+00:00",
-      "likes": 223,
+      "likes": 333,
       "author": "Chris Fedor",
       "handle": "ChrisFedor",
       "avatar": "https://pbs.twimg.com/profile_images/1119012155800600579/gBDA4wf7_normal.png",
@@ -365,6 +365,20 @@
       "url": "https://x.com/FearTheSword/status/2119984749058118022",
       "published": "2026-11-10T02:45:26+00:00",
       "likes": 5,
+      "author": "FearTheSword",
+      "handle": "FearTheSword",
+      "avatar": "https://pbs.twimg.com/profile_images/859037428325199872/rvQZgaop_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120125260788084823",
+      "text": "Charge want to be a pipeline for the Cavs: ‘We want the development to be in-house’ https://t.co/41IBE0NBv4",
+      "url": "https://x.com/FearTheSword/status/2120125260788084823",
+      "published": "2026-11-10T12:03:46+00:00",
+      "likes": 3,
       "author": "FearTheSword",
       "handle": "FearTheSword",
       "avatar": "https://pbs.twimg.com/profile_images/859037428325199872/rvQZgaop_normal.jpg",
