@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Tigers",
-      "description": "Detroit Tigers rookie Kevin McGonigle was named the 2026 American League Rookie of the Year on Monday, Nov. 9, becoming the sixth Tiger so honored.",
-      "published": "2026-11-09T17:20:00+00:00",
-      "title": "Kevin McGonigle becomes 6th Tiger to win MLB AL Rookie of the Year",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/09/kevin-mcgonigle-rookie-of-the-year-mlb-awards-2026/92382256007/"
-    },
-    {
-      "category": "Tigers",
       "description": "Before winning the 2026 AL Rookie of the Year Award, Kevin McGonigle saw a familiar face while having dinner on Halloween – himself.",
       "published": "2026-11-10T02:09:00+00:00",
       "title": "Kevin McGonigle deserved AL Rookie of the Year Award, and he earned it",
       "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/10/detroit-tigers-kevin-mcgonigle-show-hard-work-pays-off-sometimes/92698338007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "Detroit Tigers rookie Kevin McGonigle was named the 2026 American League Rookie of the Year on Monday, Nov. 9, becoming the sixth Tiger so honored.",
+      "published": "2026-11-09T17:20:00+00:00",
+      "title": "Kevin McGonigle becomes 6th Tiger to win MLB AL Rookie of the Year",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/09/kevin-mcgonigle-rookie-of-the-year-mlb-awards-2026/92382256007/"
     },
     {
       "category": "Tigers",
@@ -62,9 +62,23 @@
       "published": "2026-11-06T08:58:00+00:00",
       "title": "Tigers tweak coaching staff, bring in familiar face to front office",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/06/detroit-tigers-coaching-staff-2027-jay-sartori/92641335007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "For the second year in a row, Detroit Tigers catcher Dillon Dingler is the American League’s best defensive backstop.",
+      "published": "2026-11-01T19:10:00+00:00",
+      "title": "Dillon Dingler joins elite club of Tigers catchers with 2nd Gold Glove",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/01/detroit-tigers-catcher-dillon-dingler-wins-2nd-straight-gold-glove/92557629007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "The Detroit Tigers have acquired Tsung-Che Cheng, a left-handed hitting infielder, from the Boston Red Sox for cash considerations ...",
+      "published": "2026-10-30T08:05:00+00:00",
+      "title": "Detroit Tigers swing trade for infielder Tsung-Che Cheng",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/10/30/detroit-tigers-trade-infielder-tsung-che-cheng/92512827007/"
     }
   ],
-  "generated_at": "2026-11-10T20:02:11.588182+00:00",
+  "generated_at": "2026-11-11T00:35:39.218167+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

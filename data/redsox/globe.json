@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "MLB",
-      "description": "Boone won seven Gold Gloves and was the catcher on the Phillies’ first World Series championship team in 1980.",
-      "published": "2026-11-10T19:33:11.716Z",
-      "title": "Bob Boone, World Series champion and part of 3-generation baseball family, dies at 78",
-      "url": "https://www.bostonglobe.com/2026/11/10/sports/bob-boone-catcher-dies-78/"
-    },
-    {
-      "category": "MLB",
       "description": "The 25-year-old righthander would be the first Cy Young winner from Massachusetts since first-ballot Hall of Famer Tom Glavine of Billerica in 1998.",
       "published": "2026-11-10T13:59:15.707Z",
       "title": "From Walpole to Northeastern to a likely Cy Young Award with the Yankees, Cam Schlittler keeps getting better and better",
@@ -111,9 +104,16 @@
       "published": "2026-11-03T01:17:47.809Z",
       "title": "Chad Tracy, Payton Tolle get major award nods; Red Sox cut two pitchers",
       "url": "https://www.bostonglobe.com/2026/11/02/sports/red-sox-chad-tracy-payton-tolle/"
+    },
+    {
+      "category": "Baseball",
+      "description": "The ballot in this cycle was for executives, managers, and umpires whose primary contributions to the game came after 1980.",
+      "published": "2026-11-02T22:36:45.514Z",
+      "title": "Retired managers Dusty Baker and Bruce Bochy among eight candidates on Contemporary Baseball Era ballot for Hall of Fame",
+      "url": "https://www.bostonglobe.com/2026/11/02/sports/baseball-hall-of-fame/"
     }
   ],
-  "generated_at": "2026-11-10T20:01:52.927055+00:00",
+  "generated_at": "2026-11-11T00:35:25.757467+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

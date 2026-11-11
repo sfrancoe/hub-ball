@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Giants",
-      "description": "After a 2026 MLB season where the Giants used a record-tying 71 players, San Francisco made some tough roster decisions ahead of Monday's deadline.",
-      "published": "2026-11-02T09:11:00+00:00",
-      "title": "Giants remove nine players, including one surprise, in necessary roster purge",
-      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/roster-deadline-jose-butto/1976410/"
-    },
-    {
-      "category": "Giants",
       "description": "The Kansas City Royals hired San Francisco Giants hitting coach Hunter Mense as their new hitting coach, a source confirmed to NBC Sports Bay Area.",
       "published": "2026-11-05T04:39:00+00:00",
       "title": "Source: Royals hiring Giants hitting coach Hunter Mense for assistant role",
       "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/source-hitting-coach-hunter-mense-royals/1977201/"
+    },
+    {
+      "category": "Giants",
+      "description": "After a 2026 MLB season where the Giants used a record-tying 71 players, San Francisco made some tough roster decisions ahead of Monday's deadline.",
+      "published": "2026-11-02T09:11:00+00:00",
+      "title": "Giants remove nine players, including one surprise, in necessary roster purge",
+      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/roster-deadline-jose-butto/1976410/"
     },
     {
       "category": "Giants",
@@ -55,9 +55,16 @@
       "published": "2026-11-02T06:00:00+00:00",
       "title": "Giants Talk: Why pitching once again is San Francisco's MLB offseason priority",
       "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/pitching-mlb-offseason-priority/1976198/"
+    },
+    {
+      "category": "Giants",
+      "description": "Giants Talk” host Cole Kuiper and Alex Pavlovic discuss the possibility of San Francisco trading its prospects to reinforce the pitching rotation.",
+      "published": "2026-11-02T17:15:00+00:00",
+      "title": "Giants Talk: Why San Francisco's top prospects may be on trading block",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/prospect-potential-trades-analysis-watch/1976439/"
     }
   ],
-  "generated_at": "2026-11-10T20:02:20.925637+00:00",
+  "generated_at": "2026-11-11T00:35:48.218431+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"
 }

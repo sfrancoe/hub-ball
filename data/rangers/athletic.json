@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rangers",
+      "description": "Corey Seager has struggled to stay healthy, and in 2027 he will be coming off surgery for the third straight season.",
+      "published": "2026-11-10T13:53:00+00:00",
+      "title": "Could the Rangers move Corey Seager? It would be difficult — but not impossible",
+      "url": "https://www.nytimes.com/athletic/7771237/2026/11/10/corey-seager-trade-rangers/"
+    },
+    {
+      "category": "Rangers",
       "description": "Marcus Semien remains a strong defender even if his production at the plate isn't what it used to be. (Kevork Djansezian / Getty Images) Mets get: 2B Marcus Semien Rangers get: OF Brandon Nimmo The ...",
       "published": "2025-11-24T09:48:00+00:00",
       "title": "Mets, Rangers try to solve their problems by swapping rough contracts: MLB Trade Grades",
@@ -15,7 +22,7 @@
       "url": "https://www.nytimes.com/athletic/7749330/2026/11/02/giants-roster-moves-offseason/"
     }
   ],
-  "generated_at": "2026-11-09T12:10:55.157794+00:00",
+  "generated_at": "2026-11-11T00:35:42.391170+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rangers/"
 }

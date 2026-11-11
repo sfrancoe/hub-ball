@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Skubal, a two-time Cy Young winner, is the most coveted free agent on the market this offseason.",
+      "published": "2026-11-10T21:27:24+00:00",
+      "title": "Mets have meeting scheduled with prized free agent Tarik Skubal: Sources",
+      "url": "https://www.nytimes.com/athletic/7771397/2026/11/10/mets-tarik-skubal-meeting/"
+    },
+    {
+      "category": "Mets",
       "description": "SNY, which broadcasts New York Mets games, has ended its website and canceled \"Baseball Night in New York\" and \"Sportsnite.\"",
       "published": "2026-11-06T18:06:46+00:00",
       "title": "SNY hit with major layoffs, show cancellations; website dismantled: Sources",
@@ -132,16 +139,9 @@
       "published": "2026-09-28T00:38:13+00:00",
       "title": "Francisco Lindor hits 300th home run, sets sights on 2027 as Mets enter offseason",
       "url": "https://www.nytimes.com/athletic/7638133/2026/09/27/mets-francisco-lindor-300-home-runs/"
-    },
-    {
-      "category": "Mets",
-      "description": "In the final month of the season, Benge hit .313 with four home runs.",
-      "published": "2026-09-27T22:47:10+00:00",
-      "title": "Did Carson Benge's late surge put him in the hunt for NL rookie of the year?",
-      "url": "https://www.nytimes.com/athletic/7637521/2026/09/27/mets-carson-benge-nl-rookie-of-the-year/"
     }
   ],
-  "generated_at": "2026-11-06T23:11:45.332859+00:00",
+  "generated_at": "2026-11-11T00:35:34.691505+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }
