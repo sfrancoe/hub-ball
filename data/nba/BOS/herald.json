@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "After lighting up his former team on Tuesday, Paul George was ruled out for Wednesday’s Celtics-Raptors game.",
+        "published": "2026-11-11T18:09:53Z",
+        "title": "After big game vs. 76ers, Paul George ruled out for Celtics-Raptors",
+        "url": "https://www.bostonherald.com/2026/11/11/after-big-game-vs-76ers-paul-george-ruled-out-for-celtics-raptors/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jayson Tatum wasn’t interested in discussing Jaylen Brown — or Brown’s pregame cold shoulder — after the Celtics’ rout of the 76ers.",
         "published": "2026-11-11T10:10:37Z",
         "title": "Jayson Tatum wants ‘no headlines’ about Jaylen Brown cold shoulder",
@@ -105,16 +112,9 @@
         "published": "2026-11-04T23:44:17Z",
         "title": "Joe Mazzulla shares update on recovering Celtics guard",
         "url": "https://www.bostonherald.com/2026/11/04/joe-mazzulla-shares-update-on-recovering-celtics-guard/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "First Mitchell Robinson, then Paul George, now Jayson Tatum.",
-        "published": "2026-11-04T20:09:39Z",
-        "title": "Jayson Tatum downgraded, will miss first game of season vs. Bucks",
-        "url": "https://www.bostonherald.com/2026/11/04/jayson-tatum-downgraded-will-miss-first-game-of-season-vs-bucks/"
       }
     ],
-    "generated_at": "2026-11-11T10:12:34.347613+00:00",
+    "generated_at": "2026-11-11T18:15:23.060643+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
