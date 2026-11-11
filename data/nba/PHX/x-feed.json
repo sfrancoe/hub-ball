@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-11-11T01:32:25.542037+00:00",
+  "generated_at": "2026-11-11T03:32:48.173797+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451105062969800",
   "team_id": "21",
   "sport": "nba",
-  "likes_as_of": "2026-11-11T01:32:25.542037+00:00",
+  "likes_as_of": "2026-11-11T03:32:48.173797+00:00",
   "recent": [
+    {
+      "id": "2120356792916177135",
+      "text": "Devin Booker has passed Julius Erving on the @NBA all-time scoring list! https://t.co/6t68ZPkqum",
+      "url": "https://x.com/Suns/status/2120356792916177135",
+      "published": "2026-11-11T03:23:48+00:00",
+      "likes": 226,
+      "author": "Phoenix Suns",
+      "handle": "Suns",
+      "avatar": "https://pbs.twimg.com/profile_images/2107167282686251008/sipsQ88l_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWz3hVvbQAUL6aj.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120353228642824214",
+      "text": "COLLIN GILLESPIE DEEP THREE TO END THE FIRST HALF 🤯🚨 https://t.co/S9sPKKBWlP",
+      "url": "https://x.com/Suns/status/2120353228642824214",
+      "published": "2026-11-11T03:09:38+00:00",
+      "likes": 110,
+      "author": "Phoenix Suns",
+      "handle": "Suns",
+      "avatar": "https://pbs.twimg.com/profile_images/2107167282686251008/sipsQ88l_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120353199840526336/img/KIxYpqE5gtgbrw93.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120348998506869157",
+      "text": "JORDAN GOODWIN 5-6 3PM TONIGHT 🎯😤 https://t.co/vRO4w6oz5x",
+      "url": "https://x.com/Suns/status/2120348998506869157",
+      "published": "2026-11-11T02:52:50+00:00",
+      "likes": 147,
+      "author": "Phoenix Suns",
+      "handle": "Suns",
+      "avatar": "https://pbs.twimg.com/profile_images/2107167282686251008/sipsQ88l_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWz-KiRbwAAXSwo.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119482821547012304",
       "text": "Every Suns player who has totaled 135 points, 65 rebounds and 29 assists in their first eight games with the franchise: ☄️ Charles Barkley ☄️ Alvan Adams ☄️ Connie Hawkins ☄️ Dick Van Arsdale ☄️ Miles Bridges https://t.co/mhusvxg506",
@@ -216,21 +258,50 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2118550017942356239",
-      "text": "Welcome to the Dillon Brooks takeover 😈 12 PTS so far in the third quarter https://t.co/5ZREoIEL3q",
-      "url": "https://x.com/Suns/status/2118550017942356239",
-      "published": "2026-11-06T03:44:19+00:00",
-      "likes": 124,
+      "id": "2120356792916177135",
+      "text": "Devin Booker has passed Julius Erving on the @NBA all-time scoring list! https://t.co/6t68ZPkqum",
+      "url": "https://x.com/Suns/status/2120356792916177135",
+      "published": "2026-11-11T03:23:48+00:00",
+      "likes": 226,
       "author": "Phoenix Suns",
       "handle": "Suns",
       "avatar": "https://pbs.twimg.com/profile_images/2107167282686251008/sipsQ88l_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2118549934257668096/img/pfInls9o46uTbL7i.jpg",
+      "media": "https://pbs.twimg.com/media/HWz3hVvbQAUL6aj.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120348998506869157",
+      "text": "JORDAN GOODWIN 5-6 3PM TONIGHT 🎯😤 https://t.co/vRO4w6oz5x",
+      "url": "https://x.com/Suns/status/2120348998506869157",
+      "published": "2026-11-11T02:52:50+00:00",
+      "likes": 147,
+      "author": "Phoenix Suns",
+      "handle": "Suns",
+      "avatar": "https://pbs.twimg.com/profile_images/2107167282686251008/sipsQ88l_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWz-KiRbwAAXSwo.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120353228642824214",
+      "text": "COLLIN GILLESPIE DEEP THREE TO END THE FIRST HALF 🤯🚨 https://t.co/S9sPKKBWlP",
+      "url": "https://x.com/Suns/status/2120353228642824214",
+      "published": "2026-11-11T03:09:38+00:00",
+      "likes": 110,
+      "author": "Phoenix Suns",
+      "handle": "Suns",
+      "avatar": "https://pbs.twimg.com/profile_images/2107167282686251008/sipsQ88l_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120353199840526336/img/KIxYpqE5gtgbrw93.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
