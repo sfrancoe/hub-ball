@@ -1,18 +1,46 @@
 {
-  "generated_at": "2026-11-10T21:31:55.482084+00:00",
+  "generated_at": "2026-11-11T01:32:24.976306+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451079351886117",
   "team_id": "20",
   "sport": "nba",
-  "likes_as_of": "2026-11-10T21:31:55.482084+00:00",
+  "likes_as_of": "2026-11-11T01:32:24.976306+00:00",
   "recent": [
+    {
+      "id": "2120328353945194545",
+      "text": "https://t.co/Snz5MarIfi",
+      "url": "https://x.com/sixers/status/2120328353945194545",
+      "published": "2026-11-11T01:30:48+00:00",
+      "likes": 73,
+      "author": "Philadelphia 76ers",
+      "handle": "sixers",
+      "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWzrZfRXkAANe4G.jpg",
+      "quoted_text": "JAYLEN BROWN 😳 https://t.co/j9IodCcOvl",
+      "quoted_author": "Philadelphia 76ers",
+      "quoted_handle": "sixers"
+    },
+    {
+      "id": "2120327884296630762",
+      "text": "JAYLEN BROWN 😳 https://t.co/j9IodCcOvl",
+      "url": "https://x.com/sixers/status/2120327884296630762",
+      "published": "2026-11-11T01:28:56+00:00",
+      "likes": 219,
+      "author": "Philadelphia 76ers",
+      "handle": "sixers",
+      "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120327789014323200/img/xmi2AEW4aooomNIL.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119579653438366061",
       "text": "Jabari Walker appreciation post 👊 https://t.co/Bq4jhicogR",
       "url": "https://x.com/sixers/status/2119579653438366061",
       "published": "2026-11-08T23:55:43+00:00",
-      "likes": 2410,
+      "likes": 2413,
       "author": "Philadelphia 76ers",
       "handle": "sixers",
       "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
@@ -26,7 +54,7 @@
       "text": "Tyrese Maxey‼️ https://t.co/dDL3QtBviX",
       "url": "https://x.com/sixers/status/2119561574184542562",
       "published": "2026-11-08T22:43:53+00:00",
-      "likes": 1346,
+      "likes": 1347,
       "author": "Philadelphia 76ers",
       "handle": "sixers",
       "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
@@ -64,5 +92,34 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2120327884296630762",
+      "text": "JAYLEN BROWN 😳 https://t.co/j9IodCcOvl",
+      "url": "https://x.com/sixers/status/2120327884296630762",
+      "published": "2026-11-11T01:28:56+00:00",
+      "likes": 219,
+      "author": "Philadelphia 76ers",
+      "handle": "sixers",
+      "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120327789014323200/img/xmi2AEW4aooomNIL.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120328353945194545",
+      "text": "https://t.co/Snz5MarIfi",
+      "url": "https://x.com/sixers/status/2120328353945194545",
+      "published": "2026-11-11T01:30:48+00:00",
+      "likes": 73,
+      "author": "Philadelphia 76ers",
+      "handle": "sixers",
+      "avatar": "https://pbs.twimg.com/profile_images/2066908247508791296/H6f6t7Cr_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HWzrZfRXkAANe4G.jpg",
+      "quoted_text": "JAYLEN BROWN 😳 https://t.co/j9IodCcOvl",
+      "quoted_author": "Philadelphia 76ers",
+      "quoted_handle": "sixers"
+    }
+  ]
 }

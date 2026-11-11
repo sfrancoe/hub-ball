@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-10T21:32:04.597361+00:00",
+  "generated_at": "2026-11-11T01:32:32.937304+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450490513564115",
   "team_id": "4",
   "sport": "nba",
-  "likes_as_of": "2026-11-10T21:32:04.597361+00:00",
+  "likes_as_of": "2026-11-11T01:32:32.937304+00:00",
   "recent": [
+    {
+      "id": "2120278612180164911",
+      "text": "RT @CHSN_Bulls: New episode of the The Fastbreak with @KCJHoop presented by @dunkindonuts 🚨 📈 Noa Essengue's growth and development 🔄 Bull…",
+      "url": "https://x.com/KCJHoop/status/2120278612180164911",
+      "published": "2026-11-10T22:13:08+00:00",
+      "likes": 0,
+      "author": "K.C. Johnson",
+      "handle": "KCJHoop",
+      "avatar": "https://pbs.twimg.com/profile_images/2012548638329679872/zeZtKyII_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2120200208181252137",
       "text": "RT @bullscommunity: Caleb Wilson opened up about how his college basketball career ended at North Carolina and how it has motivated him sin…",
@@ -26,7 +40,7 @@
       "text": "Good fight but came up short. Josh Giddey: 19 pts, 7 reb, 15 ast Matas Buzelis: 19 pts, 5 reb, 1 blk Caleb Wilson: 18 pts, 5 reb, 2 blk https://t.co/IcjvHwtT5x",
       "url": "https://x.com/chicagobulls/status/2119563201431880043",
       "published": "2026-11-08T22:50:21+00:00",
-      "likes": 1062,
+      "likes": 1064,
       "author": "Chicago Bulls",
       "handle": "chicagobulls",
       "avatar": "https://pbs.twimg.com/profile_images/2015889386064240641/cZIJtgA1_normal.jpg",
@@ -54,7 +68,7 @@
       "text": "👌 https://t.co/tBzCtYjXRa",
       "url": "https://x.com/chicagobulls/status/2119560437704675399",
       "published": "2026-11-08T22:39:22+00:00",
-      "likes": 644,
+      "likes": 646,
       "author": "Chicago Bulls",
       "handle": "chicagobulls",
       "avatar": "https://pbs.twimg.com/profile_images/2015889386064240641/cZIJtgA1_normal.jpg",
@@ -328,23 +342,23 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2119503089736560669",
-      "text": "RT @CHSN_Bulls: Nic Claxton makes his Bulls debut today 🔥 📺 Stream at 2:30 p.m. on CHSN and the CHSN app https://t.co/55ngQhMxxd",
-      "url": "https://x.com/KCJHoop/status/2119503089736560669",
-      "published": "2026-11-08T18:51:29+00:00",
+      "id": "2120278612180164911",
+      "text": "RT @CHSN_Bulls: New episode of the The Fastbreak with @KCJHoop presented by @dunkindonuts 🚨 📈 Noa Essengue's growth and development 🔄 Bull…",
+      "url": "https://x.com/KCJHoop/status/2120278612180164911",
+      "published": "2026-11-10T22:13:08+00:00",
       "likes": 0,
       "author": "K.C. Johnson",
       "handle": "KCJHoop",
       "avatar": "https://pbs.twimg.com/profile_images/2012548638329679872/zeZtKyII_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWn8wzrXEAEwtLy.jpg",
+      "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    }
-  ],
-  "popular": [
+    },
     {
       "id": "2120200208181252137",
       "text": "RT @bullscommunity: Caleb Wilson opened up about how his college basketball career ended at North Carolina and how it has motivated him sin…",
