@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jayson Tatum wasn’t interested in discussing Jaylen Brown — or Brown’s pregame cold shoulder — after the Celtics’ rout of the 76ers.",
+        "published": "2026-11-11T10:10:37Z",
+        "title": "Jayson Tatum wants ‘no headlines’ about Jaylen Brown cold shoulder",
+        "url": "https://www.bostonherald.com/2026/11/11/jayson-tatum-wants-no-headlines-about-jaylen-brown-cold-shoulder/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "As the Celtics salted away a statement win over the 76ers, Paul George had a parting gift for one “(a–hole)” Philly fan.",
         "published": "2026-11-11T10:00:00Z",
         "title": "Why Paul George flipped off 76ers fan during Celtics win",
@@ -105,16 +112,9 @@
         "published": "2026-11-04T20:09:39Z",
         "title": "Jayson Tatum downgraded, will miss first game of season vs. Bucks",
         "url": "https://www.bostonherald.com/2026/11/04/jayson-tatum-downgraded-will-miss-first-game-of-season-vs-bucks/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Seven games in, Paul George has looked like a perfect fit for the Celtics. Mitchell Robinson? Not so much.",
-        "published": "2026-11-04T15:22:12Z",
-        "title": "What’s wrong with Mitchell Robinson? Celtics center off to underwhelming start",
-        "url": "https://www.bostonherald.com/2026/11/04/whats-wrong-with-mitchell-robinson-celtics-center-off-to-underwhelming-start/"
       }
     ],
-    "generated_at": "2026-11-11T10:02:29.691446+00:00",
+    "generated_at": "2026-11-11T10:12:34.347613+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },

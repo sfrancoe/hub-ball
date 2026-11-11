@@ -3,6 +3,20 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Despite weeks of pointed comments from Jaylen Brown, Jayson Tatum let his play do the talking for Celtics.",
+        "published": "2026-11-11T10:05:00+00:00",
+        "title": "With basketball world watching, Jason Tatum rises to the moment | Matt Vautour",
+        "url": "https://www.masslive.com/celtics/2026/11/jason-tatum-rises-to-the-moment-in-celtics-statement-win-over-sixers-and-jaylen-brown.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "Jayson Tatum kept it even-keeled as the Celtics blew out the Sixers and Jaylen Brown on Tuesday, not letting the emotions get the best of him.",
+        "published": "2026-11-11T10:00:00+00:00",
+        "title": "Jayson Tatum on Sixers, Jaylen Brown clash: ‘It felt like a (expletive) Finals game’",
+        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-on-sixers-jaylen-brown-clash-it-felt-like-a-expletive-finals-game.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "MassLive writers Souichi Terada and Matt Vautour talk Celtics' blowout win over the Sixers, including how they thought Jaylen Brown was too amped for the game.",
         "published": "2026-11-11T05:19:03+00:00",
         "title": "Jaylen Brown was too amped: What we learned from Celtics’ blowout win over Sixers",
@@ -98,23 +112,9 @@
         "published": "2026-11-09T03:56:13+00:00",
         "title": "Mitchell Robinson looks good: What we learned from Celtics’ blowout win over Bucks",
         "url": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-looks-good-what-we-learned-from-celtics-blowout-win-over-bucks.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Paul George was everywhere Sunday as the Celtics blew out the Bucks, and this time, they didn't give up the lead.",
-        "published": "2026-11-09T03:31:29+00:00",
-        "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in win over Bucks",
-        "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-celtics-name-to-know-player-of-the-game-in-win-over-bucks.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics rallied from a 14-point deficit in the first quarter for a convincing win over the Bucks on Sunday night.",
-        "published": "2026-11-09T03:16:50+00:00",
-        "title": "4 takeaways as Celtics beat Bucks using surprise starting lineup",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-bucks-using-surprise-starting-lineup.html"
       }
     ],
-    "generated_at": "2026-11-11T05:31:03.774040+00:00",
+    "generated_at": "2026-11-11T10:12:34.997987+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
