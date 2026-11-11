@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Paul George is already looking to be a better fit than anticipated with the Celtics.",
+        "published": "2026-11-11T11:00:00+00:00",
+        "title": "Celtics trade addition creating intriguing conundrum after win over 76ers",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-trade-addition-creating-intriguing-conundrum-after-win-over-76ers.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Despite weeks of pointed comments from Jaylen Brown, Jayson Tatum let his play do the talking for Celtics.",
         "published": "2026-11-11T10:05:00+00:00",
         "title": "With basketball world watching, Jason Tatum rises to the moment | Matt Vautour",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T10:00:00+00:00",
         "title": "Jayson Tatum on Kristaps Porzingis retirement: ‘I got nothing but love for him’",
         "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-on-kristaps-porzingis-retirement-i-got-nothing-but-love-for-him.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics are 8-2 on the season after blowing out the Bucks, but they have a date with the Sixers and Jaylen Brown coming up.",
-        "published": "2026-11-09T03:56:13+00:00",
-        "title": "Mitchell Robinson looks good: What we learned from Celtics’ blowout win over Bucks",
-        "url": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-looks-good-what-we-learned-from-celtics-blowout-win-over-bucks.html"
       }
     ],
-    "generated_at": "2026-11-11T10:12:34.997987+00:00",
+    "generated_at": "2026-11-11T11:12:57.158676+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
