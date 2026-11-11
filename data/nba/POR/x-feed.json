@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-11-11T03:32:48.758916+00:00",
+  "generated_at": "2026-11-11T05:33:11.190053+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451157982581213",
   "team_id": "22",
   "sport": "nba",
-  "likes_as_of": "2026-11-11T03:32:48.758916+00:00",
+  "likes_as_of": "2026-11-11T05:33:11.190053+00:00",
   "recent": [
+    {
+      "id": "2120384657233695215",
+      "text": "Branden Carlson came flying out of nowhere 🫨 https://t.co/pSfD1FxPLI",
+      "url": "https://x.com/trailblazers/status/2120384657233695215",
+      "published": "2026-11-11T05:14:31+00:00",
+      "likes": 31,
+      "author": "Portland Trail Blazers",
+      "handle": "trailblazers",
+      "avatar": "https://pbs.twimg.com/profile_images/2093021456989040640/NQOu40Sn_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120384568972967936/img/3XJ0l65ZLXkh81eh.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120380204732568039",
+      "text": "Chris Youngblood keeps making good plays https://t.co/o1ZJois0fp",
+      "url": "https://x.com/trailblazers/status/2120380204732568039",
+      "published": "2026-11-11T04:56:50+00:00",
+      "likes": 44,
+      "author": "Portland Trail Blazers",
+      "handle": "trailblazers",
+      "avatar": "https://pbs.twimg.com/profile_images/2093021456989040640/NQOu40Sn_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120380120129249280/img/fCcOGIyco7JAHR3C.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120359811665785063",
+      "text": "Tonight's starters: Damian Lillard Deni Avdija Sidy Cissoko Toumani Camara Donovan Clingan #RipCity | @DriveToyota",
+      "url": "https://x.com/trailblazers/status/2120359811665785063",
+      "published": "2026-11-11T03:35:48+00:00",
+      "likes": 474,
+      "author": "Portland Trail Blazers",
+      "handle": "trailblazers",
+      "avatar": "https://pbs.twimg.com/profile_images/2093021456989040640/NQOu40Sn_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119966129909375326",
       "text": "RT @TrailBlazersPR: INJURY REPORT 11/10 vs. OKC: OUT Vit Krejci (L Ankle Fracture) Ja Morant (L Hamstring Strain) Shaedon Sharpe (R Menisc…",
@@ -118,13 +160,15 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2118506020767187253",
-      "text": "RT @TrailBlazersPR: INJURY REPORT 11/6 @ LAL: OUT Vit Krejci (L Ankle Fracture) Ja Morant (L Hamstring Strain) Shaedon Sharpe (R Meniscus)…",
-      "url": "https://x.com/trailblazers/status/2118506020767187253",
-      "published": "2026-11-06T00:49:29+00:00",
-      "likes": 0,
+      "id": "2120359811665785063",
+      "text": "Tonight's starters: Damian Lillard Deni Avdija Sidy Cissoko Toumani Camara Donovan Clingan #RipCity | @DriveToyota",
+      "url": "https://x.com/trailblazers/status/2120359811665785063",
+      "published": "2026-11-11T03:35:48+00:00",
+      "likes": 474,
       "author": "Portland Trail Blazers",
       "handle": "trailblazers",
       "avatar": "https://pbs.twimg.com/profile_images/2093021456989040640/NQOu40Sn_normal.jpg",
@@ -134,19 +178,32 @@
       "quoted_handle": ""
     },
     {
-      "id": "2118449936316744067",
-      "text": "RT @TrailBlazersPR: .@Jrue_Holiday11 enters Friday's game @ LAL needing just seven points to pass Steve Nash and move into the NBA's top 10…",
-      "url": "https://x.com/trailblazers/status/2118449936316744067",
-      "published": "2026-11-05T21:06:38+00:00",
-      "likes": 0,
+      "id": "2120380204732568039",
+      "text": "Chris Youngblood keeps making good plays https://t.co/o1ZJois0fp",
+      "url": "https://x.com/trailblazers/status/2120380204732568039",
+      "published": "2026-11-11T04:56:50+00:00",
+      "likes": 44,
       "author": "Portland Trail Blazers",
       "handle": "trailblazers",
       "avatar": "https://pbs.twimg.com/profile_images/2093021456989040640/NQOu40Sn_normal.jpg",
-      "media": "",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120380120129249280/img/fCcOGIyco7JAHR3C.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120384657233695215",
+      "text": "Branden Carlson came flying out of nowhere 🫨 https://t.co/pSfD1FxPLI",
+      "url": "https://x.com/trailblazers/status/2120384657233695215",
+      "published": "2026-11-11T05:14:31+00:00",
+      "likes": 31,
+      "author": "Portland Trail Blazers",
+      "handle": "trailblazers",
+      "avatar": "https://pbs.twimg.com/profile_images/2093021456989040640/NQOu40Sn_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120384568972967936/img/3XJ0l65ZLXkh81eh.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
