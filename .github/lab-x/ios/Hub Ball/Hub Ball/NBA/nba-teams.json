@@ -1,0 +1,883 @@
+[
+  {
+    "id": "1",
+    "name": "Hawks",
+    "city": "Atlanta",
+    "abbreviation": "ATL",
+    "color": "#c8102e",
+    "conference": "East",
+    "x": {
+      "handle": "atlhawks",
+      "list_id": "2119449951423852993",
+      "match_terms": [
+        "atlanta hawks",
+        "@atlhawks"
+      ],
+      "link_terms": [
+        "nba.com/hawks"
+      ],
+      "excluded_terms": [
+        "falcons",
+        "braves",
+        "seahawks",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southeast"
+  },
+  {
+    "id": "2",
+    "name": "Celtics",
+    "city": "Boston",
+    "abbreviation": "BOS",
+    "color": "#008348",
+    "conference": "East",
+    "x": {
+      "handle": "celtics",
+      "list_id": "2119126425919684932",
+      "match_terms": [
+        "boston celtics",
+        "@celtics",
+        "#bleedgreen",
+        "td garden"
+      ],
+      "link_terms": [
+        "nba.com/celtics",
+        "celticsblog"
+      ],
+      "excluded_terms": [
+        "celtic fc",
+        "#celticfc",
+        "red sox",
+        "patriots",
+        "bruins",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "newsSources": [
+      {
+        "key": "globe",
+        "name": "Globe",
+        "url": "https://www.bostonglobe.com/sports/basketball/celtics/",
+        "adapter": {
+          "kind": "arc_stories",
+          "url": "https://www.bostonglobe.com/sports/basketball/celtics/",
+          "section": "celtics",
+          "max": 16,
+          "source_name": "The Boston Globe",
+          "category": "Boston Celtics"
+        }
+      },
+      {
+        "key": "herald",
+        "name": "Herald",
+        "url": "https://www.bostonherald.com/sports/nba/boston-celtics/",
+        "adapter": {
+          "kind": "wordpress",
+          "url": "https://www.bostonherald.com/wp-json/wp/v2/posts?categories=11892&per_page=16&orderby=date&order=desc&_fields=link%2Cdate_gmt%2Ctitle%2Cexcerpt",
+          "url_prefix": "https://www.bostonherald.com/",
+          "category": "Boston Celtics",
+          "max": 16,
+          "source_name": "The Boston Herald"
+        }
+      },
+      {
+        "key": "masslive",
+        "name": "MassLive",
+        "url": "https://www.masslive.com/celtics/",
+        "adapter": {
+          "kind": "rss",
+          "url": "https://www.masslive.com/arc/outboundfeeds/rss/category/celtics/?outputType=xml",
+          "url_prefix": "https://www.masslive.com/",
+          "require_description": true,
+          "category": "Boston Celtics",
+          "strip_title_prefix": "^season(?=[A-Z])",
+          "max": 16
+        }
+      },
+      {
+        "key": "athletic",
+        "name": "The Athletic",
+        "url": "https://www.nytimes.com/athletic/nba/team/celtics/",
+        "adapter": {
+          "kind": "rss",
+          "url": "https://www.nytimes.com/athletic/rss/nba/celtics/",
+          "url_prefix": "https://www.nytimes.com/athletic/",
+          "require_description": true,
+          "category": "Boston Celtics",
+          "strip_title_prefix": "^season(?=[A-Z])",
+          "max": 16
+        }
+      }
+    ],
+    "division": "Atlantic"
+  },
+  {
+    "id": "17",
+    "name": "Nets",
+    "city": "Brooklyn",
+    "abbreviation": "BKN",
+    "color": "#000000",
+    "conference": "East",
+    "x": {
+      "handle": "BrooklynNets",
+      "list_id": "2119450154214232085",
+      "match_terms": [
+        "brooklyn nets",
+        "@brooklynnets"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "mets",
+        "yankees",
+        "giants",
+        "jets",
+        "rangers",
+        "islanders",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Atlantic"
+  },
+  {
+    "id": "30",
+    "name": "Hornets",
+    "city": "Charlotte",
+    "abbreviation": "CHA",
+    "color": "#008ca8",
+    "conference": "East",
+    "x": {
+      "handle": "hornets",
+      "list_id": "2119450347437457646",
+      "match_terms": [
+        "charlotte hornets",
+        "@hornets"
+      ],
+      "link_terms": [
+        "nba.com/hornets"
+      ],
+      "excluded_terms": [
+        "panthers",
+        "hurricanes",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southeast"
+  },
+  {
+    "id": "4",
+    "name": "Bulls",
+    "city": "Chicago",
+    "abbreviation": "CHI",
+    "color": "#ce1141",
+    "conference": "East",
+    "x": {
+      "handle": "chicagobulls",
+      "list_id": "2119450490513564115",
+      "match_terms": [
+        "chicago bulls",
+        "@chicagobulls"
+      ],
+      "link_terms": [
+        "nba.com/bulls"
+      ],
+      "excluded_terms": [
+        "bears",
+        "cubs",
+        "white sox",
+        "blackhawks",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Central"
+  },
+  {
+    "id": "5",
+    "name": "Cavaliers",
+    "city": "Cleveland",
+    "abbreviation": "CLE",
+    "color": "#860038",
+    "conference": "East",
+    "x": {
+      "handle": "cavs",
+      "list_id": "2119450516421841029",
+      "match_terms": [
+        "cleveland cavaliers",
+        "@cavs"
+      ],
+      "link_terms": [
+        "nba.com/cavaliers"
+      ],
+      "excluded_terms": [
+        "browns",
+        "guardians",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Central"
+  },
+  {
+    "id": "6",
+    "name": "Mavericks",
+    "city": "Dallas",
+    "abbreviation": "DAL",
+    "color": "#0064b1",
+    "conference": "West",
+    "x": {
+      "handle": "dallasmavs",
+      "list_id": "2119450541533085812",
+      "match_terms": [
+        "dallas mavericks",
+        "@dallasmavs"
+      ],
+      "link_terms": [
+        "nba.com/mavs"
+      ],
+      "excluded_terms": [
+        "cowboys",
+        "rangers",
+        "stars",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southwest"
+  },
+  {
+    "id": "7",
+    "name": "Nuggets",
+    "city": "Denver",
+    "abbreviation": "DEN",
+    "color": "#0e2240",
+    "conference": "West",
+    "x": {
+      "handle": "nuggets",
+      "list_id": "2119450628728438883",
+      "match_terms": [
+        "denver nuggets",
+        "@nuggets"
+      ],
+      "link_terms": [
+        "nba.com/nuggets"
+      ],
+      "excluded_terms": [
+        "broncos",
+        "rockies",
+        "avalanche",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Northwest"
+  },
+  {
+    "id": "8",
+    "name": "Pistons",
+    "city": "Detroit",
+    "abbreviation": "DET",
+    "color": "#1d428a",
+    "conference": "East",
+    "x": {
+      "handle": "detroitpistons",
+      "list_id": "2119450655966322840",
+      "match_terms": [
+        "detroit pistons",
+        "@detroitpistons"
+      ],
+      "link_terms": [
+        "nba.com/pistons"
+      ],
+      "excluded_terms": [
+        "lions",
+        "tigers",
+        "red wings",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Central"
+  },
+  {
+    "id": "9",
+    "name": "Warriors",
+    "city": "Golden State",
+    "abbreviation": "GS",
+    "color": "#fdb927",
+    "conference": "West",
+    "x": {
+      "handle": "warriors",
+      "list_id": "2119450682532958266",
+      "match_terms": [
+        "golden state warriors",
+        "@warriors"
+      ],
+      "link_terms": [
+        "nba.com/warriors/profile"
+      ],
+      "excluded_terms": [
+        "49ers",
+        "giants",
+        "athletics",
+        "sharks",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Pacific"
+  },
+  {
+    "id": "10",
+    "name": "Rockets",
+    "city": "Houston",
+    "abbreviation": "HOU",
+    "color": "#ce0e2d",
+    "conference": "West",
+    "x": {
+      "handle": "HoustonRockets",
+      "list_id": "2119450706293731378",
+      "match_terms": [
+        "houston rockets",
+        "@houstonrockets"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "texans",
+        "astros",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southwest"
+  },
+  {
+    "id": "11",
+    "name": "Pacers",
+    "city": "Indiana",
+    "abbreviation": "IND",
+    "color": "#0c2340",
+    "conference": "East",
+    "x": {
+      "handle": "pacers",
+      "list_id": "2119450760337305823",
+      "match_terms": [
+        "indiana pacers",
+        "@pacers"
+      ],
+      "link_terms": [
+        "nba.com/pacers"
+      ],
+      "excluded_terms": [
+        "colts",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Central"
+  },
+  {
+    "id": "12",
+    "name": "Clippers",
+    "city": "LA",
+    "abbreviation": "LAC",
+    "color": "#12173f",
+    "conference": "West",
+    "x": {
+      "handle": "LAClippers",
+      "list_id": "2119450785398378701",
+      "match_terms": [
+        "la clippers",
+        "@laclippers"
+      ],
+      "link_terms": [
+        "nba.com/clippers"
+      ],
+      "excluded_terms": [
+        "dodgers",
+        "angels",
+        "rams",
+        "chargers",
+        "kings hockey",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Pacific"
+  },
+  {
+    "id": "13",
+    "name": "Lakers",
+    "city": "Los Angeles",
+    "abbreviation": "LAL",
+    "color": "#552583",
+    "conference": "West",
+    "x": {
+      "handle": "lakers",
+      "list_id": "2119450809268077013",
+      "match_terms": [
+        "los angeles lakers",
+        "@lakers"
+      ],
+      "link_terms": [
+        "nba.com/lakers"
+      ],
+      "excluded_terms": [
+        "dodgers",
+        "angels",
+        "rams",
+        "chargers",
+        "kings hockey",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Pacific"
+  },
+  {
+    "id": "29",
+    "name": "Grizzlies",
+    "city": "Memphis",
+    "abbreviation": "MEM",
+    "color": "#5d76a9",
+    "conference": "West",
+    "x": {
+      "handle": "memgrizz",
+      "list_id": "2119450835151142983",
+      "match_terms": [
+        "memphis grizzlies",
+        "@memgrizz"
+      ],
+      "link_terms": [
+        "nba.com/grizzlies"
+      ],
+      "excluded_terms": [
+        "titans",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southwest"
+  },
+  {
+    "id": "14",
+    "name": "Heat",
+    "city": "Miami",
+    "abbreviation": "MIA",
+    "color": "#98002e",
+    "conference": "East",
+    "x": {
+      "handle": "miamiheat",
+      "list_id": "2119450899307258030",
+      "match_terms": [
+        "miami heat",
+        "@miamiheat"
+      ],
+      "link_terms": [
+        "nba.com/heat"
+      ],
+      "excluded_terms": [
+        "dolphins",
+        "marlins",
+        "panthers hockey",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southeast"
+  },
+  {
+    "id": "15",
+    "name": "Bucks",
+    "city": "Milwaukee",
+    "abbreviation": "MIL",
+    "color": "#00471b",
+    "conference": "East",
+    "x": {
+      "handle": "Bucks",
+      "list_id": "2119450923986469178",
+      "match_terms": [
+        "milwaukee bucks",
+        "@bucks"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "brewers",
+        "packers",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Central"
+  },
+  {
+    "id": "16",
+    "name": "Timberwolves",
+    "city": "Minnesota",
+    "abbreviation": "MIN",
+    "color": "#266092",
+    "conference": "West",
+    "x": {
+      "handle": "timberwolves",
+      "list_id": "2119450947885666782",
+      "match_terms": [
+        "minnesota timberwolves",
+        "@timberwolves"
+      ],
+      "link_terms": [
+        "nba.com/timberwolves"
+      ],
+      "excluded_terms": [
+        "vikings",
+        "twins",
+        "wild hockey",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Northwest"
+  },
+  {
+    "id": "3",
+    "name": "Pelicans",
+    "city": "New Orleans",
+    "abbreviation": "NO",
+    "color": "#0a2240",
+    "conference": "West",
+    "x": {
+      "handle": "PelicansNBA",
+      "list_id": "2119450973798023473",
+      "match_terms": [
+        "new orleans pelicans",
+        "@pelicansnba"
+      ],
+      "link_terms": [
+        "nba.com/pelicans"
+      ],
+      "excluded_terms": [
+        "saints",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southwest"
+  },
+  {
+    "id": "18",
+    "name": "Knicks",
+    "city": "New York",
+    "abbreviation": "NY",
+    "color": "#1d428a",
+    "conference": "East",
+    "x": {
+      "handle": "nyknicks",
+      "list_id": "2119141862766154154",
+      "match_terms": [
+        "new york knicks",
+        "@nyknicks",
+        "#knicks",
+        "#newyorkforever",
+        "madison square garden"
+      ],
+      "link_terms": [
+        "nba.com/knicks"
+      ],
+      "excluded_terms": [
+        "mets",
+        "yankees",
+        "giants",
+        "jets",
+        "rangers",
+        "islanders",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Atlantic"
+  },
+  {
+    "id": "25",
+    "name": "Thunder",
+    "city": "Oklahoma City",
+    "abbreviation": "OKC",
+    "color": "#007ac1",
+    "conference": "West",
+    "x": {
+      "handle": "okcthunder",
+      "list_id": "2119451029213221258",
+      "match_terms": [
+        "oklahoma city thunder",
+        "@okcthunder"
+      ],
+      "link_terms": [
+        "nba.com/thunder"
+      ],
+      "excluded_terms": [
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Northwest"
+  },
+  {
+    "id": "19",
+    "name": "Magic",
+    "city": "Orlando",
+    "abbreviation": "ORL",
+    "color": "#0150b5",
+    "conference": "East",
+    "x": {
+      "handle": "OrlandoMagic",
+      "list_id": "2119451053103943981",
+      "match_terms": [
+        "orlando magic",
+        "@orlandomagic"
+      ],
+      "link_terms": [
+        "nba.com/magic"
+      ],
+      "excluded_terms": [
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southeast"
+  },
+  {
+    "id": "20",
+    "name": "76ers",
+    "city": "Philadelphia",
+    "abbreviation": "PHI",
+    "color": "#1d428a",
+    "conference": "East",
+    "x": {
+      "handle": "Sixers",
+      "list_id": "2119451079351886117",
+      "match_terms": [
+        "philadelphia 76ers",
+        "@sixers"
+      ],
+      "link_terms": [
+        "nba.com/sixers"
+      ],
+      "excluded_terms": [
+        "eagles",
+        "phillies",
+        "flyers",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Atlantic"
+  },
+  {
+    "id": "21",
+    "name": "Suns",
+    "city": "Phoenix",
+    "abbreviation": "PHX",
+    "color": "#29127a",
+    "conference": "West",
+    "x": {
+      "handle": "Suns",
+      "list_id": "2119451105062969800",
+      "match_terms": [
+        "phoenix suns",
+        "@suns"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "cardinals",
+        "diamondbacks",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Pacific"
+  },
+  {
+    "id": "22",
+    "name": "Trail Blazers",
+    "city": "Portland",
+    "abbreviation": "POR",
+    "color": "#e03a3e",
+    "conference": "West",
+    "x": {
+      "handle": "trailblazers",
+      "list_id": "2119451157982581213",
+      "match_terms": [
+        "portland trail blazers",
+        "@trailblazers"
+      ],
+      "link_terms": [
+        "nba.com/blazers"
+      ],
+      "excluded_terms": [
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Northwest"
+  },
+  {
+    "id": "23",
+    "name": "Kings",
+    "city": "Sacramento",
+    "abbreviation": "SAC",
+    "color": "#5a2d81",
+    "conference": "West",
+    "x": {
+      "handle": "SacramentoKings",
+      "list_id": "2119451184792821796",
+      "match_terms": [
+        "sacramento kings",
+        "@sacramentokings"
+      ],
+      "link_terms": [
+        "nba.com/kings"
+      ],
+      "excluded_terms": [
+        "kings hockey",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Pacific"
+  },
+  {
+    "id": "24",
+    "name": "Spurs",
+    "city": "San Antonio",
+    "abbreviation": "SA",
+    "color": "#000000",
+    "conference": "West",
+    "x": {
+      "handle": "spurs",
+      "list_id": "2119451209689870734",
+      "match_terms": [
+        "san antonio spurs",
+        "@spurs"
+      ],
+      "link_terms": [
+        "nba.com/spurs"
+      ],
+      "excluded_terms": [
+        "tottenham",
+        "spurs football",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southwest"
+  },
+  {
+    "id": "28",
+    "name": "Raptors",
+    "city": "Toronto",
+    "abbreviation": "TOR",
+    "color": "#d91244",
+    "conference": "East",
+    "x": {
+      "handle": "raptors",
+      "list_id": "2119451236462219580",
+      "match_terms": [
+        "toronto raptors",
+        "@raptors"
+      ],
+      "link_terms": [
+        "nba.com/raptors"
+      ],
+      "excluded_terms": [
+        "blue jays",
+        "maple leafs",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Atlantic"
+  },
+  {
+    "id": "26",
+    "name": "Jazz",
+    "city": "Utah",
+    "abbreviation": "UTAH",
+    "color": "#4e008e",
+    "conference": "West",
+    "x": {
+      "handle": "utahjazz",
+      "list_id": "2119451293391446344",
+      "match_terms": [
+        "utah jazz",
+        "@utahjazz"
+      ],
+      "link_terms": [
+        "nba.com/jazz"
+      ],
+      "excluded_terms": [
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Northwest"
+  },
+  {
+    "id": "27",
+    "name": "Wizards",
+    "city": "Washington",
+    "abbreviation": "WSH",
+    "color": "#e31837",
+    "conference": "East",
+    "x": {
+      "handle": "WashWizards",
+      "list_id": "2119451317521326169",
+      "match_terms": [
+        "washington wizards",
+        "@washwizards"
+      ],
+      "link_terms": [
+        "nba.com/wizards"
+      ],
+      "excluded_terms": [
+        "commanders",
+        "nationals",
+        "capitals",
+        "#nfl",
+        "#nhl",
+        "#mlb"
+      ]
+    },
+    "division": "Southeast"
+  }
+]

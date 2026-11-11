@@ -1,0 +1,84 @@
+name: Refresh four-sport Lab X feeds
+
+on:
+  schedule:
+    - cron: '37 1-23/2 * * *'
+  workflow_dispatch:
+    inputs:
+      verify_only:
+        description: Verify hosting, credentials and publication without requesting X
+        type: boolean
+        default: true
+  pull_request:
+    paths:
+      - '.github/lab-x/**'
+      - '.github/workflows/lab-x-refresh.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          sparse-checkout: .github/lab-x
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Test the packaged four-sport runtime without network
+        run: python3 -m unittest discover -s .github/lab-x/scripts/nba_x -p 'test_*.py'
+
+  refresh:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment: lab-x-refresh
+    permissions:
+      contents: write
+    concurrency:
+      group: lab-x-data-publication
+      cancel-in-progress: false
+    env:
+      HUB_LAB_ALLOW_UNOFFICIAL_X: '1'
+      # Preserve the old job's next eligible slot during the initial cutover.
+      X_REFRESH_NOT_BEFORE: '2026-11-11T21:34:00+00:00'
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          path: runtime
+          sparse-checkout: .github/lab-x
+          persist-credentials: false
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: lab-data/nba-x
+          path: data-repo
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Configure the data commit author
+        run: |
+          git -C data-repo config user.name 'github-actions[bot]'
+          git -C data-repo config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Refresh or verify all four sports and publish the receipt
+        env:
+          BALLDONTLIE_API_KEY: ${{ secrets.BALLDONTLIE_API_KEY }}
+          VERIFY_ONLY: ${{ github.event_name == 'workflow_dispatch' && inputs.verify_only }}
+        shell: bash
+        run: |
+          args=()
+          if [[ "$VERIFY_ONLY" == true ]]; then args+=(--verify-only); fi
+          python3 runtime/.github/lab-x/scripts/nba_x/cloud.py \
+            --data-repo data-repo --report "$RUNNER_TEMP/lab-x-audit.json" "${args[@]}"
+      - name: Keep the coverage audit for diagnosis
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: lab-x-audit
+          path: ${{ runner.temp }}/lab-x-audit.json
+          if-no-files-found: warn
+          retention-days: 14
