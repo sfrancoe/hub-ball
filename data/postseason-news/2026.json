@@ -1,13 +1,157 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-11T15:26:08.439412+00:00",
+  "generatedAt": "2026-11-11T22:18:52.018027+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Scott Boras on talks with Red Sox: ‘They’re building, they want to advance’",
+      "description": "Scott Boras, baseball’s most powerful agent, said Wednesday that he’s had extensive talks with the Red Sox, who he described as being determined to improve.",
+      "url": "https://www.bostonherald.com/2026/11/11/scott-boras-on-talks-with-red-sox-theyre-building-they-want-to-advance/",
+      "published": "2026-11-11T22:01:25+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Craig Breslow has a new title: Red Sox president of baseball operations",
+      "description": "The term reflects a more standard title for someone overseeing an MLB baseball operations department.",
+      "url": "https://www.bostonglobe.com/2026/11/11/sports/red-sox-craig-breslow-title/",
+      "published": "2026-11-11T21:54:12.536000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Padres playing ‘at top of market’ could lead to Fernando Tatis Jr. playing second base",
+      "description": "Team is pursuing Tarik Skubal and several other starting pitchers, and it has sights on Seiya Suzuki and other potential outfielders ...",
+      "url": "https://www.sandiegouniontribune.com/2026/11/11/padres-playing-at-top-of-market-could-lead-to-fernando-tatis-jr-playing-second-base/",
+      "published": "2026-11-11T21:43:49+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "The Giancarlo Stanton issue at the center of Yankees’ positional puzzle",
+      "description": "",
+      "url": "https://nypost.com/2026/11/11/sports/the-giancarlo-stanton-issue-at-center-of-yankees-positional-puzzle/",
+      "published": "2026-11-11T21:17:15+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees bench coach Brad Ausmus named Astros manager, Giants expected to hire James Rowson",
+      "description": "The Yankees need some new coaches.",
+      "url": "https://www.nydailynews.com/2026/11/11/yankees-bench-coach-brad-ausmus-named-astros-manager-giants-expected-to-hire-james-rowson/",
+      "published": "2026-11-11T18:25:53+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Where Yankees stand as MLB lockout uncertainty causes ‘mixed bag’ free agency approach",
+      "description": "",
+      "url": "https://nypost.com/2026/11/11/sports/yankees-remain-in-holding-pattern-but-reason-why-remains-a-mystery/",
+      "published": "2026-11-11T18:22:34+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Giants to hire former Yankees hitting coach in newly created offensive role",
+      "description": "",
+      "url": "https://nypost.com/2026/11/11/sports/giants-poaching-former-yankees-hitting-coach-in-new-offensive-role/",
+      "published": "2026-11-11T17:52:47+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees expect James Rowson to leave for Giants' hitting coach job: Source",
+      "description": "Rowson is set to replace Hunter Mense, who departed to take a lesser role with the Kansas City Royals as an assistant hitting coach.",
+      "url": "https://www.nytimes.com/athletic/7773594/2026/11/11/james-rowson-yankees-giants-hitting-coach-job/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Yankees’ staff keeps thinning as hitting coach leaves for new job",
+      "description": "",
+      "url": "https://nypost.com/2026/11/11/sports/yankees-staff-keeps-thinning-as-hitting-coach-james-rowson-leaves-for-giants/",
+      "published": "2026-11-11T17:00:04+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox takeaways from Day 2 of the GM Meetings | The Fenway Rundown",
+      "description": "What were the takeaways from Tuesday at the GM Meetings? We discussed on the latest Fenway Rundown podcast.",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-takeaways-from-day-2-of-the-gm-meetings-the-fenway-rundown.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Why Curtis Mead could be Red Sox' X-factor in 2027",
+      "description": "The Red Sox view Curtis Mead as a key part of their future. The executive who traded him to Boston believes he could be a star.",
+      "url": "https://www.masslive.com/redsox/2026/11/could-curtis-mead-be-red-sox-x-factor-in-27-the-changes-he-made-were-real-says-exec-who-traded-him.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Yankees bench coach bolting for manager job",
+      "description": "",
+      "url": "https://nypost.com/2026/11/11/sports/brad-ausmus-bolting-yankees-to-become-astros-new-manager/",
+      "published": "2026-11-11T15:46:07+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Fenway Insider Live: Sean McAdam on latest from GM Meetings, more",
       "description": "There's still time to get your questions in! Drop them in the comments or send them to fenwayinsider@masslive.com",
@@ -21,6 +165,18 @@
       "publishedSource": "unverified"
     },
     {
+      "title": "Anthopoulos provides updates on Strider, Schwellenbach for 2027 season",
+      "description": "Right-hander Spencer Strider missed the last three months of the season, while right-hander Spencer Schwellenbach was out for all of 2026.",
+      "url": "https://www.ajc.com/sports/2026/11/braves-strider-schwellenbach-injury-updates/",
+      "published": "2026-11-11T14:41:07.910000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
       "title": "Yankees interested in Phillies veteran to fix major issue after season of turmoil",
       "description": "",
       "url": "https://nypost.com/2026/11/11/sports/yankees-interested-in-alec-bohm-to-fix-major-issue-after-season-of-turmoil/",
@@ -31,6 +187,18 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Astros new manager Brad Ausmus' best moments as a player in Houston",
+      "description": "Brad Ausmus, who the Astros hired as manager Wednesday, had some big moments in his 10 years as a player in Houston, including Gold Gloves, a huge postseason homer and a memorable send-off.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-player-catcher-highlights-22525562.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
     },
     {
       "title": "From Walpole to Northeastern to a likely Cy Young winner, Yankees’ Cam Schlittler keeps getting better",
@@ -105,6 +273,18 @@
       "publishedSource": "publisher"
     },
     {
+      "title": "The Padres are expected to meet with Tarik Skubal. How serious are the team’s new owners?",
+      "description": "The Padres’ pursuit of Skubal serves as the first major test of new owners José E. Feliciano and Kwanza Jones.",
+      "url": "https://www.nytimes.com/athletic/7773905/2026/11/11/padres-tarik-skubal-meeting/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
       "title": "Red Sox have ‘massive human,’ former first-round pick as roster candidates",
       "description": "The Red Sox have a former first-round draft pick and a 6-foot-7 pitching prospect who are Rule 5 Draft eligible. Will they be added to the 40-man roster?",
       "url": "https://www.masslive.com/sports/2026/11/red-sox-have-massive-human-former-first-round-pick-as-roster-candidates.html",
@@ -125,6 +305,18 @@
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Houston Astros new manager Brad Ausmus: Where his previous managerial stints went wrong",
+      "description": "Astros' new manager Brad Ausmus has big-league managing experience with the Detroit Tigers and Los Angeles Angels, but he has never won a playoff game. Here's how he did at those stops.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-history-experience-tigers-22525219.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
       "league": "AL",
       "publishedSource": "unverified"
     },
@@ -151,114 +343,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees commit to Giancarlo Stanton's immediate future. Is that a mistake?",
-      "description": "Brian Cashman said Stanton will \"absolutely\" be with the team in spring training. But if the roster stays healthy, how does everyone fit?",
-      "url": "https://www.nytimes.com/athletic/7772067/2026/11/11/giancarlo-stanton-future-yankees-roster/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Red Sox notebook: Adley Rutschman's bat, a deep AL East and more",
-      "description": "From the GM Meetings: Red Sox bullish on Adley Rutschman's offensive outlook, Taylor Smith credits Red Sox experience for his new position, lifelong staffer joining the Royals, and Sonny Gray's potential move to Atlanta.",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-notebook-on-adley-rutschmans-offensive-profile-a-competitive-al-east-former-sox-front-office-staffer-running-his-own-club-and-more.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "How new Houston Astros GM Randy Flores views roster, trades and offseason",
-      "description": "Houston has a high-priced infield surplus with Carlos Correa expected to return from ankle surgery next season. It leaves three everyday players — Correa, Isaac Paredes, Christian Walker — for two ...",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-trades-offseason-randy-flores-22524861.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "What I’m hearing about the Dodgers’ plans for Tarik Skubal, Josue De Paula and more",
-      "description": "Josue De Paula's bat looks ready for the majors, but he'll need to improve in the outfield. Luke Hales / LAS VEGAS — As major-league executives and player agents converge at the Aria Hotel and Resort ...",
-      "url": "https://www.nytimes.com/athletic/7772042/2026/11/11/dodgers-mlb-tarik-skubal-josue-de-paula/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "'It got so quiet': Randy Flores shares his memories from infamous moment in Astros history",
-      "description": "Randy Flores is the Astros' new GM. But 21 years ago, he was on the other side when Albert Pujols, now a managerial candidate, hit an unforgettable homer that's still talked about in Houston.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-albert-pujols-hr-22524682.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Yankees reveal star lefty’s status after undergoing bone spur surgery",
-      "description": "",
-      "url": "https://nypost.com/2026/11/10/sports/max-fried-should-be-ready-for-yankees-spring-training-after-elbow-surgery/",
-      "published": "2026-11-11T04:18:55+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The case for Yordan Alvarez as MVP: Three stats that separate Astros designated hitter from the rest",
-      "description": "Yordan Alvarez led the AL in average, on-base percentage and slugging in 2026. His historic edge over other hitters could bring the Astros star his first MVP.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-al-mvp-22466807.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brian Cashman clears air on legend’s shocking Yankees unwelcome revelation",
-      "description": "",
-      "url": "https://nypost.com/2026/11/10/sports/brian-cashman-clears-air-on-jorge-posada-yankees-relationship/",
-      "published": "2026-11-11T03:54:39+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Dodgers’ Brandon Gomes shares updates on Tarik Skubal, Shoki Oda, Josue De Paula and more",
-      "description": "The Dodgers are going to take a “business as usual” approach to the offseason, but Brandon Gomes touched on a couple of topics.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-10/mlb-gm-meetings-dodgers-brandon-gomes",
-      "published": "2026-11-11T03:32:51.627000+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
     }
   ]
 }
