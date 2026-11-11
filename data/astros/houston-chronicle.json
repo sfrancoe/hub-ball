@@ -2,10 +2,24 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "The Astros have spoken with more than four candidates, and GM Randy Flores says choosing a manager remains the first order of business in Houston.",
+      "published": "2026-11-09T16:00:00+00:00",
+      "title": "Houston Astros' managerial search could wind down in days, with GM Randy Flores 'hopeful'",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-manager-search-randy-flores-22520590.php"
+    },
+    {
+      "category": "Astros",
       "description": "New Seattle Mariners manager Jason Kanzler spent five seasons with the Houston Astros, but he refused to name them in his press conference. Then, the team's GM and multiple reporters followed suit.",
       "published": "2026-11-03T16:00:00+00:00",
       "title": "Houston who? Jason Kanzler, Mariners, reporters avoid naming Astros in manager's press conference",
       "url": "https://www.houstonchronicle.com/sports/astros/article/jason-kanzler-mariners-manager-team-name-22513031.php"
+    },
+    {
+      "category": "Astros",
+      "description": "LAS VEGAS — Adding to the turnover in their front office this offseason, Houston Astros assistant general manager Connor Huff is departing the organization, new general manager Randy Flores said ...",
+      "published": "2026-11-09T16:00:00+00:00",
+      "title": "Houston Astros plan to replace assistant GM Connor Huff, who is leaving for job outside of baseball",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/connor-huff-leaving-assistant-gm-22524277.php"
     },
     {
       "category": "Astros",
@@ -16,17 +30,17 @@
     },
     {
       "category": "Astros",
-      "description": "Albert Pujols, who played with new Houston general manager Randy Flores in St. Louis, will interview for the Astros' managerial spot.",
-      "published": "2026-11-04T13:30:00+00:00",
-      "title": "Houston Astros to interview Albert Pujols for manager's job",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/albert-pujols-houston-interview-22512602.php"
-    },
-    {
-      "category": "Astros",
       "description": "New Astros executive Randy Flores enters the GM meetings with a manager to hire, roster questions to weigh and a possible Dec. 1 lockout looming over baseball.",
       "published": "2026-11-07T13:11:00+00:00",
       "title": "As GM meetings arrive, Astros’ Randy Flores enters high-stakes offseason amid labor uncertainty",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-randy-flores-gm-meetings-22466804.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Albert Pujols, who played with new Houston general manager Randy Flores in St. Louis, will interview for the Astros' managerial spot.",
+      "published": "2026-11-04T13:30:00+00:00",
+      "title": "Houston Astros to interview Albert Pujols for manager's job",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/albert-pujols-houston-interview-22512602.php"
     },
     {
       "category": "Astros",
@@ -48,30 +62,9 @@
       "published": "2026-11-03T12:05:00+00:00",
       "title": "Houston Astros made some notable hires in player development. What they bring to organization",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-player-development-hires-driveline-22509592.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Dusty Baker, who led a record five teams to the playoffs, is among eight former managers or executives on the Contemporary Baseball Era Committee's ballot.",
-      "published": "2026-11-02T08:54:00+00:00",
-      "title": "Former Houston Astros manager Dusty Baker up for Hall of Fame election on Contemporary Era ballot",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/dusty-baker-hall-of-fame-22506485.php"
-    },
-    {
-      "category": "Astros",
-      "description": "A person familiar with the scheduling tells The Associated Press that Albert Pujols will interview to be the next Houston Astros manager. The three-time MVP and two-time World Series champion will ...",
-      "published": "2026-11-04T14:14:00+00:00",
-      "title": "Albert Pujols to interview for Houston Astros manager role, AP source says",
-      "url": "https://www.houstonchronicle.com/sports/article/albert-pujols-to-interview-for-houston-astros-22512895.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Houston Astros have already interviewed a 'few' candidates to replace Joe Espada, but new GM Randy Flores is taking over the process.",
-      "published": "2026-11-02T14:07:00+00:00",
-      "title": "New Houston Astros GM Randy Flores' makes his first priority clear: Hiring a manager",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-manager-search-22506523.php"
     }
   ],
-  "generated_at": "2026-11-11T00:35:40.440560+00:00",
+  "generated_at": "2026-11-11T07:02:32.353827+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

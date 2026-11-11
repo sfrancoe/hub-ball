@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "\"Jorge wants us to be great,\" Cashman said. \"We want us to be great. Unfortunately, we have been good, but we haven't been great.\"",
+      "published": "2026-11-11T02:06:40+00:00",
+      "title": "Yankees' Brian Cashman responds to viral Jorge Posada, Pat Murphy comments",
+      "url": "https://www.nytimes.com/athletic/7772021/2026/11/10/brian-cashman-yankees-jorge-posada-pat-murphy-comments/"
+    },
+    {
+      "category": "Yankees",
+      "description": "Brian Cashman said hitting coach James Rowson's contract has expired, creating a \"fluid\" situation about who might lead the offense.",
+      "published": "2026-11-11T01:31:09+00:00",
+      "title": "Yankees eye change at hitting coach, interviewing candidates as staff takes shape",
+      "url": "https://www.nytimes.com/athletic/7709354/2026/11/10/yankees-hitting-coach-search-james-rowson/"
+    },
+    {
+      "category": "Yankees",
       "description": "“You're going to be a rich f---er,\" Brewers manager Pat Murphy told one of his players.",
       "published": "2026-11-10T10:30:10+00:00",
       "title": "Pat Murphy was embarrassed by his viral gaffe. But it revealed a powerful idea about culture",
@@ -125,23 +139,9 @@
       "published": "2026-10-21T20:45:28+00:00",
       "title": "Hal Steinbrenner says offense most to blame for Yankees' 2026 failure. Changes are coming",
       "url": "https://www.nytimes.com/athletic/7710922/2026/10/21/hal-steinbrenner-yankees-offense-struggles/"
-    },
-    {
-      "category": "Yankees",
-      "description": "\"The players didn't live up live up to their end of the bargain in the playoffs,\" Steinbrenner said.",
-      "published": "2026-10-21T15:07:35+00:00",
-      "title": "Yankees owner Hal Steinbrenner defends Brian Cashman, Aaron Boone after playoff failure",
-      "url": "https://www.nytimes.com/athletic/7708753/2026/10/21/yankees-hal-steinbrenner-defends-cashman-boone/"
-    },
-    {
-      "category": "Yankees",
-      "description": "\"We've agreed on a new contract that we just have to bang out some minor stuff on the back end of it, but we're locked and loaded,\" he said.",
-      "published": "2026-10-21T15:03:16+00:00",
-      "title": "Yankees, GM Brian Cashman agree on new contract: 'We're locked and loaded'",
-      "url": "https://www.nytimes.com/athletic/7677134/2026/10/21/brian-cashman-yankees-new-contract/"
     }
   ],
-  "generated_at": "2026-11-10T12:41:18.793491+00:00",
+  "generated_at": "2026-11-11T07:02:21.381790+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

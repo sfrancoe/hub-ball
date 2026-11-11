@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The fact that the hitting staff is still in limbo is somewhat surprising for a...",
+      "published": "2026-11-11T01:54:17+00:00",
+      "title": "Yankees could make hitting coach change with job, James Rowson still in limbo",
+      "url": "https://www.nydailynews.com/2026/11/10/yankees-hitting-staff-james-rowson/"
+    },
+    {
+      "category": "Yankees",
       "description": "Bob Boone, a World Series-winning baseball lifer and the father of Yankees manager Aaron Boone,...",
       "published": "2026-11-11T00:11:03+00:00",
       "title": "Bob Boone, World Series champion and father of Yankees’ manager, dead at 78",
@@ -132,16 +139,9 @@
       "published": "2026-10-24T14:47:45+00:00",
       "title": "Yankees ‘close’ on new contract with pitching coach Matt Blake: source",
       "url": "https://www.nydailynews.com/2026/10/24/yankees-matt-blake-mlb-pitching-coach-contract/"
-    },
-    {
-      "category": "Yankees",
-      "description": "After years of anticipation, Spencer Jones and George Lombard Jr. debuted with the Yankees this...",
-      "published": "2026-10-24T11:30:17+00:00",
-      "title": "Hal Steinbrenner encouraged by Yankees’ young core, cites the ‘hunger’ they bring",
-      "url": "https://www.nydailynews.com/2026/10/24/hal-steinbrenner-encouraged-yankees-spencer-jones-george-lombard-jr-cam-schlittler-ben-rice/"
     }
   ],
-  "generated_at": "2026-11-11T00:35:28.854421+00:00",
+  "generated_at": "2026-11-11T07:02:15.065797+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

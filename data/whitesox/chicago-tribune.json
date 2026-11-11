@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "Will Venable guided the Chicago White Sox to an 84-78 record — the most wins by a team coming off three straight 100-loss seasons — and their first playoff berth since 2021.",
+      "published": "2026-11-10T18:57:00+00:00",
+      "title": "Will Venable named AL Manager of the Year after leading Chicago White Sox from 102 losses to the playoffs",
+      "url": "https://www.chicagotribune.com/2026/11/10/will-venable-chicago-white-sox-manager-of-year/"
+    },
+    {
+      "category": "White Sox",
       "description": "The Chicago White Sox need starting pitching. Grant Taylor is ready to do his part as he makes the move from the bullpen.",
       "published": "2026-11-10T15:50:00+00:00",
       "title": "GM meetings: Chicago White Sox are moving Grant Taylor into the rotation, saying, ‘The time is now’",
@@ -34,23 +41,9 @@
       "published": "2026-10-29T14:08:00+00:00",
       "title": "Chicago White Sox to hire Matt Roffe from Milwaukee Brewers to fill amateur scouting director role",
       "url": "https://www.chicagotribune.com/2026/10/29/chicago-white-sox-scouting-director-matt-roffe/"
-    },
-    {
-      "category": "White Sox",
-      "description": "The latest Bears stadium idea would put the team in Bridgeport, on the site of the White Sox’s Rate Field. But like some of the proposals before it, this one was drawn up without participation from ...",
-      "published": "2026-10-29T13:56:00+00:00",
-      "title": "Latest Bears stadium plan for White Sox site in Bridgeport draws interest — but no involvement from the team",
-      "url": "https://www.chicagotribune.com/2026/10/29/bridgeport-bears-stadium-plan/"
-    },
-    {
-      "category": "White Sox",
-      "description": "The GM meetings in Las Vegas should be a chance for executives Jed Hoyer and Chris Getz to improve the Chicago Cubs and White Sox.",
-      "published": "2026-11-10T04:01:00+00:00",
-      "title": "Column: Besides a night at Sphere, plenty to do in Las Vegas for Jed Hoyer and Chris Getz",
-      "url": "https://www.chicagotribune.com/2026/11/10/mlb-gm-meetings-jed-hoyer-chris-getz/"
     }
   ],
-  "generated_at": "2026-11-11T00:35:38.441450+00:00",
+  "generated_at": "2026-11-11T07:02:29.573467+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

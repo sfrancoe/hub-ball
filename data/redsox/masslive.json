@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Red Sox manager Chad Tracy finished third in the 2026 American League Manager of the Year voting.",
+      "published": "2026-11-11T01:13:59+00:00",
+      "title": "How Red Sox manager Chad Tracy finished in AL Manager of Year voting",
+      "url": "https://www.masslive.com/redsox/2026/11/how-red-sox-manager-chad-tracy-finished-in-al-manager-of-year-voting.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Do the Red Sox need to consider reconstructing their medical department? Craig Breslow answered.",
+      "published": "2026-11-11T00:52:15+00:00",
+      "title": "Red Sox to take ‘sweeping look’ at medical department",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-to-take-sweeping-look-at-medical-department-communication-with-injuries.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "What questions do you have for Sean McAdam this week?",
       "published": "2026-11-10T12:46:20+00:00",
       "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
@@ -97,16 +111,9 @@
       "published": "2026-11-04T12:40:38+00:00",
       "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
       "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-submit-questions-for-masslives-sean-mcadam.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Six of the 20 players who the Red Sox selected in the 2026 Draft made their professional debuts before the season ended. Here's how they did.",
-      "published": "2026-11-04T11:44:37+00:00",
-      "title": "How Red Sox prospects from 2026 Draft did in their debuts (and other notes)",
-      "url": "https://www.masslive.com/redsox/2026/11/how-red-sox-prospects-from-2026-draft-did-in-their-debuts-and-other-notes.html"
     }
   ],
-  "generated_at": "2026-11-10T20:01:55.392651+00:00",
+  "generated_at": "2026-11-11T07:02:14.918680+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

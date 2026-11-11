@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Red Sox fans never got to know Curtis Mead after he was injured immediately following his arrival at the trade deadline, but his former boss in Washington predicted he’ll quickly become a fan favorite.",
+      "published": "2026-11-11T02:02:08Z",
+      "title": "Former Red Sox executive on Curtis Mead: ‘Boston is going to love him’",
+      "url": "https://www.bostonherald.com/2026/11/10/former-red-sox-executive-on-curtis-mead-boston-is-going-to-love-him/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Despite helping lead one of the most remarkable in-season turnarounds in recent memory, Red Sox manager Chad Tracy fell short in his bid for Manager of the Year honors.",
+      "published": "2026-11-11T00:57:05Z",
+      "title": "Red Sox’s Chad Tracy finishes third in AL Manager of the Year vote",
+      "url": "https://www.bostonherald.com/2026/11/10/red-sox-chad-tracy-manager-of-the-year-mlb-awards/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Will Trevor Story still be the Red Sox’s starting shortstop in 2027? Craig Breslow wouldn’t commit to it when pressed on Monday in Las Vegas.",
       "published": "2026-11-10T19:47:22Z",
       "title": "Craig Breslow open-minded about shortstop job, won’t commit to Trevor Story",
@@ -97,23 +111,9 @@
       "published": "2026-11-03T00:16:10Z",
       "title": "Red Sox designate right-hander for assignment amid flurry of roster moves",
       "url": "https://www.bostonherald.com/2026/11/02/red-sox-designate-right-hander-for-assignment-amid-flurry-of-roster-moves/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox’s three Gold Glove Award wins Sunday night included the first of its kind in over 50 years.",
-      "published": "2026-11-02T02:07:40Z",
-      "title": "Red Sox’s three Gold Glove wins include first by third baseman since 1959",
-      "url": "https://www.bostonherald.com/2026/11/01/red-sox-gold-glove-award-winners-wilyer-abreu-ceddanne-rafaela-caleb-durbin-mlb/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "A key arm in the Red Sox bullpen is officially locked in for next season.",
-      "published": "2026-11-01T19:41:26Z",
-      "title": "Red Sox exercise 2027 option on top reliever Garrett Whitlock",
-      "url": "https://www.bostonherald.com/2026/11/01/red-sox-exercise-2027-option-on-reliever-garrett-whitlock-bullpen-mlb-news-lockout/"
     }
   ],
-  "generated_at": "2026-11-10T20:01:53.853696+00:00",
+  "generated_at": "2026-11-11T07:02:13.442122+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
