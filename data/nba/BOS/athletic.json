@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "On Tuesday, the Sixers, for one of the first times all season, looked like an all-star team that got thrown together.",
+        "published": "2026-11-11T10:30:40+00:00",
+        "title": "Jaylen Brown vs. Jayson Tatum showed gap between 76ers, Celtics: 'We have to get better'",
+        "url": "https://www.nytimes.com/athletic/7772613/2026/11/11/jaylen-brown-jayson-tatum-celtics-76ers/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "George flew under the radar while Jaylen Brown and Jayson Tatum dominated the headlines.",
         "published": "2026-11-11T03:27:17+00:00",
         "title": "Paul George steals the show in Jaylen Brown’s first game against Celtics",
@@ -105,16 +112,9 @@
         "published": "2026-10-26T15:02:25+00:00",
         "title": "NBA Power Rankings: Lakers leap into contenders tier; Knicks, Heat take a dive",
         "url": "https://www.nytimes.com/athletic/7726421/2026/10/26/nba-power-rankings-knicks-lakers-heat-timberwolves/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics coach tried to turn the page on the former teammates' recent back-and-forth in the media.",
-        "published": "2026-10-25T18:58:52+00:00",
-        "title": "Joe Mazzulla on recent tension between Jaylen Brown, Jayson Tatum: 'Nobody is perfect'",
-        "url": "https://www.nytimes.com/athletic/7723798/2026/10/25/joe-mazzulla-jayson-tatum-jaylen-brown-celtics-tension/"
       }
     ],
-    "generated_at": "2026-11-11T05:51:13.842093+00:00",
+    "generated_at": "2026-11-11T10:32:43.144421+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
