@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "In the wildly anticipated first battle between Jayson Tatum and Jaylen Brown, Paul George upstaged them both as the Celtics rolled to a 123-101 win.",
+        "published": "2026-11-11T03:30:51Z",
+        "title": "Paul George, Jayson Tatum outplay Jaylen Brown as Celtics wreck 76ers",
+        "url": "https://www.bostonherald.com/2026/11/10/paul-george-jayson-tatum-outplay-jaylen-brown-as-celtics-wreck-76ers/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "A former Celtics player and assistant said a reported confrontation between Jaylen Brown and Jayson Tatum “didn’t happen.”",
         "published": "2026-11-11T00:17:55Z",
         "title": "Former Celtic disputes new Jaylen Brown-Jayson Tatum report",
@@ -105,16 +112,9 @@
         "published": "2026-11-03T21:44:03Z",
         "title": "Jayson Tatum, Celtics guard could miss Bucks matchup",
         "url": "https://www.bostonherald.com/2026/11/03/jayson-tatum-celtics-guard-could-miss-bucks-matchup/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "For the first time, the Celtics found themselves on the other side of The Marcus Smart Experience.",
-        "published": "2026-11-03T16:44:27Z",
-        "title": "‘That’s what I do’: Marcus Smart plays heel vs. former team to help Rockets beat Celtics",
-        "url": "https://www.bostonherald.com/2026/11/03/thats-what-i-do-marcus-smart-plays-heel-vs-former-team-to-help-rockets-beat-celtics/"
       }
     ],
-    "generated_at": "2026-11-11T00:19:04.302577+00:00",
+    "generated_at": "2026-11-11T03:40:19.758595+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
