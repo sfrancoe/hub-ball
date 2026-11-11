@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "ON BASEBALL",
+      "description": "After their abbreviated runs in 2026, the two deadline acquisitions could be considered Boston's big swings entering next season, too.",
+      "published": "2026-11-11T08:00:00Z",
+      "title": "Adley Rutschman and Curtis Mead might be the Red Sox’ big pickups ... for 2027",
+      "url": "https://www.bostonglobe.com/2026/11/11/sports/red-sox-adley-rustchman-curtis-mead/"
+    },
+    {
       "category": "Baseball",
       "description": "Murphy is the first manager from either league to win the award three years in a row.",
       "published": "2026-11-11T02:30:45.191Z",
@@ -11,14 +18,14 @@
       "category": "RED SOX NOTEBOOK",
       "description": "The chief baseball officer suggested, for one, that with young controllable players at several positions, the Sox have time to restock.",
       "published": "2026-11-11T02:19:16.32Z",
-      "title": "System thinned by last season’s big trade swings could be limit on Craig Breslow, Red Sox this winter",
+      "title": "Red Sox system thinned by big trade swings could limit Craig Breslow this winter",
       "url": "https://www.bostonglobe.com/2026/11/10/sports/red-sox-craig-breslow-roster-moves/"
     },
     {
       "category": "MLB",
       "description": "The 25-year-old righthander would be the first Cy Young winner from Massachusetts since first-ballot Hall of Famer Tom Glavine of Billerica in 1998.",
       "published": "2026-11-10T13:59:15.707Z",
-      "title": "From Walpole to Northeastern to a likely Cy Young Award with the Yankees, Cam Schlittler keeps getting better and better",
+      "title": "From Walpole to Northeastern to a likely Cy Young winner, Yankees’ Cam Schlittler keeps getting better",
       "url": "https://www.bostonglobe.com/2026/11/10/sports/cam-schlittler-yankees-cy-young-northeastern/"
     },
     {
@@ -104,16 +111,9 @@
       "published": "2026-11-03T21:01:01.868Z",
       "title": "Red Sox trade lefthanded pitcher Eduardo Rivera to Chaim Bloom’s Cardinals",
       "url": "https://www.bostonglobe.com/2026/11/03/sports/eduardo-rivera-red-sox-cardinals/"
-    },
-    {
-      "category": "MLB",
-      "description": "The delay is not expected to change the players’ resistance to a cap.",
-      "published": "2026-11-03T20:48:24.615Z",
-      "title": "Major League Baseball proposes delaying salary cap and floor for one year to the start of the 2028 season",
-      "url": "https://www.bostonglobe.com/2026/11/03/sports/mlb-labor-salary-cap-floor/"
     }
   ],
-  "generated_at": "2026-11-11T07:02:13.050328+00:00",
+  "generated_at": "2026-11-11T15:04:50.787538+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

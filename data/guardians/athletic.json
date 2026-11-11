@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "Why was Cleveland Guardians president Chris Antonetti nine minutes late to the American League front office media availability session at the annual general manager meetings at the Aria Resort & ...",
+      "published": "2026-11-11T03:00:00+00:00",
+      "title": "What I’m hearing on Guardians’ payroll, pursuits and coaching changes at GM meetings",
+      "url": "https://www.nytimes.com/athletic/7772238/2026/11/11/guardians-payroll-increase-starting-pitching-chris-antonetti/"
+    },
+    {
+      "category": "Guardians",
       "description": "The year of Parker Messick isn't over yet. He has some awards to win and some vows to read. \"It's been a fun ride this year,\" he says.",
       "published": "2026-11-09T03:00:00+00:00",
       "title": "A whirlwind week for Guardians’ Parker Messick with ROY, Cy Young results and his wedding",
@@ -43,7 +50,7 @@
       "url": "https://www.nytimes.com/2026/11/02/nyregion/cleveland-guardians-gambling-trial.html"
     }
   ],
-  "generated_at": "2026-11-11T07:02:30.162528+00:00",
+  "generated_at": "2026-11-11T15:05:05.622121+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

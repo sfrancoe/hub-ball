@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "White Sox",
-      "description": "Will Venable guided the Chicago White Sox to an 84-78 record — the most wins by a team coming off three straight 100-loss seasons — and their first playoff berth since 2021.",
-      "published": "2026-11-10T18:57:00+00:00",
-      "title": "Will Venable named AL Manager of the Year after leading Chicago White Sox from 102 losses to the playoffs",
-      "url": "https://www.chicagotribune.com/2026/11/10/will-venable-chicago-white-sox-manager-of-year/"
-    },
-    {
-      "category": "White Sox",
       "description": "The Chicago White Sox need starting pitching. Grant Taylor is ready to do his part as he makes the move from the bullpen.",
       "published": "2026-11-10T15:50:00+00:00",
       "title": "GM meetings: Chicago White Sox are moving Grant Taylor into the rotation, saying, ‘The time is now’",
       "url": "https://www.chicagotribune.com/2026/11/10/chicago-white-sox-gm-meetings-grant-taylor/"
+    },
+    {
+      "category": "White Sox",
+      "description": "Will Venable guided the Chicago White Sox to an 84-78 record — the most wins by a team coming off three straight 100-loss seasons — and their first playoff berth since 2021.",
+      "published": "2026-11-10T18:57:00+00:00",
+      "title": "Will Venable named AL Manager of the Year after leading Chicago White Sox from 102 losses to the playoffs",
+      "url": "https://www.chicagotribune.com/2026/11/10/will-venable-chicago-white-sox-manager-of-year/"
     },
     {
       "category": "White Sox",
@@ -43,7 +43,7 @@
       "url": "https://www.chicagotribune.com/2026/10/29/chicago-white-sox-scouting-director-matt-roffe/"
     }
   ],
-  "generated_at": "2026-11-11T07:02:29.573467+00:00",
+  "generated_at": "2026-11-11T15:05:04.834357+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

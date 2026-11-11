@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Kristian Campbell hasn’t appeared in a big league game since June 2025, but Craig Breslow said he believes the former top Red Sox prospect still has a “world of potential.”",
+      "published": "2026-11-11T10:30:32Z",
+      "title": "Red Sox boss believes former top prospect still has ‘world of potential’",
+      "url": "https://www.bostonherald.com/2026/11/11/red-sox-boss-believes-former-top-prospect-still-has-world-of-potential/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Red Sox fans never got to know Curtis Mead after he was injured immediately following his arrival at the trade deadline, but his former boss in Washington predicted he’ll quickly become a fan favorite.",
       "published": "2026-11-11T02:02:08Z",
       "title": "Former Red Sox executive on Curtis Mead: ‘Boston is going to love him’",
@@ -104,16 +111,9 @@
       "published": "2026-11-03T00:45:13Z",
       "title": "Red Sox left-hander, manager named finalists for major year-end awards",
       "url": "https://www.bostonherald.com/2026/11/02/red-sox-left-hander-manager-named-finalists-for-major-year-end-awards/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox made a flurry of moves on Monday, most notably designating a veteran right-handed reliever for assignment.",
-      "published": "2026-11-03T00:16:10Z",
-      "title": "Red Sox designate right-hander for assignment amid flurry of roster moves",
-      "url": "https://www.bostonherald.com/2026/11/02/red-sox-designate-right-hander-for-assignment-amid-flurry-of-roster-moves/"
     }
   ],
-  "generated_at": "2026-11-11T07:02:13.442122+00:00",
+  "generated_at": "2026-11-11T15:04:51.410993+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

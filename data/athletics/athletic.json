@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Athletics",
+      "description": "Plus, the Rays' interest in keeping Drew Rasmussen, the Marlins' next experiment, the Pirates' search for lefties and more news and notes.",
+      "published": "2026-11-11T02:03:00+00:00",
+      "title": "The A’s, with a big move to Las Vegas looming, look to be aggressive",
+      "url": "https://www.nytimes.com/athletic/7772319/2026/11/11/mlb-gm-meetings-athletics-rays-drew-rasmussen/"
+    },
+    {
+      "category": "Athletics",
       "description": "Cam Castro heads to the Athletics after rising quickly through the ranks of the Brewers organization. Ethan Miller / Getty Images The Athletics are hiring Cam Castro from the World Series champion ...",
       "published": "2026-11-04T08:42:00+00:00",
       "title": "Athletics hiring Brewers’ Cam Castro as general manager: Sources",
@@ -15,7 +22,7 @@
       "url": "https://www.nytimes.com/athletic/7736443/2026/10/29/nate-eaton-red-sox-athletics-trade/"
     }
   ],
-  "generated_at": "2026-11-10T04:13:07.410034+00:00",
+  "generated_at": "2026-11-11T15:05:08.772120+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/athletics/"
 }

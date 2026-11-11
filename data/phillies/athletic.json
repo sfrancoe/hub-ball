@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "The Phillies have expressed interest in the top outfield targets — Teruaki Sato, Seiya Suzuki and Randy Arozarena — according to sources.",
+      "published": "2026-11-11T03:02:00+00:00",
+      "title": "What I’m hearing about the Phillies’ early offseason activity and targets",
+      "url": "https://www.nytimes.com/athletic/7772134/2026/11/11/phillies-trade-free-agent-targets/"
+    },
+    {
+      "category": "Phillies",
       "description": "Only one man knows the direction the Phillies will take, and Dave Dombrowski probably can't see the whole road at this point.",
       "published": "2026-11-04T03:24:00+00:00",
       "title": "What I think about the Phillies as they embark on a challenging offseason",
@@ -36,7 +43,7 @@
       "url": "https://www.nytimes.com/athletic/7739593/2026/10/30/phillies-peter-fatse-hitting-coach-introduction/"
     }
   ],
-  "generated_at": "2026-11-11T07:02:35.214479+00:00",
+  "generated_at": "2026-11-11T15:05:10.903217+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/phillies/"
 }

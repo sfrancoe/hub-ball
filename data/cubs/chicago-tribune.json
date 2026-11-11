@@ -9,6 +9,13 @@
     },
     {
       "category": "Cubs",
+      "description": "The Chicago Cubs promoted Ben Martin to be their farm director to replace Jason Kanzler, who took over as Seattle Mariners manager.",
+      "published": "2026-11-11T04:00:00+00:00",
+      "title": "Chicago Cubs promote Ben Martin to farm director: ‘I don’t think we’re going to miss a beat’",
+      "url": "https://www.chicagotribune.com/2026/11/11/chicago-cubs-ben-martin-farm-director/"
+    },
+    {
+      "category": "Cubs",
       "description": "Here’s a look back at what happened in the Chicago area on Nov. 7, according to the Tribune’s archives. Is an important event missing from this date? Email us. Flashback: Nov. 7, 2006 On Nov. 7, 2006, ...",
       "published": "2026-11-07T02:00:00+00:00",
       "title": "Today in Chicago History: Cubs reliever Bruce Sutter named National League’s Cy Young Award winner",
@@ -27,13 +34,6 @@
       "published": "2026-11-02T04:00:00+00:00",
       "title": "‘Everyone can die happy’: 10 years later, Chicago Cubs’ 2016 World Series title still resonates",
       "url": "https://www.chicagotribune.com/2026/11/02/chicago-cubs-world-series-anniversary/"
-    },
-    {
-      "category": "Cubs",
-      "description": "The GM meetings in Las Vegas should be a chance for executives Jed Hoyer and Chris Getz to improve the Chicago Cubs and White Sox.",
-      "published": "2026-11-10T04:01:00+00:00",
-      "title": "Column: Besides a night at Sphere, plenty to do in Las Vegas for Jed Hoyer and Chris Getz",
-      "url": "https://www.chicagotribune.com/2026/11/10/mlb-gm-meetings-jed-hoyer-chris-getz/"
     },
     {
       "category": "Cubs",
@@ -58,13 +58,20 @@
     },
     {
       "category": "Cubs",
+      "description": "The GM meetings in Las Vegas should be a chance for executives Jed Hoyer and Chris Getz to improve the Chicago Cubs and White Sox.",
+      "published": "2026-11-10T04:01:00+00:00",
+      "title": "Column: Besides a night at Sphere, plenty to do in Las Vegas for Jed Hoyer and Chris Getz",
+      "url": "https://www.chicagotribune.com/2026/11/10/mlb-gm-meetings-jed-hoyer-chris-getz/"
+    },
+    {
+      "category": "Cubs",
       "description": "The Chicago Cubs added to their pitching depth Monday by claiming right-hander Eric Orze, an Elk Grove native and Glenbard North graduate, off waivers from the Minnesota Twins.",
       "published": "2026-11-02T15:02:00+00:00",
       "title": "Chicago Cubs begin the offseason by extending a qualifying offer to right fielder Seiya Suzuki",
       "url": "https://www.chicagotribune.com/2026/11/02/chicago-cubs-seiya-suzuki-qualifying-offer/"
     }
   ],
-  "generated_at": "2026-11-11T07:02:35.810577+00:00",
+  "generated_at": "2026-11-11T15:05:11.567817+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }
