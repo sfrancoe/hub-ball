@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Paul George did not hold back with the Sixers crowd after a dominant performance on Tuesday night.",
+        "published": "2026-11-11T04:08:57+00:00",
+        "title": "Paul George shares blunt gesture with 76ers fans amid Celtics rout",
+        "url": "https://www.masslive.com/celtics/2026/11/paul-george-shares-blunt-gesture-with-76ers-fans-amid-celtics-rout.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Paul George stole the show on Tuesday night as the Celtics ran away with the win in their first matchup against Jaylen Brown and the 76ers this season.",
         "published": "2026-11-11T03:26:49+00:00",
         "title": "4 takeaways as Celtics beat 76ers as new trade addition erupts against former team",
@@ -105,16 +112,9 @@
         "published": "2026-11-08T10:00:00+00:00",
         "title": "Some Things I Think I Think: Red Sox’ needs are obvious as offseason gets underway",
         "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-needs-are-obvious-as-offseason-gets-underway.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Payton Pritchard said he couldn't see out of his right eye due to an abrasion, but it cleared up by Friday's game against the Hornets.",
-        "published": "2026-11-07T10:00:00+00:00",
-        "title": "Couldn’t see out an eye, wanting the NBA Cup, strategic rest (Celtics Notebook)",
-        "url": "https://www.masslive.com/celtics/2026/11/couldnt-see-out-an-eye-wanting-the-nba-cup-strategic-rest-celtics-notebook.html"
       }
     ],
-    "generated_at": "2026-11-11T03:30:15.460476+00:00",
+    "generated_at": "2026-11-11T04:20:38.682187+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
