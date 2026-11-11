@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-11T11:33:51.683122+00:00",
+  "generated_at": "2026-11-11T13:34:14.646849+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450835151142983",
   "team_id": "29",
   "sport": "nba",
-  "likes_as_of": "2026-11-11T11:33:51.683122+00:00",
+  "likes_as_of": "2026-11-11T13:34:14.646849+00:00",
   "recent": [
+    {
+      "id": "2120509165978210732",
+      "text": "The Daily Grind Ep. 675 || GAME DAY Denver Nuggets @ Memphis Grizzlies || Nov. 10, 2026 https://t.co/ar3IlKcFkw",
+      "url": "https://x.com/bcmGrizzlies/status/2120509165978210732",
+      "published": "2026-11-11T13:29:16+00:00",
+      "likes": 1,
+      "author": "Bluff City Media",
+      "handle": "bcmGrizzlies",
+      "avatar": "https://pbs.twimg.com/profile_images/1633692801463459840/bPTc_4Tw_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2119987917368303878",
       "text": "The Grizzlies got back to a lot of the things that were working when they started 6-0. Final: Grizzlies 118, Raptors 102 Memphis is now 5-0 on the road. Best start in franchise history. https://t.co/gLu2wK2vCD",
@@ -314,21 +328,22 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2118203849756627041",
-      "text": "RT @JoeMullinax: It's a new Locked on Grizzlies! - Memphis loses to the Pacers, Grizzlies inexperience costs them in big moments. - Is the…",
-      "url": "https://x.com/DamichaelC/status/2118203849756627041",
-      "published": "2026-11-05T04:48:46+00:00",
-      "likes": 0,
-      "author": "Damichael Cole",
-      "handle": "DamichaelC",
-      "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
+      "id": "2120509165978210732",
+      "text": "The Daily Grind Ep. 675 || GAME DAY Denver Nuggets @ Memphis Grizzlies || Nov. 10, 2026 https://t.co/ar3IlKcFkw",
+      "url": "https://x.com/bcmGrizzlies/status/2120509165978210732",
+      "published": "2026-11-11T13:29:16+00:00",
+      "likes": 1,
+      "author": "Bluff City Media",
+      "handle": "bcmGrizzlies",
+      "avatar": "https://pbs.twimg.com/profile_images/1633692801463459840/bPTc_4Tw_normal.jpg",
       "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
