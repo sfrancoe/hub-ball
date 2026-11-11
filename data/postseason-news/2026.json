@@ -1,13 +1,61 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-10T19:51:04.684208+00:00",
+  "generatedAt": "2026-11-11T00:42:15.065193+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 7,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Will Venable named AL Manager of the Year after leading Chicago White Sox from 102 losses to the playoffs",
+      "description": "Will Venable guided the Chicago White Sox to an 84-78 record — the most wins by a team coming off three straight 100-loss seasons — and their first playoff berth since 2021.",
+      "url": "https://www.chicagotribune.com/2026/11/10/will-venable-chicago-white-sox-manager-of-year/",
+      "published": "2026-11-11T00:25:31+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "From Walpole to Northeastern to a likely Cy Young Award with the Yankees, Cam Schlittler keeps getting better and better",
+      "description": "The 25-year-old righthander would be the first Cy Young winner from Massachusetts since first-ballot Hall of Famer Tom Glavine of Billerica in 1998.",
+      "url": "https://www.bostonglobe.com/2026/11/10/sports/cam-schlittler-yankees-cy-young-northeastern/",
+      "published": "2026-11-11T00:25:06.252000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "GM meetings: Chicago White Sox are moving Grant Taylor into the rotation, saying, ‘The time is now’",
+      "description": "The Chicago White Sox need starting pitching. Grant Taylor is ready to do his part as he makes the move from the bullpen.",
+      "url": "https://www.chicagotribune.com/2026/11/10/chicago-white-sox-gm-meetings-grant-taylor/",
+      "published": "2026-11-10T23:50:59+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Dodgers hire former Marlins coach Pedro Guerrero as new hitting instructor",
+      "description": "The Dodgers hire Pedro Guerrero, who spent two seasons as the Miami Marlins hitting coach, before the team decided not to retain him for the 2027 season.",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-10/dodgers-hire-marlins-coach-pedro-guerrero-hitting-instructor",
+      "published": "2026-11-10T22:49:39.203000+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "What could push Yankees to speed up their offseason as major questions linger",
       "description": "",
@@ -17,6 +65,18 @@
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Rays’ Baker, Caminero had great seasons. Awards would be further proof",
+      "description": "With the new top reliever award, it’s hard to guess how Bryan Baker’s season will be judged. Junior Caminero’s biggest challenge are the numbers Yordan Alvarez posted.",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/10/junior-caminero-al-mvp-bryan-baker-reliever-of-year-maxuel-rosario-dominican-republic/",
+      "published": "2026-11-10T19:48:47.293000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
     },
@@ -33,18 +93,6 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Bob Boone, World Series champion and part of 3-generation baseball family, dies at 78",
-      "description": "Boone won seven Gold Gloves and was the catcher on the Phillies’ first World Series championship team in 1980.",
-      "url": "https://www.bostonglobe.com/2026/11/10/sports/bob-boone-catcher-dies-78/",
-      "published": "2026-11-10T19:33:11.716000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
       "title": "Dana Brown and Perry Minasian return to Braves in scouting roles",
       "description": "Dana Brown and Perry Minasian have been hired as senior advisers in amateur scouting to work alongside Braves president of baseball operations Alex Anthopoulos.",
       "url": "https://www.ajc.com/sports/2026/11/braves-rehire-dana-brown-perry-minasian/",
@@ -54,18 +102,6 @@
       "teamName": "Atlanta Braves",
       "teamAbbreviation": "ATL",
       "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "From Walpole to Northeastern to a likely Cy Young Award with the Yankees, Cam Schlittler keeps getting better and better",
-      "description": "The 25-year-old righthander would be the first Cy Young winner from Massachusetts since first-ballot Hall of Famer Tom Glavine of Billerica in 1998.",
-      "url": "https://www.bostonglobe.com/2026/11/10/sports/cam-schlittler-yankees-cy-young-northeastern/",
-      "published": "2026-11-10T15:57:12.315000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
       "publishedSource": "publisher"
     },
     {
@@ -115,102 +151,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Column: Besides a night at Sphere, plenty to do in Las Vegas for Jed Hoyer and Chris Getz",
-      "description": "The GM meetings in Las Vegas should be a chance for executives Jed Hoyer and Chris Getz to improve the Chicago Cubs and White Sox.",
-      "url": "https://www.chicagotribune.com/2026/11/10/mlb-gm-meetings-jed-hoyer-chris-getz/",
-      "published": "2026-11-10T12:00:35+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox aren't targeting a specific position this offseason — they're hunting for the best talent available, wherever it plays",
-      "description": "The Red Sox enter the offseason without a specific positional need, instead planning to pursue any offensive upgrade that fits their roster's flexible, versatile infield.",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-say-theyre-opportunistic-instead-of-having-wish-list-entering-winter-what-does-that-mean-sean-mcadam.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Four Dodgers-related story lines to follow at the GM Meetings in Las Vegas",
-      "description": "GM meetings are generally the precursor to the more widely-attended winter meetings in December, but this year's winter meetings are expected to be canceled in the face of a lockout.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-10/four-dodgers-related-storylines-mlb-gm-meetings",
-      "published": "2026-11-10T11:00:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "What Craig Breslow said about Red Sox plans as the GM Meetings opened | Fenway Rundown (podcast)",
-      "description": "Wondering what Craig Breslow said in his first press conference of the offseason Tuesday? Check out the latest Fenway Rundown podcast.",
-      "url": "https://www.masslive.com/redsox/2026/11/what-craig-breslow-said-about-red-sox-plans-as-the-gm-meetings-opened-fenway-rundown-podcast.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Red Sox noncommittal to Trevor Story at shortstop, looking for 'opportunistic' offseason",
-      "description": "Craig Breslow said the club still has \"a ton of confidence\" in Story, but it's \"always evaluating these things.\"",
-      "url": "https://www.nytimes.com/athletic/7769351/2026/11/10/red-sox-trevor-story-shortstop-offseason-free-agents/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Pat Murphy was embarrassed by his viral gaffe. But it revealed a powerful idea about culture",
-      "description": "“You're going to be a rich f---er,\" Brewers manager Pat Murphy told one of his players.",
-      "url": "https://www.nytimes.com/athletic/7768638/2026/11/10/pat-murphy-brewers-viral-yankees-culture/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "How the Brewers, and Milwaukee, pulled off World Series parade, party",
-      "description": "The World Series parade and celebration for the Brewers took planning--including a myriad of tasks between winning the title and a party for 750,000.",
-      "url": "https://www.jsonline.com/story/money/business/2026/11/10/how-the-brewers-and-milwaukee-pulled-off-a-series-party-for-the-ages/92692819007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Bob Boone, sturdy catcher who linked generations of All-Stars, dies at 78",
-      "description": "Bob Boone, one of history’s most durable catchers and the middle link in a three-generation chain of major league All-Stars, has died. Boone, a seven-time Gold Glove winner who later worked as a ...",
-      "url": "https://www.nytimes.com/athletic/7504309/2026/11/10/bob-boone-dead-phillies/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
