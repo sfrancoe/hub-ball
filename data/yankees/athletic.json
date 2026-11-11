@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Rowson is set to replace Hunter Mense, who departed to take a lesser role with the Kansas City Royals as an assistant hitting coach.",
+      "published": "2026-11-11T17:04:33+00:00",
+      "title": "Yankees expect James Rowson to leave for Giants' hitting coach job: Source",
+      "url": "https://www.nytimes.com/athletic/7773594/2026/11/11/james-rowson-yankees-giants-hitting-coach-job/"
+    },
+    {
+      "category": "Yankees",
       "description": "Guidry, who won the Cy Young in 1978, sees parallels between himself at his peak and Schlittler, and he's eager to connect next spring.",
       "published": "2026-11-11T11:03:32+00:00",
       "title": "Can Cam Schlittler repeat his Cy Young brilliance? Ron Guidry believes he can",
@@ -132,16 +139,9 @@
       "published": "2026-10-23T05:24:08+00:00",
       "title": "Yankees World Series MVP Hideki Matsui named manager of NPB's Yomiuri Giants",
       "url": "https://www.nytimes.com/athletic/7716227/2026/10/23/yankees-hideki-matsui-world-series-mvp-manage-yomiuri-giants/"
-    },
-    {
-      "category": "Yankees",
-      "description": "With his team trending in the wrong direction, Steinbrenner isn't changing the GM, the manager or his style of leadership.",
-      "published": "2026-10-22T10:00:36+00:00",
-      "title": "Yankees owner Hal Steinbrenner wants change. He needs to look in the mirror",
-      "url": "https://www.nytimes.com/athletic/7712217/2026/10/22/yankees-hal-steinbrenner-aaron-boone-brian-cashman-change/"
     }
   ],
-  "generated_at": "2026-11-11T15:04:56.213610+00:00",
+  "generated_at": "2026-11-11T21:51:36.163862+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

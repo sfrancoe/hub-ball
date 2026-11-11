@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Veteran left-handers Alex Vesia and Tim Hill are among the relievers the Mets could pursue this offseason.",
+      "published": "2026-11-11T18:41:57+00:00",
+      "title": "Mets interested in top free agents in their search for bullpen help: Sources",
+      "url": "https://www.nytimes.com/athletic/7773911/2026/11/11/mets-mlb-free-agency-bullpen-help/"
+    },
+    {
+      "category": "Mets",
       "description": "Skubal isn't just the best option to fit a need at the top of the Mets rotation. He is the only one.",
       "published": "2026-11-11T11:00:10+00:00",
       "title": "Why the Mets' offseason hinges on landing Tarik Skubal",
@@ -132,16 +139,9 @@
       "published": "2026-09-29T13:00:18+00:00",
       "title": "Mets top prospect Jefferson Rojas is nearing the majors. A lockout could get in the way",
       "url": "https://www.nytimes.com/athletic/7642048/2026/09/29/mets-prospect-jefferson-rojas-rule-5-dilemma/"
-    },
-    {
-      "category": "Mets",
-      "description": "Whether to go after Skubal could be the toughest baseball decision for the Mets under Steve Cohen’s ownership.",
-      "published": "2026-09-29T00:12:14+00:00",
-      "title": "Tarik Skubal seems like a great target for the Mets. Here's what makes it a trickier call",
-      "url": "https://www.nytimes.com/athletic/7641259/2026/09/28/mets-tarik-skubal-free-agency-interest/"
     }
   ],
-  "generated_at": "2026-11-11T15:05:01.839315+00:00",
+  "generated_at": "2026-11-11T21:51:41.021694+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

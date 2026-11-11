@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "The filing is intended to rebut Clase’s defense that he had no financial motivation to engage in an alleged pitch-rigging scheme.",
+      "published": "2026-11-11T09:26:00+00:00",
+      "title": "Indicted pitcher Emmanuel Clase owed nearly $700K in unpaid taxes, government says",
+      "url": "https://www.nytimes.com/athletic/7773582/2026/11/11/emmanuel-clase-guardians-trial-unpaid-taxes/"
+    },
+    {
+      "category": "Guardians",
       "description": "Why was Cleveland Guardians president Chris Antonetti nine minutes late to the American League front office media availability session at the annual general manager meetings at the Aria Resort & ...",
       "published": "2026-11-11T03:00:00+00:00",
       "title": "What I’m hearing on Guardians’ payroll, pursuits and coaching changes at GM meetings",
@@ -41,16 +48,9 @@
       "published": "2026-11-05T17:55:00+00:00",
       "title": "Pitches within scope of Guardians’ scouting report, catcher testifies in pitch-rigging trial",
       "url": "https://www.nytimes.com/athletic/7757630/2026/11/05/guardians-pitch-rigging-trial-testify-bo-naylor/"
-    },
-    {
-      "category": "Guardians",
-      "description": "The trial will mark one of the first tests of the Justice Department’s ambitious efforts to crack down on manipulation in sports betting and prediction markets.",
-      "published": "2026-11-02T10:51:00+00:00",
-      "title": "Trial Begins for M.L.B. Players Accused of Tipping Pitches to Gamblers",
-      "url": "https://www.nytimes.com/2026/11/02/nyregion/cleveland-guardians-gambling-trial.html"
     }
   ],
-  "generated_at": "2026-11-11T15:05:05.622121+00:00",
+  "generated_at": "2026-11-11T21:51:44.500700+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

@@ -2,13 +2,20 @@
   "articles": [
     {
       "category": "Nationals",
+      "description": "LAS VEGAS — Jacob Young agreed to terms on a long-term contract with the Washington Nationals, president of baseball operations Paul Toboni announced Wednesday. It’s a four-year deal through the 2030 ...",
+      "published": "2026-11-11T13:02:00+00:00",
+      "title": "Nationals agree to terms with Jacob Young on a deal through 2030 with a '31 club option",
+      "url": "https://www.washingtonpost.com/sports/mlb/2026/11/11/jacob-young-nationals-contract/24d22194-de13-11f1-912c-4fbb80d73f7f_story.html"
+    },
+    {
+      "category": "Nationals",
       "description": "A U.S. deportation flight of at least eight Iranian nationals who were eventually bound for Iran has been abruptly canceled ...",
       "published": "2026-11-08T15:39:00+00:00",
       "title": "Deportation flight of Iranians from US scuttled at last minute, attorney says",
       "url": "https://www.washingtonpost.com/politics/2026/11/08/ice-iran-war-iranians-deported-judge-lawsuit/ecb634aa-dbcc-11f1-912c-4fbb80d73f7f_story.html"
     }
   ],
-  "generated_at": "2026-11-09T03:42:55.716100+00:00",
+  "generated_at": "2026-11-11T21:51:50.467022+00:00",
   "source": "Washington Post",
   "source_url": "https://www.washingtonpost.com/sports/nationals/"
 }

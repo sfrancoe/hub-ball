@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "What were the takeaways from Tuesday at the GM Meetings? We discussed on the latest Fenway Rundown podcast.",
+      "published": "2026-11-11T16:38:07+00:00",
+      "title": "Red Sox takeaways from Day 2 of the GM Meetings | The Fenway Rundown",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-takeaways-from-day-2-of-the-gm-meetings-the-fenway-rundown.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Red Sox view Curtis Mead as a key part of their future. The executive who traded him to Boston believes he could be a star.",
+      "published": "2026-11-11T16:30:33+00:00",
+      "title": "Why Curtis Mead could be Red Sox' X-factor in 2027",
+      "url": "https://www.masslive.com/redsox/2026/11/could-curtis-mead-be-red-sox-x-factor-in-27-the-changes-he-made-were-real-says-exec-who-traded-him.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "There's still time to get your questions in! Drop them in the comments or send them to fenwayinsider@masslive.com",
       "published": "2026-11-11T15:00:00+00:00",
       "title": "Fenway Insider Live: Sean McAdam on latest from GM Meetings, more",
@@ -97,23 +111,9 @@
       "published": "2026-11-08T10:00:00+00:00",
       "title": "Some Things I Think I Think: Red Sox’ needs are obvious as offseason gets underway",
       "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-needs-are-obvious-as-offseason-gets-underway.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Red Sox GM Craig Breslow heads into the GM Meetings navigating roster decisions amid significant uncertainty surrounding upcoming CBA negotiations and a looming lockout.",
-      "published": "2026-11-06T10:00:00+00:00",
-      "title": "State of the Sox: Red Sox' Breslow heads to GM meetings amid CBA uncertainty",
-      "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-upcoming-gm-meetings-full-of-uncertainty.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox have two American League Silver Slugger finalists.",
-      "published": "2026-11-05T17:36:48+00:00",
-      "title": "Red Sox have two 2026 AL Silver Slugger finalists",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-have-two-2026-al-silver-slugger-finalists.html"
     }
   ],
-  "generated_at": "2026-11-11T15:04:52.602670+00:00",
+  "generated_at": "2026-11-11T21:51:31.765611+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
