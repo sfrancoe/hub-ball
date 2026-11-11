@@ -3,6 +3,20 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Paul George stole the show on Tuesday night as the Celtics ran away with the win in their first matchup against Jaylen Brown and the 76ers this season.",
+        "published": "2026-11-11T03:26:49+00:00",
+        "title": "4 takeaways as Celtics beat 76ers as new trade addition erupts against former team",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-76ers-as-new-trade-addition-erupts-against-former-team.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "While all eyes were on Jaylen Brown and Jayson Tatum, it was Paul George's show Tuesday in Philadelphia.",
+        "published": "2026-11-11T03:23:58+00:00",
+        "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in revenge win over 76ers",
+        "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-celtics-name-to-know-player-of-the-game-in-revenge-win-over-76ers.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics made some funny music choices during shootaround on the morning of Jayson Tatum vs. Jaylen Brown.",
         "published": "2026-11-10T17:49:02+00:00",
         "title": "Payton Pritchard addresses Tatum-Brown feud without being asked",
@@ -98,23 +112,9 @@
         "published": "2026-11-07T10:00:00+00:00",
         "title": "Couldn’t see out an eye, wanting the NBA Cup, strategic rest (Celtics Notebook)",
         "url": "https://www.masslive.com/celtics/2026/11/couldnt-see-out-an-eye-wanting-the-nba-cup-strategic-rest-celtics-notebook.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics didn't blow a lead Friday as they dominated the Hornets right from tipoff with Jayson Tatum leading the way.",
-        "published": "2026-11-07T03:14:40+00:00",
-        "title": "NBA Cup leads to wonky scores: What we learned from Celtics’ win over Hornets",
-        "url": "https://www.masslive.com/celtics/2026/11/nba-cup-leads-to-wonky-scores-what-we-learned-from-celtics-win-over-hornets.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum led the Celtics in points and assists while playing in just the first three quarters of Friday's win.",
-        "published": "2026-11-07T02:29:04+00:00",
-        "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in win over Hornets",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-hornets.html"
       }
     ],
-    "generated_at": "2026-11-10T17:56:59.696692+00:00",
+    "generated_at": "2026-11-11T03:30:15.460476+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },

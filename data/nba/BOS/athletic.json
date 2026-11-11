@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "There are two sides to every trade. Paul George reminded us all of that on Tuesday.",
+        "published": "2026-11-11T03:27:17+00:00",
+        "title": "Paul George steals the show in Jaylen Brown’s first game against Celtics",
+        "url": "https://www.nytimes.com/athletic/7771718/2026/11/10/celtics-76ers-paul-george-jayson-tatum-beat-jaylen-brown/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Every team has at least one win now, so let's say something nice about each squad.",
         "published": "2026-11-09T16:46:35+00:00",
         "title": "NBA Power Rankings: Spurs soar to No. 1; Lakers, Timberwolves join contenders tier",
@@ -105,16 +112,9 @@
         "published": "2026-10-25T18:58:52+00:00",
         "title": "Joe Mazzulla on recent tension between Jaylen Brown, Jayson Tatum: 'Nobody is perfect'",
         "url": "https://www.nytimes.com/athletic/7723798/2026/10/25/joe-mazzulla-jayson-tatum-jaylen-brown-celtics-tension/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Brown acknowledged the pair \"accomplished some great things\" during their time in Boston, but that the lingering tension might not be gone.",
-        "published": "2026-10-25T05:23:28+00:00",
-        "title": "Jaylen Brown on Jayson Tatum: 'No beef, but there might be some lamb chops'",
-        "url": "https://www.nytimes.com/athletic/7721811/2026/10/25/jaylen-brown-jayson-tatum-beef-drama/"
       }
     ],
-    "generated_at": "2026-11-09T16:48:20.066891+00:00",
+    "generated_at": "2026-11-11T03:30:15.865600+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
