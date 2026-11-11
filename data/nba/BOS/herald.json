@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "As the Celtics salted away a statement win over the 76ers, Paul George had a parting gift for one “(a–hole)” Philly fan.",
+        "published": "2026-11-11T10:00:00Z",
+        "title": "Why Paul George flipped off 76ers fan during Celtics win",
+        "url": "https://www.bostonherald.com/2026/11/11/why-paul-george-flipped-off-76ers-fan-during-celtics-win/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "In the wildly anticipated first battle between Jayson Tatum and Jaylen Brown, Paul George upstaged them both as the Celtics rolled to a 123-101 win.",
         "published": "2026-11-11T03:30:51Z",
         "title": "Paul George, Jayson Tatum outplay Jaylen Brown as Celtics wreck 76ers",
@@ -105,16 +112,9 @@
         "published": "2026-11-04T15:22:12Z",
         "title": "What’s wrong with Mitchell Robinson? Celtics center off to underwhelming start",
         "url": "https://www.bostonherald.com/2026/11/04/whats-wrong-with-mitchell-robinson-celtics-center-off-to-underwhelming-start/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Celtics star Jayson Tatum could receive his first night off of the season on Wednesday.",
-        "published": "2026-11-03T21:44:03Z",
-        "title": "Jayson Tatum, Celtics guard could miss Bucks matchup",
-        "url": "https://www.bostonherald.com/2026/11/03/jayson-tatum-celtics-guard-could-miss-bucks-matchup/"
       }
     ],
-    "generated_at": "2026-11-11T03:40:19.758595+00:00",
+    "generated_at": "2026-11-11T10:02:29.691446+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
