@@ -1,0 +1,991 @@
+{
+  "verified_at": "2026-11-11",
+  "source": "Public X list pages; individual URLs and curators are recorded per entry",
+  "leagues": {
+    "nfl": {
+      "NE": {
+        "name": "New England Patriots beat",
+        "list_id": "1574085879840342016",
+        "url": "https://x.com/i/lists/1574085879840342016",
+        "public": true,
+        "members_at_verification": 38,
+        "owner": "janwillembol",
+        "handle": null,
+        "match_terms": [
+          "patriots",
+          "#nepats"
+        ],
+        "link_terms": [
+          "patriots.com",
+          "patspulpit.com"
+        ],
+        "verified_at": "2026-11-11"
+      },
+      "ARI": {
+        "name": "Arizona Cardinals",
+        "list_id": "2119451900529537288",
+        "url": "https://x.com/i/lists/2119451900529537288",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "AZCardinals",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "ATL": {
+        "name": "Atlanta Falcons",
+        "list_id": "2119452300603236855",
+        "url": "https://x.com/i/lists/2119452300603236855",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "AtlantaFalcons",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "BAL": {
+        "name": "Baltimore Ravens",
+        "list_id": "2119452495680332220",
+        "url": "https://x.com/i/lists/2119452495680332220",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "Ravens",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "BUF": {
+        "name": "Buffalo Bills",
+        "list_id": "2119452519751463196",
+        "url": "https://x.com/i/lists/2119452519751463196",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "BuffaloBills",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "CAR": {
+        "name": "Carolina Panthers Press",
+        "list_id": "58031142",
+        "url": "https://x.com/i/lists/58031142",
+        "public": true,
+        "members_at_verification": 51,
+        "owner": "A_King_in_803",
+        "verified_at": "2026-11-11",
+        "handle": "Panthers",
+        "match_terms": [
+          "#panthers",
+          "#keeppounding"
+        ],
+        "link_terms": [
+          "panthers.com",
+          "carolinablitz.com"
+        ]
+      },
+      "CHI": {
+        "name": "Chicago Bears",
+        "list_id": "1308142243874775042",
+        "url": "https://x.com/i/lists/1308142243874775042",
+        "public": true,
+        "members_at_verification": 44,
+        "owner": "a_Mexican_guy5",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "#bears",
+          "#beardown",
+          "@chicagobears"
+        ],
+        "link_terms": []
+      },
+      "CIN": {
+        "name": "Bengals Beat Writers",
+        "list_id": "1172540761671458816",
+        "url": "https://x.com/i/lists/1172540761671458816",
+        "public": true,
+        "members_at_verification": 40,
+        "owner": "pauldehnerjr",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "bengals",
+          "#whodey",
+          "@bengals"
+        ],
+        "link_terms": [
+          "bengals.com"
+        ]
+      },
+      "CLE": {
+        "name": "2026 Browns Media",
+        "list_id": "2108632154099876054",
+        "url": "https://x.com/i/lists/2108632154099876054",
+        "public": true,
+        "members_at_verification": 22,
+        "owner": "Ravens_Comms",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "#browns",
+          "@browns",
+          "#dawgpound"
+        ],
+        "link_terms": [
+          "clevelandbrowns.com"
+        ]
+      },
+      "LAC": {
+        "name": "2026 Chargers Media",
+        "list_id": "2118783234515599757",
+        "url": "https://x.com/i/lists/2118783234515599757",
+        "public": true,
+        "members_at_verification": 14,
+        "owner": "Ravens_Comms",
+        "verified_at": "2026-11-11",
+        "handle": "chargers",
+        "match_terms": [
+          "chargers",
+          "#boltup"
+        ],
+        "link_terms": [
+          "chargers.com"
+        ]
+      },
+      "JAX": {
+        "name": "2026 Jaguars Media",
+        "list_id": "2115932565588820256",
+        "url": "https://x.com/i/lists/2115932565588820256",
+        "public": true,
+        "members_at_verification": 14,
+        "owner": "Ravens_Comms",
+        "verified_at": "2026-11-11",
+        "handle": "Jaguars",
+        "match_terms": [
+          "jaguars",
+          "#duuuval",
+          "#jags"
+        ],
+        "link_terms": [
+          "jaguars.com"
+        ]
+      },
+      "NO": {
+        "name": "2026 Saints Media",
+        "list_id": "2099665749971177778",
+        "url": "https://x.com/i/lists/2099665749971177778",
+        "public": true,
+        "members_at_verification": 19,
+        "owner": "Ravens_Comms",
+        "verified_at": "2026-11-11",
+        "handle": "Saints",
+        "match_terms": [
+          "#saints",
+          "#whodat"
+        ],
+        "link_terms": [
+          "neworleanssaints.com"
+        ]
+      },
+      "TEN": {
+        "name": "Titans Media",
+        "list_id": "2104929818710085682",
+        "url": "https://x.com/i/lists/2104929818710085682",
+        "public": true,
+        "members_at_verification": 14,
+        "owner": "Ravens_Comms",
+        "verified_at": "2026-11-11",
+        "handle": "Titans",
+        "match_terms": [
+          "#titans",
+          "#titanup"
+        ],
+        "link_terms": [
+          "tennesseetitans.com"
+        ]
+      },
+      "HOU": {
+        "name": "Houston Texans/NFL",
+        "list_id": "70325104",
+        "url": "https://x.com/i/lists/70325104",
+        "public": true,
+        "members_at_verification": 42,
+        "owner": "marktrach",
+        "verified_at": "2026-11-11",
+        "handle": "HoustonTexans",
+        "match_terms": [
+          "texans",
+          "#htownmade",
+          "#wearetexans"
+        ],
+        "link_terms": [
+          "houstontexans.com"
+        ]
+      },
+      "DAL": {
+        "name": "Cowboys Beat",
+        "list_id": "1163401428691386368",
+        "url": "https://x.com/i/lists/1163401428691386368",
+        "public": true,
+        "members_at_verification": 26,
+        "owner": "Whats_UrFantasy",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "cowboys",
+          "@dallascowboys"
+        ],
+        "link_terms": [
+          "dallascowboys.com"
+        ]
+      },
+      "DEN": {
+        "name": "Denver Broncos",
+        "list_id": "232897815",
+        "url": "https://x.com/i/lists/232897815",
+        "public": true,
+        "members_at_verification": 32,
+        "owner": "TheBroncosWire",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "broncos",
+          "@broncos",
+          "#broncoscountry"
+        ],
+        "link_terms": [
+          "denverbroncos.com"
+        ]
+      },
+      "DET": {
+        "name": "Lions Beat",
+        "list_id": "2047669877234606267",
+        "url": "https://x.com/i/lists/2047669877234606267",
+        "public": true,
+        "members_at_verification": 52,
+        "owner": "indysmith",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "#lions",
+          "@lions",
+          "#onepride"
+        ],
+        "link_terms": [
+          "detroitlions.com"
+        ]
+      },
+      "SF": {
+        "name": "49ers Media",
+        "list_id": "1415542579651747840",
+        "url": "https://x.com/i/lists/1415542579651747840",
+        "public": true,
+        "members_at_verification": 47,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "49ers",
+        "match_terms": [
+          "49ers",
+          "#fttb",
+          "#niners",
+          "@49ers"
+        ],
+        "link_terms": [
+          "49ers.com",
+          "49erswebzone.com"
+        ]
+      },
+      "TB": {
+        "name": "Buccaneers Media",
+        "list_id": "1415548112601444359",
+        "url": "https://x.com/i/lists/1415548112601444359",
+        "public": true,
+        "members_at_verification": 34,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "Buccaneers",
+        "match_terms": [
+          "buccaneers",
+          "#bucs",
+          "@buccaneers",
+          "#raisetheflags"
+        ],
+        "link_terms": [
+          "buccaneers.com",
+          "bucswire.usatoday.com",
+          "pewterreport.com"
+        ]
+      },
+      "KC": {
+        "name": "Chiefs Media",
+        "list_id": "1415536975189139459",
+        "url": "https://x.com/i/lists/1415536975189139459",
+        "public": true,
+        "members_at_verification": 55,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "chiefs",
+          "@chiefs",
+          "#chiefskingdom"
+        ],
+        "link_terms": [
+          "chiefs.com"
+        ]
+      },
+      "IND": {
+        "name": "Colts Media",
+        "list_id": "1498734683386900482",
+        "url": "https://x.com/i/lists/1498734683386900482",
+        "public": true,
+        "members_at_verification": 32,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "#colts",
+          "@colts",
+          "#fortheshoe"
+        ],
+        "link_terms": [
+          "colts.com"
+        ]
+      },
+      "WSH": {
+        "name": "Commanders Media",
+        "list_id": "1415547087232503810",
+        "url": "https://x.com/i/lists/1415547087232503810",
+        "public": true,
+        "members_at_verification": 47,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "Commanders",
+        "match_terms": [
+          "commanders",
+          "@commanders",
+          "#raisehail"
+        ],
+        "link_terms": [
+          "commanders.com"
+        ]
+      },
+      "PHI": {
+        "name": "Eagles Media",
+        "list_id": "1415546638106460163",
+        "url": "https://x.com/i/lists/1415546638106460163",
+        "public": true,
+        "members_at_verification": 44,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "Eagles",
+        "match_terms": [
+          "#eagles",
+          "#flyeaglesfly"
+        ],
+        "link_terms": [
+          "philadelphiaeagles.com",
+          "theeagleswire.usatoday.com"
+        ]
+      },
+      "NYG": {
+        "name": "Giants Media",
+        "list_id": "1415546804708331521",
+        "url": "https://x.com/i/lists/1415546804708331521",
+        "public": true,
+        "members_at_verification": 33,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "Giants",
+        "match_terms": [
+          "#nygiants",
+          "#giants",
+          "#bigblue"
+        ],
+        "link_terms": [
+          "giants.com"
+        ]
+      },
+      "NYJ": {
+        "name": "Jets Media",
+        "list_id": "1415545289885175809",
+        "url": "https://x.com/i/lists/1415545289885175809",
+        "public": true,
+        "members_at_verification": 36,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "#jets",
+          "#jetup",
+          "@nyjets"
+        ],
+        "link_terms": [
+          "newyorkjets.com",
+          "jetswire.usatoday.com"
+        ]
+      },
+      "LV": {
+        "name": "Raiders Media",
+        "list_id": "1415546112207777792",
+        "url": "https://x.com/i/lists/1415546112207777792",
+        "public": true,
+        "members_at_verification": 39,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "Raiders",
+        "match_terms": [
+          "raiders",
+          "#raidernation"
+        ],
+        "link_terms": [
+          "raiders.com"
+        ]
+      },
+      "LAR": {
+        "name": "Rams Media",
+        "list_id": "1415542854894555138",
+        "url": "https://x.com/i/lists/1415542854894555138",
+        "public": true,
+        "members_at_verification": 35,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "RamsNFL",
+        "match_terms": [
+          "#rams",
+          "#ramshouse"
+        ],
+        "link_terms": [
+          "therams.com",
+          "theramswire.usatoday.com"
+        ]
+      },
+      "SEA": {
+        "name": "Seahawks Media",
+        "list_id": "1415548817647144960",
+        "url": "https://x.com/i/lists/1415548817647144960",
+        "public": true,
+        "members_at_verification": 33,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "Seahawks",
+        "match_terms": [
+          "seahawks",
+          "@seahawks",
+          "#gohawks"
+        ],
+        "link_terms": [
+          "seahawks.com"
+        ]
+      },
+      "PIT": {
+        "name": "Steelers Media",
+        "list_id": "1415545920330993664",
+        "url": "https://x.com/i/lists/1415545920330993664",
+        "public": true,
+        "members_at_verification": 46,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "steelers",
+        "match_terms": [
+          "steelers",
+          "#herewego"
+        ],
+        "link_terms": [
+          "steelers.com"
+        ]
+      },
+      "MIN": {
+        "name": "Vikings Media",
+        "list_id": "1415547911195086849",
+        "url": "https://x.com/i/lists/1415547911195086849",
+        "public": true,
+        "members_at_verification": 41,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": "Vikings",
+        "match_terms": [
+          "vikings",
+          "#skol"
+        ],
+        "link_terms": [
+          "vikings.com"
+        ]
+      },
+      "GB": {
+        "name": "Packers Media",
+        "list_id": "1415547724552826892",
+        "url": "https://x.com/i/lists/1415547724552826892",
+        "public": true,
+        "members_at_verification": 46,
+        "owner": "HeavyOnNFL",
+        "verified_at": "2026-11-11",
+        "handle": null,
+        "match_terms": [
+          "packers",
+          "@packers",
+          "#gopackgo"
+        ],
+        "link_terms": [
+          "packers.com"
+        ]
+      },
+      "MIA": {
+        "name": "Miami Dolphins",
+        "list_id": "913411859008630786",
+        "url": "https://x.com/i/lists/913411859008630786",
+        "public": true,
+        "members_at_verification": 22,
+        "owner": "blitz10035",
+        "verified_at": "2026-11-11",
+        "handle": "MiamiDolphins",
+        "match_terms": [
+          "dolphins",
+          "#finsup"
+        ],
+        "link_terms": [
+          "miamidolphins.com"
+        ]
+      }
+    },
+    "nhl": {
+      "ANA": {
+        "name": "Anaheim Ducks",
+        "list_id": "2119451962693308878",
+        "url": "https://x.com/i/lists/2119451962693308878",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "AnaheimDucks",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "BOS": {
+        "name": "Boston Bruins",
+        "list_id": "2119452199344324749",
+        "url": "https://x.com/i/lists/2119452199344324749",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "NHLBruins",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "BUF": {
+        "name": "Buffalo Sabres",
+        "list_id": "2119452374905323779",
+        "url": "https://x.com/i/lists/2119452374905323779",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "BuffaloSabres",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "CGY": {
+        "name": "Calgary Flames",
+        "list_id": "2119452474733953466",
+        "url": "https://x.com/i/lists/2119452474733953466",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "NHLFlames",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "CAR": {
+        "name": "Carolina Hurricanes",
+        "list_id": "2119452530576884117",
+        "url": "https://x.com/i/lists/2119452530576884117",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "Canes",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "CHI": {
+        "name": "Chicago Blackhawks",
+        "list_id": "2119452620372717586",
+        "url": "https://x.com/i/lists/2119452620372717586",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "NHLBlackhawks",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "COL": {
+        "name": "Colorado Avalanche",
+        "list_id": "2119452735057670567",
+        "url": "https://x.com/i/lists/2119452735057670567",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "Avalanche",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "CBJ": {
+        "name": "Columbus Blue Jackets",
+        "list_id": "2119452774693847269",
+        "url": "https://x.com/i/lists/2119452774693847269",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "BlueJacketsNHL",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "DAL": {
+        "name": "Dallas Stars",
+        "list_id": "2119452820202041715",
+        "url": "https://x.com/i/lists/2119452820202041715",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "DallasStars",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "DET": {
+        "name": "Detroit Red Wings",
+        "list_id": "2119452858244321329",
+        "url": "https://x.com/i/lists/2119452858244321329",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "DetroitRedWings",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "EDM": {
+        "name": "Edmonton Oilers",
+        "list_id": "2119452901202354311",
+        "url": "https://x.com/i/lists/2119452901202354311",
+        "public": true,
+        "members_at_verification": 1,
+        "handle": "EdmontonOilers",
+        "owner": "AutumnLaneio",
+        "verified_at": "2026-11-11"
+      },
+      "FLA": {
+        "name": "Florida Panthers Media",
+        "list_id": "1428032013945163779",
+        "url": "https://x.com/i/lists/1428032013945163779",
+        "public": true,
+        "members_at_verification": 32,
+        "owner": "ColbyDGuy",
+        "handle": "FlaPanthers",
+        "match_terms": [
+          "#flapanthers",
+          "#timetohunt"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "LA": {
+        "name": "— LA Kings",
+        "list_id": "1031965332313800704",
+        "url": "https://x.com/i/lists/1031965332313800704",
+        "public": true,
+        "members_at_verification": 57,
+        "owner": "jakegould10",
+        "handle": null,
+        "match_terms": [
+          "la kings",
+          "@lakings",
+          "#gokingsgo"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "MIN": {
+        "name": "Minnesota Wild",
+        "list_id": "1493240871826993155",
+        "url": "https://x.com/i/lists/1493240871826993155",
+        "public": true,
+        "members_at_verification": 28,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@mnwild",
+          "#mnwild"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "MTL": {
+        "name": "Canadiens",
+        "list_id": "1451546695855230976",
+        "url": "https://x.com/i/lists/1451546695855230976",
+        "public": true,
+        "members_at_verification": 44,
+        "owner": "georgemalik",
+        "handle": "CanadiensMTL",
+        "match_terms": [
+          "canadiens",
+          "#gohabsgo",
+          "#habs"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "WSH": {
+        "name": "Capitals",
+        "list_id": "829727873044987904",
+        "url": "https://x.com/i/lists/829727873044987904",
+        "public": true,
+        "members_at_verification": 33,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@capitals",
+          "#allcaps",
+          "@capitalspr"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "NJ": {
+        "name": "Devils",
+        "list_id": "1471935268978675714",
+        "url": "https://x.com/i/lists/1471935268978675714",
+        "public": true,
+        "members_at_verification": 29,
+        "owner": "georgemalik",
+        "handle": "NJDevils",
+        "match_terms": [
+          "#njdevils"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "PHI": {
+        "name": "Flyers",
+        "list_id": "1491419552722391041",
+        "url": "https://x.com/i/lists/1491419552722391041",
+        "public": true,
+        "members_at_verification": 51,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@nhlflyers",
+          "#flyers",
+          "#letsgoflyers",
+          "#ignitetheorange"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "NSH": {
+        "name": "NashvillePreds",
+        "list_id": "1364057169906253824",
+        "url": "https://x.com/i/lists/1364057169906253824",
+        "public": true,
+        "members_at_verification": 30,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "#preds",
+          "@predsnhl"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "NYR": {
+        "name": "New York Rangers",
+        "list_id": "1494170431330426880",
+        "url": "https://x.com/i/lists/1494170431330426880",
+        "public": true,
+        "members_at_verification": 27,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@nyrangers",
+          "#nyr",
+          "#noquitinny"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "NYI": {
+        "name": "NY Islanders",
+        "list_id": "1467165566670716928",
+        "url": "https://x.com/i/lists/1467165566670716928",
+        "public": true,
+        "members_at_verification": 29,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@nyislanders",
+          "#isles"
+        ],
+        "link_terms": [
+          "islesfix.com"
+        ],
+        "verified_at": "2026-11-11"
+      },
+      "OTT": {
+        "name": "Ottawa Senators",
+        "list_id": "1509738210724917252",
+        "url": "https://x.com/i/lists/1509738210724917252",
+        "public": true,
+        "members_at_verification": 37,
+        "owner": "georgemalik",
+        "handle": "Senators",
+        "match_terms": [
+          "#gosensgo"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "PIT": {
+        "name": "Penguins",
+        "list_id": "171802885",
+        "url": "https://x.com/i/lists/171802885",
+        "public": true,
+        "members_at_verification": 40,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@penguins",
+          "#letsgopens",
+          "penguins"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "SJ": {
+        "name": "San Jose",
+        "list_id": "1478383432929628172",
+        "url": "https://x.com/i/lists/1478383432929628172",
+        "public": true,
+        "members_at_verification": 26,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@sanjosesharks",
+          "#sjsharks"
+        ],
+        "link_terms": [
+          "sanjosehockeynow.com"
+        ],
+        "verified_at": "2026-11-11"
+      },
+      "SEA": {
+        "name": "Seattle Kraken start",
+        "list_id": "1465924617244229637",
+        "url": "https://x.com/i/lists/1465924617244229637",
+        "public": true,
+        "members_at_verification": 28,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@seattlekraken",
+          "#seakraken"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "STL": {
+        "name": "St. Louis Blues",
+        "list_id": "1463186682048659462",
+        "url": "https://x.com/i/lists/1463186682048659462",
+        "public": true,
+        "members_at_verification": 19,
+        "owner": "georgemalik",
+        "handle": "StLouisBlues",
+        "match_terms": [
+          "#stlblues"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "TB": {
+        "name": "TampaBay",
+        "list_id": "202803683",
+        "url": "https://x.com/i/lists/202803683",
+        "public": true,
+        "members_at_verification": 31,
+        "owner": "georgemalik",
+        "handle": "TBLightning",
+        "match_terms": [
+          "#tblightning",
+          "#gobolts"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "TOR": {
+        "name": "Toronto",
+        "list_id": "174210993",
+        "url": "https://x.com/i/lists/174210993",
+        "public": true,
+        "members_at_verification": 56,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@mapleleafs",
+          "#leafs",
+          "#leafsforever",
+          "maple leafs"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "UTAH": {
+        "name": "Utah Hockey Club",
+        "list_id": "1897482730683682921",
+        "url": "https://x.com/i/lists/1897482730683682921",
+        "public": true,
+        "members_at_verification": 12,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@utahmammoth",
+          "#tusksup",
+          "utah hockey club"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "VAN": {
+        "name": "Vancouver",
+        "list_id": "1449380744778948610",
+        "url": "https://x.com/i/lists/1449380744778948610",
+        "public": true,
+        "members_at_verification": 49,
+        "owner": "georgemalik",
+        "handle": "Canucks",
+        "match_terms": [
+          "#canucks"
+        ],
+        "link_terms": [],
+        "verified_at": "2026-11-11"
+      },
+      "VGK": {
+        "name": "Vegas",
+        "list_id": "1457220832657346564",
+        "url": "https://x.com/i/lists/1457220832657346564",
+        "public": true,
+        "members_at_verification": 28,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@goldenknights",
+          "#vegasborn",
+          "#vgk"
+        ],
+        "link_terms": [
+          "sinbin.vegas"
+        ],
+        "verified_at": "2026-11-11"
+      },
+      "WPG": {
+        "name": "Winnipeg Jets",
+        "list_id": "1481644686217334791",
+        "url": "https://x.com/i/lists/1481644686217334791",
+        "public": true,
+        "members_at_verification": 37,
+        "owner": "georgemalik",
+        "handle": null,
+        "match_terms": [
+          "@nhljets",
+          "#nhljets",
+          "#gojetsgo"
+        ],
+        "link_terms": [
+          "illegalcurve.com"
+        ],
+        "verified_at": "2026-11-11"
+      }
+    }
+  }
+}

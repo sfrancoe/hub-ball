@@ -1,0 +1,910 @@
+[
+  {
+    "id": "25",
+    "name": "Ducks",
+    "city": "Anaheim",
+    "abbreviation": "ANA",
+    "color": "#fc4c02",
+    "alternateColor": "#000000",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Pacific",
+    "bdlID": 56,
+    "x": {
+      "list_id": "2119451962693308878",
+      "handle": "AnaheimDucks",
+      "accept_official_posts": true,
+      "match_terms": [
+        "anaheim ducks",
+        "@anaheimducks"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "1",
+    "name": "Bruins",
+    "city": "Boston",
+    "abbreviation": "BOS",
+    "color": "#231f20",
+    "alternateColor": "#fdb71a",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Atlantic",
+    "bdlID": 51,
+    "x": {
+      "list_id": "2119452199344324749",
+      "handle": "NHLBruins",
+      "accept_official_posts": true,
+      "match_terms": [
+        "boston bruins",
+        "@nhlbruins"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Sabres",
+    "city": "Buffalo",
+    "abbreviation": "BUF",
+    "color": "#00468b",
+    "alternateColor": "#fdb71a",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Atlantic",
+    "bdlID": 4,
+    "x": {
+      "list_id": "2119452374905323779",
+      "handle": "BuffaloSabres",
+      "accept_official_posts": true,
+      "match_terms": [
+        "buffalo sabres",
+        "@buffalosabres"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "name": "Flames",
+    "city": "Calgary",
+    "abbreviation": "CGY",
+    "color": "#dd1a32",
+    "alternateColor": "#000000",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Pacific",
+    "bdlID": 50,
+    "x": {
+      "list_id": "2119452474733953466",
+      "handle": "NHLFlames",
+      "accept_official_posts": true,
+      "match_terms": [
+        "calgary flames",
+        "@nhlflames"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "name": "Hurricanes",
+    "city": "Carolina",
+    "abbreviation": "CAR",
+    "color": "#e30426",
+    "alternateColor": "#000000",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Metropolitan",
+    "bdlID": 18,
+    "x": {
+      "list_id": "2119452530576884117",
+      "handle": "Canes",
+      "accept_official_posts": true,
+      "match_terms": [
+        "carolina hurricanes",
+        "@canes"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "name": "Blackhawks",
+    "city": "Chicago",
+    "abbreviation": "CHI",
+    "color": "#e31937",
+    "alternateColor": "#000000",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Central",
+    "bdlID": 53,
+    "x": {
+      "list_id": "2119452620372717586",
+      "handle": "NHLBlackhawks",
+      "accept_official_posts": true,
+      "match_terms": [
+        "chicago blackhawks",
+        "@nhlblackhawks"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "name": "Avalanche",
+    "city": "Colorado",
+    "abbreviation": "COL",
+    "color": "#860038",
+    "alternateColor": "#005ea3",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Central",
+    "bdlID": 34,
+    "x": {
+      "list_id": "2119452735057670567",
+      "handle": "Avalanche",
+      "accept_official_posts": true,
+      "match_terms": [
+        "colorado avalanche",
+        "@avalanche"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "name": "Blue Jackets",
+    "city": "Columbus",
+    "abbreviation": "CBJ",
+    "color": "#002d62",
+    "alternateColor": "#e31937",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Metropolitan",
+    "bdlID": 15,
+    "x": {
+      "list_id": "2119452774693847269",
+      "handle": "BlueJacketsNHL",
+      "accept_official_posts": true,
+      "match_terms": [
+        "columbus blue jackets",
+        "@bluejacketsnhl"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "name": "Stars",
+    "city": "Dallas",
+    "abbreviation": "DAL",
+    "color": "#20864c",
+    "alternateColor": "#000000",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Central",
+    "bdlID": 20,
+    "x": {
+      "list_id": "2119452820202041715",
+      "handle": "DallasStars",
+      "accept_official_posts": true,
+      "match_terms": [
+        "dallas stars",
+        "@dallasstars"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "name": "Red Wings",
+    "city": "Detroit",
+    "abbreviation": "DET",
+    "color": "#e30526",
+    "alternateColor": "#ffffff",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Atlantic",
+    "bdlID": 54,
+    "x": {
+      "list_id": "2119452858244321329",
+      "handle": "DetroitRedWings",
+      "accept_official_posts": true,
+      "match_terms": [
+        "detroit red wings",
+        "@detroitredwings"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "name": "Oilers",
+    "city": "Edmonton",
+    "abbreviation": "EDM",
+    "color": "#00205b",
+    "alternateColor": "#ff4c00",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Pacific",
+    "bdlID": 47,
+    "x": {
+      "list_id": "2119452901202354311",
+      "handle": "EdmontonOilers",
+      "accept_official_posts": true,
+      "match_terms": [
+        "edmonton oilers",
+        "@edmontonoilers"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "name": "Panthers",
+    "city": "Florida",
+    "abbreviation": "FLA",
+    "color": "#e51937",
+    "alternateColor": "#002d62",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Atlantic",
+    "bdlID": 17,
+    "x": {
+      "list_id": "1428032013945163779",
+      "handle": "FlaPanthers",
+      "accept_official_posts": true,
+      "match_terms": [
+        "florida panthers",
+        "@flapanthers",
+        "#flapanthers",
+        "#timetohunt"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "name": "Kings",
+    "city": "Los Angeles",
+    "abbreviation": "LA",
+    "color": "#121212",
+    "alternateColor": "#a2aaad",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Pacific",
+    "bdlID": 38,
+    "x": {
+      "list_id": "1031965332313800704",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "los angeles kings",
+        "la kings",
+        "@lakings",
+        "#gokingsgo"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "name": "Wild",
+    "city": "Minnesota",
+    "abbreviation": "MIN",
+    "color": "#124734",
+    "alternateColor": "#ae122a",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Central",
+    "bdlID": 40,
+    "x": {
+      "list_id": "1493240871826993155",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "minnesota wild",
+        "@mnwild",
+        "#mnwild"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "name": "Canadiens",
+    "city": "Montreal",
+    "abbreviation": "MTL",
+    "color": "#c41230",
+    "alternateColor": "#013a81",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Atlantic",
+    "bdlID": 2,
+    "x": {
+      "list_id": "1451546695855230976",
+      "handle": "CanadiensMTL",
+      "accept_official_posts": true,
+      "match_terms": [
+        "montreal canadiens",
+        "@canadiensmtl",
+        "canadiens",
+        "#gohabsgo",
+        "#habs"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "name": "Predators",
+    "city": "Nashville",
+    "abbreviation": "NSH",
+    "color": "#fdba31",
+    "alternateColor": "#002d62",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Central",
+    "bdlID": 23,
+    "x": {
+      "list_id": "1364057169906253824",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "nashville predators",
+        "#preds",
+        "@predsnhl"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "name": "Devils",
+    "city": "New Jersey",
+    "abbreviation": "NJ",
+    "color": "#e30b2b",
+    "alternateColor": "#000000",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Metropolitan",
+    "bdlID": 32,
+    "x": {
+      "list_id": "1471935268978675714",
+      "handle": "NJDevils",
+      "accept_official_posts": true,
+      "match_terms": [
+        "new jersey devils",
+        "@njdevils",
+        "#njdevils"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "name": "Islanders",
+    "city": "New York",
+    "abbreviation": "NYI",
+    "color": "#00529b",
+    "alternateColor": "#f47d31",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Metropolitan",
+    "bdlID": 7,
+    "x": {
+      "list_id": "1467165566670716928",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "new york islanders",
+        "@nyislanders",
+        "#isles"
+      ],
+      "link_terms": [
+        "islesfix.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "name": "Rangers",
+    "city": "New York",
+    "abbreviation": "NYR",
+    "color": "#0056ae",
+    "alternateColor": "#e51937",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Metropolitan",
+    "bdlID": 61,
+    "x": {
+      "list_id": "1494170431330426880",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "new york rangers",
+        "@nyrangers",
+        "#nyr",
+        "#noquitinny"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "name": "Senators",
+    "city": "Ottawa",
+    "abbreviation": "OTT",
+    "color": "#dd1a32",
+    "alternateColor": "#b79257",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Atlantic",
+    "bdlID": 33,
+    "x": {
+      "list_id": "1509738210724917252",
+      "handle": "Senators",
+      "accept_official_posts": true,
+      "match_terms": [
+        "ottawa senators",
+        "@senators",
+        "#gosensgo"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "name": "Flyers",
+    "city": "Philadelphia",
+    "abbreviation": "PHI",
+    "color": "#fe5823",
+    "alternateColor": "#000000",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Metropolitan",
+    "bdlID": 55,
+    "x": {
+      "list_id": "1491419552722391041",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "philadelphia flyers",
+        "@nhlflyers",
+        "#flyers",
+        "#letsgoflyers",
+        "#ignitetheorange"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "name": "Penguins",
+    "city": "Pittsburgh",
+    "abbreviation": "PIT",
+    "color": "#000000",
+    "alternateColor": "#fdb71a",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Metropolitan",
+    "bdlID": 59,
+    "x": {
+      "list_id": "171802885",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "pittsburgh penguins",
+        "@penguins",
+        "#letsgopens",
+        "penguins"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "name": "Sharks",
+    "city": "San Jose",
+    "abbreviation": "SJ",
+    "color": "#00788a",
+    "alternateColor": "#070707",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Pacific",
+    "bdlID": 13,
+    "x": {
+      "list_id": "1478383432929628172",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "san jose sharks",
+        "@sanjosesharks",
+        "#sjsharks"
+      ],
+      "link_terms": [
+        "sanjosehockeynow.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "124292",
+    "name": "Kraken",
+    "city": "Seattle",
+    "abbreviation": "SEA",
+    "color": "#000d33",
+    "alternateColor": "#a3dce4",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Pacific",
+    "bdlID": 57,
+    "x": {
+      "list_id": "1465924617244229637",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "seattle kraken",
+        "@seattlekraken",
+        "#seakraken"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "name": "Blues",
+    "city": "St. Louis",
+    "abbreviation": "STL",
+    "color": "#0070b9",
+    "alternateColor": "#fdb71a",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Central",
+    "bdlID": 52,
+    "x": {
+      "list_id": "1463186682048659462",
+      "handle": "StLouisBlues",
+      "accept_official_posts": true,
+      "match_terms": [
+        "st. louis blues",
+        "@stlouisblues",
+        "#stlblues"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "name": "Lightning",
+    "city": "Tampa Bay",
+    "abbreviation": "TB",
+    "color": "#003e7e",
+    "alternateColor": "#ffffff",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Atlantic",
+    "bdlID": 22,
+    "x": {
+      "list_id": "202803683",
+      "handle": "TBLightning",
+      "accept_official_posts": true,
+      "match_terms": [
+        "tampa bay lightning",
+        "@tblightning",
+        "#tblightning",
+        "#gobolts"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "name": "Maple Leafs",
+    "city": "Toronto",
+    "abbreviation": "TOR",
+    "color": "#003e7e",
+    "alternateColor": "#ffffff",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Atlantic",
+    "bdlID": 46,
+    "x": {
+      "list_id": "174210993",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "toronto maple leafs",
+        "@mapleleafs",
+        "#leafs",
+        "#leafsforever",
+        "maple leafs"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "129764",
+    "name": "Mammoth",
+    "city": "Utah",
+    "abbreviation": "UTAH",
+    "color": "#000000",
+    "alternateColor": "#7ab2e1",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Central",
+    "bdlID": 114,
+    "x": {
+      "list_id": "1897482730683682921",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "utah mammoth",
+        "@utahmammoth",
+        "#tusksup",
+        "utah hockey club"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "name": "Canucks",
+    "city": "Vancouver",
+    "abbreviation": "VAN",
+    "color": "#003e7e",
+    "alternateColor": "#008752",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Pacific",
+    "bdlID": 60,
+    "x": {
+      "list_id": "1449380744778948610",
+      "handle": "Canucks",
+      "accept_official_posts": true,
+      "match_terms": [
+        "vancouver canucks",
+        "@canucks",
+        "#canucks"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "name": "Golden Knights",
+    "city": "Vegas",
+    "abbreviation": "VGK",
+    "color": "#344043",
+    "alternateColor": "#b4975a",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Pacific",
+    "bdlID": 19,
+    "x": {
+      "list_id": "1457220832657346564",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "vegas golden knights",
+        "@goldenknights",
+        "#vegasborn",
+        "#vgk"
+      ],
+      "link_terms": [
+        "sinbin.vegas"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "name": "Capitals",
+    "city": "Washington",
+    "abbreviation": "WSH",
+    "color": "#d71830",
+    "alternateColor": "#0b1f41",
+    "conference": "East",
+    "sportID": "NHL",
+    "division": "Metropolitan",
+    "bdlID": 36,
+    "x": {
+      "list_id": "829727873044987904",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "washington capitals",
+        "@capitals",
+        "#allcaps",
+        "@capitalspr"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "name": "Jets",
+    "city": "Winnipeg",
+    "abbreviation": "WPG",
+    "color": "#002d62",
+    "alternateColor": "#c41230",
+    "conference": "West",
+    "sportID": "NHL",
+    "division": "Central",
+    "bdlID": 21,
+    "x": {
+      "list_id": "1481644686217334791",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "winnipeg jets",
+        "@nhljets",
+        "#nhljets",
+        "#gojetsgo"
+      ],
+      "link_terms": [
+        "illegalcurve.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nfl"
+      ]
+    }
+  }
+]

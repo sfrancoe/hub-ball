@@ -1,0 +1,130 @@
+[
+  {
+    "path": "config/lab-x-lists.json",
+    "sha256": "39da1edeb2ddb0cb070d3422dd8dba092b9572588cd37631f56e2a9f19d98878"
+  },
+  {
+    "path": "config/mlb-lab-teams.json",
+    "sha256": "977876b22e53dab4258b06b32e7e30e1ac7fb3469e6ccef5989c873921752362"
+  },
+  {
+    "path": "config/mlb-teams.json",
+    "sha256": "3473d7bdc6f018bd869c1aa7d378fbf66216488d326993edc295bb2474ae9e10"
+  },
+  {
+    "path": "config/nba-teams.json",
+    "sha256": "05ec5c80fbd0793d6d2ef68034e4c1f50320b0e94fe5282c0ffecb5f4c5e14a3"
+  },
+  {
+    "path": "config/nba-x.json",
+    "sha256": "ae0951121ed2b9e10be074d4c6e1940135137a078833e2563c067454cbee1664"
+  },
+  {
+    "path": "config/nfl-teams.json",
+    "sha256": "34989c010c6e3e2cdb1e5a50fb281e397120ed4c7d622da58c96516f1271c620"
+  },
+  {
+    "path": "config/nhl-teams.json",
+    "sha256": "1729b9d21767624ca15d720ff9ce36ca04b8e36201027f5067b53d6c3f821521"
+  },
+  {
+    "path": "ios/Hub Ball/Hub Ball/NBA/mlb-lab-teams.json",
+    "sha256": "977876b22e53dab4258b06b32e7e30e1ac7fb3469e6ccef5989c873921752362"
+  },
+  {
+    "path": "ios/Hub Ball/Hub Ball/NBA/nba-teams.json",
+    "sha256": "05ec5c80fbd0793d6d2ef68034e4c1f50320b0e94fe5282c0ffecb5f4c5e14a3"
+  },
+  {
+    "path": "ios/Hub Ball/Hub Ball/NBA/nfl-teams.json",
+    "sha256": "34989c010c6e3e2cdb1e5a50fb281e397120ed4c7d622da58c96516f1271c620"
+  },
+  {
+    "path": "ios/Hub Ball/Hub Ball/NBA/nhl-teams.json",
+    "sha256": "1729b9d21767624ca15d720ff9ce36ca04b8e36201027f5067b53d6c3f821521"
+  },
+  {
+    "path": "scripts/mlb_bdl.py",
+    "sha256": "c2cf2e9be8b07d0f76b5e40beb2bd8767aadef20383ea2ce0e0d00bbfb0829c6"
+  },
+  {
+    "path": "scripts/nba_x/audit.py",
+    "sha256": "03055bd35854d29faf9a69921936e3e6425533e7511a55bb37b0cd0ddd04f533"
+  },
+  {
+    "path": "scripts/nba_x/build.py",
+    "sha256": "e69afafdbc262675a9ee5581c4716ad0d272359273a1702d6ce6f61d69e3c6d0"
+  },
+  {
+    "path": "scripts/nba_x/cloud.py",
+    "sha256": "c63bd568299f5cf383e381c8bcbb9c9c2a6a2418b74a0dcd493db1fd43114501"
+  },
+  {
+    "path": "scripts/nba_x/filter.py",
+    "sha256": "2ff4daa61956a0420459c0be7afdbeca951ba3a0881d408d2d0a4ed9be3c1522"
+  },
+  {
+    "path": "scripts/nba_x/fixtures/espn-roster.json",
+    "sha256": "8588cd2129e06fa4243c18b2235456aa6e09ab6870106203249a344035871b39"
+  },
+  {
+    "path": "scripts/nba_x/fixtures/syndication-list.html",
+    "sha256": "30b5b4fbb2ce086867d99d4b8420d9762f0b2dc45acc39452e5c1dc97ffbcc14"
+  },
+  {
+    "path": "scripts/nba_x/mlb.py",
+    "sha256": "dd33699d69e58ec131ebaa276a6c3eccc6b5ca9d177362580f4fdd1cff52b773"
+  },
+  {
+    "path": "scripts/nba_x/refresh.sh",
+    "sha256": "39f2fb9320fb9b23bd897e38255e4a53f56c8f6e09b82c037aa9c812d1eb90c2"
+  },
+  {
+    "path": "scripts/nba_x/rosters.py",
+    "sha256": "80fab1993e2c748315930881807784b1f7c160dff5362a85c127a9bb9eea53d5"
+  },
+  {
+    "path": "scripts/nba_x/sources.py",
+    "sha256": "d6afa928b7f0d96501095ad42d2eaf77e3bd4bb95ce89b49780ad2c9bd775795"
+  },
+  {
+    "path": "scripts/nba_x/test_all_sports.py",
+    "sha256": "1887ae163f3810c01cdd1c923439eafe051a684dc15fc2984f0649a5c2af0551"
+  },
+  {
+    "path": "scripts/nba_x/test_audit.py",
+    "sha256": "0b77ab6e5ea2bee1b0820c1849ce8a5fa5d670cb1589974da4150d33bda98a87"
+  },
+  {
+    "path": "scripts/nba_x/test_cloud.py",
+    "sha256": "847ac48b3fd4120fc3b80d199cee79e32aa9f6491bd2befd02651f26ec4a63a5"
+  },
+  {
+    "path": "scripts/nba_x/test_mlb.py",
+    "sha256": "c77de8374b0a8e2afeeaf0f599cc09ce5b21b19805d56435a0f3ae20dc976c3e"
+  },
+  {
+    "path": "scripts/nba_x/test_nba_x.py",
+    "sha256": "84dd7131e69506e0eccafeb9e30f561a401504317eb12563f0ad70f7f5e564fa"
+  },
+  {
+    "path": "scripts/nba_x/test_other_sports.py",
+    "sha256": "56318141f5f5ea2b1241f75bf00ccd323a411aaad0e56204ac997a2fa12447f1"
+  },
+  {
+    "path": "scripts/nba_x/test_refresh.py",
+    "sha256": "4680a784e67b04d75568ae373eb6072756889f46cf8e00034e03faa141d73891"
+  },
+  {
+    "path": "scripts/nfl_bdl.py",
+    "sha256": "d49e3d58d443d61611742c4f4c9c16b719fbb5c0a73b6f81e6f912f7bdd8c15f"
+  },
+  {
+    "path": "scripts/nhl_bdl.py",
+    "sha256": "bdb55bf92add4123f088090556d58eecdb52ab41f8d4113747b07e17cfa9cf75"
+  },
+  {
+    "path": "scripts/sync_lab_x_lists.py",
+    "sha256": "2fb9bd1beee19d2333095b9199db42a6baa13003b0d57d13aece40873a6e9ab2"
+  }
+]

@@ -1,0 +1,991 @@
+[
+  {
+    "id": "22",
+    "name": "Cardinals",
+    "city": "Arizona",
+    "abbreviation": "ARI",
+    "color": "#a40227",
+    "alternateColor": "#ffffff",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "West",
+    "bdlID": 33,
+    "x": {
+      "list_id": "2119451900529537288",
+      "handle": "AZCardinals",
+      "accept_official_posts": true,
+      "match_terms": [
+        "arizona cardinals",
+        "@azcardinals"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "1",
+    "name": "Falcons",
+    "city": "Atlanta",
+    "abbreviation": "ATL",
+    "color": "#a71930",
+    "alternateColor": "#000000",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "South",
+    "bdlID": 27,
+    "x": {
+      "list_id": "2119452300603236855",
+      "handle": "AtlantaFalcons",
+      "accept_official_posts": true,
+      "match_terms": [
+        "atlanta falcons",
+        "@atlantafalcons"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "name": "Ravens",
+    "city": "Baltimore",
+    "abbreviation": "BAL",
+    "color": "#29126f",
+    "alternateColor": "#000000",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "North",
+    "bdlID": 6,
+    "x": {
+      "list_id": "2119452495680332220",
+      "handle": "Ravens",
+      "accept_official_posts": true,
+      "match_terms": [
+        "baltimore ravens",
+        "@ravens"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Bills",
+    "city": "Buffalo",
+    "abbreviation": "BUF",
+    "color": "#00338d",
+    "alternateColor": "#d50a0a",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "East",
+    "bdlID": 3,
+    "x": {
+      "list_id": "2119452519751463196",
+      "handle": "BuffaloBills",
+      "accept_official_posts": true,
+      "match_terms": [
+        "buffalo bills",
+        "@buffalobills"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "name": "Panthers",
+    "city": "Carolina",
+    "abbreviation": "CAR",
+    "color": "#0085ca",
+    "alternateColor": "#000000",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "South",
+    "bdlID": 29,
+    "x": {
+      "list_id": "58031142",
+      "handle": "Panthers",
+      "accept_official_posts": true,
+      "match_terms": [
+        "carolina panthers",
+        "@panthers",
+        "#panthers",
+        "#keeppounding"
+      ],
+      "link_terms": [
+        "panthers.com",
+        "carolinablitz.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "name": "Bears",
+    "city": "Chicago",
+    "abbreviation": "CHI",
+    "color": "#0b1c3a",
+    "alternateColor": "#e64100",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "North",
+    "bdlID": 24,
+    "x": {
+      "list_id": "1308142243874775042",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "chicago bears",
+        "#bears",
+        "#beardown",
+        "@chicagobears"
+      ],
+      "link_terms": [],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "name": "Bengals",
+    "city": "Cincinnati",
+    "abbreviation": "CIN",
+    "color": "#fb4f14",
+    "alternateColor": "#000000",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "North",
+    "bdlID": 9,
+    "x": {
+      "list_id": "1172540761671458816",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "cincinnati bengals",
+        "bengals",
+        "#whodey",
+        "@bengals"
+      ],
+      "link_terms": [
+        "bengals.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "name": "Browns",
+    "city": "Cleveland",
+    "abbreviation": "CLE",
+    "color": "#472a08",
+    "alternateColor": "#ff3c00",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "North",
+    "bdlID": 8,
+    "x": {
+      "list_id": "2108632154099876054",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "cleveland browns",
+        "#browns",
+        "@browns",
+        "#dawgpound"
+      ],
+      "link_terms": [
+        "clevelandbrowns.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "name": "Cowboys",
+    "city": "Dallas",
+    "abbreviation": "DAL",
+    "color": "#002a5c",
+    "alternateColor": "#b0b7bc",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "East",
+    "bdlID": 19,
+    "x": {
+      "list_id": "1163401428691386368",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "dallas cowboys",
+        "cowboys",
+        "@dallascowboys"
+      ],
+      "link_terms": [
+        "dallascowboys.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "name": "Broncos",
+    "city": "Denver",
+    "abbreviation": "DEN",
+    "color": "#0a2343",
+    "alternateColor": "#fc4c02",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "West",
+    "bdlID": 15,
+    "x": {
+      "list_id": "232897815",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "denver broncos",
+        "broncos",
+        "@broncos",
+        "#broncoscountry"
+      ],
+      "link_terms": [
+        "denverbroncos.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "name": "Lions",
+    "city": "Detroit",
+    "abbreviation": "DET",
+    "color": "#0076b6",
+    "alternateColor": "#bbbbbb",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "North",
+    "bdlID": 25,
+    "x": {
+      "list_id": "2047669877234606267",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "detroit lions",
+        "#lions",
+        "@lions",
+        "#onepride"
+      ],
+      "link_terms": [
+        "detroitlions.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "name": "Packers",
+    "city": "Green Bay",
+    "abbreviation": "GB",
+    "color": "#204e32",
+    "alternateColor": "#ffb612",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "North",
+    "bdlID": 22,
+    "x": {
+      "list_id": "1415547724552826892",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "green bay packers",
+        "packers",
+        "@packers",
+        "#gopackgo"
+      ],
+      "link_terms": [
+        "packers.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "name": "Texans",
+    "city": "Houston",
+    "abbreviation": "HOU",
+    "color": "#021018",
+    "alternateColor": "#eb0028",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "South",
+    "bdlID": 10,
+    "x": {
+      "list_id": "70325104",
+      "handle": "HoustonTexans",
+      "accept_official_posts": true,
+      "match_terms": [
+        "houston texans",
+        "@houstontexans",
+        "texans",
+        "#htownmade",
+        "#wearetexans"
+      ],
+      "link_terms": [
+        "houstontexans.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "name": "Colts",
+    "city": "Indianapolis",
+    "abbreviation": "IND",
+    "color": "#003b75",
+    "alternateColor": "#ffffff",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "South",
+    "bdlID": 12,
+    "x": {
+      "list_id": "1498734683386900482",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "indianapolis colts",
+        "#colts",
+        "@colts",
+        "#fortheshoe"
+      ],
+      "link_terms": [
+        "colts.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "name": "Jaguars",
+    "city": "Jacksonville",
+    "abbreviation": "JAX",
+    "color": "#007487",
+    "alternateColor": "#d7a22a",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "South",
+    "bdlID": 13,
+    "x": {
+      "list_id": "2115932565588820256",
+      "handle": "Jaguars",
+      "accept_official_posts": true,
+      "match_terms": [
+        "jacksonville jaguars",
+        "@jaguars",
+        "jaguars",
+        "#duuuval",
+        "#jags"
+      ],
+      "link_terms": [
+        "jaguars.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "name": "Chiefs",
+    "city": "Kansas City",
+    "abbreviation": "KC",
+    "color": "#e31837",
+    "alternateColor": "#ffb612",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "West",
+    "bdlID": 14,
+    "x": {
+      "list_id": "1415536975189139459",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "kansas city chiefs",
+        "chiefs",
+        "@chiefs",
+        "#chiefskingdom"
+      ],
+      "link_terms": [
+        "chiefs.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "name": "Raiders",
+    "city": "Las Vegas",
+    "abbreviation": "LV",
+    "color": "#000000",
+    "alternateColor": "#a5acaf",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "West",
+    "bdlID": 16,
+    "x": {
+      "list_id": "1415546112207777792",
+      "handle": "Raiders",
+      "accept_official_posts": true,
+      "match_terms": [
+        "las vegas raiders",
+        "@raiders",
+        "raiders",
+        "#raidernation"
+      ],
+      "link_terms": [
+        "raiders.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "name": "Chargers",
+    "city": "Los Angeles",
+    "abbreviation": "LAC",
+    "color": "#0080c6",
+    "alternateColor": "#ffc20e",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "West",
+    "bdlID": 17,
+    "x": {
+      "list_id": "2118783234515599757",
+      "handle": "chargers",
+      "accept_official_posts": true,
+      "match_terms": [
+        "los angeles chargers",
+        "@chargers",
+        "chargers",
+        "#boltup"
+      ],
+      "link_terms": [
+        "chargers.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "name": "Rams",
+    "city": "Los Angeles",
+    "abbreviation": "LAR",
+    "color": "#003594",
+    "alternateColor": "#ffd100",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "West",
+    "bdlID": 32,
+    "x": {
+      "list_id": "1415542854894555138",
+      "handle": "RamsNFL",
+      "accept_official_posts": true,
+      "match_terms": [
+        "los angeles rams",
+        "@ramsnfl",
+        "#rams",
+        "#ramshouse"
+      ],
+      "link_terms": [
+        "therams.com",
+        "theramswire.usatoday.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "name": "Dolphins",
+    "city": "Miami",
+    "abbreviation": "MIA",
+    "color": "#008e97",
+    "alternateColor": "#fc4c02",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "East",
+    "bdlID": 5,
+    "x": {
+      "list_id": "913411859008630786",
+      "handle": "MiamiDolphins",
+      "accept_official_posts": true,
+      "match_terms": [
+        "miami dolphins",
+        "@miamidolphins",
+        "dolphins",
+        "#finsup"
+      ],
+      "link_terms": [
+        "miamidolphins.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "name": "Vikings",
+    "city": "Minnesota",
+    "abbreviation": "MIN",
+    "color": "#4f2683",
+    "alternateColor": "#ffc62f",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "North",
+    "bdlID": 23,
+    "x": {
+      "list_id": "1415547911195086849",
+      "handle": "Vikings",
+      "accept_official_posts": true,
+      "match_terms": [
+        "minnesota vikings",
+        "@vikings",
+        "vikings",
+        "#skol"
+      ],
+      "link_terms": [
+        "vikings.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "name": "Patriots",
+    "city": "New England",
+    "abbreviation": "NE",
+    "color": "#002a5c",
+    "alternateColor": "#c60c30",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "East",
+    "bdlID": 1,
+    "x": {
+      "list_id": "1574085879840342016",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "new england patriots",
+        "patriots",
+        "#nepats"
+      ],
+      "link_terms": [
+        "patriots.com",
+        "patspulpit.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "name": "Saints",
+    "city": "New Orleans",
+    "abbreviation": "NO",
+    "color": "#d3bc8d",
+    "alternateColor": "#000000",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "South",
+    "bdlID": 26,
+    "x": {
+      "list_id": "2099665749971177778",
+      "handle": "Saints",
+      "accept_official_posts": true,
+      "match_terms": [
+        "new orleans saints",
+        "@saints",
+        "#saints",
+        "#whodat"
+      ],
+      "link_terms": [
+        "neworleanssaints.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "name": "Giants",
+    "city": "New York",
+    "abbreviation": "NYG",
+    "color": "#003c7f",
+    "alternateColor": "#c9243f",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "East",
+    "bdlID": 20,
+    "x": {
+      "list_id": "1415546804708331521",
+      "handle": "Giants",
+      "accept_official_posts": true,
+      "match_terms": [
+        "new york giants",
+        "@giants",
+        "#nygiants",
+        "#giants",
+        "#bigblue"
+      ],
+      "link_terms": [
+        "giants.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "name": "Jets",
+    "city": "New York",
+    "abbreviation": "NYJ",
+    "color": "#115740",
+    "alternateColor": "#ffffff",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "East",
+    "bdlID": 4,
+    "x": {
+      "list_id": "1415545289885175809",
+      "handle": null,
+      "accept_official_posts": false,
+      "match_terms": [
+        "new york jets",
+        "#jets",
+        "#jetup",
+        "@nyjets"
+      ],
+      "link_terms": [
+        "newyorkjets.com",
+        "jetswire.usatoday.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "name": "Eagles",
+    "city": "Philadelphia",
+    "abbreviation": "PHI",
+    "color": "#06424d",
+    "alternateColor": "#000000",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "East",
+    "bdlID": 18,
+    "x": {
+      "list_id": "1415546638106460163",
+      "handle": "Eagles",
+      "accept_official_posts": true,
+      "match_terms": [
+        "philadelphia eagles",
+        "@eagles",
+        "#eagles",
+        "#flyeaglesfly"
+      ],
+      "link_terms": [
+        "philadelphiaeagles.com",
+        "theeagleswire.usatoday.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "name": "Steelers",
+    "city": "Pittsburgh",
+    "abbreviation": "PIT",
+    "color": "#000000",
+    "alternateColor": "#ffb612",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "North",
+    "bdlID": 7,
+    "x": {
+      "list_id": "1415545920330993664",
+      "handle": "steelers",
+      "accept_official_posts": true,
+      "match_terms": [
+        "pittsburgh steelers",
+        "@steelers",
+        "steelers",
+        "#herewego"
+      ],
+      "link_terms": [
+        "steelers.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "name": "49ers",
+    "city": "San Francisco",
+    "abbreviation": "SF",
+    "color": "#aa0000",
+    "alternateColor": "#b3995d",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "West",
+    "bdlID": 30,
+    "x": {
+      "list_id": "1415542579651747840",
+      "handle": "49ers",
+      "accept_official_posts": true,
+      "match_terms": [
+        "san francisco 49ers",
+        "@49ers",
+        "49ers",
+        "#fttb",
+        "#niners",
+        "@49ers"
+      ],
+      "link_terms": [
+        "49ers.com",
+        "49erswebzone.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "name": "Seahawks",
+    "city": "Seattle",
+    "abbreviation": "SEA",
+    "color": "#002a5c",
+    "alternateColor": "#69be28",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "West",
+    "bdlID": 31,
+    "x": {
+      "list_id": "1415548817647144960",
+      "handle": "Seahawks",
+      "accept_official_posts": true,
+      "match_terms": [
+        "seattle seahawks",
+        "@seahawks",
+        "seahawks",
+        "@seahawks",
+        "#gohawks"
+      ],
+      "link_terms": [
+        "seahawks.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "name": "Buccaneers",
+    "city": "Tampa Bay",
+    "abbreviation": "TB",
+    "color": "#bd1c36",
+    "alternateColor": "#3e3a35",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "South",
+    "bdlID": 28,
+    "x": {
+      "list_id": "1415548112601444359",
+      "handle": "Buccaneers",
+      "accept_official_posts": true,
+      "match_terms": [
+        "tampa bay buccaneers",
+        "@buccaneers",
+        "buccaneers",
+        "#bucs",
+        "@buccaneers",
+        "#raisetheflags"
+      ],
+      "link_terms": [
+        "buccaneers.com",
+        "bucswire.usatoday.com",
+        "pewterreport.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "name": "Titans",
+    "city": "Tennessee",
+    "abbreviation": "TEN",
+    "color": "#4495d2",
+    "alternateColor": "#001532",
+    "conference": "AFC",
+    "sportID": "NFL",
+    "division": "South",
+    "bdlID": 11,
+    "x": {
+      "list_id": "2104929818710085682",
+      "handle": "Titans",
+      "accept_official_posts": true,
+      "match_terms": [
+        "tennessee titans",
+        "@titans",
+        "#titans",
+        "#titanup"
+      ],
+      "link_terms": [
+        "tennesseetitans.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "name": "Commanders",
+    "city": "Washington",
+    "abbreviation": "WSH",
+    "color": "#5a1414",
+    "alternateColor": "#ffb612",
+    "conference": "NFC",
+    "sportID": "NFL",
+    "division": "East",
+    "bdlID": 21,
+    "x": {
+      "list_id": "1415547087232503810",
+      "handle": "Commanders",
+      "accept_official_posts": true,
+      "match_terms": [
+        "washington commanders",
+        "@commanders",
+        "commanders",
+        "@commanders",
+        "#raisehail"
+      ],
+      "link_terms": [
+        "commanders.com"
+      ],
+      "excluded_terms": [
+        "#mlb",
+        "#nba",
+        "#nhl"
+      ]
+    }
+  }
+]

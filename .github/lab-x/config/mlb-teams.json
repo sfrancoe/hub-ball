@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "teams": [
+    {
+      "id": "boston", "swift_case": "boston", "mlb_id": 111, "full_name": "Boston Red Sox", "city_name": "Boston", "short_name": "Red Sox", "abbreviation": "BOS", "city_abbreviation": "BOS", "api_key": "redsox", "data_directory": "redsox", "x_handle": "RedSox", "legacy_root_data": true, "league": "AL", "division": "East", "fangraphs_id": 3, "baseball_reference_id": "BOS",
+      "colors": {"primary": "#BD3039", "secondary": "#15324B", "background": "#EAF1F6", "ink": "#17212B", "border": "#D8E1E8", "positive": "#287052", "banner": "#B8333D", "accent_dark": "#8B0C13", "navigation": "#133E2D"},
+      "news_sources": [{"key": "globe", "name": "Globe", "url": "https://www.bostonglobe.com/sports/red-sox/", "adapter": {"kind": "arc_stories", "url": "https://www.bostonglobe.com/sports/baseball/redsox/", "section": "red sox", "max": 16, "source_name": "The Boston Globe"}}, {"key": "herald", "name": "Herald", "url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/", "adapter": {"kind": "wordpress", "url": "https://www.bostonherald.com/wp-json/wp/v2/posts?categories=11890&per_page=16&orderby=date&order=desc&_fields=link%2Cdate_gmt%2Ctitle%2Cexcerpt", "url_prefix": "https://www.bostonherald.com/", "category": "Boston Red Sox", "max": 16, "source_name": "The Boston Herald"}}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/red-sox/", "adapter": {"kind": "rss", "url": "https://www.nytimes.com/athletic/rss/mlb/redsox/", "url_prefix": "https://www.nytimes.com/athletic/", "require_description": true, "category": "Boston Red Sox", "strip_title_prefix": "^season(?=[A-Z])", "max": 16}}, {"key": "masslive", "name": "MassLive", "url": "https://www.masslive.com/redsox/", "adapter": {"kind": "rss", "url": "https://www.masslive.com/arc/outboundfeeds/rss/category/redsox/?outputType=xml", "url_prefix": "https://www.masslive.com/", "require_description": true, "category": "Red Sox", "strip_title_prefix": "^season(?=[A-Z])", "max": 16}}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": true}
+    },
+    {
+      "id": "new-york", "swift_case": "newYork", "mlb_id": 147, "full_name": "New York Yankees", "city_name": "New York", "short_name": "Yankees", "abbreviation": "NYY", "city_abbreviation": "NY", "api_key": "yankees", "data_directory": "yankees", "x_handle": "Yankees", "x_seed_post_url": "https://x.com/Yankees/status/2036601543978324203", "legacy_root_data": false, "league": "AL", "division": "East", "fangraphs_id": 9, "baseball_reference_id": "NYY",
+      "colors": {"primary": "#0C2340", "secondary": "#0C2340", "background": "#E8EEF4", "ink": "#061527", "border": "#C6D2DE", "positive": "#1B3F65", "banner": "#0C2340", "accent_dark": "#061527", "navigation": "#0C2340"},
+      "news_sources": [{"key": "dailynews", "name": "Daily News", "url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/", "adapter": {"kind": "dailynews", "url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/", "match": "yankee", "source_name": "New York Daily News"}}, {"key": "nypost", "name": "NY Post", "url": "https://nypost.com/sports/yankees/", "adapter": {"kind": "nypost", "url": "https://nypost.com/sports/yankees/", "match": "yankee", "source_name": "New York Post"}}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/yankees/", "adapter": {"kind": "rss", "url": "https://www.nytimes.com/athletic/rss/mlb/yankees/", "match": "yankee", "exclude_phrases": ["red sox folk hero"]}}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": true}
+    },
+    {
+      "id": "new-york-mets", "swift_case": "newYorkMets", "mlb_id": 121, "full_name": "New York Mets", "city_name": "New York", "short_name": "Mets", "abbreviation": "NYM", "city_abbreviation": "NY", "api_key": "mets", "data_directory": "mets", "x_handle": "Mets", "legacy_root_data": false, "league": "NL", "division": "East", "fangraphs_id": 25, "baseball_reference_id": "NYM",
+      "colors": {"primary": "#FF5910", "secondary": "#002D72", "background": "#EAF1FA", "ink": "#061A35", "border": "#C6D4E6", "positive": "#002D72", "banner": "#FF5910", "accent_dark": "#C33A00", "navigation": "#002D72"},
+      "news_sources": [{"key": "dailynews", "name": "Daily News", "url": "https://www.nydailynews.com/sports/mlb/new-york-mets/", "adapter": {"kind": "dailynews", "url": "https://www.nydailynews.com/sports/mlb/new-york-mets/", "match": "mets", "source_name": "New York Daily News"}}, {"key": "nypost", "name": "NY Post", "url": "https://nypost.com/sports/mets/", "adapter": {"kind": "nypost", "url": "https://nypost.com/new-york-mets/", "match": "mets", "source_name": "New York Post"}}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/mets/", "adapter": {"kind": "rss", "url": "https://www.nytimes.com/athletic/rss/mlb/mets/", "match": "mets", "exclude_phrases": ["red sox folk hero"]}}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "tampa-bay", "swift_case": "tampaBay", "mlb_id": 139, "full_name": "Tampa Bay Rays", "city_name": "Tampa Bay", "short_name": "Rays", "abbreviation": "TB", "city_abbreviation": "TB", "api_key": "rays", "data_directory": "rays", "x_handle": "RaysBaseball", "x_seed_post_url": "https://x.com/RaysBaseball/status/1968447252734820833", "legacy_root_data": false, "league": "AL", "division": "East", "fangraphs_id": 12, "baseball_reference_id": "TBR",
+      "colors": {"primary": "#007AB2", "secondary": "#092647", "background": "#E7F3FA", "ink": "#051B32", "border": "#B5D2E1", "positive": "#669E29", "banner": "#669E29", "accent_dark": "#004F80", "navigation": "#092647"},
+      "news_sources": [{"key": "tampabay", "name": "Tampa Bay Times", "url": "https://www.tampabay.com/sports/rays/", "adapter": {"kind": "fusion", "url": "https://www.tampabay.com/sports/rays/", "path_prefix": "/sports/rays/"}}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/rays/", "adapter": {"kind": "rss", "url": "https://www.nytimes.com/athletic/rss/mlb/rays/", "match": "rays"}}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "baltimore", "swift_case": "baltimore", "mlb_id": 110, "full_name": "Baltimore Orioles", "city_name": "Baltimore", "short_name": "Orioles", "abbreviation": "BAL", "city_abbreviation": "BAL", "api_key": "orioles", "data_directory": "orioles", "x_handle": "Orioles", "legacy_root_data": false, "league": "AL", "division": "East", "fangraphs_id": 2, "baseball_reference_id": "BAL",
+      "colors": {"primary": "#DF4601", "secondary": "#27251F", "background": "#F8EEE8", "ink": "#27251F", "border": "#DFCBBF", "positive": "#4B6B3C"},
+      "news_sources": [{"key": "baltimore-sun", "name": "Baltimore Sun", "url": "https://www.baltimoresun.com/sports/orioles/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/orioles/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "toronto", "swift_case": "toronto", "mlb_id": 141, "full_name": "Toronto Blue Jays", "city_name": "Toronto", "short_name": "Blue Jays", "abbreviation": "TOR", "city_abbreviation": "TOR", "api_key": "bluejays", "data_directory": "bluejays", "x_handle": "BlueJays", "legacy_root_data": false, "league": "AL", "division": "East", "fangraphs_id": 14, "baseball_reference_id": "TOR",
+      "colors": {"primary": "#134A8E", "secondary": "#1D2D5C", "background": "#E9F1F8", "ink": "#10213B", "border": "#C3D4E4", "positive": "#2D6A4F"},
+      "news_sources": [{"key": "toronto-star", "name": "Toronto Star", "url": "https://www.thestar.com/sports/blue-jays/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/blue-jays/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "chicago-white-sox", "swift_case": "chicagoWhiteSox", "mlb_id": 145, "full_name": "Chicago White Sox", "city_name": "Chicago", "short_name": "White Sox", "abbreviation": "CWS", "city_abbreviation": "CHI", "api_key": "whitesox", "data_directory": "whitesox", "x_handle": "whitesox", "legacy_root_data": false, "league": "AL", "division": "Central", "fangraphs_id": 4, "baseball_reference_id": "CHW",
+      "colors": {"primary": "#27251F", "secondary": "#C4CED4", "background": "#F0F1F1", "ink": "#1B1B1B", "border": "#CED3D6", "positive": "#435A4B"},
+      "news_sources": [{"key": "chicago-tribune", "name": "Chicago Tribune", "url": "https://www.chicagotribune.com/sports/white-sox/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/white-sox/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "cleveland", "swift_case": "cleveland", "mlb_id": 114, "full_name": "Cleveland Guardians", "city_name": "Cleveland", "short_name": "Guardians", "abbreviation": "CLE", "city_abbreviation": "CLE", "api_key": "guardians", "data_directory": "guardians", "x_handle": "CleGuardians", "legacy_root_data": false, "league": "AL", "division": "Central", "fangraphs_id": 5, "baseball_reference_id": "CLE",
+      "colors": {"primary": "#E50022", "secondary": "#00385D", "background": "#EAF0F4", "ink": "#092033", "border": "#C4D0D8", "positive": "#2C6E49"},
+      "news_sources": [{"key": "cleveland", "name": "Cleveland.com", "url": "https://www.cleveland.com/guardians/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/guardians/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "detroit", "swift_case": "detroit", "mlb_id": 116, "full_name": "Detroit Tigers", "city_name": "Detroit", "short_name": "Tigers", "abbreviation": "DET", "city_abbreviation": "DET", "api_key": "tigers", "data_directory": "tigers", "x_handle": "tigers", "legacy_root_data": false, "league": "AL", "division": "Central", "fangraphs_id": 6, "baseball_reference_id": "DET",
+      "colors": {"primary": "#0C2340", "secondary": "#FA4616", "background": "#EDF1F5", "ink": "#0C2340", "border": "#CAD3DC", "positive": "#3D6B57"},
+      "news_sources": [{"key": "detroit-free-press", "name": "Detroit Free Press", "url": "https://www.freep.com/sports/tigers/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/tigers/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "kansas-city", "swift_case": "kansasCity", "mlb_id": 118, "full_name": "Kansas City Royals", "city_name": "Kansas City", "short_name": "Royals", "abbreviation": "KC", "city_abbreviation": "KC", "api_key": "royals", "data_directory": "royals", "x_handle": "Royals", "legacy_root_data": false, "league": "AL", "division": "Central", "fangraphs_id": 7, "baseball_reference_id": "KCR",
+      "colors": {"primary": "#004687", "secondary": "#BD9B60", "background": "#EAF1F7", "ink": "#08243E", "border": "#C2D2E0", "positive": "#4D704C"},
+      "news_sources": [{"key": "kansas-city-star", "name": "Kansas City Star", "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/royals/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "minnesota", "swift_case": "minnesota", "mlb_id": 142, "full_name": "Minnesota Twins", "city_name": "Minnesota", "short_name": "Twins", "abbreviation": "MIN", "city_abbreviation": "MIN", "api_key": "twins", "data_directory": "twins", "x_handle": "Twins", "legacy_root_data": false, "league": "AL", "division": "Central", "fangraphs_id": 8, "baseball_reference_id": "MIN",
+      "colors": {"primary": "#D31145", "secondary": "#002B5C", "background": "#EDF1F5", "ink": "#0B2137", "border": "#C8D2DC", "positive": "#3E6B54"},
+      "news_sources": [{"key": "star-tribune", "name": "Star Tribune", "url": "https://www.startribune.com/sports/twins/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/twins/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "houston", "swift_case": "houston", "mlb_id": 117, "full_name": "Houston Astros", "city_name": "Houston", "short_name": "Astros", "abbreviation": "HOU", "city_abbreviation": "HOU", "api_key": "astros", "data_directory": "astros", "x_handle": "astros", "x_seed_post_url": "https://x.com/astros/status/2021625374468440070", "legacy_root_data": false, "league": "AL", "division": "West", "fangraphs_id": 21, "baseball_reference_id": "HOU",
+      "colors": {"primary": "#EB6E1F", "secondary": "#002D62", "background": "#F7EFEA", "ink": "#10253C", "border": "#D8C9BF", "positive": "#356A50"},
+      "news_sources": [{"key": "houston-chronicle", "name": "Houston Chronicle", "url": "https://www.houstonchronicle.com/sports/astros/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/astros/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "los-angeles-angels", "swift_case": "losAngelesAngels", "mlb_id": 108, "full_name": "Los Angeles Angels", "city_name": "Los Angeles", "short_name": "Angels", "abbreviation": "LAA", "city_abbreviation": "LA", "api_key": "angels", "data_directory": "angels", "x_handle": "Angels", "legacy_root_data": false, "league": "AL", "division": "West", "fangraphs_id": 1, "baseball_reference_id": "LAA",
+      "colors": {"primary": "#BA0021", "secondary": "#003263", "background": "#F5EBEE", "ink": "#132A40", "border": "#D9C5CB", "positive": "#356A50"},
+      "news_sources": [{"key": "orange-county-register", "name": "OC Register", "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/angels/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "athletics", "swift_case": "athletics", "mlb_id": 133, "full_name": "Athletics", "city_name": "Sacramento", "short_name": "Athletics", "abbreviation": "ATH", "city_abbreviation": "SAC", "api_key": "athletics", "data_directory": "athletics", "x_handle": "Athletics", "legacy_root_data": false, "league": "AL", "division": "West", "fangraphs_id": 10, "baseball_reference_id": "ATH", "baseball_reference_aliases": ["OAK"],
+      "colors": {"primary": "#003831", "secondary": "#EFB21E", "background": "#EDF3F0", "ink": "#12312D", "border": "#C6D7D1", "positive": "#007A4D"},
+      "news_sources": [{"key": "nbc-sports-bay-area", "name": "NBC Sports Bay Area", "url": "https://www.nbcsportsbayarea.com/mlb/oakland-athletics/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/athletics/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "seattle", "swift_case": "seattle", "mlb_id": 136, "full_name": "Seattle Mariners", "city_name": "Seattle", "short_name": "Mariners", "abbreviation": "SEA", "city_abbreviation": "SEA", "api_key": "mariners", "data_directory": "mariners", "x_handle": "Mariners", "legacy_root_data": false, "league": "AL", "division": "West", "fangraphs_id": 11, "baseball_reference_id": "SEA",
+      "colors": {"primary": "#0C2C56", "secondary": "#005C5C", "background": "#EAF1F3", "ink": "#10283A", "border": "#C2D2D6", "positive": "#147D6C"},
+      "news_sources": [{"key": "seattle-times", "name": "Seattle Times", "url": "https://www.seattletimes.com/sports/mariners/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/mariners/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "texas", "swift_case": "texas", "mlb_id": 140, "full_name": "Texas Rangers", "city_name": "Texas", "short_name": "Rangers", "abbreviation": "TEX", "city_abbreviation": "TEX", "api_key": "rangers", "data_directory": "rangers", "x_handle": "Rangers", "x_seed_post_url": "https://x.com/Rangers/status/2040140071345729675", "legacy_root_data": false, "league": "AL", "division": "West", "fangraphs_id": 13, "baseball_reference_id": "TEX",
+      "colors": {"primary": "#C0111F", "secondary": "#003278", "background": "#EEF1F6", "ink": "#102644", "border": "#C7D1DF", "positive": "#3A6B50"},
+      "news_sources": [{"key": "dallas-morning-news", "name": "Dallas Morning News", "url": "https://www.dallasnews.com/sports/rangers/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/rangers/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "atlanta", "swift_case": "atlanta", "mlb_id": 144, "full_name": "Atlanta Braves", "city_name": "Atlanta", "short_name": "Braves", "abbreviation": "ATL", "city_abbreviation": "ATL", "api_key": "braves", "data_directory": "braves", "x_handle": "Braves", "legacy_root_data": false, "league": "NL", "division": "East", "fangraphs_id": 16, "baseball_reference_id": "ATL",
+      "colors": {"primary": "#CE1141", "secondary": "#13274F", "background": "#F1EDF1", "ink": "#16253D", "border": "#D4C8CF", "positive": "#3C6A50"},
+      "news_sources": [{"key": "atlanta-journal-constitution", "name": "AJC", "url": "https://www.ajc.com/sports/atlanta-braves/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/braves/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "miami", "swift_case": "miami", "mlb_id": 146, "full_name": "Miami Marlins", "city_name": "Miami", "short_name": "Marlins", "abbreviation": "MIA", "city_abbreviation": "MIA", "api_key": "marlins", "data_directory": "marlins", "x_handle": "Marlins", "legacy_root_data": false, "league": "NL", "division": "East", "fangraphs_id": 20, "baseball_reference_id": "MIA",
+      "colors": {"primary": "#00A3E0", "secondary": "#041E42", "background": "#E9F4F8", "ink": "#10253B", "border": "#C2D7DF", "positive": "#32705A"},
+      "news_sources": [{"key": "miami-herald", "name": "Miami Herald", "url": "https://www.miamiherald.com/sports/mlb/miami-marlins/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/marlins/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "philadelphia", "swift_case": "philadelphia", "mlb_id": 143, "full_name": "Philadelphia Phillies", "city_name": "Philadelphia", "short_name": "Phillies", "abbreviation": "PHI", "city_abbreviation": "PHI", "api_key": "phillies", "data_directory": "phillies", "x_handle": "Phillies", "legacy_root_data": false, "league": "NL", "division": "East", "fangraphs_id": 26, "baseball_reference_id": "PHI",
+      "colors": {"primary": "#E81828", "secondary": "#002D72", "background": "#F4ECEF", "ink": "#102744", "border": "#D7C7CD", "positive": "#39705A"},
+      "news_sources": [{"key": "philadelphia-inquirer", "name": "Inquirer", "url": "https://www.inquirer.com/phillies/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/phillies/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "washington", "swift_case": "washington", "mlb_id": 120, "full_name": "Washington Nationals", "city_name": "Washington", "short_name": "Nationals", "abbreviation": "WSH", "city_abbreviation": "WSH", "api_key": "nationals", "data_directory": "nationals", "x_handle": "Nationals", "legacy_root_data": false, "league": "NL", "division": "East", "fangraphs_id": 24, "baseball_reference_id": "WSN",
+      "colors": {"primary": "#AB0003", "secondary": "#14225A", "background": "#F2EBED", "ink": "#18233E", "border": "#D4C5CA", "positive": "#3C6A50"},
+      "news_sources": [{"key": "washington-post", "name": "Washington Post", "url": "https://www.washingtonpost.com/sports/nationals/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/nationals/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "chicago-cubs", "swift_case": "chicagoCubs", "mlb_id": 112, "full_name": "Chicago Cubs", "city_name": "Chicago", "short_name": "Cubs", "abbreviation": "CHC", "city_abbreviation": "CHI", "api_key": "cubs", "data_directory": "cubs", "x_handle": "Cubs", "legacy_root_data": false, "league": "NL", "division": "Central", "fangraphs_id": 17, "baseball_reference_id": "CHC",
+      "colors": {"primary": "#CC3433", "secondary": "#0E3386", "background": "#EDF0F6", "ink": "#15294B", "border": "#C9D0DF", "positive": "#3C6A50"},
+      "news_sources": [{"key": "chicago-tribune", "name": "Chicago Tribune", "url": "https://www.chicagotribune.com/sports/cubs/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/cubs/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "cincinnati", "swift_case": "cincinnati", "mlb_id": 113, "full_name": "Cincinnati Reds", "city_name": "Cincinnati", "short_name": "Reds", "abbreviation": "CIN", "city_abbreviation": "CIN", "api_key": "reds", "data_directory": "reds", "x_handle": "Reds", "legacy_root_data": false, "league": "NL", "division": "Central", "fangraphs_id": 18, "baseball_reference_id": "CIN",
+      "colors": {"primary": "#C6011F", "secondary": "#000000", "background": "#F4EBED", "ink": "#221B1C", "border": "#D8C7CB", "positive": "#3B6B50"},
+      "news_sources": [{"key": "cincinnati-enquirer", "name": "Enquirer", "url": "https://www.cincinnati.com/sports/reds/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/reds/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "milwaukee", "swift_case": "milwaukee", "mlb_id": 158, "full_name": "Milwaukee Brewers", "city_name": "Milwaukee", "short_name": "Brewers", "abbreviation": "MIL", "city_abbreviation": "MIL", "api_key": "brewers", "data_directory": "brewers", "x_handle": "Brewers", "legacy_root_data": false, "league": "NL", "division": "Central", "fangraphs_id": 23, "baseball_reference_id": "MIL",
+      "colors": {"primary": "#FFC52F", "secondary": "#12284B", "background": "#F8F4E8", "ink": "#17263D", "border": "#DDD4BD", "positive": "#47704D"},
+      "news_sources": [{"key": "milwaukee-journal-sentinel", "name": "Journal Sentinel", "url": "https://www.jsonline.com/sports/brewers/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/brewers/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": true}
+    },
+    {
+      "id": "pittsburgh", "swift_case": "pittsburgh", "mlb_id": 134, "full_name": "Pittsburgh Pirates", "city_name": "Pittsburgh", "short_name": "Pirates", "abbreviation": "PIT", "city_abbreviation": "PIT", "api_key": "pirates", "data_directory": "pirates", "x_handle": "Pirates", "legacy_root_data": false, "league": "NL", "division": "Central", "fangraphs_id": 27, "baseball_reference_id": "PIT",
+      "colors": {"primary": "#FDB827", "secondary": "#27251F", "background": "#F8F4E8", "ink": "#29261F", "border": "#DDD4BE", "positive": "#48704E"},
+      "news_sources": [{"key": "pittsburgh-post-gazette", "name": "Post-Gazette", "url": "https://www.post-gazette.com/sports/pirates"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/pirates/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "st-louis", "swift_case": "stLouis", "mlb_id": 138, "full_name": "St. Louis Cardinals", "city_name": "St. Louis", "short_name": "Cardinals", "abbreviation": "STL", "city_abbreviation": "STL", "api_key": "cardinals", "data_directory": "cardinals", "x_handle": "Cardinals", "legacy_root_data": false, "league": "NL", "division": "Central", "fangraphs_id": 28, "baseball_reference_id": "STL",
+      "colors": {"primary": "#C41E3A", "secondary": "#0C2340", "background": "#F3ECEE", "ink": "#17263B", "border": "#D7C7CB", "positive": "#3B6B50"},
+      "news_sources": [{"key": "st-louis-post-dispatch", "name": "Post-Dispatch", "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/cardinals/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "arizona", "swift_case": "arizona", "mlb_id": 109, "full_name": "Arizona Diamondbacks", "city_name": "Arizona", "short_name": "Diamondbacks", "abbreviation": "ARI", "city_abbreviation": "ARI", "api_key": "diamondbacks", "data_directory": "diamondbacks", "x_handle": "Dbacks", "legacy_root_data": false, "league": "NL", "division": "West", "fangraphs_id": 15, "baseball_reference_id": "ARI",
+      "colors": {"primary": "#A71930", "secondary": "#000000", "background": "#F2EBED", "ink": "#251C1E", "border": "#D5C6CA", "positive": "#3D6C51"},
+      "news_sources": [{"key": "arizona-republic", "name": "Arizona Republic", "url": "https://www.azcentral.com/sports/diamondbacks/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/diamondbacks/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "colorado", "swift_case": "colorado", "mlb_id": 115, "full_name": "Colorado Rockies", "city_name": "Colorado", "short_name": "Rockies", "abbreviation": "COL", "city_abbreviation": "COL", "api_key": "rockies", "data_directory": "rockies", "x_handle": "Rockies", "legacy_root_data": false, "league": "NL", "division": "West", "fangraphs_id": 19, "baseball_reference_id": "COL",
+      "colors": {"primary": "#33006F", "secondary": "#C4CED4", "background": "#F0EDF4", "ink": "#271D35", "border": "#D1C9D9", "positive": "#3E6C51"},
+      "news_sources": [{"key": "denver-post", "name": "Denver Post", "url": "https://www.denverpost.com/sports/colorado-rockies/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/rockies/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "los-angeles-dodgers", "swift_case": "losAngelesDodgers", "mlb_id": 119, "full_name": "Los Angeles Dodgers", "city_name": "Los Angeles", "short_name": "Dodgers", "abbreviation": "LAD", "city_abbreviation": "LA", "api_key": "dodgers", "data_directory": "dodgers", "x_handle": "Dodgers", "x_seed_post_url": "https://x.com/Dodgers/status/2025306614832693648", "legacy_root_data": false, "league": "NL", "division": "West", "fangraphs_id": 22, "baseball_reference_id": "LAD",
+      "colors": {"primary": "#005A9C", "secondary": "#EF3E42", "background": "#EAF2F8", "ink": "#102940", "border": "#C3D4E1", "positive": "#39705A"},
+      "news_sources": [{"key": "los-angeles-times", "name": "LA Times", "url": "https://www.latimes.com/sports/dodgers"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "san-diego", "swift_case": "sanDiego", "mlb_id": 135, "full_name": "San Diego Padres", "city_name": "San Diego", "short_name": "Padres", "abbreviation": "SD", "city_abbreviation": "SD", "api_key": "padres", "data_directory": "padres", "x_handle": "Padres", "legacy_root_data": false, "league": "NL", "division": "West", "fangraphs_id": 29, "baseball_reference_id": "SDP",
+      "colors": {"primary": "#2F241D", "secondary": "#FFC425", "background": "#F5F0E8", "ink": "#2B251F", "border": "#D8CEBE", "positive": "#4A704E"},
+      "news_sources": [{"key": "san-diego-union-tribune", "name": "Union-Tribune", "url": "https://www.sandiegouniontribune.com/sports/padres/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/padres/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    },
+    {
+      "id": "san-francisco", "swift_case": "sanFrancisco", "mlb_id": 137, "full_name": "San Francisco Giants", "city_name": "San Francisco", "short_name": "Giants", "abbreviation": "SF", "city_abbreviation": "SF", "api_key": "giants", "data_directory": "giants", "x_handle": "SFGiants", "legacy_root_data": false, "league": "NL", "division": "West", "fangraphs_id": 30, "baseball_reference_id": "SFG",
+      "colors": {"primary": "#FD5A1E", "secondary": "#27251F", "background": "#F7EEE9", "ink": "#2A231F", "border": "#DCCABE", "positive": "#47704E"},
+      "news_sources": [{"key": "nbc-sports-bay-area", "name": "NBC Sports Bay Area", "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"}, {"key": "athletic", "name": "The Athletic", "url": "https://www.nytimes.com/athletic/mlb/team/giants/"}],
+      "features": {"native_picker": true, "home": true, "recent_game": true, "schedule": true, "standings": true, "pitching": true, "leaders": true, "news": true, "x_posts": true, "players": true, "stories": false}
+    }
+  ]
+}
