@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "A former Celtics player and assistant said a reported confrontation between Jaylen Brown and Jayson Tatum “didn’t happen.”",
+        "published": "2026-11-11T00:17:55Z",
+        "title": "Former Celtic disputes new Jaylen Brown-Jayson Tatum report",
+        "url": "https://www.bostonherald.com/2026/11/10/former-celtic-disputes-new-jaylen-brown-jayson-tatum-report/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "“I can’t talk (enough) about just the thrill and the happiness and excitement and joy that it has brought being here (in Boston).”",
         "published": "2026-11-10T18:36:03Z",
         "title": "Paul George in his element with Celtics: ‘It’s exceeded my expectations’",
@@ -105,16 +112,9 @@
         "published": "2026-11-03T16:44:27Z",
         "title": "‘That’s what I do’: Marcus Smart plays heel vs. former team to help Rockets beat Celtics",
         "url": "https://www.bostonherald.com/2026/11/03/thats-what-i-do-marcus-smart-plays-heel-vs-former-team-to-help-rockets-beat-celtics/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Playing with heavy legs and a shorthanded roster, the Celtics lost to the Rockets to end their five-game win streak.",
-        "published": "2026-11-03T04:07:09Z",
-        "title": "Tired Celtics can’t keep pace with Rockets as five-game win streak ends",
-        "url": "https://www.bostonherald.com/2026/11/02/tired-celtics-cant-keep-pace-with-rockets-as-five-game-win-streak-ends/"
       }
     ],
-    "generated_at": "2026-11-10T18:37:13.958057+00:00",
+    "generated_at": "2026-11-11T00:19:04.302577+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
