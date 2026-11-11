@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Chad Finn",
+        "description": "It doesn’t feel quite right that the Celtics had to zip to Toronto for the second half of a back-to-back after Tuesday night’s throttling of the 76ers.",
+        "published": "2026-11-11T18:37:27.282Z",
+        "title": "Paul George was the star of the night, and other leftover thoughts from the Celtics’ dominant win over the rival 76ers",
+        "url": "https://www.bostonglobe.com/2026/11/11/sports/celtics-76ers-paul-george-jayson-tatum/"
+      },
+      {
         "category": "Celtics at Raptors | 7 p.m. (NBCSB)",
         "description": "The Celtics will look to extend their winning streak after coming out on top in their showdown against the 76ers.",
         "published": "2026-11-11T17:32:42.087Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-07T05:06:11.688Z",
         "title": "Jayson Tatum, Celtics hit from long range early and often in rout of Hornets",
         "url": "https://www.bostonglobe.com/2026/11/06/sports/celtics-hornets-game-score/"
-      },
-      {
-        "category": "NBA",
-        "description": "Porzingis's status has been uncertain since late September, when the Warriors announced he would be out indefinitely with an undisclosed health issue.",
-        "published": "2026-11-06T23:53:48.128Z",
-        "title": "Warriors center and former Celtic Kristaps Porzingis steps away from the NBA to focus on health issue",
-        "url": "https://www.bostonglobe.com/2026/11/06/sports/kristaps-porzingis-nba-warriors-celtics/"
       }
     ],
-    "generated_at": "2026-11-11T17:45:11.277090+00:00",
+    "generated_at": "2026-11-11T18:45:36.900340+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
