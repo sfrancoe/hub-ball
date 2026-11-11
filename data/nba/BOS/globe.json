@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "CELTICS NOTEBOOK",
+        "description": "Tatum and Brown didn't speak to reporters — or each other — before their first matchup as opponents Tuesday night.",
+        "published": "2026-11-11T02:27:41.565Z",
+        "title": "Showdown between Jayson Tatum and ex-Celtics teammate Jaylen Brown crackled with intensity",
+        "url": "https://www.bostonglobe.com/2026/11/10/sports/celtics-76ers-showdown-nba-basketball/"
+      },
+      {
         "category": "Celtics at 76ers | 8 p.m. (NBC, NBCSB, Peacock)",
         "description": "Tuesday night's matchup will be the first time Tatum and Brown meet as opponents after nine seasons as teammates.",
         "published": "2026-11-10T16:04:32.405Z",
@@ -14,13 +21,6 @@
         "published": "2026-11-09T16:17:20.133Z",
         "title": "Catching up with Marcus Smart, who has given the Rockets a boost",
         "url": "https://www.bostonglobe.com/2026/11/09/sports/marcus-smart-houston-rockets/"
-      },
-      {
-        "category": "celtics",
-        "description": "Tuesday marks the first game for the pair as opponents. Sources around the Celtics detail how the two stars' paths diverged.",
-        "published": "2026-11-09T13:05:44.456Z",
-        "title": "Inside the final days of Jaylen Brown and Jayson Tatum’s tenure as Celtics teammates",
-        "url": "https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/"
       },
       {
         "category": "Celtics",
@@ -114,7 +114,7 @@
         "url": "https://www.bostonglobe.com/2026/11/04/sports/celtics-bucks-nba-basketball/"
       }
     ],
-    "generated_at": "2026-11-10T16:16:12.538005+00:00",
+    "generated_at": "2026-11-11T02:29:49.193821+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
