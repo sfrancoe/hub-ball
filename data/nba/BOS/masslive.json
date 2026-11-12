@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics have been one of the best clutch teams in the league to begin the season in one key area.",
+        "published": "2026-11-12T12:07:51+00:00",
+        "title": "The quiet stat that makes Celtics start look real after Raptors comeback win",
+        "url": "https://www.masslive.com/celtics/2026/11/the-quiet-stat-that-makes-celtics-start-look-real-after-raptors-comeback-win.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics are now an East-best 10-2 after sweeping their four-game road trip.",
         "published": "2026-11-12T10:00:00+00:00",
         "title": "Celtics make history on road trip, big man comes through (Celtics Notebook)",
@@ -105,16 +112,9 @@
         "published": "2026-11-10T17:28:41+00:00",
         "title": "Paul George gushes about Celtics ahead of Sixers return: ‘I’ve been blown away’",
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-gushes-about-celtics-ahead-of-sixers-return-ive-been-blown-away.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jaylen Brown has spent weeks baiting his former Celtics teammate. How Jayson Tatum responds will be telling.",
-        "published": "2026-11-10T10:00:00+00:00",
-        "title": "Jaylen Brown wants a fight. Jayson Tatum needs to show up for it | Matt Vautour",
-        "url": "https://www.masslive.com/celtics/2026/11/jaylen-brown-wants-a-fight-jayson-tatum-needs-to-show-up-for-it.html"
       }
     ],
-    "generated_at": "2026-11-12T10:10:50.106148+00:00",
+    "generated_at": "2026-11-12T12:11:26.144058+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
