@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics were on the second night of a back-to-back, but that didn't stop them from coming back from a 22-point deficit.",
+        "published": "2026-11-12T03:38:35+00:00",
+        "title": "The most impressive part of Celtics’ 22-point comeback win over Raptors",
+        "url": "https://www.masslive.com/celtics/2026/11/the-most-impressive-part-of-celtics-22-point-comeback-win-over-raptors.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics closed out a 4-0 road trip on Wednesday night after rallying from a 22-point deficit against the Raptors.",
         "published": "2026-11-12T03:05:36+00:00",
         "title": "4 takeaways as Celtics beat Raptors after remarkable rally",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T21:34:17+00:00",
         "title": "Celtics get fortunate injury news ahead of 76ers clash",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-get-fortunate-injury-news-ahead-of-76ers-clash.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum and Jaylen Brown has had their relationship scrutinized over the past few weeks. But how did we even get here?",
-        "published": "2026-11-09T16:39:24+00:00",
-        "title": "How did Jayson Tatum, Jaylen Brown ‘lamb chops’ get to this point? Let’s recap",
-        "url": "https://www.masslive.com/celtics/2026/11/how-did-jayson-tatum-jaylen-brown-lamb-chops-get-to-this-point-lets-recap.html"
       }
     ],
-    "generated_at": "2026-11-12T03:08:38.920353+00:00",
+    "generated_at": "2026-11-12T03:48:53.620829+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
