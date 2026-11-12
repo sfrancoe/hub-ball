@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Sonny Gray finished fifth in the AL Cy Young race Wednesday — and two other Red Sox got votes in the BBWAA's newest end-of-season award race.",
+      "published": "2026-11-12T02:00:43+00:00",
+      "title": "Sonny Gray finishes 5th in AL Cy Young voting",
+      "url": "https://www.masslive.com/redsox/2026/11/where-sonny-gray-two-red-sox-relievers-finished-in-cy-young-reliever-of-the-year-races.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "What were the takeaways from Tuesday at the GM Meetings? We discussed on the latest Fenway Rundown podcast.",
       "published": "2026-11-11T16:38:07+00:00",
       "title": "Red Sox takeaways from Day 2 of the GM Meetings | The Fenway Rundown",
@@ -104,16 +111,9 @@
       "published": "2026-11-09T10:00:00+00:00",
       "title": "Red Sox release longtime reliever after DFA — and he’s expected to have strong free agent market",
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-release-longtime-reliever-after-dfa-and-hes-expected-to-have-strong-free-agent-market.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Random thoughts about (mostly) sport topics.",
-      "published": "2026-11-08T10:00:00+00:00",
-      "title": "Some Things I Think I Think: Red Sox’ needs are obvious as offseason gets underway",
-      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-needs-are-obvious-as-offseason-gets-underway.html"
     }
   ],
-  "generated_at": "2026-11-11T21:51:31.765611+00:00",
+  "generated_at": "2026-11-12T02:36:20.988664+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "category": "RED SOX NOTEBOOK",
+      "description": "The first baseman said during the World Series that \"things were in a good place\" with the Red Sox. Craig Breslow said Wednesday that \"Willson and I have spoken a bunch.\"",
+      "published": "2026-11-12T01:32:00.674Z",
+      "title": "Willson Contreras, Red Sox continue to communicate in offseason after first baseman’s criticism of analytics reliance",
+      "url": "https://www.bostonglobe.com/2026/11/11/sports/red-sox-gm-meetings/"
+    },
+    {
+      "category": "MLB",
+      "description": "Schlittler is the first Massachusetts native to earn a Cy Young since 1998 (Tom Glavine). Sonny Gray landed fifth in AL voting after his one season with the Red Sox.",
+      "published": "2026-11-12T00:59:14.282Z",
+      "title": "Walpole native Cam Schlittler takes home AL Cy Young Award — unanimously — after first full MLB season with the Yankees",
+      "url": "https://www.bostonglobe.com/2026/11/11/sports/mlb-cy-young-award/"
+    },
+    {
+      "category": "RED SOX",
+      "description": "The term reflects a more standard title for someone overseeing an MLB baseball operations department.",
+      "published": "2026-11-12T00:39:45.407Z",
+      "title": "Craig Breslow has a new title: Red Sox president of baseball operations",
+      "url": "https://www.bostonglobe.com/2026/11/11/sports/red-sox-craig-breslow-title/"
+    },
+    {
+      "category": "MLB",
+      "description": "The Cheshire, Conn., native replaces Joe Espada, whose contract wasn’t renewed after the Astros were swept by the White Sox in a Wild Card Series.",
+      "published": "2026-11-11T22:51:05.046Z",
+      "title": "Astros bring back former catcher Brad Ausmus as their manager",
+      "url": "https://www.bostonglobe.com/2026/11/11/sports/astros-brad-ausmus/"
+    },
+    {
       "category": "ON BASEBALL",
       "description": "After their abbreviated runs in 2026, the two deadline acquisitions could be considered Boston's big swings entering next season, too.",
       "published": "2026-11-11T08:00:00Z",
@@ -83,37 +111,9 @@
       "published": "2026-11-06T23:00:03.506Z",
       "title": "For Craig Breslow, adding to Red Sox’ front office ‘near or at the top of my list’ this offseason",
       "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-craig-breslow-front-office/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Sox, anticipating a return to health from Garrett Crochet and Roman Anthony, and full seasons from Adley Rutschman and Curtis Mead, appear optimistic.",
-      "published": "2026-11-06T08:00:00Z",
-      "title": "What might the 2027 Red Sox roster look like? Evaluating how Boston will attack this unusual offseason.",
-      "url": "https://www.bostonglobe.com/2026/11/06/sports/red-sox-roster-offseason/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Winners will be announced Nov. 17. Silver Sluggers are determined by a vote of every manager and three coaches from each team.",
-      "published": "2026-11-05T22:47:28.984Z",
-      "title": "Red Sox’ Wilyer Abreu, Willson Contreras named Silver Slugger Award finalists",
-      "url": "https://www.bostonglobe.com/2026/11/05/sports/red-sox-silver-slugger-abreu-contreras/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Duncan managed Scranton/Wilkes-Barre, the Yankees’ Triple-A affiliate, for the last four seasons.",
-      "published": "2026-11-05T02:58:15.078Z",
-      "title": "Red Sox hiring the Yankees’ Shelley Duncan for Chad Tracy’s coaching staff",
-      "url": "https://www.bostonglobe.com/2026/11/04/sports/red-sox-shelley-duncan/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "In exchange, the Sox received Juan García, an 18-year-old Mexican righthander who has pitched in the Dominican Summer League the past two years.",
-      "published": "2026-11-03T21:01:01.868Z",
-      "title": "Red Sox trade lefthanded pitcher Eduardo Rivera to Chaim Bloom’s Cardinals",
-      "url": "https://www.bostonglobe.com/2026/11/03/sports/eduardo-rivera-red-sox-cardinals/"
     }
   ],
-  "generated_at": "2026-11-11T15:04:50.787538+00:00",
+  "generated_at": "2026-11-12T02:36:17.436086+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees were busy at the general managers' meetings Wednesday. Here's the latest we're hearing.",
+      "published": "2026-11-12T02:23:43+00:00",
+      "title": "What I'm hearing about the Yankees and Shoki Oda, Alec Bohm, coaching search",
+      "url": "https://www.nytimes.com/athletic/7774837/2026/11/11/yankees-free-agents-shoki-oda-alec-bohm/"
+    },
+    {
+      "category": "Yankees",
+      "description": "At 25, Schlittler is the youngest of the Yankees' seven Cy Young Award winners. He did it with one of the best seasons in franchise history.",
+      "published": "2026-11-12T00:18:08+00:00",
+      "title": "Yankees' Cam Schlittler wins AL Cy Young Award after acing his second season",
+      "url": "https://www.nytimes.com/athletic/7768587/2026/11/11/cam-schlittler-yankees-al-cy-young-award/"
+    },
+    {
+      "category": "Yankees",
+      "description": "The Dodgers and Bates parted ways this offseason after the sides couldn’t agree to a contract extension.",
+      "published": "2026-11-11T22:56:12+00:00",
+      "title": "Yankees interview ex-Dodgers hitting coach Aaron Bates: Sources",
+      "url": "https://www.nytimes.com/athletic/7774559/2026/11/11/yankees-interview-aaron-bates-hitting-coach-dodgers/"
+    },
+    {
+      "category": "Yankees",
       "description": "Rowson is set to replace Hunter Mense, who departed to take a lesser role with the Kansas City Royals as an assistant hitting coach.",
       "published": "2026-11-11T17:04:33+00:00",
       "title": "Yankees expect James Rowson to leave for Giants' hitting coach job: Source",
@@ -118,30 +139,9 @@
       "published": "2026-10-27T11:20:16+00:00",
       "title": "Submit your questions for Chris Kirschner's Yankees mailbag",
       "url": "https://www.nytimes.com/athletic/7727322/2026/10/27/yankees-offseason-mailbag-questions/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees don’t need a complete makeover this offseason, but they do need reinforcements. Here's our 10-part plan to boost the roster.",
-      "published": "2026-10-26T10:15:25+00:00",
-      "title": "Ten steps the Yankees should take to reach the World Series in 2027",
-      "url": "https://www.nytimes.com/athletic/7719005/2026/10/26/yankees-offseason-moves-world-series-2027/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Under Blake, the Yankees' pitching staff led the majors in ERA this season.",
-      "published": "2026-10-24T14:42:08+00:00",
-      "title": "Yankees, pitching coach Matt Blake finalizing 3-year contract extension: Source",
-      "url": "https://www.nytimes.com/athletic/7717372/2026/10/24/matt-blake-yankees-contract-extension/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The former slugger spent the first half of his professional career playing for the Giants before he came stateside to play in MLB.",
-      "published": "2026-10-23T05:24:08+00:00",
-      "title": "Yankees World Series MVP Hideki Matsui named manager of NPB's Yomiuri Giants",
-      "url": "https://www.nytimes.com/athletic/7716227/2026/10/23/yankees-hideki-matsui-world-series-mvp-manage-yomiuri-giants/"
     }
   ],
-  "generated_at": "2026-11-11T21:51:36.163862+00:00",
+  "generated_at": "2026-11-12T02:36:25.707451+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

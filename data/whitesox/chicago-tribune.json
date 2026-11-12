@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "The Chicago White Sox are sizing up the pitching market, evaluating some early offseason moves and keeping the momentum going after the success in 2026.",
+      "published": "2026-11-11T15:08:00+00:00",
+      "title": "3 takeaways for the Chicago White Sox at the GM meetings, including the push for starting pitching",
+      "url": "https://www.chicagotribune.com/2026/11/11/chicago-white-sox-gm-meetings-takeaways/"
+    },
+    {
+      "category": "White Sox",
       "description": "The Chicago White Sox need starting pitching. Grant Taylor is ready to do his part as he makes the move from the bullpen.",
       "published": "2026-11-10T15:50:00+00:00",
       "title": "GM meetings: Chicago White Sox are moving Grant Taylor into the rotation, saying, ‘The time is now’",
       "url": "https://www.chicagotribune.com/2026/11/10/chicago-white-sox-gm-meetings-grant-taylor/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Will Venable guided the Chicago White Sox to an 84-78 record — the most wins by a team coming off three straight 100-loss seasons — and their first playoff berth since 2021.",
-      "published": "2026-11-10T18:57:00+00:00",
-      "title": "Will Venable named AL Manager of the Year after leading Chicago White Sox from 102 losses to the playoffs",
-      "url": "https://www.chicagotribune.com/2026/11/10/will-venable-chicago-white-sox-manager-of-year/"
     },
     {
       "category": "White Sox",
@@ -41,16 +41,9 @@
       "published": "2026-10-29T14:08:00+00:00",
       "title": "Chicago White Sox to hire Matt Roffe from Milwaukee Brewers to fill amateur scouting director role",
       "url": "https://www.chicagotribune.com/2026/10/29/chicago-white-sox-scouting-director-matt-roffe/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Planners keep drawing new homes for the Chicago Bears, with renderings of football stadiums full of bells and whistles. But a common thread to the proposals is that the Bears aren’t involved. The ...",
-      "published": "2026-10-29T13:56:00+00:00",
-      "title": "Latest Bears stadium plan for White Sox site in Bridgeport draws interest — but no involvement from the team",
-      "url": "https://www.chicagotribune.com/2026/10/29/bridgeport-bears-stadium-plan/"
     }
   ],
-  "generated_at": "2026-11-11T21:51:43.701263+00:00",
+  "generated_at": "2026-11-12T02:36:34.223389+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

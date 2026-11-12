@@ -2,8 +2,29 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Cam Schlittler joined exclusive company Wednesday night, becoming the seventh Yankees pitcher to win a...",
+      "published": "2026-11-12T00:56:20+00:00",
+      "title": "How does Cam Schlittler’s Cy Young season compare to those of other Yankees winners?",
+      "url": "https://www.nydailynews.com/2026/11/11/cam-schlittler-cy-young-award-yankees-guidry-clemens-whitey-ford-gerrit-cole-mlb/"
+    },
+    {
+      "category": "Yankees",
+      "description": "Schlittler's stellar 2026 season is a testament to the years of work and maturation that...",
+      "published": "2026-11-12T00:49:35+00:00",
+      "title": "Yankees’ Cam Schlittler didn’t always care about baseball. Now he’s the AL Cy Young",
+      "url": "https://www.nydailynews.com/2026/11/11/yankees-cam-schlittler-didnt-always-care-about-baseball-now-hes-the-als-expected-cy-young/"
+    },
+    {
+      "category": "Yankees",
+      "description": "Cam Schlittler now becomes just the third homegrown Yankee starting pitcher to win the Cy...",
+      "published": "2026-11-12T00:31:18+00:00",
+      "title": "Mike Lupica: With Cy Young win, Cam Schlittler adds his name to New York pitching greats",
+      "url": "https://www.nydailynews.com/2026/11/11/mike-lupica-cam-schlittler-yankees-cy-young-guidry-cole-gooden-seaver-clemens/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees need some new coaches.",
-      "published": "2026-11-11T18:25:53+00:00",
+      "published": "2026-11-11T23:53:20+00:00",
       "title": "Yankees bench coach Brad Ausmus named Astros manager, Giants expected to hire James Rowson",
       "url": "https://www.nydailynews.com/2026/11/11/yankees-bench-coach-brad-ausmus-named-astros-manager-giants-expected-to-hire-james-rowson/"
     },
@@ -13,13 +34,6 @@
       "published": "2026-11-11T12:30:19+00:00",
       "title": "Yankees takeaways: Brian Cashman ‘not afraid’ to spend on bullpen, ‘open-minded’ at third base",
       "url": "https://www.nydailynews.com/2026/11/11/yankees-takeaways-brian-cashman-not-afraid-to-spend-on-bullpen-open-minded-at-third-base/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Schlittler's stellar 2026 season is a testament to the years of work and maturation that...",
-      "published": "2026-11-11T12:00:39+00:00",
-      "title": "Yankees’ Cam Schlittler didn’t always care about baseball. Now he’s the AL’s expected Cy Young",
-      "url": "https://www.nydailynews.com/2026/11/11/yankees-cam-schlittler-didnt-always-care-about-baseball-now-hes-the-als-expected-cy-young/"
     },
     {
       "category": "Yankees",
@@ -125,23 +139,9 @@
       "published": "2026-10-29T16:16:40+00:00",
       "title": "Mike Lupica: Yankees may not like Pat Murphy’s tough talk, but Brewers culture won",
       "url": "https://www.nydailynews.com/2026/10/29/mike-lupica-yankees-brewers-pat-murphy-jake-bauers-world-series/"
-    },
-    {
-      "category": "Yankees",
-      "description": "With the World Series over and the baseball world bracing for a lockout, an offseason...",
-      "published": "2026-10-29T14:06:33+00:00",
-      "title": "Yankees 2026-2027 offseason primer: Important dates, free agents, needs and more",
-      "url": "https://www.nydailynews.com/2026/10/29/yankees-2026-2027-offseason-primer-important-dates-free-agents-needs-and-more/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Using García elsewhere would help the Yankees with some roster issues, but he was a...",
-      "published": "2026-10-28T13:16:36+00:00",
-      "title": "Can the Yankees get more out of Luis García Jr. at other positions?",
-      "url": "https://www.nydailynews.com/2026/10/28/can-the-yankees-get-more-out-of-luis-garcia-jr-at-other-positions/"
     }
   ],
-  "generated_at": "2026-11-11T21:51:32.221379+00:00",
+  "generated_at": "2026-11-12T02:36:21.438083+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

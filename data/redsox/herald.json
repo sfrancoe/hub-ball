@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Walpole’s Cam Schlittler made history on Wednesday, as the Yankees ace became the 13th unanimous AL Cy Young Award winner in history.",
+      "published": "2026-11-12T00:55:46Z",
+      "title": "Walpole’s Cam Schlittler unanimously wins AL Cy Young Award",
+      "url": "https://www.bostonherald.com/2026/11/11/walpoles-cam-schlittler-unanimously-wins-al-cy-young-award/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Scott Boras, baseball’s most powerful agent, said Wednesday that he’s had extensive talks with the Red Sox, who he described as being determined to improve.",
+      "published": "2026-11-11T22:01:25Z",
+      "title": "Scott Boras on talks with Red Sox: ‘They’re building, they want to advance’",
+      "url": "https://www.bostonherald.com/2026/11/11/scott-boras-on-talks-with-red-sox-theyre-building-they-want-to-advance/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Kristian Campbell hasn’t appeared in a big league game since June 2025, but Craig Breslow said he believes the former top Red Sox prospect still has a “world of potential.”",
       "published": "2026-11-11T10:30:32Z",
       "title": "Red Sox boss believes former top prospect still has ‘world of potential’",
@@ -97,23 +111,9 @@
       "published": "2026-11-04T00:06:17Z",
       "title": "Red Sox trade rookie left-hander amid difficult roster decisions",
       "url": "https://www.bostonherald.com/2026/11/03/red-sox-eduardo-rivera-traded-juan-garcia-st-louis-cardinals-craig-breslow-chaim-bloom-mlb/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "With the offseason already underway, MLB has offered to push back the start of its proposed salary cap system until next winter.",
-      "published": "2026-11-03T20:41:07Z",
-      "title": "MLB offers to delay start of proposed salary cap until 2028",
-      "url": "https://www.bostonherald.com/2026/11/03/mlb-offers-to-delay-start-of-proposed-salary-cap-until-2028/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Two members of the Red Sox have been named finalists for the BBWAA’s major year-end awards.",
-      "published": "2026-11-03T00:45:13Z",
-      "title": "Red Sox left-hander, manager named finalists for major year-end awards",
-      "url": "https://www.bostonherald.com/2026/11/02/red-sox-left-hander-manager-named-finalists-for-major-year-end-awards/"
     }
   ],
-  "generated_at": "2026-11-11T15:04:51.410993+00:00",
+  "generated_at": "2026-11-12T02:36:18.263784+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
