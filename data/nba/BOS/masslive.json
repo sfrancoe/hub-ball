@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics are now an East-best 10-2 after sweeping their four-game road trip.",
+        "published": "2026-11-12T10:00:00+00:00",
+        "title": "Celtics make history on road trip, big man comes through (Celtics Notebook)",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-make-history-on-road-trip-big-man-comes-through-celtics-notebook.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics were on the second night of a back-to-back, but that didn't stop them from coming back from a 22-point deficit.",
         "published": "2026-11-12T03:38:35+00:00",
         "title": "The most impressive part of Celtics’ 22-point comeback win over Raptors",
@@ -105,16 +112,9 @@
         "published": "2026-11-10T10:00:00+00:00",
         "title": "Jaylen Brown wants a fight. Jayson Tatum needs to show up for it | Matt Vautour",
         "url": "https://www.masslive.com/celtics/2026/11/jaylen-brown-wants-a-fight-jayson-tatum-needs-to-show-up-for-it.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics will be at full strength ahead of their game against the first-place Sixers and Jaylen Brown.",
-        "published": "2026-11-09T21:34:17+00:00",
-        "title": "Celtics get fortunate injury news ahead of 76ers clash",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-get-fortunate-injury-news-ahead-of-76ers-clash.html"
       }
     ],
-    "generated_at": "2026-11-12T03:48:53.620829+00:00",
+    "generated_at": "2026-11-12T10:10:50.106148+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
