@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "Colton Cowser’s game-ending home-run robbery against the Colorado Rockies was named the Capital One Premier Play of the Year at the MLB Awards on Wednesday night in Las Vegas. Cowser accepted the ...",
+      "published": "2026-11-12T06:32:00+00:00",
+      "title": "Orioles’ Colton Cowser wins MLB Play of the Year for stunning catch",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-colton-cowser-mlb-play-of-the-year/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Fully recovered from knee surgery, Orioles prospect and 2025 first-round draft pick Ike Irish is showing what he can do.",
+      "published": "2026-11-12T04:00:00+00:00",
+      "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
+    },
+    {
+      "category": "Orioles",
       "description": "Foss helped advise Angelos when he purchased the Orioles for $173 million in 1993 and served as vice chairman and chief operating officer.",
       "published": "2026-11-11T11:30:00+00:00",
       "title": "Joe Foss, longtime Orioles executive and a top Angelos adviser, dies at 77",
@@ -44,13 +58,6 @@
     },
     {
       "category": "Orioles",
-      "description": "From Ryan Mountcastle to Trevor Rogers to Ryan Helsley, how likely is every Orioles free agent and option player to return in 2027?",
-      "published": "2026-10-29T12:25:00+00:00",
-      "title": "Ranking Orioles free agents and option players most likely to return",
-      "url": "https://www.baltimoresun.com/2026/10/29/orioles-ranking-free-agents-option-players-most-likely-to-return-in-2027/"
-    },
-    {
-      "category": "Orioles",
       "description": "MLB’s offseason is officially underway, and one of the Orioles’ first decisions was to part ways with one of their longest-tenured players.",
       "published": "2026-11-02T11:24:00+00:00",
       "title": "Orioles decline Ryan Mountcastle’s $7.5M team option, making him free agent",
@@ -65,20 +72,13 @@
     },
     {
       "category": "Orioles",
-      "description": "Orioles closer Ryan Helsley is returning for another season after he picked up his 2027 player option, a source confirmed to The Sun.",
-      "published": "2026-10-29T09:45:00+00:00",
-      "title": "Orioles’ Ryan Helsley picks up $14M player option to return for 2027 season",
-      "url": "https://www.baltimoresun.com/2026/10/29/orioles-ryan-helsley-player-option/"
-    },
-    {
-      "category": "Orioles",
       "description": "Heston Kjerstad, the Orioles’ No. 2 overall pick in 2020, is a free agent after being released by the team and clearing waivers.",
       "published": "2026-11-02T14:38:00+00:00",
       "title": "Orioles’ Heston Kjerstad, Leody Taveras released after clearing waivers",
       "url": "https://www.baltimoresun.com/2026/11/02/orioles-heston-kjerstad-released/"
     }
   ],
-  "generated_at": "2026-11-12T10:14:39.412479+00:00",
+  "generated_at": "2026-11-12T18:21:20.387354+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

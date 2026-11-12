@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Red Sox president of baseball operations Craig Breslow has traded several young starting pitchers in the past two years to fix other areas of the roster that were weaknesses.",
+      "published": "2026-11-12T11:00:00+00:00",
+      "title": "Red Sox traded from area of strength; now Craig Breslow needs to replenish",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-traded-from-area-of-strength-now-craig-breslow-needs-to-replenish.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox face a pivotal offseason decision regarding Trevor Story, whose declining performance and $30M salary obligation could reshape Boston's infield through a trade or positional shift.",
       "published": "2026-11-12T10:00:00+00:00",
       "title": "Red Sox president Craig Breslow stops short of guaranteeing Story the starting shortstop job — and that silence speaks volumes",
@@ -104,16 +111,9 @@
       "published": "2026-11-10T03:29:26+00:00",
       "title": "Craig Breslow gives Red Sox injury updates on Roman Anthony, others",
       "url": "https://www.masslive.com/redsox/2026/11/craig-breslow-gives-red-sox-injury-updates-on-roman-anthony-triston-casas-others.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Red Sox CBO Craig Breslow addressed many key offseason topics as the GM Meetings got underway in Las Vegas.",
-      "published": "2026-11-10T03:16:10+00:00",
-      "title": "From Jarren Duran trade rumors to Sonny Gray's future, here's what Red Sox CBO Craig Breslow said at the winter meetings",
-      "url": "https://www.masslive.com/redsox/2026/11/what-craig-breslow-said-about-red-sox-coaching-adds-sonny-gray-triston-casas-health-jarren-durans-future-more.html"
     }
   ],
-  "generated_at": "2026-11-12T10:14:32.172770+00:00",
+  "generated_at": "2026-11-12T18:21:07.145570+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

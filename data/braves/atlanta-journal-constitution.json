@@ -2,10 +2,17 @@
   "articles": [
     {
       "category": "Braves",
-      "description": "The Atlanta Braves are seeking another starting pitcher. Now that free agency is open, here are some of the top prospects available.",
-      "published": "2026-11-05T03:00:00+00:00",
-      "title": "Which free agent starting pitchers could fit Braves?",
-      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-need-starting-pitcher/"
+      "description": "Right-hander Spencer Strider missed the last three months of the season, while right-hander Spencer Schwellenbach was out for all of 2026.",
+      "published": "2026-11-11T06:41:00+00:00",
+      "title": "Anthopoulos provides updates on Strider, Schwellenbach for 2027 season",
+      "url": "https://www.ajc.com/sports/2026/11/braves-strider-schwellenbach-injury-updates/"
+    },
+    {
+      "category": "Braves",
+      "description": "The outfielder was suspended for the entire 2026 season for testing positive for a banned substance after missing 80 games in 2025 for the same infraction.",
+      "published": "2026-11-12T08:18:00+00:00",
+      "title": "Braves in early stages of discussing Jurickson Profar’s future with team",
+      "url": "https://www.ajc.com/sports/2026/11/braves-discussing-jurickson-profar-future/"
     },
     {
       "category": "Braves",
@@ -20,6 +27,13 @@
       "published": "2026-11-04T05:00:00+00:00",
       "title": "Could Braves and Sonny Gray finally happen this offseason?",
       "url": "https://www.ajc.com/sports/2026/11/could-braves-and-sonny-gray-finally-happen-this-offseason/"
+    },
+    {
+      "category": "Braves",
+      "description": "Braves’ left-handed starting pitcher Chris Sale finished third in Cy Young Award voting among National League pitchers, the Baseball Writers’ Association of America announced Wednesday.",
+      "published": "2026-11-12T09:07:00+00:00",
+      "title": "Chris Sale finishes third in NL Cy Young Award voting",
+      "url": "https://www.ajc.com/sports/2026/11/sale-finishes-third-in-nl-cy-young-award-voting/"
     },
     {
       "category": "Braves",
@@ -41,23 +55,9 @@
       "published": "2026-11-02T06:15:00+00:00",
       "title": "Braves sign Vidal Bruján to improve depth in infield",
       "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-vidal-brujan/"
-    },
-    {
-      "category": "Braves",
-      "description": "Shortstop Tate Southisene and pitcher Briggs McKenzie will represent the Atlanta Braves during the event Sunday at Salt River Fields in Arizona.",
-      "published": "2026-11-04T12:10:00+00:00",
-      "title": "Pair of Braves prospects make Arizona Fall League All-Star Game",
-      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-prospects-arizona-fall-league-all-star-game/"
-    },
-    {
-      "category": "Braves",
-      "description": "Raisel Iglesias had been waiting a week for his next save opportunity. He nearly had to wait a bit longer. The Braves’ flame-throwing closer was going to pitch the top of the ninth Tuesday against the ...",
-      "published": "2026-04-14T17:00:00+00:00",
-      "title": "‘Just a timeless wonder’: Raisel Iglesias earns his 100th save with the Braves",
-      "url": "https://www.ajc.com/sports/2026/04/just-a-timeless-wonder-raisel-iglesias-earns-his-100th-save-with-the-braves/"
     }
   ],
-  "generated_at": "2026-11-12T10:14:44.056816+00:00",
+  "generated_at": "2026-11-12T18:21:25.903073+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }

@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "It’s been nearly two years since Triston Casas last played in a competitive game, but the oft-injured Red Sox first baseman will soon return to action in winter ball.",
+      "published": "2026-11-12T17:46:50Z",
+      "title": "Craig Breslow says oft-injured Red Sox first baseman will play winter ball",
+      "url": "https://www.bostonherald.com/2026/11/12/craig-breslow-says-oft-injured-red-sox-first-baseman-will-play-winter-ball/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Craig Breslow has been known as the Red Sox’s chief baseball officer since he was hired to run the club after the 2023 season, but going forward he will hold a new title.",
+      "published": "2026-11-12T10:30:27Z",
+      "title": "Red Sox boss Craig Breslow confirms he has been given new title",
+      "url": "https://www.bostonherald.com/2026/11/12/red-sox-boss-craig-breslow-confirms-he-has-been-given-new-title/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Two Red Sox standouts were named Second Team All-MLB at the MLB Awards show in Las Vegas on Wednesday.",
       "published": "2026-11-12T06:24:39Z",
       "title": "Two Red Sox standouts earn Second Team All-MLB honors",
@@ -97,23 +111,9 @@
       "published": "2026-11-07T04:27:30Z",
       "title": "Ceddanne Rafaela robbed of Platinum Glove as Yankees star wins award",
       "url": "https://www.bostonherald.com/2026/11/06/red-sox-ceddanne-rafaela-platinum-glove-gold-glove-award-wilyer-abreu-mlb/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "A pair of Red Sox are Silver Slugger Award finalists, but how do they stack up against the competition?",
-      "published": "2026-11-05T21:56:36Z",
-      "title": "Pair of Red Sox named Silver Slugger Awards finalists",
-      "url": "https://www.bostonherald.com/2026/11/05/red-sox-wilyer-abreu-willson-contreras-silver-slugger-award-finalists-mlb-news/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Two of the winningest managers in MLB history are among the favorites to earn enshrinement in Cooperstown this winter.",
-      "published": "2026-11-05T10:30:24Z",
-      "title": "Cerullo: World Series champion managers headline Hall of Fame era ballot",
-      "url": "https://www.bostonherald.com/2026/11/05/cerullo-world-series-champion-managers-headline-hall-of-fame-era-ballot/"
     }
   ],
-  "generated_at": "2026-11-12T10:14:30.214005+00:00",
+  "generated_at": "2026-11-12T18:21:05.097071+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

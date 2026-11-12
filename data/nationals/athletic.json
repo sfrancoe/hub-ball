@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Nationals",
+      "description": "The team is casting a wider net than last season, but relievers who command multiple years and significant money are likely off the table.",
+      "published": "2026-11-12T04:40:00+00:00",
+      "title": "What I’m hearing about the Nationals pitching plans",
+      "url": "https://www.nytimes.com/athletic/7775232/2026/11/12/nationals-pitching-market-plans/"
+    },
+    {
+      "category": "Nationals",
       "description": "Washington took James Wood and Cade Cavalli off the table in past trade talks. That’s not the case with Dylan Crews, the former No. 2 pick.",
       "published": "2026-11-10T06:44:00+00:00",
       "title": "Nationals outfielder Dylan Crews emerges as popular name in trade talks: Sources",
@@ -20,9 +27,16 @@
       "published": "2026-11-02T04:48:00+00:00",
       "title": "10 relievers the Nationals should target to close games next season",
       "url": "https://www.nytimes.com/athletic/7746091/2026/11/02/nats-relievers-targets-free-agency/"
+    },
+    {
+      "category": "Nationals",
+      "description": "Blake Butera's coaching staff will return in the 2027 season. Greg Fiume / Getty Images The Washington Nationals plan to bring back all 12 coaches who ended the season on Blake Butera’s staff, ...",
+      "published": "2026-10-22T04:00:00+00:00",
+      "title": "Nationals plan to retain entire coaching staff but part ways with trainers: Sources",
+      "url": "https://www.nytimes.com/athletic/7712242/2026/10/22/nationals-retain-coaching-staff-part-ways-trainers/"
     }
   ],
-  "generated_at": "2026-11-12T02:36:39.765160+00:00",
+  "generated_at": "2026-11-12T18:21:27.191734+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/nationals/"
 }

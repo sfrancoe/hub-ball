@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Clemens won seven Cy Youngs during his 24-year career. That included one with the Yankees...",
+      "published": "2026-11-12T12:00:53+00:00",
+      "title": "Yankees’ Cam Schlittler honored to have Cy Young Award presented by Roger Clemens",
+      "url": "https://www.nydailynews.com/2026/11/12/yankees-cam-schlittler-honored-to-have-cy-young-award-presented-by-roger-clemens/"
+    },
+    {
+      "category": "Yankees",
       "description": "Cam Schlittler joined exclusive company Wednesday night, becoming the seventh Yankees pitcher to win a...",
       "published": "2026-11-12T00:56:20+00:00",
       "title": "How does Cam Schlittler’s Cy Young season compare to those of other Yankees winners?",
@@ -132,16 +139,9 @@
       "published": "2026-10-31T16:15:07+00:00",
       "title": "Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean",
       "url": "https://www.nydailynews.com/2026/10/31/yankees-not-renewing-contracts-advisors-omar-minaya-brian-sabean/"
-    },
-    {
-      "category": "Yankees",
-      "description": "This isn’t about what Pat Murphy said to Jake Bauers when it was over on...",
-      "published": "2026-10-29T16:16:40+00:00",
-      "title": "Mike Lupica: Yankees may not like Pat Murphy’s tough talk, but Brewers culture won",
-      "url": "https://www.nydailynews.com/2026/10/29/mike-lupica-yankees-brewers-pat-murphy-jake-bauers-world-series/"
     }
   ],
-  "generated_at": "2026-11-12T02:36:21.438083+00:00",
+  "generated_at": "2026-11-12T18:21:07.546377+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Boston Red Sox",
-      "description": "Plus: Tampa Bay's offseason options, Boston's obstacles with Jarren Duran and more news and notes from the general managers' meetings.",
-      "published": "2026-11-12T10:01:47+00:00",
-      "title": "Why Alec Bohm has emerged as a surprisingly intriguing free agent",
-      "url": "https://www.nytimes.com/athletic/7775218/2026/11/12/alec-bohm-gm-meetings-rays-red-sox/"
-    },
-    {
-      "category": "Boston Red Sox",
       "description": "At the GM Meetings in Las Vegas, Boras said the Red Sox beating the Yankees in the postseason is \"a barrier they want to jump over.\"",
       "published": "2026-11-12T03:29:17+00:00",
       "title": "Scott Boras says Red Sox in 'heavy' communication; Boston to review medical staff",
@@ -111,9 +104,16 @@
       "published": "2026-10-26T10:58:41+00:00",
       "title": "Red Sox offseason mailbag: Rutschman’s price, Triston Casas’ future, trade options and MLB lockout",
       "url": "https://www.nytimes.com/athletic/7717674/2026/10/26/red-sox-offseason-rutschman-lockout/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "The Brewers and Rays have plenty in common. Even their road hotels — the Pfister in Milwaukee and the Vinoy in St. Petersburg — are haunted.",
+      "published": "2026-10-23T09:30:23+00:00",
+      "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
+      "url": "https://www.nytimes.com/athletic/7715640/2026/10/23/world-series-milwaukee-brewers-tampa-bay-rays-haunted-hotels/"
     }
   ],
-  "generated_at": "2026-11-12T10:14:31.142940+00:00",
+  "generated_at": "2026-11-12T18:21:05.486267+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

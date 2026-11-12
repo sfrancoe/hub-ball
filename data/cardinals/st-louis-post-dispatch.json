@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Cardinals",
+      "description": "In his latest Arizona Fall League start, Cardinals prospect Tai Peete reached base twice and scored a run as the Peoria Javelinas’ leadoff hitter.",
+      "published": "2026-11-12T07:59:00+00:00",
+      "title": "As fall league nears end, Cardinals prospect Tai Peete continues to produce",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/minor-league/article_ae3f6c85-1d20-42c2-8b17-9fc272c917dc.html"
+    },
+    {
+      "category": "Cardinals",
+      "description": "At GM Meetings, a stark contrast between two execs and former Cardinals: Mozeliak's time winding down in LA; Randy Flores just getting started in Houston.",
+      "published": "2026-11-12T04:15:00+00:00",
+      "title": "Another St. Louisan thrown a curve by Kroenke, John Mozeliak nears end of Angels' task",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_bf81fb0a-cae2-4a35-88f4-e71cd770e0c6.html"
+    },
+    {
+      "category": "Cardinals",
       "description": "Among the takeaways from his rookie season, Cardinals second baseman JJ Wetherholt said covering different pitch types was one of the biggest.",
       "published": "2026-11-08T17:30:00+00:00",
       "title": "Adjusting to pitch types a top takeaway for Cardinals’ JJ Wetherholt during rookie year",
@@ -9,24 +23,10 @@
     },
     {
       "category": "Cardinals",
-      "description": "Two teammates who won a World Series championship together with the Cardinals, Albert Pujols and Randy Flores are set to meet and discuss if they're the tandem to lead the ...",
-      "published": "2026-11-05T05:35:00+00:00",
-      "title": "Albert Pujols to interview for Astros manager with Randy Flores, his Cardinals teammate",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_04640beb-c496-4187-8b5d-2adba5386902.html"
-    },
-    {
-      "category": "Cardinals",
       "description": "Cardinals prospect Tai Peete collected three hits and Sammy Hernandez drove in two RBIs to help the Peoria Javelinas to a 5-3 win on Thursday in the Arizona Fall League.",
       "published": "2026-11-06T07:15:00+00:00",
       "title": "Cardinals prospects Tai Peete, Sammy Hernandez lead lineup in fall league win",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/minor-league/article_d88cc5ab-b218-4e20-a059-6210a993cdd8.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "Following Rob Cerfolio's promotion to general manager, the Cardinals are still looking to finalize their big-league coaching staff and could continue to \"add fresh eyes\" after front office changes.",
-      "published": "2026-11-06T18:05:00+00:00",
-      "title": "After promoting Rob Cerfolio to GM, what work do Cardinals have during 'staffing season’?",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_f68619ab-ad21-48b8-9252-b69a0875c90f.html"
     },
     {
       "category": "Cardinals",
@@ -58,6 +58,13 @@
     },
     {
       "category": "Cardinals",
+      "description": "Two teammates who won a World Series championship together with the Cardinals, Albert Pujols and Randy Flores are set to meet and discuss if they're the tandem to lead the ...",
+      "published": "2026-11-05T05:35:00+00:00",
+      "title": "Albert Pujols to interview for Astros manager with Randy Flores, his Cardinals teammate",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_04640beb-c496-4187-8b5d-2adba5386902.html"
+    },
+    {
+      "category": "Cardinals",
       "description": "Arizona Fall League success has earned Cardinals prospects Tai Peete and Tekoah Roby recognition as Fall Stars. Peete will also compete in the AFL’s Home Run Derby.",
       "published": "2026-11-04T09:32:00+00:00",
       "title": "Cardinals prospects Tai Peete, Tekoah Roby named Fall Stars in Arizona Fall League",
@@ -69,16 +76,9 @@
       "published": "2026-11-01T16:45:00+00:00",
       "title": "Cardinals to decline one-year option on veteran reliever Ryne Stanek: Source",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_461268a4-4f10-4ccd-aafb-bd0eaa4aac54.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "Eduardo Rivera, 23, struck out 10 in 10 innings for the Red Sox this past season, and he's moved between starting and relieving in the minors.",
-      "published": "2026-11-03T09:30:00+00:00",
-      "title": "Cardinals dip back into Boston's pitching pool for 6-foot-7 lefty in 1st offseason trade",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_86a399e0-c346-413c-9fa2-bfa260f43093.html"
     }
   ],
-  "generated_at": "2026-11-12T10:14:47.502615+00:00",
+  "generated_at": "2026-11-12T18:21:29.011118+00:00",
   "source": "Post-Dispatch",
   "source_url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
 }

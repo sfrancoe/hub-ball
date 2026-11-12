@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Over the last 15 years, the Cubs have successfully drafted and developed just one first-round pitcher, Horton, who underwent major surgery on his right elbow in April. A few of those first-round picks ...",
+      "published": "2026-11-10T02:03:00+00:00",
+      "title": "Cubs, bested by the Brewers this year, get to work on a familiar problem: Pitching",
+      "url": "https://www.nytimes.com/athletic/7768997/2026/11/10/cubs-pitching-problems-offseason/"
+    },
+    {
+      "category": "Brewers",
       "description": "Pat Murphy has won the NL manager of the year award every year since he took over the Brewers before the 2024 season. Michael Reaves / Pat Murphy has yet to manage a full season in the big leagues ...",
       "published": "2026-11-10T18:28:00+00:00",
       "title": "Pat Murphy wins NL manager of the year for record third straight season",
@@ -23,20 +30,20 @@
     },
     {
       "category": "Brewers",
-      "description": "Did they ever. The Brewers went 4-3 against the Dodgers during the regular season. Then, after defeating the San Diego Padres in the Division Series, the most challenging of their three playoff rounds ...",
-      "published": "2026-10-29T05:36:00+00:00",
-      "title": "The Brewers, World Series champs at last, won it all by staying true to themselves",
-      "url": "https://www.nytimes.com/athletic/7733287/2026/10/29/brewers-win-2026-world-series-team-identity/"
-    },
-    {
-      "category": "Brewers",
       "description": "The longest-tenured Brewers player spotted some of his youngest teammates, including Jackson Chourio and Cooper Pratt, Jacob Misiorowski, and Logan Henderson — all champions before turning 25. “Dang, ...",
       "published": "2026-10-30T02:20:00+00:00",
       "title": "Can the Brewers become a small-market dynasty?",
       "url": "https://www.nytimes.com/athletic/7736551/2026/10/30/brewers-mlb-world-series-free-agency-small-market/"
+    },
+    {
+      "category": "Brewers",
+      "description": "The Brewers didn't just go 11-2 in the playoffs en route to a championship. They also went 40-14 (.741) in their final 54 games (regular season and postseason). Elsa / Getty Images ST. PETERSBURG, Fla ...",
+      "published": "2026-10-29T05:12:00+00:00",
+      "title": "The Brewers’ playoff run to first World Series title was dominant in so many ways",
+      "url": "https://www.nytimes.com/athletic/7733262/2026/10/29/brewers-dominant-mlb-playoffs-world-series/"
     }
   ],
-  "generated_at": "2026-11-12T10:14:46.876663+00:00",
+  "generated_at": "2026-11-12T18:21:28.410946+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/brewers/"
 }

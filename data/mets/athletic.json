@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The Mets' rotation sank their season. Here's every starter they could target this winter, sorted into four tiers.",
+      "published": "2026-11-12T11:00:02+00:00",
+      "title": "The rotation is the Mets' top priority. How can they finally fix it?",
+      "url": "https://www.nytimes.com/athletic/7775077/2026/11/12/mets-rotation-top-priority-how-to-fix/"
+    },
+    {
+      "category": "Mets",
       "description": "Veteran left-handers Alex Vesia and Tim Hill are among the relievers the Mets could pursue this offseason.",
       "published": "2026-11-11T18:41:57+00:00",
       "title": "Mets interested in top free agents in their search for bullpen help: Sources",
@@ -132,16 +139,9 @@
       "published": "2026-09-30T09:04:24+00:00",
       "title": "Inside what's gone wrong for David Stearns and how the Mets must fix it this winter",
       "url": "https://www.nytimes.com/athletic/7642227/2026/09/30/mets-david-stearns-free-agency-fix/"
-    },
-    {
-      "category": "Mets",
-      "description": "The Mets are likely to put Rojas on their 40-man roster to protect him from the Rule 5 Draft.",
-      "published": "2026-09-29T13:00:18+00:00",
-      "title": "Mets top prospect Jefferson Rojas is nearing the majors. A lockout could get in the way",
-      "url": "https://www.nytimes.com/athletic/7642048/2026/09/29/mets-prospect-jefferson-rojas-rule-5-dilemma/"
     }
   ],
-  "generated_at": "2026-11-11T21:51:41.021694+00:00",
+  "generated_at": "2026-11-12T18:21:17.428346+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }
