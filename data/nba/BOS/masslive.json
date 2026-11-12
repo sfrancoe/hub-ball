@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics closed out a 4-0 road trip on Wednesday night after rallying from a 22-point deficit against the Raptors.",
+        "published": "2026-11-12T03:05:36+00:00",
+        "title": "4 takeaways as Celtics beat Raptors after remarkable rally",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-raptors-after-remarkable-rally.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics overcame a 22-point deficit to beat the Raptors on Wednesday, sweeping their four-game road trip.",
         "published": "2026-11-12T02:51:06+00:00",
         "title": "Derrick White is Celtics ‘Name to Know’ Player of the Game in comeback win over Raptors",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T16:39:24+00:00",
         "title": "How did Jayson Tatum, Jaylen Brown ‘lamb chops’ get to this point? Let’s recap",
         "url": "https://www.masslive.com/celtics/2026/11/how-did-jayson-tatum-jaylen-brown-lamb-chops-get-to-this-point-lets-recap.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics travel to Xfinity Mobile Arena to take on the Philadelphia 76ers on Wednesday. Compare Polymarket odds, spread lines, and score projections before tip off.",
-        "published": "2026-11-09T16:17:59+00:00",
-        "title": "Experts release Celtics vs. 76ers prediction as Tatum and Brown headline latest player props",
-        "url": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-76ers-prediction-as-tatum-and-brown-headline-latest-player-props.html"
       }
     ],
-    "generated_at": "2026-11-12T02:58:34.400465+00:00",
+    "generated_at": "2026-11-12T03:08:38.920353+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
