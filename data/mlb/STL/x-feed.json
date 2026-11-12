@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-11-11T19:42:48.229890+00:00",
+  "generated_at": "2026-11-12T01:36:05.191695+00:00",
   "source": "X",
+  "source_kind": "syndication-lab",
   "source_url": "https://x.com/Cardinals",
+  "team_id": "24",
+  "sport": "mlb",
+  "likes_as_of": "2026-11-12T01:36:05.191695+00:00",
   "recent": [
     {
       "id": "2120586863442317593",
       "text": "In honor of Veterans Day, Al Hrabosky and Matt Adams visited Veterans Community Project St. Louis to thank local veterans for their service, give gifts, distribute donations of essential items, and award a grant to the organization from Cardinals Care. Veterans Community Project https://t.co/1cqe3v5M1b",
       "url": "https://x.com/Cardinals/status/2120586863442317593",
       "published": "2026-11-11T18:38:01+00:00",
-      "likes": 109,
+      "likes": 235,
       "author": "St. Louis Cardinals",
       "handle": "Cardinals",
       "avatar": "https://pbs.twimg.com/profile_images/2070175182535163904/7qShRhtE_normal.jpg",
@@ -22,7 +26,7 @@
       "text": "Today and every day, we honor the bravery and selflessness of all who have served our country. Thank you, veterans. https://t.co/ujXO3RDJ0R",
       "url": "https://x.com/Cardinals/status/2120516906641744062",
       "published": "2026-11-11T14:00:02+00:00",
-      "likes": 396,
+      "likes": 505,
       "author": "St. Louis Cardinals",
       "handle": "Cardinals",
       "avatar": "https://pbs.twimg.com/profile_images/2070175182535163904/7qShRhtE_normal.jpg",
@@ -38,7 +42,7 @@
       "text": "Today and every day, we honor the bravery and selflessness of all who have served our country. Thank you, veterans. https://t.co/ujXO3RDJ0R",
       "url": "https://x.com/Cardinals/status/2120516906641744062",
       "published": "2026-11-11T14:00:02+00:00",
-      "likes": 396,
+      "likes": 505,
       "author": "St. Louis Cardinals",
       "handle": "Cardinals",
       "avatar": "https://pbs.twimg.com/profile_images/2070175182535163904/7qShRhtE_normal.jpg",
@@ -52,7 +56,7 @@
       "text": "In honor of Veterans Day, Al Hrabosky and Matt Adams visited Veterans Community Project St. Louis to thank local veterans for their service, give gifts, distribute donations of essential items, and award a grant to the organization from Cardinals Care. Veterans Community Project https://t.co/1cqe3v5M1b",
       "url": "https://x.com/Cardinals/status/2120586863442317593",
       "published": "2026-11-11T18:38:01+00:00",
-      "likes": 109,
+      "likes": 235,
       "author": "St. Louis Cardinals",
       "handle": "Cardinals",
       "avatar": "https://pbs.twimg.com/profile_images/2070175182535163904/7qShRhtE_normal.jpg",
@@ -61,9 +65,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "sport": "mlb",
-  "team_id": "24",
-  "source_kind": "published-snapshot",
-  "likes_as_of": "2026-11-11T19:42:48.229890+00:00"
+  ]
 }

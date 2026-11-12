@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-11-11T19:42:48.228283+00:00",
+  "generated_at": "2026-11-12T01:36:05.190331+00:00",
   "source": "X",
+  "source_kind": "syndication-lab",
   "source_url": "https://x.com/Cubs",
+  "team_id": "16",
+  "sport": "mlb",
+  "likes_as_of": "2026-11-12T01:36:05.190331+00:00",
   "recent": [
     {
       "id": "2120516906847457677",
       "text": "Honoring the service and sacrifice of our veterans today and every day. https://t.co/DJwahiDms0",
       "url": "https://x.com/Cubs/status/2120516906847457677",
       "published": "2026-11-11T14:00:02+00:00",
-      "likes": 1314,
+      "likes": 1842,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -24,7 +28,7 @@
       "text": "Honoring the service and sacrifice of our veterans today and every day. https://t.co/DJwahiDms0",
       "url": "https://x.com/Cubs/status/2120516906847457677",
       "published": "2026-11-11T14:00:02+00:00",
-      "likes": 1314,
+      "likes": 1842,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -33,9 +37,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "sport": "mlb",
-  "team_id": "16",
-  "source_kind": "published-snapshot",
-  "likes_as_of": "2026-11-11T19:42:48.228283+00:00"
+  ]
 }

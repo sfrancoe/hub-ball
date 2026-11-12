@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-11-11T19:42:48.226365+00:00",
+  "generated_at": "2026-11-12T01:36:05.188155+00:00",
   "source": "X",
+  "source_kind": "syndication-lab",
   "source_url": "https://x.com/Mariners",
+  "team_id": "12",
+  "sport": "mlb",
+  "likes_as_of": "2026-11-12T01:36:05.188155+00:00",
   "recent": [
     {
       "id": "2120554649652474249",
       "text": "Today, we honor those who have served 🫡 #VeteransDay https://t.co/kfRR5ma3J7",
       "url": "https://x.com/Mariners/status/2120554649652474249",
       "published": "2026-11-11T16:30:01+00:00",
-      "likes": 215,
+      "likes": 272,
       "author": "Seattle Mariners",
       "handle": "Mariners",
       "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
@@ -24,7 +28,7 @@
       "text": "Today, we honor those who have served 🫡 #VeteransDay https://t.co/kfRR5ma3J7",
       "url": "https://x.com/Mariners/status/2120554649652474249",
       "published": "2026-11-11T16:30:01+00:00",
-      "likes": 215,
+      "likes": 272,
       "author": "Seattle Mariners",
       "handle": "Mariners",
       "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
@@ -33,9 +37,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "sport": "mlb",
-  "team_id": "12",
-  "source_kind": "published-snapshot",
-  "likes_as_of": "2026-11-11T19:42:48.226365+00:00"
+  ]
 }

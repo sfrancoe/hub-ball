@@ -1,14 +1,46 @@
 {
-  "generated_at": "2026-11-11T19:42:48.223583+00:00",
+  "generated_at": "2026-11-12T01:36:05.185474+00:00",
   "source": "X",
+  "source_kind": "syndication-lab",
   "source_url": "https://x.com/CleGuardians",
+  "team_id": "5",
+  "sport": "mlb",
+  "likes_as_of": "2026-11-12T01:36:05.185474+00:00",
   "recent": [
+    {
+      "id": "2120675768552526138",
+      "text": "RT @tim_stebbins: Cade Smith finishes second in the inaugural AL Reliever of the Year. It was a tight race with winner Louis Varland. https…",
+      "url": "https://x.com/CleGuardians/status/2120675768552526138",
+      "published": "2026-11-12T00:31:18+00:00",
+      "likes": 0,
+      "author": "Cleveland Guardians",
+      "handle": "CleGuardians",
+      "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120675443737272795",
+      "text": "Parker Messick finishes third in the American League Cy Young Award voting as a rookie. Pretty, pretty special season. #GuardsBall https://t.co/fsAUEBPfNj",
+      "url": "https://x.com/CleGuardians/status/2120675443737272795",
+      "published": "2026-11-12T00:30:00+00:00",
+      "likes": 495,
+      "author": "Cleveland Guardians",
+      "handle": "CleGuardians",
+      "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120674258556690432/img/9MqvCJXFUPopRgae.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2120532010338808082",
       "text": "To our veterans, thank you. 🫡🇺🇸 #GuardsBall https://t.co/rgrAf7vXPi",
       "url": "https://x.com/CleGuardians/status/2120532010338808082",
       "published": "2026-11-11T15:00:03+00:00",
-      "likes": 502,
+      "likes": 712,
       "author": "Cleveland Guardians",
       "handle": "CleGuardians",
       "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
@@ -24,7 +56,7 @@
       "text": "To our veterans, thank you. 🫡🇺🇸 #GuardsBall https://t.co/rgrAf7vXPi",
       "url": "https://x.com/CleGuardians/status/2120532010338808082",
       "published": "2026-11-11T15:00:03+00:00",
-      "likes": 502,
+      "likes": 712,
       "author": "Cleveland Guardians",
       "handle": "CleGuardians",
       "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
@@ -32,10 +64,34 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
+    },
+    {
+      "id": "2120675443737272795",
+      "text": "Parker Messick finishes third in the American League Cy Young Award voting as a rookie. Pretty, pretty special season. #GuardsBall https://t.co/fsAUEBPfNj",
+      "url": "https://x.com/CleGuardians/status/2120675443737272795",
+      "published": "2026-11-12T00:30:00+00:00",
+      "likes": 495,
+      "author": "Cleveland Guardians",
+      "handle": "CleGuardians",
+      "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120674258556690432/img/9MqvCJXFUPopRgae.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2120675768552526138",
+      "text": "RT @tim_stebbins: Cade Smith finishes second in the inaugural AL Reliever of the Year. It was a tight race with winner Louis Varland. https…",
+      "url": "https://x.com/CleGuardians/status/2120675768552526138",
+      "published": "2026-11-12T00:31:18+00:00",
+      "likes": 0,
+      "author": "Cleveland Guardians",
+      "handle": "CleGuardians",
+      "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
     }
-  ],
-  "sport": "mlb",
-  "team_id": "5",
-  "source_kind": "published-snapshot",
-  "likes_as_of": "2026-11-11T19:42:48.223583+00:00"
+  ]
 }

@@ -1,32 +1,22 @@
 {
-  "generated_at": "2026-11-11T19:42:48.227451+00:00",
+  "generated_at": "2026-11-12T01:36:05.189636+00:00",
   "source": "X",
+  "source_kind": "syndication-lab",
   "source_url": "https://x.com/Marlins",
+  "team_id": "28",
+  "sport": "mlb",
+  "likes_as_of": "2026-11-12T01:36:05.189636+00:00",
   "recent": [
     {
       "id": "2120537080409244142",
       "text": "Honoring our heroes, today and every day. 🇺🇸 https://t.co/pDX2korVwZ",
       "url": "https://x.com/Marlins/status/2120537080409244142",
       "published": "2026-11-11T15:20:12+00:00",
-      "likes": 69,
+      "likes": 95,
       "author": "Miami Marlins",
       "handle": "Marlins",
       "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
       "media": "https://pbs.twimg.com/media/HW2pPGaWQAElHBn.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2120222474105241755",
-      "text": "RT @MLBPipeline: The @Marlins' Alex Williams has been named Arizona Fall League Pitcher of the Week! The RHP became the 10th AFL hurler si…",
-      "url": "https://x.com/Marlins/status/2120222474105241755",
-      "published": "2026-11-10T18:30:04+00:00",
-      "likes": 0,
-      "author": "Miami Marlins",
-      "handle": "Marlins",
-      "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
-      "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
@@ -38,7 +28,7 @@
       "text": "Honoring our heroes, today and every day. 🇺🇸 https://t.co/pDX2korVwZ",
       "url": "https://x.com/Marlins/status/2120537080409244142",
       "published": "2026-11-11T15:20:12+00:00",
-      "likes": 69,
+      "likes": 95,
       "author": "Miami Marlins",
       "handle": "Marlins",
       "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
@@ -47,9 +37,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "sport": "mlb",
-  "team_id": "28",
-  "source_kind": "published-snapshot",
-  "likes_as_of": "2026-11-11T19:42:48.227451+00:00"
+  ]
 }

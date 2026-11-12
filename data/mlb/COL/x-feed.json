@@ -1,32 +1,22 @@
 {
-  "generated_at": "2026-11-11T19:42:48.230526+00:00",
+  "generated_at": "2026-11-12T01:36:05.192280+00:00",
   "source": "X",
+  "source_kind": "syndication-lab",
   "source_url": "https://x.com/Rockies",
+  "team_id": "27",
+  "sport": "mlb",
+  "likes_as_of": "2026-11-12T01:36:05.192280+00:00",
   "recent": [
     {
       "id": "2120564847415042521",
       "text": "Thank you Veterans 🇺🇸♥️ https://t.co/pnQdpKXWyz",
       "url": "https://x.com/Rockies/status/2120564847415042521",
       "published": "2026-11-11T17:10:32+00:00",
-      "likes": 72,
+      "likes": 195,
       "author": "Colorado Rockies",
       "handle": "Rockies",
       "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
       "media": "https://pbs.twimg.com/media/HW3CfGmbEAAjTqW.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2120217468912464246",
-      "text": "🥳 Happy Birthday Ryan! https://t.co/AxbmBQ4oDP",
-      "url": "https://x.com/Rockies/status/2120217468912464246",
-      "published": "2026-11-10T18:10:10+00:00",
-      "likes": 176,
-      "author": "Colorado Rockies",
-      "handle": "Rockies",
-      "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWyCrEsaIAApoLy.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
@@ -38,7 +28,7 @@
       "text": "Thank you Veterans 🇺🇸♥️ https://t.co/pnQdpKXWyz",
       "url": "https://x.com/Rockies/status/2120564847415042521",
       "published": "2026-11-11T17:10:32+00:00",
-      "likes": 72,
+      "likes": 195,
       "author": "Colorado Rockies",
       "handle": "Rockies",
       "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
@@ -47,9 +37,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "sport": "mlb",
-  "team_id": "27",
-  "source_kind": "published-snapshot",
-  "likes_as_of": "2026-11-11T19:42:48.230526+00:00"
+  ]
 }

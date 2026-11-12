@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-11-11T19:42:48.225749+00:00",
+  "generated_at": "2026-11-12T01:36:05.187669+00:00",
   "source": "X",
+  "source_kind": "syndication-lab",
   "source_url": "https://x.com/Angels",
+  "team_id": "3",
+  "sport": "mlb",
+  "likes_as_of": "2026-11-12T01:36:05.187669+00:00",
   "recent": [
     {
       "id": "2120568546690470270",
@@ -22,25 +26,11 @@
       "text": "Happy Veterans Day! 🇺🇸 Today and every day, we honor those who served. https://t.co/GXjND89Iwa",
       "url": "https://x.com/Angels/status/2120558134674821447",
       "published": "2026-11-11T16:43:52+00:00",
-      "likes": 197,
+      "likes": 323,
       "author": "Los Angeles Angels",
       "handle": "Angels",
       "avatar": "https://pbs.twimg.com/profile_images/2091936746355494913/ePF3McSz_normal.jpg",
       "media": "https://pbs.twimg.com/media/HW27w6ubgAA5kUI.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2120181081676861572",
-      "text": "We join the baseball community in mourning the passing of Bob Boone. Our franchise leader in games caught, Boone's leadership, exceptional defense and knowledge of the game made him an invaluable presence behind the plate and helped the Angels win two division titles. We extend https://t.co/Ni0VTnB8nw",
-      "url": "https://x.com/Angels/status/2120181081676861572",
-      "published": "2026-11-10T15:45:35+00:00",
-      "likes": 1274,
-      "author": "Los Angeles Angels",
-      "handle": "Angels",
-      "avatar": "https://pbs.twimg.com/profile_images/2091936746355494913/ePF3McSz_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWxj7l3bwAAqnzh.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
@@ -52,7 +42,7 @@
       "text": "Happy Veterans Day! 🇺🇸 Today and every day, we honor those who served. https://t.co/GXjND89Iwa",
       "url": "https://x.com/Angels/status/2120558134674821447",
       "published": "2026-11-11T16:43:52+00:00",
-      "likes": 197,
+      "likes": 323,
       "author": "Los Angeles Angels",
       "handle": "Angels",
       "avatar": "https://pbs.twimg.com/profile_images/2091936746355494913/ePF3McSz_normal.jpg",
@@ -75,9 +65,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "sport": "mlb",
-  "team_id": "3",
-  "source_kind": "published-snapshot",
-  "likes_as_of": "2026-11-11T19:42:48.225749+00:00"
+  ]
 }

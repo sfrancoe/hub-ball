@@ -1,32 +1,36 @@
 {
-  "generated_at": "2026-11-11T19:42:48.228672+00:00",
+  "generated_at": "2026-11-12T01:36:05.190538+00:00",
   "source": "X",
+  "source_kind": "syndication-lab",
   "source_url": "https://x.com/Reds",
+  "team_id": "17",
+  "sport": "mlb",
+  "likes_as_of": "2026-11-12T01:36:05.190538+00:00",
   "recent": [
     {
-      "id": "2120520214479593552",
-      "text": "Today and every day, the Reds are proud to honor the men and women who have served our country. We are grateful for their courage, dedication and all they have done to protect our freedoms. Thank you for your service. Happy Veterans Day! ❤️🇺🇸 https://t.co/s7DUEMM7sa",
-      "url": "https://x.com/Reds/status/2120520214479593552",
-      "published": "2026-11-11T14:13:11+00:00",
-      "likes": 281,
+      "id": "2120612886133305709",
+      "text": "One of the best in the business. https://t.co/vnTgzWoMF3",
+      "url": "https://x.com/Reds/status/2120612886133305709",
+      "published": "2026-11-11T20:21:25+00:00",
+      "likes": 557,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HW2Z3peWMAAp3qW.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120611565862793216/img/Vif9AxtY8UHuVYqz.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     },
     {
-      "id": "2120224639796363351",
-      "text": "The Reds are saddened by the passing of former manager Bob Boone. We extend our deepest condolences to his family and friends. https://t.co/5S9h1sduaP",
-      "url": "https://x.com/Reds/status/2120224639796363351",
-      "published": "2026-11-10T18:38:40+00:00",
-      "likes": 2095,
+      "id": "2120520214479593552",
+      "text": "Today and every day, the Reds are proud to honor the men and women who have served our country. We are grateful for their courage, dedication and all they have done to protect our freedoms. Thank you for your service. Happy Veterans Day! ❤️🇺🇸 https://t.co/s7DUEMM7sa",
+      "url": "https://x.com/Reds/status/2120520214479593552",
+      "published": "2026-11-11T14:13:11+00:00",
+      "likes": 333,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWyMgNZW0AAeB1U.jpg",
+      "media": "https://pbs.twimg.com/media/HW2Z3peWMAAp3qW.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
@@ -34,11 +38,25 @@
   ],
   "popular": [
     {
+      "id": "2120612886133305709",
+      "text": "One of the best in the business. https://t.co/vnTgzWoMF3",
+      "url": "https://x.com/Reds/status/2120612886133305709",
+      "published": "2026-11-11T20:21:25+00:00",
+      "likes": 557,
+      "author": "Cincinnati Reds",
+      "handle": "Reds",
+      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2120611565862793216/img/Vif9AxtY8UHuVYqz.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
       "id": "2120520214479593552",
       "text": "Today and every day, the Reds are proud to honor the men and women who have served our country. We are grateful for their courage, dedication and all they have done to protect our freedoms. Thank you for your service. Happy Veterans Day! ❤️🇺🇸 https://t.co/s7DUEMM7sa",
       "url": "https://x.com/Reds/status/2120520214479593552",
       "published": "2026-11-11T14:13:11+00:00",
-      "likes": 281,
+      "likes": 333,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
@@ -47,9 +65,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "sport": "mlb",
-  "team_id": "17",
-  "source_kind": "published-snapshot",
-  "likes_as_of": "2026-11-11T19:42:48.228672+00:00"
+  ]
 }
