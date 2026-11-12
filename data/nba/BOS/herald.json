@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Emotionally charged win 24 hours earlier? Early-morning arrival north of the border? Key player unavailable? Twenty-plus-point first-half deficit? None of that fazed the Celtics in Toronto.",
+        "published": "2026-11-12T02:48:01Z",
+        "title": "Celtics rally for gutsy win over Raptors to close out 4-0 road trip",
+        "url": "https://www.bostonherald.com/2026/11/11/celtics-rally-for-gutsy-win-over-raptors-to-close-out-4-0-road-trip/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "After lighting up his former team on Tuesday, Paul George was ruled out for Wednesday’s Celtics-Raptors game.",
         "published": "2026-11-11T18:09:53Z",
         "title": "After big game vs. 76ers, Paul George ruled out for Celtics-Raptors",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T02:58:59Z",
         "title": "Celtics rest Jayson Tatum, survive 22-point comeback to beat Bucks",
         "url": "https://www.bostonherald.com/2026/11/04/celtics-rest-jayson-tatum-survive-22-point-comeback-to-beat-bucks/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Celtics coach Joe Mazzulla provided an update on two-way guard Devin Carter, who has been sidelined by illness since Boston’s preseason opener.",
-        "published": "2026-11-04T23:44:17Z",
-        "title": "Joe Mazzulla shares update on recovering Celtics guard",
-        "url": "https://www.bostonherald.com/2026/11/04/joe-mazzulla-shares-update-on-recovering-celtics-guard/"
       }
     ],
-    "generated_at": "2026-11-11T18:15:23.060643+00:00",
+    "generated_at": "2026-11-12T02:48:27.103788+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
