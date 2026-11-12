@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Marcus Smart was also ejected from the Rockets' win over the Warriors on Wednesday.",
+        "published": "2026-11-12T22:53:19+00:00",
+        "title": "Former Celtics guard suspended for punching player",
+        "url": "https://www.masslive.com/celtics/2026/11/former-celtics-guard-suspended-for-punching-player.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The 10-2 Celtics are NBA Cup favorites at DraftKings and +800 to win the title. See every Celtics futures price and how it has moved.",
         "published": "2026-11-12T15:15:00+00:00",
         "title": "After a 4-0 road trip, how high should Celtics fans go on Boston’s title chances?",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T03:23:58+00:00",
         "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in revenge win over 76ers",
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-celtics-name-to-know-player-of-the-game-in-revenge-win-over-76ers.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics made some funny music choices during shootaround on the morning of Jayson Tatum vs. Jaylen Brown.",
-        "published": "2026-11-10T17:49:02+00:00",
-        "title": "Payton Pritchard addresses Tatum-Brown feud without being asked",
-        "url": "https://www.masslive.com/celtics/2026/11/payton-pritchard-talks-about-jayson-tatum-jaylen-brown-feud-without-even-being-asked.html"
       }
     ],
-    "generated_at": "2026-11-12T15:22:21.461038+00:00",
+    "generated_at": "2026-11-12T23:04:53.746824+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
