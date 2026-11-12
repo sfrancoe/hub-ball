@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics overcame a 22-point deficit to beat the Raptors on Wednesday, sweeping their four-game road trip.",
+        "published": "2026-11-12T02:51:06+00:00",
+        "title": "Derrick White is Celtics ‘Name to Know’ Player of the Game in comeback win over Raptors",
+        "url": "https://www.masslive.com/celtics/2026/11/derrick-white-is-celtics-name-to-know-player-of-the-game-in-comeback-win-over-raptors.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics travel to Novascotia Arena to take on the Toronto Raptors on Wednesday. Compare Polymarket odds, spread lines, and score projections before tip off.",
         "published": "2026-11-11T16:15:00+00:00",
         "title": "Experts release Celtics vs. Raptors prediction as Tatum and George headline latest player props",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T16:17:59+00:00",
         "title": "Experts release Celtics vs. 76ers prediction as Tatum and Brown headline latest player props",
         "url": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-76ers-prediction-as-tatum-and-brown-headline-latest-player-props.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The entire NBA world will be watching as the Celtics face Jaylen Brown on Tuesday for the first time since the blockbuster deal.",
-        "published": "2026-11-09T10:30:00+00:00",
-        "title": "Jayson Tatum on facing Jaylen Brown, Mitchell Robinson getting into shape (Celtics Notebook)",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-on-facing-jaylen-brown-mitchell-robinson-getting-into-shape-celtics-notebook.html"
       }
     ],
-    "generated_at": "2026-11-11T16:24:43.531442+00:00",
+    "generated_at": "2026-11-12T02:58:34.400465+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
