@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "All the scenarios are on the table,” Chicago Cubs general manager Carter Hawkins said Wednesday at the MLB GM meetings.",
+      "published": "2026-11-11T19:48:00+00:00",
+      "title": "Chicago Cubs still weighing their outfield options — and the catcher puzzle is not yet clear",
+      "url": "https://www.chicagotribune.com/2026/11/11/chicago-cubs-offseason-outfield-catcher/"
+    },
+    {
+      "category": "Cubs",
       "description": "The Chicago Cubs have been hit with more pitching uncertainty after Ben Brown underwent surgery to address the recurring neck ailment that ended his stellar season in mid-June.",
       "published": "2026-11-10T17:23:00+00:00",
       "title": "Chicago Cubs right-hander Ben Brown undergoes neck surgery in hopes of putting recurring issue behind him",
@@ -71,7 +78,7 @@
       "url": "https://www.chicagotribune.com/2026/11/02/chicago-cubs-seiya-suzuki-qualifying-offer/"
     }
   ],
-  "generated_at": "2026-11-11T21:51:50.926541+00:00",
+  "generated_at": "2026-11-12T10:14:45.715983+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

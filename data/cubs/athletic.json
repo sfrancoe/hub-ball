@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "Crow-Armstrong, the electric Cubs star who joined MLB's 40-40 club this summer, is expected to be named the National League MVP on Thursday.",
+      "published": "2026-11-12T02:01:00+00:00",
+      "title": "The making of an MVP: How Pete Crow-Armstrong became the best player on the planet",
+      "url": "https://www.nytimes.com/athletic/7770796/2026/11/12/pete-crow-armstrong-mvp-season-cubs/"
+    },
+    {
+      "category": "Cubs",
       "description": "Nobody is denying Chicago's top need. But that doesn’t mean the Cubs plan on only addressing their rotation this winter.",
       "published": "2026-11-10T02:46:00+00:00",
       "title": "The Cubs have roster needs beyond starting pitching. Here’s how they plan to address them",
@@ -48,16 +55,9 @@
       "published": "2026-11-05T03:12:00+00:00",
       "title": "How Craig Counsell helped turn Pete Crow-Armstrong into the star of MLB’s awards season",
       "url": "https://www.nytimes.com/athletic/7753726/2026/11/05/cubs-pete-crow-armstrong-craig-counsell-influence/"
-    },
-    {
-      "category": "Cubs",
-      "description": "Milwaukee's 11-2 postseason run was a reminder that the Cubs have a long way to go to catch up to their NL Central rivals.",
-      "published": "2026-10-29T04:00:00+00:00",
-      "title": "After Brewers’ World Series win, Milwaukee will remain the Cubs’ problem for a long time",
-      "url": "https://www.nytimes.com/athletic/7734358/2026/10/29/brewers-world-series-cubs-nl-central-problem/"
     }
   ],
-  "generated_at": "2026-11-12T02:36:40.131357+00:00",
+  "generated_at": "2026-11-12T10:14:45.953465+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

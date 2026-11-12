@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Junior Caminero is chosen as the All-MLB first-team third baseman. Drew Rasmussen gets second-team rotation honors.",
+      "published": "2026-11-12T05:41:03+00:00",
+      "title": "Rays’ Baker wins Mariano Rivera award, Neander honored as top executive",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/12/bryan-baker-mariano-rivera-award-erik-neander-top-executive-junior-caminero-drew-rasmussen/"
+    },
+    {
+      "category": "Rays",
       "description": "Will Venable wins after leading the White Sox from 60 wins in 2025 to 84 and a wild-card playoff berth this past season.",
       "published": "2026-11-11T01:18:23+00:00",
       "title": "Rays’ Kevin Cash finishes a close 2nd in AL Manager of the Year voting",
@@ -118,23 +125,9 @@
       "published": "2026-10-29T15:50:44+00:00",
       "title": "Wander Franco loses appeal, suspended sentence added to guilty verdict",
       "url": "https://www.tampabay.com/sports/rays/2026/10/29/wander-franco-appeal-dominican-republic-court/"
-    },
-    {
-      "category": "Rays",
-      "description": "The two-time All-Star, who also pitched Game 2 Saturday, gives the Rays four formidable innings.",
-      "published": "2026-10-29T05:29:02+00:00",
-      "title": "Drew Rasmussen strong on short rest, but Rays can’t extend World Series",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/29/drew-rasmussen-world-series-game-5-rotation/"
-    },
-    {
-      "category": "Rays",
-      "description": "Pitch count | Yandy Diaz, Jonathan Aranda and Junior Caminero produced little pop in Tampa Bay’s Game 5 loss to the Brewers.",
-      "published": "2026-10-29T03:36:25+00:00",
-      "title": "Another soft night for the Rays’ Big 3 means a quiet World Series exit",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/28/yandy-diaz-junior-caminero-jonathan-aranda-world-series/"
     }
   ],
-  "generated_at": "2026-11-11T07:02:27.671164+00:00",
+  "generated_at": "2026-11-12T10:14:37.846547+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

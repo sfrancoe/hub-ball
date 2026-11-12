@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Two Red Sox standouts were named Second Team All-MLB at the MLB Awards show in Las Vegas on Wednesday.",
+      "published": "2026-11-12T06:24:39Z",
+      "title": "Two Red Sox standouts earn Second Team All-MLB honors",
+      "url": "https://www.bostonherald.com/2026/11/12/two-red-sox-standouts-earn-second-team-all-mlb-honors/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Walpole’s Cam Schlittler made history on Wednesday, as the Yankees ace became the 13th unanimous AL Cy Young Award winner in history.",
       "published": "2026-11-12T00:55:46Z",
       "title": "Walpole’s Cam Schlittler unanimously wins AL Cy Young Award",
@@ -104,16 +111,9 @@
       "published": "2026-11-05T10:30:24Z",
       "title": "Cerullo: World Series champion managers headline Hall of Fame era ballot",
       "url": "https://www.bostonherald.com/2026/11/05/cerullo-world-series-champion-managers-headline-hall-of-fame-era-ballot/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox’s quest to get creative with their 40-man roster crunch continued Tuesday with a pitching trade.",
-      "published": "2026-11-04T00:06:17Z",
-      "title": "Red Sox trade rookie left-hander amid difficult roster decisions",
-      "url": "https://www.bostonherald.com/2026/11/03/red-sox-eduardo-rivera-traded-juan-garcia-st-louis-cardinals-craig-breslow-chaim-bloom-mlb/"
     }
   ],
-  "generated_at": "2026-11-12T02:36:18.263784+00:00",
+  "generated_at": "2026-11-12T10:14:30.214005+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

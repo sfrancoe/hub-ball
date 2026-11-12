@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox face a pivotal offseason decision regarding Trevor Story, whose declining performance and $30M salary obligation could reshape Boston's infield through a trade or positional shift.",
+      "published": "2026-11-12T10:00:00+00:00",
+      "title": "Red Sox president Craig Breslow stops short of guaranteeing Story the starting shortstop job — and that silence speaks volumes",
+      "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-much-of-offseason-plan-revolves-around-trevor-story.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "For the first three years of his tenure as the Red Sox’ lead decision-maker, Craig Breslow was Boston’s chief baseball officer. Now, his title has changed — even if his responsibilities haven’t.",
+      "published": "2026-11-12T02:44:38+00:00",
+      "title": "What's behind Craig Breslow's Red Sox title changing?",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-give-craig-breslow-new-title-but-he-says-hes-same-guy-with-no-new-responsibilities.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "At the GM Meetings, Craig Breslow provided updates on Triston Casas's return via Dominican Winter League, Garrett Whitlock's stress fracture, prospect Marcus Phillips's health, and the team's trade philosophy.",
+      "published": "2026-11-12T02:41:42+00:00",
+      "title": "Red Sox notebook: Triston Casas, Garrett Whitlock and prospects update",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-notebook-triston-casas-to-play-winter-ball-details-about-injury-to-garrett-whitlock-and-more.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Sonny Gray finished fifth in the AL Cy Young race Wednesday — and two other Red Sox got votes in the BBWAA's newest end-of-season award race.",
       "published": "2026-11-12T02:00:43+00:00",
       "title": "Sonny Gray finishes 5th in AL Cy Young voting",
@@ -90,30 +111,9 @@
       "published": "2026-11-10T03:16:10+00:00",
       "title": "From Jarren Duran trade rumors to Sonny Gray's future, here's what Red Sox CBO Craig Breslow said at the winter meetings",
       "url": "https://www.masslive.com/redsox/2026/11/what-craig-breslow-said-about-red-sox-coaching-adds-sonny-gray-triston-casas-health-jarren-durans-future-more.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "A year ago, as the annual GM Meetings opened, Craig Breslow made it abundantly clear that he viewed Trevor Story as the Red Sox' starting shortstop in 2026. He wouldn't make the same proclamation Monday.",
-      "published": "2026-11-10T03:04:08+00:00",
-      "title": "Trevor Story's future at shortstop uncertain as Red Sox weigh options",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-open-minded-on-shortstop-ahead-of-2027-and-wont-commit-to-trevor-story-again.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Payton Tolle’s performance on the mound was good enough for the Red Sox to hand him a start in Game 1 of a playoff series at Yankee Stadium a few weeks ago. On Monday, he was recognized among the American League’s best rookies.",
-      "published": "2026-11-10T00:54:46+00:00",
-      "title": "Red Sox rookie Payton Tolle finishes third in AL ROY voting",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-lefty-finishes-third-in-al-rookie-of-the-year-voting-is-hungry-to-take-the-next-step.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Days after being the victim of a 40-man roster crunch, right-handed reliever Zack Kelly has officially departed the Red Sox organization.",
-      "published": "2026-11-09T10:00:00+00:00",
-      "title": "Red Sox release longtime reliever after DFA — and he’s expected to have strong free agent market",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-release-longtime-reliever-after-dfa-and-hes-expected-to-have-strong-free-agent-market.html"
     }
   ],
-  "generated_at": "2026-11-12T02:36:20.988664+00:00",
+  "generated_at": "2026-11-12T10:14:32.172770+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
