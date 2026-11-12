@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "Paul Hoynes and Joe Noga debate Cade Smith's two award snubs, Parker Messick's historic Cy Young finish and the Guardians' plans to increase payroll in 2027.",
-      "published": "2026-11-12T05:11:00+00:00",
-      "title": "Did voters get Cade Smith wrong? Plus Guardians payroll plans and Parker Messick’s historic finish – Cleveland Baseball Talk Podcast",
-      "url": "https://www.cleveland.com/guardians/2026/11/did-voters-get-cade-smith-wrong-plus-guardians-payroll-plans-and-parker-messicks-historic-finish-cleveland-baseball-talk-podcast.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Guardians Cade Smith, in his first full season as closer, wins the Bob Feller Man of the Year award from Cleveland's chapter of the Baseball Writers Association of America.",
       "published": "2026-11-07T22:04:00+00:00",
       "title": "Guardians relentless Cade Smith voted Man of the Year by Cleveland’s BBWAA chapter",
@@ -20,6 +13,13 @@
       "published": "2026-11-11T11:39:00+00:00",
       "title": "Guardians’ Cade Smith denied first BBWAA AL Reliever of the Year award despite dominant season",
       "url": "https://www.cleveland.com/guardians/2026/11/guardians-cade-smith-denied-first-bbwaa-al-reliever-of-the-year-award-despite-dominant-season.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "With 13 players headed to arbitration and a projected $48.7 million baseline just to retain their own roster, Cleveland's promised payroll increase may already be spoken for before they pursue a ...",
+      "published": "2026-11-12T06:07:00+00:00",
+      "title": "The Guardians say they’re spending more in 2027 — but will any of it actually improve the team?",
+      "url": "https://www.cleveland.com/guardians/2026/11/the-guardians-say-theyre-spending-more-in-2027-but-will-any-of-it-actually-improve-the-team.html"
     },
     {
       "category": "Guardians",
@@ -58,17 +58,17 @@
     },
     {
       "category": "Guardians",
-      "description": "The Guardians announced the signing of their first minor league free agent with an invitation to spring training next year.",
-      "published": "2026-11-09T02:31:00+00:00",
-      "title": "Guardians sign free-agent lefty to minor league deal with spring-training invite",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-sign-free-agent-lefty-to-minor-league-deal-with-spring-training-invite.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Paul Hoynes and Joe Noga discuss Guardians award hopefuls Parker Messick and Cade Smith, José Tena’s return and a potential ownership change in Cleveland.",
       "published": "2026-11-09T03:42:00+00:00",
       "title": "Parker Messick’s big moment, a crowded infield and the future of Guardians ownership – Cleveland Baseball Talk Podcast",
       "url": "https://www.cleveland.com/guardians/2026/11/parker-messicks-big-moment-a-crowded-guardians-infield-and-the-future-of-clevelands-ownership-cleveland-baseball-talk-podcast.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians announced the signing of their first minor league free agent with an invitation to spring training next year.",
+      "published": "2026-11-09T02:31:00+00:00",
+      "title": "Guardians sign free-agent lefty to minor league deal with spring-training invite",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-sign-free-agent-lefty-to-minor-league-deal-with-spring-training-invite.html"
     },
     {
       "category": "Guardians",
@@ -78,7 +78,7 @@
       "url": "https://www.cleveland.com/guardians/2026/11/how-chase-delauters-rookie-season-changed-the-way-the-guardians-build-their-lineup.html"
     }
   ],
-  "generated_at": "2026-11-12T18:21:21.872967+00:00",
+  "generated_at": "2026-11-12T23:44:00.736524+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

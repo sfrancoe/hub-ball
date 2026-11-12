@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "The celebration continues for Milwaukee Brewers rookie shortstop Cooper Pratt. Just two weeks after his team won its first World Series, Pratt announced that he's engaged.",
+      "published": "2026-11-12T10:28:00+00:00",
+      "title": "Milwaukee Brewers rookie Cooper Pratt is engaged; '2 rings in 1 year'",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/12/milwaukee-brewers-cooper-pratt-engaged-jansyn-hollis/92740909007/"
+    },
+    {
+      "category": "Brewers",
       "description": "The Milwaukee Brewers were all over the MLB Awards on Nov. 11, including an award for William Contreras that acknowledges his showmanship.",
-      "published": "2026-11-12T09:44:00+00:00",
+      "published": "2026-11-12T10:30:00+00:00",
       "title": "William Contreras credited for 'flow' as Brewers all over MLB Awards",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/12/brewers-three-all-mlb-selections-contreras/92743617007/"
     },
@@ -16,10 +23,10 @@
     },
     {
       "category": "Brewers",
-      "description": "The World Series parade and celebration for the Brewers took planning--including a myriad of tasks between winning the title and a party for 750,000.",
-      "published": "2026-11-10T10:10:00+00:00",
-      "title": "How the Brewers, and Milwaukee, pulled off World Series parade, party",
-      "url": "https://www.jsonline.com/story/money/business/2026/11/10/how-the-brewers-and-milwaukee-pulled-off-a-series-party-for-the-ages/92692819007/"
+      "description": "Two weeks after recording the final out of the World Series, Trevor Megill received recognition for his standout year ...",
+      "published": "2026-11-11T16:52:00+00:00",
+      "title": "Here's where Brewers closer Trevor Megill finished in award voting",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/11/where-brewers-closer-trevor-megill-finished-in-award-voting/92694829007/"
     },
     {
       "category": "Brewers",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Brewers",
-      "description": "A dismal 1-9 start for the Milwaukee Bucks has some worried about a losing culture and the team’s future direction.",
-      "published": "2026-11-09T09:31:00+00:00",
-      "title": "Brewers, Packers allow the 1-9 Milwaukee Bucks to fly under the radar, for now | Lori Nickel",
-      "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/11/09/rebuilding-milwaukee-bucks-can-fly-under-radar-for-now-lori-nickel/92689507007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Investigative reporter John Diedrich was born a Brewers fan. But their 1982 World Series loss made him afraid to hope like that again.",
       "published": "2026-11-07T03:06:00+00:00",
       "title": "What the 2026 Brewers gave back to the boy I was in 1982",
@@ -44,17 +44,10 @@
     },
     {
       "category": "Brewers",
-      "description": "A couple of members of the Milwaukee Brewers family made major life announcements on baseball's biggest stage.",
-      "published": "2026-11-05T11:00:00+00:00",
-      "title": "These 2 Brewers announce with their wives that they're expecting",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/05/milwaukee-brewers-wives-announce-expecting/92624834007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Two weeks after recording the final out of the World Series, Trevor Megill received recognition for his standout year ...",
-      "published": "2026-11-11T16:52:00+00:00",
-      "title": "Here's where Brewers closer Trevor Megill finished in award voting",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/11/where-brewers-closer-trevor-megill-finished-in-award-voting/92694829007/"
+      "description": "A dismal 1-9 start for the Milwaukee Bucks has some worried about a losing culture and the team’s future direction.",
+      "published": "2026-11-09T09:31:00+00:00",
+      "title": "Brewers, Packers allow the 1-9 Milwaukee Bucks to fly under the radar, for now | Lori Nickel",
+      "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/11/09/rebuilding-milwaukee-bucks-can-fly-under-radar-for-now-lori-nickel/92689507007/"
     },
     {
       "category": "Brewers",
@@ -65,13 +58,20 @@
     },
     {
       "category": "Brewers",
-      "description": "The Brewers have won the World Series. Now, here's a look at where their roster stands in terms of contracts, arbitration, free agency and more.",
-      "published": "2026-11-02T10:01:00+00:00",
-      "title": "What to know about Milwaukee Brewers' offseason, free agents, contracts, potential roster moves",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/02/heres-how-things-stand-with-brewers-roster-entering-this-offseason/92553757007/"
+      "description": "A couple of members of the Milwaukee Brewers family made major life announcements on baseball's biggest stage.",
+      "published": "2026-11-05T11:00:00+00:00",
+      "title": "These 2 Brewers announce with their wives that they're expecting",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/05/milwaukee-brewers-wives-announce-expecting/92624834007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "The Milwaukee Brewers' championship tour has taken them to \"Saturday Night Live.\" Fresh off their World Series title, the Brewers made a cameo inside Studio8H during \"Weekend Update\" of the Oct. 31 ...",
+      "published": "2026-11-01T18:19:00+00:00",
+      "title": "World Series champion Brewers appear on 'Saturday Night Live,' watch here",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/01/milwaukee-brewers-snl-world-series-champions-saturday-night-live/92539222007/"
     }
   ],
-  "generated_at": "2026-11-12T18:21:28.192389+00:00",
+  "generated_at": "2026-11-12T23:44:08.144394+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

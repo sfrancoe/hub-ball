@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Brian Cashman said that he and Jorge Posada have discussed the ex-catcher’s comments about not...",
+      "published": "2026-11-12T18:25:40+00:00",
+      "title": "Yankees’ Brian Cashman spoke to Jorge Posada, Pat Murphy after viral comments",
+      "url": "https://www.nydailynews.com/2026/11/12/yankees-brian-cashman-spoke-to-jorge-posada-pat-murphy/"
+    },
+    {
+      "category": "Yankees",
       "description": "Clemens won seven Cy Youngs during his 24-year career. That included one with the Yankees...",
       "published": "2026-11-12T12:00:53+00:00",
       "title": "Yankees’ Cam Schlittler honored to have Cy Young Award presented by Roger Clemens",
@@ -132,16 +139,9 @@
       "published": "2026-11-02T15:06:34+00:00",
       "title": "Yankees’ Cody Bellinger earns Gold Glove Award for stellar left field defense",
       "url": "https://www.nydailynews.com/2026/11/02/yankees-cody-bellinger-earns-gold-glove-award-for-stellar-left-field-defense/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees are not renewing the contracts of Omar Minaya and Brian Sabean, a source...",
-      "published": "2026-10-31T16:15:07+00:00",
-      "title": "Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean",
-      "url": "https://www.nydailynews.com/2026/10/31/yankees-not-renewing-contracts-advisors-omar-minaya-brian-sabean/"
     }
   ],
-  "generated_at": "2026-11-12T18:21:07.546377+00:00",
+  "generated_at": "2026-11-12T23:43:47.728396+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

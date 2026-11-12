@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "A song performed by Mookie Betts and Roy Wood Jr. poked just a bit of fun at the Rays star’s epically slow home run trot.",
+      "published": "2026-11-12T23:31:21+00:00",
+      "title": "MLB Awards hosts were kind of singing praises of Rays’ Junior Caminero",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/12/junior-caminero-home-run-trot-roy-wood-jr-mookie-betts-song-mlb-awards/"
+    },
+    {
+      "category": "Rays",
       "description": "Junior Caminero is chosen as the All-MLB first-team third baseman. Drew Rasmussen gets second-team rotation honors.",
       "published": "2026-11-12T05:41:03+00:00",
       "title": "Rays’ Baker wins Mariano Rivera award, Neander honored as top executive",
@@ -118,16 +125,9 @@
       "published": "2026-10-29T22:44:28+00:00",
       "title": "5 reasons Rays were watching and Brewers were celebrating Series win",
       "url": "https://www.tampabay.com/sports/rays/2026/10/29/world-series-defeat-milwaukee-brewers/"
-    },
-    {
-      "category": "Rays",
-      "description": "A Dominican appeals court upholds the second guilty verdict and gives the Rays shortstop a 3-year suspended sentence, which is similar to probation.",
-      "published": "2026-10-29T15:50:44+00:00",
-      "title": "Wander Franco loses appeal, suspended sentence added to guilty verdict",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/29/wander-franco-appeal-dominican-republic-court/"
     }
   ],
-  "generated_at": "2026-11-12T10:14:37.846547+00:00",
+  "generated_at": "2026-11-12T23:43:58.134167+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

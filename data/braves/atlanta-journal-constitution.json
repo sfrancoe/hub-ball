@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Braves",
+      "description": "Evan Phillips, 32, has agreed to a three-year, $35 million contract, the club announced Thursday. Phillips pitched in 31 games, all in relief, for the Dodgers in 2026. He will make $11 million for the ...",
+      "published": "2026-11-12T13:33:00+00:00",
+      "title": "Braves sign right-handed relief pitcher Evan Phillips to three-year deal",
+      "url": "https://www.ajc.com/sports/2026/11/braves-sign-relief-pitcher-evan-phillips/"
+    },
+    {
+      "category": "Braves",
       "description": "Right-hander Spencer Strider missed the last three months of the season, while right-hander Spencer Schwellenbach was out for all of 2026.",
       "published": "2026-11-11T06:41:00+00:00",
       "title": "Anthopoulos provides updates on Strider, Schwellenbach for 2027 season",
       "url": "https://www.ajc.com/sports/2026/11/braves-strider-schwellenbach-injury-updates/"
-    },
-    {
-      "category": "Braves",
-      "description": "The outfielder was suspended for the entire 2026 season for testing positive for a banned substance after missing 80 games in 2025 for the same infraction.",
-      "published": "2026-11-12T08:18:00+00:00",
-      "title": "Braves in early stages of discussing Jurickson Profar’s future with team",
-      "url": "https://www.ajc.com/sports/2026/11/braves-discussing-jurickson-profar-future/"
     },
     {
       "category": "Braves",
@@ -30,13 +30,6 @@
     },
     {
       "category": "Braves",
-      "description": "Braves’ left-handed starting pitcher Chris Sale finished third in Cy Young Award voting among National League pitchers, the Baseball Writers’ Association of America announced Wednesday.",
-      "published": "2026-11-12T09:07:00+00:00",
-      "title": "Chris Sale finishes third in NL Cy Young Award voting",
-      "url": "https://www.ajc.com/sports/2026/11/sale-finishes-third-in-nl-cy-young-award-voting/"
-    },
-    {
-      "category": "Braves",
       "description": "Atlanta may look beyond free agency for rotation help, with controllable arms and established veterans potentially available via trade.",
       "published": "2026-11-06T03:00:00+00:00",
       "title": "Which trade candidates could fit Braves’ rotation?",
@@ -51,13 +44,27 @@
     },
     {
       "category": "Braves",
+      "description": "Easy like Sunday morning, the Braves breezed to a Sunday afternoon victory at Truist Park in beating the Red Sox 8-1. After a week of five games, first against the Cubs and then the Sox, in which the ...",
+      "published": "2026-05-16T17:00:00+00:00",
+      "title": "Braves take easy win over Red Sox, win 13th series",
+      "url": "https://www.ajc.com/sports/2026/05/braves-take-easy-win-over-red-sox-win-13th-series/"
+    },
+    {
+      "category": "Braves",
+      "description": "The outfielder was suspended for the entire 2026 season for testing positive for a banned substance after missing 80 games in 2025 for the same infraction.",
+      "published": "2026-11-12T08:18:00+00:00",
+      "title": "Braves in early stages of discussing Jurickson Profar’s future with team",
+      "url": "https://www.ajc.com/sports/2026/11/braves-discussing-jurickson-profar-future/"
+    },
+    {
+      "category": "Braves",
       "description": "The Braves on Friday signed infielder Vidal Bruján to a minor-league contract. Bruján, 28, was assigned to Triple-A Gwinnett on Monday. The Dominican Republic native spent the 2026 season with the ...",
       "published": "2026-11-02T06:15:00+00:00",
       "title": "Braves sign Vidal Bruján to improve depth in infield",
       "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-vidal-brujan/"
     }
   ],
-  "generated_at": "2026-11-12T18:21:25.903073+00:00",
+  "generated_at": "2026-11-12T23:44:05.353769+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }

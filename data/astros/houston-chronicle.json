@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Houston Astros have named Brad Ausmus as their next manager. Ausmus, 57, returns to the organization where he spent 10 of his 18 major league seasons as a player. He will take on his third managerial ...",
+      "published": "2026-11-12T11:20:00+00:00",
+      "title": "Readers react to Brad Ausmus’ hiring as Astros manager",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-reactions-22527515.php"
+    },
+    {
+      "category": "Astros",
       "description": "The Astros have spoken with more than four candidates, and GM Randy Flores says choosing a manager remains the first order of business in Houston.",
       "published": "2026-11-09T16:00:00+00:00",
       "title": "Houston Astros' managerial search could wind down in days, with GM Randy Flores 'hopeful'",
       "url": "https://www.houstonchronicle.com/sports/astros/article/houston-manager-search-randy-flores-22520590.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Astros' new manager Brad Ausmus has big-league managing experience with the Detroit Tigers and Los Angeles Angels, but he has never won a playoff game. Here's how he did at those stops.",
-      "published": "2026-11-11T10:46:00+00:00",
-      "title": "Houston Astros new manager Brad Ausmus: Where his previous managerial stints went wrong",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-history-experience-tigers-22525219.php"
     },
     {
       "category": "Astros",
@@ -23,10 +23,17 @@
     },
     {
       "category": "Astros",
-      "description": "Brad Ausmus, who the Astros hired as manager Wednesday, had some big moments in his 10 years as a player in Houston, including Gold Gloves, a huge postseason homer and a memorable send-off.",
-      "published": "2026-11-11T13:12:00+00:00",
-      "title": "Astros new manager Brad Ausmus' best moments as a player in Houston",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-player-catcher-highlights-22525562.php"
+      "description": "Yordan Alvarez’s home run that won the 2022 World Series for the Houston Astros is one of the biggest moments in franchise history. We tracked down the ball, that resides in a fan’s safe.",
+      "published": "2026-11-12T10:13:00+00:00",
+      "title": "Where is Yordan Alvarez's 2022 World Series HR ball? Fan still has it despite big-money offers.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-2022-home-run-ball-fan-now-22526839.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Astros' new manager Brad Ausmus has big-league managing experience with the Detroit Tigers and Los Angeles Angels, but he has never won a playoff game. Here's how he did at those stops.",
+      "published": "2026-11-11T10:46:00+00:00",
+      "title": "Houston Astros new manager Brad Ausmus: Where his previous managerial stints went wrong",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-history-experience-tigers-22525219.php"
     },
     {
       "category": "Astros",
@@ -58,27 +65,13 @@
     },
     {
       "category": "Astros",
-      "description": "Randy Flores is the Astros' new GM. But 21 years ago, he was on the other side when Albert Pujols, now a managerial candidate, hit an unforgettable homer that's still talked about in Houston.",
-      "published": "2026-11-11T05:00:00+00:00",
-      "title": "'It got so quiet': Randy Flores shares his memories from infamous moment in Astros history",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-albert-pujols-hr-22524682.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Yordan Alvarez led the AL in average, on-base percentage and slugging in 2026. His historic edge over other hitters could bring the Astros star his first MVP.",
-      "published": "2026-11-11T04:00:00+00:00",
-      "title": "The case for Yordan Alvarez as MVP: Three stats that separate Astros designated hitter from the rest",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-al-mvp-22466807.php"
-    },
-    {
-      "category": "Astros",
-      "description": "A hook crashed through Nehomar Ochoa’s windshield during spring training in 2025, leaving him glad to be alive. Now the Galena Park graduate is focusing on his path through the Astros' system.",
-      "published": "2026-11-08T04:00:00+00:00",
-      "title": "Houston Astros prospect Nehomar Ochoa Jr. survived a freak accident. He keeps chasing his MLB dream",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/nehomar-ochoa-jr-prospect-accident-22518319.php"
+      "description": "Brad Ausmus, who the Astros hired as manager Wednesday, had some big moments in his 10 years as a player in Houston, including Gold Gloves, a huge postseason homer and a memorable send-off.",
+      "published": "2026-11-11T13:12:00+00:00",
+      "title": "Astros new manager Brad Ausmus' best moments as a player in Houston",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-player-catcher-highlights-22525562.php"
     }
   ],
-  "generated_at": "2026-11-12T18:21:23.933511+00:00",
+  "generated_at": "2026-11-12T23:44:02.669876+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
