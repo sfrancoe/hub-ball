@@ -1,13 +1,73 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-12T19:12:05.251548+00:00",
+  "generatedAt": "2026-11-13T00:33:47.242228+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 10,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Like nearly every other MLB team, the Red Sox made no moves at the GM Meetings, but the action may heat up soon",
+      "description": "With the lockout set to start on Dec. 1, there will be ample motivation to close deals sooner.",
+      "url": "https://www.bostonglobe.com/2026/11/12/sports/craig-breslow-red-sox-gm-meetings/",
+      "published": "2026-11-13T00:30:56.880000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "MLB Awards hosts were kind of singing praises of Rays’ Junior Caminero",
+      "description": "A song performed by Mookie Betts and Roy Wood Jr. poked just a bit of fun at the Rays star’s epically slow home run trot.",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/12/junior-caminero-home-run-trot-roy-wood-jr-mookie-betts-song-mlb-awards/",
+      "published": "2026-11-12T23:31:21.383000+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Relief pitcher Evan Phillips signs three-year deal to return to Atlanta Braves",
+      "description": "The Atlanta Braves have signed relief pitcher Evan Phillips to a three-year, $35 million contract to bring the right-hander back to his original team.",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-12/evan-phillips-signs-three-year-deal-atlanta-braves",
+      "published": "2026-11-12T21:44:39.633000+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Braves sign right-handed relief pitcher Evan Phillips to three-year deal",
+      "description": "Evan Phillips, 32, has agreed to a three-year, $35 million contract, the club announced Thursday. Phillips pitched in 31 games, all in relief, for the Dodgers in 2026. He will make $11 million for the ...",
+      "url": "https://www.ajc.com/sports/2026/11/braves-sign-relief-pitcher-evan-phillips/",
+      "published": "2026-11-12T21:33:50.640000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Padres notes: Will they really spend? Sense of urgency? Three catchers?",
+      "description": "The takeaway from this week’s general managers meetings was that the Padres intend to compete for the top free agents available this offseason. They intend to. Even as the Padres spoke to agents at ...",
+      "url": "https://www.sandiegouniontribune.com/2026/11/12/padres-notes-will-they-really-spend-sense-of-urgency-three-catchers/",
+      "published": "2026-11-12T20:00:24+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Reps for divisive Yankees star meet with rival in MLB free agency twist",
       "description": "",
@@ -69,30 +129,6 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Chris Sale finishes third in NL Cy Young Award voting",
-      "description": "Braves’ left-handed starting pitcher Chris Sale finished third in Cy Young Award voting among National League pitchers, the Baseball Writers’ Association of America announced Wednesday.",
-      "url": "https://www.ajc.com/sports/2026/11/sale-finishes-third-in-nl-cy-young-award-voting/",
-      "published": "2026-11-12T17:07:30.171000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Braves in early stages of discussing Jurickson Profar’s future with team",
-      "description": "The outfielder was suspended for the entire 2026 season for testing positive for a banned substance after missing 80 games in 2025 for the same infraction.",
-      "url": "https://www.ajc.com/sports/2026/11/braves-discussing-jurickson-profar-future/",
-      "published": "2026-11-12T16:18:22.096000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
       "title": "Former Yankees reliever, World Series champ retires at 40",
       "description": "",
       "url": "https://nypost.com/2026/11/12/sports/former-yankees-pitcher-chris-martin-retires-from-mlb-at-40/",
@@ -105,16 +141,16 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "What I’m hearing about the Dodgers in the relief and infield market",
-      "description": "Alex Vesia's name has emerged as one of the buzziest in the industry during this week's general managers' meetings.",
-      "url": "https://www.nytimes.com/athletic/7775202/2026/11/12/dodgers-relief-infield-market-vesia/",
-      "published": "2026-11-12T14:00:44+00:00",
+      "title": "Braves sign Evan Phillips to a three-year deal, bolstering their bullpen",
+      "description": "Phillips will fortify the backend of the Braves bullpen. He brings with him significant postseason experience.",
+      "url": "https://www.nytimes.com/athletic/7737419/2026/11/12/evan-phillies-mlb-signs-braves-dodgers/",
+      "published": "",
       "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
       "league": "NL",
-      "publishedSource": "publisher"
+      "publishedSource": "unverified"
     },
     {
       "title": "Willson Contreras, Red Sox still talking after first baseman’s criticism of analytics reliance",
@@ -127,126 +163,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox outfielder Jarren Duran seems clearly on the trade block, but what’s his value? Tough to say.",
-      "description": "It's been a three-year tumble from top-10 MVP candidate in 2024 to one of the least productive hitters in baseball in 2026.",
-      "url": "https://www.bostonglobe.com/2026/11/12/sports/red-sox-jarren-duran-trade/",
-      "published": "2026-11-12T12:32:46.593000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees’ Cam Schlittler honored to have Cy Young Award presented by Roger Clemens",
-      "description": "Clemens won seven Cy Youngs during his 24-year career. That included one with the Yankees...",
-      "url": "https://www.nydailynews.com/2026/11/12/yankees-cam-schlittler-honored-to-have-cy-young-award-presented-by-roger-clemens/",
-      "published": "2026-11-12T12:00:53+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Phillies’ outfield picture is once again unclear. Will Brandon Marsh remain?",
-      "description": "The situation is even less settled than it was a year ago. And Marsh, after a rocky season, will be a compelling character this offseason.",
-      "url": "https://www.nytimes.com/athletic/7775067/2026/11/12/phillies-outfield-needs-brandon-marsh/",
-      "published": "2026-11-12T11:01:20+00:00",
-      "source": "The Athletic",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "teamAbbreviation": "PHI",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox traded from area of strength; now Craig Breslow needs to replenish",
-      "description": "Red Sox president of baseball operations Craig Breslow has traded several young starting pitchers in the past two years to fix other areas of the roster that were weaknesses.",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-traded-from-area-of-strength-now-craig-breslow-needs-to-replenish.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Red Sox boss Craig Breslow confirms he has been given new title",
-      "description": "Craig Breslow has been known as the Red Sox’s chief baseball officer since he was hired to run the club after the 2023 season, but going forward he will hold a new title.",
-      "url": "https://www.bostonherald.com/2026/11/12/red-sox-boss-craig-breslow-confirms-he-has-been-given-new-title/",
-      "published": "2026-11-12T10:30:27+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Guardians lost a closer to gambling investigation, but Cade Smith is proving just as proficient",
-      "description": "While Smith recovers from another busy October on the mound, Emmanuel Clase is expected to learn his fate in early December.",
-      "url": "https://www.nytimes.com/athletic/7774408/2026/11/12/guardians-cade-smith-proficiency-emmanuel-clase/",
-      "published": "2026-11-12T10:30:16+00:00",
-      "source": "The Athletic",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "teamAbbreviation": "CLE",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Where is Yordan Alvarez's 2022 World Series HR ball? Fan still has it despite big-money offers.",
-      "description": "Yordan Alvarez’s home run that won the 2022 World Series for the Houston Astros is one of the biggest moments in franchise history. We tracked down the ball, that resides in a fan’s safe.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-2022-home-run-ball-fan-now-22526839.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Today in Chicago History: First drive-in bank in the United States opens on LaSalle Street",
-      "description": "Here’s a look back at what happened in the Chicago area Nov. 12, according to the Tribune’s archives. Is an important event missing from this date? Email us. Flashback: Nov.12, 1946 2020: White Sox ...",
-      "url": "https://www.chicagotribune.com/2026/11/12/november-12-chicago-history/",
-      "published": "2026-11-12T10:00:28+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox president Craig Breslow stops short of guaranteeing Story the starting shortstop job — and that silence speaks volumes",
-      "description": "The Red Sox face a pivotal offseason decision regarding Trevor Story, whose declining performance and $30M salary obligation could reshape Boston's infield through a trade or positional shift.",
-      "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-much-of-offseason-plan-revolves-around-trevor-story.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "William Contreras credited for 'flow' as Brewers all over MLB Awards",
-      "description": "The Milwaukee Brewers were all over the MLB Awards on Nov. 11, including an award for William Contreras that acknowledges his showmanship.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/12/brewers-three-all-mlb-selections-contreras/92743617007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
