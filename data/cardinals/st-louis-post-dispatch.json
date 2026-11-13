@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cardinals",
+      "description": "A Memphis native, Johnson's 507 wins and seven seasons are both Class AAA Redbirds affiliate records, is one of two managers at top levels being replaced.",
+      "published": "2026-11-13T03:55:00+00:00",
+      "title": "Memphis' winningest manager Ben Johnson will not return as Cardinals seek new Triple-A skipper",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_8ec64ea9-0fb6-4a6f-a91d-125c43ef903c.html"
+    },
+    {
+      "category": "Cardinals",
       "description": "At GM Meetings, a stark contrast between two execs and former Cardinals: Mozeliak's time winding down in LA; Randy Flores just getting started in Houston.",
       "published": "2026-11-12T04:15:00+00:00",
       "title": "Another St. Louisan thrown a curve by Kroenke, John Mozeliak nears end of Angels' task",
@@ -23,17 +30,10 @@
     },
     {
       "category": "Cardinals",
-      "description": "Cardinals prospect Tai Peete collected three hits and Sammy Hernandez drove in two RBIs to help the Peoria Javelinas to a 5-3 win on Thursday in the Arizona Fall League.",
-      "published": "2026-11-06T07:15:00+00:00",
-      "title": "Cardinals prospects Tai Peete, Sammy Hernandez lead lineup in fall league win",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/minor-league/article_d88cc5ab-b218-4e20-a059-6210a993cdd8.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "In his latest Arizona Fall League start, Cardinals prospect Tai Peete reached base twice and scored a run as the Peoria Javelinas’ leadoff hitter.",
-      "published": "2026-11-12T07:59:00+00:00",
-      "title": "As fall league nears end, Cardinals prospect Tai Peete continues to produce",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/minor-league/article_ae3f6c85-1d20-42c2-8b17-9fc272c917dc.html"
+      "description": "Cardinals' busy week could be summarized in three phases: gauging the free-agent market, exploring potential trades, and pursuing hires.",
+      "published": "2026-11-13T05:05:00+00:00",
+      "title": "Goold: As we share a taxi, Chaim Bloom discusses ground Cardinals covered at GM meetings",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_299a255a-7414-43fe-93c0-fb8e461ba644.html"
     },
     {
       "category": "Cardinals",
@@ -41,6 +41,13 @@
       "published": "2026-11-03T14:01:00+00:00",
       "title": "Former Cardinals prospects Tink Hence, Zack Thompson become minor league free agents",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_88317e9d-8713-4631-97d5-71747313224f.html"
+    },
+    {
+      "category": "Cardinals",
+      "description": "Cardinals youngsters JJ Wetherholt, Masyn Winn and Michael McGreevy were named 2026 Gold Glove finalists, but each came up short of winning the defensive honor ...",
+      "published": "2026-11-02T10:59:00+00:00",
+      "title": "Cardinals shut out from 2026 Gold Glove Awards after having three finalists",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_164293e0-264f-42e2-b23c-c3e4fe983a4e.html"
     },
     {
       "category": "Cardinals",
@@ -58,13 +65,6 @@
     },
     {
       "category": "Cardinals",
-      "description": "Cardinals youngsters JJ Wetherholt, Masyn Winn and Michael McGreevy were named 2026 Gold Glove finalists, but each came up short of winning the defensive honor ...",
-      "published": "2026-11-02T10:59:00+00:00",
-      "title": "Cardinals shut out from 2026 Gold Glove Awards after having three finalists",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_164293e0-264f-42e2-b23c-c3e4fe983a4e.html"
-    },
-    {
-      "category": "Cardinals",
       "description": "The Cardinals are going to decline the one-year option on reliever Ryne Stanek’s contract, a source told Post-Dispatch reporter Derrick Goold. The decision will set up Stanek for free agency.",
       "published": "2026-11-01T16:45:00+00:00",
       "title": "Cardinals to decline one-year option on veteran reliever Ryne Stanek: Source",
@@ -78,7 +78,7 @@
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_04640beb-c496-4187-8b5d-2adba5386902.html"
     }
   ],
-  "generated_at": "2026-11-13T11:30:51.777078+00:00",
+  "generated_at": "2026-11-13T18:43:15.097723+00:00",
   "source": "Post-Dispatch",
   "source_url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
 }

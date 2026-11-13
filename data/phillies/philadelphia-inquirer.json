@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "Players on the 40-man roster would be locked out come December and unable to play in the minor leagues, but if a player is not added, his team risks losing him.",
+      "published": "2026-11-10T18:28:00+00:00",
+      "title": "The looming lockout complicates roster decisions for teams, including the Phillies",
+      "url": "https://www.inquirer.com/phillies/baseball-lockout-roster-decisions-rule-5-bryan-rincon-20261110.html"
+    },
+    {
+      "category": "Phillies",
       "description": "Having a talented rookie infielder making the minimum salary would help free up the cash to bowl over a Japanese slugger. It may be the Phillies’ two-part offseason plan to add more offense.",
       "published": "2026-11-10T18:59:00+00:00",
       "title": "The Phillies are counting on Aidan Miller in 2027. Could they also turn to Teruaki Sato for outfield help?",
@@ -13,23 +20,9 @@
       "published": "2026-11-09T18:07:00+00:00",
       "title": "Kevin McGonigle was Delco’s No. 1 Halloween costume. Now he’s the AL Rookie of the Year.",
       "url": "https://www.inquirer.com/phillies/kevin-mcgonigle-delco-costume-american-league-rookie-of-the-year-20261109.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "Wheeler, who came back from thoracic outlet syndrome, finished with a 3.00 ERA and 193 strikeouts in 162 innings. He is the first Phillie to win the award since Brad Lidge in 2008.",
-      "published": "2026-11-11T19:57:00+00:00",
-      "title": "Phillies' Zack Wheeler wins National League Comeback Player of the Year award",
-      "url": "https://www.inquirer.com/phillies/zack-wheeler-nl-comeback-player-award-20261111.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "The Phillies president arrived in 2020 to much fanfare, but Dealin’ Dave's moves in Philly have been mostly misses. He can't afford any more.",
-      "published": "2026-10-31T03:02:00+00:00",
-      "title": "Hot stove season begins. Will Dave Dombrowski make more mistakes like Pete Alonso, Trea Turner, José Alvarado?",
-      "url": "https://www.inquirer.com/sports/phillies-dave-dombrowski-hot-stove-mistakes-pete-alonso-trea-turner-20261031.html"
     }
   ],
-  "generated_at": "2026-11-13T11:30:49.418398+00:00",
+  "generated_at": "2026-11-13T18:43:11.892317+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }

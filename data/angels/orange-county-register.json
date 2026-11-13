@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Angels",
+      "description": "The impending sale of the team from Arte Moreno to Stan Kroenke gives executives from other teams reason to believe that the Angels will soon be heading in a better direction.",
+      "published": "2026-11-10T17:35:00+00:00",
+      "title": "Rival executives see Angels on cusp of better days under new ownership",
+      "url": "https://www.ocregister.com/2026/11/10/rival-executives-see-angels-on-cusp-of-better-days-under-new-ownership/"
+    },
+    {
+      "category": "Angels",
       "description": "A 7-time Gold Glove winner, Boone played 7 seasons with the Angels and was part of baseballs first three-generation family.",
       "published": "2026-11-10T16:15:00+00:00",
       "title": "Former Angels catcher Bob Boone dies at 78",
@@ -13,13 +20,6 @@
       "published": "2026-11-09T18:21:00+00:00",
       "title": "Angels begin meetings with GM candidates this week",
       "url": "https://www.ocregister.com/2026/11/09/angels-begin-meetings-with-gm-candidates-this-week/"
-    },
-    {
-      "category": "Angels",
-      "description": "As the Angels search for a new head of baseball operations who will chart the course of their rebuild, their interim GM suggests they should not look for quick fixes or rush prospects to the majors.",
-      "published": "2026-11-11T18:35:00+00:00",
-      "title": "John Mozeliak advises patience for Angels’ new regime",
-      "url": "https://www.ocregister.com/2026/11/11/john-mozeliak-advises-patience-for-angels-new-regime/"
     },
     {
       "category": "Angels",
@@ -37,20 +37,13 @@
     },
     {
       "category": "Angels",
-      "description": "LAS VEGAS — Jerry Dipoto knows better than most people what the situation under Angels ownership has been like over the past couple of decades. Dipoto was the Angels’ general manager from 2011 to 2015 ...",
-      "published": "2026-11-10T17:35:00+00:00",
-      "title": "Rival executives see Angels on cusp of better days under new ownership",
-      "url": "https://www.ocregister.com/2026/11/10/rival-executives-see-angels-on-cusp-of-better-days-under-new-ownership/"
-    },
-    {
-      "category": "Angels",
       "description": "Maddon, who managed the Angels from 2020 to 2022, is among eight non-players up for consideration for the Hall of Fame. Longtime Angels manager Mike Scioscia was eligible to be considered for this ...",
       "published": "2026-11-02T12:25:00+00:00",
       "title": "Former Angels manager Joe Maddon on Hall of Fame ballot",
       "url": "https://www.ocregister.com/2026/11/02/former-angels-manager-joe-maddon-on-hall-of-fame-ballot/"
     }
   ],
-  "generated_at": "2026-11-13T11:30:47.108808+00:00",
+  "generated_at": "2026-11-13T18:43:08.861475+00:00",
   "source": "OC Register",
   "source_url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
 }

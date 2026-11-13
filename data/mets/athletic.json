@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "What can the Mets do in their second attempt to replace Pete Alonso?",
+      "published": "2026-11-13T12:00:41+00:00",
+      "title": "Mets need a first baseman, again. Who are the options?",
+      "url": "https://www.nytimes.com/athletic/7777805/2026/11/13/mets-need-first-baseman-options/"
+    },
+    {
+      "category": "Mets",
       "description": "The Mets' rotation sank their season. Here's every starter they could target this winter, sorted into four tiers.",
       "published": "2026-11-12T11:00:02+00:00",
       "title": "The rotation is the Mets' top priority. How can they finally fix it?",
@@ -132,16 +139,9 @@
       "published": "2026-10-03T17:52:46+00:00",
       "title": "Juan Soto tips his cap to Dodgers' rookie Josue De Paula — and his shuffle",
       "url": "https://www.nytimes.com/athletic/7655932/2026/10/03/josue-de-paula-dodgers-juan-soto-shuffle-nlds/"
-    },
-    {
-      "category": "Mets",
-      "description": "It’s vital to drill down on why Stearns has struggled in free agency. Sources point to a few key reasons.",
-      "published": "2026-09-30T09:04:24+00:00",
-      "title": "Inside what's gone wrong for David Stearns and how the Mets must fix it this winter",
-      "url": "https://www.nytimes.com/athletic/7642227/2026/09/30/mets-david-stearns-free-agency-fix/"
     }
   ],
-  "generated_at": "2026-11-12T18:21:17.428346+00:00",
+  "generated_at": "2026-11-13T18:43:02.971353+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

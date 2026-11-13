@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox made a big splash Friday, signing one of the heroes of the Milwaukee Brewers’ World Series run",
+      "published": "2026-11-13T18:03:33Z",
+      "title": "Red Sox make unexpected signing of Brewers postseason hero Jake Bauers",
+      "url": "https://www.bostonherald.com/2026/11/13/red-sox-signing-jake-bauers-contract-willson-contreras-mlb-breaking-news/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "MLB’s GM Meetings have come and gone. Here are five Red Sox takeaways heading into what should be a busy stretch of the offseason.",
       "published": "2026-11-13T10:30:56Z",
       "title": "Five Red Sox takeaways from GM Meetings in Las Vegas",
@@ -104,16 +111,9 @@
       "published": "2026-11-10T00:57:11Z",
       "title": "No Rookie of the Year Award for Payton Tolle despite magical 2026 season",
       "url": "https://www.bostonherald.com/2026/11/09/red-sox-payton-tolle-rookie-of-the-year-mlb-awards/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox have officially released a veteran right-hander days after he was caught up in last week’s 40-man roster crunch.",
-      "published": "2026-11-09T18:10:46Z",
-      "title": "Red Sox release veteran reliever who was recently designated for assignment",
-      "url": "https://www.bostonherald.com/2026/11/09/red-sox-release-veteran-reliever-who-was-recently-designated-for-assignment/"
     }
   ],
-  "generated_at": "2026-11-13T11:30:27.498751+00:00",
+  "generated_at": "2026-11-13T18:42:50.551360+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

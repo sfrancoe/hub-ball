@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Six members of the Yankees organization met with Shoki Oda in his native Japan on...",
+      "published": "2026-11-13T15:14:15+00:00",
+      "title": "Inside the Yankees’ meeting with 18-year-old Japanese prospect Shoki Oda",
+      "url": "https://www.nydailynews.com/2026/11/13/inside-the-yankees-meeting-with-18-year-old-japanese-prospect-shoki-oda/"
+    },
+    {
+      "category": "Yankees",
       "description": "Brian Cashman said that he and Jorge Posada have discussed the ex-catcher’s comments about not...",
       "published": "2026-11-12T18:25:40+00:00",
       "title": "Yankees’ Brian Cashman spoke to Jorge Posada, Pat Murphy after viral comments",
@@ -132,16 +139,9 @@
       "published": "2026-11-02T22:05:52+00:00",
       "title": "Yankees extend one-year qualifying offer to David Bednar: source",
       "url": "https://www.nydailynews.com/2026/11/02/yankees-extend-one-year-qualifying-offer-to-david-bednar-source/"
-    },
-    {
-      "category": "Yankees",
-      "description": "With 21 Defensive Runs Saved, Bellinger led all left fielders by a wide margin in...",
-      "published": "2026-11-02T15:06:34+00:00",
-      "title": "Yankees’ Cody Bellinger earns Gold Glove Award for stellar left field defense",
-      "url": "https://www.nydailynews.com/2026/11/02/yankees-cody-bellinger-earns-gold-glove-award-for-stellar-left-field-defense/"
     }
   ],
-  "generated_at": "2026-11-13T03:37:27.920354+00:00",
+  "generated_at": "2026-11-13T18:42:52.098772+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
