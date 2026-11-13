@@ -3,6 +3,20 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics are soaring at 10-2, fresh off a 4-0 road trip, as they have passed just about every test to open the season.",
+        "published": "2026-11-13T10:00:00+00:00",
+        "title": "How will the Celtics keep Paul George fresh for the playoffs? (Mailbag)",
+        "url": "https://www.masslive.com/celtics/2026/11/how-will-the-celtics-keep-paul-george-fresh-for-the-playoffs-mailbag.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "On the court, George has looked like his All-Star self. The challenge now is keeping him there.",
+        "published": "2026-11-13T10:00:00+00:00",
+        "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
+        "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-winning-over-celtics-fans-and-making-brad-stevens-look-good.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Marcus Smart was also ejected from the Rockets' win over the Warriors on Wednesday.",
         "published": "2026-11-12T22:53:19+00:00",
         "title": "Former Celtics guard suspended for punching player",
@@ -98,23 +112,9 @@
         "published": "2026-11-11T04:08:57+00:00",
         "title": "Paul George shares blunt gesture to 76ers fan amid Celtics rout",
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-shares-blunt-gesture-with-76ers-fans-amid-celtics-rout.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Paul George stole the show on Tuesday night as the Celtics ran away with the win in their first matchup against Jaylen Brown and the 76ers this season.",
-        "published": "2026-11-11T03:26:49+00:00",
-        "title": "4 takeaways as Celtics beat 76ers as new trade addition erupts against former team",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-76ers-as-new-trade-addition-erupts-against-former-team.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "While all eyes were on Jaylen Brown and Jayson Tatum, it was Paul George's show Tuesday in Philadelphia.",
-        "published": "2026-11-11T03:23:58+00:00",
-        "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in revenge win over 76ers",
-        "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-celtics-name-to-know-player-of-the-game-in-revenge-win-over-76ers.html"
       }
     ],
-    "generated_at": "2026-11-12T23:04:53.746824+00:00",
+    "generated_at": "2026-11-13T10:09:18.301371+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },

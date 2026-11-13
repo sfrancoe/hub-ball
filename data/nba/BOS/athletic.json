@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Small sample sizes are getting larger. These are the biggest shocks across the league — good, bad or ugly",
+        "published": "2026-11-13T10:07:57+00:00",
+        "title": "Every NBA team’s biggest surprise so far in the 2026-27 season",
+        "url": "https://www.nytimes.com/athletic/7776021/2026/11/13/nba-early-surprises-yaxel-lendeborg-cooper-flagg/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Brown's been at the summit of the NBA. Tuesday was the valley. He will climb again, and see Tatum again, and play well again.",
         "published": "2026-11-11T11:00:49+00:00",
         "title": "Jaylen Brown's wounds may heal some day. It didn't happen in first game vs. Boston",
@@ -105,16 +112,9 @@
         "published": "2026-10-28T10:11:25+00:00",
         "title": "Jayson Tatum's gratitude and joy shine through after game winner for the Celtics",
         "url": "https://www.nytimes.com/athletic/7731701/2026/10/28/celtics-jayson-tatum-game-winner-nets/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "If you've ever cooked, you know lamb is a great substitute for beef.",
-        "published": "2026-10-27T09:30:56+00:00",
-        "title": "The beef — or lamb chops — between Jayson Tatum and Jaylen Brown is good for NBA",
-        "url": "https://www.nytimes.com/athletic/7727460/2026/10/27/jaylen-brown-jayson-tatum-beef-celtics-sixers/"
       }
     ],
-    "generated_at": "2026-11-11T11:02:52.972113+00:00",
+    "generated_at": "2026-11-13T10:09:18.865291+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
