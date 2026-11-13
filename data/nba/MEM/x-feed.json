@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-13T09:41:48.718760+00:00",
+  "generated_at": "2026-11-13T17:43:09.499621+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450835151142983",
   "team_id": "29",
   "sport": "nba",
-  "likes_as_of": "2026-11-13T09:41:48.718760+00:00",
+  "likes_as_of": "2026-11-13T17:43:09.499621+00:00",
   "recent": [
+    {
+      "id": "2121234495051366466",
+      "text": "The Daily Grind Ep. 677 || NBA CUP Memphis Grizzlies @ New Orleans Pelicans || Nov. 13, 2026 https://t.co/dgpbCh4TvY",
+      "url": "https://x.com/bcmGrizzlies/status/2121234495051366466",
+      "published": "2026-11-13T13:31:28+00:00",
+      "likes": 0,
+      "author": "Bluff City Media",
+      "handle": "bcmGrizzlies",
+      "avatar": "https://pbs.twimg.com/profile_images/1633692801463459840/bPTc_4Tw_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2120724972838453625",
       "text": "Tuomas Iisalo said Cam Boozer went for the 3-pointer thinking he was fouled and would get three free throws. He said he liked Boozer pushing the ball. That was discussed before the Denver free throws",
@@ -26,7 +40,7 @@
       "text": "Grizzlies had a chance to call a timeout down three. Opted not to, didn’t get a good look and lost 123-118. Grizzlies-Pelicans on Friday https://t.co/FNJ2bokyir",
       "url": "https://x.com/DamichaelC/status/2120721409270018250",
       "published": "2026-11-12T03:32:39+00:00",
-      "likes": 19,
+      "likes": 20,
       "author": "Damichael Cole",
       "handle": "DamichaelC",
       "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
@@ -288,5 +302,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2121234495051366466",
+      "text": "The Daily Grind Ep. 677 || NBA CUP Memphis Grizzlies @ New Orleans Pelicans || Nov. 13, 2026 https://t.co/dgpbCh4TvY",
+      "url": "https://x.com/bcmGrizzlies/status/2121234495051366466",
+      "published": "2026-11-13T13:31:28+00:00",
+      "likes": 0,
+      "author": "Bluff City Media",
+      "handle": "bcmGrizzlies",
+      "avatar": "https://pbs.twimg.com/profile_images/1633692801463459840/bPTc_4Tw_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
