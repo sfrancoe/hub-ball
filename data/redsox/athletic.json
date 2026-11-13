@@ -2,10 +2,31 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Bauers finds a new home at a reasonable cost, while his old team, the Brewers, will likely replace him internally while adding elsewhere.",
+      "published": "2026-11-13T21:10:51+00:00",
+      "title": "Jake Bauers signing analysis: Red Sox get bargain; Brewers should look to add pitching",
+      "url": "https://www.nytimes.com/athletic/7779875/2026/11/13/jake-bauers-free-agent-deal-analysis-red-sox-brewers/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "The trickle-down effect on Boston's roster means one or more trades are likely on the horizon.",
+      "published": "2026-11-13T21:07:03+00:00",
+      "title": "What's next for Red Sox after Jake Bauers signing?",
+      "url": "https://www.nytimes.com/athletic/7779737/2026/11/13/red-sox-jake-bauers-signing-trade/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Bauers, 31, was set on retiring after the 2024 season. He stuck with baseball and now has a lucrative deal with Boston.",
       "published": "2026-11-13T18:02:09+00:00",
       "title": "Jake Bauers, fresh off a dream season, agrees to 4-year deal with Red Sox: Source",
       "url": "https://www.nytimes.com/athletic/7741296/2026/11/13/jake-bauers-red-sox-4-year-contract/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Plus: Tampa Bay's offseason options, Boston's obstacles with Jarren Duran and more news and notes from the general managers' meetings.",
+      "published": "2026-11-12T10:01:47+00:00",
+      "title": "Why Alec Bohm has emerged as a surprisingly intriguing free agent",
+      "url": "https://www.nytimes.com/athletic/7775218/2026/11/12/alec-bohm-gm-meetings-rays-red-sox/"
     },
     {
       "category": "Boston Red Sox",
@@ -90,30 +111,9 @@
       "published": "2026-10-29T03:18:37+00:00",
       "title": "2027 World Series odds: Dodgers favored ahead of Brewers, Yankees, Red Sox",
       "url": "https://www.nytimes.com/athletic/7730335/2026/10/28/2027-world-series-odds-dodgers-brewers-yankees-red-sox/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Both broadcasters will forever remembered as the play-by-play chroniclers of Boston’s 1967 pennant-winning “Impossible Dream” season.",
-      "published": "2026-10-27T11:00:58+00:00",
-      "title": "Tough call for Red Sox fans: Ken Coleman or Ned Martin for Hall of Fame Frick Award?",
-      "url": "https://www.nytimes.com/athletic/7727453/2026/10/27/red-sox-announcers-hall-of-fame-ken-coleman-ned-martin/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Should the Red Sox target Japanese free agent Teruaki Sato, or Seiya Suzuki? Should they trade Jarren Duran after an underwhelming season?",
-      "published": "2026-10-27T10:30:53+00:00",
-      "title": "Red Sox offseason mailbag part 2: Jarren Duran's trade value, Curtis Mead's role",
-      "url": "https://www.nytimes.com/athletic/7718311/2026/10/27/red-sox-jarren-duran-trade-curtis-mead/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Should Boston sell high on Franklin Arias? Is the rotation too heavy with lefties? We answer those questions and more.",
-      "published": "2026-10-26T10:58:41+00:00",
-      "title": "Red Sox offseason mailbag: Rutschman’s price, Triston Casas’ future, trade options and MLB lockout",
-      "url": "https://www.nytimes.com/athletic/7717674/2026/10/26/red-sox-offseason-rutschman-lockout/"
     }
   ],
-  "generated_at": "2026-11-13T18:42:51.170651+00:00",
+  "generated_at": "2026-11-13T23:54:23.510471+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

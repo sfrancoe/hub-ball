@@ -2,24 +2,17 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "Fully recovered from knee surgery, Orioles prospect and 2025 first-round draft pick Ike Irish is showing what he can do.",
-      "published": "2026-11-12T04:00:00+00:00",
-      "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
-      "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles made one of the biggest moves of last offseason. Will they do the same this winter? Baltimore’s five-year, $155 million deal with Pete Alonso gave the Orioles the big bat — and leader — ...",
-      "published": "2026-11-10T04:01:00+00:00",
-      "title": "Orioles free agency: 20 hitters who could fit in Baltimore",
-      "url": "https://www.baltimoresun.com/2026/11/10/orioles-free-agency-hitting-targets-seiya-suzuki-randy-arozarena-ian-happ/"
-    },
-    {
-      "category": "Orioles",
       "description": "Colton Cowser’s game-ending home-run robbery against the Colorado Rockies was named the Capital One Premier Play of the Year at the MLB Awards on Wednesday night in Las Vegas. Cowser accepted the ...",
       "published": "2026-11-12T06:34:00+00:00",
       "title": "Orioles’ Colton Cowser wins MLB Play of the Year for stunning catch",
       "url": "https://www.baltimoresun.com/2026/11/12/orioles-colton-cowser-mlb-play-of-the-year/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Fully recovered from knee surgery, Orioles prospect and 2025 first-round draft pick Ike Irish is showing what he can do.",
+      "published": "2026-11-12T04:00:00+00:00",
+      "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
     },
     {
       "category": "Orioles",
@@ -30,10 +23,10 @@
     },
     {
       "category": "Orioles",
-      "description": "Steven Bumbry, the son of an Orioles Hall of Famer and a former MLB draft pick, will serve as an assistant coach at Coppin State.",
-      "published": "2026-11-06T03:20:00+00:00",
-      "title": "Son of Orioles great brings ‘instant credibility’ to Coppin State baseball",
-      "url": "https://www.baltimoresun.com/2026/11/06/orioles-steven-bumbry-al-bumbry-son-coppin-state-baseball-coach/"
+      "description": "The Orioles made one of the biggest moves of last offseason. Will they do the same this winter? Baltimore’s five-year, $155 million deal with Pete Alonso gave the Orioles the big bat — and leader — ...",
+      "published": "2026-11-10T04:01:00+00:00",
+      "title": "Orioles free agency: 20 hitters who could fit in Baltimore",
+      "url": "https://www.baltimoresun.com/2026/11/10/orioles-free-agency-hitting-targets-seiya-suzuki-randy-arozarena-ian-happ/"
     },
     {
       "category": "Orioles",
@@ -41,6 +34,13 @@
       "published": "2026-11-11T04:00:00+00:00",
       "title": "Orioles free agency: 15 starting pitchers who could fit in Baltimore",
       "url": "https://www.baltimoresun.com/2026/11/11/orioles-free-agency-starting-pitcher-targets/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Orioles slugger Pete Alonso placed fifth in AL MVP voting for the 2026 season, his highest finish in the award race of his decorated career.",
+      "published": "2026-11-12T16:44:00+00:00",
+      "title": "Orioles’ Pete Alonso places 5th for AL MVP in highest finish of career",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-pete-alonso-mvp-voting/"
     },
     {
       "category": "Orioles",
@@ -78,7 +78,7 @@
       "url": "https://www.baltimoresun.com/2026/11/02/orioles-heston-kjerstad-released/"
     }
   ],
-  "generated_at": "2026-11-13T18:43:04.827652+00:00",
+  "generated_at": "2026-11-13T23:54:36.308694+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

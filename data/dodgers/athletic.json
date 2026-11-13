@@ -2,15 +2,8 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "Phillips will fortify the backend of the Braves bullpen. He brings with him significant postseason experience.",
-      "published": "2026-11-12T13:35:00+00:00",
-      "title": "Braves sign Evan Phillips to a three-year deal, bolstering their bullpen",
-      "url": "https://www.nytimes.com/athletic/7737419/2026/11/12/evan-phillies-mlb-signs-braves-dodgers/"
-    },
-    {
-      "category": "Dodgers",
       "description": "De Paula, who is represented by Boras Corp., plans to work with players from his agency throughout the winter. The Dodgers have no qualms about De Paula’s work ethic or his commitment to improving.",
-      "published": "2026-11-10T16:00:00+00:00",
+      "published": "2026-11-11T05:59:00+00:00",
       "title": "What I’m hearing about the Dodgers’ plans for Tarik Skubal, Josue De Paula and more",
       "url": "https://www.nytimes.com/athletic/7772042/2026/11/11/dodgers-mlb-tarik-skubal-josue-de-paula/"
     },
@@ -27,9 +20,16 @@
       "published": "2026-11-11T17:39:00+00:00",
       "title": "Pedro Guerrero brings new perspective to Dodgers’ hitting group with 21 days before lockout",
       "url": "https://www.nytimes.com/athletic/7774693/2026/11/11/pedro-guerrero-dodgers-coach-hitting-lockout/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Phillips will fortify the backend of the Braves bullpen. He brings with him significant postseason experience.",
+      "published": "2026-11-12T13:35:00+00:00",
+      "title": "Braves sign Evan Phillips to a three-year deal, bolstering their bullpen",
+      "url": "https://www.nytimes.com/athletic/7737419/2026/11/12/evan-phillies-mlb-signs-braves-dodgers/"
     }
   ],
-  "generated_at": "2026-11-13T18:43:17.041196+00:00",
+  "generated_at": "2026-11-13T23:54:53.297043+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "On Baseball",
+      "description": "The quality of his playoff at-bats crystallized how Bauers could provide the Sox with something they were missing in 2026.",
+      "published": "2026-11-13T20:44:29.45Z",
+      "title": "Why Jake Bauers represents a fit for what the Red Sox’ offense needs",
+      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-red-sox-2/"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Bauers nearly retired from baseball in 2024, but went on to become one of the Brewers' most impactful bats in 2026.",
+      "published": "2026-11-13T20:41:04.091Z",
+      "title": "Five things to know about new Red Sox slugger Jake Bauers",
+      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-things-to-know-red-sox/"
+    },
+    {
       "category": "Red Sox",
       "description": "With the Red Sox, Bauers seems to fit best primarily at designated hitter, though this past season he played mostly first base.",
       "published": "2026-11-13T18:06:22.702Z",
@@ -97,23 +111,9 @@
       "published": "2026-11-10T00:53:49.725Z",
       "title": "Tigers infielder Kevin McGonigle wins AL Rookie of the Year, Red Sox lefthander Payton Tolle finishes third",
       "url": "https://www.bostonglobe.com/2026/11/09/sports/kevin-mcgonigle-al-rookie-of-the-year/"
-    },
-    {
-      "category": "red sox",
-      "description": "The Sox could benefit from adding a veteran righthander to better balance the rotation and guard against injuries.",
-      "published": "2026-11-09T16:43:45.366Z",
-      "title": "Red Sox should be in the market for a starter, and other observations on the team",
-      "url": "https://www.bostonglobe.com/2026/11/09/sports/red-sox-starting-pitching-market/"
-    },
-    {
-      "category": "ON BASEBALL",
-      "description": "Teams with an open window for contention will at least try to make major roster moves before MLB shuts down amid a CBA dispute.",
-      "published": "2026-11-08T21:58:53.948Z",
-      "title": "MLB’s General Managers Meetings a chance for Craig Breslow and Red Sox to position themselves ahead of lockout",
-      "url": "https://www.bostonglobe.com/2026/11/08/sports/baseball-red-sox-general-managers-meetings-lockout/"
     }
   ],
-  "generated_at": "2026-11-13T18:42:50.211245+00:00",
+  "generated_at": "2026-11-13T23:54:22.174250+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

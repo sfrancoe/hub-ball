@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "Elevate will help lead plans for corporate partnerships, premium seating, naming rights, food and beverage plans and more.",
+      "published": "2026-11-13T07:42:00+00:00",
+      "title": "For new stadium, Royals partner with company on seating, naming rights, food & more",
+      "url": "https://www.kansascity.com/news/local/article318066314.html"
+    },
+    {
+      "category": "Royals",
       "description": "The Royals will make Connor Dawson their offensive coordinator next season. Dawson will build plans on hitting, baserunning and analytical reports. Hunter Mense joins Marcus Thames as Dawson forms a ...",
       "published": "2026-11-10T21:00:00+00:00",
       "title": "What’s an offensive coordinator in baseball? The Kansas City Royals are trying it",
@@ -23,17 +30,17 @@
     },
     {
       "category": "Royals",
-      "description": "The last time Royals ( Shop Royals Fan Gear) infielder Adalberto Mondesí played in a Major League Baseball game was on April 26, 2022 in Chicago.",
-      "published": "2026-11-10T01:41:00+00:00",
-      "title": "Ex-Royals infielder Adalberto Mondesi is playing again, says he’s finally 100%",
-      "url": "https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article318012293.html"
-    },
-    {
-      "category": "Royals",
       "description": "Kansas City Royals ( Shop Royals Fan Gear) catcher Carter Jensen finished fifth in 2026 American League Rookie of the Year voting.",
       "published": "2026-11-09T11:42:00+00:00",
       "title": "KC Royals catcher Carter Jensen finishes 5th in AL Rookie of the Year voting",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317988383.html"
+    },
+    {
+      "category": "Royals",
+      "description": "The last time Royals ( Shop Royals Fan Gear) infielder Adalberto Mondesí played in a Major League Baseball game was on April 26, 2022 in Chicago.",
+      "published": "2026-11-10T01:41:00+00:00",
+      "title": "Ex-Royals infielder Adalberto Mondesi is playing again, says he’s finally 100%",
+      "url": "https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article318012293.html"
     },
     {
       "category": "Royals",
@@ -62,16 +69,9 @@
       "published": "2026-11-10T09:55:00+00:00",
       "title": "Kansas City Royals hire pair of longtime MLB evaluators to scouting department",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article318021806.html"
-    },
-    {
-      "category": "Royals",
-      "description": "On Thursday, the Royals reportedly hired San Francisco Giants hitting coach Hunter Mense as an assistant coach. A native of Liberty, just north of KC, he’d join the Royals’ hitting department ...",
-      "published": "2026-11-05T07:59:00+00:00",
-      "title": "Royals hire former Liberty High & Mizzou player as new hitting coach, per report",
-      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317948218.html"
     }
   ],
-  "generated_at": "2026-11-13T18:43:07.260623+00:00",
+  "generated_at": "2026-11-13T23:54:39.766771+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

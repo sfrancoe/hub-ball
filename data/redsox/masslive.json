@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox entered the winter with an All-Star first baseman and too many outfielders on their roster already. Friday’s signing of Jake Bauers, then, is somewhat confounding, at least on paper.",
+      "published": "2026-11-13T19:49:15+00:00",
+      "title": "How Jake Bauers fits Boston's roster, impacts Willson Contreras",
+      "url": "https://www.masslive.com/redsox/2026/11/what-jake-bauers-signing-means-for-red-sox-roster-willson-contreras-role-masataka-yoshida-more.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "David Ortiz was on The Fenway Rundown Friday when news broke that the Red Sox made their first big move of the offseason.",
+      "published": "2026-11-13T19:27:52+00:00",
+      "title": "What does Red Sox legend David Ortiz make of team’s deal with Jake Bauers?",
+      "url": "https://www.masslive.com/redsox/2026/11/what-does-red-sox-legend-david-ortiz-make-of-teams-deal-with-jake-bauers.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Red Sox signed Jake Bauers to a four-year, $58 million deal, betting on his 2026 breakout season, elite on-base skills, and postseason experience to bolster their offense.",
+      "published": "2026-11-13T19:25:30+00:00",
+      "title": "Five quick thoughts on Red Sox signing Jake Bauers",
+      "url": "https://www.masslive.com/redsox/2026/11/five-quick-thoughts-on-red-sox-signing-jake-bauers.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox have reached an agreement on a four-year, $58-million contract with free agent first baseman/outfielder Jake Bauers, a source confirmed.",
       "published": "2026-11-13T18:14:38+00:00",
       "title": "Red Sox agree to contract with Jake Bauers (26 home runs in 2026)",
@@ -90,30 +111,9 @@
       "published": "2026-11-11T11:20:01+00:00",
       "title": "Red Sox have ‘massive human,’ former first-round pick as roster candidates",
       "url": "https://www.masslive.com/sports/2026/11/red-sox-have-massive-human-former-first-round-pick-as-roster-candidates.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "From the GM Meetings: Red Sox bullish on Adley Rutschman's offensive outlook, Taylor Smith credits Red Sox experience for his new position, lifelong staffer joining the Royals, and Sonny Gray's potential move to Atlanta.",
-      "published": "2026-11-11T10:00:00+00:00",
-      "title": "Red Sox notebook: Adley Rutschman's bat, a deep AL East and more",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-notebook-on-adley-rutschmans-offensive-profile-a-competitive-al-east-former-sox-front-office-staffer-running-his-own-club-and-more.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Red Sox manager Chad Tracy finished third in the 2026 American League Manager of the Year voting.",
-      "published": "2026-11-11T01:13:59+00:00",
-      "title": "How Red Sox manager Chad Tracy finished in AL Manager of Year voting",
-      "url": "https://www.masslive.com/redsox/2026/11/how-red-sox-manager-chad-tracy-finished-in-al-manager-of-year-voting.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Do the Red Sox need to consider reconstructing their medical department? Craig Breslow answered.",
-      "published": "2026-11-11T00:52:15+00:00",
-      "title": "Red Sox to take ‘sweeping look’ at medical department",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-to-take-sweeping-look-at-medical-department-communication-with-injuries.html"
     }
   ],
-  "generated_at": "2026-11-13T18:42:51.746866+00:00",
+  "generated_at": "2026-11-13T23:54:24.369355+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

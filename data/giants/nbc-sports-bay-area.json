@@ -2,24 +2,24 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "On the day the San Francisco Giants hired James Rowson as their offensive coordinator, he spoke about what his role will cover.",
+      "published": "2026-11-13T13:58:00+00:00",
+      "title": "Why Giants offensive coordinator James Rowson picked football title for himself",
+      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/offensive-coordinator-james-rowson-analysis/1979836/"
+    },
+    {
+      "category": "Giants",
+      "description": "The San Francisco Giants ended the 2026 season with two locked-in 2027 starters, and they won't break the bank to fill out the rotation this winter.",
+      "published": "2026-11-13T13:22:00+00:00",
+      "title": "How Buster Posey, Giants plan to attack pitching problem ahead of 2027 season",
+      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/buster-posey-free-agency-pitching-rotation/1979815/"
+    },
+    {
+      "category": "Giants",
       "description": "New San Francisco Giants offensive coordinator James Rowson, previously the Yankees' hitting coach, will oversee all hitting and baserunning efforts.",
       "published": "2026-11-12T08:02:00+00:00",
       "title": "Giants hire James Rowson as new offensive coordinator under manager Tony Vitello",
       "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/james-rowson-offensive-coordinator-hire/1979637/"
-    },
-    {
-      "category": "Giants",
-      "description": "Buster Posey spoke to NBC Sports Bay Area's Alex Pavlovic about the San Francisco Giants' upcoming decisions on several veteran relievers.",
-      "published": "2026-11-12T03:06:00+00:00",
-      "title": "Giants notes: Ryan Walker at career ‘crossroads;' Camilo Doval decision looming",
-      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/ryan-walker-camilo-doval-roster-decisions/1979462/"
-    },
-    {
-      "category": "Giants",
-      "description": "Giants Talk” host Alex Pavlovic talks to with president of baseball operations Buster Posey to discuss what he's hoping to accomplish this offseason.",
-      "published": "2026-11-12T11:07:00+00:00",
-      "title": "Giants Talk: Buster Posey outlines San Francisco's 2026 offseason intentions",
-      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/buster-posey-outlines-offseason-intentions-watch/1979541/"
     },
     {
       "category": "Giants",
@@ -55,9 +55,23 @@
       "published": "2026-11-02T01:16:00+00:00",
       "title": "Giants well represented on Hall of Fame's 2026 Contemporary Baseball Era ballot",
       "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/managers-executives-contemporary-era-ballot/1976290/"
+    },
+    {
+      "category": "Giants",
+      "description": "Giants Talk” host Alex Pavlovic talks to with president of baseball operations Buster Posey to discuss what he's hoping to accomplish this offseason.",
+      "published": "2026-11-12T11:07:00+00:00",
+      "title": "Giants Talk: Buster Posey outlines San Francisco's 2026 offseason intentions",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/buster-posey-outlines-offseason-intentions-watch/1979541/"
+    },
+    {
+      "category": "Giants",
+      "description": "Giants Talk” hosts Cole Kuiper and Alex Pavlovic offer their breakdown of San Francisco’s pitching rotation during the 2026 MLB season.",
+      "published": "2026-11-02T06:00:00+00:00",
+      "title": "Giants Talk: Why pitching once again is San Francisco's MLB offseason priority",
+      "url": "https://www.nbcsportsbayarea.com/video/mlb/san-francisco-giants/pitching-mlb-offseason-priority/1976198/"
     }
   ],
-  "generated_at": "2026-11-13T18:43:17.728580+00:00",
+  "generated_at": "2026-11-13T23:54:56.260093+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"
 }
