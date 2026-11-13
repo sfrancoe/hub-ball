@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "MLB’s GM Meetings have come and gone. Here are five Red Sox takeaways heading into what should be a busy stretch of the offseason.",
+      "published": "2026-11-13T10:30:56Z",
+      "title": "Five Red Sox takeaways from GM Meetings in Las Vegas",
+      "url": "https://www.bostonherald.com/2026/11/13/five-red-sox-takeaways-from-gm-meetings-in-las-vegas/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Houston Astros slugger Yordan Alvarez cruised to a unanimous AL MVP victory, but three Red Sox standouts earned down-ballot votes as well.",
       "published": "2026-11-13T02:35:17Z",
       "title": "Three Red Sox standouts earn down-ballot MVP votes",
@@ -104,16 +111,9 @@
       "published": "2026-11-09T18:10:46Z",
       "title": "Red Sox release veteran reliever who was recently designated for assignment",
       "url": "https://www.bostonherald.com/2026/11/09/red-sox-release-veteran-reliever-who-was-recently-designated-for-assignment/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "With a lockout looming and lingering uncertainty over the sport’s economic landscape, Craig Breslow and the Red Sox are heading into uncharted waters this offseason.",
-      "published": "2026-11-08T11:30:08Z",
-      "title": "MLB notes: Where Red Sox, Craig Breslow stand ahead of upcoming GM Meetings",
-      "url": "https://www.bostonherald.com/2026/11/08/mlb-notes-red-sox-craig-breslow-navigating-uncertain-waters-entering-2027/"
     }
   ],
-  "generated_at": "2026-11-13T03:37:26.177864+00:00",
+  "generated_at": "2026-11-13T11:30:27.498751+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Alvarez, the Astros’ aw-shucks slugger whose 2026 season set a new standard for an entire position, on Thursday night became the first full-time designated hitter to win American League MVP, beating ...",
+      "published": "2026-11-12T16:22:00+00:00",
+      "title": "Astros DH Yordan Alvarez wins AL MVP after dominant offensive season",
+      "url": "https://www.nytimes.com/athletic/7766068/2026/11/12/yordan-alvarez-astros-al-mvp/"
+    },
+    {
+      "category": "Astros",
       "description": "Tatsuya Imai struggled to get acclimated during his first season in the major leagues. Alex Slitz / LAS VEGAS — Tatsuya Imai’s trying rookie season spurred his agent, Scott Boras, to call Houston ...",
       "published": "2026-11-11T14:13:00+00:00",
       "title": "Scott Boras called Jim Crane to discuss how Astros plan to handle Tatsuya Imai",
@@ -34,16 +41,9 @@
       "published": "2026-11-04T11:32:00+00:00",
       "title": "Albert Pujols to interview for Astros’ managerial vacancy: Source",
       "url": "https://www.nytimes.com/athletic/7753889/2026/11/04/albert-pujols-astros-manager-interview/"
-    },
-    {
-      "category": "Astros",
-      "description": "Ausmus, who spent 10 years with the Astros as a player, most recently managed in MLB for the Los Angeles Angels in 2019.",
-      "published": "2026-11-11T09:33:00+00:00",
-      "title": "Astros hire Brad Ausmus to be their next manager",
-      "url": "https://www.nytimes.com/athletic/7773532/2026/11/11/astros-hire-brad-ausmus-manager/"
     }
   ],
-  "generated_at": "2026-11-13T03:37:44.601971+00:00",
+  "generated_at": "2026-11-13T11:30:46.901756+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/astros/"
 }

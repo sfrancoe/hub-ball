@@ -23,13 +23,6 @@
     },
     {
       "category": "Astros",
-      "description": "Astros slugger Yordan Alvarez took home the prestigious Hank Aaron Award as well as three other accolades at the MLB Awards show on the eve of the MVP announcement.",
-      "published": "2026-11-10T16:00:00+00:00",
-      "title": "Houston Astros' Yordan Alvarez wins AL's Hank Aaron Award among accolades at MLB Awards",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-hank-aaron-award-22526510.php"
-    },
-    {
-      "category": "Astros",
       "description": "Astros' new manager Brad Ausmus has big-league managing experience with the Detroit Tigers and Los Angeles Angels, but he has never won a playoff game. Here's how he did at those stops.",
       "published": "2026-11-11T10:46:00+00:00",
       "title": "Houston Astros new manager Brad Ausmus: Where his previous managerial stints went wrong",
@@ -37,10 +30,10 @@
     },
     {
       "category": "Astros",
-      "description": "Pete Crow-Armstrong won the NL MVP award unanimously after starring for the Chicago Cubs in a majestic season. He joined Houston Astros slugger Yordan Alvarez as first-time MVPs.",
-      "published": "2026-11-12T13:10:00+00:00",
-      "title": "Cubs' Pete Crow-Armstrong wins NL MVP award and Astros' Yordan Alvarez gets AL honor",
-      "url": "https://www.houstonchronicle.com/sports/article/cubs-pete-crow-armstrong-wins-nl-mvp-award-22528172.php"
+      "description": "Astros slugger Yordan Alvarez took home the prestigious Hank Aaron Award as well as three other accolades at the MLB Awards show on the eve of the MVP announcement.",
+      "published": "2026-11-10T16:00:00+00:00",
+      "title": "Houston Astros' Yordan Alvarez wins AL's Hank Aaron Award among accolades at MLB Awards",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-hank-aaron-award-22526510.php"
     },
     {
       "category": "Astros",
@@ -76,9 +69,16 @@
       "published": "2026-11-10T16:00:00+00:00",
       "title": "Astros GM Randy Flores: Hiring Brad Ausmus as manager was 'choice I wanted to make'",
       "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-brad-ausmus-manager-hire-22525479.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Pete Crow-Armstrong won the NL MVP award unanimously after starring for the Chicago Cubs in a majestic season. He joined Houston Astros slugger Yordan Alvarez as first-time MVPs.",
+      "published": "2026-11-12T13:10:00+00:00",
+      "title": "Cubs' Pete Crow-Armstrong wins NL MVP award and Astros' Yordan Alvarez gets AL honor",
+      "url": "https://www.houstonchronicle.com/sports/article/cubs-pete-crow-armstrong-wins-nl-mvp-award-22528172.php"
     }
   ],
-  "generated_at": "2026-11-13T03:37:44.398530+00:00",
+  "generated_at": "2026-11-13T11:30:46.734564+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

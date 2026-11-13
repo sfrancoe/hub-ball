@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "On the court, George has looked like his All-Star self. The challenge now is keeping him there.",
+      "published": "2026-11-13T10:00:00+00:00",
+      "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
+      "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-winning-over-celtics-fans-and-making-brad-stevens-look-good.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Three Red Sox players — Willson Contreras, Wilyer Abreu, and Ceddanne Rafaela — received down-ballot votes in AL MVP voting, with Contreras leading the trio.",
       "published": "2026-11-13T01:59:53+00:00",
       "title": "Willson Contreras, Wilyer Abreu, Ceddanne Rafaela all land on AL MVP ballot",
@@ -104,16 +111,9 @@
       "published": "2026-11-10T12:46:20+00:00",
       "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
       "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-submit-questions-for-masslives-sean-mcadam.html-2"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox enter the offseason without a specific positional need, instead planning to pursue any offensive upgrade that fits their roster's flexible, versatile infield.",
-      "published": "2026-11-10T11:00:00+00:00",
-      "title": "Red Sox aren't targeting a specific position this offseason — they're hunting for the best talent available, wherever it plays",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-say-theyre-opportunistic-instead-of-having-wish-list-entering-winter-what-does-that-mean-sean-mcadam.html"
     }
   ],
-  "generated_at": "2026-11-13T03:37:27.445210+00:00",
+  "generated_at": "2026-11-13T11:30:28.729344+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
