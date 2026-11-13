@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Celtics' Beat Writers Notebook",
+        "description": "Amid the awkward interviews on the topic, one question has persisted: Why, exactly, don’t these guys seem to like each other anymore?",
+        "published": "2026-11-13T00:08:29.077Z",
+        "title": "Time will tell if the chill between Jayson Tatum and Jaylen Brown thaws out",
+        "url": "https://www.bostonglobe.com/2026/11/12/sports/celtics-jayson-tatum-jaylen-brown-nba-basketball/"
+      },
+      {
         "category": "Celtics 98, Raptors 93",
         "description": "Tatum had 24 points, 7 rebounds and 8 assists to help the Celtics (10-2) finish off a 4-0 road trip with a 98-93 win over the Raptors.",
         "published": "2026-11-12T05:20:39.297Z",
@@ -100,13 +107,6 @@
         "url": "https://www.bostonglobe.com/2026/11/07/sports/celtics-jayson-tatum-achilles-recovery/"
       },
       {
-        "category": "CHRISTOPHER L. GASPER",
-        "description": "The first matchup pitting the two former teammates will be a hardwood forum for hard feelings and hard truths.",
-        "published": "2026-11-07T14:56:49.281Z",
-        "title": "The Jays’ falling-out still the rage as Jayson Tatum’s Celtics prepare to face Jaylen Brown and the 76ers",
-        "url": "https://www.bostonglobe.com/2026/11/07/sports/christopher-l-gasper-celtics-jayson-tatum-jaylen-brown/"
-      },
-      {
         "category": "Celtics",
         "description": "We know serious Celtics fans don’t want to miss a beat. Now, you don’t have to.",
         "published": "2024-10-17T15:28:56.377Z",
@@ -114,7 +114,7 @@
         "url": "https://www.bostonglobe.com/2023/04/04/sports/boston-globe-celtics-newsletter/"
       }
     ],
-    "generated_at": "2026-11-12T18:43:25.542676+00:00",
+    "generated_at": "2026-11-13T00:15:29.565858+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
