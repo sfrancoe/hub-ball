@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T17:49:04.337990+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-13T17:26:19.729717+00:00",
+  "roster_as_of": "November 12, 2026",
   "team": {
     "id": 144,
     "name": "Atlanta Braves"
   },
   "roster_type": "open-current-roster",
-  "player_count": 36,
+  "player_count": 37,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1559,6 +1559,91 @@
           "complete_games": 0,
           "era": 5.02,
           "whip": 1.372
+        }
+      }
+    },
+    {
+      "id": 623465,
+      "mlb_id": 623465,
+      "wikidata_id": "Q55211779",
+      "slug": "evan-phillips",
+      "name": "Evan Phillips",
+      "full_name": "Evan Phillips",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1994-09-11",
+      "age": 32,
+      "birthplace": "Salisbury",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "July 3, 2018",
+      "debut_team": "Atlanta Braves",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Clayton High School"
+          }
+        ]
+      },
+      "teams": [
+        "Atlanta Braves",
+        "Baltimore Orioles",
+        "Tampa Bay Rays",
+        "Los Angeles Dodgers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q55211779",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Evan_Phillips",
+      "retrosheet_id": "phile001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 250,
+          "plate_appearances": 4,
+          "at_bats": 3,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 1,
+          "strikeouts": 3,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": 0.0,
+          "on_base_percentage": 0.25,
+          "slugging_percentage": 0.0,
+          "ops": 0.25
+        },
+        "pitching": {
+          "games": 250,
+          "games_started": 1,
+          "wins": 16,
+          "losses": 12,
+          "saves": 46,
+          "innings_outs": 756,
+          "hits": 193,
+          "runs": 113,
+          "earned_runs": 94,
+          "home_runs": 23,
+          "walks": 92,
+          "strikeouts": 291,
+          "hit_batters": 17,
+          "wild_pitches": 7,
+          "balks": 1,
+          "complete_games": 0,
+          "era": 3.36,
+          "whip": 1.131
         }
       }
     },
