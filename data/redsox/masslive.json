@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Three Red Sox players — Willson Contreras, Wilyer Abreu, and Ceddanne Rafaela — received down-ballot votes in AL MVP voting, with Contreras leading the trio.",
+      "published": "2026-11-13T01:59:53+00:00",
+      "title": "Willson Contreras, Wilyer Abreu, Ceddanne Rafaela all land on AL MVP ballot",
+      "url": "https://www.masslive.com/redsox/2026/11/three-red-sox-players-receive-down-ballot-al-mvp-votes.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "What kind of market value does Jarren Duran have after the 2026 season?",
+      "published": "2026-11-13T01:03:52+00:00",
+      "title": "Craig Breslow’s new title, Jarren Duran’s market and more | The Fenway Rundown",
+      "url": "https://www.masslive.com/redsox/2026/11/craig-breslows-new-title-jarren-durans-market-and-more-the-fenway-rundown.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Red Sox president of baseball operations Craig Breslow has traded several young starting pitchers in the past two years to fix other areas of the roster that were weaknesses.",
       "published": "2026-11-12T11:00:00+00:00",
       "title": "Red Sox traded from area of strength; now Craig Breslow needs to replenish",
@@ -97,23 +111,9 @@
       "published": "2026-11-10T11:00:00+00:00",
       "title": "Red Sox aren't targeting a specific position this offseason — they're hunting for the best talent available, wherever it plays",
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-say-theyre-opportunistic-instead-of-having-wish-list-entering-winter-what-does-that-mean-sean-mcadam.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Wondering what Craig Breslow said in his first press conference of the offseason Tuesday? Check out the latest Fenway Rundown podcast.",
-      "published": "2026-11-10T10:34:38+00:00",
-      "title": "What Craig Breslow said about Red Sox plans as the GM Meetings opened | Fenway Rundown (podcast)",
-      "url": "https://www.masslive.com/redsox/2026/11/what-craig-breslow-said-about-red-sox-plans-as-the-gm-meetings-opened-fenway-rundown-podcast.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Red Sox' Craig Breslow gave several injury updates at the GM Meetings in Las Vegas.",
-      "published": "2026-11-10T03:29:26+00:00",
-      "title": "Craig Breslow gives Red Sox injury updates on Roman Anthony, others",
-      "url": "https://www.masslive.com/redsox/2026/11/craig-breslow-gives-red-sox-injury-updates-on-roman-anthony-triston-casas-others.html"
     }
   ],
-  "generated_at": "2026-11-12T18:21:07.145570+00:00",
+  "generated_at": "2026-11-13T03:37:27.445210+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

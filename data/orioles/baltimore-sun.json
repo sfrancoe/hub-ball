@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "Fully recovered from knee surgery, Orioles prospect and 2025 first-round draft pick Ike Irish is showing what he can do.",
-      "published": "2026-11-12T04:00:00+00:00",
-      "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
-      "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
-    },
-    {
-      "category": "Orioles",
       "description": "Colton Cowser’s game-ending home-run robbery against the Colorado Rockies was named the Capital One Premier Play of the Year at the MLB Awards on Wednesday night in Las Vegas. Cowser accepted the ...",
       "published": "2026-11-12T06:34:00+00:00",
       "title": "Orioles’ Colton Cowser wins MLB Play of the Year for stunning catch",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Orioles",
-      "description": "Foss helped advise Angelos when he purchased the Orioles for $173 million in 1993 and served as vice chairman and chief operating officer.",
-      "published": "2026-11-11T11:30:00+00:00",
-      "title": "Joe Foss, longtime Orioles executive and a top Angelos adviser, dies at 77",
-      "url": "https://www.baltimoresun.com/2026/11/11/joe-foss-orioles-executive-dies/"
+      "description": "Fully recovered from knee surgery, Orioles prospect and 2025 first-round draft pick Ike Irish is showing what he can do.",
+      "published": "2026-11-12T04:00:00+00:00",
+      "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
     },
     {
       "category": "Orioles",
@@ -30,10 +23,24 @@
     },
     {
       "category": "Orioles",
+      "description": "Foss helped advise Angelos when he purchased the Orioles for $173 million in 1993 and served as vice chairman and chief operating officer.",
+      "published": "2026-11-11T11:30:00+00:00",
+      "title": "Joe Foss, longtime Orioles executive and a top Angelos adviser, dies at 77",
+      "url": "https://www.baltimoresun.com/2026/11/11/joe-foss-orioles-executive-dies/"
+    },
+    {
+      "category": "Orioles",
       "description": "Steven Bumbry, the son of an Orioles Hall of Famer and a former MLB draft pick, will serve as an assistant coach at Coppin State.",
       "published": "2026-11-06T03:20:00+00:00",
       "title": "Son of Orioles great brings ‘instant credibility’ to Coppin State baseball",
       "url": "https://www.baltimoresun.com/2026/11/06/orioles-steven-bumbry-al-bumbry-son-coppin-state-baseball-coach/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Orioles slugger Pete Alonso placed fifth in AL MVP voting for the 2026 season, his highest finish in the award race of his decorated career.",
+      "published": "2026-11-12T16:44:00+00:00",
+      "title": "Orioles’ Pete Alonso places 5th for AL MVP in highest finish of career",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-pete-alonso-mvp-voting/"
     },
     {
       "category": "Orioles",
@@ -71,7 +78,7 @@
       "url": "https://www.baltimoresun.com/2026/10/31/orioles-luis-robert-team-option/"
     }
   ],
-  "generated_at": "2026-11-12T23:43:59.388766+00:00",
+  "generated_at": "2026-11-13T03:37:41.772998+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

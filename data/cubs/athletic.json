@@ -2,17 +2,24 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "Crow-Armstrong launched 45 home runs and stole 41 bases this season, becoming the sport's seventh 40/40 player.",
+      "published": "2026-11-12T12:04:00+00:00",
+      "title": "Pete Crow-Armstrong, the Cubs star who lit up Wrigley Field, unanimously wins NL MVP",
+      "url": "https://www.nytimes.com/athletic/7776584/2026/11/12/pete-crow-armstrong-nl-mvp-cubs/"
+    },
+    {
+      "category": "Cubs",
+      "description": "We’ve made no secret that we’re going to be looking for pitching this offseason,\" Cubs general manager Carter Hawkins said.",
+      "published": "2026-11-12T16:07:00+00:00",
+      "title": "Cubs, focused on pitching this offseason, show interest in free agent Trevor Rogers: Sources",
+      "url": "https://www.nytimes.com/athletic/7777321/2026/11/12/trevor-rogers-cubs-pitching/"
+    },
+    {
+      "category": "Cubs",
       "description": "Nobody is denying Chicago's top need. But that doesn’t mean the Cubs plan on only addressing their rotation this winter.",
       "published": "2026-11-10T02:46:00+00:00",
       "title": "The Cubs have roster needs beyond starting pitching. Here’s how they plan to address them",
       "url": "https://www.nytimes.com/athletic/7769309/2026/11/10/cubs-roster-needs-gm-meetings/"
-    },
-    {
-      "category": "Cubs",
-      "description": "Over the last 15 years, the Cubs have successfully drafted and developed just one first-round pitcher, Horton, who underwent major surgery on his right elbow in April. A few of those first-round picks ...",
-      "published": "2026-11-10T02:03:00+00:00",
-      "title": "Cubs, bested by the Brewers this year, get to work on a familiar problem: Pitching",
-      "url": "https://www.nytimes.com/athletic/7768997/2026/11/10/cubs-pitching-problems-offseason/"
     },
     {
       "category": "Cubs",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Cubs",
-      "description": "After the Seattle Mariners’ outside-the-box decision to hire Jason Kanzler as their new manager, the Chicago Cubs recently installed Ben Martin as the organization ...",
-      "published": "2026-11-10T12:04:00+00:00",
-      "title": "Cubs promote Ben Martin to farm director after Mariners’ hiring of Jason Kanzler",
-      "url": "https://www.nytimes.com/athletic/7771741/2026/11/10/ben-martin-chicago-cubs-farm-director/"
-    },
-    {
-      "category": "Cubs",
       "description": "As expected, the Chicago Cubs extended a one-year, $23.15 million qualifying offer to Seiya Suzuki ahead of Monday’s deadline, a team source familiar with the matter confirmed, positioning the club to ...",
       "published": "2026-11-01T16:01:00+00:00",
       "title": "Cubs extend qualifying offer to Seiya Suzuki — but not Ian Happ — as offseason starts to take shape",
@@ -51,20 +51,20 @@
     },
     {
       "category": "Cubs",
+      "description": "After the Seattle Mariners’ outside-the-box decision to hire Jason Kanzler as their new manager, the Chicago Cubs recently installed Ben Martin as the organization ...",
+      "published": "2026-11-10T12:04:00+00:00",
+      "title": "Cubs promote Ben Martin to farm director after Mariners’ hiring of Jason Kanzler",
+      "url": "https://www.nytimes.com/athletic/7771741/2026/11/10/ben-martin-chicago-cubs-farm-director/"
+    },
+    {
+      "category": "Cubs",
       "description": "He’s changed the way that I operate off the field a lot this year,” Crow-Armstrong said of his manager, Counsell.",
       "published": "2026-11-05T03:12:00+00:00",
       "title": "How Craig Counsell helped turn Pete Crow-Armstrong into the star of MLB’s awards season",
       "url": "https://www.nytimes.com/athletic/7753726/2026/11/05/cubs-pete-crow-armstrong-craig-counsell-influence/"
-    },
-    {
-      "category": "Cubs",
-      "description": "John Mallee has worked closely with Pete Crow-Armstrong, the presumptive National League MVP. Michael Reaves / Getty Images After the New York Mets identified John Mallee as a potential candidate for ...",
-      "published": "2026-10-28T14:43:00+00:00",
-      "title": "Cubs to retain John Mallee, a key hitting coach for PCA, after Mets’ interest: Sources",
-      "url": "https://www.nytimes.com/athletic/7733565/2026/10/28/cubs-retain-john-mallee-mets-interest/"
     }
   ],
-  "generated_at": "2026-11-12T23:44:07.466786+00:00",
+  "generated_at": "2026-11-13T03:37:47.969603+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

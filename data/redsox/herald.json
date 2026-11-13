@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Houston Astros slugger Yordan Alvarez cruised to a unanimous AL MVP victory, but three Red Sox standouts earned down-ballot votes as well.",
+      "published": "2026-11-13T02:35:17Z",
+      "title": "Three Red Sox standouts earn down-ballot MVP votes",
+      "url": "https://www.bostonherald.com/2026/11/12/three-red-sox-standouts-earn-down-ballot-mvp-votes/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "After a season in which inconsistent injury messaging prompted numerous distractions, Craig Breslow said he plans to undertake a review of the Red Sox’s medical department.",
       "published": "2026-11-12T18:27:47Z",
       "title": "Craig Breslow says Red Sox will undertake review of medical department",
@@ -104,16 +111,9 @@
       "published": "2026-11-08T11:30:08Z",
       "title": "MLB notes: Where Red Sox, Craig Breslow stand ahead of upcoming GM Meetings",
       "url": "https://www.bostonherald.com/2026/11/08/mlb-notes-red-sox-craig-breslow-navigating-uncertain-waters-entering-2027/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Pedro Martinez knows firsthand how damaging a protracted work stoppage can be, and Saturday at his foundation’s gala the Hall of Famer implored MLB’s owners and players to avoid a lockout.",
-      "published": "2026-11-08T10:30:24Z",
-      "title": "‘Figure it out’: Red Sox legend implores MLB, players to avoid lockout",
-      "url": "https://www.bostonherald.com/2026/11/08/figure-it-out-red-sox-legend-implores-mlb-players-to-avoid-lockout/"
     }
   ],
-  "generated_at": "2026-11-12T23:43:45.613191+00:00",
+  "generated_at": "2026-11-13T03:37:26.177864+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

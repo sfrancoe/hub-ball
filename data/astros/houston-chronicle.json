@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Yordan Alvarez, who led the AL in hitting and had 42 homers, joins Jeff Bagwell and Jose Altuve as Astros named league MVP.",
+      "published": "2026-11-11T16:00:00+00:00",
+      "title": "Houston Astros designated hitter Yordan Alvarez wins AL MVP award after prodigious offensive season",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-named-al-most-valuable-player-22526845.php"
+    },
+    {
+      "category": "Astros",
       "description": "Houston Astros have named Brad Ausmus as their next manager. Ausmus, 57, returns to the organization where he spent 10 of his 18 major league seasons as a player. He will take on his third managerial ...",
       "published": "2026-11-12T11:20:00+00:00",
       "title": "Readers react to Brad Ausmus’ hiring as Astros manager",
@@ -23,17 +30,17 @@
     },
     {
       "category": "Astros",
-      "description": "Yordan Alvarez’s home run that won the 2022 World Series for the Houston Astros is one of the biggest moments in franchise history. We tracked down the ball, that resides in a fan’s safe.",
-      "published": "2026-11-12T10:13:00+00:00",
-      "title": "Where is Yordan Alvarez's 2022 World Series HR ball? Fan still has it despite big-money offers.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/yordan-alvarez-2022-home-run-ball-fan-now-22526839.php"
-    },
-    {
-      "category": "Astros",
       "description": "Astros' new manager Brad Ausmus has big-league managing experience with the Detroit Tigers and Los Angeles Angels, but he has never won a playoff game. Here's how he did at those stops.",
       "published": "2026-11-11T10:46:00+00:00",
       "title": "Houston Astros new manager Brad Ausmus: Where his previous managerial stints went wrong",
       "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-history-experience-tigers-22525219.php"
+    },
+    {
+      "category": "Astros",
+      "description": "Pete Crow-Armstrong won the NL MVP award unanimously after starring for the Chicago Cubs in a majestic season. He joined Houston Astros slugger Yordan Alvarez as first-time MVPs.",
+      "published": "2026-11-12T13:10:00+00:00",
+      "title": "Cubs' Pete Crow-Armstrong wins NL MVP award and Astros' Yordan Alvarez gets AL honor",
+      "url": "https://www.houstonchronicle.com/sports/article/cubs-pete-crow-armstrong-wins-nl-mvp-award-22528172.php"
     },
     {
       "category": "Astros",
@@ -51,10 +58,10 @@
     },
     {
       "category": "Astros",
-      "description": "The hiring of Brad Ausmus as Astros manager fuels questions about Randy Flores' decision-making power. Houston's new GM details why he chose the former catcher.",
-      "published": "2026-11-10T16:00:00+00:00",
-      "title": "Astros GM Randy Flores: Hiring Brad Ausmus as manager was 'choice I wanted to make'",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-brad-ausmus-manager-hire-22525479.php"
+      "description": "Brad Ausmus, who the Astros hired as manager Wednesday, had some big moments in his 10 years as a player in Houston, including Gold Gloves, a huge postseason homer and a memorable send-off.",
+      "published": "2026-11-11T13:12:00+00:00",
+      "title": "Astros new manager Brad Ausmus' best moments as a player in Houston",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-player-catcher-highlights-22525562.php"
     },
     {
       "category": "Astros",
@@ -65,13 +72,13 @@
     },
     {
       "category": "Astros",
-      "description": "Brad Ausmus, who the Astros hired as manager Wednesday, had some big moments in his 10 years as a player in Houston, including Gold Gloves, a huge postseason homer and a memorable send-off.",
-      "published": "2026-11-11T13:12:00+00:00",
-      "title": "Astros new manager Brad Ausmus' best moments as a player in Houston",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-player-catcher-highlights-22525562.php"
+      "description": "The hiring of Brad Ausmus as Astros manager fuels questions about Randy Flores' decision-making power. Houston's new GM details why he chose the former catcher.",
+      "published": "2026-11-10T16:00:00+00:00",
+      "title": "Astros GM Randy Flores: Hiring Brad Ausmus as manager was 'choice I wanted to make'",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-brad-ausmus-manager-hire-22525479.php"
     }
   ],
-  "generated_at": "2026-11-12T23:44:02.669876+00:00",
+  "generated_at": "2026-11-13T03:37:44.398530+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
