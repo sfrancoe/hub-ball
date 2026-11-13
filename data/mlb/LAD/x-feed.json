@@ -1,55 +1,26 @@
 {
-  "generated_at": "2026-11-13T13:42:21.310202+00:00",
+  "generated_at": "2026-11-13T21:43:42.420563+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dodgers",
   "team_id": "19",
   "sport": "mlb",
-  "likes_as_of": "2026-11-13T13:42:21.310202+00:00",
+  "likes_as_of": "2026-11-13T21:43:42.420563+00:00",
   "recent": [
     {
       "id": "2120990506297811102",
       "text": "Tickets for the Fall Out Boy and the Twilight of the Punks Tour are on sale now! 🎟️: https://t.co/FEc7wjQvqB https://t.co/SZBVqi1pYZ",
       "url": "https://x.com/Dodgers/status/2120990506297811102",
       "published": "2026-11-12T21:21:57+00:00",
-      "likes": 327,
+      "likes": 349,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
       "media": "https://pbs.twimg.com/media/HW9FKLjbQAALKyj.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2120732927155933205",
-      "text": "Congratulations Yoshinobu and Tarik on being named to the All-MLB Second Team! https://t.co/QMrQLTXv68",
-      "url": "https://x.com/Dodgers/status/2120732927155933205",
-      "published": "2026-11-12T04:18:25+00:00",
-      "likes": 8035,
-      "author": "Los Angeles Dodgers",
-      "handle": "Dodgers",
-      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HW5bWzOaoAAFe5R.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2120990506297811102",
-      "text": "Tickets for the Fall Out Boy and the Twilight of the Punks Tour are on sale now! 🎟️: https://t.co/FEc7wjQvqB https://t.co/SZBVqi1pYZ",
-      "url": "https://x.com/Dodgers/status/2120990506297811102",
-      "published": "2026-11-12T21:21:57+00:00",
-      "likes": 327,
-      "author": "Los Angeles Dodgers",
-      "handle": "Dodgers",
-      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HW9FKLjbQAALKyj.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

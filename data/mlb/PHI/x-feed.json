@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T13:42:21.306230+00:00",
+  "generated_at": "2026-11-13T21:43:42.413842+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Phillies",
   "team_id": "22",
   "sport": "mlb",
-  "likes_as_of": "2026-11-13T13:42:21.306230+00:00",
+  "likes_as_of": "2026-11-13T21:43:42.413842+00:00",
   "recent": [
     {
       "id": "2120899845531615454",
@@ -20,36 +20,7 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2120723166951596126",
-      "text": "Cristoper Sánchez and Jesús Luzardo represent the Phillies on this year's All-MLB teams! https://t.co/AdRiUgCOgF",
-      "url": "https://x.com/Phillies/status/2120723166951596126",
-      "published": "2026-11-12T03:39:38+00:00",
-      "likes": 2477,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HW5LNBMXgAApvqu.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2120899845531615454",
-      "text": "RT @PhilliesCBP: The 2027 Cosmic Baseball Takeover Tour is making its way to The Bank! Join the ticket lottery and don't miss your chance…",
-      "url": "https://x.com/Phillies/status/2120899845531615454",
-      "published": "2026-11-12T15:21:42+00:00",
-      "likes": 0,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
