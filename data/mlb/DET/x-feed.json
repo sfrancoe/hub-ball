@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T09:46:07.479126+00:00",
+  "generated_at": "2026-11-14T19:47:40.540575+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/tigers",
   "team_id": "6",
   "sport": "mlb",
-  "likes_as_of": "2026-11-14T09:46:07.479126+00:00",
+  "likes_as_of": "2026-11-14T19:47:40.540575+00:00",
   "recent": [
     {
       "id": "2121320283252637800",
@@ -40,7 +40,7 @@
       "text": "The coolest club around is BACK! Memberships for the 2027 Kids Club are on sale now! ➡️ https://t.co/hAOwdGsLiE https://t.co/FMtrUx7XxG",
       "url": "https://x.com/tigers/status/2121302121307877508",
       "published": "2026-11-13T18:00:12+00:00",
-      "likes": 39,
+      "likes": 40,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
@@ -64,48 +64,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2121302121307877508",
-      "text": "The coolest club around is BACK! Memberships for the 2027 Kids Club are on sale now! ➡️ https://t.co/hAOwdGsLiE https://t.co/FMtrUx7XxG",
-      "url": "https://x.com/tigers/status/2121302121307877508",
-      "published": "2026-11-13T18:00:12+00:00",
-      "likes": 39,
-      "author": "Detroit Tigers",
-      "handle": "tigers",
-      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXBeKIYXgAAxEGt.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2121320283252637800",
-      "text": "RT @WatchDSN: Happy birthday to the voice of your Detroit Tigers, Dan Dickerson! 🎙️🎂 https://t.co/n6hV9mxbnq",
-      "url": "https://x.com/tigers/status/2121320283252637800",
-      "published": "2026-11-13T19:12:22+00:00",
-      "likes": 0,
-      "author": "Detroit Tigers",
-      "handle": "tigers",
-      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWsb-nNWYAAaLeD.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2121320270120325617",
-      "text": "RT @WatchDSN: Happy birthday, Peaches! 🥳 https://t.co/iN3VJLJ5Tj",
-      "url": "https://x.com/tigers/status/2121320270120325617",
-      "published": "2026-11-13T19:12:19+00:00",
-      "likes": 0,
-      "author": "Detroit Tigers",
-      "handle": "tigers",
-      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HWsZa5UXEAEl2uV.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
