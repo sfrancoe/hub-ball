@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Sunday baseball notes",
+      "description": "Four days of meetings in Las Vegas wrapped up Thursday.",
+      "published": "2026-11-14T14:35:25.734Z",
+      "title": "GM meetings good for widespread items of interest, including some with Red Sox connections",
+      "url": "https://www.bostonglobe.com/2026/11/14/sports/sunday-baseball-notes-gm-meetings/"
+    },
+    {
       "category": "On Baseball",
       "description": "The quality of his playoff at-bats crystallized how Bauers could provide the Sox with something they were missing in 2026.",
       "published": "2026-11-13T20:44:29.45Z",
@@ -104,16 +111,9 @@
       "published": "2026-11-10T03:04:08.383Z",
       "title": "Craig Breslow does not commit to Trevor Story as the Red Sox starting shortstop next season",
       "url": "https://www.bostonglobe.com/2026/11/09/sports/craig-breslow-red-sox-trevor-story-shortstop/"
-    },
-    {
-      "category": "MLB",
-      "description": "McGonigle received 28 of 30 possible first-place votes, while Guardians lefthander Parker Messick received the other two.",
-      "published": "2026-11-10T00:53:49.725Z",
-      "title": "Tigers infielder Kevin McGonigle wins AL Rookie of the Year, Red Sox lefthander Payton Tolle finishes third",
-      "url": "https://www.bostonglobe.com/2026/11/09/sports/kevin-mcgonigle-al-rookie-of-the-year/"
     }
   ],
-  "generated_at": "2026-11-13T23:54:22.174250+00:00",
+  "generated_at": "2026-11-14T17:16:35.405447+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

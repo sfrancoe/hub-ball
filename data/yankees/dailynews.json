@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Speaking to reporters at the Aria Resort & Casino in Las Vegas, Brian Cashman touched...",
+      "published": "2026-11-14T13:00:44+00:00",
+      "title": "Yankees Notes from GM Meetings: Front office changes, Jasson Domínguez and more",
+      "url": "https://www.nydailynews.com/2026/11/14/yankees-mlb-gm-meetings-brian-cashman-jasson-dominguez/"
+    },
+    {
+      "category": "Yankees",
       "description": "Six members of the Yankees organization met with Shoki Oda in his native Japan on...",
       "published": "2026-11-13T15:14:15+00:00",
       "title": "Inside the Yankees’ meeting with 18-year-old Japanese prospect Shoki Oda",
@@ -132,16 +139,9 @@
       "published": "2026-11-02T22:42:48+00:00",
       "title": "Yankees bench coach Brad Ausmus interviewing for Astros manager job",
       "url": "https://www.nydailynews.com/2026/11/02/yankees-brad-ausmus-astros-manager-lou-piniella/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees have made the qualifying offer to David Bednar, their closer since being acquired...",
-      "published": "2026-11-02T22:05:52+00:00",
-      "title": "Yankees extend one-year qualifying offer to David Bednar: source",
-      "url": "https://www.nydailynews.com/2026/11/02/yankees-extend-one-year-qualifying-offer-to-david-bednar-source/"
     }
   ],
-  "generated_at": "2026-11-13T18:42:52.098772+00:00",
+  "generated_at": "2026-11-14T17:16:37.776824+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

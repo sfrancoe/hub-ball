@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Blue Jays",
+      "description": "Interest in former Nippon Professional Baseball stars has been a staple of Toronto's last few offseasons, and this year is no different.",
+      "published": "2026-11-14T04:00:00+00:00",
+      "title": "From Teruaki Sato to Seiya Suzuki, Blue Jays involved in latest crop of Japanese stars",
+      "url": "https://www.nytimes.com/athletic/7780070/2026/11/14/blue-jays-free-agents-japan-seiyz-suzuki-teruaki-sato/"
+    },
+    {
+      "category": "Blue Jays",
       "description": "The Jays' main priority remains offence, but any starting-pitching addition is expected to be more than just an innings eater.",
       "published": "2026-11-12T13:34:00+00:00",
       "title": "What I’m hearing about the Blue Jays: Rotation targets, a Kevin Gausman return, infield trades",
@@ -27,16 +34,9 @@
       "published": "2026-11-05T03:25:00+00:00",
       "title": "Blue Jays offseason prospect notes: Trade candidates, Fall League standouts and more",
       "url": "https://www.nytimes.com/athletic/7754301/2026/11/05/blue-jays-prospects-jake-bloss-jake-cook-fall-league/"
-    },
-    {
-      "category": "Blue Jays",
-      "description": "The Toronto Blue Jays have declined outfielder Myles Straw’s team option for the 2027 season, the Jays announced Monday, kickstarting a busy offseason month for the team.",
-      "published": "2026-11-02T14:58:00+00:00",
-      "title": "How the Blue Jays’ decision to decline Myles Straw’s option sets up a busy month",
-      "url": "https://www.nytimes.com/athletic/7749038/2026/11/02/blue-jays-decline-myles-straw-option/"
     }
   ],
-  "generated_at": "2026-11-14T11:30:17.629848+00:00",
+  "generated_at": "2026-11-14T17:16:47.234348+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/blue-jays/"
 }

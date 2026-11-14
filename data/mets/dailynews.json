@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "With the clock tick-tick-ticking away toward the Dec. 1 owners lockout and the collective bargaining...",
+      "published": "2026-11-14T15:57:47+00:00",
+      "title": "Bill Madden: Cohen, Mets can’t afford to get bamboozled by Boras on Tarik Skubal",
+      "url": "https://www.nydailynews.com/2026/11/14/bill-madden-mets-scott-cohen-scott-boras-tarik-skubal/"
+    },
+    {
+      "category": "Mets",
       "description": "Barring the addition of left-handed ace Tarik Skubal, the additions are expected to be mostly...",
       "published": "2026-11-12T05:11:35+00:00",
       "title": "Mets need more from veterans in 2027, and expect to get it",
@@ -132,16 +139,9 @@
       "published": "2026-09-27T23:34:48+00:00",
       "title": "Francisco Lindor hits homer No. 300 in Mets loss to Nationals",
       "url": "https://www.nydailynews.com/2026/09/27/francisco-lindor-hits-homer-no-300-in-mets-loss-to-nationals/"
-    },
-    {
-      "category": "Mets",
-      "description": "Andy Green had some very pointed comments for Jonah Tong ahead of his last start...",
-      "published": "2026-09-26T20:14:50+00:00",
-      "title": "Jonah Tong tries to show he belongs in final Mets start of season",
-      "url": "https://www.nydailynews.com/2026/09/26/jonah-tong-mets-nationals-final-start-rookie-season/"
     }
   ],
-  "generated_at": "2026-11-12T10:14:35.845902+00:00",
+  "generated_at": "2026-11-14T17:16:41.162809+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

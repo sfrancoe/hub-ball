@@ -2,10 +2,24 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Two Hudson football standouts made history as Beckett Campbell and Royce Beal vaulted to the top of the record book and the Tigers secured their regional title.",
+      "published": "2026-11-14T06:59:00+00:00",
+      "title": "Hudson football rewrites record book, routs Springport for regional title",
+      "url": "https://www.freep.com/story/sports/high-school/football/2026/11/14/hudson-michigan-high-school-football-springport-division-8-playoffs/92642913007/"
+    },
+    {
+      "category": "Tigers",
       "description": "The Detroit Tigers have been linked to a few free-agent pitchers as the MLB hot stove heats up. Here's the latest on free agency.",
       "published": "2026-11-13T13:18:00+00:00",
       "title": "Tigers MLB free agency rumors: Tracking who Detroit may sign for 2027",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/13/detroit-tigers-free-agency-rumors-mlb--live/92764709007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "MLB's GM meetings didn't bring many answers for the Detroit Tigers amid their myriad questions heading deeper into a tumultuous offseason.",
+      "published": "2026-11-14T02:06:00+00:00",
+      "title": "Huge questions swirl around Tigers at time of complete uncertainty",
+      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/14/detroit-tigers-still-have-more-questions-than-answers-in-offseason/92762973007/"
     },
     {
       "category": "Tigers",
@@ -23,10 +37,10 @@
     },
     {
       "category": "Tigers",
-      "description": "I had a long list of questions to ask Detroit Tigers president of baseball operations Scott Harris at the general manager meetings. And this one wasn’t even on the top of the list. It was in the ...",
-      "published": "2026-11-11T08:06:00+00:00",
-      "title": "Why Tigers fans shouldn't buy into any hype about a Tarik Skubal reunion",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/11/detroit-tigers-tarik-skubal-mlb-free-agency/92724105007/"
+      "description": "Star Riley Greene has been \"mentioned as a trade candidate by industry execs at the GM meetings,\" according to an expert.",
+      "published": "2026-11-11T13:01:00+00:00",
+      "title": "Could Tigers actually trade Riley Greene? Here's what Scott Harris said",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/11/riley-greene-trade-detroit-tigers-news-mlb/92725772007/"
     },
     {
       "category": "Tigers",
@@ -34,6 +48,13 @@
       "published": "2026-11-11T02:09:00+00:00",
       "title": "Detroit Tigers injury updates mostly positive entering winter",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/11/detroit-tigers-injury-updates-winter-gm-meetings-bryce-rainer/92713124007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "I had a long list of questions to ask Detroit Tigers president of baseball operations Scott Harris at the general manager meetings. And this one wasn’t even on the top of the list. It was in the ...",
+      "published": "2026-11-11T08:06:00+00:00",
+      "title": "Why Tigers fans shouldn't buy into any hype about a Tarik Skubal reunion",
+      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/11/detroit-tigers-tarik-skubal-mlb-free-agency/92724105007/"
     },
     {
       "category": "Tigers",
@@ -55,30 +76,9 @@
       "published": "2026-11-09T16:48:00+00:00",
       "title": "Kevin McGonigle wins AL Rookie of the Year. Tigers get a bonus, too",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/09/kevin-mcgonigle-al-rookie-of-the-year-tigers/92647904007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "Former Krispy Kreme worker Logan Berrier is pitching against some of the best prospects in baseball as a Detroit Tigers prospect in the AFL.",
-      "published": "2026-11-09T02:11:00+00:00",
-      "title": "How Krispy Kreme worker became Tigers prospect impressing in Arizona",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/09/detroit-tigers-prospect-logan-berrier-spent-winter-selling-donuts/92628326007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "The Detroit Tigers made their first move of 2026 MLB free agency by signing right-handed reliever Emilio Pagán to a one-year contract on Wednesday.",
-      "published": "2026-11-11T07:27:00+00:00",
-      "title": "Detroit Tigers sign reliever Emilio Pagán to 1-year deal",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/11/emilio-pagn-right-handed-reliever-detroit-tigers-mlb-free-agency/92721776007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "SCOTTSDALE, AZ - Detroit Tigers pitching prospect Maddox Long sat down next to me in the dugout, which brings me to my first impression. This dude is massive. Long, a right-hander, is listed at 6-foot ...",
-      "published": "2026-11-11T02:01:00+00:00",
-      "title": "Detroit Tigers have found a diamond in the desert in pitcher Maddox Long",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/11/detroit-tigers-prospect-maddox-long/92659676007/"
     }
   ],
-  "generated_at": "2026-11-14T11:30:18.554226+00:00",
+  "generated_at": "2026-11-14T17:16:48.412430+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

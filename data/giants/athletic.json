@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "Rowson will be in charge of developing a lineup that turns every thought — whether hitting, base running or bunting — toward scoring runs.",
+      "published": "2026-11-14T05:00:00+00:00",
+      "title": "Giants’ first offensive coordinator James Rowson embraces a football mentality",
+      "url": "https://www.nytimes.com/athletic/7780569/2026/11/14/giants-hire-james-rowson-offensive-coordinator/"
+    },
+    {
+      "category": "Giants",
       "description": "Even though the CBA could change considerably, the Giants must act fast to get started on addressing their long list of roster needs.",
       "published": "2026-11-09T08:38:00+00:00",
       "title": "Giants focused on pitching and defense as GM meetings begin",
@@ -16,13 +23,6 @@
     },
     {
       "category": "Giants",
-      "description": "John Harbaugh called his confidence in beating strong opponents \"high,\" even with Jaguars, 49ers, Seahawks and Lions on the schedule.",
-      "published": "2026-11-14T02:45:00+00:00",
-      "title": "Giants might need to KO a heavyweight or two to make playoffs. That’s the way it should be",
-      "url": "https://www.nytimes.com/athletic/7780245/2026/11/14/ny-giants-playoffs-schedule-opponents/"
-    },
-    {
-      "category": "Giants",
       "description": "The Giants were willing to punt draft picks when they signed third baseman Matt Chapman and left-hander Blake Snell prior to the 2023 season. A year later, one of Posey’s first major acts as the ...",
       "published": "2026-11-11T05:00:00+00:00",
       "title": "Buster Posey sets up a Giants offseason with lowered sights: ‘We have to be realistic’",
@@ -30,13 +30,13 @@
     },
     {
       "category": "Giants",
-      "description": "From figuring out what to do with Harrison Bader to sorting the bullpen and the outfield, the Giants still have plenty of roster questions.",
-      "published": "2026-11-04T05:01:00+00:00",
-      "title": "The Giants’ 40-man roster is set for now, but plenty of questions remain",
-      "url": "https://www.nytimes.com/athletic/7751247/2026/11/04/sf-giants-40-man-roster-questions/"
+      "description": "John Harbaugh called his confidence in beating strong opponents \"high,\" even with Jaguars, 49ers, Seahawks and Lions on the schedule.",
+      "published": "2026-11-14T02:45:00+00:00",
+      "title": "Giants might need to KO a heavyweight or two to make playoffs. That’s the way it should be",
+      "url": "https://www.nytimes.com/athletic/7780245/2026/11/14/ny-giants-playoffs-schedule-opponents/"
     }
   ],
-  "generated_at": "2026-11-14T11:30:26.720940+00:00",
+  "generated_at": "2026-11-14T17:16:59.837978+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/giants/"
 }
