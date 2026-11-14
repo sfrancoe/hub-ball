@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Plus: a robot umps report, the Atlanta Braves’ pitching plans and more MLB news and notes.",
+      "published": "2026-11-14T10:00:12+00:00",
+      "title": "The Red Sox knew the costs with the Jake Bauers addition. They acted anyway",
+      "url": "https://www.nytimes.com/athletic/7780390/2026/11/14/jake-bauers-red-sox-farm-system-brewers/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Bauers finds a new home at a reasonable cost, while his old team, the Brewers, will likely replace him internally while adding elsewhere.",
       "published": "2026-11-13T21:10:51+00:00",
       "title": "Jake Bauers signing analysis: Red Sox get bargain; Brewers should look to add pitching",
@@ -104,16 +111,9 @@
       "published": "2026-10-29T03:27:43+00:00",
       "title": "The 2027 Way-Too-Early MLB Power Rankings: Where does your team stand now?",
       "url": "https://www.nytimes.com/athletic/7729846/2026/10/28/early-2027-mlb-offseason-power-rankings-brewers-dodgers-yankees/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Dodgers are the 2027 World Series favorites, ahead of the newly crowned Brewers.",
-      "published": "2026-10-29T03:18:37+00:00",
-      "title": "2027 World Series odds: Dodgers favored ahead of Brewers, Yankees, Red Sox",
-      "url": "https://www.nytimes.com/athletic/7730335/2026/10/28/2027-world-series-odds-dodgers-brewers-yankees-red-sox/"
     }
   ],
-  "generated_at": "2026-11-13T23:54:23.510471+00:00",
+  "generated_at": "2026-11-14T11:30:07.056511+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

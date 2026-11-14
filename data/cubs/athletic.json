@@ -16,13 +16,6 @@
     },
     {
       "category": "Cubs",
-      "description": "Crow-Armstrong, the electric Cubs star who joined MLB's 40-40 club this summer, is expected to be named the National League MVP on Thursday.",
-      "published": "2026-11-12T02:01:00+00:00",
-      "title": "The making of an MVP: How Pete Crow-Armstrong became the best player on the planet",
-      "url": "https://www.nytimes.com/athletic/7770796/2026/11/12/pete-crow-armstrong-mvp-season-cubs/"
-    },
-    {
-      "category": "Cubs",
       "description": "Though the Cubs are expected to stay on the sidelines for the Skubal frenzy, they will at least check in on every other free-agent pitcher.",
       "published": "2026-11-09T03:20:00+00:00",
       "title": "Cubs plan to sit out Tarik Skubal bidding war, but pitching needs are clear",
@@ -51,13 +44,6 @@
     },
     {
       "category": "Cubs",
-      "description": "As expected, the Chicago Cubs extended a one-year, $23.15 million qualifying offer to Seiya Suzuki ahead of Monday’s deadline, a team source familiar with the matter confirmed, positioning the club to ...",
-      "published": "2026-11-01T16:01:00+00:00",
-      "title": "Cubs extend qualifying offer to Seiya Suzuki — but not Ian Happ — as offseason starts to take shape",
-      "url": "https://www.nytimes.com/athletic/7748495/2026/11/02/seiya-suzuki-ian-happ-cubs-qualifying-offers/"
-    },
-    {
-      "category": "Cubs",
       "description": "Game 7 was baseball heaven, and the first historic sports moment covered by The Athletic. A moment that will last forever.",
       "published": "2026-11-02T03:30:00+00:00",
       "title": "Ten years later, reflecting on the Cubs’ World Series and The Athletic’s beginning",
@@ -65,13 +51,27 @@
     },
     {
       "category": "Cubs",
+      "description": "As expected, the Chicago Cubs extended a one-year, $23.15 million qualifying offer to Seiya Suzuki ahead of Monday’s deadline, a team source familiar with the matter confirmed, positioning the club to ...",
+      "published": "2026-11-01T16:01:00+00:00",
+      "title": "Cubs extend qualifying offer to Seiya Suzuki — but not Ian Happ — as offseason starts to take shape",
+      "url": "https://www.nytimes.com/athletic/7748495/2026/11/02/seiya-suzuki-ian-happ-cubs-qualifying-offers/"
+    },
+    {
+      "category": "Cubs",
       "description": "After the Seattle Mariners’ outside-the-box decision to hire Jason Kanzler as their new manager, the Chicago Cubs recently installed Ben Martin as the organization ...",
       "published": "2026-11-10T12:04:00+00:00",
       "title": "Cubs promote Ben Martin to farm director after Mariners’ hiring of Jason Kanzler",
       "url": "https://www.nytimes.com/athletic/7771741/2026/11/10/ben-martin-chicago-cubs-farm-director/"
+    },
+    {
+      "category": "Cubs",
+      "description": "He’s changed the way that I operate off the field a lot this year,” Crow-Armstrong said of his manager, Counsell.",
+      "published": "2026-11-05T03:12:00+00:00",
+      "title": "How Craig Counsell helped turn Pete Crow-Armstrong into the star of MLB’s awards season",
+      "url": "https://www.nytimes.com/athletic/7753726/2026/11/05/cubs-pete-crow-armstrong-craig-counsell-influence/"
     }
   ],
-  "generated_at": "2026-11-14T04:10:02.165851+00:00",
+  "generated_at": "2026-11-14T11:30:23.472286+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

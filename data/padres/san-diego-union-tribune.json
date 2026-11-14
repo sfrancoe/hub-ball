@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Padres",
-      "description": "The Padres have thrived without investing in the rotation in the past, but starting pitching is a key to playoff success.",
-      "published": "2026-11-13T08:55:00+00:00",
-      "title": "Padres have no choice but to spend on their starting rotation",
-      "url": "https://www.sandiegouniontribune.com/2026/11/13/padres-have-no-choice-but-to-spend-on-their-starting-rotation/"
-    },
-    {
-      "category": "Padres",
       "description": "About 40 players who participated in the 12th annual game were from the Special Olympics softball team, the Poway Padres. Also playing were Team San Diego Vargas 18U, Poway Firefighters Local 3922, ...",
       "published": "2026-11-09T19:44:00+00:00",
       "title": "12th annual Heroes softball game is a crowd-pleasing event",
       "url": "https://www.sandiegouniontribune.com/2026/11/09/12th-annual-heroes-softball-game-is-a-crowd-pleasing-event/"
+    },
+    {
+      "category": "Padres",
+      "description": "The Padres have thrived without investing in the rotation in the past, but starting pitching is a key to playoff success.",
+      "published": "2026-11-13T08:55:00+00:00",
+      "title": "Padres have no choice but to spend on their starting rotation",
+      "url": "https://www.sandiegouniontribune.com/2026/11/13/padres-have-no-choice-but-to-spend-on-their-starting-rotation/"
     },
     {
       "category": "Padres",
@@ -50,7 +50,7 @@
       "url": "https://www.sandiegouniontribune.com/2026/11/11/padres-mason-miller-unanimously-chosen-as-nl-reliever-of-the-year/"
     }
   ],
-  "generated_at": "2026-11-14T04:10:04.728403+00:00",
+  "generated_at": "2026-11-14T11:30:26.193938+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }

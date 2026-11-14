@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "The Guardians have drawn at least 2 million fans for three years in a row – a first in Cleveland since the early 2000s.",
+      "published": "2026-11-13T22:00:00+00:00",
+      "title": "Let’s look at Guardians attendance, TV and the ballpark – Terry Pluto",
+      "url": "https://www.cleveland.com/guardians/2026/11/lets-look-at-guardians-attendance-tv-and-the-ballpark-terry-pluto.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Guardians Cade Smith, in his first full season as closer, wins the Bob Feller Man of the Year award from Cleveland's chapter of the Baseball Writers Association of America.",
       "published": "2026-11-07T22:04:00+00:00",
       "title": "Guardians relentless Cade Smith voted Man of the Year by Cleveland’s BBWAA chapter",
@@ -23,6 +30,13 @@
     },
     {
       "category": "Guardians",
+      "description": "The Guardians had an estimated 26-man payroll of just over $74 million in 2026. How do they increase that to reach a proposed salay floor of just over $180 million?",
+      "published": "2026-11-13T21:05:00+00:00",
+      "title": "Just how would the Guardians get to a salary floor of $180.2 million? Hey, Hoynsie",
+      "url": "https://www.cleveland.com/guardians/2026/11/just-how-would-the-guardians-get-to-a-salary-floor-of-1802-million-hey-hoynsie.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Three Japanese stars are being posted for MLB clubs, while another pitcher enters free agency. Could the Guardians find an affordable fit?",
       "published": "2026-11-08T21:03:00+00:00",
       "title": "Should the Guardians look to Japan to address their pitching and power needs?",
@@ -37,13 +51,6 @@
     },
     {
       "category": "Guardians",
-      "description": "The Guardians of Traffic statues look toward a city whose ballpark bears another fitting name: Progressive Field. Perhaps these names offer a Veterans Day message of their own: Build the bridge.",
-      "published": "2026-11-10T21:45:00+00:00",
-      "title": "Guarding Cleveland’s guardians - a Veterans Day call to action: Chrisanne Gordon",
-      "url": "https://www.cleveland.com/opinion/2026/11/guarding-clevelands-guardians-a-veterans-day-call-to-action-chrisanne-gordon.html"
-    },
-    {
-      "category": "Guardians",
       "description": "The Guards are coming off a season when they made MLB’s Final Three with the lowest payroll in baseball, an estimated $74,459,014, according to Spotrac. In order to reach the proposed floor of $180.2 ...",
       "published": "2026-11-07T07:17:00+00:00",
       "title": "Could change in Guardians’ ownership emerge because of MLB-player negotiations on basic agreement?",
@@ -51,10 +58,10 @@
     },
     {
       "category": "Guardians",
-      "description": "Parker Messick caps a remarkable 2026 season with a third-place AL Cy Young finish, adding to his Rookie of the Year runner-up honor for Cleveland.",
-      "published": "2026-11-11T16:20:00+00:00",
-      "title": "Guardians’ Parker Messick finishes third in AL Cy Young voting behind Cam Schlittler, Dylan Cease",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-parker-messick-finishes-third-in-al-cy-young-voting-behind-cam-schlittler-dylan-cease.html"
+      "description": "The Guardians of Traffic statues look toward a city whose ballpark bears another fitting name: Progressive Field. Perhaps these names offer a Veterans Day message of their own: Build the bridge.",
+      "published": "2026-11-10T21:45:00+00:00",
+      "title": "Guarding Cleveland’s guardians - a Veterans Day call to action: Chrisanne Gordon",
+      "url": "https://www.cleveland.com/opinion/2026/11/guarding-clevelands-guardians-a-veterans-day-call-to-action-chrisanne-gordon.html"
     },
     {
       "category": "Guardians",
@@ -76,16 +83,9 @@
       "published": "2026-11-06T03:45:00+00:00",
       "title": "How Chase DeLauter’s rookie season changed the way the Guardians build their lineup",
       "url": "https://www.cleveland.com/guardians/2026/11/how-chase-delauters-rookie-season-changed-the-way-the-guardians-build-their-lineup.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Messick is trying to become only the second rookie in MLB history to win both the Cy Young and Rookie of the Year, joining 1981 Dodgers legend Fernando Valenzuela on a very short list.",
-      "published": "2026-11-05T03:19:00+00:00",
-      "title": "How Parker Messick’s historic rookie season could reshape the Guardians’ 2027 draft",
-      "url": "https://www.cleveland.com/guardians/2026/11/how-parker-messicks-historic-rookie-season-keeps-paying-off-for-the-guardians.html"
     }
   ],
-  "generated_at": "2026-11-14T04:09:57.278317+00:00",
+  "generated_at": "2026-11-14T11:30:18.169803+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
