@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Cooper Flagg is back in Boston, and this time, he should be the main storyline.",
+        "published": "2026-11-14T17:30:30+00:00",
+        "title": "Cooper Flagg’s Boston return, ground stop impacts NBA game (Celtics Notebook)",
+        "url": "https://www.masslive.com/celtics/2026/11/cooper-flaggs-boston-return-ground-stop-impacts-nba-game-celtics-notebook.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Chris Cenac Jr. has played for the Maine Celtics in the G League to open the season.",
         "published": "2026-11-14T16:57:08+00:00",
         "title": "Plan for Celtics’ 1st-round pick becoming clear for rookie season",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T05:19:03+00:00",
         "title": "Jaylen Brown was too amped: What we learned from Celtics’ blowout win over Sixers",
         "url": "https://www.masslive.com/celtics/2026/11/jaylen-brown-was-too-amped-what-we-learned-from-celtics-blowout-win-over-sixers.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jaylen Brown didn't have much to say after he didn't respond to Jayson Tatum going for a handshake ahead of Tuesday's game in Philadelphia.",
-        "published": "2026-11-11T05:08:08+00:00",
-        "title": "Jaylen Brown brushes off viral Jayson Tatum pregame handshake that wasn’t",
-        "url": "https://www.masslive.com/celtics/2026/11/jaylen-brown-brushes-off-viral-jayson-tatum-pregame-handshake-that-wasnt.html"
       }
     ],
-    "generated_at": "2026-11-14T17:11:14.784790+00:00",
+    "generated_at": "2026-11-14T17:31:22.969885+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
