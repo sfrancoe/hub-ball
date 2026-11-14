@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-14T01:52:00.697139+00:00",
+  "generatedAt": "2026-11-14T09:05:19.862860+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 7,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Red Sox make their first big splash of the offseason, signing Brewers World Series champion Jake Bauers",
+      "description": "With the Red Sox, Bauers seems to fit best primarily at designated hitter, though this past season he played mostly first base.",
+      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-red-sox/",
+      "published": "2026-11-14T02:34:00.526000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Why Jake Bauers represents a fit for what the Red Sox’ offense needs",
       "description": "The quality of his playoff at-bats crystallized how Bauers could provide the Sox with something they were missing in 2026.",
@@ -69,18 +81,6 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Red Sox make their first big splash of the offseason, signing Brewers World Series champion Jake Bauers",
-      "description": "With the Red Sox, Bauers seems to fit best primarily at designated hitter, though this past season he played mostly first base.",
-      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-red-sox/",
-      "published": "2026-11-13T23:00:37.257000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
       "title": "MLB free agent market is active, even with a looming lockout. Will Dodgers make a splash?",
       "description": "Teams aren’t waiting until after the impending lockout to reinforce their rosters. But will the Dodgers be among those teams before the current CBA expires on Dec. 1?",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-11-13/mlb-free-agent-market-active-dodgers-make-move",
@@ -113,126 +113,6 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Five things to know about new Red Sox slugger Jake Bauers",
-      "description": "Bauers nearly retired from baseball in 2024, but went on to become one of the Brewers' most impactful bats in 2026.",
-      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-things-to-know-red-sox/",
-      "published": "2026-11-13T20:41:04.091000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "How a circuitous journey lead new Astros manager Brad Ausmus back to his second home",
-      "description": "How, when or from whom Ausmus received his assurance is somewhat ambiguous, a perfect accentuation of the peculiar processes that put him back in a Houston uniform on Friday morning at Daikin Park.",
-      "url": "https://www.nytimes.com/athletic/7779617/2026/11/13/circuitous-journey-astros-manager-brad-ausmus/",
-      "published": "2026-11-13T19:56:06+00:00",
-      "source": "The Athletic",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "How Jake Bauers fits Boston's roster, impacts Willson Contreras",
-      "description": "The Red Sox entered the winter with an All-Star first baseman and too many outfielders on their roster already. Friday’s signing of Jake Bauers, then, is somewhat confounding, at least on paper.",
-      "url": "https://www.masslive.com/redsox/2026/11/what-jake-bauers-signing-means-for-red-sox-roster-willson-contreras-role-masataka-yoshida-more.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "What does Red Sox legend David Ortiz make of team’s deal with Jake Bauers?",
-      "description": "David Ortiz was on The Fenway Rundown Friday when news broke that the Red Sox made their first big move of the offseason.",
-      "url": "https://www.masslive.com/redsox/2026/11/what-does-red-sox-legend-david-ortiz-make-of-teams-deal-with-jake-bauers.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Five quick thoughts on Red Sox signing Jake Bauers",
-      "description": "The Red Sox signed Jake Bauers to a four-year, $58 million deal, betting on his 2026 breakout season, elite on-base skills, and postseason experience to bolster their offense.",
-      "url": "https://www.masslive.com/redsox/2026/11/five-quick-thoughts-on-red-sox-signing-jake-bauers.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Red Sox agree to contract with Jake Bauers (26 home runs in 2026)",
-      "description": "The Red Sox have reached an agreement on a four-year, $58-million contract with free agent first baseman/outfielder Jake Bauers, a source confirmed.",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-agree-to-contact-with-jake-bauers-26-home-runs-in-2026.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Red Sox make unexpected signing of Brewers postseason hero Jake Bauers",
-      "description": "The Red Sox made a big splash Friday, signing one of the heroes of the Milwaukee Brewers’ World Series run",
-      "url": "https://www.bostonherald.com/2026/11/13/red-sox-signing-jake-bauers-contract-willson-contreras-mlb-breaking-news/",
-      "published": "2026-11-13T18:03:33+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Jake Bauers, fresh off a dream season, agrees to 4-year deal with Red Sox: Source",
-      "description": "Bauers, 31, was set on retiring after the 2024 season. He stuck with baseball and now has a lucrative deal with Boston.",
-      "url": "https://www.nytimes.com/athletic/7741296/2026/11/13/jake-bauers-red-sox-4-year-contract/",
-      "published": "2026-11-13T18:02:09+00:00",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "What's different for Brad Ausmus as he returns as Astros manager? His understanding of data",
-      "description": "Brad Ausmus is back in the dugout as Astros manager, saying his years away helped him grow his understanding of data and modern baseball.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-houston-manager-data-22529613.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Inside the Yankees’ meeting with 18-year-old Japanese prospect Shoki Oda",
-      "description": "Six members of the Yankees organization met with Shoki Oda in his native Japan on...",
-      "url": "https://www.nydailynews.com/2026/11/13/inside-the-yankees-meeting-with-18-year-old-japanese-prospect-shoki-oda/",
-      "published": "2026-11-13T14:33:34+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
     }
