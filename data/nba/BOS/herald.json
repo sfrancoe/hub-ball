@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "“Regardless of what’s going on, you know exactly what you’re getting every night, and that’s a testament to his professionalism.”",
+        "published": "2026-11-14T18:36:25Z",
+        "title": "Celtics notebook: Veteran wing quietly enjoying standout season",
+        "url": "https://www.bostonherald.com/2026/11/14/celtics-notebook-veteran-wing-quietly-enjoying-standout-season/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Emotionally charged win 24 hours earlier? Early-morning arrival north of the border? Key player unavailable? Twenty-plus-point first-half deficit? None of that fazed the Celtics in Toronto.",
         "published": "2026-11-12T02:48:01Z",
         "title": "Celtics rally for gutsy win over Raptors to close out 4-0 road trip",
@@ -105,16 +112,9 @@
         "published": "2026-11-05T05:25:01Z",
         "title": "Payton Pritchard suffers eye injury in Celtics’ win over Bucks",
         "url": "https://www.bostonherald.com/2026/11/05/payton-pritchard-suffers-eye-injury-in-celtics-win-over-bucks/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "A first-half blowout became a second-half thriller as the Tatum-less Celtics held off the Bucks on Wednesday night.",
-        "published": "2026-11-05T02:58:59Z",
-        "title": "Celtics rest Jayson Tatum, survive 22-point comeback to beat Bucks",
-        "url": "https://www.bostonherald.com/2026/11/04/celtics-rest-jayson-tatum-survive-22-point-comeback-to-beat-bucks/"
       }
     ],
-    "generated_at": "2026-11-12T02:48:27.103788+00:00",
+    "generated_at": "2026-11-14T18:41:56.569942+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
