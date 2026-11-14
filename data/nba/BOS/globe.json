@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "CELTICS",
+        "description": "Porzingis won't be reporting to the Warriors. “I’m grateful for the time I got to spend with him on and off the court,” Celtics coach Joe Mazzulla said.",
+        "published": "2026-11-14T21:19:11.706Z",
+        "title": "Celtics offer support for Kristaps Porzingis after health issues force 2023-24 NBA champion to step away",
+        "url": "https://www.bostonglobe.com/2026/11/14/sports/celtics-kristaps-porzingis-reaction/"
+      },
+      {
         "category": "Sunday basketball notes",
         "description": "Brogdon, who was 32 when he stepped away from the NBA in October 2025, is a senior adviser to National Basketball Players Association executive director David Kelly.",
         "published": "2026-11-14T15:28:09.376Z",
@@ -100,13 +107,6 @@
         "url": "https://www.bostonglobe.com/2026/11/09/sports/celtics-jaylen-brown-jayson-tatum-relationship/"
       },
       {
-        "category": "Celtics 117, Bucks 97",
-        "description": "The Bucks raced to an early 14-point lead before the Celtics rallied, aided by Robinson's 6-for-6 night from the field.",
-        "published": "2026-11-09T05:18:52.644Z",
-        "title": "Mitchell Robinson a positive factor as Celtics overcome slow start to pull away from Bucks",
-        "url": "https://www.bostonglobe.com/2026/11/08/sports/celtics-bucks-game-score/"
-      },
-      {
         "category": "Celtics",
         "description": "We know serious Celtics fans don’t want to miss a beat. Now, you don’t have to.",
         "published": "2024-10-17T15:28:56.377Z",
@@ -114,7 +114,7 @@
         "url": "https://www.bostonglobe.com/2023/04/04/sports/boston-globe-celtics-newsletter/"
       }
     ],
-    "generated_at": "2026-11-14T15:40:36.459314+00:00",
+    "generated_at": "2026-11-14T21:23:00.949696+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
