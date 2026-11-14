@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:51:43.785565+00:00",
+  "generated_at": "2026-11-14T06:42:22.674779+00:00",
   "source": "X",
   "source_url": "https://x.com/Dbacks",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "The Backstop Brotherhood 🇻🇪 https://t.co/6GAH16PdKP",
       "url": "https://x.com/Dbacks/status/2121007669955973190",
       "published": "2026-11-12T22:30:09+00:00",
-      "likes": 623,
+      "likes": 656,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "That's our catcher. https://t.co/Xcm9DITMt5",
       "url": "https://x.com/Dbacks/status/2120972624415330375",
       "published": "2026-11-12T20:10:54+00:00",
-      "likes": 906,
+      "likes": 964,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -36,7 +36,7 @@
       "text": "Etched in history. Congratulations to Rodrigo López and Erubiel Durazo on their induction into the Mexican Baseball Hall of Fame! https://t.co/eR5MBhLQwv",
       "url": "https://x.com/Dbacks/status/2120954828608381250",
       "published": "2026-11-12T19:00:11+00:00",
-      "likes": 600,
+      "likes": 644,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -46,34 +46,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2120972624415330375",
-      "text": "That's our catcher. https://t.co/Xcm9DITMt5",
-      "url": "https://x.com/Dbacks/status/2120972624415330375",
-      "published": "2026-11-12T20:10:54+00:00",
-      "likes": 906,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2120971775127498752/img/UaB112gulnxSWvFr.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2121007669955973190",
-      "text": "The Backstop Brotherhood 🇻🇪 https://t.co/6GAH16PdKP",
-      "url": "https://x.com/Dbacks/status/2121007669955973190",
-      "published": "2026-11-12T22:30:09+00:00",
-      "likes": 623,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HW9T-oAacAA-OAT.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
