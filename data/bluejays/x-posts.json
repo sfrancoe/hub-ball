@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-14T06:42:22.665926+00:00",
+  "generated_at": "2026-11-14T18:16:41.080673+00:00",
   "source": "X",
   "source_url": "https://x.com/BlueJays",
   "recent": [
+    {
+      "id": "2121656929235906616",
+      "text": "RT @DunedinBlueJays: Jake Cook with a two-hit performance in the @MLBazFallLeague playoffs last night, including an RBI and double! The @B…",
+      "url": "https://x.com/BlueJays/status/2121656929235906616",
+      "published": "2026-11-14T17:30:05+00:00",
+      "likes": 0,
+      "author": "Toronto Blue Jays",
+      "handle": "BlueJays",
+      "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2120988780807221438",
       "text": "https://t.co/mx3xaaKnWy",
       "url": "https://x.com/BlueJays/status/2120988780807221438",
       "published": "2026-11-12T21:15:06+00:00",
-      "likes": 11089,
+      "likes": 11176,
       "author": "Toronto Blue Jays",
       "handle": "BlueJays",
       "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
@@ -22,7 +36,7 @@
       "text": "We hope it’s Grand Slam worthy✌️🤣 https://t.co/t7S5INwVeR",
       "url": "https://x.com/BlueJays/status/2120961910590021886",
       "published": "2026-11-12T19:28:19+00:00",
-      "likes": 1427,
+      "likes": 1472,
       "author": "Toronto Blue Jays",
       "handle": "BlueJays",
       "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
@@ -36,7 +50,7 @@
       "text": "It’s Bam Bam’s Birthday! Happy Birthday, Addy 🥳 https://t.co/ZVLHIn3HQQ",
       "url": "https://x.com/BlueJays/status/2120959275833204785",
       "published": "2026-11-12T19:17:51+00:00",
-      "likes": 1756,
+      "likes": 1804,
       "author": "Toronto Blue Jays",
       "handle": "BlueJays",
       "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
@@ -50,7 +64,7 @@
       "text": "Of course Louis V brings the heat with his breakfast 🤣🔥 https://t.co/pxSHJqQemJ",
       "url": "https://x.com/BlueJays/status/2120912895538233483",
       "published": "2026-11-12T16:13:33+00:00",
-      "likes": 948,
+      "likes": 967,
       "author": "Toronto Blue Jays",
       "handle": "BlueJays",
       "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
@@ -60,5 +74,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2121656929235906616",
+      "text": "RT @DunedinBlueJays: Jake Cook with a two-hit performance in the @MLBazFallLeague playoffs last night, including an RBI and double! The @B…",
+      "url": "https://x.com/BlueJays/status/2121656929235906616",
+      "published": "2026-11-14T17:30:05+00:00",
+      "likes": 0,
+      "author": "Toronto Blue Jays",
+      "handle": "BlueJays",
+      "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
