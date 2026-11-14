@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Chris Cenac Jr. has played for the Maine Celtics in the G League to open the season.",
+        "published": "2026-11-14T16:57:08+00:00",
+        "title": "Plan for Celtics’ 1st-round pick becoming clear for rookie season",
+        "url": "https://www.masslive.com/celtics/2026/11/plan-for-celtics-1st-round-pick-becoming-clear-for-rookie-season.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "On the court, George has looked like his All-Star self. The challenge now is keeping him there.",
         "published": "2026-11-13T10:00:00+00:00",
         "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T05:08:08+00:00",
         "title": "Jaylen Brown brushes off viral Jayson Tatum pregame handshake that wasn’t",
         "url": "https://www.masslive.com/celtics/2026/11/jaylen-brown-brushes-off-viral-jayson-tatum-pregame-handshake-that-wasnt.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Paul George did not hold back with the Sixers crowd after a dominant performance on Tuesday night.",
-        "published": "2026-11-11T04:08:57+00:00",
-        "title": "Paul George shares blunt gesture to 76ers fan amid Celtics rout",
-        "url": "https://www.masslive.com/celtics/2026/11/paul-george-shares-blunt-gesture-with-76ers-fans-amid-celtics-rout.html"
       }
     ],
-    "generated_at": "2026-11-14T16:30:58.173923+00:00",
+    "generated_at": "2026-11-14T17:01:10.083422+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
