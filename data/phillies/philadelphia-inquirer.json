@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "Marsh, the outfielder whose season was marked by extremes, underwent a carpal boss excision Oct. 14 in Scottsdale, Ariz., the team announced Friday.",
+      "published": "2026-11-13T16:40:00+00:00",
+      "title": "Phillies’ Brandon Marsh had wrist surgery; expected to be ready for spring training",
+      "url": "https://www.inquirer.com/phillies/brandon-marsh-wrist-surgery-status-spring-training-20261113.html"
+    },
+    {
+      "category": "Phillies",
       "description": "Players on the 40-man roster would be locked out come December and unable to play in the minor leagues, but if a player is not added, his team risks losing him.",
       "published": "2026-11-10T18:28:00+00:00",
       "title": "The looming lockout complicates roster decisions for teams, including the Phillies",
@@ -22,7 +29,7 @@
       "url": "https://www.inquirer.com/phillies/kevin-mcgonigle-delco-costume-american-league-rookie-of-the-year-20261109.html"
     }
   ],
-  "generated_at": "2026-11-13T18:43:11.892317+00:00",
+  "generated_at": "2026-11-14T04:10:01.344279+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }

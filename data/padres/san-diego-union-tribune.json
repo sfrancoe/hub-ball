@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Padres",
+      "description": "The Padres have thrived without investing in the rotation in the past, but starting pitching is a key to playoff success.",
+      "published": "2026-11-13T08:55:00+00:00",
+      "title": "Padres have no choice but to spend on their starting rotation",
+      "url": "https://www.sandiegouniontribune.com/2026/11/13/padres-have-no-choice-but-to-spend-on-their-starting-rotation/"
+    },
+    {
+      "category": "Padres",
       "description": "About 40 players who participated in the 12th annual game were from the Special Olympics softball team, the Poway Padres. Also playing were Team San Diego Vargas 18U, Poway Firefighters Local 3922, ...",
       "published": "2026-11-09T19:44:00+00:00",
       "title": "12th annual Heroes softball game is a crowd-pleasing event",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Padres",
-      "description": "LAS VEGAS — Padres closer Mason Miller was announced Wednesday as the unanimous winner of the first-ever National League Reliever of the Year Award.",
-      "published": "2026-11-11T12:07:00+00:00",
-      "title": "Padres’ Mason Miller unanimously chosen as NL Reliever of the Year",
-      "url": "https://www.sandiegouniontribune.com/2026/11/11/padres-mason-miller-unanimously-chosen-as-nl-reliever-of-the-year/"
-    },
-    {
-      "category": "Padres",
       "description": "Team is pursuing Tarik Skubal and several other starting pitchers, and it has sights on Seiya Suzuki and other potential outfielders ...",
       "published": "2026-11-11T13:43:00+00:00",
       "title": "Padres playing ‘at top of market’ could lead to Fernando Tatis Jr. playing second base",
@@ -44,13 +44,13 @@
     },
     {
       "category": "Padres",
-      "description": "Jackson Merrill says things similar to what other professional athletes say. He’s just a bit more raw. His cliches are not cliches. There is too much emotion in the way he talks about his purpose and ...",
-      "published": "2026-03-25T06:14:00+00:00",
-      "title": "Padres believe it’s time for Jackson Merrill’s next step",
-      "url": "https://www.sandiegouniontribune.com/2026/03/25/padres-believe-its-time-for-jackson-merrills-next-step/"
+      "description": "LAS VEGAS — Padres closer Mason Miller was announced Wednesday as the unanimous winner of the first-ever National League Reliever of the Year Award.",
+      "published": "2026-11-11T12:07:00+00:00",
+      "title": "Padres’ Mason Miller unanimously chosen as NL Reliever of the Year",
+      "url": "https://www.sandiegouniontribune.com/2026/11/11/padres-mason-miller-unanimously-chosen-as-nl-reliever-of-the-year/"
     }
   ],
-  "generated_at": "2026-11-13T23:54:54.620417+00:00",
+  "generated_at": "2026-11-14T04:10:04.728403+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }

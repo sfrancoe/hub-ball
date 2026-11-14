@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Braves",
+      "description": "Eleven years after the Braves drafted him, reliever Evan Phillips returns to Atlanta with two World Series rings and a three-year contract.",
+      "published": "2026-11-12T18:31:00+00:00",
+      "title": "Former Braves’ draft pick Evan Phillips ‘couldn’t be more excited’ to be back in Atlanta",
+      "url": "https://www.ajc.com/sports/2026/11/evan-phillips-excited-about-braves-return/"
+    },
+    {
+      "category": "Braves",
       "description": "Evan Phillips, 32, has agreed to a three-year, $35 million contract, the club announced Thursday. Phillips pitched in 31 games, all in relief, for the Dodgers in 2026. He will make $11 million for the ...",
       "published": "2026-11-12T13:33:00+00:00",
       "title": "Braves sign right-handed relief pitcher Evan Phillips to three-year deal",
@@ -41,16 +48,9 @@
       "published": "2026-11-06T03:00:00+00:00",
       "title": "Which trade candidates could fit Braves’ rotation?",
       "url": "https://www.ajc.com/sports/2026/11/trade-candidates-for-braves-pitching-rotation/"
-    },
-    {
-      "category": "Braves",
-      "description": "Dana Brown and Perry Minasian have been hired as senior advisers in amateur scouting to work alongside Braves president of baseball operations Alex Anthopoulos.",
-      "published": "2026-11-10T09:20:00+00:00",
-      "title": "Dana Brown and Perry Minasian return to Braves in scouting roles",
-      "url": "https://www.ajc.com/sports/2026/11/braves-rehire-dana-brown-perry-minasian/"
     }
   ],
-  "generated_at": "2026-11-13T23:54:42.900146+00:00",
+  "generated_at": "2026-11-14T04:10:00.676654+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }
