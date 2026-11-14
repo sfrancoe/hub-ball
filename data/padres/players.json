@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:33:17.388778+00:00",
+  "generated_at": "2026-11-14T16:10:21.101408+00:00",
   "roster_as_of": "November 2, 2026",
   "team": {
     "id": 135,
@@ -1263,7 +1263,7 @@
       "is_active_roster": false,
       "birth_date": "1998-08-24",
       "age": 28,
-      "birthplace": "Pittsburgh, Pennsylvania, U.S.",
+      "birthplace": "Pittsburgh",
       "height": "6' 5\"",
       "weight": null,
       "bats": "Right",
@@ -1272,7 +1272,17 @@
       "debut_team": "Oakland Athletics",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "Bethel Park High School"
+          },
+          {
+            "name": "Waynesburg University"
+          },
+          {
+            "name": "Gardner–Webb University"
+          }
+        ]
       },
       "teams": [
         "Oakland Athletics",
