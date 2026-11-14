@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-14T05:45:13.137988+00:00",
+  "generated_at": "2026-11-14T15:46:52.145979+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451317521326169",
   "team_id": "27",
   "sport": "nba",
-  "likes_as_of": "2026-11-14T05:45:13.137988+00:00",
+  "likes_as_of": "2026-11-14T15:46:52.145979+00:00",
   "recent": [
     {
       "id": "2121246763529199677",
       "text": "It wasn’t perfect by any stretch, but for one of his first times with the Wizards, Trae Young last night displayed a bit of the flair of his best moments with the Hawks. Now the task for him and the Wizards is to be more consistent. Story in @TheAthletic: https://t.co/E7ZQI0CMES",
       "url": "https://x.com/JoshuaBRobbins/status/2121246763529199677",
       "published": "2026-11-13T14:20:13+00:00",
-      "likes": 17,
+      "likes": 19,
       "author": "Josh Robbins",
       "handle": "JoshuaBRobbins",
       "avatar": "https://pbs.twimg.com/profile_images/1358290326/Josh_Robbins_mugshot_normal.jpg",
@@ -96,7 +96,7 @@
       "text": "KY FOR THE LEAD 👌 https://t.co/tFrke65DW8",
       "url": "https://x.com/WashWizards/status/2121067992230621444",
       "published": "2026-11-13T02:29:51+00:00",
-      "likes": 111,
+      "likes": 113,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -124,7 +124,7 @@
       "text": "KYSHAWN GEORGE",
       "url": "https://x.com/WashWizards/status/2121067472300445741",
       "published": "2026-11-13T02:27:47+00:00",
-      "likes": 86,
+      "likes": 87,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -180,7 +180,7 @@
       "text": "Alex Sarr is perfect from the field 🔥 📊 14 PTS | 6-6 FGM | 2-2 3PM https://t.co/5W8SZ9R5DO",
       "url": "https://x.com/WashWizards/status/2121049329687502922",
       "published": "2026-11-13T01:15:42+00:00",
-      "likes": 93,
+      "likes": 94,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -344,20 +344,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2121246763529199677",
-      "text": "It wasn’t perfect by any stretch, but for one of his first times with the Wizards, Trae Young last night displayed a bit of the flair of his best moments with the Hawks. Now the task for him and the Wizards is to be more consistent. Story in @TheAthletic: https://t.co/E7ZQI0CMES",
-      "url": "https://x.com/JoshuaBRobbins/status/2121246763529199677",
-      "published": "2026-11-13T14:20:13+00:00",
-      "likes": 17,
-      "author": "Josh Robbins",
-      "handle": "JoshuaBRobbins",
-      "avatar": "https://pbs.twimg.com/profile_images/1358290326/Josh_Robbins_mugshot_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

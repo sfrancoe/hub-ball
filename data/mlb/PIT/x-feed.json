@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-14T07:45:41.385266+00:00",
+  "generated_at": "2026-11-14T15:47:09.970298+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Pirates",
   "team_id": "23",
   "sport": "mlb",
-  "likes_as_of": "2026-11-14T07:45:41.385266+00:00",
+  "likes_as_of": "2026-11-14T15:47:09.970298+00:00",
   "recent": [
     {
       "id": "2121240857558811043",
       "text": "HBD, Brownie! 🎉 https://t.co/RhXc0t9tGP",
       "url": "https://x.com/Pirates/status/2121240857558811043",
       "published": "2026-11-13T13:56:45+00:00",
-      "likes": 1026,
+      "likes": 1050,
       "author": "Pittsburgh Pirates",
       "handle": "Pirates",
       "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "Luke Weaver and Jason Kendall hit the links for the @MLB Open this week! ⛳️ https://t.co/OvYhQALWPa",
       "url": "https://x.com/Pirates/status/2120993984311169267",
       "published": "2026-11-12T21:35:46+00:00",
-      "likes": 305,
+      "likes": 306,
       "author": "Pittsburgh Pirates",
       "handle": "Pirates",
       "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
@@ -36,20 +36,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2121240857558811043",
-      "text": "HBD, Brownie! 🎉 https://t.co/RhXc0t9tGP",
-      "url": "https://x.com/Pirates/status/2121240857558811043",
-      "published": "2026-11-13T13:56:45+00:00",
-      "likes": 1026,
-      "author": "Pittsburgh Pirates",
-      "handle": "Pirates",
-      "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXApO-DXkAE9acQ.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
