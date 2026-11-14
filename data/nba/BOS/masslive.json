@@ -3,17 +3,17 @@
     "articles": [
       {
         "category": "Boston Celtics",
-        "description": "The Celtics are soaring at 10-2, fresh off a 4-0 road trip, as they have passed just about every test to open the season.",
-        "published": "2026-11-13T10:00:00+00:00",
-        "title": "How will the Celtics keep Paul George fresh for the playoffs? (Mailbag)",
-        "url": "https://www.masslive.com/celtics/2026/11/how-will-the-celtics-keep-paul-george-fresh-for-the-playoffs-mailbag.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "On the court, George has looked like his All-Star self. The challenge now is keeping him there.",
         "published": "2026-11-13T10:00:00+00:00",
         "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-winning-over-celtics-fans-and-making-brad-stevens-look-good.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "The Celtics are soaring at 10-2, fresh off a 4-0 road trip, as they have passed just about every test to open the season.",
+        "published": "2026-11-13T10:00:00+00:00",
+        "title": "How will the Celtics keep Paul George fresh for the playoffs? (Mailbag)",
+        "url": "https://www.masslive.com/celtics/2026/11/how-will-the-celtics-keep-paul-george-fresh-for-the-playoffs-mailbag.html"
       },
       {
         "category": "Boston Celtics",
@@ -114,7 +114,7 @@
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-shares-blunt-gesture-with-76ers-fans-amid-celtics-rout.html"
       }
     ],
-    "generated_at": "2026-11-14T12:19:22.597243+00:00",
+    "generated_at": "2026-11-14T12:39:29.105547+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
