@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "On Basketball",
+        "description": "In his first dozens games with the Celtics, George has been the team's top 3-point shooter at 44 percent.",
+        "published": "2026-11-14T02:26:05.224Z",
+        "title": "Adding Paul George as been a huge plus for Jayson Tatum and the Celtics",
+        "url": "https://www.bostonglobe.com/2026/11/13/sports/paul-george-celtics-trade-76ers-nba-basketball/"
+      },
+      {
         "category": "Adam Himmelsbach | Celtics beat writer's notebook",
         "description": "One question has persisted: Why, exactly, don’t these guys seem to like each other anymore?",
         "published": "2026-11-13T13:49:07.004Z",
@@ -100,13 +107,6 @@
         "url": "https://www.bostonglobe.com/2026/11/08/sports/celtics-bucks-preview-november-8-2026/"
       },
       {
-        "category": "CELTICS NOTEBOOK",
-        "description": "The Duke product enjoys the Celtics' trips to play the Hornets because North Carolina is special place to him. \"I have a lot of connections here in this state, this area,\" Tatum said.",
-        "published": "2026-11-07T19:44:00.329Z",
-        "title": "Jayson Tatum enjoys another trip ‘home’ to North Carolina with big effort for Celtics in win at Charlotte",
-        "url": "https://www.bostonglobe.com/2026/11/07/sports/celtics-jayson-tatum-achilles-recovery/"
-      },
-      {
         "category": "Celtics",
         "description": "We know serious Celtics fans don’t want to miss a beat. Now, you don’t have to.",
         "published": "2024-10-17T15:28:56.377Z",
@@ -114,7 +114,7 @@
         "url": "https://www.bostonglobe.com/2023/04/04/sports/boston-globe-celtics-newsletter/"
       }
     ],
-    "generated_at": "2026-11-13T14:00:41.354520+00:00",
+    "generated_at": "2026-11-14T02:35:52.744464+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
