@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-13T21:43:42.420563+00:00",
+  "generated_at": "2026-11-14T07:45:41.386297+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dodgers",
   "team_id": "19",
   "sport": "mlb",
-  "likes_as_of": "2026-11-13T21:43:42.420563+00:00",
+  "likes_as_of": "2026-11-14T07:45:41.386297+00:00",
   "recent": [
+    {
+      "id": "2121382093557252300",
+      "text": "Join us at UNIQLO Field at Dodger Stadium on 11/19 at 1 pm for our drive-thru turkey giveaway event! The first 1,500 families will receive one full-size turkey, pumpkin pie, stuffing and more. https://t.co/jE6BCrjViR",
+      "url": "https://x.com/Dodgers/status/2121382093557252300",
+      "published": "2026-11-13T23:17:59+00:00",
+      "likes": 498,
+      "author": "Los Angeles Dodgers",
+      "handle": "Dodgers",
+      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXCo_YUaMAEFsTL.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2120990506297811102",
       "text": "Tickets for the Fall Out Boy and the Twilight of the Punks Tour are on sale now! 🎟️: https://t.co/FEc7wjQvqB https://t.co/SZBVqi1pYZ",
       "url": "https://x.com/Dodgers/status/2120990506297811102",
       "published": "2026-11-12T21:21:57+00:00",
-      "likes": 349,
+      "likes": 363,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -22,5 +36,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2121382093557252300",
+      "text": "Join us at UNIQLO Field at Dodger Stadium on 11/19 at 1 pm for our drive-thru turkey giveaway event! The first 1,500 families will receive one full-size turkey, pumpkin pie, stuffing and more. https://t.co/jE6BCrjViR",
+      "url": "https://x.com/Dodgers/status/2121382093557252300",
+      "published": "2026-11-13T23:17:59+00:00",
+      "likes": 498,
+      "author": "Los Angeles Dodgers",
+      "handle": "Dodgers",
+      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXCo_YUaMAEFsTL.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
