@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-15T06:48:04.818332+00:00",
+  "generated_at": "2026-11-15T18:57:32.501647+00:00",
   "source": "X",
   "source_url": "https://x.com/Dodgers",
   "recent": [
+    {
+      "id": "2122020170835341551",
+      "text": "Happy birthday, Emmet! https://t.co/fDwHoNDcoI",
+      "url": "https://x.com/Dodgers/status/2122020170835341551",
+      "published": "2026-11-15T17:33:28+00:00",
+      "likes": 977,
+      "author": "Los Angeles Dodgers",
+      "handle": "Dodgers",
+      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXLuGPiawAAe59M.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2121382093557252300",
       "text": "Join us at UNIQLO Field at Dodger Stadium on 11/19 at 1 pm for our drive-thru turkey giveaway event! The first 1,500 families will receive one full-size turkey, pumpkin pie, stuffing and more. https://t.co/jE6BCrjViR",
       "url": "https://x.com/Dodgers/status/2121382093557252300",
       "published": "2026-11-13T23:17:59+00:00",
-      "likes": 599,
+      "likes": 610,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -32,5 +46,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2122020170835341551",
+      "text": "Happy birthday, Emmet! https://t.co/fDwHoNDcoI",
+      "url": "https://x.com/Dodgers/status/2122020170835341551",
+      "published": "2026-11-15T17:33:28+00:00",
+      "likes": 977,
+      "author": "Los Angeles Dodgers",
+      "handle": "Dodgers",
+      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXLuGPiawAAe59M.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
