@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Tarik Skubal's suitors include the Mets and Blue Jays, while Freddy Peralta and Michael King are expected to get significant deals.",
+      "published": "2026-11-15T11:00:29+00:00",
+      "title": "What I'm hearing off the GM meetings: Padres aggressive, Yankees make bullpen priority",
+      "url": "https://www.nytimes.com/athletic/7781841/2026/11/15/mlb-gm-meetings-rumors-padres-yankees-mets/"
+    },
+    {
+      "category": "Mets",
       "description": "What can the Mets do in their second attempt to replace Pete Alonso?",
       "published": "2026-11-13T12:00:41+00:00",
       "title": "Mets need a first baseman, again. Who are the options?",
@@ -132,16 +139,9 @@
       "published": "2026-10-05T09:40:47+00:00",
       "title": "Inside Freddy Peralta's revival with Rays, from Mets disappointment to playoff starter",
       "url": "https://www.nytimes.com/athletic/7661024/2026/10/05/freddy-peralta-rays-revival-alds-playoffs/"
-    },
-    {
-      "category": "Mets",
-      "description": "The Mets star said of De Paula: \"It's really cool to see what he's capable of.\"",
-      "published": "2026-10-03T17:52:46+00:00",
-      "title": "Juan Soto tips his cap to Dodgers' rookie Josue De Paula — and his shuffle",
-      "url": "https://www.nytimes.com/athletic/7655932/2026/10/03/josue-de-paula-dodgers-juan-soto-shuffle-nlds/"
     }
   ],
-  "generated_at": "2026-11-13T18:43:02.971353+00:00",
+  "generated_at": "2026-11-15T15:06:38.817774+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

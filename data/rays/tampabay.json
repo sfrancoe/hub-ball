@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Tales | The baseball operations boss sees parallels between where his team is now and where the World Series champions were a year ago.",
+      "published": "2026-11-15T13:00:00+00:00",
+      "title": "Erik Neander’s vision for 2027 Rays is to be more like 2026 Brewers",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/15/erik-neander-milwaukee-brewers-matt-arnold-gm-meetings-junior-caminero-rafa-nieves/"
+    },
+    {
+      "category": "Rays",
       "description": "Houston’s Yordan Alvarez is the unanimous winner but acknowledges Junior Caminero will be an annual contender for the league’s top award.",
       "published": "2026-11-13T02:40:02+00:00",
       "title": "Rays’ Caminero finishes 2nd in AL MVP voting, vows ‘my time will come’",
@@ -118,16 +125,9 @@
       "published": "2026-10-30T21:07:36+00:00",
       "title": "As expected, Rays decline mutual options on Nick Martinez, Cedric Mullins",
       "url": "https://www.tampabay.com/sports/rays/2026/10/30/nick-martinez-cedric-mullins-mlb-free-agency/"
-    },
-    {
-      "category": "Rays",
-      "description": "Starter Freddy Peralta, infielders Gavin Lux and Jorge Mateo are free agents. Nick Martinez and Cedric Mullins are likely to soon join them.",
-      "published": "2026-10-30T00:05:35+00:00",
-      "title": "World Series ends, Rays roster changes start with free agency declaration",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/29/nick-martinez-freddy-peralta-free-agency-drew-rasmussen/"
     }
   ],
-  "generated_at": "2026-11-14T17:16:44.828854+00:00",
+  "generated_at": "2026-11-15T15:06:39.399190+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

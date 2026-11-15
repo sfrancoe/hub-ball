@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Random thoughts about (mostly) sports topics.",
+      "published": "2026-11-15T10:00:00+00:00",
+      "title": "Some Things I Think I Think: Red Sox offseason off to strong start, but more to be done",
+      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-offseason-off-to-strong-start-but-more-to-be-done.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox entered the winter with an All-Star first baseman and too many outfielders on their roster already. Friday’s signing of Jake Bauers, then, is somewhat confounding, at least on paper.",
       "published": "2026-11-13T19:49:15+00:00",
       "title": "How Jake Bauers fits Boston's roster, impacts Willson Contreras",
@@ -104,16 +111,9 @@
       "published": "2026-11-11T15:00:00+00:00",
       "title": "Fenway Insider Live: Sean McAdam on latest from GM Meetings, more",
       "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-live-sean-mcadam-on-latest-from-gm-meetings-more.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox have a former first-round draft pick and a 6-foot-7 pitching prospect who are Rule 5 Draft eligible. Will they be added to the 40-man roster?",
-      "published": "2026-11-11T11:20:01+00:00",
-      "title": "Red Sox have ‘massive human,’ former first-round pick as roster candidates",
-      "url": "https://www.masslive.com/sports/2026/11/red-sox-have-massive-human-former-first-round-pick-as-roster-candidates.html"
     }
   ],
-  "generated_at": "2026-11-13T23:54:24.369355+00:00",
+  "generated_at": "2026-11-15T15:06:27.904269+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
