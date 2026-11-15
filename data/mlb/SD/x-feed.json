@@ -1,18 +1,46 @@
 {
-  "generated_at": "2026-11-15T03:49:03.751598+00:00",
+  "generated_at": "2026-11-15T11:50:34.127870+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Padres",
   "team_id": "25",
   "sport": "mlb",
-  "likes_as_of": "2026-11-15T03:49:03.751598+00:00",
+  "likes_as_of": "2026-11-15T11:50:34.127870+00:00",
   "recent": [
     {
-      "id": "2120928359618064619",
-      "text": "2027 Spring Training tickets are on sale now!",
-      "url": "https://x.com/Padres/status/2120928359618064619",
-      "published": "2026-11-12T17:15:00+00:00",
-      "likes": 170,
+      "id": "2121823542354579933",
+      "text": "RT @MLBPipeline: The Peoria Javelinas win the Arizona Fall League title! Cardinals, Mariners, Orioles, Padres and Reds prospects combine f…",
+      "url": "https://x.com/Padres/status/2121823542354579933",
+      "published": "2026-11-15T04:32:08+00:00",
+      "likes": 0,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2121823475048595767",
+      "text": "RT @MLBazFallLeague: For the first time since 2018, the Peoria Javelinas are your Arizona Fall League Champions! Peoria holds the most Ar…",
+      "url": "https://x.com/Padres/status/2121823475048595767",
+      "published": "2026-11-15T04:31:52+00:00",
+      "likes": 0,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2121823394840912353",
+      "text": "RT @MLBazFallLeague: DeCriscio stays hot 🔥 After going 2-for-2 in the Semifinals, @padres Justin DeCriscio continues to stay hot ripping…",
+      "url": "https://x.com/Padres/status/2121823394840912353",
+      "published": "2026-11-15T04:31:33+00:00",
+      "likes": 0,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -22,5 +50,48 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2121823542354579933",
+      "text": "RT @MLBPipeline: The Peoria Javelinas win the Arizona Fall League title! Cardinals, Mariners, Orioles, Padres and Reds prospects combine f…",
+      "url": "https://x.com/Padres/status/2121823542354579933",
+      "published": "2026-11-15T04:32:08+00:00",
+      "likes": 0,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2121823475048595767",
+      "text": "RT @MLBazFallLeague: For the first time since 2018, the Peoria Javelinas are your Arizona Fall League Champions! Peoria holds the most Ar…",
+      "url": "https://x.com/Padres/status/2121823475048595767",
+      "published": "2026-11-15T04:31:52+00:00",
+      "likes": 0,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2121823394840912353",
+      "text": "RT @MLBazFallLeague: DeCriscio stays hot 🔥 After going 2-for-2 in the Semifinals, @padres Justin DeCriscio continues to stay hot ripping…",
+      "url": "https://x.com/Padres/status/2121823394840912353",
+      "published": "2026-11-15T04:31:33+00:00",
+      "likes": 0,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
