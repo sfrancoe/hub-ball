@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-14T15:47:09.964094+00:00",
+  "generated_at": "2026-11-15T03:49:03.742881+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Mariners",
   "team_id": "12",
   "sport": "mlb",
-  "likes_as_of": "2026-11-14T15:47:09.964094+00:00",
+  "likes_as_of": "2026-11-15T03:49:03.742881+00:00",
   "recent": [
     {
       "id": "2121309190790738036",
       "text": "From the diamond to the green 💎⛳ https://t.co/MtxrbYqHtw",
       "url": "https://x.com/Mariners/status/2121309190790738036",
       "published": "2026-11-13T18:28:17+00:00",
-      "likes": 339,
+      "likes": 368,
       "author": "Seattle Mariners",
       "handle": "Mariners",
       "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "Your dose of sunshine and baseball is waiting ☀️⚾ Spring Training tickets are on sale now 👉 https://t.co/sUuF8wJYMn https://t.co/oOif74ynNc",
       "url": "https://x.com/Mariners/status/2121001034416095332",
       "published": "2026-11-12T22:03:47+00:00",
-      "likes": 91,
+      "likes": 92,
       "author": "Seattle Mariners",
       "handle": "Mariners",
       "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
@@ -50,20 +50,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2121309190790738036",
-      "text": "From the diamond to the green 💎⛳ https://t.co/MtxrbYqHtw",
-      "url": "https://x.com/Mariners/status/2121309190790738036",
-      "published": "2026-11-13T18:28:17+00:00",
-      "likes": 339,
-      "author": "Seattle Mariners",
-      "handle": "Mariners",
-      "avatar": "https://pbs.twimg.com/profile_images/2104339434053517312/BWFUb6PX_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXBmmJFaQAAdjae.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
