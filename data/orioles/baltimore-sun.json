@@ -2,20 +2,6 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "Colton Cowser’s game-ending home-run robbery against the Colorado Rockies was named the Capital One Premier Play of the Year at the MLB Awards on Wednesday night in Las Vegas. Cowser accepted the ...",
-      "published": "2026-11-12T06:34:00+00:00",
-      "title": "Orioles’ Colton Cowser wins MLB Play of the Year for stunning catch",
-      "url": "https://www.baltimoresun.com/2026/11/12/orioles-colton-cowser-mlb-play-of-the-year/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Fully recovered from knee surgery, Orioles prospect and 2025 first-round draft pick Ike Irish is showing what he can do.",
-      "published": "2026-11-12T04:00:00+00:00",
-      "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
-      "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
-    },
-    {
-      "category": "Orioles",
       "description": "The Orioles made one of the biggest moves of last offseason. Will they do the same this winter? Baltimore’s five-year, $155 million deal with Pete Alonso gave the Orioles the big bat — and leader — ...",
       "published": "2026-11-10T04:01:00+00:00",
       "title": "Orioles free agency: 20 hitters who could fit in Baltimore",
@@ -23,10 +9,24 @@
     },
     {
       "category": "Orioles",
+      "description": "Colton Cowser’s game-ending home-run robbery against the Colorado Rockies was named the Capital One Premier Play of the Year at the MLB Awards on Wednesday night in Las Vegas. Cowser accepted the ...",
+      "published": "2026-11-12T06:34:00+00:00",
+      "title": "Orioles’ Colton Cowser wins MLB Play of the Year for stunning catch",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-colton-cowser-mlb-play-of-the-year/"
+    },
+    {
+      "category": "Orioles",
       "description": "Foss helped advise Angelos when he purchased the Orioles for $173 million in 1993 and served as vice chairman and chief operating officer.",
       "published": "2026-11-10T21:04:00+00:00",
       "title": "Joe Foss, longtime Orioles executive and a top Angelos adviser, dies at 77",
       "url": "https://www.baltimoresun.com/2026/11/11/joe-foss-orioles-executive-dies/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Fully recovered from knee surgery, Orioles prospect and 2025 first-round draft pick Ike Irish is showing what he can do.",
+      "published": "2026-11-12T04:00:00+00:00",
+      "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
     },
     {
       "category": "Orioles",
@@ -55,9 +55,16 @@
       "published": "2026-11-02T11:24:00+00:00",
       "title": "Orioles decline Ryan Mountcastle’s $7.5M team option, making him free agent",
       "url": "https://www.baltimoresun.com/2026/11/02/orioles-ryan-mountcastle-option-declined/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Orioles slugger Pete Alonso placed fifth in AL MVP voting for the 2026 season, his highest finish in the award race of his decorated career.",
+      "published": "2026-11-12T16:44:00+00:00",
+      "title": "Orioles’ Pete Alonso places 5th for AL MVP in highest finish of career",
+      "url": "https://www.baltimoresun.com/2026/11/12/orioles-pete-alonso-mvp-voting/"
     }
   ],
-  "generated_at": "2026-11-15T15:06:40.773678+00:00",
+  "generated_at": "2026-11-15T20:21:19.721323+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

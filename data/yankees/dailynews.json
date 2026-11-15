@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Hill struggled in 2026, recording a 4.60 ERA over 67 games and 58.2 innings.",
+      "published": "2026-11-15T17:16:34+00:00",
+      "title": "Yankees re-signing Tim Hill in first move to address barren bullpen: sources",
+      "url": "https://www.nydailynews.com/2026/11/15/yankees-re-signing-tim-hill-in-first-move-to-address-barren-bullpen-sources/"
+    },
+    {
+      "category": "Yankees",
       "description": "Speaking to reporters at the Aria Resort & Casino in Las Vegas, Brian Cashman touched...",
       "published": "2026-11-14T13:00:44+00:00",
       "title": "Yankees Notes from GM Meetings: Front office changes, Jasson Domínguez and more",
@@ -132,16 +139,9 @@
       "published": "2026-11-03T12:30:17+00:00",
       "title": "Yankees’ Cam Schlittler expectedly named Cy Young finalist, spurned for bigger award",
       "url": "https://www.nydailynews.com/2026/11/03/yankees-cam-schlittler-cy-young-finalist-spurned-award/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Brad Ausmus, who has been the Yankees' bench coach the past three years, is in...",
-      "published": "2026-11-02T22:42:48+00:00",
-      "title": "Yankees bench coach Brad Ausmus interviewing for Astros manager job",
-      "url": "https://www.nydailynews.com/2026/11/02/yankees-brad-ausmus-astros-manager-lou-piniella/"
     }
   ],
-  "generated_at": "2026-11-14T17:16:37.776824+00:00",
+  "generated_at": "2026-11-15T20:21:07.547329+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
