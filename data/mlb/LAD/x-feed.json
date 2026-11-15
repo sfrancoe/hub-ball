@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-15T11:50:34.127636+00:00",
+  "generated_at": "2026-11-15T19:52:05.942847+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dodgers",
   "team_id": "19",
   "sport": "mlb",
-  "likes_as_of": "2026-11-15T11:50:34.127636+00:00",
+  "likes_as_of": "2026-11-15T19:52:05.942847+00:00",
   "recent": [
+    {
+      "id": "2122020170835341551",
+      "text": "Happy birthday, Emmet! https://t.co/fDwHoNDcoI",
+      "url": "https://x.com/Dodgers/status/2122020170835341551",
+      "published": "2026-11-15T17:33:28+00:00",
+      "likes": 1250,
+      "author": "Los Angeles Dodgers",
+      "handle": "Dodgers",
+      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXLuGPiawAAe59M.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2121382093557252300",
       "text": "Join us at UNIQLO Field at Dodger Stadium on 11/19 at 1 pm for our drive-thru turkey giveaway event! The first 1,500 families will receive one full-size turkey, pumpkin pie, stuffing and more. https://t.co/jE6BCrjViR",
       "url": "https://x.com/Dodgers/status/2121382093557252300",
       "published": "2026-11-13T23:17:59+00:00",
-      "likes": 602,
+      "likes": 611,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -36,5 +50,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2122020170835341551",
+      "text": "Happy birthday, Emmet! https://t.co/fDwHoNDcoI",
+      "url": "https://x.com/Dodgers/status/2122020170835341551",
+      "published": "2026-11-15T17:33:28+00:00",
+      "likes": 1250,
+      "author": "Los Angeles Dodgers",
+      "handle": "Dodgers",
+      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXLuGPiawAAe59M.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

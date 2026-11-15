@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T11:50:34.125927+00:00",
+  "generated_at": "2026-11-15T19:52:05.940344+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Cubs",
   "team_id": "16",
   "sport": "mlb",
-  "likes_as_of": "2026-11-15T11:50:34.125927+00:00",
+  "likes_as_of": "2026-11-15T19:52:05.940344+00:00",
   "recent": [
     {
       "id": "2121634057305923635",
       "text": "A special delivery for @drose. 🌹 https://t.co/fCXE08gF4y",
       "url": "https://x.com/Cubs/status/2121634057305923635",
       "published": "2026-11-14T15:59:11+00:00",
-      "likes": 4580,
+      "likes": 5004,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "HAGS (had a great season) https://t.co/63qqFZhzXn",
       "url": "https://x.com/Cubs/status/2121264325478515000",
       "published": "2026-11-13T15:30:01+00:00",
-      "likes": 2395,
+      "likes": 2418,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -40,7 +40,7 @@
       "text": "Some love from a fellow MVP. https://t.co/JjUYDGqqj9",
       "url": "https://x.com/Cubs/status/2121249227519008994",
       "published": "2026-11-13T14:30:01+00:00",
-      "likes": 3748,
+      "likes": 3771,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -96,7 +96,7 @@
       "text": "You've reached the NL MVP. https://t.co/yskT6yZ4Fz",
       "url": "https://x.com/Cubs/status/2121088204636070233",
       "published": "2026-11-13T03:50:10+00:00",
-      "likes": 5679,
+      "likes": 5684,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -110,7 +110,7 @@
       "text": "The MVP and his people. 💙 https://t.co/lfjXTfxhoW",
       "url": "https://x.com/Cubs/status/2121083580734480468",
       "published": "2026-11-13T03:31:48+00:00",
-      "likes": 6767,
+      "likes": 6776,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -138,7 +138,7 @@
       "text": "Around here, PCA means MVP. https://t.co/5qzeOaal3e",
       "url": "https://x.com/Cubs/status/2121046180863807910",
       "published": "2026-11-13T01:03:11+00:00",
-      "likes": 26318,
+      "likes": 26388,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -152,7 +152,7 @@
       "text": "It's always been Pete. https://t.co/zVduBUr5Tg",
       "url": "https://x.com/Cubs/status/2121043972676087880",
       "published": "2026-11-13T00:54:24+00:00",
-      "likes": 14738,
+      "likes": 14744,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -162,20 +162,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2121634057305923635",
-      "text": "A special delivery for @drose. 🌹 https://t.co/fCXE08gF4y",
-      "url": "https://x.com/Cubs/status/2121634057305923635",
-      "published": "2026-11-14T15:59:11+00:00",
-      "likes": 4580,
-      "author": "Chicago Cubs",
-      "handle": "Cubs",
-      "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2121634015249645568/img/WnZiJQbt3_01IYU4.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
