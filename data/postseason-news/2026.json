@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-15T14:51:22.131305+00:00",
+  "generatedAt": "2026-11-15T20:26:02.083524+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 5,
+  "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Yankees re-sign Tim Hill in first of many expected bullpen moves: Sources",
+      "description": "Hill's return is expected to be the first of several bullpen moves for the Yankees.",
+      "url": "https://www.nytimes.com/athletic/7783937/2026/11/15/yankees-sign-tim-hill-bullpen/",
+      "published": "2026-11-15T16:40:03+00:00",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees bringing back reliever on $2.5M deal as another bullpen decision looms",
+      "description": "",
+      "url": "https://nypost.com/2026/11/15/sports/yankees-bringing-back-tim-hill-on-2-5-million-deal/",
+      "published": "2026-11-15T16:23:42+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees re-signing Tim Hill in first move to address barren bullpen: sources",
+      "description": "Hill struggled in 2026, recording a 4.60 ERA over 67 games and 58.2 innings.",
+      "url": "https://www.nydailynews.com/2026/11/15/yankees-re-signing-tim-hill-in-first-move-to-address-barren-bullpen-sources/",
+      "published": "2026-11-15T16:06:30+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "GM meetings good for widespread items of interest, including some with Red Sox connections",
       "description": "Four days of meetings in Las Vegas wrapped up Thursday.",
@@ -48,13 +84,13 @@
       "title": "What I'm hearing off the GM meetings: Padres aggressive, Yankees make bullpen priority",
       "description": "Tarik Skubal's suitors include the Mets and Blue Jays, while Freddy Peralta and Michael King are expected to get significant deals.",
       "url": "https://www.nytimes.com/athletic/7781841/2026/11/15/mlb-gm-meetings-rumors-padres-yankees-mets/",
-      "published": "",
+      "published": "2026-11-15T11:00:29+00:00",
       "source": "The Athletic",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
-      "publishedSource": "unverified"
+      "publishedSource": "publisher"
     },
     {
       "title": "MLB notes: What’s next for Red Sox after Jake Bauers signing?",
