@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Maine native Cooper Flagg will play against the Celtics at TD Garden on Sunday.",
+        "published": "2026-11-15T22:49:43+00:00",
+        "title": "Cooper Flagg vs. Celtics: What ‘fascinates’ Mavs coach about local star",
+        "url": "https://www.masslive.com/celtics/2026/11/cooper-flagg-vs-celtics-what-fascinates-mavericks-coach-about-local-star.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Random thoughts about (mostly) sports topics.",
         "published": "2026-11-15T10:00:00+00:00",
         "title": "Some Things I Think I Think: Red Sox offseason off to strong start, but more to be done",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T10:05:00+00:00",
         "title": "With basketball world watching, Jayson Tatum rises to the moment | Matt Vautour",
         "url": "https://www.masslive.com/celtics/2026/11/jason-tatum-rises-to-the-moment-in-celtics-statement-win-over-sixers-and-jaylen-brown.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum kept it even-keeled as the Celtics blew out the Sixers and Jaylen Brown on Tuesday, not letting the emotions get the best of him.",
-        "published": "2026-11-11T10:00:00+00:00",
-        "title": "Jayson Tatum on Sixers, Jaylen Brown clash: ‘It felt like a (expletive) Finals game’",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-on-sixers-jaylen-brown-clash-it-felt-like-a-expletive-finals-game.html"
       }
     ],
-    "generated_at": "2026-11-15T21:53:18.377468+00:00",
+    "generated_at": "2026-11-15T22:53:40.007463+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
