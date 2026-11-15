@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "Clara Luvanga's 56th-minute goal completed a turnaround and carried the host Washington Spirit to a 2-1 victory over Utah Royals FC in the NWSL playoff semifinals Saturday in Washington.",
+      "published": "2026-11-14T11:47:00+00:00",
+      "title": "Washington advances to NWSL final with comeback win over Utah",
+      "url": "https://www.kansascity.com/sports/soccer/article318084889.html"
+    },
+    {
+      "category": "Royals",
       "description": "Elevate will help lead plans for corporate partnerships, premium seating, naming rights, food and beverage plans and more.",
       "published": "2026-11-13T07:42:00+00:00",
       "title": "For new stadium, Royals partner with company on seating, naming rights, food & more",
@@ -62,16 +69,9 @@
       "published": "2026-11-10T09:55:00+00:00",
       "title": "Kansas City Royals hire pair of longtime MLB evaluators to scouting department",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article318021806.html"
-    },
-    {
-      "category": "Royals",
-      "description": "On Thursday, the Royals reportedly hired San Francisco Giants hitting coach Hunter Mense as an assistant coach. A native of Liberty, just north of KC, he’d join the Royals’ hitting department ...",
-      "published": "2026-11-05T07:59:00+00:00",
-      "title": "Royals hire former Liberty High & Mizzou player as new hitting coach, per report",
-      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article317948218.html"
     }
   ],
-  "generated_at": "2026-11-14T21:33:20.283236+00:00",
+  "generated_at": "2026-11-15T07:54:32.103922+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }
