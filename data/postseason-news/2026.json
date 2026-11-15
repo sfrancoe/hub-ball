@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-15T00:25:59.904032+00:00",
+  "generatedAt": "2026-11-15T07:16:24.239105+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 2,
   "articles": [
     {
       "title": "Padres minors: Outfielder Kala’i Rosario gets minor league deal, invite to spring training",
@@ -41,18 +41,6 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees Notes from GM Meetings: Front office changes, Jasson Domínguez and more",
-      "description": "Speaking to reporters at the Aria Resort & Casino in Las Vegas, Brian Cashman touched...",
-      "url": "https://www.nydailynews.com/2026/11/14/yankees-mlb-gm-meetings-brian-cashman-jasson-dominguez/",
-      "published": "2026-11-14T13:00:44+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
     }
