@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T07:49:54.838730+00:00",
+  "generated_at": "2026-11-15T15:51:20.754268+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Mets",
   "team_id": "21",
   "sport": "mlb",
-  "likes_as_of": "2026-11-15T07:49:54.838730+00:00",
+  "likes_as_of": "2026-11-15T15:51:20.754268+00:00",
   "recent": [
     {
       "id": "2121620419664904297",
       "text": "A.J. Ewing Reacts to the BEST Moments from his Rookie Season 👀 🎥👉 https://t.co/R06KwEpwpn https://t.co/ISwb7OHYG1",
       "url": "https://x.com/Mets/status/2121620419664904297",
       "published": "2026-11-14T15:05:00+00:00",
-      "likes": 599,
+      "likes": 637,
       "author": "New York Mets",
       "handle": "Mets",
       "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "Wishing a happy birthday to @Lindor12BC! 🥳 https://t.co/i9qSuEAVTP",
       "url": "https://x.com/Mets/status/2121596513944060286",
       "published": "2026-11-14T13:30:00+00:00",
-      "likes": 2441,
+      "likes": 2502,
       "author": "New York Mets",
       "handle": "Mets",
       "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
@@ -54,7 +54,7 @@
       "text": "Happy birthday, Brett! 🎂 https://t.co/tjS0UiMsLB",
       "url": "https://x.com/Mets/status/2121252562129105034",
       "published": "2026-11-13T14:43:16+00:00",
-      "likes": 1123,
+      "likes": 1128,
       "author": "New York Mets",
       "handle": "Mets",
       "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
@@ -78,34 +78,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2121596513944060286",
-      "text": "Wishing a happy birthday to @Lindor12BC! 🥳 https://t.co/i9qSuEAVTP",
-      "url": "https://x.com/Mets/status/2121596513944060286",
-      "published": "2026-11-14T13:30:00+00:00",
-      "likes": 2441,
-      "author": "New York Mets",
-      "handle": "Mets",
-      "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXDZkh5WYAAWZb-.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2121620419664904297",
-      "text": "A.J. Ewing Reacts to the BEST Moments from his Rookie Season 👀 🎥👉 https://t.co/R06KwEpwpn https://t.co/ISwb7OHYG1",
-      "url": "https://x.com/Mets/status/2121620419664904297",
-      "published": "2026-11-14T15:05:00+00:00",
-      "likes": 599,
-      "author": "New York Mets",
-      "handle": "Mets",
-      "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2121440000298344448/img/b2pWf44eXQsO9wYs.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
