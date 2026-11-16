@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-15T20:26:02.083524+00:00",
+  "generatedAt": "2026-11-16T00:25:22.039129+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 5,
   "articles": [
     {
       "title": "Yankees re-sign Tim Hill in first of many expected bullpen moves: Sources",
       "description": "Hill's return is expected to be the first of several bullpen moves for the Yankees.",
       "url": "https://www.nytimes.com/athletic/7783937/2026/11/15/yankees-sign-tim-hill-bullpen/",
-      "published": "2026-11-15T16:40:03+00:00",
+      "published": "",
       "source": "The Athletic",
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
       "league": "AL",
-      "publishedSource": "publisher"
+      "publishedSource": "unverified"
     },
     {
-      "title": "Yankees bringing back reliever on $2.5M deal as another bullpen decision looms",
+      "title": "Restocking Yankees bringing back reliever on $2.5M deal as another bullpen decision looms",
       "description": "",
       "url": "https://nypost.com/2026/11/15/sports/yankees-bringing-back-tim-hill-on-2-5-million-deal/",
       "published": "2026-11-15T16:23:42+00:00",
@@ -31,6 +31,18 @@
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Giants trade reliever Ryan Walker to Brewers for 2 minor-league pitchers",
+      "description": "Walker failed to seize the closer role in 2025 and struggled so much in 2026 that the Giants optioned him to Triple-A Sacramento.",
+      "url": "https://www.nytimes.com/athletic/7785273/2026/11/15/ryan-walker-trade-sf-giants-brewers/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
     },
     {
       "title": "Yankees re-signing Tim Hill in first move to address barren bullpen: sources",
@@ -79,66 +91,6 @@
       "teamAbbreviation": "TB",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "What I'm hearing off the GM meetings: Padres aggressive, Yankees make bullpen priority",
-      "description": "Tarik Skubal's suitors include the Mets and Blue Jays, while Freddy Peralta and Michael King are expected to get significant deals.",
-      "url": "https://www.nytimes.com/athletic/7781841/2026/11/15/mlb-gm-meetings-rumors-padres-yankees-mets/",
-      "published": "2026-11-15T11:00:29+00:00",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "MLB notes: What’s next for Red Sox after Jake Bauers signing?",
-      "description": "The Red Sox made their first big splash of the offseason by signing World Series champion Jake Bauers. Here’s what his arrival means and what could be next for the franchise.",
-      "url": "https://www.bostonherald.com/2026/11/15/mlb-notes-whats-next-for-red-sox-after-jake-bauers-signing/",
-      "published": "2026-11-15T10:30:41+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "L.A.’s Pro Sports Teams Offer Executives a Playbook on AI, Data, Culture and Customer Experience",
-      "description": "What can executives learn from the Lakers, Dodgers, Rams and LAFC? See how L.A.’s pro teams use AI, data, culture and fan experience to win. Read more.",
-      "url": "https://www.latimes.com/b2b/sports/story/2026-11-15/business-lessons-los-angeles-sports-teams",
-      "published": "2026-11-15T10:20:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Today in Chicago History: ‘My name is Dusty, not Messiah’",
-      "description": "2002: The Chicago Cubs hired Dusty Baker to take over as team skipper. The four-year deal was believed to be worth $14 million. At his introduction as the 16th Cubs manager in 20 years, Baker made no ...",
-      "url": "https://www.chicagotribune.com/2026/11/15/november-15-chicago-history/",
-      "published": "2026-11-15T10:00:06+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Some Things I Think I Think: Red Sox offseason off to strong start, but more to be done",
-      "description": "Random thoughts about (mostly) sports topics.",
-      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-offseason-off-to-strong-start-but-more-to-be-done.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
