@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jayson Tatum gave a strong vote of confidence to the youngest player on the Celtics roster Sunday night.",
+        "published": "2026-11-16T10:45:00+00:00",
+        "title": "Jayson Tatum makes eye opening claim about Celtics rookie after Mavericks win",
+        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-makes-bold-prediction-about-celtics-rookie-after-mavericks-win.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Maine native Cooper Flagg saw a difference in the compete level between the Celtics and Mavericks on Sunday.",
         "published": "2026-11-16T04:53:58+00:00",
         "title": "What Cooper Flagg learned from Celtics, who wanted it ‘bad’ Sunday",
@@ -66,17 +73,17 @@
       },
       {
         "category": "Boston Celtics",
-        "description": "The Celtics are soaring at 10-2, fresh off a 4-0 road trip, as they have passed just about every test to open the season.",
-        "published": "2026-11-13T10:00:00+00:00",
-        "title": "How will the Celtics keep Paul George fresh for the playoffs? (Mailbag)",
-        "url": "https://www.masslive.com/celtics/2026/11/how-will-the-celtics-keep-paul-george-fresh-for-the-playoffs-mailbag.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "On the court, George has looked like his All-Star self. The challenge now is keeping him there.",
         "published": "2026-11-13T10:00:00+00:00",
         "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-winning-over-celtics-fans-and-making-brad-stevens-look-good.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "The Celtics are soaring at 10-2, fresh off a 4-0 road trip, as they have passed just about every test to open the season.",
+        "published": "2026-11-13T10:00:00+00:00",
+        "title": "How will the Celtics keep Paul George fresh for the playoffs? (Mailbag)",
+        "url": "https://www.masslive.com/celtics/2026/11/how-will-the-celtics-keep-paul-george-fresh-for-the-playoffs-mailbag.html"
       },
       {
         "category": "Boston Celtics",
@@ -105,16 +112,9 @@
         "published": "2026-11-12T10:00:00+00:00",
         "title": "Celtics make history on road trip, big man comes through (Celtics Notebook)",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-make-history-on-road-trip-big-man-comes-through-celtics-notebook.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics were on the second night of a back-to-back, but that didn't stop them from coming back from a 22-point deficit.",
-        "published": "2026-11-12T03:38:35+00:00",
-        "title": "The most impressive part of Celtics’ 22-point comeback win over Raptors",
-        "url": "https://www.masslive.com/celtics/2026/11/the-most-impressive-part-of-celtics-22-point-comeback-win-over-raptors.html"
       }
     ],
-    "generated_at": "2026-11-16T10:37:30.315101+00:00",
+    "generated_at": "2026-11-16T10:57:39.463327+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
