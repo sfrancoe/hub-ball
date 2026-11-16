@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Red Sox",
+      "description": "The addition of Bauers impacts playing time for Masataka Yoshida and Tristan Casas.",
+      "published": "2026-11-16T14:56:22.341Z",
+      "title": "Making moves: Red Sox, Jake Bauers playing chess, and other observations on the team",
+      "url": "https://www.bostonglobe.com/2026/11/16/sports/jake-bauers-red-sox/"
+    },
+    {
       "category": "Sunday baseball notes",
       "description": "Four days of meetings in Las Vegas wrapped up Thursday.",
       "published": "2026-11-14T14:35:25.734Z",
@@ -104,16 +111,9 @@
       "published": "2026-11-10T13:14:46.186Z",
       "title": "What Craig Breslow thinks Payton Tolle’s breakout season says about the Red Sox’ pipeline",
       "url": "https://www.bostonglobe.com/2026/11/09/sports/red-sox-rotation-payton-tolle/"
-    },
-    {
-      "category": "Red Sox notebook",
-      "description": "Story turns 34 on Sunday and played only 64 games last season, hitting .235 with a .621 OPS.",
-      "published": "2026-11-10T03:04:08.383Z",
-      "title": "Craig Breslow does not commit to Trevor Story as the Red Sox starting shortstop next season",
-      "url": "https://www.bostonglobe.com/2026/11/09/sports/craig-breslow-red-sox-trevor-story-shortstop/"
     }
   ],
-  "generated_at": "2026-11-14T17:16:35.405447+00:00",
+  "generated_at": "2026-11-16T15:51:44.074239+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }
