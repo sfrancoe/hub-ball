@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Celtics center Neemias Queta, whom Joe Mazzulla recently praised for his “under-the-radar” growth this season, got the night off Monday vs. Orlando.",
+        "published": "2026-11-16T22:16:30Z",
+        "title": "Celtics rest ‘under-the-radar’ starter vs. Magic on back-to-back",
+        "url": "https://www.bostonherald.com/2026/11/16/celtics-rest-under-the-radar-starter-vs-magic-on-back-to-back/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Chris Cenac Jr. has yet to play a meaningful NBA minute, but Jayson Tatum believes the Celtics’ first-round draft pick “is really, really going to be good.”",
         "published": "2026-11-16T10:00:57Z",
         "title": "Jayson Tatum sees star potential in Celtics’ first-round rookie",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T03:21:06Z",
         "title": "Celtics breeze into Jaylen Brown showdown with blowout of Bucks",
         "url": "https://www.bostonherald.com/2026/11/08/celtics-breeze-into-jaylen-brown-showdown-with-blowout-of-bucks/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Thanks to a sensational first half by Jayson Tatum, the Celtics breezed to a 39-point NBA Cup win over the slumping Hornets.",
-        "published": "2026-11-07T02:25:36Z",
-        "title": "Jayson Tatum, Celtics scorch Hornets in 39-point NBA Cup rout",
-        "url": "https://www.bostonherald.com/2026/11/06/jayson-tatum-celtics-scorch-hornets-in-39-point-nba-cup-rout/"
       }
     ],
-    "generated_at": "2026-11-16T10:07:18.760157+00:00",
+    "generated_at": "2026-11-16T22:23:14.577265+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
