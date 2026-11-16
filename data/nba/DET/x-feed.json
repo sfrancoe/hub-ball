@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-16T09:37:29.346610+00:00",
+  "generated_at": "2026-11-16T17:47:03.072306+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450655966322840",
   "team_id": "8",
   "sport": "nba",
-  "likes_as_of": "2026-11-16T09:37:29.346610+00:00",
+  "likes_as_of": "2026-11-16T17:47:03.072306+00:00",
   "recent": [
+    {
+      "id": "2122376155303223329",
+      "text": "3-man Fastbreak: Navigating without Duren https://t.co/CsPG8JPOsU",
+      "url": "https://x.com/detroitbadboys/status/2122376155303223329",
+      "published": "2026-11-16T17:08:01+00:00",
+      "likes": 1,
+      "author": "Detroit Bad Boys ☠",
+      "handle": "detroitbadboys",
+      "avatar": "https://pbs.twimg.com/profile_images/1250045629436477440/aqF6Plm2_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2121828227949756704",
       "text": "The Pistons had a lot of the same issues last year when Duren was out tbh. The difference is that he only missed 12 games.",
@@ -208,7 +222,7 @@
       "text": "Halftime: Heat 68, Pistons 60. Outscored 31-21 in the 2nd while shooting just 7-28 overall and 1-10 from 3. Missed a lot of open ones. Only four 2nd chance points with 12 offensive rebounds. Not capitalizing on their opportunities. Cunningham: 16 pts, 6 assts Huerter: 16 pts",
       "url": "https://x.com/omarisankofa/status/2121791001882943567",
       "published": "2026-11-15T02:22:50+00:00",
-      "likes": 7,
+      "likes": 8,
       "author": "Omari Sankofa II",
       "handle": "omarisankofa",
       "avatar": "https://pbs.twimg.com/profile_images/1716521350007865346/ugW0SByW_normal.jpg",
@@ -278,7 +292,7 @@
       "text": "Headband Huerter with a triple on one end. A block on the other. https://t.co/WeVhXOhP5A",
       "url": "https://x.com/DetroitPistons/status/2121781926696792556",
       "published": "2026-11-15T01:46:46+00:00",
-      "likes": 197,
+      "likes": 199,
       "author": "Detroit Pistons",
       "handle": "DetroitPistons",
       "avatar": "https://pbs.twimg.com/profile_images/2059324858203242496/x5FrvZnB_normal.png",
@@ -328,21 +342,22 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2121774244535341227",
-      "text": "Duncan Robinson's layup is good. #Pistons have opened the game, shooting 3-for-3 from the field. They lead the Heat 7-5 with 10:33 left in the first quarter.",
-      "url": "https://x.com/CotyDavis_24/status/2121774244535341227",
-      "published": "2026-11-15T01:16:15+00:00",
-      "likes": 2,
-      "author": "Coty M. Davis",
-      "handle": "CotyDavis_24",
-      "avatar": "https://pbs.twimg.com/profile_images/2103917407488094208/u6_iJNnh_normal.jpg",
+      "id": "2122376155303223329",
+      "text": "3-man Fastbreak: Navigating without Duren https://t.co/CsPG8JPOsU",
+      "url": "https://x.com/detroitbadboys/status/2122376155303223329",
+      "published": "2026-11-16T17:08:01+00:00",
+      "likes": 1,
+      "author": "Detroit Bad Boys ☠",
+      "handle": "detroitbadboys",
+      "avatar": "https://pbs.twimg.com/profile_images/1250045629436477440/aqF6Plm2_normal.jpg",
       "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
