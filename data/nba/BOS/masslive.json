@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jayson Tatum said he knew sometime during training camp his Celtics team was going to be really good once again.",
+        "published": "2026-11-16T11:00:01+00:00",
+        "title": "Jordan Walsh believes he’s ‘best defender,’ Jayson Tatum’s hunch (Celtics Notebook)",
+        "url": "https://www.masslive.com/celtics/2026/11/jordan-walsh-believes-hes-best-defender-jayson-tatums-hunch-celtics-notebook.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jayson Tatum gave a strong vote of confidence to the youngest player on the Celtics roster Sunday night.",
         "published": "2026-11-16T10:45:00+00:00",
         "title": "Jayson Tatum makes eye opening claim about Celtics rookie after Mavericks win",
@@ -105,16 +112,9 @@
         "published": "2026-11-12T12:07:51+00:00",
         "title": "The quiet stat that makes Celtics start look real after Raptors comeback win",
         "url": "https://www.masslive.com/celtics/2026/11/the-quiet-stat-that-makes-celtics-start-look-real-after-raptors-comeback-win.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics are now an East-best 10-2 after sweeping their four-game road trip.",
-        "published": "2026-11-12T10:00:00+00:00",
-        "title": "Celtics make history on road trip, big man comes through (Celtics Notebook)",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-make-history-on-road-trip-big-man-comes-through-celtics-notebook.html"
       }
     ],
-    "generated_at": "2026-11-16T10:57:39.463327+00:00",
+    "generated_at": "2026-11-16T11:07:43.448595+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
