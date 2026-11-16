@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Chris Cenac Jr. has yet to play a meaningful NBA minute, but Jayson Tatum believes the Celtics’ first-round draft pick “is really, really going to be good.”",
+        "published": "2026-11-16T10:00:57Z",
+        "title": "Jayson Tatum sees star potential in Celtics’ first-round rookie",
+        "url": "https://www.bostonherald.com/2026/11/16/jayson-tatum-sees-star-potential-in-celtics-first-round-rookie/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Yes, you read that right: The Celtics outscored the Mavs 42-9 in the first quarter — the widest margin by any team in any quarter since 1987 — en route to a blowout win at TD Garden.",
         "published": "2026-11-16T01:11:21Z",
         "title": "Jayson Tatum, Celtics ride record-setting first quarter to blowout win over Mavericks",
@@ -105,16 +112,9 @@
         "published": "2026-11-07T02:25:36Z",
         "title": "Jayson Tatum, Celtics scorch Hornets in 39-point NBA Cup rout",
         "url": "https://www.bostonherald.com/2026/11/06/jayson-tatum-celtics-scorch-hornets-in-39-point-nba-cup-rout/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Ex-Celtics big man Kristaps Porzingis, who has not played this season, announced he is stepping away from basketball to focus on his health.",
-        "published": "2026-11-06T23:40:02Z",
-        "title": "Ex-Celtic Kristaps Porzingis to ‘step away’ from NBA to prioritize health",
-        "url": "https://www.bostonherald.com/2026/11/06/ex-celtic-kristaps-porzingis-to-step-away-from-nba-to-prioritize-health/"
       }
     ],
-    "generated_at": "2026-11-16T01:14:07.215016+00:00",
+    "generated_at": "2026-11-16T10:07:18.760157+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
