@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics star said Steve Kerr, then the coach for Team USA, told him to \"be patient\" without saying directly that he would be benched.",
+        "published": "2026-11-16T19:19:53+00:00",
+        "title": "Jayson Tatum reveals how he learned he would be benched during the 2024 Olympics",
+        "url": "https://www.nytimes.com/athletic/7787400/2026/11/16/jayson-tatum-olympics-benched-steve-kerr/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Coincidentally, Boston has been arguably the healthiest team in the league, a major reason for the C's early success.",
         "published": "2026-11-16T17:09:22+00:00",
         "title": "NBA Power Rankings: Celtics rise to contenders tier as injuries impact almost every team",
@@ -105,16 +112,9 @@
         "published": "2026-10-30T09:45:41+00:00",
         "title": "Ranking the 30 NBA Cup 2026 court designs, from bottom (sorry, Wizards) to top",
         "url": "https://www.nytimes.com/athletic/7693447/2026/10/30/nba-cup-court-rankings-2026/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "\"I never made a list of ultimatums,\" Brown said, referring to Celtics analyst Brian Scalabrine claiming Brown asked for a trade from Boston.",
-        "published": "2026-10-29T05:45:45+00:00",
-        "title": "Jaylen Brown denies claim he requested trade from Celtics during offseason",
-        "url": "https://www.nytimes.com/athletic/7734609/2026/10/29/jaylen-brown-trade-request-celtics-76ers-rumor-denial/"
       }
     ],
-    "generated_at": "2026-11-16T17:10:01.066358+00:00",
+    "generated_at": "2026-11-16T19:20:54.097651+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
