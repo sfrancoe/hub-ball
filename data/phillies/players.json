@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:38:42.369230+00:00",
+  "generated_at": "2026-11-16T19:54:06.671398+00:00",
   "roster_as_of": "November 2, 2026",
   "team": {
     "id": 143,
@@ -204,7 +204,11 @@
       "debut_team": "Kansas City Royals",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "Bartlett High School"
+          }
+        ]
       },
       "teams": [
         "Kansas City Royals",
@@ -1800,7 +1804,11 @@
       "debut_team": "Philadelphia Phillies",
       "education": {
         "high_schools": [],
-        "colleges": []
+        "colleges": [
+          {
+            "name": "Calvary Christian Academy"
+          }
+        ]
       },
       "teams": [
         "Philadelphia Phillies"

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-15T16:45:15.993032+00:00",
-  "roster_as_of": "November 12, 2026",
+  "generated_at": "2026-11-16T20:00:31.718592+00:00",
+  "roster_as_of": "November 15, 2026",
   "team": {
     "id": 137,
     "name": "San Francisco Giants"
   },
   "roster_type": "open-current-roster",
-  "player_count": 40,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -2131,84 +2131,6 @@
           "complete_games": 0,
           "era": 9.0,
           "whip": 2.2
-        }
-      }
-    },
-    {
-      "id": 676254,
-      "mlb_id": 676254,
-      "wikidata_id": "Q118499336",
-      "slug": "ryan-walker",
-      "name": "Ryan Walker",
-      "full_name": "Ryan Walker",
-      "number": "74",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1995-11-26",
-      "age": 30,
-      "birthplace": "Arlington, Washington, US",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 21, 2023",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q118499336",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Walker_%28baseball%29",
-      "retrosheet_id": "walkr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 193,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 193,
-          "games_started": 14,
-          "wins": 20,
-          "losses": 14,
-          "saves": 28,
-          "innings_outs": 608,
-          "hits": 171,
-          "runs": 76,
-          "earned_runs": 67,
-          "home_runs": 17,
-          "walks": 60,
-          "strikeouts": 237,
-          "hit_batters": 19,
-          "wild_pitches": 6,
-          "balks": 2,
-          "complete_games": 0,
-          "era": 2.98,
-          "whip": 1.14
         }
       }
     },
