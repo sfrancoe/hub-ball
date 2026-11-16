@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:48:04.817927+00:00",
+  "generated_at": "2026-11-16T06:46:33.713400+00:00",
   "source": "X",
   "source_url": "https://x.com/Rockies",
   "recent": [
@@ -18,20 +18,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2121764647120568468",
-      "text": "RT @MLBazFallLeague: Congratulations to @Rockies Jack O’Dowd on being named Breakout Player of the Year! An undrafted free agent who play…",
-      "url": "https://x.com/Rockies/status/2121764647120568468",
-      "published": "2026-11-15T00:38:07+00:00",
-      "likes": 0,
-      "author": "Colorado Rockies",
-      "handle": "Rockies",
-      "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

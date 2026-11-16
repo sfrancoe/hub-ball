@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-15T18:57:32.500320+00:00",
+  "generated_at": "2026-11-16T06:46:33.711635+00:00",
   "source": "X",
   "source_url": "https://x.com/Brewers",
   "recent": [
+    {
+      "id": "2122106127382893035",
+      "text": "We have acquired RHP Ryan Walker from SF in exchange for Minor Leaguers Blake Holub and Gavin Perry Welcome, Ryan! https://t.co/lzVJwofNHj",
+      "url": "https://x.com/Brewers/status/2122106127382893035",
+      "published": "2026-11-15T23:15:02+00:00",
+      "likes": 1912,
+      "author": "Milwaukee Brewers",
+      "handle": "Brewers",
+      "avatar": "https://pbs.twimg.com/profile_images/2115706254546915328/fTKOK4v2_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXM8RpUWYAA8vzv.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2121290408210612228",
       "text": "Bobby Diesel dominated the biggest innings of his life ⛽️ #WonOurWay https://t.co/NsXEnPYMtk",
       "url": "https://x.com/Brewers/status/2121290408210612228",
       "published": "2026-11-13T17:13:39+00:00",
-      "likes": 4189,
+      "likes": 4209,
       "author": "Milwaukee Brewers",
       "handle": "Brewers",
       "avatar": "https://pbs.twimg.com/profile_images/2115706254546915328/fTKOK4v2_normal.jpg",
@@ -18,5 +32,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2122106127382893035",
+      "text": "We have acquired RHP Ryan Walker from SF in exchange for Minor Leaguers Blake Holub and Gavin Perry Welcome, Ryan! https://t.co/lzVJwofNHj",
+      "url": "https://x.com/Brewers/status/2122106127382893035",
+      "published": "2026-11-15T23:15:02+00:00",
+      "likes": 1912,
+      "author": "Milwaukee Brewers",
+      "handle": "Brewers",
+      "avatar": "https://pbs.twimg.com/profile_images/2115706254546915328/fTKOK4v2_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXM8RpUWYAA8vzv.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
