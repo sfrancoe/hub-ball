@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Angels",
-      "description": "The impending sale of the team from Arte Moreno to Stan Kroenke gives executives from other teams reason to believe that the Angels will soon be heading in a better direction.",
-      "published": "2026-11-10T17:35:00+00:00",
-      "title": "Rival executives see Angels on cusp of better days under new ownership",
-      "url": "https://www.ocregister.com/2026/11/10/rival-executives-see-angels-on-cusp-of-better-days-under-new-ownership/"
-    },
-    {
-      "category": "Angels",
       "description": "A 7-time Gold Glove winner, Boone played 7 seasons with the Angels and was part of baseballs first three-generation family.",
       "published": "2026-11-10T16:15:00+00:00",
       "title": "Former Angels catcher Bob Boone dies at 78",
@@ -23,6 +16,13 @@
     },
     {
       "category": "Angels",
+      "description": "As the Angels search for a new head of baseball operations who will chart the course of their rebuild, their interim GM suggests they should not look for quick fixes or rush prospects to the majors.",
+      "published": "2026-11-11T18:35:00+00:00",
+      "title": "John Mozeliak advises patience for Angels’ new regime",
+      "url": "https://www.ocregister.com/2026/11/11/john-mozeliak-advises-patience-for-angels-new-regime/"
+    },
+    {
+      "category": "Angels",
       "description": "Interim GM John Mozeliak says the search for a new head of baseball operations is on hold until Stan Kroenke’s group is approved by the other MLB owners. Although he said that could happen as soon as ...",
       "published": "2026-11-04T03:12:00+00:00",
       "title": "Angels’ GM search still on hold, pending MLB approval of sale",
@@ -30,10 +30,10 @@
     },
     {
       "category": "Angels",
-      "description": "LAS VEGAS — A recurring question that hangs over any rebuilding team is how much they should just let their young players take their lumps in the big leagues, as opposed to letting them marinate for ...",
-      "published": "2026-11-11T18:35:00+00:00",
-      "title": "John Mozeliak advises patience for Angels’ new regime",
-      "url": "https://www.ocregister.com/2026/11/11/john-mozeliak-advises-patience-for-angels-new-regime/"
+      "description": "LAS VEGAS — Jerry Dipoto knows better than most people what the situation under Angels ownership has been like over the past couple of decades. Dipoto was the Angels’ general manager from 2011 to 2015 ...",
+      "published": "2026-11-10T17:35:00+00:00",
+      "title": "Rival executives see Angels on cusp of better days under new ownership",
+      "url": "https://www.ocregister.com/2026/11/10/rival-executives-see-angels-on-cusp-of-better-days-under-new-ownership/"
     },
     {
       "category": "Angels",
@@ -43,7 +43,7 @@
       "url": "https://www.ocregister.com/2026/11/02/former-angels-manager-joe-maddon-on-hall-of-fame-ballot/"
     }
   ],
-  "generated_at": "2026-11-15T20:21:23.026439+00:00",
+  "generated_at": "2026-11-16T00:05:27.719130+00:00",
   "source": "OC Register",
   "source_url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
 }

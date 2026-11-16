@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Royals",
-      "description": "Clara Luvanga's 56th-minute goal completed a turnaround and carried the host Washington Spirit to a 2-1 victory over Utah Royals FC in the NWSL playoff semifinals Saturday in Washington.",
-      "published": "2026-11-14T11:47:00+00:00",
-      "title": "Washington advances to NWSL final with comeback win over Utah",
-      "url": "https://www.kansascity.com/sports/soccer/article318084889.html"
-    },
-    {
-      "category": "Royals",
       "description": "Elevate will help lead plans for corporate partnerships, premium seating, naming rights, food and beverage plans and more.",
       "published": "2026-11-13T07:42:00+00:00",
       "title": "For new stadium, Royals partner with company on seating, naming rights, food & more",
       "url": "https://www.kansascity.com/news/local/article318066314.html"
+    },
+    {
+      "category": "Royals",
+      "description": "Clara Luvanga's 56th-minute goal completed a turnaround and carried the host Washington Spirit to a 2-1 victory over Utah Royals FC in the NWSL playoff semifinals Saturday in Washington.",
+      "published": "2026-11-14T11:47:00+00:00",
+      "title": "Washington advances to NWSL final with comeback win over Utah",
+      "url": "https://www.kansascity.com/sports/soccer/article318084889.html"
     },
     {
       "category": "Royals",
@@ -64,7 +64,7 @@
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article318035424.html"
     }
   ],
-  "generated_at": "2026-11-15T20:21:21.772547+00:00",
+  "generated_at": "2026-11-16T00:05:25.818831+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

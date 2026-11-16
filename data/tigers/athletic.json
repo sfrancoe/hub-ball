@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Senior quarterback Christopher Vizzina is also out with a concussion, leaving the Tigers with few good options.",
+      "published": "2026-11-15T13:25:00+00:00",
+      "title": "Clemson quarterback Tait Reynolds out for season following meniscus tear",
+      "url": "https://www.nytimes.com/athletic/7784798/2026/11/15/clemson-quarterback-tait-reynolds-meniscus-tear/"
+    },
+    {
+      "category": "Tigers",
       "description": "The Tigers are seeking leverage relievers and will likely add at least one starter. But how will they address their offense?",
       "published": "2026-11-10T17:56:00+00:00",
       "title": "Scott Harris sets edict for Tigers offseason: ‘Pitching is going to be the focus’",
@@ -20,16 +27,9 @@
       "published": "2026-11-02T15:50:00+00:00",
       "title": "Tigers decline option for Kenley Jansen, bring back Drew Anderson",
       "url": "https://www.nytimes.com/athletic/7748625/2026/11/02/tigers-kenley-jansen-drew-anderson-mlb-offseason/"
-    },
-    {
-      "category": "Tigers",
-      "description": "On Monday night, McGonigle was named American League rookie of the year, earning 28 of 30 possible first-place votes.",
-      "published": "2026-11-10T03:00:00+00:00",
-      "title": "What fueled Kevin McGonigle’s rookie of the year season? Ask those who watched his rise",
-      "url": "https://www.nytimes.com/athletic/7769157/2026/11/10/kevin-mcgonigle-tigers-rookie-of-the-year/"
     }
   ],
-  "generated_at": "2026-11-15T20:21:21.590721+00:00",
+  "generated_at": "2026-11-16T00:05:25.514003+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/tigers/"
 }
