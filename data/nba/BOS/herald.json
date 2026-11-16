@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Yes, you read that right: The Celtics outscored the Mavs 42-9 in the first quarter — the widest margin by any team in any quarter since 1987 — en route to a blowout win at TD Garden.",
+        "published": "2026-11-16T01:11:21Z",
+        "title": "Jayson Tatum, Celtics ride record-setting first quarter to blowout win over Mavericks",
+        "url": "https://www.bostonherald.com/2026/11/15/jayson-tatum-celtics-ride-record-setting-first-quarter-to-blowout-win-over-mavericks/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "“Obviously, being from this area, people out here love him. … So it’s been cool to see his quick progression in the league and how good he’s become already.”",
         "published": "2026-11-15T23:01:32Z",
         "title": "Celtics notebook: Maine’s Cooper Flagg ‘better in every area’ in Year 2 with Mavs",
@@ -105,16 +112,9 @@
         "published": "2026-11-06T23:40:02Z",
         "title": "Ex-Celtic Kristaps Porzingis to ‘step away’ from NBA to prioritize health",
         "url": "https://www.bostonherald.com/2026/11/06/ex-celtic-kristaps-porzingis-to-step-away-from-nba-to-prioritize-health/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics assigned their first-round draft pick to the G League. Here’s what they hope to see from the 19-year-old big man in Maine.",
-        "published": "2026-11-05T21:02:27Z",
-        "title": "What Celtics want to see from first-round draft pick in G League assignment",
-        "url": "https://www.bostonherald.com/2026/11/05/what-celtics-want-to-see-from-first-round-draft-pick-in-g-league-assignment/"
       }
     ],
-    "generated_at": "2026-11-15T23:03:44.311787+00:00",
+    "generated_at": "2026-11-16T01:14:07.215016+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
