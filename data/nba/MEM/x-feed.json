@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T17:51:37.391339+00:00",
+  "generated_at": "2026-11-16T08:06:12.625579+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450835151142983",
   "team_id": "29",
   "sport": "nba",
-  "likes_as_of": "2026-11-15T17:51:37.391339+00:00",
+  "likes_as_of": "2026-11-16T08:06:12.625579+00:00",
   "recent": [
     {
       "id": "2121807913408749627",
@@ -54,7 +54,7 @@
       "text": "After losing by 31 in the first NBA Cup game, the Grizzlies won by 31 in their second matchup. Final: Grizzlies 142, Pelicans 111 Jerami Grant led the way with 22 points The Grizzlies are 6-0 on the road. Memphis at home vs Brooklyn next https://t.co/qzPqHwnQMN",
       "url": "https://x.com/DamichaelC/status/2121448703873695835",
       "published": "2026-11-14T03:42:40+00:00",
-      "likes": 50,
+      "likes": 51,
       "author": "Damichael Cole",
       "handle": "DamichaelC",
       "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
@@ -82,7 +82,7 @@
       "text": "He’s been so impressive this season. Still a lot of growth left in there, but the strides have been noticeable",
       "url": "https://x.com/DamichaelC/status/2121430171379212582",
       "published": "2026-11-14T02:29:01+00:00",
-      "likes": 155,
+      "likes": 158,
       "author": "Damichael Cole",
       "handle": "DamichaelC",
       "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
@@ -176,48 +176,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2121807913408749627",
-      "text": "Grizzlies Live Post Game Show| Memphis Grizzlies vs Brooklyn Nets| November 14, 2026 https://t.co/yQLd9WvOBM",
-      "url": "https://x.com/bcmGrizzlies/status/2121807913408749627",
-      "published": "2026-11-15T03:30:02+00:00",
-      "likes": 5,
-      "author": "Bluff City Media",
-      "handle": "bcmGrizzlies",
-      "avatar": "https://pbs.twimg.com/profile_images/1633692801463459840/bPTc_4Tw_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2121728151743328293",
-      "text": "RT @RyanMyers_23: Grizzlies fans, I'll be filling in for @DamichaelC tonight as the Grizzlies host the Brooklyn Nets on the second night of…",
-      "url": "https://x.com/DamichaelC/status/2121728151743328293",
-      "published": "2026-11-14T22:13:05+00:00",
-      "likes": 0,
-      "author": "Damichael Cole",
-      "handle": "DamichaelC",
-      "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2121690013834605040",
-      "text": "RT @FedExForum: 🏀 Big Memphis Saturday Night Hoops @memgrizz 🆚 @BrooklynNets 🕖 7:00pm 🎟️ https://t.co/lqKqkq4tSw 🎁 Arrive Early‼️ 1st 3K…",
-      "url": "https://x.com/memgrizz/status/2121690013834605040",
-      "published": "2026-11-14T19:41:33+00:00",
-      "likes": 0,
-      "author": "Memphis Grizzlies",
-      "handle": "memgrizz",
-      "avatar": "https://pbs.twimg.com/profile_images/2099960573207117824/gqvyqO_f_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
