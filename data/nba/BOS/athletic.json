@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Coincidentally, Boston has been arguably the healthiest team in the league, a major reason for the C's early success.",
+        "published": "2026-11-16T17:09:22+00:00",
+        "title": "NBA Power Rankings: Celtics rise to contenders tier as injuries impact almost every team",
+        "url": "https://www.nytimes.com/athletic/7786874/2026/11/16/nba-power-rankings-celtics-lakers-sixers-injuries/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Small sample sizes are getting larger. These are the biggest shocks across the league — good, bad or ugly",
         "published": "2026-11-13T10:07:57+00:00",
         "title": "Every NBA team’s biggest surprise so far in the 2026-27 season",
@@ -105,16 +112,9 @@
         "published": "2026-10-29T05:45:45+00:00",
         "title": "Jaylen Brown denies claim he requested trade from Celtics during offseason",
         "url": "https://www.nytimes.com/athletic/7734609/2026/10/29/jaylen-brown-trade-request-celtics-76ers-rumor-denial/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Tatum scored 40 points Tuesday night, none more important than the last two, in a Celtics overtime win over Brooklyn.",
-        "published": "2026-10-28T10:11:25+00:00",
-        "title": "Jayson Tatum's gratitude and joy shine through after game winner for the Celtics",
-        "url": "https://www.nytimes.com/athletic/7731701/2026/10/28/celtics-jayson-tatum-game-winner-nets/"
       }
     ],
-    "generated_at": "2026-11-13T10:09:18.865291+00:00",
+    "generated_at": "2026-11-16T17:10:01.066358+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
