@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Though there is some uncertainty about the 2027 season, the team is putting single-game tickets on sale this week.",
+      "published": "2026-11-16T19:40:20+00:00",
+      "title": "Rays again offering $10 tickets for every game, adjust some game times",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/16/single-game-ticket-sales-game-times-junior-caminero-chandler-simpson-silver-slugger-awards-rule-5-draft/"
+    },
+    {
+      "category": "Rays",
       "description": "Tales | The baseball operations boss sees parallels between where his team is now and where the World Series champions were a year ago.",
       "published": "2026-11-15T13:00:00+00:00",
       "title": "Erik Neander’s vision for 2027 Rays is to be more like 2026 Brewers",
@@ -127,7 +134,7 @@
       "url": "https://www.tampabay.com/sports/rays/2026/10/30/nick-martinez-cedric-mullins-mlb-free-agency/"
     }
   ],
-  "generated_at": "2026-11-15T15:06:39.399190+00:00",
+  "generated_at": "2026-11-16T23:54:54.228679+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

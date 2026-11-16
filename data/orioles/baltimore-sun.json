@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "The 2027 Orioles promotional schedule features City Connect apparel, hot dog race bobbleheads and Hawaiian shirt giveaways, pending an MLB lockout.",
+      "published": "2026-11-16T08:35:00+00:00",
+      "title": "Orioles announce 2027 promotional schedule amid lockout uncertainty",
+      "url": "https://www.baltimoresun.com/2026/11/16/orioles-announce-2027-promotional-schedule-amid-lockout-uncertainty/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Former Orioles pitchers Jake Arrieta and Andrew Miller are set to appear on the Baseball Hall of Fame ballot for the first time this year.",
+      "published": "2026-11-16T11:04:00+00:00",
+      "title": "2 former Orioles to debut on 2027 Baseball Hall of Fame ballot",
+      "url": "https://www.baltimoresun.com/2026/11/16/orioles-2027-baseball-hall-of-fame-ballot-jake-arrieta-andrew-miller/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles made one of the biggest moves of last offseason. Will they do the same this winter? Baltimore’s five-year, $155 million deal with Pete Alonso gave the Orioles the big bat — and leader — ...",
       "published": "2026-11-10T04:01:00+00:00",
       "title": "Orioles free agency: 20 hitters who could fit in Baltimore",
@@ -30,7 +44,14 @@
     },
     {
       "category": "Orioles",
-      "description": "The Orioles have plenty of needs to address this offseason. With a new GM and the lockout looming, how aggressive will they be?",
+      "description": "The deadline to protect prospects from the Rule 5 draft is Tuesday. Here are the prospects the Orioles could add to their 40-man roster.",
+      "published": "2026-11-16T13:22:00+00:00",
+      "title": "13 Orioles prospects facing key deadline decision by Mike Elias",
+      "url": "https://www.baltimoresun.com/2026/11/16/orioles-prospects-key-deadline-decision-mike-elias/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles find themselves in a similar spot to where they were a year ago. Coming off a disappointing season, the club is examining the roster holes that held it back and looking for ways to ...",
       "published": "2026-11-04T11:39:00+00:00",
       "title": "5 biggest offseason questions facing the Orioles as free agency begins",
       "url": "https://www.baltimoresun.com/2026/11/04/orioles-biggest-offseason-questions/"
@@ -48,16 +69,9 @@
       "published": "2026-11-05T04:00:00+00:00",
       "title": "Orioles roster projection: Where things stand as free agency begins",
       "url": "https://www.baltimoresun.com/2026/11/05/orioles-roster-projection-free-agency/"
-    },
-    {
-      "category": "Orioles",
-      "description": "MLB’s offseason is officially underway, and one of the Orioles’ first decisions was to part ways with one of their longest-tenured players.",
-      "published": "2026-11-02T11:24:00+00:00",
-      "title": "Orioles decline Ryan Mountcastle’s $7.5M team option, making him free agent",
-      "url": "https://www.baltimoresun.com/2026/11/02/orioles-ryan-mountcastle-option-declined/"
     }
   ],
-  "generated_at": "2026-11-16T15:52:01.116672+00:00",
+  "generated_at": "2026-11-16T23:54:55.722121+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

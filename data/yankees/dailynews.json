@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Brett Gardner, a member of the Yankees’ 2009 championship team and one of the most...",
+      "published": "2026-11-16T19:18:37+00:00",
+      "title": "Yankees’ Brett Gardner among the first-time candidates on 2027 Hall of Fame ballot",
+      "url": "https://www.nydailynews.com/2026/11/16/yankees-brett-gardner-2027-hall-of-fame-ballot-buster-poster-jon-lester/"
+    },
+    {
+      "category": "Yankees",
       "description": "While the Yankees’ biggest concerns are in the infield and bullpen, they also have a...",
       "published": "2026-11-16T15:20:13+00:00",
       "title": "Yankees feel Spencer Jones ‘profiles better’ as corner OF amid interest from other teams",
@@ -132,16 +139,9 @@
       "published": "2026-11-05T01:28:15+00:00",
       "title": "Yankees’ longtime Triple-A manager joining Red Sox: source",
       "url": "https://www.nydailynews.com/2026/11/04/yankees-longtime-triple-a-manager-joining-red-sox-source/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Republicans were routed in Tuesday's midterm elections, but at least they'll have a ringer for...",
-      "published": "2026-11-04T16:08:57+00:00",
-      "title": "Former Yankee Mark Teixeira wins U.S. House seat in Texas despite GOP bloodbath",
-      "url": "https://www.nydailynews.com/2026/11/04/yankees-mark-teixeira-wins-house-seat-texas-republican/"
     }
   ],
-  "generated_at": "2026-11-16T15:51:47.133384+00:00",
+  "generated_at": "2026-11-16T23:54:43.848319+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

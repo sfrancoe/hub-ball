@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Diamondbacks",
+      "description": "Outfielder Jordan Lawlar underwent an internal brace procedure to repair a torn ligament in his right elbow, an injury that could cost him time early next season. The surgery, first reported by ...",
+      "published": "2026-11-16T03:41:00+00:00",
+      "title": "Diamondbacks' Jordan Lawlar undergoes surgery on right elbow",
+      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/16/diamondbacks-jordan-lawlar-undergoes-surgery-corbin-carroll/92811926007/"
+    },
+    {
+      "category": "Diamondbacks",
       "description": "The Diamondbacks explored a trade of Ketel Marte a year ago, hyperfocused on starting pitching. Nothing's changed.",
       "published": "2026-11-10T11:29:00+00:00",
       "title": "Diamondbacks GM talks Ketel Marte trade, Arenado position switch",
       "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/10/diamondbacks-mike-hazen-on-ketel-marte-trade-talks-arenado/92717625007/"
-    },
-    {
-      "category": "Diamondbacks",
-      "description": "Sato, a left-handed power hitter, won the Central League's Triple Crown in Japan last season. Acquiring Sato would likely require a significant contract, potentially over $100 million. LAS VEGAS — The ...",
-      "published": "2026-11-11T21:04:00+00:00",
-      "title": "Diamondbacks mull Marte trade, target a run at Japanese star slugger",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/12/arizona-diamondbacks-offseason-mlb-ketel-marte-japanese-slugger-teruaki-sato/92734132007/"
     },
     {
       "category": "Diamondbacks",
@@ -23,10 +23,17 @@
     },
     {
       "category": "Diamondbacks",
-      "description": "Baseball officials widely expect the Arizona Diamondbacks to trade second baseman Ketel Marte this offseason. A potential trade is difficult due to his large contract, a recent subpar season and his ...",
+      "description": "Rival officials arrived at the GM meetings with a mix of curiosity and certainty about what the Diamondbacks will do about Ketel Marte.",
       "published": "2026-11-10T03:48:00+00:00",
       "title": "Experts help clarify Diamondbacks' position in a Ketel Marte trade",
       "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/10/ketel-marte-trade-arizona-diamondbacks-gm-meetings-las-vegas/92709094007/"
+    },
+    {
+      "category": "Diamondbacks",
+      "description": "The Arizona Diamondbacks, looking for a left-handed bat to balance their lineup, aim to pursue Japanese star Teruaki Sato.",
+      "published": "2026-11-11T21:04:00+00:00",
+      "title": "Diamondbacks mull Marte trade, target a run at Japanese star slugger",
+      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/12/arizona-diamondbacks-offseason-mlb-ketel-marte-japanese-slugger-teruaki-sato/92734132007/"
     },
     {
       "category": "Diamondbacks",
@@ -43,7 +50,7 @@
       "url": "https://www.azcentral.com/story/sports/mlb/2026/11/08/arizona-represented-at-mlb-girls-baseball-series-in-florida/92675154007/"
     }
   ],
-  "generated_at": "2026-11-16T15:52:10.556575+00:00",
+  "generated_at": "2026-11-16T23:55:05.742810+00:00",
   "source": "Arizona Republic",
   "source_url": "https://www.azcentral.com/sports/diamondbacks/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Dustin Pedroia, Jon Lester, Andrew Miller, and Pablo Sandoval are among 27 players on the latest Hall of Fame ballot, with voting due Dec. 31.",
+      "published": "2026-11-16T18:39:54+00:00",
+      "title": "From World Series rings to Cooperstown dreams: Four players with Red Sox ties make Hall of Fame ballot",
+      "url": "https://www.masslive.com/redsox/2026/11/four-players-with-red-sox-ties-included-on-latest-hall-of-fame-ballot.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Random thoughts about (mostly) sports topics.",
       "published": "2026-11-15T10:00:00+00:00",
       "title": "Some Things I Think I Think: Red Sox offseason off to strong start, but more to be done",
@@ -104,16 +111,9 @@
       "published": "2026-11-11T16:30:33+00:00",
       "title": "Why Curtis Mead could be Red Sox' X-factor in 2027",
       "url": "https://www.masslive.com/redsox/2026/11/could-curtis-mead-be-red-sox-x-factor-in-27-the-changes-he-made-were-real-says-exec-who-traded-him.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "There's still time to get your questions in! Drop them in the comments or send them to fenwayinsider@masslive.com",
-      "published": "2026-11-11T15:00:00+00:00",
-      "title": "Fenway Insider Live: Sean McAdam on latest from GM Meetings, more",
-      "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-live-sean-mcadam-on-latest-from-gm-meetings-more.html"
     }
   ],
-  "generated_at": "2026-11-15T15:06:27.904269+00:00",
+  "generated_at": "2026-11-16T23:54:43.153005+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Most of the newcomers won’t remain on the ballot beyond 2027, but each of them left their imprint on the game.",
+      "published": "2026-11-16T17:06:09+00:00",
+      "title": "Saluting the 14 newcomers to the Baseball Hall of Fame ballot, from Arrieta to Zimmerman",
+      "url": "https://www.nytimes.com/athletic/7786480/2026/11/16/baseball-hall-of-fame-ballot-2027-first-year-players/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Tarik Skubal's suitors include the Mets and Blue Jays, while Freddy Peralta and Michael King are expected to get significant deals.",
       "published": "2026-11-15T11:00:29+00:00",
       "title": "What I'm hearing off the GM meetings: Padres aggressive, Yankees make bullpen priority",
@@ -104,16 +111,9 @@
       "published": "2026-10-29T20:02:37+00:00",
       "title": "In first trade of MLB offseason, Red Sox deal Nate Eaton to Athletics",
       "url": "https://www.nytimes.com/athletic/7736443/2026/10/29/nate-eaton-red-sox-athletics-trade/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Will MLB lose games in 2027? How far apart are the league and the union? And what are they actually fighting over?",
-      "published": "2026-10-29T09:37:41+00:00",
-      "title": "Your guide to MLB's coming lockout: Why it's happening, whether games will be lost, and when baseball will be back",
-      "url": "https://www.nytimes.com/athletic/7731128/2026/10/29/mlb-lockout-guide-league-union-labor-questions-answered/"
     }
   ],
-  "generated_at": "2026-11-15T15:06:27.222352+00:00",
+  "generated_at": "2026-11-16T23:54:42.363576+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }
