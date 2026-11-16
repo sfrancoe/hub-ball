@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics built one of the biggest leads in NBA history at the end of the first quarter against the Mavericks.",
+        "published": "2026-11-16T00:50:53+00:00",
+        "title": "Celtics put together historic first quarter vs. Mavericks",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-put-together-historic-first-quarter-vs-mavericks.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Maine native Cooper Flagg will play against the Celtics at TD Garden on Sunday.",
         "published": "2026-11-15T22:49:43+00:00",
         "title": "Cooper Flagg vs. Celtics: What ‘fascinates’ Mavs coach about local star",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T11:00:00+00:00",
         "title": "Celtics trade addition creating intriguing conundrum after win over 76ers",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-trade-addition-creating-intriguing-conundrum-after-win-over-76ers.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Despite weeks of pointed comments from Jaylen Brown, Jayson Tatum let his play do the talking for Celtics.",
-        "published": "2026-11-11T10:05:00+00:00",
-        "title": "With basketball world watching, Jayson Tatum rises to the moment | Matt Vautour",
-        "url": "https://www.masslive.com/celtics/2026/11/jason-tatum-rises-to-the-moment-in-celtics-statement-win-over-sixers-and-jaylen-brown.html"
       }
     ],
-    "generated_at": "2026-11-16T00:13:44.070859+00:00",
+    "generated_at": "2026-11-16T01:04:01.391959+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
