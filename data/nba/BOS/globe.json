@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Celtics 131, Mavericks 94",
+        "description": "Flagg missed his first three shots and was held to 17 points, while Jayson Tatum led Boston with 32 points.",
+        "published": "2026-11-16T01:16:09.494Z",
+        "title": "Maine native Cooper Flagg was little help as the Celtics put on a defensive show in routing the Mavericks",
+        "url": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-cooper-flagg/"
+      },
+      {
         "category": "mavericks at celtics | 6 p.m. (NBCSB)",
         "description": "The Celtics are coming off a victory Friday in Toronto and play their first home game following a 4-0 road trip.",
         "published": "2026-11-15T13:24:38.394Z",
@@ -100,13 +107,6 @@
         "url": "https://www.bostonglobe.com/2026/11/09/sports/marcus-smart-houston-rockets/"
       },
       {
-        "category": "celtics",
-        "description": "Tuesday marks the first game for the pair as opponents. Sources around the Celtics detail how the two stars' paths diverged.",
-        "published": "2026-11-09T13:05:44.456Z",
-        "title": "Inside the final days of Jaylen Brown and Jayson Tatum’s tenure as Celtics teammates",
-        "url": "https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/"
-      },
-      {
         "category": "Celtics",
         "description": "We know serious Celtics fans don’t want to miss a beat. Now, you don’t have to.",
         "published": "2024-10-17T15:28:56.377Z",
@@ -114,7 +114,7 @@
         "url": "https://www.bostonglobe.com/2023/04/04/sports/boston-globe-celtics-newsletter/"
       }
     ],
-    "generated_at": "2026-11-15T13:30:03.040836+00:00",
+    "generated_at": "2026-11-16T01:24:11.274322+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },

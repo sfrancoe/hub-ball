@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics outscored the Mavericks 42-9 after the first quarter, which set a new franchise record.",
+        "published": "2026-11-16T01:10:20+00:00",
+        "title": "4 takeaways as Celtics dominate Mavericks, set new franchise record",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-dominate-mavericks-set-new-franchise-record.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics built one of the biggest leads in NBA history at the end of the first quarter against the Mavericks.",
         "published": "2026-11-16T00:50:53+00:00",
         "title": "Celtics put together historic first quarter vs. Mavericks",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T16:15:00+00:00",
         "title": "Experts release Celtics vs. Raptors prediction as Tatum and George headline latest player props",
         "url": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-raptors-prediction-as-tatum-and-george-headline-latest-player-props.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Paul George is already looking to be a better fit than anticipated with the Celtics.",
-        "published": "2026-11-11T11:00:00+00:00",
-        "title": "Celtics trade addition creating intriguing conundrum after win over 76ers",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-trade-addition-creating-intriguing-conundrum-after-win-over-76ers.html"
       }
     ],
-    "generated_at": "2026-11-16T01:04:01.391959+00:00",
+    "generated_at": "2026-11-16T01:24:12.397982+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
