@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jayson Tatum turned heads Sunday when he said Celtics rookie Chris Cenac Jr. “is really, really going to be good.” Less than 24 hours later, Cenac had a chance to show off that potential.",
+        "published": "2026-11-17T14:21:36Z",
+        "title": "Celtics rookie earns praise after first taste of rotation minutes",
+        "url": "https://www.bostonherald.com/2026/11/17/celtics-rookie-earns-praise-after-first-taste-of-rotation-minutes/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics scored just 41 points in the first half, then allowed 40 in the fourth quarter as the Magic snapped Boston’s six-game win streak.",
         "published": "2026-11-17T02:39:32Z",
         "title": "Celtics start slow, falter in fourth vs. Magic as six-game win streak ends",
@@ -105,16 +112,9 @@
         "published": "2026-11-10T10:00:05Z",
         "title": "Jaylen Brown vs. Jayson Tatum more than ‘another game’ as Celtics-76ers clash",
         "url": "https://www.bostonherald.com/2026/11/10/try-as-he-might-jayson-tatum-cant-downplay-intrigue-of-jaylen-brown-matchup/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jaylen Brown, Jayson Tatum and Paul George shared their expectations for Tuesday’s Celtics-76ers showdown.",
-        "published": "2026-11-09T04:58:26Z",
-        "title": "What Jaylen Brown, Jayson Tatum expect from Celtics-76ers matchup",
-        "url": "https://www.bostonherald.com/2026/11/08/what-jaylen-brown-jayson-tatum-expect-from-celtics-76ers-matchup/"
       }
     ],
-    "generated_at": "2026-11-17T02:45:01.989184+00:00",
+    "generated_at": "2026-11-17T14:31:05.991002+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
