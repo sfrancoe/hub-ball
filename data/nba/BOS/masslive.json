@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Paul George played in his second back-to-back of the season, and so far, the health has continued to remain strong.",
+        "published": "2026-11-17T11:00:00+00:00",
+        "title": "Paul George delivers good news, Jayson Tatum injury update (Celtics Notebook)",
+        "url": "https://www.masslive.com/celtics/2026/11/paul-george-delivers-good-news-jayson-tatum-injury-update-celtics-notebook.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Chris Cenac Jr. showed a glimpse of his potential in his minutes against the Magic on Monday night.",
         "published": "2026-11-17T10:45:00+00:00",
         "title": "Celtics rookie gets unexpected opportunity in Magic win: ‘He stepped up’",
@@ -105,16 +112,9 @@
         "published": "2026-11-15T10:00:00+00:00",
         "title": "Some Things I Think I Think: Red Sox offseason off to strong start, but more to be done",
         "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-offseason-off-to-strong-start-but-more-to-be-done.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Cooper Flagg is back in Boston, and this time, he should be the main storyline.",
-        "published": "2026-11-14T17:30:30+00:00",
-        "title": "Cooper Flagg’s Boston return, ground stop impacts NBA game (Celtics Notebook)",
-        "url": "https://www.masslive.com/celtics/2026/11/cooper-flaggs-boston-return-ground-stop-impacts-nba-game-celtics-notebook.html"
       }
     ],
-    "generated_at": "2026-11-17T10:48:42.559012+00:00",
+    "generated_at": "2026-11-17T11:10:04.010946+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
