@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "MLB",
+      "description": "Meyer, the interim executive director of the MLBPA, touched on the league's insistence on implementing a salary cap, revenue sharing, and more. A lockout would begin Dec. 2.",
+      "published": "2026-11-17T22:45:18.729Z",
+      "title": "As lockout looms, union head Bruce Meyer says of MLB: ‘They’re talking out of both sides of their mouth.’",
+      "url": "https://www.bostonglobe.com/2026/11/17/sports/mlb-owners-mlbpa-bruce-meyer-cba/"
+    },
+    {
       "category": "Baseball",
       "description": "The most notable — and historically interesting — addition is former Giants catcher Buster Posey.",
       "published": "2026-11-16T21:31:56.902Z",
@@ -104,16 +111,9 @@
       "published": "2026-11-11T02:19:16.32Z",
       "title": "Red Sox system thinned by big trade swings could limit Craig Breslow this winter",
       "url": "https://www.bostonglobe.com/2026/11/10/sports/red-sox-craig-breslow-roster-moves/"
-    },
-    {
-      "category": "MLB",
-      "description": "The 25-year-old righthander would be the first Cy Young winner from Massachusetts since first-ballot Hall of Famer Tom Glavine of Billerica in 1998.",
-      "published": "2026-11-10T13:59:15.707Z",
-      "title": "From Walpole to Northeastern to a likely Cy Young winner, Yankees’ Cam Schlittler keeps getting better",
-      "url": "https://www.bostonglobe.com/2026/11/10/sports/cam-schlittler-yankees-cy-young-northeastern/"
     }
   ],
-  "generated_at": "2026-11-17T15:11:01.426500+00:00",
+  "generated_at": "2026-11-17T22:53:50.928587+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The Mets have officially entered the Tarik Skubal arms race.",
+      "published": "2026-11-17T21:35:53+00:00",
+      "title": "Mets meet with Tarik Skubal, MLB’s top free agent: report",
+      "url": "https://www.nydailynews.com/2026/11/17/mets-meet-tarik-skubal-mlb-free-agency/"
+    },
+    {
+      "category": "Mets",
       "description": "With the clock tick-tick-ticking away toward the Dec. 1 owners lockout and the collective bargaining...",
       "published": "2026-11-14T15:57:47+00:00",
       "title": "Bill Madden: Cohen, Mets can’t afford to get bamboozled by Boras on Tarik Skubal",
@@ -132,16 +139,9 @@
       "published": "2026-09-29T01:57:14+00:00",
       "title": "David Stearns takes responsibility for disastrous Mets season",
       "url": "https://www.nydailynews.com/2026/09/28/david-stearns-responsibility-mets/"
-    },
-    {
-      "category": "Mets",
-      "description": "Lindor hit his 300th career home run in the second inning off left-hander DJ Herz,...",
-      "published": "2026-09-27T23:34:48+00:00",
-      "title": "Francisco Lindor hits homer No. 300 in Mets loss to Nationals",
-      "url": "https://www.nydailynews.com/2026/09/27/francisco-lindor-hits-homer-no-300-in-mets-loss-to-nationals/"
     }
   ],
-  "generated_at": "2026-11-14T17:16:41.162809+00:00",
+  "generated_at": "2026-11-17T22:54:02.507099+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

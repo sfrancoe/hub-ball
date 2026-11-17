@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Rodriguez is happy he ended up with an ownership stake in the Minnesota Timberwolves instead.",
+      "published": "2026-11-17T22:35:51+00:00",
+      "title": "Alex Rodriguez says ‘I thank God every day’ that his bid to buy the Mets failed",
+      "url": "https://www.nytimes.com/athletic/7790546/2026/11/17/alex-rodriguez-mets-bid/"
+    },
+    {
+      "category": "Mets",
+      "description": "Skubal, a two-time Cy Young Award winner, is the top available free agent this offseason.",
+      "published": "2026-11-17T18:38:28+00:00",
+      "title": "Tarik Skubal had meeting with Mets as his free agency heats up: Sources",
+      "url": "https://www.nytimes.com/athletic/7789948/2026/11/17/tarik-skubal-mets-meeting/"
+    },
+    {
+      "category": "Mets",
       "description": "Tarik Skubal's suitors include the Mets and Blue Jays, while Freddy Peralta and Michael King are expected to get significant deals.",
       "published": "2026-11-15T11:00:29+00:00",
       "title": "What I'm hearing off the GM meetings: Padres aggressive, Yankees make bullpen priority",
@@ -125,23 +139,9 @@
       "published": "2026-10-08T09:22:10+00:00",
       "title": "Mets offseason payroll breakdown: Where does New York stand before transformative winter?",
       "url": "https://www.nytimes.com/athletic/7669046/2026/10/08/new-york-mets-payroll-breakdown-salary/"
-    },
-    {
-      "category": "Mets",
-      "description": "Three members of the Mets' coaching staff won't return to their roles in 2027 but the rest of the group is expected to be back next season.",
-      "published": "2026-10-06T20:39:23+00:00",
-      "title": "Mets make changes to MLB coaching staff; Jeff Albert among those who won't return",
-      "url": "https://www.nytimes.com/athletic/7666592/2026/10/06/mets-coaching-changes-jeff-albert-danny-barnes-kevin-mahoney/"
-    },
-    {
-      "category": "Mets",
-      "description": "How Peralta reclaimed his mojo as “Fastball Freddy” began with one pitch during his poor Rays debut — but his turnaround involves much more.",
-      "published": "2026-10-05T09:40:47+00:00",
-      "title": "Inside Freddy Peralta's revival with Rays, from Mets disappointment to playoff starter",
-      "url": "https://www.nytimes.com/athletic/7661024/2026/10/05/freddy-peralta-rays-revival-alds-playoffs/"
     }
   ],
-  "generated_at": "2026-11-15T15:06:38.817774+00:00",
+  "generated_at": "2026-11-17T22:54:07.503268+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

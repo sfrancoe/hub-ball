@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Bednar is now the highest-paid reliever by average annual value (AAV) in MLB after accepting the $23.15 million qualifying offer.",
+      "published": "2026-11-17T21:26:58+00:00",
+      "title": "David Bednar to remain with Yankees after accepting qualifying offer: Sources",
+      "url": "https://www.nytimes.com/athletic/7789024/2026/11/17/david-bednar-yankees-qualifying-offer-reliever-record-aav/"
+    },
+    {
+      "category": "Yankees",
       "description": "With the Yankees needing help in various areas, they may look to trade slugger. Let's break it down.",
       "published": "2026-11-16T11:01:41+00:00",
       "title": "Should the Yankees trade Luis García Jr. amid potential roster crunch?",
@@ -132,16 +139,9 @@
       "published": "2026-10-30T10:09:14+00:00",
       "title": "Yankees mailbag: Should New York pursue Japanese star Teruaki Sato?",
       "url": "https://www.nytimes.com/athletic/7734641/2026/10/30/yankees-teruaki-sato-free-agent-japan/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Murphy ribbed pending free agent Jake Bauers about potentially joining “that horses--- Yankees team” in a postgame conversation.",
-      "published": "2026-10-29T15:33:43+00:00",
-      "title": "Brewers manager Pat Murphy takes jab at Yankees in viral moment after World Series win",
-      "url": "https://www.nytimes.com/athletic/7735720/2026/10/29/world-series-brewers-manager-pat-murphy-yankees/"
     }
   ],
-  "generated_at": "2026-11-16T15:51:52.917963+00:00",
+  "generated_at": "2026-11-17T22:54:01.538514+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

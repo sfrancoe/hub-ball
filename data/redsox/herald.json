@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox traded a potential Rule 5 candidate for a minor league infielder hours before Tuesday’s protection deadline.",
+      "published": "2026-11-17T19:59:37Z",
+      "title": "Red Sox trade hard-throwing reliever to Royals ahead of Rule 5 deadline",
+      "url": "https://www.bostonherald.com/2026/11/17/red-sox-trade-hard-throwing-reliever-to-royals-ahead-of-rule-5-deadline/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "The Red Sox swung a minor trade on Tuesday, dealing a left-handed depth arm to the Athletics for a minor league reliever.",
+      "published": "2026-11-17T18:46:51Z",
+      "title": "Source: Red Sox trade left-hander to A’s, clear roster spot for Jake Bauers",
+      "url": "https://www.bostonherald.com/2026/11/17/source-red-sox-trade-left-hander-to-as-clear-roster-spot-for-jake-bauers/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "A Red Sox legend and postseason hero is among newcomers to the Baseball Hall of Fame ballot this year",
       "published": "2026-11-17T00:17:07Z",
       "title": "Red Sox legend Jon Lester among newcomers on Baseball Hall of Fame ballot",
@@ -97,23 +111,9 @@
       "published": "2026-11-11T00:57:05Z",
       "title": "Red Sox’s Chad Tracy finishes third in AL Manager of the Year vote",
       "url": "https://www.bostonherald.com/2026/11/10/red-sox-chad-tracy-manager-of-the-year-mlb-awards/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Will Trevor Story still be the Red Sox’s starting shortstop in 2027? Craig Breslow wouldn’t commit to it when pressed on Monday in Las Vegas.",
-      "published": "2026-11-10T19:47:22Z",
-      "title": "Craig Breslow open-minded about shortstop job, won’t commit to Trevor Story",
-      "url": "https://www.bostonherald.com/2026/11/10/craig-breslow-open-minded-about-shortstop-job-wont-commit-to-trevor-story/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Craig Breslow provided a series of Red Sox injury updates at the GM Meetings, most notably concerning Roman Anthony and Triston Casas.",
-      "published": "2026-11-10T04:00:43Z",
-      "title": "Red Sox boss provides injury updates on Roman Anthony, Triston Casas",
-      "url": "https://www.bostonherald.com/2026/11/09/red-sox-boss-provides-injury-updates-on-roman-anthony-triston-casas/"
     }
   ],
-  "generated_at": "2026-11-17T05:52:27.809639+00:00",
+  "generated_at": "2026-11-17T22:53:51.394189+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
