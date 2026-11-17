@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics scored just 41 points in the first half, then allowed 40 in the fourth quarter as the Magic snapped Boston’s six-game win streak.",
+        "published": "2026-11-17T02:39:32Z",
+        "title": "Celtics start slow, falter in fourth vs. Magic as six-game win streak ends",
+        "url": "https://www.bostonherald.com/2026/11/16/celtics-start-slow-falter-in-fourth-vs-magic-as-seven-game-win-streak-ends/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Celtics center Neemias Queta, whom Joe Mazzulla recently praised for his “under-the-radar” growth this season, got the night off Monday vs. Orlando.",
         "published": "2026-11-16T22:16:30Z",
         "title": "Celtics rest ‘under-the-radar’ starter vs. Magic on back-to-back",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T04:58:26Z",
         "title": "What Jaylen Brown, Jayson Tatum expect from Celtics-76ers matchup",
         "url": "https://www.bostonherald.com/2026/11/08/what-jaylen-brown-jayson-tatum-expect-from-celtics-76ers-matchup/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics overwhelmed the Bucks on Sunday to improve to 8-2. Next up: a blockbuster showdown against Jaylen Brown and the 76ers.",
-        "published": "2026-11-09T03:21:06Z",
-        "title": "Celtics breeze into Jaylen Brown showdown with blowout of Bucks",
-        "url": "https://www.bostonherald.com/2026/11/08/celtics-breeze-into-jaylen-brown-showdown-with-blowout-of-bucks/"
       }
     ],
-    "generated_at": "2026-11-16T22:23:14.577265+00:00",
+    "generated_at": "2026-11-17T02:45:01.989184+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },

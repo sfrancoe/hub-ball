@@ -3,6 +3,20 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics saw their six-game win streak snapped, though Paul George put up another strong game.",
+        "published": "2026-11-17T02:34:00+00:00",
+        "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in loss to Magic",
+        "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-celtics-name-to-know-player-of-the-game-in-loss-to-magic.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "The Celtics winning streak was snapped at six games by the Magic on Monday night at TD Garden.",
+        "published": "2026-11-17T02:33:59+00:00",
+        "title": "4 takeaways as Celtics lose to Magic in surprising upset",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-magic-in-surprising-upset.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "RJ Luis Jr. will get to play for LSU after all despite the SEC making it clear it doesn't want the former pro to play collegiately.",
         "published": "2026-11-17T00:41:27+00:00",
         "title": "Former Celtics guard allowed to play for LSU despite turning pro",
@@ -98,23 +112,9 @@
         "published": "2026-11-13T10:00:00+00:00",
         "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-winning-over-celtics-fans-and-making-brad-stevens-look-good.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics are soaring at 10-2, fresh off a 4-0 road trip, as they have passed just about every test to open the season.",
-        "published": "2026-11-13T10:00:00+00:00",
-        "title": "How will the Celtics keep Paul George fresh for the playoffs? (Mailbag)",
-        "url": "https://www.masslive.com/celtics/2026/11/how-will-the-celtics-keep-paul-george-fresh-for-the-playoffs-mailbag.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Marcus Smart was also ejected from the Rockets' win over the Warriors on Wednesday.",
-        "published": "2026-11-12T22:53:19+00:00",
-        "title": "Former Celtics guard suspended for punching player",
-        "url": "https://www.masslive.com/celtics/2026/11/former-celtics-guard-suspended-for-punching-player.html"
       }
     ],
-    "generated_at": "2026-11-17T02:14:51.962421+00:00",
+    "generated_at": "2026-11-17T02:45:02.408844+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
