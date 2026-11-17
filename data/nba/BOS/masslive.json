@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Chris Cenac Jr. showed a glimpse of his potential in his minutes against the Magic on Monday night.",
+        "published": "2026-11-17T10:45:00+00:00",
+        "title": "Celtics rookie gets unexpected opportunity in Magic win: ‘He stepped up’",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-rookie-gets-unexpected-opportunity-in-magic-win-he-stepped-up.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "MassLive Celtics writers Souichi Terada and Brian Robb talk the Celtics' center rotation after their loss to the Magic on Monday.",
         "published": "2026-11-17T04:16:00+00:00",
         "title": "Is it time to push Mitchell Robinson panic button? What we learned from Celtics’ loss to Magic",
@@ -105,16 +112,9 @@
         "published": "2026-11-14T17:30:30+00:00",
         "title": "Cooper Flagg’s Boston return, ground stop impacts NBA game (Celtics Notebook)",
         "url": "https://www.masslive.com/celtics/2026/11/cooper-flaggs-boston-return-ground-stop-impacts-nba-game-celtics-notebook.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Chris Cenac Jr. has played for the Maine Celtics in the G League to open the season.",
-        "published": "2026-11-14T16:57:08+00:00",
-        "title": "Plan for Celtics’ 1st-round pick becoming clear for rookie season",
-        "url": "https://www.masslive.com/celtics/2026/11/plan-for-celtics-1st-round-pick-becoming-clear-for-rookie-season.html"
       }
     ],
-    "generated_at": "2026-11-17T04:25:37.838382+00:00",
+    "generated_at": "2026-11-17T10:48:42.559012+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
