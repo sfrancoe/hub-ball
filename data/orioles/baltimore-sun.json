@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "With a lockout threatening to impact the 2027 season, the Orioles will offer full refunds for any games missed because of the work stoppage.",
+      "published": "2026-11-16T15:54:00+00:00",
+      "title": "Orioles plan to sell 2027 tickets. What if a lockout cancels games?",
+      "url": "https://www.baltimoresun.com/2026/11/16/orioles-2027-tickets-lockout-cancellations/"
+    },
+    {
+      "category": "Orioles",
       "description": "The 2027 Orioles promotional schedule features City Connect apparel, hot dog race bobbleheads and Hawaiian shirt giveaways, pending an MLB lockout.",
       "published": "2026-11-16T08:35:00+00:00",
       "title": "Orioles announce 2027 promotional schedule amid lockout uncertainty",
@@ -51,13 +58,6 @@
     },
     {
       "category": "Orioles",
-      "description": "The Orioles find themselves in a similar spot to where they were a year ago. Coming off a disappointing season, the club is examining the roster holes that held it back and looking for ways to ...",
-      "published": "2026-11-04T11:39:00+00:00",
-      "title": "5 biggest offseason questions facing the Orioles as free agency begins",
-      "url": "https://www.baltimoresun.com/2026/11/04/orioles-biggest-offseason-questions/"
-    },
-    {
-      "category": "Orioles",
       "description": "The Orioles didn’t extend Trevor Rogers as they did with Kyle Bradish and Shane Baz. Rogers is expected to decline their qualifying offer and hit the open market as one of the most attractive pitchers ...",
       "published": "2026-11-11T04:00:00+00:00",
       "title": "Orioles free agency: 15 starting pitchers who could fit in Baltimore",
@@ -65,13 +65,13 @@
     },
     {
       "category": "Orioles",
-      "description": "Who’s in and who’s out of a way-too-early 2027 opening day roster projection for the Orioles as they enter free agency.",
-      "published": "2026-11-05T04:00:00+00:00",
-      "title": "Orioles roster projection: Where things stand as free agency begins",
-      "url": "https://www.baltimoresun.com/2026/11/05/orioles-roster-projection-free-agency/"
+      "description": "The Orioles find themselves in a similar spot to where they were a year ago. Coming off a disappointing season, the club is examining the roster holes that held it back and looking for ways to ...",
+      "published": "2026-11-04T11:39:00+00:00",
+      "title": "5 biggest offseason questions facing the Orioles as free agency begins",
+      "url": "https://www.baltimoresun.com/2026/11/04/orioles-biggest-offseason-questions/"
     }
   ],
-  "generated_at": "2026-11-16T23:54:55.722121+00:00",
+  "generated_at": "2026-11-17T05:52:40.475906+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

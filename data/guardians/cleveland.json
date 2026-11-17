@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "Can Welbyn Francisca impact Cleveland’s future? The Guardians face key decisions involving Jo Adell, Steven Kwan, David Fry and their 40-man roster.",
-      "published": "2026-11-16T04:54:00+00:00",
-      "title": "Guardians’ next big prospect emerges as Cleveland faces critical roster decisions – Cleveland Baseball Talk Podcast",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-next-big-prospect-emerges-as-cleveland-faces-critical-roster-decisions-cleveland-baseball-talk-podcast.html"
-    },
-    {
-      "category": "Guardians",
       "description": "With upper-level pitching thin in Cleveland's minor league system, Justin Campbell and Franklin Gomez may have an inside track on Cleveland's open 40-man spots.",
       "published": "2026-11-16T05:58:00+00:00",
       "title": "Guardians’ 40-man roster deadline: Why pitching depth could drive Rule 5 protection decisions",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Guardians",
-      "description": "The 20-year-old switch hitter's breakout performance in Arizona raises urgent questions about how the Guardians manage — and potentially trade — their surplus of talented infielders.",
-      "published": "2026-11-16T05:40:00+00:00",
-      "title": "Welbyn Francisca’s Arizona Fall League MVP signals new power threat in Guardians’ loaded middle infield",
-      "url": "https://www.cleveland.com/guardians/2026/11/welbyn-franciscas-arizona-fall-league-mvp-signals-new-power-threat-in-guardians-loaded-middle-infield.html"
+      "description": "Can Welbyn Francisca impact Cleveland’s future? The Guardians face key decisions involving Jo Adell, Steven Kwan, David Fry and their 40-man roster.",
+      "published": "2026-11-16T04:54:00+00:00",
+      "title": "Guardians’ next big prospect emerges as Cleveland faces critical roster decisions – Cleveland Baseball Talk Podcast",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-next-big-prospect-emerges-as-cleveland-faces-critical-roster-decisions-cleveland-baseball-talk-podcast.html"
     },
     {
       "category": "Guardians",
@@ -27,6 +20,13 @@
       "published": "2026-11-16T06:06:00+00:00",
       "title": "Non-tender deadline puts Guardians’ roster philosophy — and their emotional fortitude — to the test",
       "url": "https://www.cleveland.com/guardians/2026/11/non-tender-deadline-puts-guardians-roster-philosophy-and-their-emotional-fortitude-to-the-test.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The 20-year-old switch hitter's breakout performance in Arizona raises urgent questions about how the Guardians manage — and potentially trade — their surplus of talented infielders.",
+      "published": "2026-11-16T05:40:00+00:00",
+      "title": "Welbyn Francisca’s Arizona Fall League MVP signals new power threat in Guardians’ loaded middle infield",
+      "url": "https://www.cleveland.com/guardians/2026/11/welbyn-franciscas-arizona-fall-league-mvp-signals-new-power-threat-in-guardians-loaded-middle-infield.html"
     },
     {
       "category": "Guardians",
@@ -65,6 +65,13 @@
     },
     {
       "category": "Guardians",
+      "description": "Cade Smith receives seven first-place votes but loses the inaugural BBWAA AL Reliever of the Year Award to Louis Varland in a surprising result.",
+      "published": "2026-11-11T11:49:00+00:00",
+      "title": "Guardians’ Cade Smith denied first BBWAA AL Reliever of the Year award despite dominant season",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-cade-smith-denied-first-bbwaa-al-reliever-of-the-year-award-despite-dominant-season.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Guardians Cade Smith, in his first full season as closer, wins the Bob Feller Man of the Year award from Cleveland's chapter of the Baseball Writers Association of America.",
       "published": "2026-11-07T22:04:00+00:00",
       "title": "Guardians relentless Cade Smith voted Man of the Year by Cleveland’s BBWAA chapter",
@@ -76,16 +83,9 @@
       "published": "2026-11-08T21:03:00+00:00",
       "title": "Should the Guardians look to Japan to address their pitching and power needs?",
       "url": "https://www.cleveland.com/guardians/2026/11/should-the-guardians-look-to-japan-to-address-their-pitching-and-power-needs.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Detroit's Kevin McGonigle edged Cleveland's Parker Messick for AL Rookie of the Year, becoming the sixth Tiger to win the award.",
-      "published": "2026-11-09T16:53:00+00:00",
-      "title": "Guardians’ Parker Messick finishes second for AL Rookie of the Year award",
-      "url": "https://www.cleveland.com/guardians/2026/11/detroits-kevin-mcgonigle-wins-al-rookie-of-the-year-award-guardians-parker-messick-finishes-second.html"
     }
   ],
-  "generated_at": "2026-11-16T23:54:57.030812+00:00",
+  "generated_at": "2026-11-17T05:52:43.180416+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

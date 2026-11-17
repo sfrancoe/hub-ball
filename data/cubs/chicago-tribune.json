@@ -30,13 +30,6 @@
     },
     {
       "category": "Cubs",
-      "description": "Star, left-hander Jon Lester won World Series titles with the Boston Red Sox in 2007 and 2013 and with the Chicago Cubs in 2016.",
-      "published": "2026-11-16T10:00:00+00:00",
-      "title": "Jon Lester and Buster Posey among 14 newcomers on the Baseball Hall of Fame ballot",
-      "url": "https://www.chicagotribune.com/2026/11/16/baseball-hall-of-fame-ballot-jon-lester/"
-    },
-    {
-      "category": "Cubs",
       "description": "The Chicago Cubs promoted Ben Martin to be their farm director to replace Jason Kanzler, who took over as Seattle Mariners manager.",
       "published": "2026-11-11T04:00:00+00:00",
       "title": "Chicago Cubs promote Ben Martin to farm director: ‘I don’t think we’re going to miss a beat’",
@@ -48,6 +41,13 @@
       "published": "2026-11-15T01:59:00+00:00",
       "title": "Today in Chicago History: ‘My name is Dusty, not Messiah’",
       "url": "https://www.chicagotribune.com/2026/11/15/november-15-chicago-history/"
+    },
+    {
+      "category": "Cubs",
+      "description": "Star, left-hander Jon Lester won World Series titles with the Boston Red Sox in 2007 and 2013 and with the Chicago Cubs in 2016.",
+      "published": "2026-11-16T10:00:00+00:00",
+      "title": "Jon Lester and Buster Posey among 14 newcomers on the Baseball Hall of Fame ballot",
+      "url": "https://www.chicagotribune.com/2026/11/16/baseball-hall-of-fame-ballot-jon-lester/"
     },
     {
       "category": "Cubs",
@@ -69,9 +69,16 @@
       "published": "2026-11-03T09:52:00+00:00",
       "title": "Seattle Mariners hire Jason Kanzler, the Chicago Cubs farm director, as their new manager",
       "url": "https://www.chicagotribune.com/2026/11/03/seattle-mariners-hire-jason-kanzler-chicago-cubs/"
+    },
+    {
+      "category": "Cubs",
+      "description": "The GM meetings in Las Vegas should be a chance for executives Jed Hoyer and Chris Getz to improve the Chicago Cubs and White Sox.",
+      "published": "2026-11-10T04:01:00+00:00",
+      "title": "Column: Besides a night at Sphere, plenty to do in Las Vegas for Jed Hoyer and Chris Getz",
+      "url": "https://www.chicagotribune.com/2026/11/10/mlb-gm-meetings-jed-hoyer-chris-getz/"
     }
   ],
-  "generated_at": "2026-11-16T23:55:03.377411+00:00",
+  "generated_at": "2026-11-17T05:52:53.124992+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

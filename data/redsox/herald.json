@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "A Red Sox legend and postseason hero is among newcomers to the Baseball Hall of Fame ballot this year",
+      "published": "2026-11-17T00:17:07Z",
+      "title": "Red Sox legend Jon Lester among newcomers on Baseball Hall of Fame ballot",
+      "url": "https://www.bostonherald.com/2026/11/16/red-sox-legend-jon-lester-among-new-names-on-baseball-hall-of-fame-ballot-dustin-pedroia-buster-posey-mlb/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox made their first big splash of the offseason by signing World Series champion Jake Bauers. Here’s what his arrival means and what could be next for the franchise.",
       "published": "2026-11-15T10:30:41Z",
       "title": "MLB notes: What’s next for Red Sox after Jake Bauers signing?",
@@ -104,16 +111,9 @@
       "published": "2026-11-10T04:00:43Z",
       "title": "Red Sox boss provides injury updates on Roman Anthony, Triston Casas",
       "url": "https://www.bostonherald.com/2026/11/09/red-sox-boss-provides-injury-updates-on-roman-anthony-triston-casas/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Typically Craig Breslow has a clear checklist of needs to address heading into the offseason, but with capable starters at every position he said he expects to take a different approach this winter.",
-      "published": "2026-11-10T01:25:29Z",
-      "title": "‘We’ll be opportunistic’: Red Sox boss plans to build around existing core",
-      "url": "https://www.bostonherald.com/2026/11/09/well-be-opportunistic-red-sox-boss-plans-to-build-around-existing-core/"
     }
   ],
-  "generated_at": "2026-11-15T15:06:26.210735+00:00",
+  "generated_at": "2026-11-17T05:52:27.809639+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
