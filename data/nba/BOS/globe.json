@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "On Basketball",
+        "description": "Orlando's win was its first in Boston in nearly four years.",
+        "published": "2026-11-17T05:25:03.292Z",
+        "title": "Celtics hoping loss to Magic proves valuable in the long run",
+        "url": "https://www.bostonglobe.com/2026/11/17/sports/celtics-magic-td-garden/"
+      },
+      {
         "category": "Magic 115, Celtics 105",
         "description": "The Celtics had won six straight games, including a laugher not even 24 hours before against the visiting Mavericks.",
         "published": "2026-11-17T04:37:28.661Z",
@@ -100,13 +107,6 @@
         "url": "https://www.bostonglobe.com/2026/11/10/sports/celtics-sixers-nba-basketball/"
       },
       {
-        "category": "TARA SULLIVAN",
-        "description": "Wouldn’t it be something if the trade ends up being a net gain for both sides? As early returns go, that’s the way the needle is pointing.",
-        "published": "2026-11-11T05:20:04.8Z",
-        "title": "Forgotten man Paul George steals the spotlight in Jaylen Brown-Jayson Tatum beef bowl",
-        "url": "https://www.bostonglobe.com/2026/11/11/sports/celtics-jayson-tatum-jaylen-brown-paul-george/"
-      },
-      {
         "category": "Celtics",
         "description": "We know serious Celtics fans don’t want to miss a beat. Now, you don’t have to.",
         "published": "2024-10-17T15:28:56.377Z",
@@ -114,7 +114,7 @@
         "url": "https://www.bostonglobe.com/2023/04/04/sports/boston-globe-celtics-newsletter/"
       }
     ],
-    "generated_at": "2026-11-17T04:45:43.776128+00:00",
+    "generated_at": "2026-11-17T05:36:31.912763+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
