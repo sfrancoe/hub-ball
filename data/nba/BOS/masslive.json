@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "MassLive Celtics writers Souichi Terada and Brian Robb talk the Celtics' center rotation after their loss to the Magic on Monday.",
+        "published": "2026-11-17T04:16:00+00:00",
+        "title": "Is it time to push Mitchell Robinson panic button? What we learned from Celtics’ loss to Magic",
+        "url": "https://www.masslive.com/celtics/2026/11/is-it-time-to-push-mitchell-robinson-panic-button-what-we-learned-from-celtics-loss-to-magic.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics saw their six-game win streak snapped, though Paul George put up another strong game.",
         "published": "2026-11-17T02:34:00+00:00",
         "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in loss to Magic",
@@ -105,16 +112,9 @@
         "published": "2026-11-14T16:57:08+00:00",
         "title": "Plan for Celtics’ 1st-round pick becoming clear for rookie season",
         "url": "https://www.masslive.com/celtics/2026/11/plan-for-celtics-1st-round-pick-becoming-clear-for-rookie-season.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "On the court, George has looked like his All-Star self. The challenge now is keeping him there.",
-        "published": "2026-11-13T10:00:00+00:00",
-        "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
-        "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-winning-over-celtics-fans-and-making-brad-stevens-look-good.html"
       }
     ],
-    "generated_at": "2026-11-17T03:25:18.812878+00:00",
+    "generated_at": "2026-11-17T04:25:37.838382+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
