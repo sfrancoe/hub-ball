@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T19:48:44.271789+00:00",
+  "generated_at": "2026-11-17T18:45:51.018930+00:00",
   "roster_as_of": "October 29, 2026",
   "team": {
     "id": 118,
@@ -1191,7 +1191,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-11-17",
-      "age": 29,
+      "age": 30,
       "birthplace": "Richmond",
       "height": null,
       "weight": null,
@@ -1666,7 +1666,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1989-11-17",
-      "age": 36,
+      "age": 37,
       "birthplace": "Bossier City",
       "height": "6' 4\"",
       "weight": 225,
@@ -2179,9 +2179,9 @@
       "full_name": "Salvador Pérez",
       "number": "13",
       "position": {
-        "name": "Designated Hitter",
+        "name": "Catcher",
         "group": "Hitter",
-        "abbreviation": "DH"
+        "abbreviation": "C"
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,

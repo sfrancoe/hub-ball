@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T20:00:02.523478+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-17T18:57:04.952837+00:00",
+  "roster_as_of": "November 16, 2026",
   "team": {
     "id": 135,
     "name": "San Diego Padres"
   },
   "roster_type": "open-current-roster",
-  "player_count": 33,
+  "player_count": 34,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1905,7 +1905,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-11-17",
-      "age": 29,
+      "age": 30,
       "birthplace": "Bristol, Tennessee, U.S.",
       "height": null,
       "weight": null,
@@ -2166,6 +2166,50 @@
           "slugging_percentage": 0.346,
           "ops": 0.675
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 680802,
+      "mlb_id": 680802,
+      "wikidata_id": "Q112193277",
+      "slug": "ryan-weiss",
+      "name": "Ryan Weiss",
+      "full_name": "Ryan Weiss",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1996-12-10",
+      "age": 29,
+      "birthplace": "South Elgin, Illinois, US",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "August 18, 2023",
+      "debut_team": "Fubon Guardians",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Fubon Guardians",
+        "Hanwha Eagles",
+        "Houston Astros",
+        "San Diego Padres"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q112193277",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Weiss",
+      "retrosheet_id": "weisr001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
