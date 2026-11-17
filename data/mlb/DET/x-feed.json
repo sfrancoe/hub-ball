@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-16T18:22:47.576519+00:00",
+  "generated_at": "2026-11-17T08:47:35.996561+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/tigers",
   "team_id": "6",
   "sport": "mlb",
-  "likes_as_of": "2026-11-16T18:22:47.576519+00:00",
+  "likes_as_of": "2026-11-17T08:47:35.996561+00:00",
   "recent": [
+    {
+      "id": "2122445292268323269",
+      "text": "RT @MLBazFallLeague: Congratulations to @tigers Maddox Long on being named the Arizona Fall League Community Champion! In its second seas…",
+      "url": "https://x.com/tigers/status/2122445292268323269",
+      "published": "2026-11-16T21:42:45+00:00",
+      "likes": 0,
+      "author": "Detroit Tigers",
+      "handle": "tigers",
+      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2121320283252637800",
       "text": "RT @WatchDSN: Happy birthday to the voice of your Detroit Tigers, Dan Dickerson! 🎙️🎂 https://t.co/n6hV9mxbnq",
@@ -50,5 +64,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2122445292268323269",
+      "text": "RT @MLBazFallLeague: Congratulations to @tigers Maddox Long on being named the Arizona Fall League Community Champion! In its second seas…",
+      "url": "https://x.com/tigers/status/2122445292268323269",
+      "published": "2026-11-16T21:42:45+00:00",
+      "likes": 0,
+      "author": "Detroit Tigers",
+      "handle": "tigers",
+      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

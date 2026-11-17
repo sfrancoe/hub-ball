@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T18:22:47.576519+00:00",
+  "generated_at": "2026-11-17T08:47:35.996561+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Marlins",
   "team_id": "28",
   "sport": "mlb",
-  "likes_as_of": "2026-11-16T18:22:47.576519+00:00",
+  "likes_as_of": "2026-11-17T08:47:35.996561+00:00",
   "recent": [
     {
       "id": "2122061067140661261",
@@ -22,20 +22,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2122061067140661261",
-      "text": "RT @loanDepotpark: What a career. What a journey. Thank you, Miggy. ❤️ Miguel Rojas shares a special moment with his family as he's honore…",
-      "url": "https://x.com/Marlins/status/2122061067140661261",
-      "published": "2026-11-15T20:15:59+00:00",
-      "likes": 0,
-      "author": "Miami Marlins",
-      "handle": "Marlins",
-      "avatar": "https://pbs.twimg.com/profile_images/2104518018248155136/mK2fKgdU_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

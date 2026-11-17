@@ -1,26 +1,97 @@
 {
-  "generated_at": "2026-11-16T10:13:12.820482+00:00",
+  "generated_at": "2026-11-17T08:47:35.996561+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Nationals",
   "team_id": "20",
   "sport": "mlb",
-  "likes_as_of": "2026-11-16T10:13:12.820482+00:00",
+  "likes_as_of": "2026-11-17T08:47:35.996561+00:00",
   "recent": [
     {
-      "id": "2120970903102406802",
-      "text": "erik cade josiah andrew eddy bullpen cart full cut: https://t.co/Umi4BLtTbs https://t.co/MF75VvjEOP",
-      "url": "https://x.com/Nationals/status/2120970903102406802",
-      "published": "2026-11-12T20:04:03+00:00",
-      "likes": 97,
+      "id": "2122467048345457106",
+      "text": "proof of concept 🔥 https://t.co/MI3LbLBq1r",
+      "url": "https://x.com/Nationals/status/2122467048345457106",
+      "published": "2026-11-16T23:09:12+00:00",
+      "likes": 199,
       "author": "Washington Nationals",
       "handle": "Nationals",
       "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HW8vweGXwAAm95E.jpg",
+      "media": "https://pbs.twimg.com/media/HXSEdHrWcAAlNwf.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2122464160357261803",
+      "text": "a little younger today 🥶 https://t.co/IMA48V9sSi",
+      "url": "https://x.com/Nationals/status/2122464160357261803",
+      "published": "2026-11-16T22:57:43+00:00",
+      "likes": 222,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2122463298993938432/img/-WyxDhvqzdZJbId2.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2122403865056215234",
+      "text": "LIVE: Jacob Young Contract Extension Press Conference https://t.co/jPH2RtqE39",
+      "url": "https://x.com/Nationals/status/2122403865056215234",
+      "published": "2026-11-16T18:58:08+00:00",
+      "likes": 96,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2122464160357261803",
+      "text": "a little younger today 🥶 https://t.co/IMA48V9sSi",
+      "url": "https://x.com/Nationals/status/2122464160357261803",
+      "published": "2026-11-16T22:57:43+00:00",
+      "likes": 222,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2122463298993938432/img/-WyxDhvqzdZJbId2.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2122467048345457106",
+      "text": "proof of concept 🔥 https://t.co/MI3LbLBq1r",
+      "url": "https://x.com/Nationals/status/2122467048345457106",
+      "published": "2026-11-16T23:09:12+00:00",
+      "likes": 199,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXSEdHrWcAAlNwf.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2122403865056215234",
+      "text": "LIVE: Jacob Young Contract Extension Press Conference https://t.co/jPH2RtqE39",
+      "url": "https://x.com/Nationals/status/2122403865056215234",
+      "published": "2026-11-16T18:58:08+00:00",
+      "likes": 96,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

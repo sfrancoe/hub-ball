@@ -1,26 +1,41 @@
 {
-  "generated_at": "2026-11-15T11:50:34.123998+00:00",
+  "generated_at": "2026-11-17T08:47:35.996561+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/CleGuardians",
   "team_id": "5",
   "sport": "mlb",
-  "likes_as_of": "2026-11-15T11:50:34.123998+00:00",
+  "likes_as_of": "2026-11-17T08:47:35.996561+00:00",
   "recent": [
     {
-      "id": "2120954784391762373",
-      "text": "Cade had a heckuva season, so let's relive it a bit, shall we? #GuardsBall https://t.co/UVKB3gp3Tq",
-      "url": "https://x.com/CleGuardians/status/2120954784391762373",
-      "published": "2026-11-12T19:00:00+00:00",
-      "likes": 669,
+      "id": "2122405545411805332",
+      "text": "New for 2027! Fans can customize their pack by picking tickets to three select 2027 Guardians home games. Any Three Pack purchased by December 4 will be fee-free! https://t.co/SJz8CLseF5 #GuardsBall https://t.co/s6fjFEtYxp",
+      "url": "https://x.com/CleGuardians/status/2122405545411805332",
+      "published": "2026-11-16T19:04:49+00:00",
+      "likes": 53,
       "author": "Cleveland Guardians",
       "handle": "CleGuardians",
       "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2120953571625574401/img/WcNFwDRQ0qXEx1Ui.jpg",
+      "media": "https://pbs.twimg.com/media/HXRMKsvXsAAlaxk.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2122405545411805332",
+      "text": "New for 2027! Fans can customize their pack by picking tickets to three select 2027 Guardians home games. Any Three Pack purchased by December 4 will be fee-free! https://t.co/SJz8CLseF5 #GuardsBall https://t.co/s6fjFEtYxp",
+      "url": "https://x.com/CleGuardians/status/2122405545411805332",
+      "published": "2026-11-16T19:04:49+00:00",
+      "likes": 53,
+      "author": "Cleveland Guardians",
+      "handle": "CleGuardians",
+      "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXRMKsvXsAAlaxk.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
