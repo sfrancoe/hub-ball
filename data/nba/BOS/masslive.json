@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Chris Cenac Jr. was personally delivered the game ball from Paul George after scoring his first career NBA bucket.",
+        "published": "2026-11-18T10:00:00+00:00",
+        "title": "Celtics rookie talks making NBA debut, navigating life as pro",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-rookie-talks-making-nba-debut-navigating-life-as-pro.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Paul George played in his second back-to-back of the season, and so far, the health has continued to remain strong.",
         "published": "2026-11-17T11:00:00+00:00",
         "title": "Paul George delivers good news, Jayson Tatum injury update (Celtics Notebook)",
@@ -105,16 +112,9 @@
         "published": "2026-11-15T22:49:43+00:00",
         "title": "Cooper Flagg vs. Celtics: What ‘fascinates’ Mavs coach about local star",
         "url": "https://www.masslive.com/celtics/2026/11/cooper-flagg-vs-celtics-what-fascinates-mavericks-coach-about-local-star.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Random thoughts about (mostly) sports topics.",
-        "published": "2026-11-15T10:00:00+00:00",
-        "title": "Some Things I Think I Think: Red Sox offseason off to strong start, but more to be done",
-        "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-offseason-off-to-strong-start-but-more-to-be-done.html"
       }
     ],
-    "generated_at": "2026-11-17T18:02:06.445465+00:00",
+    "generated_at": "2026-11-18T10:07:34.479748+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
