@@ -2,8 +2,22 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "The Orioles on Tuesday added Enrique Bradfield Jr. and six other prospects to their 40-man roster to protect from the Rule 5 draft.",
+      "published": "2026-11-17T16:11:00+00:00",
+      "title": "Orioles add 7 prospects to 40-man roster to protect from Rule 5 draft",
+      "url": "https://www.baltimoresun.com/2026/11/17/orioles-add-seven-prospects-to-40-man-roster-to-protect-from-rule-5-draft-enrique-bradfield-jr-michael-forret/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Orioles first baseman Pete Alonso received some hardware for his impressive first season in Baltimore, winning a Silver Slugger Award.",
+      "published": "2026-11-17T16:07:00+00:00",
+      "title": "Orioles’ Pete Alonso wins 2nd consecutive Silver Slugger award",
+      "url": "https://www.baltimoresun.com/2026/11/17/orioles-pete-alonso-silver-slugger/"
+    },
+    {
+      "category": "Orioles",
       "description": "Former Orioles LHP Trevor Rogers elected to remain a free agent and decline the $23.15 million qualifying offer before Tuesday’s deadline.",
-      "published": "2026-11-17T13:06:00+00:00",
+      "published": "2026-11-17T13:32:00+00:00",
       "title": "Trevor Rogers declines Orioles’ qualifying offer to test free agency",
       "url": "https://www.baltimoresun.com/2026/11/17/orioles-trevor-rogers-declines-qualifying-offer/"
     },
@@ -48,23 +62,9 @@
       "published": "2026-11-12T04:00:00+00:00",
       "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
       "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles will add a new Kids Zone and Mascot Zone at Camden Yards as part of a second round of offseason renovations that also includes upgraded restrooms, suites and player facilities.",
-      "published": "2026-11-17T08:43:00+00:00",
-      "title": "Orioles plan Kids Zone, Mascot Zone in Camden Yards renovations",
-      "url": "https://www.baltimoresun.com/2026/11/17/orioles-kids-zone-mascot-zone-camden-yards-renovations/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The deadline to protect prospects from the Rule 5 draft is Tuesday. Here are the prospects the Orioles could add to their 40-man roster.",
-      "published": "2026-11-16T13:22:00+00:00",
-      "title": "13 Orioles prospects facing key deadline decision by Mike Elias",
-      "url": "https://www.baltimoresun.com/2026/11/16/orioles-prospects-key-deadline-decision-mike-elias/"
     }
   ],
-  "generated_at": "2026-11-17T22:54:11.778781+00:00",
+  "generated_at": "2026-11-18T03:57:34.582997+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

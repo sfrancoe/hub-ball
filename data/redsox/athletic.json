@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "For months, the Red Sox viewed Bauers as the exact type of player their offense needed.",
+      "published": "2026-11-17T23:39:44+00:00",
+      "title": "Inside Red Sox's quick Jake Bauers signing following 'longstanding' interest",
+      "url": "https://www.nytimes.com/athletic/7790490/2026/11/17/inside-red-sox-jake-bauers-signing/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Most of the newcomers won’t remain on the ballot beyond 2027, but each of them left their imprint on the game.",
       "published": "2026-11-16T17:06:09+00:00",
       "title": "Saluting the 14 newcomers to the Baseball Hall of Fame ballot, from Arrieta to Zimmerman",
@@ -104,16 +111,9 @@
       "published": "2026-11-02T02:52:39+00:00",
       "title": "2026 Gold Glove Award winners: Red Sox, D-Backs and Pete Crow-Armstrong lead way",
       "url": "https://www.nytimes.com/athletic/7745222/2026/11/01/2026-gold-glove-award-winners/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Eaton hit .160 in 24 games for the Red Sox in 2026. Boston gets 18-year-old minor-league right-hander Jareth Rayo in return.",
-      "published": "2026-10-29T20:02:37+00:00",
-      "title": "In first trade of MLB offseason, Red Sox deal Nate Eaton to Athletics",
-      "url": "https://www.nytimes.com/athletic/7736443/2026/10/29/nate-eaton-red-sox-athletics-trade/"
     }
   ],
-  "generated_at": "2026-11-16T23:54:42.363576+00:00",
+  "generated_at": "2026-11-18T03:57:16.461023+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

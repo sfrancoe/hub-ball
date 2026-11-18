@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "On the same day he earned an AL Silver Slugger award, Randy Arozarena took a major step toward being paid like one of the best hitters available on the free agent market.",
+      "published": "2026-11-17T08:19:00+00:00",
+      "title": "Randy Arozarena declines Mariners’ qualifying offer, wins AL Silver Slugger",
+      "url": "https://www.seattletimes.com/sports/mariners/randy-arozarena-declines-mariners-qualifying-offer-wins-al-silver-slugger/"
+    },
+    {
+      "category": "Mariners",
+      "description": "The Mariners’ front office is motivated to upgrade an underperforming roster before the looming lockout. Here's why Seiya Suzuki would be worth the hefty asking price.",
+      "published": "2026-11-16T22:01:00+00:00",
+      "title": "Why Seiya Suzuki is worth a $100 million gamble for the Mariners",
+      "url": "https://www.seattletimes.com/sports/mariners/why-seiya-suzuki-is-worth-a-100-million-gamble-for-the-mariners/"
+    },
+    {
+      "category": "Mariners",
+      "description": "The Mariners are in need of a major upgrade on the left side of their infield to pair with Colt Emerson. Here are eight potential trade targets.",
+      "published": "2026-11-12T11:38:00+00:00",
+      "title": "Here are 8 trade targets for Seattle Mariners to upgrade the infield",
+      "url": "https://www.seattletimes.com/sports/mariners/here-are-8-seattle-mariners-trade-targets-to-upgrade-the-infield/"
+    },
+    {
+      "category": "Mariners",
       "description": "Jerry Dipoto doesn't often label Mariners players as \"untouchable\" in trade talks. But there's an industrywide consensus that pitching prospect Ryan Sloan is just that.",
       "published": "2026-11-11T10:47:00+00:00",
       "title": "Seattle Mariners have made prospect Ryan Sloan untouchable in trade talks",
@@ -30,34 +51,13 @@
     },
     {
       "category": "Mariners",
-      "description": "It's expected to be a busy November around MLB. Here's what Jerry Dipoto had to say about the Mariners' plan to improve their roster.",
-      "published": "2026-11-10T11:02:00+00:00",
-      "title": "Mariners’ Jerry Dipoto eager to ignite MLB’s Hot Stove action once again",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-jerry-dipoto-eager-to-ignite-mlbs-hot-stove-action-once-again/"
-    },
-    {
-      "category": "Mariners",
-      "description": "LAS VEGAS — As the injuries continued to pile up in the summer months, sending some players to season-ending surgeries while others played through issues that would require surgeries in the offseason, ...",
-      "published": "2026-11-10T09:42:00+00:00",
-      "title": "Mariners injury updates: The latest on Michael Arroyo, Josh Naylor and others",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-injury-updates-the-latest-on-michael-arroyo-josh-naylor-and-others/"
-    },
-    {
-      "category": "Mariners",
-      "description": "The Mariners’ front office is motivated to upgrade an underperforming roster before the looming lockout. Here's why Seiya Suzuki would be worth the hefty asking price.",
-      "published": "2026-11-16T22:01:00+00:00",
-      "title": "Why Seiya Suzuki is worth a $100 million gamble for the Mariners",
-      "url": "https://www.seattletimes.com/sports/mariners/why-seiya-suzuki-is-worth-a-100-million-gamble-for-the-mariners/"
-    },
-    {
-      "category": "Mariners",
       "description": "The Mariners are looking to add at least two relievers who can handle leverage situations. With the bullpen market starting to heat up, here are some names to watch.",
       "published": "2026-11-16T06:50:00+00:00",
       "title": "The Mariners need bullpen help. Here are some names they’re looking at.",
       "url": "https://www.seattletimes.com/sports/mariners/the-mariners-need-bullpen-help-here-are-some-names-theyre-looking-at/"
     }
   ],
-  "generated_at": "2026-11-17T22:54:19.627515+00:00",
+  "generated_at": "2026-11-18T03:57:40.501541+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

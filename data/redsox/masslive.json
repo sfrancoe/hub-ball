@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox faced a deadline to protect prospects from Rule 5 eligibility Tuesday. Lockout uncertainty and a crowded 40-man roster led Craig Breslow to not add anyone.",
+      "published": "2026-11-18T00:19:08+00:00",
+      "title": "Blake Wehunt, former first-rounder among prospects Red Sox left unprotected as deadline passes",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-let-roster-deadline-pass-without-protecting-any-prospects-make-two-minor-trades.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Red Sox called Jake Bauers one minute into free agency opening and had him signed just two weeks later. Craig Breslow explained Tuesday why the club was so aggressive.",
+      "published": "2026-11-17T23:18:18+00:00",
+      "title": "Why the Red Sox moved fast to sign Jake Bauers",
+      "url": "https://www.masslive.com/redsox/2026/11/why-jake-bauers-was-red-sox-first-call-one-minute-into-free-agency-and-a-great-target.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox face questions about whether their lineup is complete with Jake Bauers signed.",
       "published": "2026-11-17T22:36:27+00:00",
       "title": "‘Hard to envision’ Red Sox adding another ‘significant’ piece to lineup",
@@ -97,23 +111,9 @@
       "published": "2026-11-13T01:03:52+00:00",
       "title": "Craig Breslow’s new title, Jarren Duran’s market and more | The Fenway Rundown",
       "url": "https://www.masslive.com/redsox/2026/11/craig-breslows-new-title-jarren-durans-market-and-more-the-fenway-rundown.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Red Sox president of baseball operations Craig Breslow has traded several young starting pitchers in the past two years to fix other areas of the roster that were weaknesses.",
-      "published": "2026-11-12T11:00:00+00:00",
-      "title": "Red Sox traded from area of strength; now Craig Breslow needs to replenish",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-traded-from-area-of-strength-now-craig-breslow-needs-to-replenish.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox face a pivotal offseason decision regarding Trevor Story, whose declining performance and $30M salary obligation could reshape Boston's infield through a trade or positional shift.",
-      "published": "2026-11-12T10:00:00+00:00",
-      "title": "Red Sox president Craig Breslow stops short of guaranteeing Story the starting shortstop job — and that silence speaks volumes",
-      "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-much-of-offseason-plan-revolves-around-trevor-story.html"
     }
   ],
-  "generated_at": "2026-11-17T22:53:53.448903+00:00",
+  "generated_at": "2026-11-18T03:57:18.477979+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

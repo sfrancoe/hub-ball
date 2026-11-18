@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Lagrange, considered the Yankees’ third-best prospect by MLB.com, has a chance to impact the Bombers...",
+      "published": "2026-11-18T00:10:38+00:00",
+      "title": "Yankees protect Carlos Lagrange, 2 others with 40-man roster additions",
+      "url": "https://www.nydailynews.com/2026/11/17/yankees-protect-carlos-lagrange-rule-5-draft-40-man-roster/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees can rest easy knowing that they have their closer locked in for 2027.",
       "published": "2026-11-17T21:41:24+00:00",
       "title": "Closer David Bednar accepts record-setting qualifying offer from Yankees: sources",
@@ -132,16 +139,9 @@
       "published": "2026-11-07T15:39:59+00:00",
       "title": "Mariners poaching key Yankees coach Tanner Swanson for bench job: source",
       "url": "https://www.nydailynews.com/2026/11/06/mariners-poaching-key-yankees-coach-tanner-swanson-for-bench-coach-job/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Six of the Yankees' 10 free agents are relievers.",
-      "published": "2026-11-05T14:07:30+00:00",
-      "title": "Yankees need to think bigger than reunions when addressing their bullpen",
-      "url": "https://www.nydailynews.com/2026/11/05/yankees-bullpen-needs-free-agency-bednar/"
     }
   ],
-  "generated_at": "2026-11-17T22:53:53.946506+00:00",
+  "generated_at": "2026-11-18T03:57:19.389352+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
