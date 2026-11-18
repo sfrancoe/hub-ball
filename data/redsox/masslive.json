@@ -2,6 +2,27 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The Red Sox shook up their catching mix Wednesday, cutting bait with Connor Wong and replacing him by trading for Tampa Bay's Nick Fortes.",
+      "published": "2026-11-18T20:02:39+00:00",
+      "title": "Red Sox cut Connor Wong, acquire Nick Fortes as new backup catcher",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-trade-for-backup-catcher-from-rays-cut-connor-wong-in-roster-shakeup.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Red Sox have 16 arbitration-eligible players and face decisions on Triston Casas, Tanner Houck and others before Friday. What will they do?",
+      "published": "2026-11-18T17:52:03+00:00",
+      "title": "Triston Casas, Tanner Houck among Red Sox' toughest non-tender calls this week",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-face-decisions-on-16-players-including-triston-casas-tanner-houck-by-friday-what-will-they-do.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "Matt Vautour and Chris Mason dive into Craig Breslow’s comments about the Jake Bauers signing, Jarren Duran trade rumors, Jon Lester’s Hall of Fame case and more.",
+      "published": "2026-11-18T17:15:48+00:00",
+      "title": "Will Jake Bauers really be Red Sox’ only ‘significant’ addition this offseason?",
+      "url": "https://www.masslive.com/redsox/2026/11/will-jake-bauers-really-be-red-sox-only-significant-addition-this-offseason.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "A look at 11 Red Sox prospects who have a chance to make their MLB debuts in 2027.",
       "published": "2026-11-18T11:26:21+00:00",
       "title": "Red Sox’ latest trade additions among candidates to make MLB debuts in 2027",
@@ -90,30 +111,9 @@
       "published": "2026-11-13T19:27:52+00:00",
       "title": "What does Red Sox legend David Ortiz make of team’s deal with Jake Bauers?",
       "url": "https://www.masslive.com/redsox/2026/11/what-does-red-sox-legend-david-ortiz-make-of-teams-deal-with-jake-bauers.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox signed Jake Bauers to a four-year, $58 million deal, betting on his 2026 breakout season, elite on-base skills, and postseason experience to bolster their offense.",
-      "published": "2026-11-13T19:25:30+00:00",
-      "title": "Five quick thoughts on Red Sox signing Jake Bauers",
-      "url": "https://www.masslive.com/redsox/2026/11/five-quick-thoughts-on-red-sox-signing-jake-bauers.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox have reached an agreement on a four-year, $58-million contract with free agent first baseman/outfielder Jake Bauers, a source confirmed.",
-      "published": "2026-11-13T18:14:38+00:00",
-      "title": "Red Sox agree to contract with Jake Bauers (26 home runs in 2026)",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-agree-to-contact-with-jake-bauers-26-home-runs-in-2026.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "On the court, George has looked like his All-Star self. The challenge now is keeping him there.",
-      "published": "2026-11-13T10:00:00+00:00",
-      "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
-      "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-winning-over-celtics-fans-and-making-brad-stevens-look-good.html"
     }
   ],
-  "generated_at": "2026-11-18T12:40:48.217996+00:00",
+  "generated_at": "2026-11-18T20:55:24.797462+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

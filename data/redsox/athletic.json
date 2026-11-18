@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Gray spent two seasons with Minnesota in a previous stint, earning an All-Star appearance in 2023.",
+      "published": "2026-11-18T20:45:49+00:00",
+      "title": "Twins sign Sonny Gray to two-year deal, bringing veteran starter back to Minnesota",
+      "url": "https://www.nytimes.com/athletic/7740198/2026/11/18/sonny-gray-signs-with-twins/"
+    },
+    {
+      "category": "Boston Red Sox",
+      "description": "Fortes, 30, hit .258 with a .680 OPS, 17 doubles and six homers in 109 games for the Rays last season.",
+      "published": "2026-11-18T20:05:15+00:00",
+      "title": "Red Sox acquire veteran catcher Nick Fortes from Rays, DFA Connor Wong",
+      "url": "https://www.nytimes.com/athletic/7792944/2026/11/18/red-sox-rays-trade-nick-fortes/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "For months, the Red Sox viewed Bauers as the exact type of player their offense needed.",
       "published": "2026-11-17T23:39:44+00:00",
       "title": "Inside Red Sox's quick Jake Bauers signing following 'longstanding' interest",
@@ -97,23 +111,9 @@
       "published": "2026-11-03T11:10:58+00:00",
       "title": "Red Sox offseason primer: Latest roster moves, key dates, coaching changes",
       "url": "https://www.nytimes.com/athletic/7749500/2026/11/03/red-sox-offseason-roster-moves-key-dates/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The MLB offseason has officially begun, and these are the biggest needs for each team as free agency opens and trade talks begin.",
-      "published": "2026-11-03T10:30:11+00:00",
-      "title": "Biggest offseason needs for all 30 MLB teams for the 2026-27 offseason",
-      "url": "https://www.nytimes.com/athletic/7742903/2026/11/03/mlb-offseason-biggest-team-needs-2026-2027/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "This year's Gold Glove Award winners included nine first-time selections, one rookie and three each from Boston and Arizona.",
-      "published": "2026-11-02T02:52:39+00:00",
-      "title": "2026 Gold Glove Award winners: Red Sox, D-Backs and Pete Crow-Armstrong lead way",
-      "url": "https://www.nytimes.com/athletic/7745222/2026/11/01/2026-gold-glove-award-winners/"
     }
   ],
-  "generated_at": "2026-11-18T03:57:16.461023+00:00",
+  "generated_at": "2026-11-18T20:55:23.730642+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

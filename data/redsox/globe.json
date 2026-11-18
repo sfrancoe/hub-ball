@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "Red Sox",
+      "description": "That makes Fortes the new backup to Adley Rutschman, whom the Red Sox acquired from the Orioles at the trade deadline.",
+      "published": "2026-11-18T20:43:22.031Z",
+      "title": "Red Sox acquire catcher Nick Fortes from Rays, designate Connor Wong for assignment",
+      "url": "https://www.bostonglobe.com/2026/11/18/sports/nick-fortes-red-sox-catcher/"
+    },
+    {
+      "category": "MLB",
+      "description": "Meyer, the interim executive director of the MLBPA, spoke amid the MLB owners' meetings with the Dec. 2 lockout date looming.",
+      "published": "2026-11-18T13:14:46.192Z",
+      "title": "‘Talking out of both sides of their mouth’: Union head Bruce Meyer says MLB is not serious about preventing lockout",
+      "url": "https://www.bostonglobe.com/2026/11/17/sports/mlb-owners-mlbpa-bruce-meyer-cba/"
+    },
+    {
       "category": "ON BASEBALL",
       "description": "The Red Sox view the signing of Bauers as a lineup-changer. He represents a sizable offseason checkmark, but with several corresponding moves to come.",
       "published": "2026-11-18T08:00:00Z",
@@ -13,13 +27,6 @@
       "published": "2026-11-18T02:07:40.45Z",
       "title": "Red Sox’ interest in Jake Bauers began long before free agency: ‘Hopefully this doesn’t get out of reach’",
       "url": "https://www.bostonglobe.com/2026/11/17/sports/jake-bauers-red-sox/"
-    },
-    {
-      "category": "MLB",
-      "description": "Meyer, the interim executive director of the MLBPA, touched on the league's insistence on implementing a salary cap, revenue sharing, and more. A lockout would begin Dec. 2.",
-      "published": "2026-11-17T23:10:29.657Z",
-      "title": "As lockout looms, union head Bruce Meyer says of MLB: ‘They’re talking out of both sides of their mouth’",
-      "url": "https://www.bostonglobe.com/2026/11/17/sports/mlb-owners-mlbpa-bruce-meyer-cba/"
     },
     {
       "category": "Baseball",
@@ -104,16 +111,9 @@
       "published": "2026-11-11T22:51:05.046Z",
       "title": "Astros bring back former catcher Brad Ausmus as their manager",
       "url": "https://www.bostonglobe.com/2026/11/11/sports/astros-brad-ausmus/"
-    },
-    {
-      "category": "ON BASEBALL",
-      "description": "After their abbreviated runs in 2026, the two deadline acquisitions could be considered Boston's big swings entering next season, too.",
-      "published": "2026-11-11T08:00:00Z",
-      "title": "Adley Rutschman and Curtis Mead might be the Red Sox’ big pickups ... for 2027",
-      "url": "https://www.bostonglobe.com/2026/11/11/sports/red-sox-adley-rustchman-curtis-mead/"
     }
   ],
-  "generated_at": "2026-11-18T12:40:46.316018+00:00",
+  "generated_at": "2026-11-18T20:55:22.685177+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Fortes, 30, hit .258 with a .680 OPS, 17 doubles and six homers in 109 games for the Rays last season.",
+      "published": "2026-11-18T20:05:15+00:00",
+      "title": "Red Sox acquire veteran catcher Nick Fortes from Rays, DFA Connor Wong",
+      "url": "https://www.nytimes.com/athletic/7792944/2026/11/18/red-sox-rays-trade-nick-fortes/"
+    },
+    {
+      "category": "Rays",
       "description": "Dockx will oversee the Rays’ highly regarded farm system, the team announced Monday.",
       "published": "2026-11-16T20:17:43+00:00",
       "title": "Rays make Danielle Dockx one of MLB’s highest-ranking front-office women",
@@ -132,16 +139,9 @@
       "published": "2026-10-26T11:00:38+00:00",
       "title": "Rays trail in World Series, but maybe DJ Kitty can help them claw back",
       "url": "https://www.nytimes.com/athletic/7725808/2026/10/26/rays-world-series-dj-kitty/"
-    },
-    {
-      "category": "Rays",
-      "description": "One way or another, Brewers fans are finding ways to watch this World Series. Even if it takes a flight to Florida.",
-      "published": "2026-10-26T09:15:56+00:00",
-      "title": "Priced out of the World Series in Milwaukee, Brewers fans take their party to Florida",
-      "url": "https://www.nytimes.com/athletic/7724319/2026/10/26/brewers-fans-rays-tropicana-field-takeover-world-series-game-3/"
     }
   ],
-  "generated_at": "2026-11-16T23:54:55.039040+00:00",
+  "generated_at": "2026-11-18T20:55:31.484768+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/rays/"
 }

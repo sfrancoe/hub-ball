@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "To Alex Rodriguez, missing out on the Mets was a swing of good fortune.",
+      "published": "2026-11-18T16:32:51+00:00",
+      "title": "Alex Rodriguez: ‘I thank God’ for losing Mets ownership bid to Steve Cohen",
+      "url": "https://www.nydailynews.com/2026/11/18/alex-rodriguez-thank-god-losing-mets-ownership-bid-steve-cohen/"
+    },
+    {
+      "category": "Mets",
       "description": "The Mets have officially entered the Tarik Skubal arms race.",
       "published": "2026-11-17T21:35:53+00:00",
       "title": "Mets meet with Tarik Skubal, MLB’s top free agent: report",
@@ -132,16 +139,9 @@
       "published": "2026-10-04T20:13:20+00:00",
       "title": "Freddy Peralta leaves disappointment with Mets behind as he preps for ALDS start with Rays",
       "url": "https://www.nydailynews.com/2026/10/04/freddy-peralta-leaves-disappointment-with-mets-behind-as-he-preps-for-alds-start-with-rays/"
-    },
-    {
-      "category": "Mets",
-      "description": "The Mets finished 74-88, last place in the NL East.",
-      "published": "2026-09-29T01:57:14+00:00",
-      "title": "David Stearns takes responsibility for disastrous Mets season",
-      "url": "https://www.nydailynews.com/2026/09/28/david-stearns-responsibility-mets/"
     }
   ],
-  "generated_at": "2026-11-17T22:54:02.507099+00:00",
+  "generated_at": "2026-11-18T20:55:28.969095+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }
