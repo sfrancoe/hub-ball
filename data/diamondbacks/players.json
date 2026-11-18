@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:55:11.379521+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:28:11.272615+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 109,
     "name": "Arizona Diamondbacks"
   },
   "roster_type": "open-current-roster",
-  "player_count": 33,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,6 +20,47 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
+    {
+      "id": 800286,
+      "mlb_id": 800286,
+      "wikidata_id": null,
+      "slug": "wellington-aracena",
+      "name": "Wellington Aracena",
+      "full_name": "Wellington Aracena",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Arizona Diamondbacks"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wellington_Aracena",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
     {
       "id": 571448,
       "mlb_id": 571448,
@@ -502,6 +543,47 @@
       }
     },
     {
+      "id": 702679,
+      "mlb_id": 702679,
+      "wikidata_id": null,
+      "slug": "demetrio-crisantes",
+      "name": "Demetrio Crisantes",
+      "full_name": "Demetrio Crisantes",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Arizona Diamondbacks"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Demetrio_Crisantes",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 684442,
       "mlb_id": 684442,
       "wikidata_id": "Q139736304",
@@ -663,6 +745,47 @@
       }
     },
     {
+      "id": 801517,
+      "mlb_id": 801517,
+      "wikidata_id": null,
+      "slug": "spencer-giesting",
+      "name": "Spencer Giesting",
+      "full_name": "Spencer Giesting",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Arizona Diamondbacks"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Spencer_Giesting",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 694410,
       "mlb_id": 694410,
       "wikidata_id": "Q120499174",
@@ -700,6 +823,47 @@
       "source_url": "https://www.wikidata.org/wiki/Q120499174",
       "wikipedia_url": "https://en.wikipedia.org/wiki/LuJames_Groover",
       "retrosheet_id": "grool001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 802416,
+      "mlb_id": 802416,
+      "wikidata_id": null,
+      "slug": "ashton-izzi",
+      "name": "Ashton Izzi",
+      "full_name": "Ashton Izzi",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Arizona Diamondbacks"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ashton_Izzi",
+      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",
@@ -790,6 +954,51 @@
           "era": 2.65,
           "whip": 1.353
         }
+      }
+    },
+    {
+      "id": 702258,
+      "mlb_id": 702258,
+      "wikidata_id": "Q111112120",
+      "slug": "druw-jones",
+      "name": "Druw Jones",
+      "full_name": "Druw Jones",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2003-11-28",
+      "age": 22,
+      "birthplace": "Atlanta",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Wesleyan School"
+          }
+        ]
+      },
+      "teams": [
+        "Arizona Diamondbacks"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q111112120",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Druw_Jones",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -1972,6 +2181,47 @@
           "slugging_percentage": 0.347,
           "ops": 0.621
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 800198,
+      "mlb_id": 800198,
+      "wikidata_id": null,
+      "slug": "cristofer-torin",
+      "name": "Cristofer Torin",
+      "full_name": "Cristofer Torin",
+      "number": "--",
+      "position": {
+        "name": "Second Base",
+        "group": "Infielder",
+        "abbreviation": "2B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Arizona Diamondbacks"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cristofer_Torin",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },

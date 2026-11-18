@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:42:46.980904+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:16:01.074791+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 110,
     "name": "Baltimore Orioles"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,86 +20,6 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
-    {
-      "id": 691769,
-      "mlb_id": 691769,
-      "wikidata_id": "Q136341544",
-      "slug": "philip-abner",
-      "name": "Philip Abner",
-      "full_name": "Philip Abner",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2002-05-05",
-      "age": 24,
-      "birthplace": "Charlotte, North Carolina, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "September 19, 2025",
-      "debut_team": "Arizona Diamondbacks",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Arizona Diamondbacks",
-        "San Francisco Giants",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q136341544",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_Abner",
-      "retrosheet_id": "abnep001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 5,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 5,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 11,
-          "hits": 5,
-          "runs": 2,
-          "earned_runs": 2,
-          "home_runs": 0,
-          "walks": 3,
-          "strikeouts": 5,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.91,
-          "whip": 2.182
-        }
-      }
-    },
     {
       "id": 677942,
       "mlb_id": 677942,
@@ -511,6 +431,51 @@
       }
     },
     {
+      "id": 690961,
+      "mlb_id": 690961,
+      "wikidata_id": "Q112239263",
+      "slug": "enrique-bradfield",
+      "name": "Enrique Bradfield",
+      "full_name": "Enrique Bradfield Jr.",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-12-02",
+      "age": 24,
+      "birthplace": "Pembroke Pines, Florida, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Vanderbilt University"
+          }
+        ]
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q112239263",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Enrique_Bradfield",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 680694,
       "mlb_id": 680694,
       "wikidata_id": "Q111721129",
@@ -586,6 +551,47 @@
           "era": 3.47,
           "whip": 1.163
         }
+      }
+    },
+    {
+      "id": 688867,
+      "mlb_id": 688867,
+      "wikidata_id": null,
+      "slug": "braxton-bragg",
+      "name": "Braxton Bragg",
+      "full_name": "Braxton Bragg",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Braxton_Bragg_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -795,29 +801,29 @@
       }
     },
     {
-      "id": 671382,
-      "mlb_id": 671382,
-      "wikidata_id": "Q139795825",
-      "slug": "cameron-foster",
-      "name": "Cameron Foster",
-      "full_name": "Cameron Foster",
-      "number": "65",
+      "id": 800406,
+      "mlb_id": 800406,
+      "wikidata_id": null,
+      "slug": "aron-estrada",
+      "name": "Aron Estrada",
+      "full_name": "Aron Estrada",
+      "number": "--",
       "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
+        "name": "Second Base",
+        "group": "Infielder",
+        "abbreviation": "2B"
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
-      "birth_date": "1999-03-17",
-      "age": 27,
-      "birthplace": "Houston, Texas, U.S.",
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
       "height": null,
       "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 16, 2026",
-      "debut_team": "Baltimore Orioles",
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
       "education": {
         "high_schools": [],
         "colleges": []
@@ -825,9 +831,50 @@
       "teams": [
         "Baltimore Orioles"
       ],
-      "source_url": "https://www.wikidata.org/wiki/Q139795825",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Foster",
-      "retrosheet_id": "fostc001",
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aron_Estrada",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 702650,
+      "mlb_id": 702650,
+      "wikidata_id": null,
+      "slug": "michael-forret",
+      "name": "Michael Forret",
+      "full_name": "Michael Forret",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Forret",
+      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",
@@ -972,6 +1019,47 @@
       }
     },
     {
+      "id": 815148,
+      "mlb_id": 815148,
+      "wikidata_id": null,
+      "slug": "nestor-german",
+      "name": "Nestor German",
+      "full_name": "Nestor German",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nestor_German",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 694346,
       "mlb_id": 694346,
       "wikidata_id": "Q139666682",
@@ -1005,47 +1093,6 @@
       "source_url": "https://www.wikidata.org/wiki/Q139666682",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Trey_Gibson",
       "retrosheet_id": "gibst001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
-      "id": 694633,
-      "mlb_id": 694633,
-      "wikidata_id": "Q123405267",
-      "slug": "chase-hampton",
-      "name": "Chase Hampton",
-      "full_name": "Chase Hampton",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-08-07",
-      "age": 25,
-      "birthplace": "Longview",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q123405267",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Chase_Hampton_%28baseball%29",
-      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",
@@ -1196,67 +1243,6 @@
           "on_base_percentage": 0.347,
           "slugging_percentage": 0.484,
           "ops": 0.831
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 677956,
-      "mlb_id": 677956,
-      "wikidata_id": "Q127277834",
-      "slug": "rece-hinds",
-      "name": "Rece Hinds",
-      "full_name": "Rece Hinds",
-      "number": "62",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "RF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-09-05",
-      "age": 26,
-      "birthplace": "Niceville",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 8, 2024",
-      "debut_team": "Cincinnati Reds",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Cincinnati Reds",
-        "Miami Marlins",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q127277834",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Rece_Hinds",
-      "retrosheet_id": "hindr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 39,
-          "plate_appearances": 95,
-          "at_bats": 89,
-          "runs": 15,
-          "hits": 17,
-          "doubles": 5,
-          "triples": 1,
-          "home_runs": 7,
-          "runs_batted_in": 14,
-          "walks": 5,
-          "strikeouts": 37,
-          "stolen_bases": 2,
-          "caught_stealing": 0,
-          "average": 0.191,
-          "on_base_percentage": 0.242,
-          "slugging_percentage": 0.506,
-          "ops": 0.748
         },
         "pitching": null
       }
@@ -1604,47 +1590,6 @@
       }
     },
     {
-      "id": 681439,
-      "mlb_id": 681439,
-      "wikidata_id": "Q140992058",
-      "slug": "zach-morgan",
-      "name": "Zach Morgan",
-      "full_name": "Zach Morgan",
-      "number": "--",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-03-30",
-      "age": 26,
-      "birthplace": "Stockton, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q140992058",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Zach_Morgan",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 665966,
       "mlb_id": 665966,
       "wikidata_id": "Q130331654",
@@ -1890,6 +1835,47 @@
       }
     },
     {
+      "id": 694345,
+      "mlb_id": 694345,
+      "wikidata_id": null,
+      "slug": "patrick-reilly",
+      "name": "Patrick Reilly",
+      "full_name": "Patrick Reilly",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Reilly_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 676742,
       "mlb_id": 676742,
       "wikidata_id": "Q135654232",
@@ -2090,6 +2076,47 @@
       }
     },
     {
+      "id": 694370,
+      "mlb_id": 694370,
+      "wikidata_id": null,
+      "slug": "levi-wells",
+      "name": "Levi Wells",
+      "full_name": "Levi Wells",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Baltimore Orioles"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Levi_Wells_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 676059,
       "mlb_id": 676059,
       "wikidata_id": "Q95970456",
@@ -2152,52 +2179,6 @@
           "slugging_percentage": 0.456,
           "ops": 0.768
         },
-        "pitching": null
-      }
-    },
-    {
-      "id": 687985,
-      "mlb_id": 687985,
-      "wikidata_id": "Q138201599",
-      "slug": "josh-white",
-      "name": "Josh White",
-      "full_name": "Josh White",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-11-24",
-      "age": 25,
-      "birthplace": "Walnut Creek",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 31, 2026",
-      "debut_team": "Miami Marlins",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "University of California, Berkeley"
-          }
-        ]
-      },
-      "teams": [
-        "Miami Marlins",
-        "Baltimore Orioles"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q138201599",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_White_%28baseball%29",
-      "retrosheet_id": "whitj003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
         "pitching": null
       }
     },

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:46:21.778678+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:19:27.105576+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 142,
     "name": "Minnesota Twins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -980,6 +980,69 @@
           "era": 4.76,
           "whip": 1.393
         }
+      }
+    },
+    {
+      "id": 680777,
+      "mlb_id": 680777,
+      "wikidata_id": "Q98556520",
+      "slug": "ryan-jeffers",
+      "name": "Ryan Jeffers",
+      "full_name": "Ryan Jeffers",
+      "number": "27",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1997-06-03",
+      "age": 29,
+      "birthplace": "Raleigh",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "August 20, 2020",
+      "debut_team": "Minnesota Twins",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Jesse O. Sanderson High School"
+          }
+        ]
+      },
+      "teams": [
+        "Minnesota Twins"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q98556520",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Jeffers",
+      "retrosheet_id": "jeffr002",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 515,
+          "plate_appearances": 1855,
+          "at_bats": 1638,
+          "runs": 207,
+          "hits": 392,
+          "doubles": 83,
+          "triples": 4,
+          "home_runs": 68,
+          "runs_batted_in": 223,
+          "walks": 165,
+          "strikeouts": 467,
+          "stolen_bases": 7,
+          "caught_stealing": 4,
+          "average": 0.239,
+          "on_base_percentage": 0.321,
+          "slugging_percentage": 0.419,
+          "ops": 0.74
+        },
+        "pitching": null
       }
     },
     {

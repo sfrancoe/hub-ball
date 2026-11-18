@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:47:34.524295+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-18T18:20:33.512810+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 108,
     "name": "Los Angeles Angels"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1868,6 +1868,47 @@
       }
     },
     {
+      "id": 703185,
+      "mlb_id": 703185,
+      "wikidata_id": null,
+      "slug": "nelson-rada",
+      "name": "Nelson Rada",
+      "full_name": "Nelson Rada",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Los Angeles Angels"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nelson_Rada",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 680570,
       "mlb_id": 680570,
       "wikidata_id": "Q54861353",
@@ -1944,6 +1985,47 @@
           "era": 4.11,
           "whip": 1.291
         }
+      }
+    },
+    {
+      "id": 804558,
+      "mlb_id": 804558,
+      "wikidata_id": null,
+      "slug": "raudi-rodriguez",
+      "name": "Raudi Rodriguez",
+      "full_name": "Raudi Rodriguez",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Los Angeles Angels"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Raudi_Rodriguez",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

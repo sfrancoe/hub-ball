@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "player_id": 691730,
+  "generated_at": "2026-11-18T18:24:37.463424+00:00",
+  "data_as_of": "2026-11-18",
+  "status": "available",
+  "coverage": [
+    {
+      "league": "Minors",
+      "level": "Minors",
+      "first_season": 2024,
+      "last_season": 2024,
+      "status": "available",
+      "note": null
+    }
+  ],
+  "source": {
+    "name": "MLB Stats API",
+    "url": "https://statsapi.mlb.com/api/v1/people/691730/stats",
+    "attribution": "Season and minor-league statistics supplied by the MLB Stats API; regular season only."
+  },
+  "batting": [],
+  "pitching": [
+    {
+      "id": "691730-pitching-minors-2024-14-485",
+      "season": 2024,
+      "team": "Down East Wood Ducks",
+      "league": "Carolina League",
+      "level": "A",
+      "row_type": "team_stint",
+      "games": 10,
+      "games_started": 10,
+      "wins": 2,
+      "losses": 3,
+      "saves": 0,
+      "innings_outs": 141,
+      "hits": 36,
+      "earned_runs": 11,
+      "home_runs": 2,
+      "walks": 5,
+      "strikeouts": 69,
+      "era": 2.11,
+      "whip": 0.87
+    },
+    {
+      "id": "691730-pitching-minors-2024-13-448",
+      "season": 2024,
+      "team": "Hickory Crawdads",
+      "league": "South Atlantic League",
+      "level": "A+",
+      "row_type": "team_stint",
+      "games": 8,
+      "games_started": 7,
+      "wins": 2,
+      "losses": 2,
+      "saves": 0,
+      "innings_outs": 124,
+      "hits": 33,
+      "earned_runs": 11,
+      "home_runs": 0,
+      "walks": 8,
+      "strikeouts": 60,
+      "era": 2.4,
+      "whip": 0.99
+    },
+    {
+      "id": "691730-pitching-minors-2024-21-subtotal",
+      "season": 2024,
+      "team": "2 teams",
+      "league": null,
+      "level": "Minors",
+      "row_type": "subtotal",
+      "games": 18,
+      "games_started": 17,
+      "wins": 4,
+      "losses": 5,
+      "saves": 0,
+      "innings_outs": 265,
+      "hits": 69,
+      "earned_runs": 22,
+      "home_runs": 2,
+      "walks": 13,
+      "strikeouts": 129,
+      "era": 2.24,
+      "whip": 0.93
+    }
+  ]
+}

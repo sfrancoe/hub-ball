@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:54:31.325476+00:00",
-  "roster_as_of": "November 3, 2026",
+  "generated_at": "2026-11-18T18:27:30.883411+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 138,
     "name": "St. Louis Cardinals"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -233,6 +233,47 @@
           "era": 13.5,
           "whip": 3.375
         }
+      }
+    },
+    {
+      "id": 800305,
+      "mlb_id": 800305,
+      "wikidata_id": null,
+      "slug": "jesus-baez",
+      "name": "Jesús Báez",
+      "full_name": "Jesús Báez",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "St. Louis Cardinals"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_B%C3%A1ez",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -1491,6 +1532,47 @@
       }
     },
     {
+      "id": 813838,
+      "mlb_id": 813838,
+      "wikidata_id": null,
+      "slug": "jacob-odle",
+      "name": "Jacob Odle",
+      "full_name": "Jacob Odle",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "St. Louis Cardinals"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Odle",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 686780,
       "mlb_id": 686780,
       "wikidata_id": "Q117316427",
@@ -1745,47 +1827,6 @@
           "slugging_percentage": 0.167,
           "ops": 0.334
         },
-        "pitching": null
-      }
-    },
-    {
-      "id": 691008,
-      "mlb_id": 691008,
-      "wikidata_id": "Q139736999",
-      "slug": "max-rajcic",
-      "name": "Max Rajcic",
-      "full_name": "Max Rajcic",
-      "number": "71",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-08-03",
-      "age": 25,
-      "birthplace": "Orange, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 18, 2026",
-      "debut_team": "St. Louis Cardinals",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "St. Louis Cardinals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q139736999",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Rajcic",
-      "retrosheet_id": "rajcm001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
         "pitching": null
       }
     },

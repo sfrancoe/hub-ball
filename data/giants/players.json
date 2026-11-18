@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:57:34.807247+00:00",
-  "roster_as_of": "November 15, 2026",
+  "generated_at": "2026-11-18T18:30:35.643906+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 137,
     "name": "San Francisco Giants"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -311,6 +311,47 @@
           "era": 4.77,
           "whip": 1.438
         }
+      }
+    },
+    {
+      "id": 701241,
+      "mlb_id": 701241,
+      "wikidata_id": null,
+      "slug": "josh-bostick",
+      "name": "Josh Bostick",
+      "full_name": "Josh Bostick",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Bostick",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -711,6 +752,47 @@
       }
     },
     {
+      "id": 700248,
+      "mlb_id": 700248,
+      "wikidata_id": null,
+      "slug": "marty-gair",
+      "name": "Marty Gair",
+      "full_name": "Marty Gair",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marty_Gair",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 687551,
       "mlb_id": 687551,
       "wikidata_id": "Q111461948",
@@ -1024,29 +1106,29 @@
       }
     },
     {
-      "id": 683766,
-      "mlb_id": 683766,
-      "wikidata_id": "Q133809730",
-      "slug": "christian-koss",
-      "name": "Christian Koss",
-      "full_name": "Christian Koss",
-      "number": "50",
+      "id": 700649,
+      "mlb_id": 700649,
+      "wikidata_id": null,
+      "slug": "henry-lalane",
+      "name": "Henry Lalane",
+      "full_name": "Henry Lalane",
+      "number": "--",
       "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
-      "birth_date": "1998-01-27",
-      "age": 28,
-      "birthplace": "Riverside, California, U.S.",
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
       "height": null,
       "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "April 1, 2025",
-      "debut_team": "San Francisco Giants",
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
       "education": {
         "high_schools": [],
         "colleges": []
@@ -1054,51 +1136,14 @@
       "teams": [
         "San Francisco Giants"
       ],
-      "source_url": "https://www.wikidata.org/wiki/Q133809730",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Koss",
-      "retrosheet_id": "kossc001",
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Lalane",
+      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 76,
-          "plate_appearances": 191,
-          "at_bats": 174,
-          "runs": 25,
-          "hits": 46,
-          "doubles": 9,
-          "triples": 0,
-          "home_runs": 3,
-          "runs_batted_in": 23,
-          "walks": 9,
-          "strikeouts": 45,
-          "stolen_bases": 4,
-          "caught_stealing": 1,
-          "average": 0.264,
-          "on_base_percentage": 0.309,
-          "slugging_percentage": 0.368,
-          "ops": 0.677
-        },
-        "pitching": {
-          "games": 4,
-          "games_started": 0,
-          "wins": 0,
-          "losses": 0,
-          "saves": 0,
-          "innings_outs": 12,
-          "hits": 4,
-          "runs": 0,
-          "earned_runs": 0,
-          "home_runs": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "hit_batters": 0,
-          "wild_pitches": 0,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 0.0,
-          "whip": 1.0
-        }
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -2150,7 +2195,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1996-11-18",
-      "age": 29,
+      "age": 30,
       "birthplace": "Q5303513",
       "height": "6' 2\"",
       "weight": 218,
@@ -2291,91 +2336,6 @@
           "complete_games": 0,
           "era": 5.01,
           "whip": 1.457
-        }
-      }
-    },
-    {
-      "id": 592858,
-      "mlb_id": 592858,
-      "wikidata_id": "Q28924877",
-      "slug": "rowan-wick",
-      "name": "Rowan Wick",
-      "full_name": "Rowan Wick",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1992-11-09",
-      "age": 34,
-      "birthplace": "North Vancouver",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "August 31, 2018",
-      "debut_team": "San Diego Padres",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Carson Graham Secondary School"
-          }
-        ]
-      },
-      "teams": [
-        "San Diego Padres",
-        "Chicago Cubs",
-        "Yokohama DeNA BayStars",
-        "San Francisco Giants"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q28924877",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Rowan_Wick",
-      "retrosheet_id": "wickr001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 146,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 146,
-          "games_started": 0,
-          "wins": 6,
-          "losses": 10,
-          "saves": 20,
-          "innings_outs": 438,
-          "hits": 149,
-          "runs": 74,
-          "earned_runs": 62,
-          "home_runs": 12,
-          "walks": 66,
-          "strikeouts": 160,
-          "hit_batters": 5,
-          "wild_pitches": 4,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 3.82,
-          "whip": 1.473
         }
       }
     },

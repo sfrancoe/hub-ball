@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:51:11.890234+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:24:10.982914+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 143,
     "name": "Philadelphia Phillies"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1999,6 +1999,47 @@
       "source_url": "https://www.wikidata.org/wiki/Q139464136",
       "wikipedia_url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Reyes",
       "retrosheet_id": "reyef002",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 804858,
+      "mlb_id": 804858,
+      "wikidata_id": null,
+      "slug": "bryan-rincon",
+      "name": "Bryan Rincon",
+      "full_name": "Bryan Rincon",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Philadelphia Phillies"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bryan_Rincon",
+      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",

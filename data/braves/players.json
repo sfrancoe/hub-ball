@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:50:05.704026+00:00",
-  "roster_as_of": "November 12, 2026",
+  "generated_at": "2026-11-18T18:23:07.859493+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 144,
     "name": "Atlanta Braves"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -353,6 +353,48 @@
       }
     },
     {
+      "id": 671382,
+      "mlb_id": 671382,
+      "wikidata_id": "Q139795825",
+      "slug": "cameron-foster",
+      "name": "Cameron Foster",
+      "full_name": "Cameron Foster",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1999-03-17",
+      "age": 27,
+      "birthplace": "Houston, Texas, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "April 16, 2026",
+      "debut_team": "Baltimore Orioles",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Baltimore Orioles",
+        "Atlanta Braves"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q139795825",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Foster",
+      "retrosheet_id": "fostc001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 800311,
       "mlb_id": 800311,
       "wikidata_id": "Q135000350",
@@ -428,6 +470,47 @@
           "era": 13.85,
           "whip": 2.231
         }
+      }
+    },
+    {
+      "id": 678142,
+      "mlb_id": 678142,
+      "wikidata_id": null,
+      "slug": "cedric-de-grandpre",
+      "name": "Cédric De Grandpré",
+      "full_name": "Cédric De Grandpré",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Atlanta Braves"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9dric_De_Grandpr%C3%A9",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -1645,6 +1728,47 @@
           "era": 3.36,
           "whip": 1.131
         }
+      }
+    },
+    {
+      "id": 805175,
+      "mlb_id": 805175,
+      "wikidata_id": null,
+      "slug": "davis-polo",
+      "name": "Davis Polo",
+      "full_name": "Davis Polo",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Atlanta Braves"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Davis_Polo",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

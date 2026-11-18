@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:52:19.389172+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:25:14.122918+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 112,
     "name": "Chicago Cubs"
   },
   "roster_type": "open-current-roster",
-  "player_count": 34,
+  "player_count": 36,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1373,6 +1373,47 @@
       }
     },
     {
+      "id": 805664,
+      "mlb_id": 805664,
+      "wikidata_id": null,
+      "slug": "brody-mccullough",
+      "name": "Brody McCullough",
+      "full_name": "Brody McCullough",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brody_McCullough",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 571946,
       "mlb_id": 571946,
       "wikidata_id": "Q3481793",
@@ -2369,6 +2410,47 @@
           "era": 5.21,
           "whip": 1.516
         }
+      }
+    },
+    {
+      "id": 694393,
+      "mlb_id": 694393,
+      "wikidata_id": "Q120653301",
+      "slug": "jaxon-wiggins",
+      "name": "Jaxon Wiggins",
+      "full_name": "Jaxon Wiggins",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-10-03",
+      "age": 25,
+      "birthplace": "Roland",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q120653301",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jaxon_Wiggins",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

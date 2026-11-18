@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:57:04.952837+00:00",
-  "roster_as_of": "November 16, 2026",
+  "generated_at": "2026-11-18T18:30:07.595453+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 135,
     "name": "San Diego Padres"
   },
   "roster_type": "open-current-roster",
-  "player_count": 34,
+  "player_count": 36,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -984,6 +984,47 @@
       }
     },
     {
+      "id": 701617,
+      "mlb_id": 701617,
+      "wikidata_id": null,
+      "slug": "ian-koenig",
+      "name": "Ian Koenig",
+      "full_name": "Ian Koenig",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Diego Padres"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ian_Koenig",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 592518,
       "mlb_id": 592518,
       "wikidata_id": "Q3079152",
@@ -1496,6 +1537,47 @@
           "era": 3.73,
           "whip": 1.167
         }
+      }
+    },
+    {
+      "id": 814491,
+      "mlb_id": 814491,
+      "wikidata_id": null,
+      "slug": "tucker-musgrove",
+      "name": "Tucker Musgrove",
+      "full_name": "Tucker Musgrove",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Diego Padres"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tucker_Musgrove",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:52:48.735475+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:26:00.547491+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 113,
     "name": "Cincinnati Reds"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -359,7 +359,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1999-11-18",
-      "age": 26,
+      "age": 27,
       "birthplace": "Lawrenceville, Georgia, U.S.",
       "height": null,
       "weight": null,
@@ -920,6 +920,47 @@
       "source_url": "https://www.wikidata.org/wiki/Q140467749",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Julian_Garcia_%28baseball%29",
       "retrosheet_id": "garcj009",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 807728,
+      "mlb_id": 807728,
+      "wikidata_id": null,
+      "slug": "carter-graham",
+      "name": "Carter Graham",
+      "full_name": "Carter Graham",
+      "number": "--",
+      "position": {
+        "name": "First Base",
+        "group": "Infielder",
+        "abbreviation": "1B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Cincinnati Reds"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carter_Graham",
+      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",

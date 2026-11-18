@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:45:51.018930+00:00",
-  "roster_as_of": "October 29, 2026",
+  "generated_at": "2026-11-18T18:19:00.911920+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 118,
     "name": "Kansas City Royals"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -96,6 +96,47 @@
           "era": 1.29,
           "whip": 0.929
         }
+      }
+    },
+    {
+      "id": 682785,
+      "mlb_id": 682785,
+      "wikidata_id": null,
+      "slug": "angel-bastardo",
+      "name": "Angel Bastardo",
+      "full_name": "Angel Bastardo",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Kansas City Royals"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Angel_Bastardo",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -254,6 +295,47 @@
           "era": 3.68,
           "whip": 1.28
         }
+      }
+    },
+    {
+      "id": 814351,
+      "mlb_id": 814351,
+      "wikidata_id": null,
+      "slug": "lucas-braun",
+      "name": "Lucas Braun",
+      "full_name": "Lucas Braun",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Kansas City Royals"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Braun",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -899,7 +981,8 @@
         "colleges": []
       },
       "teams": [
-        "Kansas City Royals"
+        "Kansas City Royals",
+        "Seattle Mariners"
       ],
       "source_url": "https://www.wikidata.org/wiki/Q113129952",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Maikel_Garc%C3%ADa",
@@ -1939,91 +2022,6 @@
       }
     },
     {
-      "id": 683232,
-      "mlb_id": 683232,
-      "wikidata_id": "Q98150763",
-      "slug": "nick-mears",
-      "name": "Nick Mears",
-      "full_name": "Nick Mears",
-      "number": "31",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "60-day injured list",
-      "is_active_roster": false,
-      "birth_date": "1996-10-07",
-      "age": 30,
-      "birthplace": "Sacramento",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 8, 2020",
-      "debut_team": "Pittsburgh Pirates",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Rocklin High School"
-          }
-        ]
-      },
-      "teams": [
-        "Pittsburgh Pirates",
-        "Colorado Rockies",
-        "Milwaukee Brewers",
-        "Kansas City Royals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q98150763",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_Mears",
-      "retrosheet_id": "mearn001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 169,
-          "plate_appearances": 1,
-          "at_bats": 1,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 1,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.0,
-          "on_base_percentage": 0.0,
-          "slugging_percentage": 0.0,
-          "ops": 0.0
-        },
-        "pitching": {
-          "games": 169,
-          "games_started": 0,
-          "wins": 7,
-          "losses": 9,
-          "saves": 1,
-          "innings_outs": 492,
-          "hits": 147,
-          "runs": 90,
-          "earned_runs": 84,
-          "home_runs": 21,
-          "walks": 72,
-          "strikeouts": 174,
-          "hit_batters": 2,
-          "wild_pitches": 10,
-          "balks": 1,
-          "complete_games": 0,
-          "era": 4.61,
-          "whip": 1.335
-        }
-      }
-    },
-    {
       "id": 686469,
       "mlb_id": 686469,
       "wikidata_id": "Q112761981",
@@ -2364,6 +2362,47 @@
           "slugging_percentage": 0.307,
           "ops": 0.59
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 811287,
+      "mlb_id": 811287,
+      "wikidata_id": "Q121014406",
+      "slug": "carson-roccaforte",
+      "name": "Carson Roccaforte",
+      "full_name": "Carson Roccaforte",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2002-03-29",
+      "age": 24,
+      "birthplace": "Beaumont, Texas, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Kansas City Royals"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q121014406",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carson_Roccaforte",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },

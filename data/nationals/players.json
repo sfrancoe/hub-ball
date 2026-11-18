@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T18:51:38.604421+00:00",
-  "roster_as_of": "November 9, 2026",
+  "generated_at": "2026-11-18T18:24:33.489236+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 120,
     "name": "Washington Nationals"
@@ -20,6 +20,86 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
+    {
+      "id": 691769,
+      "mlb_id": 691769,
+      "wikidata_id": "Q136341544",
+      "slug": "philip-abner",
+      "name": "Philip Abner",
+      "full_name": "Philip Abner",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2002-05-05",
+      "age": 24,
+      "birthplace": "Charlotte, North Carolina, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "September 19, 2025",
+      "debut_team": "Arizona Diamondbacks",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Arizona Diamondbacks",
+        "San Francisco Giants",
+        "Washington Nationals"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q136341544",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_Abner",
+      "retrosheet_id": "abnep001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 5,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 5,
+          "games_started": 0,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "innings_outs": 11,
+          "hits": 5,
+          "runs": 2,
+          "earned_runs": 2,
+          "home_runs": 0,
+          "walks": 3,
+          "strikeouts": 5,
+          "hit_batters": 0,
+          "wild_pitches": 0,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 4.91,
+          "whip": 2.182
+        }
+      }
+    },
     {
       "id": 682928,
       "mlb_id": 682928,
@@ -846,89 +926,6 @@
       }
     },
     {
-      "id": 680686,
-      "mlb_id": 680686,
-      "wikidata_id": "Q107583556",
-      "slug": "josiah-gray",
-      "name": "Josiah Gray",
-      "full_name": "Josiah Gray",
-      "number": "40",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1997-12-21",
-      "age": 28,
-      "birthplace": "New Rochelle, New York, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 20, 2021",
-      "debut_team": "Los Angeles Dodgers",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "New Rochelle High School"
-          }
-        ]
-      },
-      "teams": [
-        "Los Angeles Dodgers",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q107583556",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Josiah_Gray",
-      "retrosheet_id": "grayj004",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 74,
-          "plate_appearances": 24,
-          "at_bats": 22,
-          "runs": 0,
-          "hits": 1,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 1,
-          "strikeouts": 12,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": 0.045,
-          "on_base_percentage": 0.087,
-          "slugging_percentage": 0.045,
-          "ops": 0.132
-        },
-        "pitching": {
-          "games": 74,
-          "games_started": 73,
-          "wins": 17,
-          "losses": 27,
-          "saves": 0,
-          "innings_outs": 1160,
-          "hits": 366,
-          "runs": 213,
-          "earned_runs": 208,
-          "home_runs": 81,
-          "walks": 184,
-          "strikeouts": 382,
-          "hit_batters": 19,
-          "wild_pitches": 23,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.84,
-          "whip": 1.422
-        }
-      }
-    },
-    {
       "id": 687792,
       "mlb_id": 687792,
       "wikidata_id": "Q124479817",
@@ -1530,85 +1527,6 @@
       }
     },
     {
-      "id": 687223,
-      "mlb_id": 687223,
-      "wikidata_id": "Q111293449",
-      "slug": "carson-palmquist",
-      "name": "Carson Palmquist",
-      "full_name": "Carson Palmquist",
-      "number": "51",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-10-17",
-      "age": 26,
-      "birthplace": "Fort Myers, Florida, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Left",
-      "debut_date": "May 16, 2025",
-      "debut_team": "Colorado Rockies",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Colorado Rockies",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q111293449",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Carson_Palmquist",
-      "retrosheet_id": "palmc001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 9,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 9,
-          "games_started": 7,
-          "wins": 0,
-          "losses": 4,
-          "saves": 0,
-          "innings_outs": 103,
-          "hits": 45,
-          "runs": 35,
-          "earned_runs": 34,
-          "home_runs": 10,
-          "walks": 25,
-          "strikeouts": 27,
-          "hit_batters": 3,
-          "wild_pitches": 1,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 8.91,
-          "whip": 2.039
-        }
-      }
-    },
-    {
       "id": 691384,
       "mlb_id": 691384,
       "wikidata_id": "Q139737081",
@@ -1769,12 +1687,12 @@
       }
     },
     {
-      "id": 694820,
-      "mlb_id": 694820,
-      "wikidata_id": "Q141185971",
-      "slug": "braxton-roxby",
-      "name": "Braxton Roxby",
-      "full_name": "Braxton Roxby",
+      "id": 691730,
+      "mlb_id": 691730,
+      "wikidata_id": null,
+      "slug": "alejandro-rosario",
+      "name": "Alejandro Rosario",
+      "full_name": "Alejandro Rosario",
       "number": "--",
       "position": {
         "name": "Pitcher",
@@ -1783,26 +1701,25 @@
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
-      "birth_date": "1999-03-12",
-      "age": 27,
-      "birthplace": "Windber, Pennsylvania, U.S.",
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
       "height": null,
       "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 28, 2026",
-      "debut_team": "San Francisco Giants",
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
       "education": {
         "high_schools": [],
         "colleges": []
       },
       "teams": [
-        "San Francisco Giants",
         "Washington Nationals"
       ],
-      "source_url": "https://www.wikidata.org/wiki/Q141185971",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Braxton_Roxby",
-      "retrosheet_id": "roxbb001",
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alejandro_Rosario",
+      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",
@@ -2040,6 +1957,88 @@
       }
     },
     {
+      "id": 703186,
+      "mlb_id": 703186,
+      "wikidata_id": null,
+      "slug": "jarlin-susana",
+      "name": "Jarlin Susana",
+      "full_name": "Jarlin Susana",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Washington Nationals"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jarlin_Susana",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 805809,
+      "mlb_id": 805809,
+      "wikidata_id": "Q132432141",
+      "slug": "travis-sykora",
+      "name": "Travis Sykora",
+      "full_name": "Travis Sykora",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2004-04-28",
+      "age": 22,
+      "birthplace": "Round Rock",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Washington Nationals"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q132432141",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Travis_Sykora",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 680899,
       "mlb_id": 680899,
       "wikidata_id": "Q141131338",
@@ -2078,87 +2077,6 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
-      }
-    },
-    {
-      "id": 681402,
-      "mlb_id": 681402,
-      "wikidata_id": "Q117317954",
-      "slug": "gus-varland",
-      "name": "Gus Varland",
-      "full_name": "Gus Varland",
-      "number": "76",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-11-06",
-      "age": 30,
-      "birthplace": "Maplewood, Minnesota, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "March 30, 2023",
-      "debut_team": "Milwaukee Brewers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Milwaukee Brewers",
-        "Los Angeles Dodgers",
-        "Chicago White Sox",
-        "Washington Nationals"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q117317954",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Gus_Varland",
-      "retrosheet_id": "varlg001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 42,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 42,
-          "games_started": 0,
-          "wins": 2,
-          "losses": 1,
-          "saves": 0,
-          "innings_outs": 140,
-          "hits": 57,
-          "runs": 30,
-          "earned_runs": 25,
-          "home_runs": 5,
-          "walks": 24,
-          "strikeouts": 47,
-          "hit_batters": 2,
-          "wild_pitches": 4,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 4.82,
-          "whip": 1.736
-        }
       }
     },
     {

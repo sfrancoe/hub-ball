@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:50:32.213428+00:00",
-  "roster_as_of": "November 9, 2026",
+  "generated_at": "2026-11-18T18:23:30.293109+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 146,
     "name": "Miami Marlins"
   },
   "roster_type": "open-current-roster",
-  "player_count": 35,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -156,6 +156,47 @@
           "era": 3.65,
           "whip": 1.175
         }
+      }
+    },
+    {
+      "id": 689476,
+      "mlb_id": 689476,
+      "wikidata_id": null,
+      "slug": "jace-beck",
+      "name": "Jace Beck",
+      "full_name": "Jace Beck",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Miami Marlins"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jace_Beck",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -402,6 +443,47 @@
           "slugging_percentage": 0.435,
           "ops": 0.755
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 803244,
+      "mlb_id": 803244,
+      "wikidata_id": null,
+      "slug": "eliazar-dishmey",
+      "name": "Eliazar Dishmey",
+      "full_name": "Eliazar Dishmey",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Miami Marlins"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eliazar_Dishmey",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -1210,6 +1292,47 @@
           "slugging_percentage": 0.478,
           "ops": 0.841
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 801276,
+      "mlb_id": 801276,
+      "wikidata_id": null,
+      "slug": "juan-matheus",
+      "name": "Juan Matheus",
+      "full_name": "Juan Matheus",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Miami Marlins"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Matheus",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -2227,6 +2350,47 @@
       "source_url": "https://www.wikidata.org/wiki/Q139974136",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Weston",
       "retrosheet_id": "westc001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 681449,
+      "mlb_id": 681449,
+      "wikidata_id": null,
+      "slug": "brandon-white",
+      "name": "Brandon White",
+      "full_name": "Brandon White",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Miami Marlins"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_White_%28baseball%29",
+      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",

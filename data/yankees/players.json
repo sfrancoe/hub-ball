@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:41:06.131904+00:00",
-  "roster_as_of": "November 12, 2026",
+  "generated_at": "2026-11-18T18:14:16.599012+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 147,
     "name": "New York Yankees"
   },
   "roster_type": "open-current-roster",
-  "player_count": 33,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -63,6 +63,90 @@
         "status": "not_in_2025_release",
         "batting": null,
         "pitching": null
+      }
+    },
+    {
+      "id": 670280,
+      "mlb_id": 670280,
+      "wikidata_id": "Q67225024",
+      "slug": "david-bednar",
+      "name": "David Bednar",
+      "full_name": "David Bednar",
+      "number": "53",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1994-10-10",
+      "age": 32,
+      "birthplace": "Pittsburgh",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": "September 1, 2019",
+      "debut_team": "San Diego Padres",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "Mars Area High School"
+          }
+        ]
+      },
+      "teams": [
+        "San Diego Padres",
+        "Pittsburgh Pirates",
+        "New York Yankees"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q67225024",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Bednar_%28baseball%29",
+      "retrosheet_id": "bednd001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 315,
+          "plate_appearances": 1,
+          "at_bats": 1,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 1,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": 0.0,
+          "on_base_percentage": 0.0,
+          "slugging_percentage": 0.0,
+          "ops": 0.0
+        },
+        "pitching": {
+          "games": 315,
+          "games_started": 0,
+          "wins": 18,
+          "losses": 23,
+          "saves": 111,
+          "innings_outs": 952,
+          "hits": 256,
+          "runs": 128,
+          "earned_runs": 111,
+          "home_runs": 29,
+          "walks": 110,
+          "strikeouts": 389,
+          "hit_batters": 9,
+          "wild_pitches": 11,
+          "balks": 1,
+          "complete_games": 0,
+          "era": 3.15,
+          "whip": 1.153
+        }
       }
     },
     {
@@ -212,6 +296,47 @@
           "era": 54.0,
           "whip": 6.0
         }
+      }
+    },
+    {
+      "id": 694805,
+      "mlb_id": 694805,
+      "wikidata_id": null,
+      "slug": "kyle-carr",
+      "name": "Kyle Carr",
+      "full_name": "Kyle Carr",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "New York Yankees"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kyle_Carr_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -822,6 +947,47 @@
       }
     },
     {
+      "id": 694633,
+      "mlb_id": 694633,
+      "wikidata_id": "Q123405267",
+      "slug": "chase-hampton",
+      "name": "Chase Hampton",
+      "full_name": "Chase Hampton",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-08-07",
+      "age": 25,
+      "birthplace": "Longview",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "New York Yankees"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q123405267",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chase_Hampton_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 690440,
       "mlb_id": 690440,
       "wikidata_id": "Q140608411",
@@ -1154,6 +1320,47 @@
       }
     },
     {
+      "id": 801739,
+      "mlb_id": 801739,
+      "wikidata_id": null,
+      "slug": "carlos-lagrange",
+      "name": "Carlos Lagrange",
+      "full_name": "Carlos Lagrange",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "New York Yankees"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Lagrange",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 682617,
       "mlb_id": 682617,
       "wikidata_id": "Q96707402",
@@ -1210,6 +1417,47 @@
           "slugging_percentage": 0.304,
           "ops": 0.59
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 682003,
+      "mlb_id": 682003,
+      "wikidata_id": null,
+      "slug": "garrett-martin",
+      "name": "Garrett Martin",
+      "full_name": "Garrett Martin",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "RF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "New York Yankees"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Garrett_Martin",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },

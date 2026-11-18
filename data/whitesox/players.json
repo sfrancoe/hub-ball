@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:44:08.919560+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:17:07.184469+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 145,
     "name": "Chicago White Sox"
   },
   "roster_type": "open-current-roster",
-  "player_count": 39,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -186,75 +186,6 @@
           "on_base_percentage": 0.279,
           "slugging_percentage": 0.382,
           "ops": 0.661
-        },
-        "pitching": null
-      }
-    },
-    {
-      "id": 663698,
-      "mlb_id": 663698,
-      "wikidata_id": "Q52521848",
-      "slug": "joey-bart",
-      "name": "Joey Bart",
-      "full_name": "Joey Bart",
-      "number": "25",
-      "position": {
-        "name": "Catcher",
-        "group": "Catcher",
-        "abbreviation": "C"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-12-15",
-      "age": 29,
-      "birthplace": "Buford",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "August 20, 2020",
-      "debut_team": "San Francisco Giants",
-      "education": {
-        "high_schools": [],
-        "colleges": [
-          {
-            "name": "Georgia Tech"
-          },
-          {
-            "name": "Buford High School"
-          }
-        ]
-      },
-      "teams": [
-        "San Francisco Giants",
-        "Pittsburgh Pirates",
-        "Atlanta Braves",
-        "Chicago White Sox"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q52521848",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Joey_Bart",
-      "retrosheet_id": "bartj003",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 335,
-          "plate_appearances": 1117,
-          "at_bats": 995,
-          "runs": 118,
-          "hits": 238,
-          "doubles": 39,
-          "triples": 3,
-          "home_runs": 28,
-          "runs_batted_in": 113,
-          "walks": 94,
-          "strikeouts": 344,
-          "stolen_bases": 3,
-          "caught_stealing": 2,
-          "average": 0.239,
-          "on_base_percentage": 0.321,
-          "slugging_percentage": 0.369,
-          "ops": 0.69
         },
         "pitching": null
       }
@@ -996,6 +927,47 @@
           "era": 2.83,
           "whip": 1.035
         }
+      }
+    },
+    {
+      "id": 703151,
+      "mlb_id": 703151,
+      "wikidata_id": null,
+      "slug": "william-bergolla-jr",
+      "name": "William Bergolla Jr.",
+      "full_name": "William Bergolla Jr.",
+      "number": "--",
+      "position": {
+        "name": "Second Base",
+        "group": "Infielder",
+        "abbreviation": "2B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Chicago White Sox"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Bergolla_Jr.",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -2537,6 +2509,47 @@
           "era": 2.5,
           "whip": 1.248
         }
+      }
+    },
+    {
+      "id": 692243,
+      "mlb_id": 692243,
+      "wikidata_id": null,
+      "slug": "jaden-woods",
+      "name": "Jaden Woods",
+      "full_name": "Jaden Woods",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Chicago White Sox"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jaden_Woods",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     }
   ]

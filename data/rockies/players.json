@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:55:40.262716+00:00",
-  "roster_as_of": "November 9, 2026",
+  "generated_at": "2026-11-18T18:28:37.360445+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 115,
     "name": "Colorado Rockies"
   },
   "roster_type": "open-current-roster",
-  "player_count": 36,
+  "player_count": 39,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -335,6 +335,47 @@
           "era": 3.47,
           "whip": 1.336
         }
+      }
+    },
+    {
+      "id": 700164,
+      "mlb_id": 700164,
+      "wikidata_id": null,
+      "slug": "bryant-betancourt",
+      "name": "Bryant Betancourt",
+      "full_name": "Bryant Betancourt",
+      "number": "--",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Colorado Rockies"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bryant_Betancourt",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -679,6 +720,47 @@
           "era": 5.79,
           "whip": 1.286
         }
+      }
+    },
+    {
+      "id": 702484,
+      "mlb_id": 702484,
+      "wikidata_id": null,
+      "slug": "jackson-cox",
+      "name": "Jackson Cox",
+      "full_name": "Jackson Cox",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Colorado Rockies"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Cox",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -1630,6 +1712,47 @@
           "slugging_percentage": 0.277,
           "ops": 0.585
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 694968,
+      "mlb_id": 694968,
+      "wikidata_id": null,
+      "slug": "jack-mahoney",
+      "name": "Jack Mahoney",
+      "full_name": "Jack Mahoney",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Colorado Rockies"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Mahoney_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:54:04.221695+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:27:07.699627+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 134,
     "name": "Pittsburgh Pirates"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -1201,6 +1201,47 @@
       }
     },
     {
+      "id": 694991,
+      "mlb_id": 694991,
+      "wikidata_id": null,
+      "slug": "mitch-jebb",
+      "name": "Mitch Jebb",
+      "full_name": "Mitch Jebb",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "LF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Pittsburgh Pirates"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mitch_Jebb",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 683003,
       "mlb_id": 683003,
       "wikidata_id": "Q121643156",
@@ -1827,6 +1868,47 @@
           "slugging_percentage": 0.421,
           "ops": 0.742
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 800208,
+      "mlb_id": 800208,
+      "wikidata_id": null,
+      "slug": "axiel-plaz",
+      "name": "Axiel Plaz",
+      "full_name": "Axiel Plaz",
+      "number": "--",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Pittsburgh Pirates"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Axiel_Plaz",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },

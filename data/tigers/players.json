@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T18:45:20.113108+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:18:14.302941+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 116,
     "name": "Detroit Tigers"
@@ -105,6 +105,93 @@
           "era": 6.5,
           "whip": 1.579
         }
+      }
+    },
+    {
+      "id": 801194,
+      "mlb_id": 801194,
+      "wikidata_id": "Q120500414",
+      "slug": "max-anderson",
+      "name": "Max Anderson",
+      "full_name": "Max Anderson",
+      "number": "--",
+      "position": {
+        "name": "Second Base",
+        "group": "Infielder",
+        "abbreviation": "2B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2002-02-28",
+      "age": 24,
+      "birthplace": "Kansas City, Missouri, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "University of Nebraska–Lincoln"
+          }
+        ]
+      },
+      "teams": [
+        "Nebraska Cornhuskers baseball",
+        "Detroit Tigers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q120500414",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Anderson_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 800522,
+      "mlb_id": 800522,
+      "wikidata_id": null,
+      "slug": "josue-briceno",
+      "name": "Josue Briceño",
+      "full_name": "Josue Briceño",
+      "number": "--",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Detroit Tigers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josue_Brice%C3%B1o",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -618,6 +705,47 @@
       }
     },
     {
+      "id": 689931,
+      "mlb_id": 689931,
+      "wikidata_id": null,
+      "slug": "peyton-graham",
+      "name": "Peyton Graham",
+      "full_name": "Peyton Graham",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Detroit Tigers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Peyton_Graham",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 682985,
       "mlb_id": 682985,
       "wikidata_id": "Q64374840",
@@ -1072,65 +1200,6 @@
           "era": 3.91,
           "whip": 1.415
         }
-      }
-    },
-    {
-      "id": 690291,
-      "mlb_id": 690291,
-      "wikidata_id": "Q110952384",
-      "slug": "jace-jung",
-      "name": "Jace Jung",
-      "full_name": "Jace Jung",
-      "number": "17",
-      "position": {
-        "name": "Third Base",
-        "group": "Infielder",
-        "abbreviation": "3B"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-10-04",
-      "age": 26,
-      "birthplace": "Q975",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "August 16, 2024",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q110952384",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jace_Jung",
-      "retrosheet_id": "jungj002",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 55,
-          "plate_appearances": 149,
-          "at_bats": 126,
-          "runs": 22,
-          "hits": 24,
-          "doubles": 5,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 6,
-          "walks": 22,
-          "strikeouts": 45,
-          "stolen_bases": 0,
-          "caught_stealing": 1,
-          "average": 0.19,
-          "on_base_percentage": 0.315,
-          "slugging_percentage": 0.23,
-          "ops": 0.545
-        },
-        "pitching": null
       }
     },
     {
@@ -1678,47 +1747,6 @@
       }
     },
     {
-      "id": 805725,
-      "mlb_id": 805725,
-      "wikidata_id": null,
-      "slug": "jake-miller",
-      "name": "Jake Miller",
-      "full_name": "Jake Miller",
-      "number": "60",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": null,
-      "age": null,
-      "birthplace": "",
-      "height": null,
-      "weight": null,
-      "bats": null,
-      "throws": null,
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Detroit Tigers"
-      ],
-      "source_url": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jake_Miller_%28pitcher%2C_born_2001%29",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 672456,
       "mlb_id": 672456,
       "wikidata_id": "Q126194169",
@@ -1871,6 +1899,100 @@
           "complete_games": 0,
           "era": 3.6,
           "whip": 1.166
+        }
+      }
+    },
+    {
+      "id": 641941,
+      "mlb_id": 641941,
+      "wikidata_id": "Q28736640",
+      "slug": "emilio-pagan",
+      "name": "Emilio Pagán",
+      "full_name": "Emilio Pagán",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1991-05-07",
+      "age": 35,
+      "birthplace": "Simpsonville",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": "May 3, 2017",
+      "debut_team": "Seattle Mariners",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "J. L. Mann High School"
+          },
+          {
+            "name": "Gardner–Webb University"
+          },
+          {
+            "name": "Belmont Abbey College"
+          }
+        ]
+      },
+      "teams": [
+        "Seattle Mariners",
+        "Oakland Athletics",
+        "Tampa Bay Rays",
+        "San Diego Padres",
+        "Minnesota Twins",
+        "Cincinnati Reds",
+        "Detroit Tigers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q28736640",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emilio_Pag%C3%A1n",
+      "retrosheet_id": "pagae001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 477,
+          "plate_appearances": 5,
+          "at_bats": 5,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 3,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": 0.0,
+          "on_base_percentage": 0.0,
+          "slugging_percentage": 0.0,
+          "ops": 0.0
+        },
+        "pitching": {
+          "games": 477,
+          "games_started": 2,
+          "wins": 28,
+          "losses": 27,
+          "saves": 65,
+          "innings_outs": 1520,
+          "hits": 395,
+          "runs": 223,
+          "earned_runs": 206,
+          "home_runs": 85,
+          "walks": 147,
+          "strikeouts": 581,
+          "hit_batters": 11,
+          "wild_pitches": 13,
+          "balks": 2,
+          "complete_games": 0,
+          "era": 3.66,
+          "whip": 1.07
         }
       }
     },
@@ -2173,65 +2295,6 @@
       }
     },
     {
-      "id": 700242,
-      "mlb_id": 700242,
-      "wikidata_id": "Q107481674",
-      "slug": "trey-sweeney",
-      "name": "Trey Sweeney",
-      "full_name": "Trey Sweeney",
-      "number": "27",
-      "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-04-24",
-      "age": 26,
-      "birthplace": "Louisville",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "August 16, 2024",
-      "debut_team": "Detroit Tigers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q107481674",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Trey_Sweeney",
-      "retrosheet_id": "sweet001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 154,
-          "plate_appearances": 445,
-          "at_bats": 406,
-          "runs": 47,
-          "hits": 82,
-          "doubles": 11,
-          "triples": 2,
-          "home_runs": 10,
-          "runs_batted_in": 49,
-          "walks": 33,
-          "strikeouts": 124,
-          "stolen_bases": 5,
-          "caught_stealing": 1,
-          "average": 0.202,
-          "on_base_percentage": 0.261,
-          "slugging_percentage": 0.313,
-          "ops": 0.574
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 679529,
       "mlb_id": 679529,
       "wikidata_id": "Q64010395",
@@ -2498,66 +2561,6 @@
           "era": 3.56,
           "whip": 1.244
         }
-      }
-    },
-    {
-      "id": 663837,
-      "mlb_id": 663837,
-      "wikidata_id": "Q107301243",
-      "slug": "matt-vierling",
-      "name": "Matt Vierling",
-      "full_name": "Matt Vierling",
-      "number": "8",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "CF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1996-09-16",
-      "age": 30,
-      "birthplace": "St. Louis, Missouri, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 19, 2021",
-      "debut_team": "Philadelphia Phillies",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Philadelphia Phillies",
-        "Detroit Tigers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q107301243",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Vierling",
-      "retrosheet_id": "vierm001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 460,
-          "plate_appearances": 1631,
-          "at_bats": 1481,
-          "runs": 201,
-          "hits": 382,
-          "doubles": 67,
-          "triples": 13,
-          "home_runs": 35,
-          "runs_batted_in": 150,
-          "walks": 119,
-          "strikeouts": 347,
-          "stolen_bases": 23,
-          "caught_stealing": 11,
-          "average": 0.258,
-          "on_base_percentage": 0.317,
-          "slugging_percentage": 0.392,
-          "ops": 0.709
-        },
-        "pitching": null
       }
     },
     {

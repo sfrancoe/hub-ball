@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:44:39.144534+00:00",
-  "roster_as_of": "November 9, 2026",
+  "generated_at": "2026-11-18T18:17:32.663647+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 114,
     "name": "Cleveland Guardians"
   },
   "roster_type": "open-current-roster",
-  "player_count": 40,
+  "player_count": 43,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -402,6 +402,47 @@
       }
     },
     {
+      "id": 683235,
+      "mlb_id": 683235,
+      "wikidata_id": "Q111943212",
+      "slug": "justin-campbell",
+      "name": "Justin Campbell",
+      "full_name": "Justin Campbell",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2001-02-14",
+      "age": 25,
+      "birthplace": "West Hills, California, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q111943212",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Justin_Campbell_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 676282,
       "mlb_id": 676282,
       "wikidata_id": "Q128013975",
@@ -560,6 +601,47 @@
           "era": 5.07,
           "whip": 1.258
         }
+      }
+    },
+    {
+      "id": 702693,
+      "mlb_id": 702693,
+      "wikidata_id": null,
+      "slug": "jaison-chourio",
+      "name": "Jaison Chourio",
+      "full_name": "Jaison Chourio",
+      "number": "--",
+      "position": {
+        "name": "Outfielder",
+        "group": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jaison_Chourio",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -1273,6 +1355,47 @@
           "era": 4.13,
           "whip": 1.401
         }
+      }
+    },
+    {
+      "id": 687627,
+      "mlb_id": 687627,
+      "wikidata_id": null,
+      "slug": "kody-huff",
+      "name": "Kody Huff",
+      "full_name": "Kody Huff",
+      "number": "--",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kody_Huff",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

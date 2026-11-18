@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T18:48:14.590265+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:21:14.175879+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 133,
     "name": "Athletics"
@@ -461,6 +461,86 @@
       }
     },
     {
+      "id": 670103,
+      "mlb_id": 670103,
+      "wikidata_id": "Q126899513",
+      "slug": "raymond-burgos",
+      "name": "Raymond Burgos",
+      "full_name": "Raymond Burgos",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "1998-11-29",
+      "age": 27,
+      "birthplace": "Río Grande, Puerto Rico",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": "June 24, 2024",
+      "debut_team": "San Francisco Giants",
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "San Francisco Giants",
+        "Boston Red Sox",
+        "Athletics"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q126899513",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Raymond_Burgos",
+      "retrosheet_id": "burgr001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "available",
+        "batting": {
+          "games": 1,
+          "plate_appearances": 0,
+          "at_bats": 0,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "home_runs": 0,
+          "runs_batted_in": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "stolen_bases": 0,
+          "caught_stealing": 0,
+          "average": null,
+          "on_base_percentage": null,
+          "slugging_percentage": null,
+          "ops": null
+        },
+        "pitching": {
+          "games": 1,
+          "games_started": 0,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "innings_outs": 3,
+          "hits": 3,
+          "runs": 1,
+          "earned_runs": 1,
+          "home_runs": 0,
+          "walks": 1,
+          "strikeouts": 1,
+          "hit_batters": 0,
+          "wild_pitches": 0,
+          "balks": 0,
+          "complete_games": 0,
+          "era": 9.0,
+          "whip": 4.0
+        }
+      }
+    },
+    {
       "id": 671732,
       "mlb_id": 671732,
       "wikidata_id": "Q116204853",
@@ -580,6 +660,47 @@
           "slugging_percentage": 0.372,
           "ops": 0.646
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 813833,
+      "mlb_id": 813833,
+      "wikidata_id": null,
+      "slug": "cole-conn",
+      "name": "Cole Conn",
+      "full_name": "Cole Conn",
+      "number": "--",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Athletics"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cole_Conn",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -1184,48 +1305,6 @@
       }
     },
     {
-      "id": 696522,
-      "mlb_id": 696522,
-      "wikidata_id": "Q139737064",
-      "slug": "hayden-juenger",
-      "name": "Hayden Juenger",
-      "full_name": "Hayden Juenger",
-      "number": "58",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2000-08-09",
-      "age": 26,
-      "birthplace": "St. Louis, Missouri, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "May 31, 2026",
-      "debut_team": "Toronto Blue Jays",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Toronto Blue Jays",
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q139737064",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Hayden_Juenger",
-      "retrosheet_id": "juenh001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 695611,
       "mlb_id": 695611,
       "wikidata_id": "Q139942903",
@@ -1396,7 +1475,7 @@
       "roster_status": "40-man roster",
       "is_active_roster": false,
       "birth_date": "1997-11-18",
-      "age": 28,
+      "age": 29,
       "birthplace": "Keller",
       "height": null,
       "weight": null,
@@ -1781,47 +1860,6 @@
       }
     },
     {
-      "id": 804556,
-      "mlb_id": 804556,
-      "wikidata_id": null,
-      "slug": "braden-nett",
-      "name": "Braden Nett",
-      "full_name": "Braden Nett",
-      "number": "78",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": null,
-      "age": null,
-      "birthplace": "",
-      "height": null,
-      "weight": null,
-      "bats": null,
-      "throws": null,
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Athletics"
-      ],
-      "source_url": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Braden_Nett",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
-      }
-    },
-    {
       "id": 678022,
       "mlb_id": 678022,
       "wikidata_id": "Q135087820",
@@ -1897,6 +1935,47 @@
           "era": 4.19,
           "whip": 1.164
         }
+      }
+    },
+    {
+      "id": 700072,
+      "mlb_id": 700072,
+      "wikidata_id": null,
+      "slug": "yaqui-rivera",
+      "name": "Yaqui Rivera",
+      "full_name": "Yaqui Rivera",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Athletics"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yaqui_Rivera",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
@@ -2430,47 +2509,6 @@
           "era": 3.13,
           "whip": 1.072
         }
-      }
-    },
-    {
-      "id": 814305,
-      "mlb_id": 814305,
-      "wikidata_id": "Q140570125",
-      "slug": "yunior-tur",
-      "name": "Yunior Tur",
-      "full_name": "Yunior Tur",
-      "number": "70",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-08-09",
-      "age": 27,
-      "birthplace": "Havana, Cuba",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "July 17, 2026",
-      "debut_team": "Athletics",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Athletics"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q140570125",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Yunior_Tur",
-      "retrosheet_id": "tur-y001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
-        "pitching": null
       }
     },
     {

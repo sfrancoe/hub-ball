@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:49:25.679745+00:00",
-  "roster_as_of": "November 11, 2026",
+  "generated_at": "2026-11-18T18:22:27.062862+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 140,
     "name": "Texas Rangers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 37,
+  "player_count": 38,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -2164,6 +2164,52 @@
       "source_url": "https://www.wikidata.org/wiki/Q139737054",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Emiliano_Teodo",
       "retrosheet_id": "teode001",
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 687985,
+      "mlb_id": 687985,
+      "wikidata_id": "Q138201599",
+      "slug": "josh-white",
+      "name": "Josh White",
+      "full_name": "Josh White",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2000-11-24",
+      "age": 25,
+      "birthplace": "Walnut Creek",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": "May 31, 2026",
+      "debut_team": "Miami Marlins",
+      "education": {
+        "high_schools": [],
+        "colleges": [
+          {
+            "name": "University of California, Berkeley"
+          }
+        ]
+      },
+      "teams": [
+        "Miami Marlins",
+        "Texas Rangers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q138201599",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_White_%28baseball%29",
+      "retrosheet_id": "whitj003",
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",

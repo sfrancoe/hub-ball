@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T18:47:04.118705+00:00",
-  "roster_as_of": "November 2, 2026",
+  "generated_at": "2026-11-18T18:20:07.825489+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 117,
     "name": "Houston Astros"
@@ -1266,66 +1266,6 @@
       }
     },
     {
-      "id": 694388,
-      "mlb_id": 694388,
-      "wikidata_id": "Q125728885",
-      "slug": "joey-loperfido",
-      "name": "Joey Loperfido",
-      "full_name": "Joey Loperfido",
-      "number": "10",
-      "position": {
-        "name": "Outfielder",
-        "group": "Outfielder",
-        "abbreviation": "LF"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1999-05-11",
-      "age": 27,
-      "birthplace": "Philadelphia, Pennsylvania, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Left",
-      "throws": "Right",
-      "debut_date": "April 30, 2024",
-      "debut_team": "Houston Astros",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Houston Astros",
-        "Toronto Blue Jays"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q125728885",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Joey_Loperfido",
-      "retrosheet_id": "lopej008",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 122,
-          "plate_appearances": 366,
-          "at_bats": 339,
-          "runs": 36,
-          "hits": 84,
-          "doubles": 17,
-          "triples": 4,
-          "home_runs": 8,
-          "runs_batted_in": 39,
-          "walks": 17,
-          "strikeouts": 122,
-          "stolen_bases": 5,
-          "caught_stealing": 4,
-          "average": 0.248,
-          "on_base_percentage": 0.297,
-          "slugging_percentage": 0.392,
-          "ops": 0.689
-        },
-        "pitching": null
-      }
-    },
-    {
       "id": 694728,
       "mlb_id": 694728,
       "wikidata_id": "Q120495736",
@@ -1466,6 +1406,47 @@
           "era": 6.73,
           "whip": 1.591
         }
+      }
+    },
+    {
+      "id": 694545,
+      "mlb_id": 694545,
+      "wikidata_id": null,
+      "slug": "jackson-nezuh",
+      "name": "Jackson Nezuh",
+      "full_name": "Jackson Nezuh",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Houston Astros"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Nezuh",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:56:23.667930+00:00",
-  "roster_as_of": "November 10, 2026",
+  "generated_at": "2026-11-18T18:29:21.235592+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 119,
     "name": "Los Angeles Dodgers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 38,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -84,47 +84,6 @@
           "slugging_percentage": 0.512,
           "ops": 0.881
         },
-        "pitching": null
-      }
-    },
-    {
-      "id": 686551,
-      "mlb_id": 686551,
-      "wikidata_id": "Q131428007",
-      "slug": "christian-cairo",
-      "name": "Christian Cairo",
-      "full_name": "Christian Cairo",
-      "number": "--",
-      "position": {
-        "name": "Shortstop",
-        "group": "Infielder",
-        "abbreviation": "SS"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "2001-06-11",
-      "age": 25,
-      "birthplace": "Bakersfield, California, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": null,
-      "debut_team": null,
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q131428007",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Cairo",
-      "retrosheet_id": null,
-      "career_stats": {
-        "through_season": 2025,
-        "status": "not_in_2025_release",
-        "batting": null,
         "pitching": null
       }
     },
@@ -271,86 +230,6 @@
           "complete_games": 0,
           "era": 4.4,
           "whip": 1.302
-        }
-      }
-    },
-    {
-      "id": 664776,
-      "mlb_id": 664776,
-      "wikidata_id": "Q107315811",
-      "slug": "jake-cousins",
-      "name": "Jake Cousins",
-      "full_name": "Jake Cousins",
-      "number": "--",
-      "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
-      },
-      "roster_status": "40-man roster",
-      "is_active_roster": false,
-      "birth_date": "1994-07-14",
-      "age": 32,
-      "birthplace": "Park Ridge, Illinois, U.S.",
-      "height": null,
-      "weight": null,
-      "bats": "Right",
-      "throws": "Right",
-      "debut_date": "June 21, 2021",
-      "debut_team": "Milwaukee Brewers",
-      "education": {
-        "high_schools": [],
-        "colleges": []
-      },
-      "teams": [
-        "Milwaukee Brewers",
-        "New York Yankees",
-        "Los Angeles Dodgers"
-      ],
-      "source_url": "https://www.wikidata.org/wiki/Q107315811",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Jake_Cousins",
-      "retrosheet_id": "cousj001",
-      "career_stats": {
-        "through_season": 2025,
-        "status": "available",
-        "batting": {
-          "games": 88,
-          "plate_appearances": 0,
-          "at_bats": 0,
-          "runs": 0,
-          "hits": 0,
-          "doubles": 0,
-          "triples": 0,
-          "home_runs": 0,
-          "runs_batted_in": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "stolen_bases": 0,
-          "caught_stealing": 0,
-          "average": null,
-          "on_base_percentage": null,
-          "slugging_percentage": null,
-          "ops": null
-        },
-        "pitching": {
-          "games": 88,
-          "games_started": 0,
-          "wins": 5,
-          "losses": 2,
-          "saves": 1,
-          "innings_outs": 272,
-          "hits": 56,
-          "runs": 32,
-          "earned_runs": 28,
-          "home_runs": 10,
-          "walks": 57,
-          "strikeouts": 125,
-          "hit_batters": 11,
-          "wild_pitches": 12,
-          "balks": 0,
-          "complete_games": 0,
-          "era": 2.78,
-          "whip": 1.246
         }
       }
     },
@@ -650,6 +529,88 @@
           "slugging_percentage": 0.22,
           "ops": 0.506
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 701328,
+      "mlb_id": 701328,
+      "wikidata_id": "Q112675360",
+      "slug": "jackson-ferris",
+      "name": "Jackson Ferris",
+      "full_name": "Jackson Ferris",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2004-01-15",
+      "age": 22,
+      "birthplace": "Winston-Salem, North Carolina, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Left",
+      "throws": "Left",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Los Angeles Dodgers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q112675360",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Ferris_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 803183,
+      "mlb_id": 803183,
+      "wikidata_id": null,
+      "slug": "luke-fox",
+      "name": "Luke Fox",
+      "full_name": "Luke Fox",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Los Angeles Dodgers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Fox_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -2157,6 +2118,47 @@
       }
     },
     {
+      "id": 703445,
+      "mlb_id": 703445,
+      "wikidata_id": null,
+      "slug": "adam-serwinowski",
+      "name": "Adam Serwinowski",
+      "full_name": "Adam Serwinowski",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Los Angeles Dodgers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Serwinowski",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 686218,
       "mlb_id": 686218,
       "wikidata_id": "Q119579257",
@@ -2794,6 +2796,47 @@
           "era": 2.66,
           "whip": 1.032
         }
+      }
+    },
+    {
+      "id": 800537,
+      "mlb_id": 800537,
+      "wikidata_id": null,
+      "slug": "christian-zazueta",
+      "name": "Christian Zazueta",
+      "full_name": "Christian Zazueta",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Los Angeles Dodgers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Zazueta",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     }
   ]

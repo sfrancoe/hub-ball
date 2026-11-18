@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T18:41:35.404767+00:00",
-  "roster_as_of": "November 1, 2026",
+  "generated_at": "2026-11-18T18:14:42.249678+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 121,
     "name": "New York Mets"
@@ -1596,29 +1596,29 @@
       }
     },
     {
-      "id": 697811,
-      "mlb_id": 697811,
-      "wikidata_id": "Q139736752",
-      "slug": "dylan-ross",
-      "name": "Dylan Ross",
-      "full_name": "Dylan Ross",
-      "number": "66",
+      "id": 1964486324,
+      "mlb_id": null,
+      "wikidata_id": "Q125481756",
+      "slug": "jefferson-rojas",
+      "name": "Jefferson Rojas",
+      "full_name": "Jefferson Rojas",
+      "number": "--",
       "position": {
-        "name": "Pitcher",
-        "group": "Pitcher",
-        "abbreviation": "P"
+        "name": "Infielder",
+        "group": "Infielder",
+        "abbreviation": "IF"
       },
       "roster_status": "40-man roster",
       "is_active_roster": false,
-      "birth_date": "2000-09-01",
-      "age": 26,
-      "birthplace": "Statesboro, Georgia, U.S.",
+      "birth_date": "2005-03-25",
+      "age": 21,
+      "birthplace": "Puerto Plata, Dominican Republic",
       "height": null,
       "weight": null,
       "bats": "Right",
       "throws": "Right",
-      "debut_date": "September 1, 2026",
-      "debut_team": "New York Mets",
+      "debut_date": null,
+      "debut_team": null,
       "education": {
         "high_schools": [],
         "colleges": []
@@ -1626,9 +1626,9 @@
       "teams": [
         "New York Mets"
       ],
-      "source_url": "https://www.wikidata.org/wiki/Q139736752",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Dylan_Ross_%28baseball%29",
-      "retrosheet_id": "rossd002",
+      "source_url": "https://www.wikidata.org/wiki/Q125481756",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jefferson_Rojas",
+      "retrosheet_id": null,
       "career_stats": {
         "through_season": 2025,
         "status": "not_in_2025_release",

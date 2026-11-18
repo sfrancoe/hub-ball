@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:53:18.806388+00:00",
-  "roster_as_of": "November 16, 2026",
+  "generated_at": "2026-11-18T18:26:26.533066+00:00",
+  "roster_as_of": "November 17, 2026",
   "team": {
     "id": 158,
     "name": "Milwaukee Brewers"
   },
   "roster_type": "open-current-roster",
-  "player_count": 34,
+  "player_count": 40,
   "active_count": 0,
   "source": {
     "name": "Wikimedia, Retrosheet, and Chadwick Baseball Bureau",
@@ -20,6 +20,47 @@
     "stats_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711."
   },
   "players": [
+    {
+      "id": 702726,
+      "mlb_id": 702726,
+      "wikidata_id": null,
+      "slug": "luke-adams",
+      "name": "Luke Adams",
+      "full_name": "Luke Adams",
+      "number": "--",
+      "position": {
+        "name": "Third Base",
+        "group": "Infielder",
+        "abbreviation": "3B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Milwaukee Brewers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Adams_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
     {
       "id": 681982,
       "mlb_id": 681982,
@@ -1010,6 +1051,47 @@
       }
     },
     {
+      "id": 804249,
+      "mlb_id": 804249,
+      "wikidata_id": null,
+      "slug": "tate-kuehner",
+      "name": "Tate Kuehner",
+      "full_name": "Tate Kuehner",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Milwaukee Brewers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tate_Kuehner",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 800325,
       "mlb_id": 800325,
       "wikidata_id": "Q139736206",
@@ -1410,6 +1492,47 @@
           "slugging_percentage": 0.384,
           "ops": 0.67
         },
+        "pitching": null
+      }
+    },
+    {
+      "id": 802506,
+      "mlb_id": 802506,
+      "wikidata_id": null,
+      "slug": "dylan-o-rae",
+      "name": "Dylan O'Rae",
+      "full_name": "Dylan O'Rae",
+      "number": "--",
+      "position": {
+        "name": "Second Base",
+        "group": "Outfielder",
+        "abbreviation": "2B"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Milwaukee Brewers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dylan_O%27Rae",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
         "pitching": null
       }
     },
@@ -2055,6 +2178,47 @@
       }
     },
     {
+      "id": 687726,
+      "mlb_id": 687726,
+      "wikidata_id": null,
+      "slug": "cameron-wagoner",
+      "name": "Cameron Wagoner",
+      "full_name": "Cameron Wagoner",
+      "number": "--",
+      "position": {
+        "name": "Pitcher",
+        "group": "Pitcher",
+        "abbreviation": "P"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Milwaukee Brewers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Wagoner",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
       "id": 676254,
       "mlb_id": 676254,
       "wikidata_id": "Q118499336",
@@ -2131,6 +2295,88 @@
           "era": 2.98,
           "whip": 1.14
         }
+      }
+    },
+    {
+      "id": 702518,
+      "mlb_id": 702518,
+      "wikidata_id": "Q113148642",
+      "slug": "jett-williams",
+      "name": "Jett Williams",
+      "full_name": "Jett Williams",
+      "number": "--",
+      "position": {
+        "name": "Shortstop",
+        "group": "Infielder",
+        "abbreviation": "SS"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": "2003-11-03",
+      "age": 23,
+      "birthplace": "Dallas, Texas, U.S.",
+      "height": null,
+      "weight": null,
+      "bats": "Right",
+      "throws": "Right",
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Milwaukee Brewers"
+      ],
+      "source_url": "https://www.wikidata.org/wiki/Q113148642",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jett_Williams_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
+      }
+    },
+    {
+      "id": 1945759923,
+      "mlb_id": null,
+      "wikidata_id": null,
+      "slug": "matt-wood",
+      "name": "Matt Wood",
+      "full_name": "Matt Wood",
+      "number": "--",
+      "position": {
+        "name": "Catcher",
+        "group": "Catcher",
+        "abbreviation": "C"
+      },
+      "roster_status": "40-man roster",
+      "is_active_roster": false,
+      "birth_date": null,
+      "age": null,
+      "birthplace": "",
+      "height": null,
+      "weight": null,
+      "bats": null,
+      "throws": null,
+      "debut_date": null,
+      "debut_team": null,
+      "education": {
+        "high_schools": [],
+        "colleges": []
+      },
+      "teams": [
+        "Milwaukee Brewers"
+      ],
+      "source_url": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Wood_%28baseball%29",
+      "retrosheet_id": null,
+      "career_stats": {
+        "through_season": 2025,
+        "status": "not_in_2025_release",
+        "batting": null,
+        "pitching": null
       }
     },
     {
