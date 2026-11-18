@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Where would Skubal fit in their rotation? How would he fit among other long-term contracts? Is he a want, or a need?",
+      "published": "2026-11-18T10:30:10+00:00",
+      "title": "How Tarik Skubal would fit his top four suitors, from the Mets to the Dodgers",
+      "url": "https://www.nytimes.com/athletic/7790724/2026/11/18/tarik-skubal-free-agency-fit-mets-dodgers-padres-blue-jays/"
+    },
+    {
+      "category": "Mets",
       "description": "A dearth of high-level free-agent options makes Montas an intriguing candidate for an MLB contract one year after the Mets released him.",
       "published": "2026-11-18T01:23:22+00:00",
       "title": "After promising bullpen, right-hander Frankie Montas could attract plenty of MLB attention",
@@ -132,16 +139,9 @@
       "published": "2026-10-15T15:03:06+00:00",
       "title": "Phillies add former Mets manager Carlos Mendoza as third-base, infield coach",
       "url": "https://www.nytimes.com/athletic/7692703/2026/10/15/phillies-hire-carlos-mendoza-coach/"
-    },
-    {
-      "category": "Mets",
-      "description": "It is a rare move at a time when some organizations are cutting their pro scouting departments in favor of video.",
-      "published": "2026-10-14T18:38:35+00:00",
-      "title": "Mets to expand pro scouting department, likely leading to more in-person evaluation: Sources",
-      "url": "https://www.nytimes.com/athletic/7690416/2026/10/14/mets-expand-pro-scouting-department/"
     }
   ],
-  "generated_at": "2026-11-18T03:57:31.398193+00:00",
+  "generated_at": "2026-11-18T12:40:59.339484+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

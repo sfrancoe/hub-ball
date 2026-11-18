@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "The Orioles’ lineup needs a revamp. Is trading for Diamondbacks second baseman Ketel Marte the solution? It’s not a simple fit.",
+      "published": "2026-11-18T03:30:00+00:00",
+      "title": "Should Orioles trade for Ketel Marte? The case for and against. | ANALYSIS",
+      "url": "https://www.baltimoresun.com/2026/11/18/orioles-ketel-marte-trade-target/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles on Tuesday added Enrique Bradfield Jr. and six other prospects to their 40-man roster to protect from the Rule 5 draft.",
       "published": "2026-11-17T16:11:00+00:00",
       "title": "Orioles add 7 prospects to 40-man roster to protect from Rule 5 draft",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Orioles",
-      "description": "Former Orioles pitchers Jake Arrieta and Andrew Miller are set to appear on the Baseball Hall of Fame ballot for the first time this year.",
-      "published": "2026-11-16T11:04:00+00:00",
-      "title": "2 former Orioles to debut on 2027 Baseball Hall of Fame ballot",
-      "url": "https://www.baltimoresun.com/2026/11/16/orioles-2027-baseball-hall-of-fame-ballot-jake-arrieta-andrew-miller/"
-    },
-    {
-      "category": "Orioles",
       "description": "Colton Cowser’s game-ending home-run robbery against the Colorado Rockies was named the Capital One Premier Play of the Year at the MLB Awards on Wednesday night in Las Vegas. Cowser accepted the ...",
       "published": "2026-11-12T06:34:00+00:00",
       "title": "Orioles’ Colton Cowser wins MLB Play of the Year for stunning catch",
@@ -62,9 +62,16 @@
       "published": "2026-11-12T04:00:00+00:00",
       "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
       "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles will add a new Kids Zone and Mascot Zone at Camden Yards as part of a second round of offseason renovations that also includes upgraded restrooms, suites and player facilities.",
+      "published": "2026-11-17T08:43:00+00:00",
+      "title": "Orioles plan Kids Zone, Mascot Zone in Camden Yards renovations",
+      "url": "https://www.baltimoresun.com/2026/11/17/orioles-kids-zone-mascot-zone-camden-yards-renovations/"
     }
   ],
-  "generated_at": "2026-11-18T03:57:34.582997+00:00",
+  "generated_at": "2026-11-18T12:41:01.212577+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

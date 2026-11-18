@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "Guardians rookie Chase DeLauter wins his first Silver Slugger Award, making Cleveland history after a breakout 2026 season that impressed opposing managers.",
-      "published": "2026-11-17T10:40:00+00:00",
-      "title": "Chase DeLauter makes Guardians history with Silver Slugger Award after remarkable rookie season",
-      "url": "https://www.cleveland.com/guardians/2026/11/chase-delauter-makes-guardians-history-with-silver-slugger-award-after-remarkable-rookie-season.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Campbell made 20 starts at three levels this season, going 1-4 with a 2.48 ERA with 83 strikeouts and 33 walks in 69 innings. He made six starts at Class A Lake County, nine at Double-A Akron and five ...",
       "published": "2026-11-17T10:48:00+00:00",
       "title": "Guardians reach 40-man limit by making three additions to roster",
@@ -44,17 +37,17 @@
     },
     {
       "category": "Guardians",
-      "description": "Friday is the other important date. The Guardians must offer contracts to all unsigned players on the 40-man roster. That includes players eligible for arbitration and players who have yet to earn ...",
-      "published": "2026-11-14T07:59:00+00:00",
-      "title": "Taking care of business: Guardians have a busy week in front of them",
-      "url": "https://www.cleveland.com/guardians/2026/11/taking-care-of-business-guardians-have-a-busy-week-in-front-of-them.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Francisca, Cleveland’s 19th-ranked prospect according to mlb.com, played at three levels last season — the ACL, Class A Lake County and Double-A Akron. He hit .272 (81 for 298) overall with 19 homers, ...",
       "published": "2026-11-15T05:11:00+00:00",
       "title": "Guardians middle infielder hits .427, wins Arizona Fall League MVP award",
       "url": "https://www.cleveland.com/guardians/2026/11/guardians-middle-infielder-hits-427-wins-arizona-fall-league-mvp-award.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Friday is the other important date. The Guardians must offer contracts to all unsigned players on the 40-man roster. That includes players eligible for arbitration and players who have yet to earn ...",
+      "published": "2026-11-14T07:59:00+00:00",
+      "title": "Taking care of business: Guardians have a busy week in front of them",
+      "url": "https://www.cleveland.com/guardians/2026/11/taking-care-of-business-guardians-have-a-busy-week-in-front-of-them.html"
     },
     {
       "category": "Guardians",
@@ -83,9 +76,16 @@
       "published": "2026-11-11T11:49:00+00:00",
       "title": "Guardians’ Cade Smith denied first BBWAA AL Reliever of the Year award despite dominant season",
       "url": "https://www.cleveland.com/guardians/2026/11/guardians-cade-smith-denied-first-bbwaa-al-reliever-of-the-year-award-despite-dominant-season.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Three Japanese stars are being posted for MLB clubs, while another pitcher enters free agency. Could the Guardians find an affordable fit?",
+      "published": "2026-11-08T21:03:00+00:00",
+      "title": "Should the Guardians look to Japan to address their pitching and power needs?",
+      "url": "https://www.cleveland.com/guardians/2026/11/should-the-guardians-look-to-japan-to-address-their-pitching-and-power-needs.html"
     }
   ],
-  "generated_at": "2026-11-18T03:57:36.996489+00:00",
+  "generated_at": "2026-11-18T12:41:02.387381+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

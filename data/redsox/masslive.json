@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "A look at 11 Red Sox prospects who have a chance to make their MLB debuts in 2027.",
+      "published": "2026-11-18T11:26:21+00:00",
+      "title": "Red Sox’ latest trade additions among candidates to make MLB debuts in 2027",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-latest-trade-additions-among-candidates-to-make-mlb-debuts-in-2027.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "What questions do you have for Sean McAdam this week? Drop them in the comments or send an email to fenwayinsider@masslive.com",
+      "published": "2026-11-18T10:00:00+00:00",
+      "title": "Fenway Insider: Submit questions for MassLive’s Sean McAdam",
+      "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-submit-questions-for-masslives-sean-mcadam.html-3"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox faced a deadline to protect prospects from Rule 5 eligibility Tuesday. Lockout uncertainty and a crowded 40-man roster led Craig Breslow to not add anyone.",
       "published": "2026-11-18T00:19:08+00:00",
       "title": "Blake Wehunt, former first-rounder among prospects Red Sox left unprotected as deadline passes",
@@ -97,23 +111,9 @@
       "published": "2026-11-13T10:00:00+00:00",
       "title": "Paul George is winning over Celtics fans and making Brad Stevens look goodCeltics fans and making Brad Stevens look good | Matt Vautour",
       "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-winning-over-celtics-fans-and-making-brad-stevens-look-good.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Three Red Sox players — Willson Contreras, Wilyer Abreu, and Ceddanne Rafaela — received down-ballot votes in AL MVP voting, with Contreras leading the trio.",
-      "published": "2026-11-13T01:59:53+00:00",
-      "title": "Willson Contreras, Wilyer Abreu, Ceddanne Rafaela all land on AL MVP ballot",
-      "url": "https://www.masslive.com/redsox/2026/11/three-red-sox-players-receive-down-ballot-al-mvp-votes.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "What kind of market value does Jarren Duran have after the 2026 season?",
-      "published": "2026-11-13T01:03:52+00:00",
-      "title": "Craig Breslow’s new title, Jarren Duran’s market and more | The Fenway Rundown",
-      "url": "https://www.masslive.com/redsox/2026/11/craig-breslows-new-title-jarren-durans-market-and-more-the-fenway-rundown.html"
     }
   ],
-  "generated_at": "2026-11-18T03:57:18.477979+00:00",
+  "generated_at": "2026-11-18T12:40:48.217996+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
