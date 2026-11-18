@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Celtics at Nuggets | 9:30 p.m. (NBCSB)",
+        "description": "The Celtics will look to bounce back from Monday's loss to the Magic when they take on Denver.",
+        "published": "2026-11-18T18:34:10.564Z",
+        "title": "Celtics at Nuggets preview: Boston kicks off four-game road trip",
+        "url": "https://www.bostonglobe.com/2026/11/18/sports/celtics-nuggets-preview-november-18-2026/"
+      },
+      {
         "category": "ON BASKETBALL",
         "description": "The Celtics have to play Robinson until he’s in shape and more productive, even against Nikola Jokic on Wednesday night.",
         "published": "2026-11-18T13:48:10.916Z",
@@ -100,13 +107,6 @@
         "url": "https://www.bostonglobe.com/2026/11/11/sports/celtics-76ers-paul-george-jayson-tatum/"
       },
       {
-        "category": "Celtics at Raptors | 7 p.m. (NBCSB)",
-        "description": "The Celtics will look to extend their winning streak after coming out on top in their showdown against the 76ers.",
-        "published": "2026-11-11T17:32:42.087Z",
-        "title": "Celtics at Raptors preview: Boston looks to avoid letdown at Toronto",
-        "url": "https://www.bostonglobe.com/2026/11/11/sports/celtics-76ers-preview-november-11-2026/"
-      },
-      {
         "category": "Celtics",
         "description": "We know serious Celtics fans don’t want to miss a beat. Now, you don’t have to.",
         "published": "2024-10-17T15:28:56.377Z",
@@ -114,7 +114,7 @@
         "url": "https://www.bostonglobe.com/2023/04/04/sports/boston-globe-celtics-newsletter/"
       }
     ],
-    "generated_at": "2026-11-18T13:58:42.331745+00:00",
+    "generated_at": "2026-11-18T18:40:21.501299+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
