@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "A controversial Jayson Tatum technical foul helped doom the Celtics in their loss to the Nuggets. Tatum said he should have used better judgment.",
+        "published": "2026-11-19T15:04:20Z",
+        "title": "Jayson Tatum takes blame for late technical foul vs. Nuggets: ‘That’s on me’",
+        "url": "https://www.bostonherald.com/2026/11/19/jayson-tatum-takes-blame-for-late-technical-foul-vs-nuggets-thats-on-me/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics dropped a wild game in Denver featuring 10 fourth-quarter lead changes, a breakout performance from a first-round rookie and a controversial technical foul in the final seconds.",
         "published": "2026-11-19T05:26:42Z",
         "title": "Celtics edged by Nuggets as Mile High thriller ends with controversial call",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T00:17:55Z",
         "title": "Former Celtic disputes new Jaylen Brown-Jayson Tatum report",
         "url": "https://www.bostonherald.com/2026/11/10/former-celtic-disputes-new-jaylen-brown-jayson-tatum-report/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "“I can’t talk (enough) about just the thrill and the happiness and excitement and joy that it has brought being here (in Boston).”",
-        "published": "2026-11-10T18:36:03Z",
-        "title": "Paul George in his element with Celtics: ‘It’s exceeded my expectations’",
-        "url": "https://www.bostonherald.com/2026/11/10/paul-george-in-his-element-with-celtics-its-exceeded-my-expectations/"
       }
     ],
-    "generated_at": "2026-11-19T05:31:01.810563+00:00",
+    "generated_at": "2026-11-19T15:13:56.270531+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
