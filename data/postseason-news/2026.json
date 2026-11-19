@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-19T00:30:33.166842+00:00",
+  "generatedAt": "2026-11-19T07:59:45.672364+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 7,
+  "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Righthander Sonny Gray signs with the Twins, officially leaving the Red Sox after one season",
+      "description": "Gray’s contract reportedly is for two years and $55 million, with an opt-out clause after the first season, affording him the opportunity to return to free agency if he desires.",
+      "url": "https://www.bostonglobe.com/2026/11/18/sports/sonny-gray-twins-red-sox/",
+      "published": "2026-11-19T01:03:53.489000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Red Sox acquire catcher Nick Fortes from Rays, designate Connor Wong for assignment",
       "description": "Fortes arrives as the new backup to Adley Rutschman, whom the Red Sox acquired at the trade deadline. The Rays received Angel Roa, a 17-year-old pitcher.",
@@ -66,18 +78,6 @@
       "teamName": "Philadelphia Phillies",
       "teamAbbreviation": "PHI",
       "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Righthander Sonny Gray signs with the Twins, officially leaving the Red Sox after one season",
-      "description": "Gray’s contract reportedly is for two years and $55 million, with an opt-out clause after the first season, affording him the opportunity to return to free agency if he desires.",
-      "url": "https://www.bostonglobe.com/2026/11/18/sports/sonny-gray-twins-red-sox/",
-      "published": "2026-11-18T22:37:03.786000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
       "publishedSource": "publisher"
     },
     {
@@ -166,7 +166,7 @@
     },
     {
       "title": "Rays complete deal to trade backup catcher Nick Fortes to Red Sox",
-      "description": "The return is a 17-year-pitching prospect, but also payroll savings and an opening for Kenny Piper or Caden Bodine to get big-league time.",
+      "description": "The return is a 17-year-old pitching prospect but also payroll savings and an opening for Kenny Piper or Caden Bodine to get big-league time.",
       "url": "https://www.tampabay.com/sports/rays/2026/11/18/nick-fortes-kenny-piper-boston-red-sox/",
       "published": "2026-11-18T20:13:42.957000+00:00",
       "source": "Tampa Bay Times",
@@ -199,78 +199,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "unverified"
-    },
-    {
-      "title": "Triston Casas, Tanner Houck among Red Sox' toughest non-tender calls this week",
-      "description": "The Red Sox have 16 arbitration-eligible players and face decisions on Triston Casas, Tanner Houck and others before Friday. What will they do?",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-face-decisions-on-16-players-including-triston-casas-tanner-houck-by-friday-what-will-they-do.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Will Jake Bauers really be Red Sox’ only ‘significant’ addition this offseason?",
-      "description": "Matt Vautour and Chris Mason dive into Craig Breslow’s comments about the Jake Bauers signing, Jarren Duran trade rumors, Jon Lester’s Hall of Fame case and more.",
-      "url": "https://www.masslive.com/redsox/2026/11/will-jake-bauers-really-be-red-sox-only-significant-addition-this-offseason.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The Win Column: Injury season",
-      "description": "Today's Win Column tackles mounting Hawks injuries, a bit of Braves trivia, the latest CFP rankings and your thoughts on the Falcons.",
-      "url": "https://www.ajc.com/sports/2026/11/win-column-hawks-injury-season/",
-      "published": "2026-11-18T16:52:40.486000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees bring back former top prospect after he bounced through three teams in a month",
-      "description": "",
-      "url": "https://nypost.com/2026/11/18/sports/yankees-bring-back-former-top-prospect-chase-hampton/",
-      "published": "2026-11-18T14:54:35+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "‘Talking out of both sides of their mouth’: Union head Bruce Meyer says MLB is not serious about preventing lockout",
-      "description": "Meyer, the interim executive director of the MLBPA, spoke amid the MLB owners' meetings with the Dec. 2 lockout date looming.",
-      "url": "https://www.bostonglobe.com/2026/11/17/sports/mlb-owners-mlbpa-bruce-meyer-cba/",
-      "published": "2026-11-18T13:14:46.192000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "White Sox 2B Chase Meidroth and the Cubs’ Pete Crow-Armstrong and Alex Bregman win Silver Slugger Awards",
-      "description": "Chase Meidroth became the first second baseman in Chicago White Sox history to win a Silver Slugger Award on Tuesday. Winners also included the Cubs’ Pete Crow-Armstrong and Alex Bregman.",
-      "url": "https://www.chicagotribune.com/2026/11/18/chicago-white-sox-cubs-silver-slugger-awards/",
-      "published": "2026-11-18T13:00:23+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "publisher"
     }
   ]
 }
