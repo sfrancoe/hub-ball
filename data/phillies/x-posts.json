@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:41:24.713401+00:00",
+  "generated_at": "2026-11-19T07:38:34.165695+00:00",
   "source": "X",
   "source_url": "https://x.com/Phillies",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Certified Slugger 👍 https://t.co/46C83355uY",
       "url": "https://x.com/Phillies/status/2122842257174978641",
       "published": "2026-11-18T00:00:09+00:00",
-      "likes": 1874,
+      "likes": 2008,
       "author": "Philadelphia Phillies",
       "handle": "Phillies",
       "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "Silver Slugger Schwarber Congratulations to Kyle on winning his 2nd career Silver Slugger Award! https://t.co/Dz1xoZyw6W",
       "url": "https://x.com/Phillies/status/2122839549604769884",
       "published": "2026-11-17T23:49:23+00:00",
-      "likes": 4154,
+      "likes": 4270,
       "author": "Philadelphia Phillies",
       "handle": "Phillies",
       "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
@@ -32,34 +32,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2122839549604769884",
-      "text": "Silver Slugger Schwarber Congratulations to Kyle on winning his 2nd career Silver Slugger Award! https://t.co/Dz1xoZyw6W",
-      "url": "https://x.com/Phillies/status/2122839549604769884",
-      "published": "2026-11-17T23:49:23+00:00",
-      "likes": 4154,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXXUdxWEAAeTy9.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122842257174978641",
-      "text": "Certified Slugger 👍 https://t.co/46C83355uY",
-      "url": "https://x.com/Phillies/status/2122842257174978641",
-      "published": "2026-11-18T00:00:09+00:00",
-      "likes": 1874,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXZ4FrWkAAUrFK.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

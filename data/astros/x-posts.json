@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:41:24.563944+00:00",
+  "generated_at": "2026-11-19T07:38:34.164017+00:00",
   "source": "X",
   "source_url": "https://x.com/astros",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "The best of the best. https://t.co/UJ0wSZaWMj",
       "url": "https://x.com/astros/status/2122854589359890641",
       "published": "2026-11-18T00:49:09+00:00",
-      "likes": 1643,
+      "likes": 1843,
       "author": "Houston Astros",
       "handle": "astros",
       "avatar": "https://pbs.twimg.com/profile_images/2105751822740639744/iBz_OazD_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "Everybody eats💪 The guys take home the 2026 AL Team Silver Slugger Award! https://t.co/ZCjJkZRLax",
       "url": "https://x.com/astros/status/2122842699627913507",
       "published": "2026-11-18T00:01:54+00:00",
-      "likes": 1920,
+      "likes": 2113,
       "author": "Houston Astros",
       "handle": "astros",
       "avatar": "https://pbs.twimg.com/profile_images/2105751822740639744/iBz_OazD_normal.jpg",
@@ -36,7 +36,7 @@
       "text": "Add one more to the list ✍️ Yordan earns his second Silver Slugger of his career! https://t.co/N3Mlq8ZsXZ",
       "url": "https://x.com/astros/status/2122839683449397601",
       "published": "2026-11-17T23:49:55+00:00",
-      "likes": 2179,
+      "likes": 2336,
       "author": "Houston Astros",
       "handle": "astros",
       "avatar": "https://pbs.twimg.com/profile_images/2105751822740639744/iBz_OazD_normal.jpg",
@@ -46,48 +46,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2122839683449397601",
-      "text": "Add one more to the list ✍️ Yordan earns his second Silver Slugger of his career! https://t.co/N3Mlq8ZsXZ",
-      "url": "https://x.com/astros/status/2122839683449397601",
-      "published": "2026-11-17T23:49:55+00:00",
-      "likes": 2179,
-      "author": "Houston Astros",
-      "handle": "astros",
-      "avatar": "https://pbs.twimg.com/profile_images/2105751822740639744/iBz_OazD_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXVzuvXwAAGshu.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122842699627913507",
-      "text": "Everybody eats💪 The guys take home the 2026 AL Team Silver Slugger Award! https://t.co/ZCjJkZRLax",
-      "url": "https://x.com/astros/status/2122842699627913507",
-      "published": "2026-11-18T00:01:54+00:00",
-      "likes": 1920,
-      "author": "Houston Astros",
-      "handle": "astros",
-      "avatar": "https://pbs.twimg.com/profile_images/2105751822740639744/iBz_OazD_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXaL0PWUAAahB4.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122854589359890641",
-      "text": "The best of the best. https://t.co/UJ0wSZaWMj",
-      "url": "https://x.com/astros/status/2122854589359890641",
-      "published": "2026-11-18T00:49:09+00:00",
-      "likes": 1643,
-      "author": "Houston Astros",
-      "handle": "astros",
-      "avatar": "https://pbs.twimg.com/profile_images/2105751822740639744/iBz_OazD_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXk_4XWYAAj4_o.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
