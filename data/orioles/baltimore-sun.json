@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "By 8 p.m., teams must decide whether to tender contracts to their arbitration-eligible players or let them become free agents. The Orioles have only four such players, and their decisions Friday will ...",
+      "published": "2026-11-19T04:00:00+00:00",
+      "title": "Orioles arbitration FAQ: What to know about looming deadline and decisions",
+      "url": "https://www.baltimoresun.com/2026/11/19/orioles-arbitration-faq-looming-deadline-decisions/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles will have a new alternate cap featuring the traditional bird logo, and their jerseys will have minor changes to the sleeves.",
       "published": "2026-11-18T07:35:00+00:00",
       "title": "Orioles unveil new alternate caps, jersey changes for 2027",
@@ -9,17 +16,17 @@
     },
     {
       "category": "Orioles",
-      "description": "The Orioles’ lineup needs a revamp. Is trading for Diamondbacks second baseman Ketel Marte the solution? It’s not a simple fit.",
-      "published": "2026-11-18T03:30:00+00:00",
-      "title": "Should Orioles trade for Ketel Marte? The case for and against. | ANALYSIS",
-      "url": "https://www.baltimoresun.com/2026/11/18/orioles-ketel-marte-trade-target/"
-    },
-    {
-      "category": "Orioles",
       "description": "The Orioles on Tuesday added Enrique Bradfield Jr. and six other prospects to their 40-man roster to protect from the Rule 5 draft.",
       "published": "2026-11-17T16:11:00+00:00",
       "title": "Orioles add 7 prospects to 40-man roster to protect from Rule 5 draft",
       "url": "https://www.baltimoresun.com/2026/11/17/orioles-add-seven-prospects-to-40-man-roster-to-protect-from-rule-5-draft-enrique-bradfield-jr-michael-forret/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles’ lineup needs a revamp. Is trading for Diamondbacks second baseman Ketel Marte the solution? It’s not a simple fit.",
+      "published": "2026-11-18T03:30:00+00:00",
+      "title": "Should Orioles trade for Ketel Marte? The case for and against. | ANALYSIS",
+      "url": "https://www.baltimoresun.com/2026/11/18/orioles-ketel-marte-trade-target/"
     },
     {
       "category": "Orioles",
@@ -55,23 +62,9 @@
       "published": "2026-11-16T11:04:00+00:00",
       "title": "2 former Orioles to debut on 2027 Baseball Hall of Fame ballot",
       "url": "https://www.baltimoresun.com/2026/11/16/orioles-2027-baseball-hall-of-fame-ballot-jake-arrieta-andrew-miller/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Colton Cowser’s game-ending home-run robbery against the Colorado Rockies was named the Capital One Premier Play of the Year at the MLB Awards on Wednesday night in Las Vegas. Cowser accepted the ...",
-      "published": "2026-11-12T06:34:00+00:00",
-      "title": "Orioles’ Colton Cowser wins MLB Play of the Year for stunning catch",
-      "url": "https://www.baltimoresun.com/2026/11/12/orioles-colton-cowser-mlb-play-of-the-year/"
-    },
-    {
-      "category": "Orioles",
-      "description": "Fully recovered from knee surgery, Orioles prospect and 2025 first-round draft pick Ike Irish is showing what he can do.",
-      "published": "2026-11-12T04:00:00+00:00",
-      "title": "Orioles prospect Ike Irish turning heads after injury, position focus",
-      "url": "https://www.baltimoresun.com/2026/11/12/orioles-ike-irish-arizona-fall-league/"
     }
   ],
-  "generated_at": "2026-11-19T10:23:45.571514+00:00",
+  "generated_at": "2026-11-19T19:04:34.796199+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

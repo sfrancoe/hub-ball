@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "One day after signing with the Twins, Sonny Gray looked back at his year in Boston — and said a reunion never got close.",
+      "published": "2026-11-19T18:19:15+00:00",
+      "title": "Sonny Gray says Red Sox reunion 'never really came up' in free agency",
+      "url": "https://www.masslive.com/redsox/2026/11/sonny-gray-says-red-sox-reunion-never-really-came-up-before-he-signed-with-twins.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "MassLive’s Fenway Insider Sean McAdam hosted a live mailbag on Thursday, Nov. 19 to highlight the latest news from the Boston Red Sox.",
+      "published": "2026-11-19T16:00:00+00:00",
+      "title": "Fenway Insider Live: Sean McAdam on Connor Wong, Triston Casas and more",
+      "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-live-sean-mcadam-on-connor-wong-triston-casas-and-more.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Sonny Gray won't be returning to the Red Sox next year. He's going back to the Twins on a two-year, $55 million contract that became official Wednesday.",
       "published": "2026-11-18T20:57:59+00:00",
       "title": "Sonny Gray leaves Red Sox, signs 2-year deal with Twins",
@@ -97,23 +111,9 @@
       "published": "2026-11-16T18:39:54+00:00",
       "title": "From World Series rings to Cooperstown dreams: Four players with Red Sox ties make Hall of Fame ballot",
       "url": "https://www.masslive.com/redsox/2026/11/four-players-with-red-sox-ties-included-on-latest-hall-of-fame-ballot.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Random thoughts about (mostly) sports topics.",
-      "published": "2026-11-15T10:00:00+00:00",
-      "title": "Some Things I Think I Think: Red Sox offseason off to strong start, but more to be done",
-      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-red-sox-offseason-off-to-strong-start-but-more-to-be-done.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox entered the winter with an All-Star first baseman and too many outfielders on their roster already. Friday’s signing of Jake Bauers, then, is somewhat confounding, at least on paper.",
-      "published": "2026-11-13T19:49:15+00:00",
-      "title": "How Jake Bauers fits Boston's roster, impacts Willson Contreras",
-      "url": "https://www.masslive.com/redsox/2026/11/what-jake-bauers-signing-means-for-red-sox-roster-willson-contreras-role-masataka-yoshida-more.html"
     }
   ],
-  "generated_at": "2026-11-19T02:10:40.657571+00:00",
+  "generated_at": "2026-11-19T19:04:22.661651+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Could the Detroit Tigers slowly but surely be turning into a destination for free agents? Emilio Pagan might be the sign.",
+      "published": "2026-11-19T04:40:00+00:00",
+      "title": "Wait – are Detroit Tigers actually a destination for free agents again?",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/19/detroit-tigers-free-agency-emilio-pagan/92850105007/"
+    },
+    {
+      "category": "Tigers",
       "description": "The Detroit Tigers traded Jace Jung to the Los Angeles Angels on Wednesday, Nov. 18, for cash considerations.",
       "published": "2026-11-18T12:17:00+00:00",
       "title": "Jace Jung traded to Angels after his old roommate makes Tigers' 40-man",
       "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/18/detroit-tigers-trade-jace-jung-to-los-angeles-angels-for-cash/92847921007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "Former Detroit Tigers pitcher Tarik Skubal is on the market just months after he was traded to the Los Angeles Dodgers.",
-      "published": "2026-11-18T10:04:00+00:00",
-      "title": "ESPN insider: Tarik Skubal return to Tigers a long shot, but 'why not?'",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/18/tarik-skubaldetroit-tigers-mlb-free-agency/92842022007/"
     },
     {
       "category": "Tigers",
@@ -27,6 +27,13 @@
       "published": "2026-11-17T15:52:00+00:00",
       "title": "Matt Vierling among veterans Tigers sacrificed on 40-man roster cuts",
       "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/17/detroit-tigers-40-man-roster-cuts-matt-vierling-trey-sweeney/92825610007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "Former Detroit Tigers pitcher Tarik Skubal is on the market just months after he was traded to the Los Angeles Dodgers.",
+      "published": "2026-11-18T10:04:00+00:00",
+      "title": "ESPN insider: Tarik Skubal return to Tigers a long shot, but 'why not?'",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/18/tarik-skubaldetroit-tigers-mlb-free-agency/92842022007/"
     },
     {
       "category": "Tigers",
@@ -50,7 +57,7 @@
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/12/detroit-tigers-a-second-baseman-hao-yu-lee-max-anderson/92743292007/"
     }
   ],
-  "generated_at": "2026-11-19T10:23:51.259683+00:00",
+  "generated_at": "2026-11-19T19:04:36.993091+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

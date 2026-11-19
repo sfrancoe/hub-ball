@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "These five hypothetical trades would spice up an already red-hot MLB Hot Stove.",
+      "published": "2026-11-19T10:30:07+00:00",
+      "title": "Ketel Marte to Boston and 4 other hypothetical trades I'd like to see: Bowden",
+      "url": "https://www.nytimes.com/athletic/7793506/2026/11/19/mlb-trade-ideas-ketel-marte-otto-lopez/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Gray spent two seasons with Minnesota in a previous stint, finishing second in AL Cy Young voting in 2023.",
       "published": "2026-11-18T20:45:49+00:00",
       "title": "Twins sign Sonny Gray to 2-year deal, bringing veteran starter back to Minnesota",
@@ -104,16 +111,9 @@
       "published": "2026-11-04T17:49:39+00:00",
       "title": "Liverpool and Boston Red Sox owners looking to purchase stake in Cadillac Formula 1 Team",
       "url": "https://www.nytimes.com/athletic/7753516/2026/11/04/liverpool-red-sox-owners-formula-1-cadillac-team/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox had to make a flurry of roster moves, including a couple of trades, setting up what should be an active month.",
-      "published": "2026-11-03T11:10:58+00:00",
-      "title": "Red Sox offseason primer: Latest roster moves, key dates, coaching changes",
-      "url": "https://www.nytimes.com/athletic/7749500/2026/11/03/red-sox-offseason-roster-moves-key-dates/"
     }
   ],
-  "generated_at": "2026-11-19T02:10:40.164191+00:00",
+  "generated_at": "2026-11-19T19:04:22.255525+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }
