@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The big man finished with a double-double in his return to the lineup on Wednesday night.",
+        "published": "2026-11-19T06:14:56+00:00",
+        "title": "Neemias Queta Celtics ‘Name to Know’ Player of the Game in loss to Nuggets",
+        "url": "https://www.masslive.com/celtics/2026/11/neemias-queta-celtics-name-to-know-player-of-the-game-in-loss-to-nuggets.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The controversial technical foul essentially eliminated any chance the Celtics had at a comeback in the final seconds.",
         "published": "2026-11-19T05:53:55+00:00",
         "title": "Celtics star called for shocking technical foul in Nuggets loss",
@@ -105,16 +112,9 @@
         "published": "2026-11-16T02:16:24+00:00",
         "title": "Celtics make history in 1st quarter against Mavericks (What we learned)",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-make-history-in-1st-quarter-against-mavericks-what-we-learned.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum scored 32 points in just 30 minutes in Sunday's blowout win over the Mavericks.",
-        "published": "2026-11-16T01:36:26+00:00",
-        "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in win over Mavericks",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-mavericks.html"
       }
     ],
-    "generated_at": "2026-11-19T06:01:13.033468+00:00",
+    "generated_at": "2026-11-19T06:21:21.025331+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
