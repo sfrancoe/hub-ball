@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics dropped a wild game in Denver featuring 10 fourth-quarter lead changes, a breakout performance from a first-round rookie and a controversial technical foul in the final seconds.",
+        "published": "2026-11-19T05:26:42Z",
+        "title": "Celtics edged by Nuggets as Mile High thriller ends with controversial call",
+        "url": "https://www.bostonherald.com/2026/11/19/celtics-edged-by-nuggets-as-mile-high-thriller-ends-with-controversial-call/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jayson Tatum, who’s played both ends of every Celtics back-to-back this season, downplayed a hand injury after Monday’s loss to Orlando.",
         "published": "2026-11-17T14:59:39Z",
         "title": "Jayson Tatum downplays hand injury after Celtics’ loss to Magic",
@@ -105,16 +112,9 @@
         "published": "2026-11-10T18:36:03Z",
         "title": "Paul George in his element with Celtics: ‘It’s exceeded my expectations’",
         "url": "https://www.bostonherald.com/2026/11/10/paul-george-in-his-element-with-celtics-its-exceeded-my-expectations/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "“I don’t think there was ever beef or anything. I think it’s working relationships. Some people are closer than others, but find a way to win and keep going.”",
-        "published": "2026-11-10T17:43:36Z",
-        "title": "Celtics veteran reflects on Jaylen Brown’s tenure: ‘I don’t think was ever beef’",
-        "url": "https://www.bostonherald.com/2026/11/10/celtics-veteran-reflects-on-jaylen-browns-tenure-i-dont-think-was-ever-beef/"
       }
     ],
-    "generated_at": "2026-11-17T15:01:15.325619+00:00",
+    "generated_at": "2026-11-19T05:31:01.810563+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },

@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics couldn't complete the clutch victory as the Nuggets squeezed out the victory Wednesday.",
+        "published": "2026-11-19T05:25:01+00:00",
+        "title": "4 takeaways as Celtics lose to Nuggets, includes controversial tech",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-nuggets-includes-controversial-tech.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics travel to Ball Arena to take on the Denver Nuggets on Wednesday. Compare Polymarket odds, spread lines, and score projections before tip off.",
         "published": "2026-11-18T16:15:00+00:00",
         "title": "Experts release Celtics vs. Nuggets prediction as Tatum and Jokic headline latest player props",
@@ -105,16 +112,9 @@
         "published": "2026-11-16T01:10:20+00:00",
         "title": "4 takeaways as Celtics dominate Mavericks, set new franchise record",
         "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-dominate-mavericks-set-new-franchise-record.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics built one of the biggest leads in NBA history at the end of the first quarter against the Mavericks.",
-        "published": "2026-11-16T00:50:53+00:00",
-        "title": "Celtics put together historic first quarter vs. Mavericks",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-put-together-historic-first-quarter-vs-mavericks.html"
       }
     ],
-    "generated_at": "2026-11-18T16:29:41.405955+00:00",
+    "generated_at": "2026-11-19T05:31:02.230387+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
