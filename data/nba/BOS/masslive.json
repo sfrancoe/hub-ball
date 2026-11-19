@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jayson Tatum was called for a technical foul with 6.4 seconds left in the Celtics' loss to the Nuggets, which essentially ended the game.",
+        "published": "2026-11-19T10:00:00+00:00",
+        "title": "Did Jayson Tatum deserve controversial tech? What we learned from Celtics’ loss to Nuggets",
+        "url": "https://www.masslive.com/celtics/2026/11/did-jayson-tatum-deserve-controversial-tech-what-we-learned-from-celtics-loss-to-nuggets.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The big man finished with a double-double in his return to the lineup on Wednesday night.",
         "published": "2026-11-19T06:14:56+00:00",
         "title": "Neemias Queta is Celtics ‘Name to Know’ Player of the Game in loss to Nuggets",
@@ -105,16 +112,9 @@
         "published": "2026-11-16T04:53:58+00:00",
         "title": "What Cooper Flagg learned from Celtics, who wanted it ‘bad’ Sunday",
         "url": "https://www.masslive.com/celtics/2026/11/what-cooper-flagg-learned-from-celtics-who-wanted-it-bad-sunday.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "MassLive Celtics writers Souichi Terada and Brian Robb have three takeaways from the blowout win over the Mavericks.",
-        "published": "2026-11-16T02:16:24+00:00",
-        "title": "Celtics make history in 1st quarter against Mavericks (What we learned)",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-make-history-in-1st-quarter-against-mavericks-what-we-learned.html"
       }
     ],
-    "generated_at": "2026-11-19T06:31:25.511402+00:00",
+    "generated_at": "2026-11-19T10:02:27.421876+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
