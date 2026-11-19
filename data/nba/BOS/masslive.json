@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The controversial technical foul essentially eliminated any chance the Celtics had at a comeback in the final seconds.",
+        "published": "2026-11-19T05:53:55+00:00",
+        "title": "Celtics star called for shocking technical foul in Nuggets loss",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-star-called-for-shocking-technical-foul-in-nuggets-loss.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics couldn't complete the clutch victory as the Nuggets squeezed out the victory Wednesday.",
         "published": "2026-11-19T05:25:01+00:00",
         "title": "4 takeaways as Celtics lose to Nuggets, includes controversial tech",
@@ -105,16 +112,9 @@
         "published": "2026-11-16T01:36:26+00:00",
         "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in win over Mavericks",
         "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-mavericks.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics outscored the Mavericks 42-9 after the first quarter, which set a new franchise record.",
-        "published": "2026-11-16T01:10:20+00:00",
-        "title": "4 takeaways as Celtics dominate Mavericks, set new franchise record",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-dominate-mavericks-set-new-franchise-record.html"
       }
     ],
-    "generated_at": "2026-11-19T05:31:02.230387+00:00",
+    "generated_at": "2026-11-19T06:01:13.033468+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
