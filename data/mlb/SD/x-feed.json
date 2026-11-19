@@ -1,32 +1,18 @@
 {
-  "generated_at": "2026-11-18T16:53:46.282448+00:00",
+  "generated_at": "2026-11-19T09:01:57.694878+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Padres",
   "team_id": "25",
   "sport": "mlb",
-  "likes_as_of": "2026-11-18T16:53:46.282448+00:00",
+  "likes_as_of": "2026-11-19T09:01:57.694878+00:00",
   "recent": [
     {
       "id": "2122841831943856434",
       "text": "We have selected the contracts of RHPs Ian Koenig and Tucker Musgrove to the Major League roster.",
       "url": "https://x.com/Padres/status/2122841831943856434",
       "published": "2026-11-17T23:58:27+00:00",
-      "likes": 731,
-      "author": "San Diego Padres",
-      "handle": "Padres",
-      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122813660116718070",
-      "text": "Tickets for 2027 are now on sale for a limited time only!",
-      "url": "https://x.com/Padres/status/2122813660116718070",
-      "published": "2026-11-17T22:06:31+00:00",
-      "likes": 150,
+      "likes": 783,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -36,34 +22,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2122841831943856434",
-      "text": "We have selected the contracts of RHPs Ian Koenig and Tucker Musgrove to the Major League roster.",
-      "url": "https://x.com/Padres/status/2122841831943856434",
-      "published": "2026-11-17T23:58:27+00:00",
-      "likes": 731,
-      "author": "San Diego Padres",
-      "handle": "Padres",
-      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122813660116718070",
-      "text": "Tickets for 2027 are now on sale for a limited time only!",
-      "url": "https://x.com/Padres/status/2122813660116718070",
-      "published": "2026-11-17T22:06:31+00:00",
-      "likes": 150,
-      "author": "San Diego Padres",
-      "handle": "Padres",
-      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

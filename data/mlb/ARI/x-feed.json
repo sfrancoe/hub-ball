@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-18T16:53:46.282448+00:00",
+  "generated_at": "2026-11-19T09:01:57.694878+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dbacks",
   "team_id": "29",
   "sport": "mlb",
-  "likes_as_of": "2026-11-18T16:53:46.282448+00:00",
+  "likes_as_of": "2026-11-19T09:01:57.694878+00:00",
   "recent": [
     {
       "id": "2122843578569490730",
       "text": "We have made the following roster moves: https://t.co/p536H3r5r5",
       "url": "https://x.com/Dbacks/status/2122843578569490730",
       "published": "2026-11-18T00:05:24+00:00",
-      "likes": 298,
+      "likes": 362,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -26,72 +26,15 @@
       "text": "The first catcher in franchise history to win a Silver Slugger Award. https://t.co/fNILHDfu6F",
       "url": "https://x.com/Dbacks/status/2122840917304639856",
       "published": "2026-11-17T23:54:49+00:00",
-      "likes": 1242,
+      "likes": 1382,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
       "media": "https://pbs.twimg.com/amplify_video_thumb/2122839062767882240/img/5AOKuAEHaHqnngbf.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122838225769406533",
-      "text": "What can't he do? Gabriel Moreno has won his first Silver Slugger Award! https://t.co/3SDwt5ELk6",
-      "url": "https://x.com/Dbacks/status/2122838225769406533",
-      "published": "2026-11-17T23:44:08+00:00",
-      "likes": 1091,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXMWDvaAAAwshs.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2122840917304639856",
-      "text": "The first catcher in franchise history to win a Silver Slugger Award. https://t.co/fNILHDfu6F",
-      "url": "https://x.com/Dbacks/status/2122840917304639856",
-      "published": "2026-11-17T23:54:49+00:00",
-      "likes": 1242,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2122839062767882240/img/5AOKuAEHaHqnngbf.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122838225769406533",
-      "text": "What can't he do? Gabriel Moreno has won his first Silver Slugger Award! https://t.co/3SDwt5ELk6",
-      "url": "https://x.com/Dbacks/status/2122838225769406533",
-      "published": "2026-11-17T23:44:08+00:00",
-      "likes": 1091,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXMWDvaAAAwshs.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122843578569490730",
-      "text": "We have made the following roster moves: https://t.co/p536H3r5r5",
-      "url": "https://x.com/Dbacks/status/2122843578569490730",
-      "published": "2026-11-18T00:05:24+00:00",
-      "likes": 298,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXa3ABa4AQTtY3.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

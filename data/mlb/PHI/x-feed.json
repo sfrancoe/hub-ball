@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-18T16:53:46.282448+00:00",
+  "generated_at": "2026-11-19T09:01:57.694878+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Phillies",
   "team_id": "22",
   "sport": "mlb",
-  "likes_as_of": "2026-11-18T16:53:46.282448+00:00",
+  "likes_as_of": "2026-11-19T09:01:57.694878+00:00",
   "recent": [
     {
       "id": "2122842257174978641",
       "text": "Certified Slugger 👍 https://t.co/46C83355uY",
       "url": "https://x.com/Phillies/status/2122842257174978641",
       "published": "2026-11-18T00:00:09+00:00",
-      "likes": 1773,
+      "likes": 2009,
       "author": "Philadelphia Phillies",
       "handle": "Phillies",
       "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
@@ -26,72 +26,15 @@
       "text": "Silver Slugger Schwarber Congratulations to Kyle on winning his 2nd career Silver Slugger Award! https://t.co/Dz1xoZyw6W",
       "url": "https://x.com/Phillies/status/2122839549604769884",
       "published": "2026-11-17T23:49:23+00:00",
-      "likes": 4035,
+      "likes": 4273,
       "author": "Philadelphia Phillies",
       "handle": "Phillies",
       "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
       "media": "https://pbs.twimg.com/media/HXXXUdxWEAAeTy9.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122803146892185766",
-      "text": "The Phillies have selected the contract of infielder Bryan Rincon to the 40-man roster. With this transaction, the club’s 40-man roster currently stands at 39 players.",
-      "url": "https://x.com/Phillies/status/2122803146892185766",
-      "published": "2026-11-17T21:24:44+00:00",
-      "likes": 570,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2122839549604769884",
-      "text": "Silver Slugger Schwarber Congratulations to Kyle on winning his 2nd career Silver Slugger Award! https://t.co/Dz1xoZyw6W",
-      "url": "https://x.com/Phillies/status/2122839549604769884",
-      "published": "2026-11-17T23:49:23+00:00",
-      "likes": 4035,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXXUdxWEAAeTy9.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122842257174978641",
-      "text": "Certified Slugger 👍 https://t.co/46C83355uY",
-      "url": "https://x.com/Phillies/status/2122842257174978641",
-      "published": "2026-11-18T00:00:09+00:00",
-      "likes": 1773,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXXZ4FrWkAAUrFK.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2122803146892185766",
-      "text": "The Phillies have selected the contract of infielder Bryan Rincon to the 40-man roster. With this transaction, the club’s 40-man roster currently stands at 39 players.",
-      "url": "https://x.com/Phillies/status/2122803146892185766",
-      "published": "2026-11-17T21:24:44+00:00",
-      "likes": 570,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
