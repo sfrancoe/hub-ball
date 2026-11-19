@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox’s top free agent will officially be one-and-done in Boston, agreeing to a two-year deal with one of his former clubs.",
+      "published": "2026-11-18T21:24:40Z",
+      "title": "Top Red Sox free agent signs two-year deal with Twins",
+      "url": "https://www.bostonherald.com/2026/11/18/top-red-sox-free-agent-signs-two-year-deal-with-twins/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox shook up their catcher’s room on Wednesday, acquiring a new backup from the Rays while designating one of the club’s longest tenured veterans for assignment.",
       "published": "2026-11-18T20:18:36Z",
       "title": "Red Sox acquire catcher from Rays, designate Connor Wong for assignment",
@@ -104,16 +111,9 @@
       "published": "2026-11-12T00:55:46Z",
       "title": "Walpole’s Cam Schlittler unanimously wins AL Cy Young Award",
       "url": "https://www.bostonherald.com/2026/11/11/walpoles-cam-schlittler-unanimously-wins-al-cy-young-award/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Scott Boras, baseball’s most powerful agent, said Wednesday that he’s had extensive talks with the Red Sox, who he described as being determined to improve.",
-      "published": "2026-11-11T22:01:25Z",
-      "title": "Scott Boras on talks with Red Sox: ‘They’re building, they want to advance’",
-      "url": "https://www.bostonherald.com/2026/11/11/scott-boras-on-talks-with-red-sox-theyre-building-they-want-to-advance/"
     }
   ],
-  "generated_at": "2026-11-18T20:55:23.178130+00:00",
+  "generated_at": "2026-11-19T02:10:39.712490+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

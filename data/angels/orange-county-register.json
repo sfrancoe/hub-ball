@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Angels",
+      "description": "MLB commissioner Rob Manfred says an update was given during this week’s owners meetings and that the sale remains on track to be approved subject to closing on its original timeline.",
+      "published": "2026-11-18T14:47:00+00:00",
+      "title": "MLB expects Angels sale to Stan Kroenke to close in January",
+      "url": "https://www.ocregister.com/2026/11/18/mlb-expects-angels-sale-to-stan-kroenke-to-close-in-january/"
+    },
+    {
+      "category": "Angels",
       "description": "The Angels add the 26-year-old, who was a first-round draft pick by Detroit in 2022 but had only nine at-bats in the majors in 2026, for cash considerations ...",
       "published": "2026-11-18T11:47:00+00:00",
       "title": "Angels acquire infielder Jace Jung from Tigers",
@@ -41,16 +48,9 @@
       "published": "2026-11-11T18:35:00+00:00",
       "title": "John Mozeliak advises patience for Angels’ new regime",
       "url": "https://www.ocregister.com/2026/11/11/john-mozeliak-advises-patience-for-angels-new-regime/"
-    },
-    {
-      "category": "Angels",
-      "description": "Interim GM John Mozeliak says the search for a new head of baseball operations is on hold until Stan Kroenke’s group is approved by the other MLB owners. Although he said that could happen as soon as ...",
-      "published": "2026-11-04T03:12:00+00:00",
-      "title": "Angels’ GM search still on hold, pending MLB approval of sale",
-      "url": "https://www.ocregister.com/2026/11/04/control-of-angels-expected-to-pass-to-stan-kroenke-this-month/"
     }
   ],
-  "generated_at": "2026-11-18T20:55:36.025365+00:00",
+  "generated_at": "2026-11-19T02:10:56.617370+00:00",
   "source": "OC Register",
   "source_url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
 }

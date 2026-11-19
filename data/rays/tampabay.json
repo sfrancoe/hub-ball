@@ -2,7 +2,14 @@
   "articles": [
     {
       "category": "Rays",
-      "description": "The return is a 17-year-pitching prospect, but also payroll savings and an opening for Kenny Piper or Caden Bodine to get big-league time.",
+      "description": "Baseball is on track for a lockout starting Dec. 2 that could threaten the 2027 season, Rob Manfred says.",
+      "published": "2026-11-18T21:42:16+00:00",
+      "title": "MLB commissioner says owners won’t compromise on a salary cap",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/18/mlb-rob-manfred-salary-cap-lockout-owners-meetings-mlbpa/"
+    },
+    {
+      "category": "Rays",
+      "description": "The return is a 17-year-old pitching prospect but also payroll savings and an opening for Kenny Piper or Caden Bodine to get big-league time.",
       "published": "2026-11-18T20:13:42+00:00",
       "title": "Rays complete deal to trade backup catcher Nick Fortes to Red Sox",
       "url": "https://www.tampabay.com/sports/rays/2026/11/18/nick-fortes-kenny-piper-boston-red-sox/"
@@ -125,16 +132,9 @@
       "published": "2026-11-02T00:58:00+00:00",
       "title": "Rays’ Rasmussen ‘incredibly excited’ to have his $20M option picked up",
       "url": "https://www.tampabay.com/sports/rays/2026/11/01/drew-rasmussen-2027-option-20-million-dollar-salary-picked-up/"
-    },
-    {
-      "category": "Rays",
-      "description": "The ace starter maxed out a series of escalator clauses based on games pitched and days healthy. Plus, Yandy Diaz’s option is formalized.",
-      "published": "2026-11-01T01:26:58+00:00",
-      "title": "Rays pick up Drew Rasmussen’s option for franchise-record $20M salary",
-      "url": "https://www.tampabay.com/sports/rays/2026/10/31/drew-rasmussen-team-option-yandy-diaz-taylor-walls-charlie-morton/"
     }
   ],
-  "generated_at": "2026-11-18T20:55:31.001414+00:00",
+  "generated_at": "2026-11-19T02:10:51.405952+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

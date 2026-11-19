@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Cardinals",
-      "description": "Get a recap of Tuesday's local news stories from St. Louis Post-Dispatch. (7) updates to this series since 1 min ago Cardinals add right-hander Jacob Odle and his snappy curveball along with Baez to ...",
-      "published": "2026-11-17T19:00:00+00:00",
-      "title": "November 17 recap: St. Louis news you may have missed today",
-      "url": "https://www.stltoday.com/news/local/collection_fb7b537b-f7fb-5891-a53b-082f3b91ff8b.html"
-    },
-    {
-      "category": "Cardinals",
       "description": "Alec Burleson and Jordan Walker, the Cardinals’ top two RBI producers, were finalists for Silver Slugger awards at their respective positions. Both came up short of taking home the honor.",
       "published": "2026-11-17T16:55:00+00:00",
       "title": "Cardinals’ Alec Burleson, Jordan Walker come up short in Silver Slugger voting",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_a31cf891-11c4-4f6a-a9e6-eb5f423a305e.html"
+    },
+    {
+      "category": "Cardinals",
+      "description": "The Cardinals will look to continue prospect development over the winter through minor league camps in Jupiter, Florida, and through remote training.",
+      "published": "2026-11-17T12:00:00+00:00",
+      "title": "How Cardinals farm system looks to 'win' offseason with ongoing prospect development",
+      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_84f10471-8ad8-4f0f-9dac-ad635305ea11.html"
     },
     {
       "category": "Cardinals",
@@ -27,6 +27,13 @@
       "published": "2026-11-17T10:31:00+00:00",
       "title": "How Dustin May's $53 million deal with White Sox boosts Cardinals' pitch to free agents",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_ae1d6162-9c2f-47e4-b316-ede215cdc9cb.html"
+    },
+    {
+      "category": "Cardinals",
+      "description": "Get a recap of Tuesday's local news stories from St. Louis Post-Dispatch. (7) updates to this series since 1 min ago Cardinals add right-hander Jacob Odle and his snappy curveball along with Baez to ...",
+      "published": "2026-11-17T19:00:00+00:00",
+      "title": "November 17 recap: St. Louis news you may have missed today",
+      "url": "https://www.stltoday.com/news/local/collection_fb7b537b-f7fb-5891-a53b-082f3b91ff8b.html"
     },
     {
       "category": "Cardinals",
@@ -76,16 +83,9 @@
       "published": "2026-11-14T08:50:00+00:00",
       "title": "Cardinals prospects Frank Elissalt, Tai Peete help Javelinas reach fall championship game",
       "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_a8aa4831-1de7-46c7-af0d-8a31d84cd5e1.html"
-    },
-    {
-      "category": "Cardinals",
-      "description": "Cardinals prospect Tai Peete collected three hits and Sammy Hernandez drove in two RBIs to help the Peoria Javelinas to a 5-3 win on Thursday in the Arizona Fall League.",
-      "published": "2026-11-06T07:15:00+00:00",
-      "title": "Cardinals prospects Tai Peete, Sammy Hernandez lead lineup in fall league win",
-      "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/minor-league/article_d88cc5ab-b218-4e20-a059-6210a993cdd8.html"
     }
   ],
-  "generated_at": "2026-11-18T20:55:43.528988+00:00",
+  "generated_at": "2026-11-19T02:11:01.689773+00:00",
   "source": "Post-Dispatch",
   "source_url": "https://www.stltoday.com/sports/professional/mlb/cardinals/"
 }

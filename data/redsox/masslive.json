@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Sonny Gray won't be returning to the Red Sox next year. He's going back to the Twins on a two-year, $55 million contract that became official Wednesday.",
+      "published": "2026-11-18T20:57:59+00:00",
+      "title": "Sonny Gray leaves Red Sox, signs 2-year deal with Twins",
+      "url": "https://www.masslive.com/redsox/2026/11/sonny-gray-leaves-red-sox-signs-55m-deal-with-twins-after-one-year-in-boston.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The Red Sox shook up their catching mix Wednesday, cutting bait with Connor Wong and replacing him by trading for Tampa Bay's Nick Fortes.",
       "published": "2026-11-18T20:02:39+00:00",
       "title": "Red Sox cut Connor Wong, acquire Nick Fortes as new backup catcher",
@@ -104,16 +111,9 @@
       "published": "2026-11-13T19:49:15+00:00",
       "title": "How Jake Bauers fits Boston's roster, impacts Willson Contreras",
       "url": "https://www.masslive.com/redsox/2026/11/what-jake-bauers-signing-means-for-red-sox-roster-willson-contreras-role-masataka-yoshida-more.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "David Ortiz was on The Fenway Rundown Friday when news broke that the Red Sox made their first big move of the offseason.",
-      "published": "2026-11-13T19:27:52+00:00",
-      "title": "What does Red Sox legend David Ortiz make of team’s deal with Jake Bauers?",
-      "url": "https://www.masslive.com/redsox/2026/11/what-does-red-sox-legend-david-ortiz-make-of-teams-deal-with-jake-bauers.html"
     }
   ],
-  "generated_at": "2026-11-18T20:55:24.797462+00:00",
+  "generated_at": "2026-11-19T02:10:40.657571+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
