@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Athletics",
+      "description": "The octogenarian tennis player recounts loving athletics for as long as she can remember in this vivid documentary about her life and career.",
+      "published": "2026-11-19T02:02:00+00:00",
+      "title": "‘Give Me the Ball!’ Review: How Billie Jean King Aced Life",
+      "url": "https://www.nytimes.com/2026/11/19/movies/give-me-the-ball-review-billie-jean-king.html"
+    },
+    {
+      "category": "Athletics",
       "description": "Plus, the Rays' interest in keeping Drew Rasmussen, the Marlins' next experiment, the Pirates' search for lefties and more news and notes.",
       "published": "2026-11-11T02:03:00+00:00",
       "title": "The A’s, with a big move to Las Vegas looming, look to be aggressive",
@@ -15,7 +22,7 @@
       "url": "https://www.nytimes.com/athletic/7753352/2026/11/04/cam-castro-athletics-general-manager/"
     }
   ],
-  "generated_at": "2026-11-15T20:21:23.616961+00:00",
+  "generated_at": "2026-11-19T10:24:04.042974+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/athletics/"
 }

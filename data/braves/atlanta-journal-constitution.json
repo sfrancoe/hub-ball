@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Braves",
-      "description": "Today's Win Column tackles mounting Hawks injuries, a bit of Braves trivia, the latest CFP rankings and your thoughts on the Falcons.",
-      "published": "2026-11-18T08:52:00+00:00",
-      "title": "The Win Column: Injury season",
-      "url": "https://www.ajc.com/sports/2026/11/win-column-hawks-injury-season/"
-    },
-    {
-      "category": "Braves",
       "description": "That approach continued last week with the signing of veteran Evan Phillips, once a Braves farmhand who blossomed into a top-tier reliever with the Los Angeles Dodgers. He’s the latest former Dodger ...",
       "published": "2026-11-17T02:00:00+00:00",
       "title": "Why the Atlanta Braves worked quickly to sign relief pitcher Evan Phillips",
       "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-signed-evan-phillips/"
+    },
+    {
+      "category": "Braves",
+      "description": "Today's Win Column tackles mounting Hawks injuries, a bit of Braves trivia, the latest CFP rankings and your thoughts on the Falcons.",
+      "published": "2026-11-18T08:52:00+00:00",
+      "title": "The Win Column: Injury season",
+      "url": "https://www.ajc.com/sports/2026/11/win-column-hawks-injury-season/"
     },
     {
       "category": "Braves",
@@ -27,13 +27,6 @@
       "published": "2026-11-12T18:31:00+00:00",
       "title": "Former Braves’ draft pick Evan Phillips ‘couldn’t be more excited’ to be back in Atlanta",
       "url": "https://www.ajc.com/sports/2026/11/evan-phillips-excited-about-braves-return/"
-    },
-    {
-      "category": "Braves",
-      "description": "The Atlanta Braves are seeking another starting pitcher. Now that free agency is open, here are some of the top prospects available.",
-      "published": "2026-11-05T03:00:00+00:00",
-      "title": "Which free agent starting pitchers could fit Braves?",
-      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-need-starting-pitcher/"
     },
     {
       "category": "Braves",
@@ -55,9 +48,23 @@
       "published": "2026-11-11T06:41:00+00:00",
       "title": "Anthopoulos provides updates on Strider, Schwellenbach for 2027 season",
       "url": "https://www.ajc.com/sports/2026/11/braves-strider-schwellenbach-injury-updates/"
+    },
+    {
+      "category": "Braves",
+      "description": "Dana Brown and Perry Minasian have been hired as senior advisers in amateur scouting to work alongside Braves president of baseball operations Alex Anthopoulos.",
+      "published": "2026-11-10T09:20:00+00:00",
+      "title": "Dana Brown and Perry Minasian return to Braves in scouting roles",
+      "url": "https://www.ajc.com/sports/2026/11/braves-rehire-dana-brown-perry-minasian/"
+    },
+    {
+      "category": "Braves",
+      "description": "ROME — Check out one of High-A Rome’s games and you might see a blur rounding the bases. Grant Gustin did a nice job playing the titular hero in CW’s “The Flash,” but Tate Southisene might do an even ...",
+      "published": "2026-07-09T17:00:00+00:00",
+      "title": "Tate Southisene looks like a smart pick for the Braves one year later",
+      "url": "https://www.ajc.com/sports/2026/07/tate-southisene-looks-like-a-smart-pick-for-the-braves-one-year-later/"
     }
   ],
-  "generated_at": "2026-11-19T02:10:58.254188+00:00",
+  "generated_at": "2026-11-19T10:24:06.083171+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }
