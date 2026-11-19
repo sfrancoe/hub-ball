@@ -3,6 +3,20 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The technical foul called on Jayson Tatum with 6.4 seconds left effectively sealed the loss for the Celtics to the Nuggets.",
+        "published": "2026-11-19T10:45:00+00:00",
+        "title": "Jayson Tatum takes blame for controversial foul in Nuggets loss: ‘That’s on me’",
+        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-takes-blame-for-controversial-foul-in-nuggets-loss-thats-on-me.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "Chris Cenac Jr. is quickly rising up the depth chart for the Celtics this week, leading to some interesting choices for Joe Mazzulla.",
+        "published": "2026-11-19T10:45:00+00:00",
+        "title": "Celtics rookie creates fascinating conundrum for Joe Mazzulla after Nuggets loss",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-rookie-creates-fascinating-conundrum-for-joe-mazzulla-after-nuggets-loss.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jayson Tatum was called for a technical foul with 6.4 seconds left in the Celtics' loss to the Nuggets, which essentially ended the game.",
         "published": "2026-11-19T10:00:00+00:00",
         "title": "Did Jayson Tatum deserve controversial tech? What we learned from Celtics’ loss to Nuggets",
@@ -98,23 +112,9 @@
         "published": "2026-11-16T11:00:01+00:00",
         "title": "Jordan Walsh believes he’s ‘best defender,’ Jayson Tatum’s hunch (Celtics Notebook)",
         "url": "https://www.masslive.com/celtics/2026/11/jordan-walsh-believes-hes-best-defender-jayson-tatums-hunch-celtics-notebook.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum gave a strong vote of confidence to the youngest player on the Celtics roster Sunday night.",
-        "published": "2026-11-16T10:45:00+00:00",
-        "title": "Jayson Tatum makes eye opening claim about Celtics rookie after Mavericks win",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-makes-bold-prediction-about-celtics-rookie-after-mavericks-win.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Maine native Cooper Flagg saw a difference in the compete level between the Celtics and Mavericks on Sunday.",
-        "published": "2026-11-16T04:53:58+00:00",
-        "title": "What Cooper Flagg learned from Celtics, who wanted it ‘bad’ Sunday",
-        "url": "https://www.masslive.com/celtics/2026/11/what-cooper-flagg-learned-from-celtics-who-wanted-it-bad-sunday.html"
       }
     ],
-    "generated_at": "2026-11-19T10:02:27.421876+00:00",
+    "generated_at": "2026-11-19T10:52:41.271240+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
