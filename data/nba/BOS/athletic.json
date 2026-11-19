@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The technical foul capped a frustrating second half for Tatum.",
+        "published": "2026-11-19T11:00:25+00:00",
+        "title": "Jayson Tatum regrets costly tech vs. Nuggets, says he should've 'gave the ball to the ref'",
+        "url": "https://www.nytimes.com/athletic/7794365/2026/11/19/celtics-jayson-tatum-technical-foul-nuggets/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "George has fit in seamlessly with the Celtics so far after arriving in the heavily scrutinized Jaylen Brown trade: \"Everybody gets along.\"",
         "published": "2026-11-18T10:13:03+00:00",
         "title": "Paul George once gifted Jayson Tatum signature shoes. Now he's his right-hand man",
@@ -105,16 +112,9 @@
         "published": "2026-11-02T10:45:52+00:00",
         "title": "'Perfect fit' of Ime Udoka-Marcus Smart reunion giving Rockets tenacity they need",
         "url": "https://www.nytimes.com/athletic/7744145/2026/11/02/rockets-marcus-smart-ime-udoka-celtics/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Scalabrine said Jaylen Brown asked the Celtics for a trade, then walked it back. Team analysts need to get news right.",
-        "published": "2026-11-01T11:02:40+00:00",
-        "title": "Brian Scalabrine changed his Jaylen Brown story. He should’ve gotten it right the first time",
-        "url": "https://www.nytimes.com/athletic/7738756/2026/11/01/jaylen-brown-brian-scalabrine-comments-celtics-76ers-trade/"
       }
     ],
-    "generated_at": "2026-11-18T10:17:38.483331+00:00",
+    "generated_at": "2026-11-19T11:02:45.578601+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
