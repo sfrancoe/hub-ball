@@ -3,6 +3,20 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
+        "published": "2026-11-20T10:00:00+00:00",
+        "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
+        "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "Mitchell Robinson has the worst plus/minus on the Celtics as his early-season struggles have continued.",
+        "published": "2026-11-20T10:00:00+00:00",
+        "title": "Should Celtics fans be worried about Michell Robinson? (Mailbag)",
+        "url": "https://www.masslive.com/celtics/2026/11/should-celtics-fans-be-worried-about-michell-robinson-mailbag.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The technical foul called on Jayson Tatum with 6.4 seconds left effectively sealed the loss for the Celtics to the Nuggets.",
         "published": "2026-11-19T10:45:00+00:00",
         "title": "Jayson Tatum takes blame for controversial foul in Nuggets loss: ‘That’s on me’",
@@ -98,23 +112,9 @@
         "published": "2026-11-17T00:41:27+00:00",
         "title": "Former Celtics guard allowed to play for LSU despite turning pro",
         "url": "https://www.masslive.com/celtics/2026/11/former-celtics-guard-allowed-to-play-for-lsu-despite-turning-pro.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Celtics vs. Magic prediction for Nov. 16: model picks, Polymarket odds and best bets as Jayson Tatum, Paul George and Boston host Orlando at TD Garden.",
-        "published": "2026-11-16T16:05:00+00:00",
-        "title": "Celtics vs. Magic predictions, odds: Paul George, Jayson Tatum and the NBA’s best defense host Orlando",
-        "url": "https://www.masslive.com/betting/2026/11/celtics-vs-magic-predictions-odds-paul-george-jayson-tatum-and-the-nbas-best-defense-host-orlando.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum said he knew sometime during training camp his Celtics team was going to be really good once again.",
-        "published": "2026-11-16T11:00:01+00:00",
-        "title": "Jordan Walsh believes he’s ‘best defender,’ Jayson Tatum’s hunch (Celtics Notebook)",
-        "url": "https://www.masslive.com/celtics/2026/11/jordan-walsh-believes-hes-best-defender-jayson-tatums-hunch-celtics-notebook.html"
       }
     ],
-    "generated_at": "2026-11-19T10:52:41.271240+00:00",
+    "generated_at": "2026-11-20T10:09:56.635314+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
