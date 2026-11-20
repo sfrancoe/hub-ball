@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-20T07:05:00.379275+00:00",
+  "generated_at": "2026-11-20T16:07:15.743790+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/tigers",
   "team_id": "6",
   "sport": "mlb",
-  "likes_as_of": "2026-11-20T07:05:00.379275+00:00",
+  "likes_as_of": "2026-11-20T16:07:15.743790+00:00",
   "recent": [
     {
       "id": "2123446334510473708",
       "text": "Another one, thank you 🙂‍↕️ Kevin McGonigle is the Detroit Sports Media Tigers Rookie of the Year! https://t.co/1lh3vNuTCa",
       "url": "https://x.com/tigers/status/2123446334510473708",
       "published": "2026-11-19T16:00:32+00:00",
-      "likes": 1308,
+      "likes": 1411,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "Wishing Framber a happy birthday! 🎉 https://t.co/r6mr0QVM5b",
       "url": "https://x.com/tigers/status/2123419893941055575",
       "published": "2026-11-19T14:15:28+00:00",
-      "likes": 413,
+      "likes": 420,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
@@ -36,34 +36,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2123446334510473708",
-      "text": "Another one, thank you 🙂‍↕️ Kevin McGonigle is the Detroit Sports Media Tigers Rookie of the Year! https://t.co/1lh3vNuTCa",
-      "url": "https://x.com/tigers/status/2123446334510473708",
-      "published": "2026-11-19T16:00:32+00:00",
-      "likes": 1308,
-      "author": "Detroit Tigers",
-      "handle": "tigers",
-      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXf9hyfXsAArEDx.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123419893941055575",
-      "text": "Wishing Framber a happy birthday! 🎉 https://t.co/r6mr0QVM5b",
-      "url": "https://x.com/tigers/status/2123419893941055575",
-      "published": "2026-11-19T14:15:28+00:00",
-      "likes": 413,
-      "author": "Detroit Tigers",
-      "handle": "tigers",
-      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXfnI3QXIAAAs9H.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
