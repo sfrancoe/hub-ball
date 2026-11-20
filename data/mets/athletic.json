@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Hernández posted a 2.46 ERA over 131 2/3 innings during four seasons pitching in Japan.",
+      "published": "2026-11-20T03:21:42+00:00",
+      "title": "Mets sign former Red Sox reliever Darwinzon Hernández to 3-year, $12 million deal: Source",
+      "url": "https://www.nytimes.com/athletic/7796629/2026/11/19/mets-darwinzon-hernandez-free-agent-contract/"
+    },
+    {
+      "category": "Mets",
       "description": "Where would Skubal fit in their rotation? How would he fit among other long-term contracts? Is he a want, or a need?",
       "published": "2026-11-18T10:30:10+00:00",
       "title": "How Tarik Skubal would fit his top four suitors, from the Mets to the Dodgers",
@@ -132,16 +139,9 @@
       "published": "2026-10-26T13:25:43+00:00",
       "title": "Mets' Francisco Lindor wins Roberto Clemente Award as MLB's top humanitarian",
       "url": "https://www.nytimes.com/athletic/7724004/2026/10/26/mets-francisco-lindor-roberto-clemente-award-2026/"
-    },
-    {
-      "category": "Mets",
-      "description": "Mendoza will help oversee a Philadelphia defense that graded out seventh-worst in baseball in 2026.",
-      "published": "2026-10-15T15:03:06+00:00",
-      "title": "Phillies add former Mets manager Carlos Mendoza as third-base, infield coach",
-      "url": "https://www.nytimes.com/athletic/7692703/2026/10/15/phillies-hire-carlos-mendoza-coach/"
     }
   ],
-  "generated_at": "2026-11-18T12:40:59.339484+00:00",
+  "generated_at": "2026-11-20T08:35:45.957794+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

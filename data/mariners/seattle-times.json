@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "The Colorado Rockies picked up a pair of pitchers in a trade Thursday night with the Chicago White Sox, including three-time All-Star Luis Castillo.",
+      "published": "2026-11-19T10:24:00+00:00",
+      "title": "Rockies acquire Luis Castillo, Davis Martin in trade with White Sox",
+      "url": "https://www.seattletimes.com/sports/mariners/rockies-acquire-luis-castillo-davis-martin-in-trade-with-white-sox/"
+    },
+    {
+      "category": "Mariners",
       "description": "In one blockbuster trade, the Mariners have addressed their top offseason priority. Here's what to know about new third baseman Maikel Garcia.",
       "published": "2026-11-18T07:30:00+00:00",
       "title": "What to know about new Mariners new third baseman Maikel Garcia",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Mariners",
-      "description": "The Mariners filled a major hole by trading for Maikel Garcia. So what's next on their offseason agenda? \"We're going to be as aggressive as ever.\" ...",
-      "published": "2026-11-18T22:01:00+00:00",
-      "title": "Mariners’ Maikel Garcia trade likely just start of more offseason moves",
-      "url": "https://www.seattletimes.com/sports/mariners/the-mariners-made-a-big-splash-in-trade-for-maikel-garcia-they-arent-done-yet/"
-    },
-    {
-      "category": "Mariners",
       "description": "The baseball world is buzzing after Wednesday's monster six-player trade between the Mariners and the Royals. Here's how the national media views the deal.",
       "published": "2026-11-18T04:17:00+00:00",
       "title": "National media reactions to Mariners’ massive trade for Maikel Garcia",
@@ -44,27 +44,20 @@
     },
     {
       "category": "Mariners",
+      "description": "The Mariners filled a major hole by trading for Maikel Garcia. So what's next on their offseason agenda? \"We're going to be as aggressive as ever.\" ...",
+      "published": "2026-11-18T22:01:00+00:00",
+      "title": "Mariners’ Maikel Garcia trade likely just start of more offseason moves",
+      "url": "https://www.seattletimes.com/sports/mariners/the-mariners-made-a-big-splash-in-trade-for-maikel-garcia-they-arent-done-yet/"
+    },
+    {
+      "category": "Mariners",
       "description": "One added sweetener in Wednesday's blockbuster Mariners trade? It turns out, Julio Rodríguez and Maikel Garcia are close friends.",
       "published": "2026-11-18T06:59:00+00:00",
       "title": "‘My man!’ Julio Rodríguez thrilled with Mariners’ blockbuster trade",
       "url": "https://www.seattletimes.com/sports/mariners/my-man-julio-rodriguez-thrilled-with-mariners-blockbuster-trade/"
-    },
-    {
-      "category": "Mariners",
-      "description": "The Mariners are in need of a major upgrade on the left side of their infield to pair with Colt Emerson. Here are eight potential trade targets.",
-      "published": "2026-11-12T11:38:00+00:00",
-      "title": "Here are 8 trade targets for Seattle Mariners to upgrade the infield",
-      "url": "https://www.seattletimes.com/sports/mariners/here-are-8-seattle-mariners-trade-targets-to-upgrade-the-infield/"
-    },
-    {
-      "category": "Mariners",
-      "description": "Jerry Dipoto doesn't often label Mariners players as \"untouchable\" in trade talks. But there's an industrywide consensus that pitching prospect Ryan Sloan is just that.",
-      "published": "2026-11-11T10:47:00+00:00",
-      "title": "Seattle Mariners have made prospect Ryan Sloan untouchable in trade talks",
-      "url": "https://www.seattletimes.com/sports/mariners/seattle-mariners-have-made-prospect-ryan-sloan-untouchable-in-trade-talks/"
     }
   ],
-  "generated_at": "2026-11-20T01:12:33.000285+00:00",
+  "generated_at": "2026-11-20T08:35:52.599459+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

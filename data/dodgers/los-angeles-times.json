@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "L.A. Councilmember Eunisses Hernandez is calling on Gov. Gavin Newsom to set an example and fight a proposed Dodger Stadium gondola project.",
+      "published": "2026-11-19T18:41:00+00:00",
+      "title": "How Newsom got caught up in crossfire over proposed Dodger Stadium gondola",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-19/gavin-newsom-caught-in-dodger-stadium-gondola-crossfire"
+    },
+    {
+      "category": "Dodgers",
       "description": "What can executives learn from the Lakers, Dodgers, Rams and LAFC? See how L.A.’s pro teams use AI, data, culture and fan experience to win. Read more.",
       "published": "2026-11-15T02:20:00+00:00",
       "title": "L.A.’s Pro Sports Teams Offer Executives a Playbook on AI, Data, Culture and Customer Experience",
@@ -13,16 +20,9 @@
       "published": "2026-11-19T13:26:00+00:00",
       "title": "Sparks reportedly near sale to new Padres owners for record valuation",
       "url": "https://www.latimes.com/sports/sparks/story/2026-11-19/sparks-reportedly-near-sale-padres-owners-record-valuation"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Tarik Skubal's free agency looms, but the Dodgers have plenty of depth in the starting rotation as they figure out Shohei Ohtani's workload for next season.",
-      "published": "2026-11-19T07:59:00+00:00",
-      "title": "Dodgers have depth in the starting rotation, but bullpen is a work in progress",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-19/dodgers-depth-starting-rotation-bullpen-needs"
     }
   ],
-  "generated_at": "2026-11-20T01:12:39.685104+00:00",
+  "generated_at": "2026-11-20T08:35:58.714503+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "Former Phillie Pete Rose was posthumously pardoned by President Trump after the career hits leader was reinstated by MLB.",
+      "published": "2026-11-19T14:42:00+00:00",
+      "title": "Former Phillie Pete Rose gets a posthumous pardon from President Trump",
+      "url": "https://www.inquirer.com/news/pete-rose-trump-baseball-phillies-pardon-20261119.html"
+    },
+    {
+      "category": "Phillies",
       "description": "A likely lockout is less than two weeks away. How much can the Phillies do before then? The Inquirer’s baseball writers weigh in on where they stand amid the sprint to Dec. 2.",
       "published": "2026-11-18T02:01:00+00:00",
       "title": "Phillies offseason questions: How Teruaki Sato would fit, big bat or reliever, and more",
@@ -41,16 +48,9 @@
       "published": "2026-11-16T12:15:00+00:00",
       "title": "Phillies’ Chase Utley is top returning vote-getter on 2027 Hall of Fame ballot",
       "url": "https://www.inquirer.com/phillies/chase-utley-hall-of-fame-ballot-2027-rollins-abreu-hamels-20261116.html"
-    },
-    {
-      "category": "Phillies",
-      "description": "Former Phillie Pete Rose was posthumously pardoned by President Trump after the career hits leader was reinstated by MLB.",
-      "published": "2026-11-19T14:42:00+00:00",
-      "title": "Trump posthumously pardons former Phillie Pete Rose",
-      "url": "https://www.inquirer.com/news/pete-rose-trump-baseball-phillies-pardon-20261119.html"
     }
   ],
-  "generated_at": "2026-11-20T01:12:34.961127+00:00",
+  "generated_at": "2026-11-20T08:35:54.367445+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }

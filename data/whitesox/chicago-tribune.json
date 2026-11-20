@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "The Chicago White Sox traded right-handers Davis Martin and Luis Castillo to the Colorado Rockies on Thursday for left-hander Sean Sullivan and minor-league catcher Douglas Veliz.",
+      "published": "2026-11-19T18:32:00+00:00",
+      "title": "Chicago White Sox trade Davis Martin and Luis Castillo to Colorado Rockies for pair of prospects",
+      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-trade-davis-martin-luis-castillo/"
+    },
+    {
+      "category": "White Sox",
       "description": "The Chicago White Sox came up short in trying to add Dustin May twice in the last year. They finally landed the right-handed starter Wednesday, signing him to a 3-year, $52.5 million deal.",
       "published": "2026-11-19T15:07:00+00:00",
       "title": "Chicago White Sox bank on Dustin May’s untapped upside — and recent durability — to bolster 2027 rotation",
@@ -50,7 +57,7 @@
       "url": "https://www.chicagotribune.com/2026/11/10/chicago-white-sox-gm-meetings-grant-taylor/"
     }
   ],
-  "generated_at": "2026-11-20T01:12:28.977225+00:00",
+  "generated_at": "2026-11-20T08:35:49.151886+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }
