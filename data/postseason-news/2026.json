@@ -1,13 +1,73 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-19T23:54:47.035838+00:00",
+  "generatedAt": "2026-11-20T07:28:39.861066+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 6,
   "articles": [
+    {
+      "title": "Yankees offseason not resting for Brian Cashman’s annual Sleep Out",
+      "description": "",
+      "url": "https://nypost.com/2026/11/20/sports/yankees-offseason-not-resting-for-brian-cashmans-sleep-out/",
+      "published": "2026-11-20T06:32:14+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "How Newsom got caught up in crossfire over proposed Dodger Stadium gondola",
+      "description": "L.A. Councilmember Eunisses Hernandez is calling on Gov. Gavin Newsom to set an example and fight a proposed Dodger Stadium gondola project.",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-19/gavin-newsom-caught-in-dodger-stadium-gondola-crossfire",
+      "published": "2026-11-20T02:41:55.018000+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees a ‘small-market club’ while other teams feast in offseason twist",
+      "description": "",
+      "url": "https://nypost.com/2026/11/19/sports/yankees-quiet-as-other-teams-rush-free-agents-with-lockout-looming/",
+      "published": "2026-11-20T02:32:30+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Chicago White Sox trade Davis Martin and Luis Castillo to Colorado Rockies for pair of prospects",
+      "description": "The Chicago White Sox traded right-handers Davis Martin and Luis Castillo to the Colorado Rockies on Thursday for left-hander Sean Sullivan and minor-league catcher Douglas Veliz.",
+      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-trade-davis-martin-luis-castillo/",
+      "published": "2026-11-20T02:32:20+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Sonny Gray sheds light on Red Sox exit after return to Minnesota Twins",
+      "description": "Sonny Gray sheds light on talks with Red Sox: ‘It felt like it was never gaining any traction’",
+      "url": "https://www.bostonherald.com/2026/11/19/red-sox-sonny-gray-comments-minnesota-twins-free-agency-mlb/",
+      "published": "2026-11-20T00:27:01+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Chicago White Sox bank on Dustin May’s untapped upside — and recent durability — to bolster 2027 rotation",
       "description": "The Chicago White Sox came up short in trying to add Dustin May twice in the last year. They finally landed the right-handed starter Wednesday, signing him to a 3-year, $52.5 million deal.",
@@ -21,7 +81,7 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Trump posthumously pardons former Phillie Pete Rose",
+      "title": "Former Phillie Pete Rose gets a posthumous pardon from President Trump",
       "description": "Former Phillie Pete Rose was posthumously pardoned by President Trump after the career hits leader was reinstated by MLB.",
       "url": "https://www.inquirer.com/news/pete-rose-trump-baseball-phillies-pardon-20261119.html",
       "published": "2026-11-19T22:42:17+00:00",
@@ -54,90 +114,6 @@
       "teamName": "Los Angeles Dodgers",
       "teamAbbreviation": "LAD",
       "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Sonny Gray says Red Sox reunion 'never really came up' in free agency",
-      "description": "One day after signing with the Twins, Sonny Gray looked back at his year in Boston — and said a reunion never got close.",
-      "url": "https://www.masslive.com/redsox/2026/11/sonny-gray-says-red-sox-reunion-never-really-came-up-before-he-signed-with-twins.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Fenway Insider Live: Sean McAdam on Connor Wong, Triston Casas and more",
-      "description": "MassLive’s Fenway Insider Sean McAdam hosted a live mailbag on Thursday, Nov. 19 to highlight the latest news from the Boston Red Sox.",
-      "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-live-sean-mcadam-on-connor-wong-triston-casas-and-more.html",
-      "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Dodgers have depth in the starting rotation, but bullpen is a work in progress",
-      "description": "Tarik Skubal's free agency looms, but the Dodgers have plenty of depth in the starting rotation as they figure out Shohei Ohtani's workload for next season.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-19/dodgers-depth-starting-rotation-bullpen-needs",
-      "published": "2026-11-19T15:59:45.148000+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox find new backup for Adley Rutschman in Rays catcher Nick Fortes",
-      "description": "Connor Wong is getting designated for assignment, rounding out the catcher changeup for Boston.",
-      "url": "https://www.bostonglobe.com/2026/11/18/sports/nick-fortes-red-sox-catcher/",
-      "published": "2026-11-19T15:19:37.965000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Rob Manfred ends owners’ meetings with ultimatum: MLB not compromising on salary cap",
-      "description": "The commissioner said the players' prior proposals on a new collective bargaining would “actually exacerbate our competitive problems.”",
-      "url": "https://www.bostonglobe.com/2026/11/18/sports/rob-manfred-mlb-lockout-salary-cap/",
-      "published": "2026-11-19T13:24:20.424000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Houston Astros hire Bobby Wilson as bench coach as Brad Ausmus' staff takes shape",
-      "description": "Bobby Wilson is the first addition to the staff of new Astros manager Brad Ausmus. The Astros had retained four members of the 2026 staff.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-astros-hire-bobby-wilson-bench-coach-22540122.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Pitcher Grant Taylor ‘super excited’ about opportunity to start for the Chicago White Sox",
-      "description": "The Chicago White Sox needed multiple innings from Grant Taylor out of the bullpen in Game 1 of the American League wild-card series against the Houston Astros. And the right-hander came through, ...",
-      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-grant-taylor-starter/",
-      "published": "2026-11-19T12:00:22+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
       "publishedSource": "publisher"
     }
   ]
