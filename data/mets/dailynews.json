@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "This time last year, the Mets were dealing with the fallout of the clubhouse strife...",
+      "published": "2026-11-19T22:25:20+00:00",
+      "title": "Mets to have improved clubhouse dynamics & leadership moving forward: ‘I don’t think that’s going to be an issue’",
+      "url": "https://www.nydailynews.com/2026/11/19/mets-clubhouse-leadership-lindor-soto/"
+    },
+    {
+      "category": "Mets",
       "description": "A true, frontline starting pitching presence has been missing since Jacob deGrom left after the...",
       "published": "2026-11-18T21:34:27+00:00",
       "title": "Abbey Mastracco: Mets should do whatever it takes to sign Tarik Skubal",
@@ -132,16 +139,9 @@
       "published": "2026-10-13T22:46:44+00:00",
       "title": "Mets’ Sean Manaea trying to shake off disappointment of 2026",
       "url": "https://www.nydailynews.com/2026/10/13/mets-sean-manaea-trying-to-shake-off-disappointment-of-2026/"
-    },
-    {
-      "category": "Mets",
-      "description": "The Mets enter a pivotal offseason in which tension among the fan base is high...",
-      "published": "2026-10-12T21:28:54+00:00",
-      "title": "These are the Mets’ biggest offseason questions",
-      "url": "https://www.nydailynews.com/2026/10/12/mets-offseason-questions-tarik-skubal-bo-bichette-kodai-senga/"
     }
   ],
-  "generated_at": "2026-11-19T02:10:46.383931+00:00",
+  "generated_at": "2026-11-20T01:12:20.433843+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

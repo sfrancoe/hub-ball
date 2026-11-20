@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "The Chicago White Sox came up short in trying to add Dustin May twice in the last year. They finally landed the right-handed starter Wednesday, signing him to a 3-year, $52.5 million deal.",
+      "published": "2026-11-19T15:07:00+00:00",
+      "title": "Chicago White Sox bank on Dustin May’s untapped upside — and recent durability — to bolster 2027 rotation",
+      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-dustin-may-upside/"
+    },
+    {
+      "category": "White Sox",
       "description": "Dustin May, 29, went a combined 7-9 with a 4.70 ERA in 31 starts for the St. Louis Cardinals and Milwaukee Brewers in 2026, plus four postseason appearances.",
       "published": "2026-11-17T13:35:00+00:00",
       "title": "Chicago White Sox sign right-hander Dustin May to a 3-year, $52.5 million deal",
@@ -23,6 +30,13 @@
     },
     {
       "category": "White Sox",
+      "description": "The Chicago White Sox needed multiple innings from Grant Taylor out of the bullpen in Game 1 of the American League wild-card series against the Houston Astros. And the right-hander came through, ...",
+      "published": "2026-11-19T04:00:00+00:00",
+      "title": "Pitcher Grant Taylor ‘super excited’ about opportunity to start for the Chicago White Sox",
+      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-grant-taylor-starter/"
+    },
+    {
+      "category": "White Sox",
       "description": "The Chicago White Sox are sizing up the pitching market, evaluating some early offseason moves and keeping the momentum going after the success in 2026.",
       "published": "2026-11-11T15:08:00+00:00",
       "title": "3 takeaways for the Chicago White Sox at the GM meetings, including the push for starting pitching",
@@ -34,23 +48,9 @@
       "published": "2026-11-10T15:50:00+00:00",
       "title": "Chicago White Sox are moving Grant Taylor into the rotation, saying, ‘The time is now’",
       "url": "https://www.chicagotribune.com/2026/11/10/chicago-white-sox-gm-meetings-grant-taylor/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Will Venable guided the Chicago White Sox to an 84-78 record — the most wins by a team coming off three straight 100-loss seasons — and their first playoff berth since 2021.",
-      "published": "2026-11-10T18:57:00+00:00",
-      "title": "Will Venable named AL Manager of the Year after leading Chicago White Sox from 102 losses to the playoffs",
-      "url": "https://www.chicagotribune.com/2026/11/10/will-venable-chicago-white-sox-manager-of-year/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Sam Abbott was drafted by the Chicago White Sox in 2017. After years in the minors, he’s now a 27-year-old defender for the Long Beach State men’s water polo team.",
-      "published": "2026-11-09T13:36:00+00:00",
-      "title": "Former Chicago White Sox prospect Sam Abbott switches to college water polo with Long Beach State",
-      "url": "https://www.chicagotribune.com/2026/11/09/chicago-white-sox-sam-abbott-water-polo/"
     }
   ],
-  "generated_at": "2026-11-19T19:04:35.676574+00:00",
+  "generated_at": "2026-11-20T01:12:28.977225+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

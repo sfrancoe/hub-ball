@@ -2,9 +2,16 @@
   "articles": [
     {
       "category": "Royals",
+      "description": "The Kansas City Royals ( Shop Royals Fan Gear) re-signed right-handed pitcher Randy Dobnak on Thursday afternoon, avoiding arbitration with a one-year contract.",
+      "published": "2026-11-19T08:20:00+00:00",
+      "title": "Royals retain right-hander Randy Dobnak on 1-year contract, avoiding arbitration",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article318164434.html"
+    },
+    {
+      "category": "Royals",
       "description": "Chiefs quarterback Patrick Mahomes, who is part of the Royals ownership group, was heartbroken by the Maikel Garcia trade.",
-      "published": "2026-11-19T02:57:00+00:00",
-      "title": "Patrick Mahomes on Royals trade: Maikel Garcia was ‘a heart to the team’",
+      "published": "2026-11-19T03:28:00+00:00",
+      "title": "Patrick Mahomes on Royals’ trade: Maikel Garcia was ‘a heart to the team’",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article318157517.html"
     },
     {
@@ -13,13 +20,6 @@
       "published": "2026-11-18T08:19:00+00:00",
       "title": "Why the Royals chose to designate veteran outfielder Kyle Isbel for assignment",
       "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article318145088.html"
-    },
-    {
-      "category": "Royals",
-      "description": "The Royals will induct Zack Greinke and Eric Hosmer into the franchise Hall of Fame. Greinke won the 2009 AL Cy Young Award and ranks fourth in Royals strikeouts. Hosmer helped win the 2015 World ...",
-      "published": "2026-11-18T08:47:00+00:00",
-      "title": "Royals set to induct Zack Greinke, Eric Hosmer into franchise Hall of Fame",
-      "url": "https://www.kansascity.com/latest-news/article318145455.html"
     },
     {
       "category": "Royals",
@@ -44,6 +44,13 @@
     },
     {
       "category": "Royals",
+      "description": "The Royals will induct Zack Greinke and Eric Hosmer into the franchise Hall of Fame. Greinke won the 2009 AL Cy Young Award and ranks fourth in Royals strikeouts. Hosmer helped win the 2015 World ...",
+      "published": "2026-11-18T08:47:00+00:00",
+      "title": "Royals set to induct Zack Greinke, Eric Hosmer into franchise Hall of Fame",
+      "url": "https://www.kansascity.com/latest-news/article318145455.html"
+    },
+    {
+      "category": "Royals",
       "description": "In a new commercial for Mr. Fancy, Moustakas obliterated a bottle of pricey champagne. Mr. Fancy is a carbonated wine in a can drink that is being rolled out in Massachusetts, Tennessee and Texas, but ...",
       "published": "2026-11-17T01:58:00+00:00",
       "title": "Ex-Royals great Mike Moustakas obliterates $25K bottle of champagne in commercial",
@@ -58,10 +65,10 @@
     },
     {
       "category": "Royals",
-      "description": "In an effort to boost that number next year, the Royals are offering their “Ballpark Pass” for $299, and it comes with a seat to every game at Kauffman Stadium ... as long as there is one available.",
-      "published": "2026-11-16T04:31:00+00:00",
-      "title": "The Royals are offering season tickets for 2027 season for $300 (with a caveat)",
-      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article318102482.html"
+      "description": "Garcia departed alongside right-hander James McArthur and minor-league prospect LP Langevin in exchange for three major-league pitchers. The Royals acquired right-handed starter Bryce Miller, lefty ...",
+      "published": "2026-11-19T06:16:00+00:00",
+      "title": "‘Working at frenetic pace’: What’s next for Royals after the Maikel Garcia trade",
+      "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article318161276.html"
     },
     {
       "category": "Royals",
@@ -69,16 +76,9 @@
       "published": "2026-11-13T07:42:00+00:00",
       "title": "For new stadium, Royals partner with company on seating, naming rights, food & more",
       "url": "https://www.kansascity.com/news/local/article318066314.html"
-    },
-    {
-      "category": "Royals",
-      "description": "He is on a generational run, disappointing 2026 season be damned, which is actually kind of underselling it. Witt has compiled a 25.5 fWAR over the past three seasons, the best three-year stretch in ...",
-      "published": "2026-11-12T23:30:00+00:00",
-      "title": "The Royals have an MVP-caliber player again. The organization needs to follow",
-      "url": "https://www.kansascity.com/sports/spt-columns-blogs/sam-mcdowell/article318049907.html"
     }
   ],
-  "generated_at": "2026-11-19T19:04:37.534764+00:00",
+  "generated_at": "2026-11-20T01:12:30.484803+00:00",
   "source": "Kansas City Star",
   "source_url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/"
 }

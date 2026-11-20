@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Padres",
+      "description": "Addition to sports portfolio coming at a time when new Padres owners Jose E. Feliciano and Kwanza Jones appear to pursuing free agents at the top of the market ...",
+      "published": "2026-11-19T13:27:00+00:00",
+      "title": "Report: Padres owners nearing deal to purchase WNBA team from Dodgers owner",
+      "url": "https://www.sandiegouniontribune.com/2026/11/19/report-padres-owners-nearing-deal-to-purchase-wnba-team-from-dodgers-owner/"
+    },
+    {
+      "category": "Padres",
       "description": "Of the prospects on Baseball America’s updated top-10, only Salas has reached the majors, let alone taste Triple-A El Paso. Tucker Musgrove (no relation to Joe) threw 15⅓ innings in Double-A San ...",
       "published": "2026-11-18T14:00:00+00:00",
       "title": "Ethan Salas, 2025-2026 draft classes carrying Padres’ top-10 at Baseball America",
@@ -48,16 +55,9 @@
       "published": "2026-11-10T20:04:00+00:00",
       "title": "Padres appear intent on addressing glaring rotation needs",
       "url": "https://www.sandiegouniontribune.com/2026/11/10/padres-appear-intent-on-addressing-glaring-rotation-needs/"
-    },
-    {
-      "category": "Padres",
-      "description": "El pionero de la radiodifusión binacional, Gustavo López Moreno, figura entre los 10 finalistas para el premio Ford C. Frick de 2027, galardón que el Salón de la Fama y Museo Nacional del Béisbol ...",
-      "published": "2026-11-10T10:17:00+00:00",
-      "title": "Gustavo López Moreno, la primera voz en español de los Padres, candidato al Premio Frick 2027",
-      "url": "https://www.sandiegouniontribune.com/2026/11/10/gustavo-lopez-moreno-la-primera-voz-en-espanol-de-los-padres-candidato-al-premio-frick-2027/"
     }
   ],
-  "generated_at": "2026-11-19T02:11:03.642592+00:00",
+  "generated_at": "2026-11-20T01:12:40.237366+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }

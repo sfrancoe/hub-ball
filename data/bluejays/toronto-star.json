@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Blue Jays",
+      "description": "TORONTO - The Toronto Blue Jays claimed infielder Christian Cairo off waivers from the Los Angeles Dodgers on Thursday.",
+      "published": "2026-11-19T13:17:00+00:00",
+      "title": "Blue Jays claim infielder Cairo off waivers, designate pitcher Lee for assignment",
+      "url": "https://www.thestar.com/sports/blue-jays/blue-jays-claim-infielder-cairo-off-waivers-designate-pitcher-lee-for-assignment/article_0a863c55-4c7c-58dc-b13a-f6057cef440e.html"
+    },
+    {
+      "category": "Blue Jays",
       "description": "TORONTO - The decision to refrain from disciplining a professional athlete for sharing inflammatory posts on social media can be a gamble for both the team and the club's owner, ...",
       "published": "2026-11-18T11:53:00+00:00",
       "title": "No word from Blue Jays or ownership on potential discipline after Santander posts",
@@ -16,17 +23,17 @@
     },
     {
       "category": "Blue Jays",
-      "description": "TORONTO - The Toronto Blue Jays have asked Anthony Santander to publicly address the controversy sparked by his decision to share anti-Muslim posts on social media. So far, the veteran ...",
-      "published": "2026-11-11T12:20:00+00:00",
-      "title": "Jays’ Santander stays quiet after team asks him to publicly address controversy",
-      "url": "https://www.thestar.com/sports/blue-jays/jays-santander-stays-quiet-after-team-asks-him-to-publicly-address-controversy/article_fadcc79f-5583-518e-baa6-763fa55d406d.html"
-    },
-    {
-      "category": "Blue Jays",
       "description": "Toronto Blue Jays outfielder Anthony Santander apologized Friday for sharing anti-Muslim social media posts, saying the content caused hurt and fell short of his own convictions.",
       "published": "2026-11-13T13:47:00+00:00",
       "title": "Blue Jays’ Anthony Santander apologizes for sharing anti-Muslim social media posts",
       "url": "https://www.thestar.com/sports/blue-jays/blue-jays-anthony-santander-apologizes-for-sharing-anti-muslim-social-media-posts/article_d388547f-fe7d-5aa9-842e-027e87ef06bf.html"
+    },
+    {
+      "category": "Blue Jays",
+      "description": "TORONTO - The Toronto Blue Jays have asked Anthony Santander to publicly address the controversy sparked by his decision to share anti-Muslim posts on social media. So far, the veteran ...",
+      "published": "2026-11-11T12:20:00+00:00",
+      "title": "Jays’ Santander stays quiet after team asks him to publicly address controversy",
+      "url": "https://www.thestar.com/sports/blue-jays/jays-santander-stays-quiet-after-team-asks-him-to-publicly-address-controversy/article_fadcc79f-5583-518e-baa6-763fa55d406d.html"
     },
     {
       "category": "Blue Jays",
@@ -64,7 +71,7 @@
       "url": "https://www.thestar.com/sports/blue-jays/muslim-group-calls-santander-posts-disconcerting-says-there-s-an-opportunity-at-hand/article_26f216d0-0da6-594b-85db-9406c1e0cacc.html"
     }
   ],
-  "generated_at": "2026-11-19T19:04:35.246383+00:00",
+  "generated_at": "2026-11-20T01:12:28.423287+00:00",
   "source": "Toronto Star",
   "source_url": "https://www.thestar.com/sports/blue-jays/"
 }
