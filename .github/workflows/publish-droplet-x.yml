@@ -1,0 +1,39 @@
+name: Publish Droplet X feeds
+on:
+  schedule:
+    - cron: '3,13,23,33,43,53 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: hub-ball-droplet-x-publisher
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          path: code
+          sparse-checkout: .github/x-feed-mirror
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          path: feeds
+          ref: lab-data/nba-x
+      - name: Validate and publish changed snapshots
+        env:
+          HUB_X_SNAPSHOT_URL: ${{ secrets.HUB_X_SNAPSHOT_URL }}
+        run: |
+          set -euo pipefail
+          python3 code/.github/x-feed-mirror/sync.py feeds
+          cd feeds
+          git add -u -- 'data/*/*/x-feed.json'
+          if ! git diff --cached --quiet; then
+            git -c user.name='Hub Ball feed publisher' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Publish Droplet X snapshots [skip netlify]'
+            git push origin HEAD:refs/heads/lab-data/nba-x
+          fi
