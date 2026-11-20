@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Celtics",
+        "description": "In Wednesday’s loss to the Nuggets in Denver, the Celtics coughed up a 17-point lead in large part because they gave up 22 second-chance points.",
+        "published": "2026-11-20T21:28:23.226Z",
+        "title": "Here’s what the Celtics must clean up in Sacramento to make sure their first skid of the season ends at two games",
+        "url": "https://www.bostonglobe.com/2026/11/20/sports/celtics-road-trip-sacramento-kings/"
+      },
+      {
+        "category": "Celtics",
         "description": "In his last two games, the 19-year-old forward has entered the rotation and handled defending all-stars admirably.",
         "published": "2026-11-20T13:11:00.542Z",
         "title": "‘We’re trusting him more’: Chris Cenac Jr. is showing why the Celtics made him a first-round pick",
@@ -105,16 +112,9 @@
         "published": "2026-11-13T13:49:07.004Z",
         "title": "Why did things get so icy between Jayson Tatum and Jaylen Brown? I’ve covered their entire careers. Here’s my take.",
         "url": "https://www.bostonglobe.com/2026/11/12/sports/celtics-jayson-tatum-jaylen-brown-nba-basketball/"
-      },
-      {
-        "category": "Sports Museum's Tradition",
-        "description": "Former Patriots linebacker Andre Tippett, former Northeastern and UConn men’s basketball coach Jim Calhoun, and former Celtics guard Dana Barros were also recognized.",
-        "published": "2026-11-20T20:22:09.649Z",
-        "title": "US Olympic gold-medal hockey teams, a World Series hero, and more honored at Sports Museum’s Tradition gala",
-        "url": "https://www.bostonglobe.com/2026/11/20/sports/sports-museum-tradition/"
       }
     ],
-    "generated_at": "2026-11-20T20:33:28.168777+00:00",
+    "generated_at": "2026-11-20T21:43:56.322523+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
