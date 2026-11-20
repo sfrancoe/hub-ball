@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Tarik Skubal, Ty France and Clay Holmes are among the players who could help the Mets get back to their winning ways.",
+      "published": "2026-11-20T11:01:55+00:00",
+      "title": "Signing Tarik Skubal and other moves that would get the Mets back into contention",
+      "url": "https://www.nytimes.com/athletic/7794003/2026/11/20/mets-mlb-free-agency-2027-blueprint/"
+    },
+    {
+      "category": "Mets",
       "description": "Hernández posted a 2.46 ERA over 131 2/3 innings during four seasons pitching in Japan.",
       "published": "2026-11-20T03:21:42+00:00",
       "title": "Mets sign former Red Sox reliever Darwinzon Hernández to 3-year, $12 million deal: Source",
@@ -132,16 +139,9 @@
       "published": "2026-10-28T21:43:13+00:00",
       "title": "Cubs to retain John Mallee, a key hitting coach for PCA, after Mets’ interest: Sources",
       "url": "https://www.nytimes.com/athletic/7733565/2026/10/28/cubs-retain-john-mallee-mets-interest/"
-    },
-    {
-      "category": "Mets",
-      "description": "Lindor grew up appreciating Roberto Clemente, a baseball legend from his home island of Puerto Rico.",
-      "published": "2026-10-26T13:25:43+00:00",
-      "title": "Mets' Francisco Lindor wins Roberto Clemente Award as MLB's top humanitarian",
-      "url": "https://www.nytimes.com/athletic/7724004/2026/10/26/mets-francisco-lindor-roberto-clemente-award-2026/"
     }
   ],
-  "generated_at": "2026-11-20T08:35:45.957794+00:00",
+  "generated_at": "2026-11-20T17:13:56.553446+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

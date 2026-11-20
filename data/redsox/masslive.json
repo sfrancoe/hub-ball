@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
+      "published": "2026-11-20T10:00:00+00:00",
+      "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
+      "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Red Sox lack prospect capital for a shortstop upgrade after trading for Rutschman, and Connor Wong's release closes the book on the ill-fated Mookie Betts trade.",
+      "published": "2026-11-20T10:00:00+00:00",
+      "title": "Red Sox wanted a shortstop last summer but couldn't pull the trigger this winter — here's the prospect math behind the decision",
+      "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-on-staying-out-of-the-shortstop-market-and-finally-putting-the-mookie-betts-deal-to-bed.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "One day after signing with the Twins, Sonny Gray looked back at his year in Boston — and said a reunion never got close.",
       "published": "2026-11-19T18:19:15+00:00",
       "title": "Sonny Gray says Red Sox reunion 'never really came up' in free agency",
@@ -97,23 +111,9 @@
       "published": "2026-11-17T18:22:43+00:00",
       "title": "Red Sox make trade, clear roster spot ahead of Jake Bauers press conference",
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-make-minor-trade-clear-roster-spot-with-jake-bauers-signing-official.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "What will the Red Sox do next after signing Jake Bauers? Here's what we're hearing.",
-      "published": "2026-11-17T16:18:10+00:00",
-      "title": "What we’re hearing on Red Sox plans, Jarren Duran’s trade market, relief search & more",
-      "url": "https://www.masslive.com/redsox/2026/11/what-were-hearing-on-red-sox-plans-jarren-durans-trade-market-relief-search-more.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Dustin Pedroia, Jon Lester, Andrew Miller, and Pablo Sandoval are among 27 players on the latest Hall of Fame ballot, with voting due Dec. 31.",
-      "published": "2026-11-16T18:39:54+00:00",
-      "title": "From World Series rings to Cooperstown dreams: Four players with Red Sox ties make Hall of Fame ballot",
-      "url": "https://www.masslive.com/redsox/2026/11/four-players-with-red-sox-ties-included-on-latest-hall-of-fame-ballot.html"
     }
   ],
-  "generated_at": "2026-11-19T19:04:22.661651+00:00",
+  "generated_at": "2026-11-20T17:13:42.673470+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

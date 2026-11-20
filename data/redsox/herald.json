@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox have a huge class of arbitration-eligible players this winter, and Friday they’ll have to decide if there are any who might not be worth keeping around.",
+      "published": "2026-11-20T10:30:43Z",
+      "title": "Red Sox face big decisions ahead of Friday’s non-tender deadline",
+      "url": "https://www.bostonherald.com/2026/11/20/red-sox-face-big-decisions-ahead-of-fridays-non-tender-deadline/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Sonny Gray sheds light on talks with Red Sox: ‘It felt like it was never gaining any traction’",
       "published": "2026-11-20T00:27:01Z",
       "title": "Sonny Gray sheds light on Red Sox exit after return to Minnesota Twins",
@@ -104,16 +111,9 @@
       "published": "2026-11-12T17:46:50Z",
       "title": "Craig Breslow says oft-injured Red Sox first baseman will play winter ball",
       "url": "https://www.bostonherald.com/2026/11/12/craig-breslow-says-oft-injured-red-sox-first-baseman-will-play-winter-ball/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Craig Breslow has been known as the Red Sox’s chief baseball officer since he was hired to run the club after the 2023 season, but going forward he will hold a new title.",
-      "published": "2026-11-12T10:30:27Z",
-      "title": "Red Sox boss Craig Breslow confirms he has been given new title",
-      "url": "https://www.bostonherald.com/2026/11/12/red-sox-boss-craig-breslow-confirms-he-has-been-given-new-title/"
     }
   ],
-  "generated_at": "2026-11-20T01:12:13.101787+00:00",
+  "generated_at": "2026-11-20T17:13:41.376664+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Jonathan Loáisiga began his big league career in pinstripes, pitching for the Yankees from 2018-2025.",
+      "published": "2026-11-20T15:49:10+00:00",
+      "title": "Yankees reuniting with Jonathan Loáisiga on multi-year deal: source",
+      "url": "https://www.nydailynews.com/2026/11/20/yankees-reuniting-jonathan-loaisiga-multi-year-deal/"
+    },
+    {
+      "category": "Yankees",
+      "description": "The Yankees have a lot of work to do before the expected lockout.",
+      "published": "2026-11-20T16:18:05+00:00",
+      "title": "Brian Cashman: Yankees ‘drinking out of a fire hose’ as freeze on deals looms",
+      "url": "https://www.nydailynews.com/2026/11/20/brian-cashman-yankees-drinking-out-of-a-firehouse-as-freeze-on-deals-looms/"
+    },
+    {
+      "category": "Yankees",
       "description": "Lagrange, considered the Yankees’ third-best prospect by MLB.com, has a chance to impact the Bombers...",
       "published": "2026-11-18T00:10:38+00:00",
       "title": "Yankees protect Carlos Lagrange, 2 others with 40-man roster additions",
@@ -125,23 +139,9 @@
       "published": "2026-11-09T16:22:53+00:00",
       "title": "Uncertainty awaits Yankees, MLB as GM Meetings get underway",
       "url": "https://www.nydailynews.com/2026/11/09/uncertainty-awaits-yankees-mlb-as-gm-meetings-get-underway/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The accolades for Cody Bellinger’s defense keep coming.",
-      "published": "2026-11-07T19:54:13+00:00",
-      "title": "Cody Bellinger becomes Yankees’ second Platinum Glove winner",
-      "url": "https://www.nydailynews.com/2026/11/07/cody-bellinger-becomes-yankees-second-platinum-glove-winner/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Tanner Swanson, the Yankees' valued catching coordinator since November 2019, is heading home.",
-      "published": "2026-11-07T15:39:59+00:00",
-      "title": "Mariners poaching key Yankees coach Tanner Swanson for bench job: source",
-      "url": "https://www.nydailynews.com/2026/11/06/mariners-poaching-key-yankees-coach-tanner-swanson-for-bench-coach-job/"
     }
   ],
-  "generated_at": "2026-11-18T03:57:19.389352+00:00",
+  "generated_at": "2026-11-20T17:13:43.078316+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
