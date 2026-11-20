@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Milwaukee Brewers outfielder Garrett Mitchell has a special connection to Wisconsin's type 1 diabetes community.",
+      "published": "2026-11-20T10:46:00+00:00",
+      "title": "What Brewers' Garrett Mitchell means to type 1 diabetes community",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-garrett-mitchell-type-1-diabetes-community/92726976007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Brewers fans set a new MLB record for in-venue World Series merchandise sales, overcoming the 2022 Houston Astros by 9%, according to MLB.",
       "published": "2026-11-20T03:04:00+00:00",
       "title": "Brewers fans smash MLB merchandise sales record in World Series run",
@@ -44,13 +51,6 @@
     },
     {
       "category": "Brewers",
-      "description": "Joakim Soria and Francisco Rodríguez, two former Milwaukee Brewers relievers, are both on the 2027 Hall of Fame ballot.",
-      "published": "2026-11-16T07:03:00+00:00",
-      "title": "There's a new former Brewers player on Hall of Fame ballot",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/former-brewers-soria-rodrguez-on-baseball-hall-of-fame-ballot/92815263007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Ken \"Bulldog\" Sanders, a standout on the first three Milwaukee Brewers teams who stayed in the area after his playing days, died at 85.",
       "published": "2026-11-16T20:03:00+00:00",
       "title": "Brewers' first great relief pitcher, Ken Sanders, dies at 85",
@@ -58,10 +58,10 @@
     },
     {
       "category": "Brewers",
-      "description": "The Milwaukee Brewers added a relief pitcher from the San Francisco Giants on Nov. 15; here's what to know about Ryan Walker.",
-      "published": "2026-11-16T08:52:00+00:00",
-      "title": "What to know about new Milwaukee Brewers pitcher Ryan Walker",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/brewers-ryan-walker-what-to-know-about-him/92808200007/"
+      "description": "Joakim Soria and Francisco Rodríguez, two former Milwaukee Brewers relievers, are both on the 2027 Hall of Fame ballot.",
+      "published": "2026-11-16T07:03:00+00:00",
+      "title": "There's a new former Brewers player on Hall of Fame ballot",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/former-brewers-soria-rodrguez-on-baseball-hall-of-fame-ballot/92815263007/"
     },
     {
       "category": "Brewers",
@@ -72,20 +72,20 @@
     },
     {
       "category": "Brewers",
+      "description": "The Milwaukee Brewers added a relief pitcher from the San Francisco Giants on Nov. 15; here's what to know about Ryan Walker.",
+      "published": "2026-11-16T08:52:00+00:00",
+      "title": "What to know about new Milwaukee Brewers pitcher Ryan Walker",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/brewers-ryan-walker-what-to-know-about-him/92808200007/"
+    },
+    {
+      "category": "Brewers",
       "description": "May and the White Sox are in agreement on a three-year, $52.5 million deal, bringing the fireballing right-handed pitcher into a Chicago pitching staff that desperately needs more length and shutdown ...",
       "published": "2026-11-17T09:16:00+00:00",
       "title": "Dustin May agrees to $52 million deal with White Sox as Brewers get raided again",
       "url": "https://www.jsonline.com/story/sports/mlb/2026/11/17/dustin-may-contract-white-sox/92826140007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The right choice for Bauers, in the end, was the guaranteed money. He will return to collect his ring with the Red Sox Sept. 14 at American Family Field, and that will not be the last time he comes ...",
-      "published": "2026-11-13T10:21:00+00:00",
-      "title": "NLCS MVP Jake Bauers won't be returning to the Brewers in 2027",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/13/nlcs-mvp-jake-bauers-wont-be-returning-to-the-brewers-in-2027/92761312007/"
     }
   ],
-  "generated_at": "2026-11-20T17:14:05.820430+00:00",
+  "generated_at": "2026-11-20T23:06:18.999542+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

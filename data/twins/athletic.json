@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Twins",
+      "description": "Prior to his drop-off, Ober, a 12th-round pick in the 2016 draft who relies on elite extension to deceive hitters, was a model of consistency for the Twins, posting a 3.76 ERA over 88 starts from 2021 ...",
+      "published": "2026-11-20T09:45:00+00:00",
+      "title": "With Sonny Gray on board, Twins decline to bring back mainstay Bailey Ober: Source",
+      "url": "https://www.nytimes.com/athletic/7798390/2026/11/20/twins-non-tender-bailey-ober/"
+    },
+    {
+      "category": "Twins",
       "description": "Sonny Gray believes the Minnesota Twins want to win now and that he’s not the final piece of the team’s offseason puzzle. After finalizing a two-year, $55 million deal that includes an opt-out after ...",
       "published": "2026-11-19T13:43:00+00:00",
       "title": "Why Sonny Gray believes Twins can win now: ‘Near future is very bright in Minnesota’",
@@ -16,17 +23,17 @@
     },
     {
       "category": "Twins",
-      "description": "With practically every team targeting relief pitching this offseason, should the Twins opt for a starting arm despite their deep rotation?",
-      "published": "2026-11-14T04:00:00+00:00",
-      "title": "Even with ‘top-end talent’ in hand, Twins could target starting rotation in free agency",
-      "url": "https://www.nytimes.com/athletic/7780631/2026/11/14/twins-starting-pitchers-bullpen-offseason-free-agency/"
-    },
-    {
-      "category": "Twins",
       "description": "Jeffers returns to the Twins on a one-year deal instead of pursuing a longer-term contract in free agency as was expected.",
       "published": "2026-11-17T13:21:00+00:00",
       "title": "Ryan Jeffers re-signs with Twins after ownership’s promises to improve",
       "url": "https://www.nytimes.com/athletic/7790204/2026/11/17/ryan-jeffers-accepts-twins-qualifying-offer/"
+    },
+    {
+      "category": "Twins",
+      "description": "The Twins are looking to add to the bullpen alongside reliever Jeff Hoffman, acquired in a trade with the Blue Jays in August. But will they opt for a traditional reliever or convert a starter? Nicole ...",
+      "published": "2026-11-14T04:00:00+00:00",
+      "title": "Even with ‘top-end talent’ in hand, Twins could target starting rotation in free agency",
+      "url": "https://www.nytimes.com/athletic/7780631/2026/11/14/twins-starting-pitchers-bullpen-offseason-free-agency/"
     },
     {
       "category": "Twins",
@@ -43,7 +50,7 @@
       "url": "https://www.nytimes.com/athletic/7772334/2026/11/11/twins-free-agent-catcher-ryan-jeffers-reunite/"
     }
   ],
-  "generated_at": "2026-11-20T17:14:01.130132+00:00",
+  "generated_at": "2026-11-20T23:06:14.948320+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/twins/"
 }

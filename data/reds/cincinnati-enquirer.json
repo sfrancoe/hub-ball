@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Reds",
+      "description": "President Donald Trump posted on social media he'd pardoned Reds Hall of Famer Pete Rose, but it has no bearing on Baseball Hall of Fame voting.",
+      "published": "2026-11-20T09:52:00+00:00",
+      "title": "What Trump pardon means for Pete Rose's Hall of Fame case",
+      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/20/pete-rose-hall-of-fame-after-president-trump-pardon/92878162007/"
+    },
+    {
+      "category": "Reds",
       "description": "Cincinnati Reds star shortstop Elly De La Cruz earned his career Silver Slugger award following a breakout year, just ahead of first-time arbitration.",
       "published": "2026-11-17T15:27:00+00:00",
       "title": "Reds SS Elly De La Cruz boosts value with first Silver Slugger award",
@@ -27,16 +34,9 @@
       "published": "2026-11-20T06:59:00+00:00",
       "title": "MLB's looming lockout could change the Reds' future | Opinion",
       "url": "https://www.cincinnati.com/story/opinion/contributors/2026/11/20/mlb-faces-a-lockout-the-reds-have-plenty-at-stake/92861490007/"
-    },
-    {
-      "category": "Reds",
-      "description": "President Donald Trump posted on social media that he issued \"a Complete and Total Pardon\" of Pete Rose and seemed to imply a Hall of Fame connection.",
-      "published": "2026-11-19T17:30:00+00:00",
-      "title": "Here's the point Trump misses with Pete Rose 'pardon'",
-      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/19/how-trump-misses-point-tying-pete-rose-pardon-to-hall-omission/92869817007/"
     }
   ],
-  "generated_at": "2026-11-20T17:14:05.421292+00:00",
+  "generated_at": "2026-11-20T23:06:18.628204+00:00",
   "source": "Enquirer",
   "source_url": "https://www.cincinnati.com/sports/reds/"
 }

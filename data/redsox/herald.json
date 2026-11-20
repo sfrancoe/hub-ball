@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The Red Sox reached one-year agreements to avoid arbitration with four players hours before Friday’s non-tender deadline.",
+      "published": "2026-11-20T19:00:41Z",
+      "title": "Red Sox agree to one-year deals with four players, avoiding arbitration",
+      "url": "https://www.bostonherald.com/2026/11/20/red-sox-agree-to-one-year-deals-with-four-players-avoiding-arbitration/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The Red Sox have a huge class of arbitration-eligible players this winter, and Friday they’ll have to decide if there are any who might not be worth keeping around.",
       "published": "2026-11-20T10:30:43Z",
       "title": "Red Sox face big decisions ahead of Friday’s non-tender deadline",
@@ -104,16 +111,9 @@
       "published": "2026-11-12T18:27:47Z",
       "title": "Craig Breslow says Red Sox will undertake review of medical department",
       "url": "https://www.bostonherald.com/2026/11/12/craig-breslow-says-red-sox-will-undertake-review-of-medical-department/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "It’s been nearly two years since Triston Casas last played in a competitive game, but the oft-injured Red Sox first baseman will soon return to action in winter ball.",
-      "published": "2026-11-12T17:46:50Z",
-      "title": "Craig Breslow says oft-injured Red Sox first baseman will play winter ball",
-      "url": "https://www.bostonherald.com/2026/11/12/craig-breslow-says-oft-injured-red-sox-first-baseman-will-play-winter-ball/"
     }
   ],
-  "generated_at": "2026-11-20T17:13:41.376664+00:00",
+  "generated_at": "2026-11-20T23:05:59.039870+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

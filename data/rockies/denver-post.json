@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rockies",
+      "description": "Colorado Rockies All-Star catcher Hunter Goodman underwent offseason surgery to clean up his left shoulder as his name surfaces in trade rumors. He’s expected to be ready for the spring. The power ...",
+      "published": "2026-11-20T07:18:00+00:00",
+      "title": "Rockies All-Star catcher Hunter Goodman underwent left shoulder surgery, expected back for spring",
+      "url": "https://www.denverpost.com/2026/11/20/rockies-hunter-goodman-shoulder-surgery-trade-rumors/"
+    },
+    {
+      "category": "Rockies",
       "description": "Colorado acquired a pair of starting pitchers from the White Sox on Thursday, bringing right-handers Luis Castillo and Davis Martin to LoDo in exchange for a pair of prospects. The Rockies are taking ...",
       "published": "2026-11-19T12:01:00+00:00",
       "title": "Rockies acquire starting pitchers Luis Castillo, Davis Martin from White Sox in exchange for two prospects",
@@ -27,16 +34,9 @@
       "published": "2026-11-14T20:01:00+00:00",
       "title": "Western Slope food bank, healthcare providers expand Food for Health program",
       "url": "https://www.denverpost.com/2026/11/15/food-for-health-food-bank-rockies/"
-    },
-    {
-      "category": "Rockies",
-      "description": "Just reverse the weather between the spring home and the permanent home of the Colorado Rockies to try to get an idea of what manager Buddy Bell and his coaches are doing to try to keep the Rockies' ...",
-      "published": "2019-05-11T03:50:00+00:00",
-      "title": "Two games a wash for Rockies",
-      "url": "https://extras.denverpost.com/rock/rox0307b.htm"
     }
   ],
-  "generated_at": "2026-11-20T17:14:07.835117+00:00",
+  "generated_at": "2026-11-20T23:06:20.468777+00:00",
   "source": "Denver Post",
   "source_url": "https://www.denverpost.com/sports/colorado-rockies/"
 }

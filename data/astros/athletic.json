@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Houston tendered contracts to all of its arbitration-eligible players except Trammell, who made a team-high 36 starts in left field.",
+      "published": "2026-11-20T14:45:00+00:00",
+      "title": "Astros non-tender Taylor Trammell, accentuating their need for outfield help",
+      "url": "https://www.nytimes.com/athletic/7799026/2026/11/20/astros-arbitration-taylor-trammell-non-tendered/"
+    },
+    {
+      "category": "Astros",
       "description": "Bobby Wilson helped Washington's catchers form an identity. Houston has a bat-first catcher in Yainer Diaz but could rely on a rookie.",
       "published": "2026-11-20T04:00:00+00:00",
       "title": "How will Astros’ catching-heavy coaching staff handle an unsettled backstop situation?",
@@ -69,9 +76,16 @@
       "published": "2026-11-01T03:51:00+00:00",
       "title": "Astros’ GM search raises questions — and gives Randy Flores little time to establish new era",
       "url": "https://www.nytimes.com/athletic/7742521/2026/11/01/astros-gm-search-randy-flores-lockout-matt-kleine/"
+    },
+    {
+      "category": "Astros",
+      "description": "New Houston Astros general manager Randy Flores, left, must navigate the dynamics of owner Jim Crane’s front office. Houston Astros / Getty Images HOUSTON — The topic of control is confounding in ...",
+      "published": "2026-11-02T13:05:00+00:00",
+      "title": "On his first day as Astros GM, Randy Flores was in full control. Can he maintain it?",
+      "url": "https://www.nytimes.com/athletic/7748604/2026/11/02/randy-flores-astros-jim-crane/"
     }
   ],
-  "generated_at": "2026-11-20T17:14:01.540513+00:00",
+  "generated_at": "2026-11-20T23:06:15.299730+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/astros/"
 }

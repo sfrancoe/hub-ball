@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "White Sox",
+      "description": "Lance Broadway, a major league pitcher who became an actor following his baseball career, has died. He was 43.",
+      "published": "2026-11-20T11:10:00+00:00",
+      "title": "Lance Broadway, a Chicago White Sox first-round pick in 2005, dies at 43",
+      "url": "https://www.chicagotribune.com/2026/11/20/lance-broadway-dies-chicago-white-sox/"
+    },
+    {
+      "category": "White Sox",
       "description": "The Chicago White Sox traded right-handers Davis Martin and Luis Castillo to the Colorado Rockies on Thursday for left-hander Sean Sullivan and minor-league catcher Douglas Veliz.",
       "published": "2026-11-19T18:32:00+00:00",
       "title": "Chicago White Sox trade pitchers Davis Martin and Luis Castillo to Colorado Rockies for pair of prospects",
@@ -16,10 +23,10 @@
     },
     {
       "category": "White Sox",
-      "description": "Dustin May, 29, went a combined 7-9 with a 4.70 ERA in 31 starts for the St. Louis Cardinals and Milwaukee Brewers in 2026, plus four postseason appearances.",
-      "published": "2026-11-17T13:35:00+00:00",
-      "title": "Chicago White Sox sign right-hander Dustin May to a 3-year, $52.5 million deal",
-      "url": "https://www.chicagotribune.com/2026/11/17/chicago-white-sox-dustin-may-deal/"
+      "description": "Grant Taylor is “super excited” as he moves from the bullpen to the rotation for the Chicago White Sox. “It’s been something I’ve been wanting to do for a while.” ...",
+      "published": "2026-11-19T04:00:00+00:00",
+      "title": "Pitcher Grant Taylor ‘super excited’ about opportunity to start for the Chicago White Sox",
+      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-grant-taylor-starter/"
     },
     {
       "category": "White Sox",
@@ -27,6 +34,13 @@
       "published": "2026-11-18T05:00:00+00:00",
       "title": "White Sox 2B Chase Meidroth and the Cubs’ Pete Crow-Armstrong and Alex Bregman win Silver Slugger Awards",
       "url": "https://www.chicagotribune.com/2026/11/18/chicago-white-sox-cubs-silver-slugger-awards/"
+    },
+    {
+      "category": "White Sox",
+      "description": "Dustin May, 29, went a combined 7-9 with a 4.70 ERA in 31 starts for the St. Louis Cardinals and Milwaukee Brewers in 2026, plus four postseason appearances.",
+      "published": "2026-11-17T13:35:00+00:00",
+      "title": "Chicago White Sox sign right-hander Dustin May to a 3-year, $52.5 million deal",
+      "url": "https://www.chicagotribune.com/2026/11/17/chicago-white-sox-dustin-may-deal/"
     },
     {
       "category": "White Sox",
@@ -44,27 +58,13 @@
     },
     {
       "category": "White Sox",
-      "description": "The Chicago White Sox needed multiple innings from Grant Taylor out of the bullpen in Game 1 of the American League wild-card series against the Houston Astros. And the right-hander came through, ...",
-      "published": "2026-11-19T04:00:00+00:00",
-      "title": "Pitcher Grant Taylor ‘super excited’ about opportunity to start for the Chicago White Sox",
-      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-grant-taylor-starter/"
-    },
-    {
-      "category": "White Sox",
       "description": "The Chicago White Sox need starting pitching. Grant Taylor is ready to do his part as he makes the move from the bullpen.",
       "published": "2026-11-10T15:50:00+00:00",
       "title": "Chicago White Sox are moving Grant Taylor into the rotation, saying, ‘The time is now’",
       "url": "https://www.chicagotribune.com/2026/11/10/chicago-white-sox-gm-meetings-grant-taylor/"
-    },
-    {
-      "category": "White Sox",
-      "description": "Will Venable guided the Chicago White Sox to an 84-78 record — the most wins by a team coming off three straight 100-loss seasons — and their first playoff berth since 2021.",
-      "published": "2026-11-10T18:57:00+00:00",
-      "title": "Will Venable named AL Manager of the Year after leading Chicago White Sox from 102 losses to the playoffs",
-      "url": "https://www.chicagotribune.com/2026/11/10/will-venable-chicago-white-sox-manager-of-year/"
     }
   ],
-  "generated_at": "2026-11-20T17:13:59.250311+00:00",
+  "generated_at": "2026-11-20T23:06:13.234831+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

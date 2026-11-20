@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Hours before the deadline to decide on which arbitration-eligible players they will tender a contract, the Red Sox announced one-year agreements with four bench players who entered the day on the bubble of a crowded 40-man roster.",
+      "published": "2026-11-20T19:06:27+00:00",
+      "title": "Red Sox lock up four bench players ahead of tender deadline",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-sign-four-bench-players-to-arbitration-deals-keeping-them-before-non-tender-deadline.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
       "published": "2026-11-20T10:00:00+00:00",
       "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
@@ -104,16 +111,9 @@
       "published": "2026-11-17T20:06:21+00:00",
       "title": "Red Sox trade pitcher Angel Bastardo to Royals ahead of Rule 5 deadline",
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-send-rhp-angel-bastardo-to-kansas-city-for-minor-league-inf.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "With the signing of Jake Bauers becoming official this afternoon, the Red Sox have swung a minor trade with the A's to clear a 40-man roster spot.",
-      "published": "2026-11-17T18:22:43+00:00",
-      "title": "Red Sox make trade, clear roster spot ahead of Jake Bauers press conference",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-make-minor-trade-clear-roster-spot-with-jake-bauers-signing-official.html"
     }
   ],
-  "generated_at": "2026-11-20T17:13:42.673470+00:00",
+  "generated_at": "2026-11-20T23:06:00.075977+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

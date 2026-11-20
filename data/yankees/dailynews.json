@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees were busy before Friday’s 5 p.m. non-tender deadline.",
+      "published": "2026-11-20T22:53:50+00:00",
+      "title": "Yankees non-tender Fernando Cruz and Luis Gil",
+      "url": "https://www.nydailynews.com/2026/11/20/yankees-non-tender-fernando-cruz-and-luis-gil/"
+    },
+    {
+      "category": "Yankees",
       "description": "Jonathan Loáisiga began his big league career in pinstripes, pitching for the Yankees from 2018-2025.",
-      "published": "2026-11-20T15:49:10+00:00",
+      "published": "2026-11-20T22:52:50+00:00",
       "title": "Yankees reuniting with Jonathan Loáisiga on multi-year deal: source",
       "url": "https://www.nydailynews.com/2026/11/20/yankees-reuniting-jonathan-loaisiga-multi-year-deal/"
     },
@@ -132,16 +139,9 @@
       "published": "2026-11-09T23:34:25+00:00",
       "title": "Yankees promoting catching coordinator Aaron Gershenfeld following Tanner Swanson’s departure: sources",
       "url": "https://www.nydailynews.com/2026/11/09/yankees-promoting-catching-coordinator-aaron-gershenfeld-following-tanner-swansons-departure-sources/"
-    },
-    {
-      "category": "Yankees",
-      "description": "It remains to be seen how aggressive the Yankees will be before MLB's CBA expires.",
-      "published": "2026-11-09T16:22:53+00:00",
-      "title": "Uncertainty awaits Yankees, MLB as GM Meetings get underway",
-      "url": "https://www.nydailynews.com/2026/11/09/uncertainty-awaits-yankees-mlb-as-gm-meetings-get-underway/"
     }
   ],
-  "generated_at": "2026-11-20T17:13:43.078316+00:00",
+  "generated_at": "2026-11-20T23:06:00.463661+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

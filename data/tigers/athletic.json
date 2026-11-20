@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Coming off a 20-start season, the Detroit Tigers and right-hander Troy Melton agreed to a six-year extension that will keep him in a Tigers uniform through at least 2032, a league source confirmed to ...",
+      "published": "2026-11-20T13:46:00+00:00",
+      "title": "Tigers, starter Troy Melton agree to 6-year extension: Source",
+      "url": "https://www.nytimes.com/athletic/7798944/2026/11/20/detroit-tigers-troy-melton-contract-extension/"
+    },
+    {
+      "category": "Tigers",
       "description": "“I told them I’m here to win,” he said. “Whichever way that they think is the best way to go about that, that’s great. I do believe that I can close games at a high level. I feel like I now understand ...",
       "published": "2026-11-19T03:00:00+00:00",
       "title": "Will Emilio Pagán become the Tigers’ new closer? ‘I told them I’m here to win’",
@@ -16,20 +23,13 @@
     },
     {
       "category": "Tigers",
-      "description": "The Tigers are seeking leverage relievers and will likely add at least one starter. But how will they address their offense?",
-      "published": "2026-11-10T17:56:00+00:00",
-      "title": "Scott Harris sets edict for Tigers offseason: ‘Pitching is going to be the focus’",
-      "url": "https://www.nytimes.com/athletic/7771913/2026/11/10/tigers-pitching-offseason-focus-scott-harris-gm-meetings/"
-    },
-    {
-      "category": "Tigers",
       "description": "Kevin McGonigle was one of three Detroit Tigers to be named a Silver Slugger this year. Michael Reaves / Getty Images Thirteen hitters, highlighted by two rookies, captured first-time Silver Slugger ...",
       "published": "2026-11-16T16:00:00+00:00",
       "title": "Silver Slugger Award winners include 3 Tigers, 13 first-time honorees",
       "url": "https://www.nytimes.com/athletic/7790215/2026/11/17/mlb-silver-slugger-award-results/"
     }
   ],
-  "generated_at": "2026-11-20T01:12:30.204135+00:00",
+  "generated_at": "2026-11-20T23:06:14.207553+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/tigers/"
 }

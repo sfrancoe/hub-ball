@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Padres",
+      "description": "Extension saves Padres money in 2027; Gavin Sheets will have player options for 2028 and 2029, as well as performance bonuses ...",
+      "published": "2026-11-20T05:25:00+00:00",
+      "title": "Padres, Gavin Sheets agree to three-year, $11 million extension",
+      "url": "https://www.sandiegouniontribune.com/2026/11/20/padres-gavin-sheets-agree-to-three-year-11-million-extension/"
+    },
+    {
+      "category": "Padres",
       "description": "Addition to sports portfolio coming at a time when new Padres owners Jose E. Feliciano and Kwanza Jones appear to pursuing free agents at the top of the market ...",
       "published": "2026-11-19T13:27:00+00:00",
       "title": "Report: Padres owners nearing deal to purchase WNBA team from Dodgers owner",
@@ -57,7 +64,7 @@
       "url": "https://www.sandiegouniontribune.com/2026/11/10/padres-appear-intent-on-addressing-glaring-rotation-needs/"
     }
   ],
-  "generated_at": "2026-11-20T08:35:59.086962+00:00",
+  "generated_at": "2026-11-20T23:06:21.192811+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }
