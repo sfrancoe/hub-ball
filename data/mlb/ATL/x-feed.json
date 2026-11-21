@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-20T07:05:00.379275+00:00",
+  "generated_at": "2026-11-21T04:05:02.173911+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Braves",
   "team_id": "15",
   "sport": "mlb",
-  "likes_as_of": "2026-11-20T07:05:00.379275+00:00",
+  "likes_as_of": "2026-11-21T04:05:02.173911+00:00",
   "recent": [
     {
-      "id": "2123145102084194807",
-      "text": "RT @TruistPark: Make your holidays extra special with a Truist Park Tour, December 26–31! 🎄 Explore the Braves Clubhouse, run the bases, a…",
-      "url": "https://x.com/Braves/status/2123145102084194807",
-      "published": "2026-11-18T20:03:33+00:00",
-      "likes": 0,
+      "id": "2123901548526702610",
+      "text": "The #Braves today declined to tender contracts for the 2027 season to RHP Michael Grove and RHP James Karinchak. Atlanta’s 40-man roster stands at 38 players.",
+      "url": "https://x.com/Braves/status/2123901548526702610",
+      "published": "2026-11-20T22:09:24+00:00",
+      "likes": 479,
       "author": "Atlanta Braves",
       "handle": "Braves",
       "avatar": "https://pbs.twimg.com/profile_images/2036843909838491648/sy11GuAA_normal.jpg",
@@ -22,5 +22,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2123901548526702610",
+      "text": "The #Braves today declined to tender contracts for the 2027 season to RHP Michael Grove and RHP James Karinchak. Atlanta’s 40-man roster stands at 38 players.",
+      "url": "https://x.com/Braves/status/2123901548526702610",
+      "published": "2026-11-20T22:09:24+00:00",
+      "likes": 479,
+      "author": "Atlanta Braves",
+      "handle": "Braves",
+      "avatar": "https://pbs.twimg.com/profile_images/2036843909838491648/sy11GuAA_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

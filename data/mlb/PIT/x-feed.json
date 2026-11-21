@@ -1,26 +1,41 @@
 {
-  "generated_at": "2026-11-20T16:07:15.743790+00:00",
+  "generated_at": "2026-11-21T04:05:02.173911+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Pirates",
   "team_id": "23",
   "sport": "mlb",
-  "likes_as_of": "2026-11-20T16:07:15.743790+00:00",
+  "likes_as_of": "2026-11-21T04:05:02.173911+00:00",
   "recent": [
     {
-      "id": "2123421163414032599",
-      "text": "13 years later...time flies. 🥹 https://t.co/n0WUTOrsVb",
-      "url": "https://x.com/Pirates/status/2123421163414032599",
-      "published": "2026-11-19T14:20:31+00:00",
-      "likes": 672,
+      "id": "2123840104896643174",
+      "text": "Pirates Picks: Best Rookie Moment. Which are you picking? https://t.co/TnvzR1VDb9",
+      "url": "https://x.com/Pirates/status/2123840104896643174",
+      "published": "2026-11-20T18:05:14+00:00",
+      "likes": 216,
       "author": "Pittsburgh Pirates",
       "handle": "Pirates",
       "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXfnbHxXwAAUvdX.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2123839915225985024/img/hBoxGoCUyOraXuyo.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2123840104896643174",
+      "text": "Pirates Picks: Best Rookie Moment. Which are you picking? https://t.co/TnvzR1VDb9",
+      "url": "https://x.com/Pirates/status/2123840104896643174",
+      "published": "2026-11-20T18:05:14+00:00",
+      "likes": 216,
+      "author": "Pittsburgh Pirates",
+      "handle": "Pirates",
+      "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2123839915225985024/img/hBoxGoCUyOraXuyo.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
