@@ -5,6 +5,11 @@ on:
     # The field can change on the season's final day; postseason totals change during October.
     - cron: '7,37 * * * *'
   workflow_dispatch:
+    inputs:
+      scheduled:
+        description: 'Behave like a scheduled run (skip outside the postseason window)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -23,9 +28,11 @@ jobs:
         with:
           python-version: '3.12'
       - name: Refresh roster-scoped postseason stats
+        env:
+          SCHEDULED_INPUT: ${{ inputs.scheduled }}
         run: |
           scheduled=()
-          if [[ "$GITHUB_EVENT_NAME" == "schedule" ]]; then scheduled+=(--scheduled); fi
+          if [[ "$GITHUB_EVENT_NAME" == "schedule" || "$SCHEDULED_INPUT" == "true" ]]; then scheduled+=(--scheduled); fi
           python3 scripts/fetch_playoff_history.py --season 2026 "${scheduled[@]}"
       - name: Verify postseason stat parsing
         run: python3 scripts/test_playoff_history.py

@@ -248,7 +248,9 @@ feeds live in `data/<team>/`; only the Four Roads/Game 108 story data
 (`data/seasons.json`, `data/meta.json`, built by `fetch_seasons.py`) sits at the root.
 `legacy_root_data` now only means installed builds request that team's feeds at root
 paths, which the gateway aliases. Direct publisher scraping is a per-source `adapter`
-in `config/mlb-teams.json`, not a new script. The Four Roads/Game 108 story intentionally remains Boston-only.
+in `config/mlb-teams.json`, not a new script. Refresh workflows are started on time by
+`netlify/functions/workflow-timer.mjs`; after editing a workflow's cron, regenerate its
+table with `python3 scripts/generate_workflow_schedules.py`. The Four Roads/Game 108 story intentionally remains Boston-only.
 Persistent feed snapshots belong in bounded Caches-directory files, not UserDefaults.
 Audio preparation may run early, but playback still requires the user's Play gesture.
 
