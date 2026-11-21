@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "celtics at kings | 10 p.m. (NBCSB)",
+        "description": "The Celtics are on a two-game losing streak as they arrive in Sacramento to face the 1-14 Kings.",
+        "published": "2026-11-21T13:52:03.21Z",
+        "title": "Celtics at Kings preview, Nov. 21: Lowly Sacramento can serve as palate cleanser",
+        "url": "https://www.bostonglobe.com/2026/11/21/sports/celtics-kings-preview-november-21/"
+      },
+      {
         "category": "Sunday basketball notes",
         "description": "Anti-tanking rules were supposed to make this a competitive season across the board. Did anyone tell the Nets or Kings?",
         "published": "2026-11-21T13:00:17.381Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-14T15:28:09.376Z",
         "title": "Former Celtics guard Malcolm Brogdon retired as a player but is still very much in the game with the NBPA",
         "url": "https://www.bostonglobe.com/2026/11/14/sports/sunday-basketball-notes-malcolm-brogdon-nbpa/"
-      },
-      {
-        "category": "On Basketball",
-        "description": "In his first dozens games with the Celtics, George has been the team's top 3-point shooter at 44 percent.",
-        "published": "2026-11-14T03:04:28.521Z",
-        "title": "Adding Paul George has been a huge plus for Jayson Tatum and the Celtics",
-        "url": "https://www.bostonglobe.com/2026/11/13/sports/paul-george-celtics-trade-76ers-nba-basketball/"
       }
     ],
-    "generated_at": "2026-11-21T13:09:10.147377+00:00",
+    "generated_at": "2026-11-21T13:59:27.121407+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
