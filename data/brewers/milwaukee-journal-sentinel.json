@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Brewers",
-      "description": "Andrew Vaughn was one of eight players tendered contracts by the Brewers on Friday, Nov. 20. The team also signed deals with five other players.",
-      "published": "2026-11-20T15:46:00+00:00",
-      "title": "Brewers tender Andrew Vaughn, seven others contracts for 2027 season",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-tender-andrew-vaughn-seven-others-contracts-for-2027-season/92562167007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Brewers fans set a new MLB record for in-venue World Series merchandise sales, overcoming the 2022 Houston Astros by 9%, according to MLB.",
       "published": "2026-11-20T03:04:00+00:00",
       "title": "Brewers fans smash MLB merchandise sales record in World Series run",
       "url": "https://www.jsonline.com/story/money/business/2026/11/20/milwaukee-brewers-fans-smash-sales-records-following-world-series-win/92859330007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Andrew Vaughn was one of eight players tendered contracts by the Brewers on Friday, Nov. 20. The team also signed deals with five other players.",
+      "published": "2026-11-20T15:46:00+00:00",
+      "title": "Brewers tender Andrew Vaughn, seven others contracts for 2027 season",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-tender-andrew-vaughn-seven-others-contracts-for-2027-season/92562167007/"
     },
     {
       "category": "Brewers",
@@ -44,17 +44,17 @@
     },
     {
       "category": "Brewers",
-      "description": "The Brewers added 6 prospects to their 40-man roster ahead of the deadline to protect players from the Rule 5 draft.",
-      "published": "2026-11-17T20:16:00+00:00",
-      "title": "Brewers add 6 prospects, including Jett Williams, to roster",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/17/brewers-add-jett-williams-luke-adams-and-two-more-prospects-to-roster/92817774007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Joakim Soria and Francisco Rodríguez, two former Milwaukee Brewers relievers, are both on the 2027 Hall of Fame ballot.",
       "published": "2026-11-16T07:03:00+00:00",
       "title": "There's a new former Brewers player on Hall of Fame ballot",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/former-brewers-soria-rodrguez-on-baseball-hall-of-fame-ballot/92815263007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "The Brewers added 6 prospects to their 40-man roster ahead of the deadline to protect players from the Rule 5 draft.",
+      "published": "2026-11-17T20:16:00+00:00",
+      "title": "Brewers add 6 prospects, including Jett Williams, to roster",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/17/brewers-add-jett-williams-luke-adams-and-two-more-prospects-to-roster/92817774007/"
     },
     {
       "category": "Brewers",
@@ -85,7 +85,7 @@
       "url": "https://www.jsonline.com/story/sports/2026/11/17/brewers-world-series-hangover-nah-its-my-meh-response-to-mediocrity/92815796007/"
     }
   ],
-  "generated_at": "2026-11-21T03:55:25.157746+00:00",
+  "generated_at": "2026-11-21T11:57:06.114694+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "White Sox",
-      "description": "The Chicago Cubs claimed catcher Joey Bart off waivers from the White Sox on Friday, one of several roster moves the team announced.",
-      "published": "2026-11-20T17:52:00+00:00",
-      "title": "Cubs claim veteran catcher Joey Bart off waivers from the White Sox",
-      "url": "https://www.chicagotribune.com/2026/11/20/chicago-cubs-joey-bart-white-sox/"
-    },
-    {
-      "category": "White Sox",
       "description": "Lance Broadway, a major league pitcher who became an actor following his baseball career, has died. He was 43.",
       "published": "2026-11-20T11:10:00+00:00",
       "title": "Lance Broadway, a Chicago White Sox first-round pick in 2005, dies at 43",
       "url": "https://www.chicagotribune.com/2026/11/20/lance-broadway-dies-chicago-white-sox/"
+    },
+    {
+      "category": "White Sox",
+      "description": "The Chicago Cubs claimed catcher Joey Bart off waivers from the White Sox on Friday, one of several roster moves the team announced.",
+      "published": "2026-11-20T17:52:00+00:00",
+      "title": "Cubs claim veteran catcher Joey Bart off waivers from the White Sox",
+      "url": "https://www.chicagotribune.com/2026/11/20/chicago-cubs-joey-bart-white-sox/"
     },
     {
       "category": "White Sox",
@@ -71,7 +71,7 @@
       "url": "https://www.chicagotribune.com/2026/11/10/chicago-white-sox-gm-meetings-grant-taylor/"
     }
   ],
-  "generated_at": "2026-11-21T03:55:18.167091+00:00",
+  "generated_at": "2026-11-21T11:56:59.517702+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }
