@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics could be shorthanded as they try to snap their two-game losing streak out West.",
+        "published": "2026-11-21T02:03:30+00:00",
+        "title": "Celtics injury report: Jayson Tatum listed for Kings game Saturday",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-injury-report-jayson-tatum-listed-for-kings-game-saturday.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Devin Carter is back playing after a bout with an illness, and he even made his Celtics debut recently.",
         "published": "2026-11-20T18:00:25+00:00",
         "title": "Celtics guard lost 10 pounds while sick, but returns to make Boston debut",
@@ -105,16 +112,9 @@
         "published": "2026-11-17T02:34:00+00:00",
         "title": "Paul George is Celtics ‘Name to Know’ Player of the Game in loss to Magic",
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-is-celtics-name-to-know-player-of-the-game-in-loss-to-magic.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics winning streak was snapped at six games by the Magic on Monday night at TD Garden.",
-        "published": "2026-11-17T02:33:59+00:00",
-        "title": "4 takeaways as Celtics lose to Magic in surprising upset",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-magic-in-surprising-upset.html"
       }
     ],
-    "generated_at": "2026-11-21T01:35:31.793191+00:00",
+    "generated_at": "2026-11-21T02:15:46.588202+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
