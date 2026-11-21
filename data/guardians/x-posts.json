@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:24:23.159994+00:00",
+  "generated_at": "2026-11-21T19:28:16.988125+00:00",
   "source": "X",
   "source_url": "https://x.com/CleGuardians",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "Thinking baseball thoughts. 💭 Tickets to Opening Day are available and make a great stocking stuffer! https://t.co/SJz8CLsMuD #GuardsBall https://t.co/HhAD8nVZxJ",
       "url": "https://x.com/CleGuardians/status/2123823688504242404",
       "published": "2026-11-20T17:00:00+00:00",
-      "likes": 232,
+      "likes": 248,
       "author": "Cleveland Guardians",
       "handle": "CleGuardians",
       "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "It truly is Fryday. Happy birthday, David! 🥳 #GuardsBall https://t.co/zZ23iaA7n5",
       "url": "https://x.com/CleGuardians/status/2123793506393112824",
       "published": "2026-11-20T15:00:04+00:00",
-      "likes": 807,
+      "likes": 862,
       "author": "Cleveland Guardians",
       "handle": "CleGuardians",
       "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
@@ -32,34 +32,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2123793506393112824",
-      "text": "It truly is Fryday. Happy birthday, David! 🥳 #GuardsBall https://t.co/zZ23iaA7n5",
-      "url": "https://x.com/CleGuardians/status/2123793506393112824",
-      "published": "2026-11-20T15:00:04+00:00",
-      "likes": 807,
-      "author": "Cleveland Guardians",
-      "handle": "CleGuardians",
-      "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXiSPzoaQAAYNlk.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123823688504242404",
-      "text": "Thinking baseball thoughts. 💭 Tickets to Opening Day are available and make a great stocking stuffer! https://t.co/SJz8CLsMuD #GuardsBall https://t.co/HhAD8nVZxJ",
-      "url": "https://x.com/CleGuardians/status/2123823688504242404",
-      "published": "2026-11-20T17:00:00+00:00",
-      "likes": 232,
-      "author": "Cleveland Guardians",
-      "handle": "CleGuardians",
-      "avatar": "https://pbs.twimg.com/profile_images/2117317180597362688/NkuHZWWC_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXiSPxNXIAA_Lm-.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
