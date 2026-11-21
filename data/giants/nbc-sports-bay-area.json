@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Giants",
+      "description": "The San Francisco Giants are open to trading their right-handed ace Logan Webb this offseason, per a report Saturday by FanSided's Robert Murray.",
+      "published": "2026-11-21T13:29:00+00:00",
+      "title": "Giants reportedly open to listening to trade offers for All-Star ace Logan Webb",
+      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/logan-webb-open-trade-offers-report/1981898/"
+    },
+    {
+      "category": "Giants",
       "description": "The San Francisco Giants traded Christian Koss to the Tampa Bay Rays for pitcher Cole Stokes, days after designating the infielder for assignment.",
       "published": "2026-11-20T08:07:00+00:00",
       "title": "Giants trade Christian Koss to Rays for RHP Cole Stokes after infielder DFA'd",
@@ -16,17 +23,17 @@
     },
     {
       "category": "Giants",
-      "description": "The San Francisco Giants reportedly have been offering super utilityman Casey Schmitt in trade talks for starting pitchers.",
-      "published": "2026-11-18T02:28:00+00:00",
-      "title": "Giants reportedly offering Casey Schmitt in trade talks for starting pitchers",
-      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/report-casey-schmitt-trade-pitchers/1981119/"
-    },
-    {
-      "category": "Giants",
       "description": "The San Francisco Giants received right-handed pitchers Blake Holub and Gavin Perry from the World Series champion Milwaukee Brewers.",
       "published": "2026-11-15T08:57:00+00:00",
       "title": "Giants trade former closer Ryan Walker to Brewers for two minor-league pitchers",
       "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/ryan-walker-trade-milwaukee-brewers/1980367/"
+    },
+    {
+      "category": "Giants",
+      "description": "The San Francisco Giants reportedly have been offering super utilityman Casey Schmitt in trade talks for starting pitchers.",
+      "published": "2026-11-18T02:28:00+00:00",
+      "title": "Giants reportedly offering Casey Schmitt in trade talks for starting pitchers",
+      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/report-casey-schmitt-trade-pitchers/1981119/"
     },
     {
       "category": "Giants",
@@ -69,16 +76,9 @@
       "published": "2026-11-10T09:14:00+00:00",
       "title": "Giants, Harrison Bader close to resolving contract dispute from scooter accident",
       "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/harrison-bader-contract-dispute-accident-buster-posey/1979033/"
-    },
-    {
-      "category": "Giants",
-      "description": "SAN FRANCISCO -- The Giants are searching for a closer and they also need to rebuild the left side of their bullpen. When those holes are filled, they will try to be creative and add others who can ...",
-      "published": "2026-11-17T01:03:00+00:00",
-      "title": "What's next for healthy Giants RHP Randy Rodriguez after Arizona Fall League?",
-      "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/randy-rodriguez-update-buster-posey/1980937/"
     }
   ],
-  "generated_at": "2026-11-21T18:42:18.270301+00:00",
+  "generated_at": "2026-11-21T23:36:35.704519+00:00",
   "source": "NBC Sports Bay Area",
   "source_url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/"
 }
