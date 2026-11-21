@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "The non-tender deadline came and went without much major news from the Red Sox, who hung on to Jarren Duran, Triston Casas, Tanner Houck and others.",
+      "published": "2026-11-20T23:53:27+00:00",
+      "title": "Red Sox keep Duran, Casas at non-tender deadline",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-keep-jarren-duran-triston-casas-others-at-uneventful-non-tender-deadline.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "A year after acquiring him from the Pirates, the Red Sox have traded Johan Oviedo to Arizona for a left-handed pitching prospect.",
+      "published": "2026-11-20T23:48:31+00:00",
+      "title": "Red Sox trade Johan Oviedo to Diamondbacks for pitching prospect",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-trade-johan-oviedo-get-lefty-pitching-prospect-back-from-arizona.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Hours before the deadline to decide on which arbitration-eligible players they will tender a contract, the Red Sox announced one-year agreements with four bench players who entered the day on the bubble of a crowded 40-man roster.",
       "published": "2026-11-20T19:06:27+00:00",
       "title": "Red Sox lock up four bench players ahead of tender deadline",
@@ -97,23 +111,9 @@
       "published": "2026-11-17T22:36:27+00:00",
       "title": "‘Hard to envision’ Red Sox adding another ‘significant’ piece to lineup",
       "url": "https://www.masslive.com/redsox/2026/11/hard-to-envision-red-sox-adding-another-significant-piece-to-lineup.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox signed Jake Bauers to a four-year, $58 million deal, confident his breakout 2026 season reflects lasting improvements in mechanics, approach, and mentality rather than a fluke.",
-      "published": "2026-11-17T22:27:03+00:00",
-      "title": "Jake Bauers spent years grinding before his breakout season — now the Red Sox are banking on 4 more years of the same",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-jake-bauers-convinced-that-breakout-season-wasnt-a-one-off-this-is-who-jake-is.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox made another minor league deal Tuesday, swapping a minor league pitcher for a minor league infielder.",
-      "published": "2026-11-17T20:06:21+00:00",
-      "title": "Red Sox trade pitcher Angel Bastardo to Royals ahead of Rule 5 deadline",
-      "url": "https://www.masslive.com/redsox/2026/11/red-sox-send-rhp-angel-bastardo-to-kansas-city-for-minor-league-inf.html"
     }
   ],
-  "generated_at": "2026-11-20T23:06:00.075977+00:00",
+  "generated_at": "2026-11-21T03:55:01.581045+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

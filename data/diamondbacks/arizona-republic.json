@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Diamondbacks",
+      "description": "The Diamondbacks executed a trade that expands the team's pitching depth on Friday, acquiring right-hander Johan Oviedo from the Boston Red Sox.",
+      "published": "2026-11-20T09:45:00+00:00",
+      "title": "Diamondbacks trading for Red Sox right-hander among roster moves",
+      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/20/diamondbacks-red-sox-trade-johan-oviedo/92886564007/"
+    },
+    {
+      "category": "Diamondbacks",
       "description": "Former Major League Baseball general manager Jim Bowden would like the Arizona Diamondbacks to trade Ketel Marte for an underwhelming return.",
       "published": "2026-11-19T22:36:00+00:00",
       "title": "Ex-MLB GM wants Diamondbacks to trade Ketel Marte for confusing return",
@@ -16,17 +23,10 @@
     },
     {
       "category": "Diamondbacks",
-      "description": "The Arizona Diamondbacks added six players to their 40-man roster on Nov. 17, theoretically protecting them from the Rule 5 draft.",
+      "description": "The Diamondbacks added six players to their 40-man roster on Tuesday, Nov. 17, protecting each of them from the Rule 5 draft — if there is one. The club added second baseman Demetrio Crisantes, ...",
       "published": "2026-11-17T08:58:00+00:00",
       "title": "Diamondbacks protect six prospects, shielding them from Rule 5 draft",
       "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/17/arizona-diamondbacks-protect-prospects-rule-5-draft-mlb-demetrio-crisantes/92834269007/"
-    },
-    {
-      "category": "Diamondbacks",
-      "description": "Sato, a left-handed power hitter, won the Central League's Triple Crown in Japan last season. Acquiring Sato would likely require a significant contract, potentially over $100 million. LAS VEGAS — The ...",
-      "published": "2026-11-11T21:04:00+00:00",
-      "title": "Diamondbacks mull Marte trade, target a run at Japanese star slugger",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/12/arizona-diamondbacks-offseason-mlb-ketel-marte-japanese-slugger-teruaki-sato/92734132007/"
     },
     {
       "category": "Diamondbacks",
@@ -44,10 +44,10 @@
     },
     {
       "category": "Diamondbacks",
-      "description": "General manager Mike Hazen is now more open to acquiring prospects rather than just major league-ready players, a shift from previous trade strategies. Marte has full no-trade protection, and the team ...",
-      "published": "2026-11-12T09:47:00+00:00",
-      "title": "Diamondbacks hearing names, talking various Ketel Marte trade options",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/12/arizona-diamondbacks-ketel-marte-trade-update/92750349007/"
+      "description": "Sato, a left-handed power hitter, won the Central League's Triple Crown in Japan last season. Acquiring Sato would likely require a significant contract, potentially over $100 million. LAS VEGAS — The ...",
+      "published": "2026-11-11T21:04:00+00:00",
+      "title": "Diamondbacks mull Marte trade, target a run at Japanese star slugger",
+      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/12/arizona-diamondbacks-offseason-mlb-ketel-marte-japanese-slugger-teruaki-sato/92734132007/"
     },
     {
       "category": "Diamondbacks",
@@ -57,7 +57,7 @@
       "url": "https://www.azcentral.com/story/sports/mlb/2026/11/08/arizona-represented-at-mlb-girls-baseball-series-in-florida/92675154007/"
     }
   ],
-  "generated_at": "2026-11-20T23:06:20.133521+00:00",
+  "generated_at": "2026-11-21T03:55:26.660264+00:00",
   "source": "Arizona Republic",
   "source_url": "https://www.azcentral.com/sports/diamondbacks/"
 }

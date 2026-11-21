@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Boston sends Oviedo to Arizona and gets left-hander Luke Dotson, an 11th-round draft pick in 2025, and a player to be named later.",
+      "published": "2026-11-21T00:36:04+00:00",
+      "title": "Red Sox trade Johan Oviedo; Jarren Duran, Triston Casas among 14 tendered",
+      "url": "https://www.nytimes.com/athletic/7799087/2026/11/20/red-sox-trade-johan-oviedo-jarren-duran-triston-casas-tendered/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "The 2027 Hall of Fame ballot is out, and it sparked a slew of thoughtful questions from subscribers. We answered a bunch of them.",
       "published": "2026-11-20T10:40:20+00:00",
       "title": "Hall of Fame mailbag: Buster Posey, Jon Lester, Dustin Pedroia, rule changes",
       "url": "https://www.nytimes.com/athletic/7796698/2026/11/20/baseball-hall-of-fame-posey-lester-pedroia/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "These five hypothetical trades would spice up an already red-hot MLB Hot Stove.",
-      "published": "2026-11-19T10:30:07+00:00",
-      "title": "Ketel Marte to Boston and 4 other hypothetical trades I'd like to see: Bowden",
-      "url": "https://www.nytimes.com/athletic/7793506/2026/11/19/mlb-trade-ideas-ketel-marte-otto-lopez/"
     },
     {
       "category": "Boston Red Sox",
@@ -113,7 +113,7 @@
       "url": "https://www.nytimes.com/athletic/7756774/2026/11/06/red-sox-free-agent-targets/"
     }
   ],
-  "generated_at": "2026-11-20T17:13:41.888431+00:00",
+  "generated_at": "2026-11-21T03:54:58.965411+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

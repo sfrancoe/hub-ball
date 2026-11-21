@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "After an All-Star season in 2024, injuries slowed down Fry, who struggled at the plate for the last two seasons.",
+      "published": "2026-11-20T18:10:00+00:00",
+      "title": "Guardians non-tender David Fry on his birthday, offer contracts to 9 other players",
+      "url": "https://www.nytimes.com/athletic/7798930/2026/11/20/guardians-contracts-david-fry-free-agent/"
+    },
+    {
+      "category": "Guardians",
       "description": "CLEVELAND — The Guardians added three prospects to their 40-man roster on Tuesday: catcher Kody Huff, pitcher Justin Campbell and outfielder Jaison Chourio.",
       "published": "2026-11-16T16:00:00+00:00",
       "title": "What the Guardians’ 40-man roster moves mean for their offseason strategy",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Guardians",
-      "description": "In the last 115 seasons, only Parker Messick, Dwight Gooden (1984) and Gary Nolan (1967) have submitted a rookie season with at least 30 starts, 190 strikeouts and a sub-2.75 ERA. Jaiden Tripi / Getty ...",
-      "published": "2026-11-09T03:00:00+00:00",
-      "title": "A whirlwind week for Guardians’ Parker Messick with ROY, Cy Young results and his wedding",
-      "url": "https://www.nytimes.com/athletic/7764056/2026/11/09/guardians-parker-messick-roy-cy-young-wedding/"
-    },
-    {
-      "category": "Guardians",
       "description": "Why was Cleveland Guardians president Chris Antonetti nine minutes late to the American League front office media availability session at the annual general manager meetings at the Aria Resort & ...",
       "published": "2026-11-11T03:00:00+00:00",
       "title": "What I’m hearing on Guardians’ payroll, pursuits and coaching changes at GM meetings",
@@ -50,7 +50,7 @@
       "url": "https://www.nytimes.com/athletic/7773582/2026/11/11/emmanuel-clase-guardians-trial-unpaid-taxes/"
     }
   ],
-  "generated_at": "2026-11-20T17:13:59.834559+00:00",
+  "generated_at": "2026-11-21T03:55:18.755354+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

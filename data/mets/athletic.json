@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The Mets have received trade interest in Vientos, sources say, but no deal appears imminent.",
+      "published": "2026-11-20T23:25:37+00:00",
+      "title": "Why the Mets tendered Mark Vientos a contract despite his murky outlook",
+      "url": "https://www.nytimes.com/athletic/7799100/2026/11/20/mets-mark-vientos-contract-mlb-free-agency/"
+    },
+    {
+      "category": "Mets",
       "description": "Tarik Skubal, Ty France and Clay Holmes are among the players who could help the Mets get back to their winning ways.",
       "published": "2026-11-20T11:01:55+00:00",
       "title": "Signing Tarik Skubal and other moves that would get the Mets back into contention",
@@ -132,16 +139,9 @@
       "published": "2026-10-29T22:47:36+00:00",
       "title": "Bo Bichette to exercise $42 million player option to stay with Mets: Sources",
       "url": "https://www.nytimes.com/athletic/7736936/2026/10/29/bo-bichette-player-option-mets/"
-    },
-    {
-      "category": "Mets",
-      "description": "Mallee has worked closely with Pete Crow-Armstrong during his time as the Cubs’ assistant hitting coach.",
-      "published": "2026-10-28T21:43:13+00:00",
-      "title": "Cubs to retain John Mallee, a key hitting coach for PCA, after Mets’ interest: Sources",
-      "url": "https://www.nytimes.com/athletic/7733565/2026/10/28/cubs-retain-john-mallee-mets-interest/"
     }
   ],
-  "generated_at": "2026-11-20T17:13:56.553446+00:00",
+  "generated_at": "2026-11-21T03:55:14.781720+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

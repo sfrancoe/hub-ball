@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Houston’s outfield has more turnover ahead, and the Astros have decisions to weigh after offering contracts to six arbitration-eligible players ...",
+      "published": "2026-11-20T15:17:00+00:00",
+      "title": "Houston Astros part with Taylor Trammell, offer contracts to all other arbitration-eligible players",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-taylor-trammell-arbitration-22542329.php"
+    },
+    {
+      "category": "Astros",
       "description": "Bobby Wilson is the first addition to the staff of new Astros manager Brad Ausmus. The Astros had retained four members of the 2026 staff.",
       "published": "2026-11-19T12:51:00+00:00",
       "title": "Houston Astros hire Bobby Wilson as bench coach as Brad Ausmus' staff takes shape",
@@ -51,20 +58,13 @@
     },
     {
       "category": "Astros",
-      "description": "There's a portion of the Astros fanbase that has been underwhelmed recently, including by the hiring of Brad Ausmus. The new manager addressed those critics with a plan to win them over.",
-      "published": "2026-11-13T10:11:00+00:00",
-      "title": "Houston Astros' new manager Brad Ausmus' message to his doubters: 'Let's go win'",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-expectations-fans-22529194.php"
-    },
-    {
-      "category": "Astros",
       "description": "Pettitte spent three seasons with the Astros. He is nearing the end of his Baseball Hall of Fame ballot eligibility.",
       "published": "2026-11-16T11:03:00+00:00",
       "title": "Former Astros pitcher Andy Pettitte enters second-to-last year on Baseball Hall of Fame ballot",
       "url": "https://www.houstonchronicle.com/sports/astros/article/andy-pettitte-hall-of-fame-22533728.php"
     }
   ],
-  "generated_at": "2026-11-20T23:06:15.110597+00:00",
+  "generated_at": "2026-11-21T03:55:20.297345+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
