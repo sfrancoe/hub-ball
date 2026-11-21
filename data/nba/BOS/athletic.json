@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "“We've got some things that we really need to work on, and that's pretty evident,” Stevens said.",
+        "published": "2026-11-21T22:28:36+00:00",
+        "title": "Brad Stevens optimistic about Celtics start, believes Mitchell Robinson will find rhythm",
+        "url": "https://www.nytimes.com/athletic/7800956/2026/11/21/boston-celtics-brad-stevens-mitchell-robinson/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The technical foul capped a frustrating second half for Tatum.",
         "published": "2026-11-19T11:00:25+00:00",
         "title": "Jayson Tatum regrets costly tech vs. Nuggets, says he should've 'gave the ball to the ref'",
@@ -105,16 +112,9 @@
         "published": "2026-11-02T16:03:58+00:00",
         "title": "NBA Power Rankings: Liftoff in Houston, and how far have the Thunder fallen?",
         "url": "https://www.nytimes.com/athletic/7747535/2026/11/02/nba-power-rankings-rockets-thunder-grizzlies/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "One of Ime Udoka's first tasks as a head coach was to discipline Marcus Smart; now, the two are philosophical soulmates on the court.",
-        "published": "2026-11-02T10:45:52+00:00",
-        "title": "'Perfect fit' of Ime Udoka-Marcus Smart reunion giving Rockets tenacity they need",
-        "url": "https://www.nytimes.com/athletic/7744145/2026/11/02/rockets-marcus-smart-ime-udoka-celtics/"
       }
     ],
-    "generated_at": "2026-11-19T11:02:45.578601+00:00",
+    "generated_at": "2026-11-21T22:32:41.494269+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
