@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "In a forward-thinking move for the Mets, the club is signing young center fielder A.J....",
+      "published": "2026-11-21T18:38:02+00:00",
+      "title": "Mets signing center fielder A.J. Ewing to 8-year extension: source",
+      "url": "https://www.nydailynews.com/2026/11/21/mets-signing-center-fielder-a-j-ewing-to-8-year-extension-source/"
+    },
+    {
+      "category": "Mets",
       "description": "Whenever spring training comes, Mets' Jonah Tong will be ready.",
       "published": "2026-11-20T23:59:03+00:00",
       "title": "How Mets’ Jonah Tong is approaching offseason of uncertainty: ‘Just getting back to being myself’",
@@ -132,16 +139,9 @@
       "published": "2026-10-20T23:29:28+00:00",
       "title": "Abbey Mastracco: Brewers-Rays World Series serves as consolation prize for Mets fans",
       "url": "https://www.nydailynews.com/2026/10/20/abbey-mastracco-brewers-rays-world-series-serves-as-consolation-prize-for-mets-fans/"
-    },
-    {
-      "category": "Mets",
-      "description": "Carlos Mendoza has found a landing spot with the Mets' NL East rivals.",
-      "published": "2026-10-15T16:50:26+00:00",
-      "title": "Ex-Mets manager Carlos Mendoza lands with Phillies as third base coach",
-      "url": "https://www.nydailynews.com/2026/10/15/mets-carlos-mendoza-phillies-mlb-infield-coach-dave-dombrowski-don-mattingly/"
     }
   ],
-  "generated_at": "2026-11-21T03:55:09.512334+00:00",
+  "generated_at": "2026-11-21T18:42:02.792944+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

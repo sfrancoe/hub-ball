@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Voters unseated the Hillsborough County Commission’s two staunch stadium opponents on Nov. 3.",
+      "published": "2026-11-21T14:00:00+00:00",
+      "title": "Hillsborough election delivered a win for Rays’ Tampa stadium pursuit",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/21/tampa-bay-rays-election-results-hillsborough/"
+    },
+    {
+      "category": "Rays",
       "description": "The other 12 arbitration-eligible players, including six other relievers, will stick around for now.",
       "published": "2026-11-21T03:12:44+00:00",
       "title": "Rays non-tender Cole Sulser, add versatile Christian Koss from Giants",
@@ -111,16 +118,9 @@
       "published": "2026-11-03T20:23:46+00:00",
       "title": "In reviewing Series loss, Rays’ Erik Neander says ‘best is yet to come’",
       "url": "https://www.tampabay.com/sports/rays/2026/11/03/erik-neader-2027-outlook-world-series/"
-    },
-    {
-      "category": "Rays",
-      "description": "Evan Longoria and Yandy Diaz had been the top Tampa Bay finishers at 6th. Kevin Cash (manager) and Bryan Baker (reliever) also are award finalists.",
-      "published": "2026-11-03T00:05:06+00:00",
-      "title": "Junior Caminero a finalist for AL MVP Award, will be 1st Ray in top 3",
-      "url": "https://www.tampabay.com/sports/rays/2026/11/02/junior-caminero-mvp-kevin-cash-manager-mlb-awards/"
     }
   ],
-  "generated_at": "2026-11-21T03:55:15.813573+00:00",
+  "generated_at": "2026-11-21T18:42:06.081957+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

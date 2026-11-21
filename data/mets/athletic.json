@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The deal is pending a physical and includes a $25 million club option for a ninth year.",
+      "published": "2026-11-21T18:37:19+00:00",
+      "title": "Mets sign A.J. Ewing to 8-year, $95 million extension: Sources",
+      "url": "https://www.nytimes.com/athletic/7800767/2026/11/21/mets-aj-ewing-contract-extension/"
+    },
+    {
+      "category": "Mets",
       "description": "The Mets have received trade interest in Vientos, sources say, but no deal appears imminent.",
       "published": "2026-11-20T23:25:37+00:00",
       "title": "Why the Mets tendered Mark Vientos a contract despite his murky outlook",
@@ -132,16 +139,9 @@
       "published": "2026-11-01T20:59:51+00:00",
       "title": "Jerry Koosman, on the mound when the Miracle Mets won 1969 World Series, dies at 83",
       "url": "https://www.nytimes.com/athletic/7744944/2026/11/01/jerry-koosman-dies-1969-mets/"
-    },
-    {
-      "category": "Mets",
-      "description": "Bichette started slow in his first season with the Mets in 2026 but ultimately produced closer to his career numbers.",
-      "published": "2026-10-29T22:47:36+00:00",
-      "title": "Bo Bichette to exercise $42 million player option to stay with Mets: Sources",
-      "url": "https://www.nytimes.com/athletic/7736936/2026/10/29/bo-bichette-player-option-mets/"
     }
   ],
-  "generated_at": "2026-11-21T03:55:14.781720+00:00",
+  "generated_at": "2026-11-21T18:42:05.611753+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

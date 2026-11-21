@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees have their closer locked in for 2027. Whether David Bednar sticks around beyond...",
+      "published": "2026-11-21T13:00:10+00:00",
+      "title": "Yankees’ Brian Cashman tight-lipped on long-terms plans for David Bednar",
+      "url": "https://www.nydailynews.com/2026/11/21/yankees-brian-cashman-david-bednar-contract-mlb/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees were busy before Friday’s 5 p.m. non-tender deadline.",
       "published": "2026-11-20T23:09:28+00:00",
       "title": "Yankees non-tender Fernando Cruz and Luis Gil",
@@ -132,16 +139,9 @@
       "published": "2026-11-11T00:11:03+00:00",
       "title": "Bob Boone, World Series champion and father of Yankees’ manager, dead at 78",
       "url": "https://www.nydailynews.com/2026/11/10/bob-boone-world-series-champion-yankees-aaron-dead-phillies-angels/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Gershenfeld spent the last two seasons as the Yankees' run prevention and catching coordinator, a...",
-      "published": "2026-11-09T23:34:25+00:00",
-      "title": "Yankees promoting catching coordinator Aaron Gershenfeld following Tanner Swanson’s departure: sources",
-      "url": "https://www.nydailynews.com/2026/11/09/yankees-promoting-catching-coordinator-aaron-gershenfeld-following-tanner-swansons-departure-sources/"
     }
   ],
-  "generated_at": "2026-11-21T03:55:02.421603+00:00",
+  "generated_at": "2026-11-21T18:41:58.175754+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
