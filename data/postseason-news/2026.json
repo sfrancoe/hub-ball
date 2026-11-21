@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-21T12:48:07.108601+00:00",
+  "generatedAt": "2026-11-21T19:51:14.539857+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Hillsborough election delivered a win for Rays’ Tampa stadium pursuit",
+      "description": "Voters unseated the Hillsborough County Commission’s two staunch stadium opponents on Nov. 3.",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/21/tampa-bay-rays-election-results-hillsborough/",
+      "published": "2026-11-21T14:00:00+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees’ Brian Cashman tight-lipped on long-terms plans for David Bednar",
+      "description": "The Yankees have their closer locked in for 2027. Whether David Bednar sticks around beyond...",
+      "url": "https://www.nydailynews.com/2026/11/21/yankees-brian-cashman-david-bednar-contract-mlb/",
+      "published": "2026-11-21T13:00:10+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "The Red Sox have been ambitious this offseason. What moves might the rest of the AL East make?",
+      "description": "Like the Red Sox, the Blue Jays, Orioles, Rays, and Yankees all have areas of concern to address.",
+      "url": "https://www.bostonglobe.com/2026/11/21/sports/american-league-east-offseason-moves/",
+      "published": "2026-11-21T12:55:00.006000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Letters to Sports: Should Lincoln Riley stay or should he go?",
       "description": "Readers of the Los Angeles Times Sports section give their thoughts on Lincoln Riley and USC football, Bill Plaschke, the Dodgers, Derrin Horton and more.",
@@ -18,54 +54,6 @@
       "teamName": "Los Angeles Dodgers",
       "teamAbbreviation": "LAD",
       "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Red Sox trade Johan Oviedo to Diamondbacks for minor league reliever",
-      "description": "Boston also agreed to one-year deals with Andruw Monasterio, Eli White, Jahmai Jones, and Romy Gonzalez, and tendered contracts to all 12 remaining arbitration-eligible players.",
-      "url": "https://www.bostonglobe.com/2026/11/20/sports/red-sox-johan-oviedo-trade-tendered-contract/",
-      "published": "2026-11-21T05:08:36.259000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Rays non-tender Cole Sulser, add versatile Christian Koss from Giants",
-      "description": "The other 12 arbitration-eligible players, including six other relievers, will stick around for now.",
-      "url": "https://www.tampabay.com/sports/rays/2026/11/20/cole-sulser-christian-koss-san-francisco-giants-cole-strokes-fsu-kevin-ibach/",
-      "published": "2026-11-21T03:12:44.722000+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The White Sox gave up a lot to land Luis Castillo — and to move him. Will it be worth it?",
-      "description": "The Chicago White Sox seemingly gave up a lot to acquire right-hander Luis Castillo. And they seemingly gave up a lot to clear his $22.75 million salary for next season.",
-      "url": "https://www.nytimes.com/athletic/7799518/2026/11/21/luis-castillo-white-sox-mlb-offseason/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Cubs claim veteran catcher Joey Bart off waivers from the White Sox",
-      "description": "The Chicago Cubs claimed catcher Joey Bart off waivers from the White Sox on Friday, one of several roster moves the team announced.",
-      "url": "https://www.chicagotribune.com/2026/11/20/chicago-cubs-joey-bart-white-sox/",
-      "published": "2026-11-21T01:52:49+00:00",
-      "source": "Chicago Tribune",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "teamAbbreviation": "CWS",
-      "league": "AL",
       "publishedSource": "publisher"
     }
   ]
