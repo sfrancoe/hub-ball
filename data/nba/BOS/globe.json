@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "CELTICS",
+        "description": "The Celtics president of basketball operations took a measured approach to the team's first 15 games.“I think whatever the 10,000-foot view means, it’s not 15 games,” Stevens said.",
+        "published": "2026-11-21T22:58:57.007Z",
+        "title": "It’s a small sample, but Brad Stevens likes what he has seen in Celtics’ first 15 games",
+        "url": "https://www.bostonglobe.com/2026/11/21/sports/celtics-brad-stevens-nba-basketball/"
+      },
+      {
         "category": "celtics at kings | 10 p.m. (NBCSB)",
         "description": "The Celtics are on a two-game losing streak as they arrive in Sacramento to face the 1-14 Kings.",
         "published": "2026-11-21T13:52:03.21Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-14T23:16:32.174Z",
         "title": "Celtics offer support for Kristaps Porzingis after health issues force 2023-24 NBA champion to step away",
         "url": "https://www.bostonglobe.com/2026/11/14/sports/celtics-kristaps-porzingis-reaction/"
-      },
-      {
-        "category": "Sunday basketball notes",
-        "description": "Brogdon, who was 32 when he stepped away from the NBA in October 2025, is a senior adviser to National Basketball Players Association executive director David Kelly.",
-        "published": "2026-11-14T15:28:09.376Z",
-        "title": "Former Celtics guard Malcolm Brogdon retired as a player but is still very much in the game with the NBPA",
-        "url": "https://www.bostonglobe.com/2026/11/14/sports/sunday-basketball-notes-malcolm-brogdon-nbpa/"
       }
     ],
-    "generated_at": "2026-11-21T13:59:27.121407+00:00",
+    "generated_at": "2026-11-21T23:12:58.945776+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
