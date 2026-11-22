@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-22T07:32:00.589404+00:00",
+  "generatedAt": "2026-11-22T15:42:40.122639+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 1,
+  "coveredTeamCount": 3,
   "articles": [
     {
-      "title": "Tom Krasovic: Might an NBA-style amnesty clause help Padres when it comes to veteran contracts?",
-      "description": "The Padres owe many years of large salaries to older everyday players Manny Machado, Xander Bogaerts and Jake Cronenworth.",
-      "url": "https://www.sandiegouniontribune.com/2026/11/21/tom-krasovic-might-an-nba-style-amnesty-clause-help-padres-when-it-comes-to-veteran-contracts/",
-      "published": "2026-11-22T01:20:06+00:00",
-      "source": "Union-Tribune",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "teamAbbreviation": "SD",
-      "league": "NL",
+      "title": "How pre-med studies and hummingbird colors led to a key role with Rays",
+      "description": "Tales | Danielle Dockx took an interesting path from playing softball at Princeton to her new job leading Tampa Bay’s renowned player development department.",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/22/danielle-dockx-player-development-princeton-softball-kevin-ibach-kathleen-mannheimer/",
+      "published": "2026-11-22T13:00:00+00:00",
+      "source": "Tampa Bay Times",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "teamAbbreviation": "TB",
+      "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
+      "description": "Random thoughts about (mostly) sports topics.",
+      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Randy Flores brings a former player’s perspective to Houston Astros GM job — and knows its limits",
+      "description": "From player to scout to Astros GM, Randy Flores says firsthand experience helps him understand players — if he stays open to other perspectives.",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-gm-playing-experience-22542920.php",
+      "published": "",
+      "source": "Houston Chronicle",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "teamAbbreviation": "HOU",
+      "league": "AL",
+      "publishedSource": "unverified"
     }
   ]
 }
