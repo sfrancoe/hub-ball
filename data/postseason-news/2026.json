@@ -1,13 +1,49 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-22T15:42:40.122639+00:00",
+  "generatedAt": "2026-11-22T21:19:14.985249+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 3,
   "articles": [
+    {
+      "title": "Tigers pounce on Yankees castoff Luis Gil, agree to one-year deal: source",
+      "description": "It didn't take long for Luis Gil to land on his feet.",
+      "url": "https://www.nydailynews.com/2026/11/22/tigers-pounce-on-yankees-castoff-luis-gil-agree-to-one-year-deal-source/",
+      "published": "2026-11-22T21:11:51+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Former ROY agrees to $2.3M deal with new team after being cut by Yankees",
+      "description": "",
+      "url": "https://nypost.com/2026/11/22/sports/ex-yankee-luis-gil-agrees-to-one-year-2-3m-deal-with-tigers/",
+      "published": "2026-11-22T20:56:45+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Star reliever is a ‘now’ opportunity worthy of a Yankees gamble",
+      "description": "",
+      "url": "https://nypost.com/2026/11/22/sports/adrian-morejon-is-a-now-opportunity-worthy-of-a-yankees-gamble/",
+      "published": "2026-11-22T18:23:21+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "How pre-med studies and hummingbird colors led to a key role with Rays",
       "description": "Tales | Danielle Dockx took an interesting path from playing softball at Princeton to her new job leading Tampa Bay’s renowned player development department.",
@@ -29,18 +65,6 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Randy Flores brings a former player’s perspective to Houston Astros GM job — and knows its limits",
-      "description": "From player to scout to Astros GM, Randy Flores says firsthand experience helps him understand players — if he stays open to other perspectives.",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-gm-playing-experience-22542920.php",
-      "published": "",
-      "source": "Houston Chronicle",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "teamAbbreviation": "HOU",
       "league": "AL",
       "publishedSource": "unverified"
     }
