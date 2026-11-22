@@ -3,17 +3,17 @@
     "articles": [
       {
         "category": "Boston Celtics",
-        "description": "Random thoughts about (mostly) sports topics.",
-        "published": "2026-11-22T10:00:00+00:00",
-        "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
-        "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
         "published": "2026-11-22T10:00:00+00:00",
         "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
         "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "Random thoughts about (mostly) sports topics.",
+        "published": "2026-11-22T10:00:00+00:00",
+        "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
+        "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
       },
       {
         "category": "Boston Celtics",
@@ -114,7 +114,7 @@
         "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-nuggets-includes-controversial-tech.html"
       }
     ],
-    "generated_at": "2026-11-22T10:06:59.046663+00:00",
+    "generated_at": "2026-11-22T10:17:02.523895+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
