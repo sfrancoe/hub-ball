@@ -1,47 +1,23 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-22T00:26:47.706237+00:00",
+  "generatedAt": "2026-11-22T07:32:00.589404+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 1,
   "articles": [
     {
-      "title": "Hillsborough election delivered a win for Rays’ Tampa stadium pursuit",
-      "description": "Voters unseated the Hillsborough County Commission’s two staunch stadium opponents on Nov. 3.",
-      "url": "https://www.tampabay.com/sports/rays/2026/11/21/tampa-bay-rays-election-results-hillsborough/",
-      "published": "2026-11-21T14:00:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees’ Brian Cashman tight-lipped on long-terms plans for David Bednar",
-      "description": "The Yankees have their closer locked in for 2027. Whether David Bednar sticks around beyond...",
-      "url": "https://www.nydailynews.com/2026/11/21/yankees-brian-cashman-david-bednar-contract-mlb/",
-      "published": "2026-11-21T13:00:10+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Red Sox have been ambitious this offseason. What moves might the rest of the AL East make?",
-      "description": "Like the Red Sox, the Blue Jays, Orioles, Rays, and Yankees all have areas of concern to address.",
-      "url": "https://www.bostonglobe.com/2026/11/21/sports/american-league-east-offseason-moves/",
-      "published": "2026-11-21T12:55:00.006000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
+      "title": "Tom Krasovic: Might an NBA-style amnesty clause help Padres when it comes to veteran contracts?",
+      "description": "The Padres owe many years of large salaries to older everyday players Manny Machado, Xander Bogaerts and Jake Cronenworth.",
+      "url": "https://www.sandiegouniontribune.com/2026/11/21/tom-krasovic-might-an-nba-style-amnesty-clause-help-padres-when-it-comes-to-veteran-contracts/",
+      "published": "2026-11-22T01:20:06+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
       "publishedSource": "publisher"
     }
   ]
