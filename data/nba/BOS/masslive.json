@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Mike Conley led the Celtics with 19 points off the bench, bringing some much-needed shot-making in the loss to the Kings.",
+        "published": "2026-11-22T10:45:00+00:00",
+        "title": "Mike Conley’s prove-it moment for Celtics opens new possibilities in Kings loss",
+        "url": "https://www.masslive.com/celtics/2026/11/mike-conleys-prove-it-moment-for-celtics-opens-new-possibilities-in-kings-loss.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Celtics president Brad Stevens said it's still early in the season, but he's thrilled with what he's seen out of Paul George.",
         "published": "2026-11-22T10:30:00+00:00",
         "title": "How Brad Stevens views Celtics’ key offseason additions: ‘Joy to be around’",
@@ -66,17 +73,17 @@
       },
       {
         "category": "Boston Celtics",
-        "description": "Mitchell Robinson has the worst plus/minus on the Celtics as his early-season struggles have continued.",
-        "published": "2026-11-20T10:00:00+00:00",
-        "title": "Should Celtics fans be worried about Michell Robinson? (Mailbag)",
-        "url": "https://www.masslive.com/celtics/2026/11/should-celtics-fans-be-worried-about-michell-robinson-mailbag.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
         "published": "2026-11-20T10:00:00+00:00",
         "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
         "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "Mitchell Robinson has the worst plus/minus on the Celtics as his early-season struggles have continued.",
+        "published": "2026-11-20T10:00:00+00:00",
+        "title": "Should Celtics fans be worried about Michell Robinson? (Mailbag)",
+        "url": "https://www.masslive.com/celtics/2026/11/should-celtics-fans-be-worried-about-michell-robinson-mailbag.html"
       },
       {
         "category": "Boston Celtics",
@@ -105,16 +112,9 @@
         "published": "2026-11-19T06:14:56+00:00",
         "title": "Neemias Queta is Celtics ‘Name to Know’ Player of the Game in loss to Nuggets",
         "url": "https://www.masslive.com/celtics/2026/11/neemias-queta-celtics-name-to-know-player-of-the-game-in-loss-to-nuggets.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The controversial technical foul essentially eliminated any chance the Celtics had at a comeback in the final seconds.",
-        "published": "2026-11-19T05:53:55+00:00",
-        "title": "Celtics star called for shocking technical foul in Nuggets loss",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-star-called-for-shocking-technical-foul-in-nuggets-loss.html"
       }
     ],
-    "generated_at": "2026-11-22T10:37:09.925236+00:00",
+    "generated_at": "2026-11-22T10:57:16.886149+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
