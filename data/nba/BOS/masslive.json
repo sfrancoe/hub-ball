@@ -3,6 +3,20 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Random thoughts about (mostly) sports topics.",
+        "published": "2026-11-22T10:00:00+00:00",
+        "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
+        "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
+        "published": "2026-11-22T10:00:00+00:00",
+        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
+        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The shorthanded Celtics dropped three straight games for the first time all season on Saturday night.",
         "published": "2026-11-22T06:27:42+00:00",
         "title": "4 takeaways as Celtics lose to Kings after historically bad shooting night",
@@ -98,23 +112,9 @@
         "published": "2026-11-19T05:25:01+00:00",
         "title": "4 takeaways as Celtics lose to Nuggets, includes controversial tech",
         "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-nuggets-includes-controversial-tech.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics travel to Ball Arena to take on the Denver Nuggets on Wednesday. Compare Polymarket odds, spread lines, and score projections before tip off.",
-        "published": "2026-11-18T16:15:00+00:00",
-        "title": "Experts release Celtics vs. Nuggets prediction as Tatum and Jokic headline latest player props",
-        "url": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-nuggets-prediction-as-tatum-and-jokic-headline-latest-player-props.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Chris Cenac Jr. was personally delivered the game ball from Paul George after scoring his first career NBA bucket.",
-        "published": "2026-11-18T10:00:00+00:00",
-        "title": "Celtics rookie talks making NBA debut, navigating life as pro",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-rookie-talks-making-nba-debut-navigating-life-as-pro.html"
       }
     ],
-    "generated_at": "2026-11-22T09:46:51.772051+00:00",
+    "generated_at": "2026-11-22T10:06:59.046663+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
