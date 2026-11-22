@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics will be shorthanded down two contributors as they try to snap a three-game losing streak.",
+        "published": "2026-11-22T21:01:37+00:00",
+        "title": "Celtics injury report: Paul George downgraded for Warriors game",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-injury-report-paul-george-downgraded-for-warriors-game.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Mike Conley led the Celtics with 19 points off the bench, bringing some much-needed shot-making in the loss to the Kings.",
         "published": "2026-11-22T10:45:00+00:00",
         "title": "Mike Conley’s prove-it moment for Celtics opens new possibilities in Kings loss",
@@ -17,17 +24,17 @@
       },
       {
         "category": "Boston Celtics",
-        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
-        "published": "2026-11-22T10:00:00+00:00",
-        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
-        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "Random thoughts about (mostly) sports topics.",
         "published": "2026-11-22T10:00:00+00:00",
         "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
         "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
+        "published": "2026-11-22T10:00:00+00:00",
+        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
+        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
       },
       {
         "category": "Boston Celtics",
@@ -73,17 +80,17 @@
       },
       {
         "category": "Boston Celtics",
-        "description": "Mitchell Robinson has the worst plus/minus on the Celtics as his early-season struggles have continued.",
-        "published": "2026-11-20T10:00:00+00:00",
-        "title": "Should Celtics fans be worried about Michell Robinson? (Mailbag)",
-        "url": "https://www.masslive.com/celtics/2026/11/should-celtics-fans-be-worried-about-michell-robinson-mailbag.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
         "published": "2026-11-20T10:00:00+00:00",
         "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
         "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "Mitchell Robinson has the worst plus/minus on the Celtics as his early-season struggles have continued.",
+        "published": "2026-11-20T10:00:00+00:00",
+        "title": "Should Celtics fans be worried about Michell Robinson? (Mailbag)",
+        "url": "https://www.masslive.com/celtics/2026/11/should-celtics-fans-be-worried-about-michell-robinson-mailbag.html"
       },
       {
         "category": "Boston Celtics",
@@ -105,16 +112,9 @@
         "published": "2026-11-19T10:00:00+00:00",
         "title": "Did Jayson Tatum deserve controversial tech? What we learned from Celtics’ loss to Nuggets",
         "url": "https://www.masslive.com/celtics/2026/11/did-jayson-tatum-deserve-controversial-tech-what-we-learned-from-celtics-loss-to-nuggets.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The big man finished with a double-double in his return to the lineup on Wednesday night.",
-        "published": "2026-11-19T06:14:56+00:00",
-        "title": "Neemias Queta is Celtics ‘Name to Know’ Player of the Game in loss to Nuggets",
-        "url": "https://www.masslive.com/celtics/2026/11/neemias-queta-celtics-name-to-know-player-of-the-game-in-loss-to-nuggets.html"
       }
     ],
-    "generated_at": "2026-11-22T21:01:11.823504+00:00",
+    "generated_at": "2026-11-22T21:11:16.664985+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
