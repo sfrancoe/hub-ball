@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-21T19:51:14.539857+00:00",
+  "generatedAt": "2026-11-22T00:26:47.706237+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 3,
   "articles": [
     {
       "title": "Hillsborough election delivered a win for Rays’ Tampa stadium pursuit",
@@ -42,18 +42,6 @@
       "teamName": "Boston Red Sox",
       "teamAbbreviation": "BOS",
       "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Letters to Sports: Should Lincoln Riley stay or should he go?",
-      "description": "Readers of the Los Angeles Times Sports section give their thoughts on Lincoln Riley and USC football, Bill Plaschke, the Dodgers, Derrin Horton and more.",
-      "url": "https://www.latimes.com/sports/story/2026-11-21/la-times-sports-letters-usc-lincoln-riley-dodgers-lakers",
-      "published": "2026-11-21T12:00:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
       "publishedSource": "publisher"
     }
   ]
