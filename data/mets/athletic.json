@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "Examining extensions that similar players have received, it's possible to project what new deals for Benge and McLean might look like.",
+      "published": "2026-11-22T11:00:57+00:00",
+      "title": "The Mets extended A.J. Ewing. What would it take for Carson Benge and Nolan McLean?",
+      "url": "https://www.nytimes.com/athletic/7801661/2026/11/22/mets-a-j-ewing-extension-carson-benge-nolan-mclean/"
+    },
+    {
+      "category": "Mets",
       "description": "The deal is pending a physical and includes a $25 million club option for a ninth year.",
       "published": "2026-11-21T18:37:19+00:00",
       "title": "Mets sign A.J. Ewing to 8-year, $95 million extension: Sources",
@@ -132,16 +139,9 @@
       "published": "2026-11-03T11:30:41+00:00",
       "title": "What we're hearing about Mets' offseason priorities: Pitching is paramount",
       "url": "https://www.nytimes.com/athletic/7749559/2026/11/03/mets-mlb-offseason-priorities/"
-    },
-    {
-      "category": "Mets",
-      "description": "Koosman was a two-time All-Star and clinched the team's first World Series championship with a complete game at Shea Stadium.",
-      "published": "2026-11-01T20:59:51+00:00",
-      "title": "Jerry Koosman, on the mound when the Miracle Mets won 1969 World Series, dies at 83",
-      "url": "https://www.nytimes.com/athletic/7744944/2026/11/01/jerry-koosman-dies-1969-mets/"
     }
   ],
-  "generated_at": "2026-11-21T18:42:05.611753+00:00",
+  "generated_at": "2026-11-22T11:48:32.568419+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

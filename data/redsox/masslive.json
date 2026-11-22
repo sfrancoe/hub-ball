@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Random thoughts about (mostly) sports topics.",
+      "published": "2026-11-22T10:00:00+00:00",
+      "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
+      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "The non-tender deadline came and went without much major news from the Red Sox, who hung on to Jarren Duran, Triston Casas, Tanner Houck and others.",
       "published": "2026-11-20T23:53:27+00:00",
       "title": "Red Sox keep Duran, Casas at non-tender deadline",
@@ -104,16 +111,9 @@
       "published": "2026-11-17T23:18:18+00:00",
       "title": "Why the Red Sox moved fast to sign Jake Bauers",
       "url": "https://www.masslive.com/redsox/2026/11/why-jake-bauers-was-red-sox-first-call-one-minute-into-free-agency-and-a-great-target.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox face questions about whether their lineup is complete with Jake Bauers signed.",
-      "published": "2026-11-17T22:36:27+00:00",
-      "title": "‘Hard to envision’ Red Sox adding another ‘significant’ piece to lineup",
-      "url": "https://www.masslive.com/redsox/2026/11/hard-to-envision-red-sox-adding-another-significant-piece-to-lineup.html"
     }
   ],
-  "generated_at": "2026-11-21T23:36:14.538571+00:00",
+  "generated_at": "2026-11-22T11:48:28.790659+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
