@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Brewers",
-      "description": "Andrew Vaughn was one of eight players tendered contracts by the Brewers on Friday, Nov. 20. The team also signed deals with five other players.",
-      "published": "2026-11-20T15:46:00+00:00",
-      "title": "Brewers tender Andrew Vaughn, seven others contracts for 2027 season",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-tender-andrew-vaughn-seven-others-contracts-for-2027-season/92562167007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Brewers fans set a new MLB record for in-venue World Series merchandise sales, overcoming the 2022 Houston Astros by 9%, according to MLB.",
       "published": "2026-11-20T03:04:00+00:00",
       "title": "Brewers fans smash MLB merchandise sales record in World Series run",
@@ -20,6 +13,13 @@
       "published": "2026-11-20T10:46:00+00:00",
       "title": "What Brewers' Garrett Mitchell means to type 1 diabetes community",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-garrett-mitchell-type-1-diabetes-community/92726976007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Andrew Vaughn was one of eight players tendered contracts by the Brewers on Friday, Nov. 20. The team also signed deals with five other players.",
+      "published": "2026-11-20T15:46:00+00:00",
+      "title": "Brewers tender Andrew Vaughn, seven others contracts for 2027 season",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-tender-andrew-vaughn-seven-others-contracts-for-2027-season/92562167007/"
     },
     {
       "category": "Brewers",
@@ -85,7 +85,7 @@
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/brewers-ryan-walker-what-to-know-about-him/92808200007/"
     }
   ],
-  "generated_at": "2026-11-21T23:36:32.419464+00:00",
+  "generated_at": "2026-11-22T03:27:42.329919+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }
