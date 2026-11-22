@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "Tales | Danielle Dockx took an interesting path from playing softball at Princeton to her new job leading Tampa Bay’s renowned player development department.",
+      "published": "2026-11-22T13:00:00+00:00",
+      "title": "How pre-med studies and hummingbird colors led to a key role with Rays",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/22/danielle-dockx-player-development-princeton-softball-kevin-ibach-kathleen-mannheimer/"
+    },
+    {
+      "category": "Rays",
       "description": "Voters unseated the Hillsborough County Commission’s two staunch stadium opponents on Nov. 3.",
       "published": "2026-11-21T14:00:00+00:00",
       "title": "Hillsborough election delivered a win for Rays’ Tampa stadium pursuit",
@@ -111,16 +118,9 @@
       "published": "2026-11-03T21:36:52+00:00",
       "title": "Rays have ‘every intention right now’ of keeping Drew Rasmussen",
       "url": "https://www.tampabay.com/sports/rays/2026/11/03/drew-rasmussen-erik-neander-edwin-uceta-junior-caminero-shane-mcclanahan-ryan-pepiot/"
-    },
-    {
-      "category": "Rays",
-      "description": "The baseball operations boss says the Brewers provide a model that his team should be able to follow, and there is ample reason for optimism.",
-      "published": "2026-11-03T20:23:46+00:00",
-      "title": "In reviewing Series loss, Rays’ Erik Neander says ‘best is yet to come’",
-      "url": "https://www.tampabay.com/sports/rays/2026/11/03/erik-neader-2027-outlook-world-series/"
     }
   ],
-  "generated_at": "2026-11-21T18:42:06.081957+00:00",
+  "generated_at": "2026-11-22T18:40:42.804378+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

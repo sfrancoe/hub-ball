@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "From player to scout to Astros GM, Randy Flores says firsthand experience helps him understand players — if he stays open to other perspectives.",
+      "published": "2026-11-22T04:00:00+00:00",
+      "title": "Randy Flores brings a former player’s perspective to Houston Astros GM job — and knows its limits",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/randy-flores-gm-playing-experience-22542920.php"
+    },
+    {
+      "category": "Astros",
       "description": "Houston’s outfield has more turnover ahead, and the Astros have decisions to weigh after offering contracts to six arbitration-eligible players ...",
       "published": "2026-11-20T15:17:00+00:00",
       "title": "Houston Astros part with Taylor Trammell, offer contracts to all other arbitration-eligible players",
@@ -55,16 +62,9 @@
       "published": "2026-11-11T10:46:00+00:00",
       "title": "Houston Astros new manager Brad Ausmus: Where his previous managerial stints went wrong",
       "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-history-experience-tigers-22525219.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Brad Ausmus, who played with Astros for parts of 10 seasons, is coming back as manager. He managed previously with the Tigers and Angels.",
-      "published": "2026-11-11T03:12:00+00:00",
-      "title": "Houston Astros hire former player Brad Ausmus as manager",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-hiring-22525228.php"
     }
   ],
-  "generated_at": "2026-11-22T11:48:37.843518+00:00",
+  "generated_at": "2026-11-22T18:40:46.639823+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }
