@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The shorthanded Celtics dropped three straight games for the first time all season on Saturday night.",
+        "published": "2026-11-22T06:27:42+00:00",
+        "title": "4 takeaways as Celtics lose to Kings after historically bad shooting night",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-kings-after-historically-bad-shooting-night.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Mike Conley's heroics weren't enough as the shorthanded Celtics were upset by the Kings in Sacramento.",
         "published": "2026-11-22T05:42:12+00:00",
         "title": "Mike Conley is Celtics ‘Name to Know’ Player of the Game in loss to Kings",
@@ -105,16 +112,9 @@
         "published": "2026-11-18T10:00:00+00:00",
         "title": "Celtics rookie talks making NBA debut, navigating life as pro",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-rookie-talks-making-nba-debut-navigating-life-as-pro.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Paul George played in his second back-to-back of the season, and so far, the health has continued to remain strong.",
-        "published": "2026-11-17T11:00:00+00:00",
-        "title": "Paul George delivers good news, Jayson Tatum injury update (Celtics Notebook)",
-        "url": "https://www.masslive.com/celtics/2026/11/paul-george-delivers-good-news-jayson-tatum-injury-update-celtics-notebook.html"
       }
     ],
-    "generated_at": "2026-11-22T05:55:30.589373+00:00",
+    "generated_at": "2026-11-22T06:35:45.686951+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
