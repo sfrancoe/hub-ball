@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "The Detroit Tigers signed 28-year-old right-hander Luis Gil to a one-year contract on Sunday. Gil won the AL Rookie of the Year Award in 2024.",
+      "published": "2026-11-22T13:05:00+00:00",
+      "title": "Detroit Tigers sign RHP Luis Gil to one-year deal",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/22/detroit-tigers-luis-gil-mlb-free-agency/92915409007/"
+    },
+    {
+      "category": "Tigers",
+      "description": "Are Detroit Tigers fans ready to see Tarik Skubal in another team’s uniform in the Motor City (again)? It could happen as early as April.",
+      "published": "2026-11-22T14:58:00+00:00",
+      "title": "Tarik Skubal return to Detroit as a Met: When will it happen?",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/22/tarik-skubal-reunion-detroit-tigers-new-york-mets/92917567007/"
+    },
+    {
+      "category": "Tigers",
       "description": "After making cuts early in the week, the Detroit Tigers offered contracts to 10 on Friday, Nov. 20, including veteran utility player Zach McKinstry.",
       "published": "2026-11-20T16:53:00+00:00",
       "title": "Detroit Tigers offer contracts to 10 vets at deadline",
@@ -27,16 +41,9 @@
       "published": "2026-11-17T13:41:00+00:00",
       "title": "Tigers sign veteran reliever 'we've been after for a number of years'",
       "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/17/detroit-tigers-emilio-pagn-mlb-free-agency/92829046007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "The Detroit Tigers traded Jace Jung to the Los Angeles Angels on Wednesday, Nov. 18, for cash considerations.",
-      "published": "2026-11-18T12:17:00+00:00",
-      "title": "Jace Jung traded to Angels after his old roommate makes Tigers' 40-man",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/18/detroit-tigers-trade-jace-jung-to-los-angeles-angels-for-cash/92847921007/"
     }
   ],
-  "generated_at": "2026-11-22T18:40:45.525354+00:00",
+  "generated_at": "2026-11-22T23:52:39.171441+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

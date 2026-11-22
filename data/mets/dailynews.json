@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The Mets are winners of the Skubal sweepstakes.",
+      "published": "2026-11-22T23:30:13+00:00",
+      "title": "Mets, Tarik Skubal agree to nine-year, $450 million deal: source",
+      "url": "https://www.nydailynews.com/2026/11/22/mets-tarik-skubal-agree-to-nine-year-450-million-deal-report/"
+    },
+    {
+      "category": "Mets",
       "description": "In a forward-thinking move for the Mets, the club is signing young center fielder A.J....",
       "published": "2026-11-21T20:12:08+00:00",
       "title": "Mets signing center fielder A.J. Ewing to 8-year extension: source",
@@ -132,16 +139,9 @@
       "published": "2026-10-21T22:10:22+00:00",
       "title": "Mets need better season from Devin Williams after closer’s ‘disappointing’ 2026",
       "url": "https://www.nydailynews.com/2026/10/21/mets-need-better-season-from-devin-williams-after-closers-disappointing-2026/"
-    },
-    {
-      "category": "Mets",
-      "description": "The Mets may not be playing in this year's edition of the fall classic, but...",
-      "published": "2026-10-20T23:29:28+00:00",
-      "title": "Abbey Mastracco: Brewers-Rays World Series serves as consolation prize for Mets fans",
-      "url": "https://www.nydailynews.com/2026/10/20/abbey-mastracco-brewers-rays-world-series-serves-as-consolation-prize-for-mets-fans/"
     }
   ],
-  "generated_at": "2026-11-21T23:36:18.358379+00:00",
+  "generated_at": "2026-11-22T23:52:31.819255+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

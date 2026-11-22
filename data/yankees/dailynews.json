@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "It didn't take long for Luis Gil to land on his feet.",
+      "published": "2026-11-22T21:11:51+00:00",
+      "title": "Tigers pounce on Yankees castoff Luis Gil, agree to one-year deal: source",
+      "url": "https://www.nydailynews.com/2026/11/22/tigers-pounce-on-yankees-castoff-luis-gil-agree-to-one-year-deal-source/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees have their closer locked in for 2027. Whether David Bednar sticks around beyond...",
       "published": "2026-11-21T13:00:10+00:00",
       "title": "Yankees’ Brian Cashman tight-lipped on long-terms plans for David Bednar",
@@ -132,16 +139,9 @@
       "published": "2026-11-11T01:54:17+00:00",
       "title": "Yankees could make hitting coach change with job, James Rowson still in limbo",
       "url": "https://www.nydailynews.com/2026/11/10/yankees-hitting-staff-james-rowson/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Bob Boone, a World Series-winning baseball lifer and the father of Yankees manager Aaron Boone,...",
-      "published": "2026-11-11T00:11:03+00:00",
-      "title": "Bob Boone, World Series champion and father of Yankees’ manager, dead at 78",
-      "url": "https://www.nydailynews.com/2026/11/10/bob-boone-world-series-champion-yankees-aaron-dead-phillies-angels/"
     }
   ],
-  "generated_at": "2026-11-21T18:41:58.175754+00:00",
+  "generated_at": "2026-11-22T23:52:27.362273+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

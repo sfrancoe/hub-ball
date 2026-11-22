@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "White Sox",
-      "description": "The Chicago White Sox came up short in trying to add Dustin May twice in the last year. They finally landed the right-handed starter Wednesday, signing him to a 3-year, $52.5 million deal.",
-      "published": "2026-11-19T15:07:00+00:00",
-      "title": "Chicago White Sox bank on Dustin May’s untapped upside — and recent durability — to bolster 2027 rotation",
-      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-dustin-may-upside/"
-    },
-    {
-      "category": "White Sox",
       "description": "The Chicago White Sox traded right-handers Davis Martin and Luis Castillo to the Colorado Rockies on Thursday for left-hander Sean Sullivan and minor-league catcher Douglas Veliz.",
       "published": "2026-11-19T18:32:00+00:00",
       "title": "Chicago White Sox trade pitchers Davis Martin and Luis Castillo to Colorado Rockies for pair of prospects",
@@ -27,6 +20,13 @@
       "published": "2026-11-20T17:52:00+00:00",
       "title": "Cubs claim veteran catcher Joey Bart off waivers from the White Sox",
       "url": "https://www.chicagotribune.com/2026/11/20/chicago-cubs-joey-bart-white-sox/"
+    },
+    {
+      "category": "White Sox",
+      "description": "The Chicago White Sox came up short in trying to add Dustin May twice in the last year. They finally landed the right-handed starter Wednesday, signing him to a 3-year, $52.5 million deal.",
+      "published": "2026-11-19T15:07:00+00:00",
+      "title": "Chicago White Sox bank on Dustin May’s untapped upside — and recent durability — to bolster 2027 rotation",
+      "url": "https://www.chicagotribune.com/2026/11/19/chicago-white-sox-dustin-may-upside/"
     },
     {
       "category": "White Sox",
@@ -55,23 +55,9 @@
       "published": "2026-11-16T02:00:00+00:00",
       "title": "Today in Chicago History: Holy cow! After 11 years with White Sox, broadcaster Harry Caray moves to Cubs.",
       "url": "https://www.chicagotribune.com/2026/11/16/november-16-chicago-history/"
-    },
-    {
-      "category": "White Sox",
-      "description": "The Chicago White Sox are sizing up the pitching market, evaluating some early offseason moves and keeping the momentum going after the success in 2026.",
-      "published": "2026-11-11T15:08:00+00:00",
-      "title": "3 takeaways for the Chicago White Sox at the GM meetings, including the push for starting pitching",
-      "url": "https://www.chicagotribune.com/2026/11/11/chicago-white-sox-gm-meetings-takeaways/"
-    },
-    {
-      "category": "White Sox",
-      "description": "The Chicago White Sox need starting pitching. Grant Taylor is ready to do his part as he makes the move from the bullpen.",
-      "published": "2026-11-10T15:50:00+00:00",
-      "title": "Chicago White Sox are moving Grant Taylor into the rotation, saying, ‘The time is now’",
-      "url": "https://www.chicagotribune.com/2026/11/10/chicago-white-sox-gm-meetings-grant-taylor/"
     }
   ],
-  "generated_at": "2026-11-22T18:40:44.778294+00:00",
+  "generated_at": "2026-11-22T23:52:38.446520+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/white-sox/"
 }

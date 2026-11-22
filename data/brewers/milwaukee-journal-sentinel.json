@@ -2,10 +2,24 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "Milwaukee Brewers radio announcer Josh Maurer is reportedly leaving for the lead play-by-play job with the Arizona Diamondbacks.",
+      "published": "2026-11-22T11:23:00+00:00",
+      "title": "Brewers radio announcer departs for lead job with Diamondbacks",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/22/brewers-announcer-maurer-leaving-for-diamondbacks/92914317007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Brewers fans set a new MLB record for in-venue World Series merchandise sales, overcoming the 2022 Houston Astros by 9%, according to MLB.",
       "published": "2026-11-20T03:04:00+00:00",
       "title": "Brewers fans smash MLB merchandise sales record in World Series run",
       "url": "https://www.jsonline.com/story/money/business/2026/11/20/milwaukee-brewers-fans-smash-sales-records-following-world-series-win/92859330007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Milwaukee Brewers outfielder Garrett Mitchell has a special connection to Wisconsin's type 1 diabetes community.",
+      "published": "2026-11-20T10:46:00+00:00",
+      "title": "What Brewers' Garrett Mitchell means to type 1 diabetes community",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-garrett-mitchell-type-1-diabetes-community/92726976007/"
     },
     {
       "category": "Brewers",
@@ -23,6 +37,13 @@
     },
     {
       "category": "Brewers",
+      "description": "Jake Bauers officially traded in his Brewers uniform for the Red Sox on Tuesday. Here are five takeaways from his press conference in Boston.",
+      "published": "2026-11-17T19:04:00+00:00",
+      "title": "Jake Bauers says Milwaukee 'a special place,' as he begins new chapter in Boston",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/17/jake-bauers-introductory-red-sox-press-conference/92835093007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Jake Bauers, one day after getting introduced as the newest member of the Boston Red Sox, bid farewell to Milwaukee on social media.",
       "published": "2026-11-18T08:22:00+00:00",
       "title": "Jake Bauers writes goodbye message to Milwaukee, Brewers fans",
@@ -30,17 +51,17 @@
     },
     {
       "category": "Brewers",
-      "description": "Foenem, the rapper behind the viral \"Milwaukee Brewers\" song, and Lightris and Sero, collaborators on \"Kwik Trip,\" performed at X-Ray Arcade Nov. 15.",
-      "published": "2026-11-16T05:31:00+00:00",
-      "title": "Artists behind 'Milwaukee Brewers,' 'Kwik Trip' show mileage at concert",
-      "url": "https://www.jsonline.com/story/entertainment/music/2026/11/16/artists-behind-milwaukee-brewers-kwik-trip-show-mileage-at-concert/92628365007/"
-    },
-    {
-      "category": "Brewers",
       "description": "Ken \"Bulldog\" Sanders, a standout on the first three Milwaukee Brewers teams who stayed in the area after his playing days, died at 85.",
       "published": "2026-11-16T20:03:00+00:00",
       "title": "Brewers' first great relief pitcher, Ken Sanders, dies at 85",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/ken-sanders-reliever-brewers-dies/92813417007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Foenem, the rapper behind the viral \"Milwaukee Brewers\" song, and Lightris and Sero, collaborators on \"Kwik Trip,\" performed at X-Ray Arcade Nov. 15.",
+      "published": "2026-11-16T05:31:00+00:00",
+      "title": "Artists behind 'Milwaukee Brewers,' 'Kwik Trip' show mileage at concert",
+      "url": "https://www.jsonline.com/story/entertainment/music/2026/11/16/artists-behind-milwaukee-brewers-kwik-trip-show-mileage-at-concert/92628365007/"
     },
     {
       "category": "Brewers",
@@ -62,30 +83,9 @@
       "published": "2026-11-16T08:52:00+00:00",
       "title": "What to know about new Milwaukee Brewers pitcher Ryan Walker",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/brewers-ryan-walker-what-to-know-about-him/92808200007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Milwaukee Brewers Pat Murphy is going to give fans a peak inside his manager-of-the-year brain with a stop at the Miller High Life Theater on Jan. 31.",
-      "published": "2026-11-16T14:03:00+00:00",
-      "title": "Brewers manager Pat Murphy headlining Miller High Life Theater Jan. 31",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/16/brewers-manager-pat-murphy-headlining-miller-high-life-theater-jan-31/92816510007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "May and the White Sox are in agreement on a three-year, $52.5 million deal, bringing the fireballing right-handed pitcher into a Chicago pitching staff that desperately needs more length and shutdown ...",
-      "published": "2026-11-17T09:16:00+00:00",
-      "title": "Dustin May agrees to $52 million deal with White Sox as Brewers get raided again",
-      "url": "https://www.jsonline.com/story/sports/mlb/2026/11/17/dustin-may-contract-white-sox/92826140007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Expanded playoffs and gambling are changing how we feel about sports. The magic of what the Brewers did is fading with the mediocrity that remains.",
-      "published": "2026-11-17T11:17:00+00:00",
-      "title": "Brewers World Series hangover? Nah, it’s my ‘meh’ response to mediocrity | Lori Nickel",
-      "url": "https://www.jsonline.com/story/sports/2026/11/17/brewers-world-series-hangover-nah-its-my-meh-response-to-mediocrity/92815796007/"
     }
   ],
-  "generated_at": "2026-11-22T18:40:50.953161+00:00",
+  "generated_at": "2026-11-22T23:52:44.368462+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

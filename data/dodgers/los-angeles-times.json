@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "Free-agent Tarik Skubal plans to sign with the Mets, agreeing to a nine-year, $450-million contract. It is the largest for a pitcher in MLB history.",
+      "published": "2026-11-22T14:43:00+00:00",
+      "title": "Tarik Skubal moves on from the Dodgers, agrees to record $450-million deal with Mets",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-22/tarik-skubal-moves-on-dodgers-agrees-deal"
+    },
+    {
+      "category": "Dodgers",
       "description": "L.A. Councilmember Eunisses Hernandez is calling on Gov. Gavin Newsom to set an example and fight a proposed Dodger Stadium gondola project.",
       "published": "2026-11-19T18:41:00+00:00",
       "title": "How Newsom got caught up in crossfire over proposed Dodger Stadium gondola",
@@ -29,7 +36,7 @@
       "url": "https://www.latimes.com/sports/story/2026-11-21/la-times-sports-letters-usc-lincoln-riley-dodgers-lakers"
     }
   ],
-  "generated_at": "2026-11-22T18:40:52.769702+00:00",
+  "generated_at": "2026-11-22T23:52:46.127590+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }
