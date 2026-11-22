@@ -1,83 +1,26 @@
 {
-  "generated_at": "2026-11-21T04:05:02.173911+00:00",
+  "generated_at": "2026-11-22T04:05:07.019938+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Brewers",
   "team_id": "8",
   "sport": "mlb",
-  "likes_as_of": "2026-11-21T04:05:02.173911+00:00",
+  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
   "recent": [
     {
       "id": "2123914352168169572",
       "text": "We've made the following transactions https://t.co/l5KBt0l88m",
       "url": "https://x.com/Brewers/status/2123914352168169572",
       "published": "2026-11-20T23:00:16+00:00",
-      "likes": 1721,
+      "likes": 2228,
       "author": "Milwaukee Brewers",
       "handle": "Brewers",
       "avatar": "https://pbs.twimg.com/profile_images/2115706254546915328/fTKOK4v2_normal.jpg",
       "media": "https://pbs.twimg.com/media/HXmo2PiXUAA7MNv.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123627109415260615",
-      "text": "RT @Bucks: Mr. Back-to-Back-to-Back. https://t.co/EM5izRuQBt",
-      "url": "https://x.com/Brewers/status/2123627109415260615",
-      "published": "2026-11-20T03:58:52+00:00",
-      "likes": 0,
-      "author": "Milwaukee Brewers",
-      "handle": "Brewers",
-      "avatar": "https://pbs.twimg.com/profile_images/2115706254546915328/fTKOK4v2_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2123601635003805697/img/eQzOBwC6m7BNR0Ql.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123627095356228007",
-      "text": "RT @Bucks: 3x NL Manager of the Year Pat Murphy in the house! https://t.co/lgnO3jCVmi",
-      "url": "https://x.com/Brewers/status/2123627095356228007",
-      "published": "2026-11-20T03:58:49+00:00",
-      "likes": 0,
-      "author": "Milwaukee Brewers",
-      "handle": "Brewers",
-      "avatar": "https://pbs.twimg.com/profile_images/2115706254546915328/fTKOK4v2_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXiE0aOXEAATCRc.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123569485818794271",
-      "text": "This is our masterpiece 🎬 Now presenting the 2026 World Series in cinema form 🎥 https://t.co/etnZFLJSm8",
-      "url": "https://x.com/Brewers/status/2123569485818794271",
-      "published": "2026-11-20T00:09:54+00:00",
-      "likes": 7074,
-      "author": "Milwaukee Brewers",
-      "handle": "Brewers",
-      "avatar": "https://pbs.twimg.com/profile_images/2115706254546915328/fTKOK4v2_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2123566653136883712/img/MwzXTDdjyP8eMQwr.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2123914352168169572",
-      "text": "We've made the following transactions https://t.co/l5KBt0l88m",
-      "url": "https://x.com/Brewers/status/2123914352168169572",
-      "published": "2026-11-20T23:00:16+00:00",
-      "likes": 1721,
-      "author": "Milwaukee Brewers",
-      "handle": "Brewers",
-      "avatar": "https://pbs.twimg.com/profile_images/2115706254546915328/fTKOK4v2_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXmo2PiXUAA7MNv.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

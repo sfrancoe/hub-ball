@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-21T04:05:02.173911+00:00",
+  "generated_at": "2026-11-22T04:05:07.019938+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dbacks",
   "team_id": "29",
   "sport": "mlb",
-  "likes_as_of": "2026-11-21T04:05:02.173911+00:00",
+  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
   "recent": [
     {
       "id": "2123925985565536633",
       "text": "We have made the following trade: https://t.co/iXkrXCVY18",
       "url": "https://x.com/Dbacks/status/2123925985565536633",
       "published": "2026-11-20T23:46:30+00:00",
-      "likes": 411,
+      "likes": 523,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "We have made the following roster moves: https://t.co/iG03AEIyN3",
       "url": "https://x.com/Dbacks/status/2123917931621048522",
       "published": "2026-11-20T23:14:30+00:00",
-      "likes": 363,
+      "likes": 457,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -40,72 +40,15 @@
       "text": "Chopping it up with Chris G and Corbin C. Watch the exclusive interview: https://t.co/uJcvREQb06 https://t.co/zH8jl7iszE",
       "url": "https://x.com/Dbacks/status/2123854212367065240",
       "published": "2026-11-20T19:01:18+00:00",
-      "likes": 177,
+      "likes": 199,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
       "media": "https://pbs.twimg.com/media/HXlopnxbcAAhwxX.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123589818655600766",
-      "text": "the cat distribution system has a funny way of finding you Watch the full sit down with Corbin Carroll now on YouTube. https://t.co/6k1jB43Cc4",
-      "url": "https://x.com/Dbacks/status/2123589818655600766",
-      "published": "2026-11-20T01:30:41+00:00",
-      "likes": 229,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXh6UKobYAAiRiY.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2123925985565536633",
-      "text": "We have made the following trade: https://t.co/iXkrXCVY18",
-      "url": "https://x.com/Dbacks/status/2123925985565536633",
-      "published": "2026-11-20T23:46:30+00:00",
-      "likes": 411,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXmygXVa4AANTD2.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123917931621048522",
-      "text": "We have made the following roster moves: https://t.co/iG03AEIyN3",
-      "url": "https://x.com/Dbacks/status/2123917931621048522",
-      "published": "2026-11-20T23:14:30+00:00",
-      "likes": 363,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXmqsJSaYAAIRTg.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123854212367065240",
-      "text": "Chopping it up with Chris G and Corbin C. Watch the exclusive interview: https://t.co/uJcvREQb06 https://t.co/zH8jl7iszE",
-      "url": "https://x.com/Dbacks/status/2123854212367065240",
-      "published": "2026-11-20T19:01:18+00:00",
-      "likes": 177,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXlopnxbcAAhwxX.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

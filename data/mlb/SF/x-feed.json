@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-21T04:05:02.173911+00:00",
+  "generated_at": "2026-11-22T04:05:07.019938+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/SFGiants",
   "team_id": "26",
   "sport": "mlb",
-  "likes_as_of": "2026-11-21T04:05:02.173911+00:00",
+  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
   "recent": [
     {
       "id": "2123949525849231366",
       "text": "Additional #SFGiants roster moves: - Non-tendered RHP Rowan Wick and OF Victor Bericoto. - Arbitration eligible players LHP Sam Hentges, RHP Randy Rodriguez and IF Casey Schmitt have all been tendered contracts. - Additionally, the Giants and RHP Camilo Doval have agreed to terms",
       "url": "https://x.com/SFGiants/status/2123949525849231366",
       "published": "2026-11-21T01:20:02+00:00",
-      "likes": 348,
+      "likes": 533,
       "author": "SFGiants",
       "handle": "SFGiants",
       "avatar": "https://pbs.twimg.com/profile_images/2111137933109633024/BFxztRBe_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "The #SFGiants and the Rays completed a trade today with RHP Cole Stokes joining the Giants organization in exchange for IF Christian Koss.",
       "url": "https://x.com/SFGiants/status/2123914698785804488",
       "published": "2026-11-20T23:01:39+00:00",
-      "likes": 650,
+      "likes": 762,
       "author": "SFGiants",
       "handle": "SFGiants",
       "avatar": "https://pbs.twimg.com/profile_images/2111137933109633024/BFxztRBe_normal.jpg",
@@ -36,34 +36,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2123914698785804488",
-      "text": "The #SFGiants and the Rays completed a trade today with RHP Cole Stokes joining the Giants organization in exchange for IF Christian Koss.",
-      "url": "https://x.com/SFGiants/status/2123914698785804488",
-      "published": "2026-11-20T23:01:39+00:00",
-      "likes": 650,
-      "author": "SFGiants",
-      "handle": "SFGiants",
-      "avatar": "https://pbs.twimg.com/profile_images/2111137933109633024/BFxztRBe_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123949525849231366",
-      "text": "Additional #SFGiants roster moves: - Non-tendered RHP Rowan Wick and OF Victor Bericoto. - Arbitration eligible players LHP Sam Hentges, RHP Randy Rodriguez and IF Casey Schmitt have all been tendered contracts. - Additionally, the Giants and RHP Camilo Doval have agreed to terms",
-      "url": "https://x.com/SFGiants/status/2123949525849231366",
-      "published": "2026-11-21T01:20:02+00:00",
-      "likes": 348,
-      "author": "SFGiants",
-      "handle": "SFGiants",
-      "avatar": "https://pbs.twimg.com/profile_images/2111137933109633024/BFxztRBe_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

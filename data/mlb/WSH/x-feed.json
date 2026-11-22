@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-21T04:05:02.173911+00:00",
+  "generated_at": "2026-11-22T04:05:07.019938+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Nationals",
   "team_id": "20",
   "sport": "mlb",
-  "likes_as_of": "2026-11-21T04:05:02.173911+00:00",
+  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
   "recent": [
+    {
+      "id": "2124155889535860939",
+      "text": "RISE UP https://t.co/CyTuAlEWER",
+      "url": "https://x.com/Nationals/status/2124155889535860939",
+      "published": "2026-11-21T15:00:03+00:00",
+      "likes": 336,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HXf_4K1XkAAgX1A.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2123828386413887752",
       "text": "RT @natspup_: pj next time pleas @nationals https://t.co/tKDe6IRXPd",
@@ -24,15 +38,15 @@
   ],
   "popular": [
     {
-      "id": "2123828386413887752",
-      "text": "RT @natspup_: pj next time pleas @nationals https://t.co/tKDe6IRXPd",
-      "url": "https://x.com/Nationals/status/2123828386413887752",
-      "published": "2026-11-20T17:18:40+00:00",
-      "likes": 0,
+      "id": "2124155889535860939",
+      "text": "RISE UP https://t.co/CyTuAlEWER",
+      "url": "https://x.com/Nationals/status/2124155889535860939",
+      "published": "2026-11-21T15:00:03+00:00",
+      "likes": 336,
       "author": "Washington Nationals",
       "handle": "Nationals",
       "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXlaKwYWIAACNvl.jpg",
+      "media": "https://pbs.twimg.com/media/HXf_4K1XkAAgX1A.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
