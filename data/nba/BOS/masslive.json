@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "BetMGM has the Celtics as 8.5-point favorites at Golden State on Sunday night. Odds, betting trends, injury news and a best bet for Celtics vs. Warriors.",
+        "published": "2026-11-22T22:33:23+00:00",
+        "title": "Celtics vs. Warriors predictions: Odds and best bet as Boston tries to snap a three-game skid",
+        "url": "https://www.masslive.com/betting/2026/11/celtics-vs-warriors-predictions-odds-and-best-bet-as-boston-tries-to-snap-a-three-game-skid.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics will be shorthanded down two contributors as they try to snap a three-game losing streak.",
         "published": "2026-11-22T21:01:37+00:00",
         "title": "Celtics injury report: Paul George downgraded for Warriors game",
@@ -24,17 +31,17 @@
       },
       {
         "category": "Boston Celtics",
-        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
-        "published": "2026-11-22T10:00:00+00:00",
-        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
-        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "Random thoughts about (mostly) sports topics.",
         "published": "2026-11-22T10:00:00+00:00",
         "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
         "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
+        "published": "2026-11-22T10:00:00+00:00",
+        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
+        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
       },
       {
         "category": "Boston Celtics",
@@ -105,16 +112,9 @@
         "published": "2026-11-19T10:45:00+00:00",
         "title": "Celtics rookie creates fascinating conundrum for Joe Mazzulla after Nuggets loss",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-rookie-creates-fascinating-conundrum-for-joe-mazzulla-after-nuggets-loss.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum was called for a technical foul with 6.4 seconds left in the Celtics' loss to the Nuggets, which essentially ended the game.",
-        "published": "2026-11-19T10:00:00+00:00",
-        "title": "Did Jayson Tatum deserve controversial tech? What we learned from Celtics’ loss to Nuggets",
-        "url": "https://www.masslive.com/celtics/2026/11/did-jayson-tatum-deserve-controversial-tech-what-we-learned-from-celtics-loss-to-nuggets.html"
       }
     ],
-    "generated_at": "2026-11-22T22:31:46.546771+00:00",
+    "generated_at": "2026-11-22T22:41:51.200730+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
