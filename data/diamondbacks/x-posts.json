@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:28:16.996102+00:00",
+  "generated_at": "2026-11-22T07:05:01.567956+00:00",
   "source": "X",
   "source_url": "https://x.com/Dbacks",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "We have made the following trade: https://t.co/iXkrXCVY18",
       "url": "https://x.com/Dbacks/status/2123925985565536633",
       "published": "2026-11-20T23:46:30+00:00",
-      "likes": 506,
+      "likes": 528,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "We have made the following roster moves: https://t.co/iG03AEIyN3",
       "url": "https://x.com/Dbacks/status/2123917931621048522",
       "published": "2026-11-20T23:14:30+00:00",
-      "likes": 436,
+      "likes": 460,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -36,7 +36,7 @@
       "text": "Chopping it up with Chris G and Corbin C. Watch the exclusive interview: https://t.co/uJcvREQb06 https://t.co/zH8jl7iszE",
       "url": "https://x.com/Dbacks/status/2123854212367065240",
       "published": "2026-11-20T19:01:18+00:00",
-      "likes": 195,
+      "likes": 200,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -46,34 +46,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2123925985565536633",
-      "text": "We have made the following trade: https://t.co/iXkrXCVY18",
-      "url": "https://x.com/Dbacks/status/2123925985565536633",
-      "published": "2026-11-20T23:46:30+00:00",
-      "likes": 506,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXmygXVa4AANTD2.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123917931621048522",
-      "text": "We have made the following roster moves: https://t.co/iG03AEIyN3",
-      "url": "https://x.com/Dbacks/status/2123917931621048522",
-      "published": "2026-11-20T23:14:30+00:00",
-      "likes": 436,
-      "author": "Arizona Diamondbacks",
-      "handle": "Dbacks",
-      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXmqsJSaYAAIRTg.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

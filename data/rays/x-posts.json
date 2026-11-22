@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:24:23.157829+00:00",
+  "generated_at": "2026-11-22T07:05:01.562548+00:00",
   "source": "X",
   "source_url": "https://x.com/RaysBaseball",
   "recent": [
@@ -18,20 +18,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2123916002396410354",
-      "text": "RT @RaysPR: The Tampa Bay Rays have non-tendered RHP Cole Sulser. Additionally, the Rays have acquired INF Christian Koss from the San Fran…",
-      "url": "https://x.com/RaysBaseball/status/2123916002396410354",
-      "published": "2026-11-20T23:06:50+00:00",
-      "likes": 0,
-      "author": "Tampa Bay Rays",
-      "handle": "RaysBaseball",
-      "avatar": "https://pbs.twimg.com/profile_images/2115827526450741248/_YCdUPdx_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
