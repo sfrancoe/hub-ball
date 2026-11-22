@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Celtics at Warriors | 8:30 p.m. (NBC Sports Boston)",
+        "description": "The Celtics suffered a stunning loss in Sacramento last time out.",
+        "published": "2026-11-22T17:40:18.031Z",
+        "title": "Celtics at Warriors: Boston looks to rebound after last-second loss",
+        "url": "https://www.bostonglobe.com/2026/11/22/sports/celtics-warriors-preview-november-22/"
+      },
+      {
         "category": "KINGS 97, CELTICS 96",
         "description": "A 13-point halftime lead turned into a 9-point deficit after three quarters and, despite a heroic effort from Mike Conley Jr., Boston lost a shocker.",
         "published": "2026-11-22T08:40:45.059Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-16T01:16:09.494Z",
         "title": "The Celtics got out to a 42-9 start vs. the Mavericks and never looked back in lopsided win",
         "url": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-cooper-flagg/"
-      },
-      {
-        "category": "mavericks at celtics | 6 p.m. (NBCSB)",
-        "description": "The Celtics are coming off a victory Friday in Toronto and play their first home game following a 4-0 road trip.",
-        "published": "2026-11-15T13:24:38.394Z",
-        "title": "Mavericks at Celtics preview: Cooper Flagg and Dallas look to end Boston’s five-game winning streak",
-        "url": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-preview-for-november-15-2026/"
       }
     ],
-    "generated_at": "2026-11-22T08:46:30.736223+00:00",
+    "generated_at": "2026-11-22T17:49:46.961829+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
