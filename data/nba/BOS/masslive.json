@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Mike Conley's heroics weren't enough as the shorthanded Celtics were upset by the Kings in Sacramento.",
+        "published": "2026-11-22T05:42:12+00:00",
+        "title": "Mike Conley is Celtics ‘Name to Know’ Player of the Game in loss to Kings",
+        "url": "https://www.masslive.com/celtics/2026/11/mike-conley-is-celtics-name-to-know-player-of-the-game-in-loss-to-kings.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics will be without three of their rotation players as they look to snap a two-game losing streak.",
         "published": "2026-11-21T20:52:54+00:00",
         "title": "Jayson Tatum, Mitchell Robinson downgraded for Kings game Saturday",
@@ -105,16 +112,9 @@
         "published": "2026-11-17T11:00:00+00:00",
         "title": "Paul George delivers good news, Jayson Tatum injury update (Celtics Notebook)",
         "url": "https://www.masslive.com/celtics/2026/11/paul-george-delivers-good-news-jayson-tatum-injury-update-celtics-notebook.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Chris Cenac Jr. showed a glimpse of his potential in his minutes against the Magic on Monday night.",
-        "published": "2026-11-17T10:45:00+00:00",
-        "title": "Celtics rookie gets unexpected opportunity in Magic loss: ‘He stepped up’",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-rookie-gets-unexpected-opportunity-in-magic-win-he-stepped-up.html"
       }
     ],
-    "generated_at": "2026-11-22T05:25:21.281444+00:00",
+    "generated_at": "2026-11-22T05:55:30.589373+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },

@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics got an unlikely performance from a seldom-used role player, but they crumbled in the second half to the lowly Kings.",
+        "published": "2026-11-22T05:53:49Z",
+        "title": "Celtics waste guard’s unlikely performance in embarrassing loss to lowly Kings",
+        "url": "https://www.bostonherald.com/2026/11/22/celtics-waste-guards-unlikely-performance-in-embarrassing-loss-to-lowly-kings/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "So *that* is why Celtics players are so high on Chris Cenac Jr.",
         "published": "2026-11-19T18:22:52Z",
         "title": "Celtics’ ‘really versatile’ rookie makes case for regular role in breakout game",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T10:00:00Z",
         "title": "Why Paul George flipped off 76ers fan during Celtics win",
         "url": "https://www.bostonherald.com/2026/11/11/why-paul-george-flipped-off-76ers-fan-during-celtics-win/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "In the wildly anticipated first battle between Jayson Tatum and Jaylen Brown, Paul George upstaged them both as the Celtics rolled to a 123-101 win.",
-        "published": "2026-11-11T03:30:51Z",
-        "title": "Paul George, Jayson Tatum outplay Jaylen Brown as Celtics wreck 76ers",
-        "url": "https://www.bostonherald.com/2026/11/10/paul-george-jayson-tatum-outplay-jaylen-brown-as-celtics-wreck-76ers/"
       }
     ],
-    "generated_at": "2026-11-19T18:25:05.762512+00:00",
+    "generated_at": "2026-11-22T05:55:30.132899+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
