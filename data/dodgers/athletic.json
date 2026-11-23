@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "Skubal taking a record contract from the Mets represents a rare example of the Dodgers missing out on their top target.",
+      "published": "2026-11-22T17:02:00+00:00",
+      "title": "The Dodgers almost always get their way. Then Tarik Skubal signed with the Mets",
+      "url": "https://www.nytimes.com/athletic/7804227/2026/11/22/dodgers-tarik-skubal-mets-signing/"
+    },
+    {
+      "category": "Dodgers",
       "description": "Had the Dodgers and the Twins linked up on this deal in 2023, it would have been an absolute blockbuster. Lewis was coming off a 58-game cameo in the majors with 15 homers and a .921 OPS. Miller was ...",
       "published": "2026-11-19T16:00:00+00:00",
       "title": "Dodgers get Royce Lewis in swap with Twins that’s all about upside: MLB trade grades",
@@ -13,23 +20,9 @@
       "published": "2026-11-20T18:10:00+00:00",
       "title": "The Twins value stuff over command. Bobby Miller is the latest example of that",
       "url": "https://www.nytimes.com/athletic/7799292/2026/11/20/bobby-miller-twins-dodgers-trade-analysis/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "Alex Call's major-league experience provides the Dodgers with a level of insurance as they figure out their outfield. Jesse Johnson / Imagn Images The Los Angeles Dodgers welcomed one former top ...",
-      "published": "2026-11-19T16:00:00+00:00",
-      "title": "Dodgers keep non-tender candidate Alex Call on deadline day",
-      "url": "https://www.nytimes.com/athletic/7799323/2026/11/20/dodgers-alex-call-mlb-free-agency/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "De Paula, who is represented by Boras Corp., plans to work with players from his agency throughout the winter. The Dodgers have no qualms about De Paula’s work ethic or his commitment to improving.",
-      "published": "2026-11-11T05:59:00+00:00",
-      "title": "What I’m hearing about the Dodgers’ plans for Tarik Skubal, Josue De Paula and more",
-      "url": "https://www.nytimes.com/athletic/7772042/2026/11/11/dodgers-mlb-tarik-skubal-josue-de-paula/"
     }
   ],
-  "generated_at": "2026-11-22T23:52:46.319882+00:00",
+  "generated_at": "2026-11-23T04:47:44.694720+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }
