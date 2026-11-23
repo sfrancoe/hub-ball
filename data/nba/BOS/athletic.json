@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "With the holiday near, let’s pause and acknowledge what each team has provided a month into the season.",
+        "published": "2026-11-23T16:20:35+00:00",
+        "title": "NBA Power Rankings: Karl-Anthony Towns, Knicks have much to be thankful for",
+        "url": "https://www.nytimes.com/athletic/7806039/2026/11/23/nba-power-rankings-knicks-sixers-spurs-lakers/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics last lost four consecutive games back in May 2021. They know they need to figure out their issues soon.",
         "published": "2026-11-23T12:00:52+00:00",
         "title": "Celtics at a loss as they lose fourth straight: 'We're in a team-wide funk right now'",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T10:05:01+00:00",
         "title": "How Jaylen Brown and Jayson Tatum’s Celtics partnership quietly unraveled",
         "url": "https://www.nytimes.com/athletic/7761461/2026/11/09/jaylen-brown-jayson-tatum-celtics-partnership-unraveling/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "\"We're playing basketball. Both of us are trying to win, so it's nothing to talk about. Just check the ball up,\" Brown said of Tatum.",
-        "published": "2026-11-09T02:04:59+00:00",
-        "title": "Jaylen Brown on Jayson Tatum before 76ers-Celtics clash: 'He's on his side; I'm on mine'",
-        "url": "https://www.nytimes.com/athletic/7766202/2026/11/08/jaylen-brown-jayson-tatum-76ers-celtics-beef-lamb-chops/"
       }
     ],
-    "generated_at": "2026-11-23T12:06:32.552800+00:00",
+    "generated_at": "2026-11-23T16:28:08.835675+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
