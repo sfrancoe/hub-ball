@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T04:05:07.019938+00:00",
+  "generated_at": "2026-11-23T05:25:02.528171+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Cubs",
   "team_id": "16",
   "sport": "mlb",
-  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
+  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
   "recent": [
     {
       "id": "2124244500847468885",
@@ -26,7 +26,7 @@
       "text": "The Cubs announced the following roster moves in conjunction with today’s deadline to tender/non-tender 2027 contracts for unsigned players on their 40-man roster: https://t.co/nagyJPZQ1O",
       "url": "https://x.com/Cubs/status/2123937951570948486",
       "published": "2026-11-21T00:34:03+00:00",
-      "likes": 904,
+      "likes": 940,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -40,7 +40,7 @@
       "text": "Unapologetically Pete. Thanks for tuning in to celebrate our MVP. https://t.co/48TYoxZJ0Y",
       "url": "https://x.com/Cubs/status/2123903735776825834",
       "published": "2026-11-20T22:18:05+00:00",
-      "likes": 4303,
+      "likes": 4535,
       "author": "Chicago Cubs",
       "handle": "Cubs",
       "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
@@ -50,20 +50,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2124244500847468885",
-      "text": "RT @LyricaLemonade: we tricked pete crow-armstrong into starring in his own MVP announcement 🍋⚾️ https://t.co/KlqtieDSpo",
-      "url": "https://x.com/Cubs/status/2124244500847468885",
-      "published": "2026-11-21T20:52:10+00:00",
-      "likes": 0,
-      "author": "Chicago Cubs",
-      "handle": "Cubs",
-      "avatar": "https://pbs.twimg.com/profile_images/2105644976331780096/xSR-IbHD_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2124017780412370944/img/qYJz5yMG1kqSNtpL.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

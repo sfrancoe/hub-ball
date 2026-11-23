@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-22T04:05:07.019938+00:00",
+  "generated_at": "2026-11-23T05:25:02.528171+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Phillies",
   "team_id": "22",
   "sport": "mlb",
-  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
+  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
   "recent": [
     {
       "id": "2124174935769919744",
       "text": "Sending good luck to @PhilaUnion as the MLS Cup Playoffs kick off today! https://t.co/tfAEPxvGcf",
       "url": "https://x.com/Phillies/status/2124174935769919744",
       "published": "2026-11-21T16:15:44+00:00",
-      "likes": 501,
+      "likes": 545,
       "author": "Philadelphia Phillies",
       "handle": "Phillies",
       "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "The Phillies made the following roster moves today: Acquired right-handed pitcher Jordan Leasure from the Chicago White Sox in exchange for right-handed pitcher Christian Coppola and agreed to terms with Leasure on a contract for the 2027 season Agreed to terms on contracts for",
       "url": "https://x.com/Phillies/status/2123907295415312798",
       "published": "2026-11-20T22:32:14+00:00",
-      "likes": 929,
+      "likes": 947,
       "author": "Philadelphia Phillies",
       "handle": "Phillies",
       "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
@@ -50,20 +50,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2124174935769919744",
-      "text": "Sending good luck to @PhilaUnion as the MLS Cup Playoffs kick off today! https://t.co/tfAEPxvGcf",
-      "url": "https://x.com/Phillies/status/2124174935769919744",
-      "published": "2026-11-21T16:15:44+00:00",
-      "likes": 501,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXqVj3fX0AEp2lP.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

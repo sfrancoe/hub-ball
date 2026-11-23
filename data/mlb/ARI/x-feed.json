@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-22T04:05:07.019938+00:00",
+  "generated_at": "2026-11-23T05:25:02.528171+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dbacks",
   "team_id": "29",
   "sport": "mlb",
-  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
+  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
   "recent": [
+    {
+      "id": "2124631954830287289",
+      "text": "The deception from Corbin was crazy 😭 https://t.co/v0wXDw7aTi",
+      "url": "https://x.com/Dbacks/status/2124631954830287289",
+      "published": "2026-11-22T22:31:46+00:00",
+      "likes": 184,
+      "author": "Arizona Diamondbacks",
+      "handle": "Dbacks",
+      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2124549799206879232/img/Q9LNjF-ImTiw_PQe.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2123925985565536633",
       "text": "We have made the following trade: https://t.co/iXkrXCVY18",
       "url": "https://x.com/Dbacks/status/2123925985565536633",
       "published": "2026-11-20T23:46:30+00:00",
-      "likes": 523,
+      "likes": 544,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -26,7 +40,7 @@
       "text": "We have made the following roster moves: https://t.co/iG03AEIyN3",
       "url": "https://x.com/Dbacks/status/2123917931621048522",
       "published": "2026-11-20T23:14:30+00:00",
-      "likes": 457,
+      "likes": 479,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -40,7 +54,7 @@
       "text": "Chopping it up with Chris G and Corbin C. Watch the exclusive interview: https://t.co/uJcvREQb06 https://t.co/zH8jl7iszE",
       "url": "https://x.com/Dbacks/status/2123854212367065240",
       "published": "2026-11-20T19:01:18+00:00",
-      "likes": 199,
+      "likes": 203,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
@@ -50,5 +64,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2124631954830287289",
+      "text": "The deception from Corbin was crazy 😭 https://t.co/v0wXDw7aTi",
+      "url": "https://x.com/Dbacks/status/2124631954830287289",
+      "published": "2026-11-22T22:31:46+00:00",
+      "likes": 184,
+      "author": "Arizona Diamondbacks",
+      "handle": "Dbacks",
+      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2124549799206879232/img/Q9LNjF-ImTiw_PQe.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

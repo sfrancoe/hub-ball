@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-11-22T15:20:02.801604+00:00",
+  "generated_at": "2026-11-23T07:00:02.631091+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450347437457646",
   "team_id": "30",
   "sport": "nba",
-  "likes_as_of": "2026-11-22T15:20:02.801604+00:00",
+  "likes_as_of": "2026-11-23T07:00:02.631091+00:00",
   "recent": [
+    {
+      "id": "2124625376739487801",
+      "text": "Grant Williams missing two games in a row, which aren’t back to backs, with right hamstring management is peculiar.",
+      "url": "https://x.com/British_Buzz/status/2124625376739487801",
+      "published": "2026-11-22T22:05:38+00:00",
+      "likes": 49,
+      "author": "James Plowright",
+      "handle": "British_Buzz",
+      "avatar": "https://pbs.twimg.com/profile_images/1369951238620667904/ndXDs1J__normal.jpg",
+      "media": "",
+      "quoted_text": "INJURY UPDATE: @hornets vs MEM 11/23 Allen (concussion), Knueppel (L Hamstring), Schroder (L Hamstring), and Williams (R Hamstring Injury Management) are all out Miller (R Knee Contusion) is probable",
+      "quoted_author": "Charlotte Hornets PR",
+      "quoted_handle": "HornetsPR"
+    },
+    {
+      "id": "2124544277871317126",
+      "text": "Thoughts are going out to all those who join me in suffering for following both Man Utd and the Charlotte Hornets. Nobody feels pain like this",
+      "url": "https://x.com/British_Buzz/status/2124544277871317126",
+      "published": "2026-11-22T16:43:22+00:00",
+      "likes": 27,
+      "author": "James Plowright",
+      "handle": "British_Buzz",
+      "avatar": "https://pbs.twimg.com/profile_images/1369951238620667904/ndXDs1J__normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124130808839762196",
       "text": "NEW | Hornets Eliminated from NBA Cup Join @richierandall and @malquiza8 for this postgame episode. They provide context on: - Naz Reid’s struggles - Diabaté’s short-roll passing - Coby White’s inconsistent play LISTEN (42 min): https://t.co/PQR6xOmIIx https://t.co/HKzoMG3Sdp",
@@ -230,21 +258,36 @@
       "quoted_text": ".@hornets' Coby White to @FadeawayWorld on Kon Knueppel: \"He’s just a type of dude that is always engaged & always locked in. He’s always trying to find ways to get better. Even when he’s been out, I’ve seen him pregame watching film with some of the guys.\" https://t.co/k0g37CDXxR",
       "quoted_author": "Mark Medina",
       "quoted_handle": "MarkG_Medina"
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2122720227943469358",
-      "text": "Charlotte are the number one ranked defensive and offensive rebounding team in the NBA according to Cleaning the Glass, and that’s without playing rebounding monster Hannes Steinbach Promising underlying numbers, they just can’t throw the ball in the ocean right now. https://t.co/sMqGP3vYRY",
-      "url": "https://x.com/British_Buzz/status/2122720227943469358",
-      "published": "2026-11-17T15:55:15+00:00",
-      "likes": 34,
+      "id": "2124625376739487801",
+      "text": "Grant Williams missing two games in a row, which aren’t back to backs, with right hamstring management is peculiar.",
+      "url": "https://x.com/British_Buzz/status/2124625376739487801",
+      "published": "2026-11-22T22:05:38+00:00",
+      "likes": 49,
       "author": "James Plowright",
       "handle": "British_Buzz",
       "avatar": "https://pbs.twimg.com/profile_images/1369951238620667904/ndXDs1J__normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXVqyyTWMAAOEY_.jpg",
+      "media": "",
+      "quoted_text": "INJURY UPDATE: @hornets vs MEM 11/23 Allen (concussion), Knueppel (L Hamstring), Schroder (L Hamstring), and Williams (R Hamstring Injury Management) are all out Miller (R Knee Contusion) is probable",
+      "quoted_author": "Charlotte Hornets PR",
+      "quoted_handle": "HornetsPR"
+    },
+    {
+      "id": "2124544277871317126",
+      "text": "Thoughts are going out to all those who join me in suffering for following both Man Utd and the Charlotte Hornets. Nobody feels pain like this",
+      "url": "https://x.com/British_Buzz/status/2124544277871317126",
+      "published": "2026-11-22T16:43:22+00:00",
+      "likes": 27,
+      "author": "James Plowright",
+      "handle": "British_Buzz",
+      "avatar": "https://pbs.twimg.com/profile_images/1369951238620667904/ndXDs1J__normal.jpg",
+      "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }

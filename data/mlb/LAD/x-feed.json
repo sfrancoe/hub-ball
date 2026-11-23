@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-22T04:05:07.019938+00:00",
+  "generated_at": "2026-11-23T05:25:02.528171+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dodgers",
   "team_id": "19",
   "sport": "mlb",
-  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
+  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
   "recent": [
     {
       "id": "2124301872714707255",
       "text": "Congratulations Dave on receiving the prestigious Fire in the Gut Award from the Navy Seal Foundation! The award honors individuals that show exceptional grit, selfless leadership and resilience in adversity. https://t.co/ciuu6bcxdj",
       "url": "https://x.com/Dodgers/status/2124301872714707255",
       "published": "2026-11-22T00:40:08+00:00",
-      "likes": 927,
+      "likes": 1361,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "The Dodgers acquired IF Royce Lewis from the Minnesota Twins in exchange for RHP Bobby Miller and catcher Francisco Espinoza.",
       "url": "https://x.com/Dodgers/status/2123922042504556837",
       "published": "2026-11-20T23:30:50+00:00",
-      "likes": 3290,
+      "likes": 3495,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -40,7 +40,7 @@
       "text": "Give Me the Ball! Don’t miss @BillieJeanKing’s documentary premiering on ESPN this Sunday at 5:30 pm PT. https://t.co/hN9BArx5H3",
       "url": "https://x.com/Dodgers/status/2123871175940137333",
       "published": "2026-11-20T20:08:42+00:00",
-      "likes": 341,
+      "likes": 345,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
@@ -50,20 +50,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2124301872714707255",
-      "text": "Congratulations Dave on receiving the prestigious Fire in the Gut Award from the Navy Seal Foundation! The award honors individuals that show exceptional grit, selfless leadership and resilience in adversity. https://t.co/ciuu6bcxdj",
-      "url": "https://x.com/Dodgers/status/2124301872714707255",
-      "published": "2026-11-22T00:40:08+00:00",
-      "likes": 927,
-      "author": "Los Angeles Dodgers",
-      "handle": "Dodgers",
-      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXsJS1KbsAAZ8fD.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

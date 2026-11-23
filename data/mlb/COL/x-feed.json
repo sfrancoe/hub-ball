@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-22T04:05:07.019938+00:00",
+  "generated_at": "2026-11-23T05:25:02.528171+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Rockies",
   "team_id": "27",
   "sport": "mlb",
-  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
+  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
   "recent": [
     {
       "id": "2124239014060515428",
       "text": "The Colorado Rockies mourn the passing of John Dikeou, a devoted champion of baseball in Denver who helped bring Major League Baseball to Colorado. As an owner of the Denver Bears and Zephyrs, John’s vision and tireless advocacy helped lay the groundwork for the Rockies and https://t.co/GqlwcbybMI",
       "url": "https://x.com/Rockies/status/2124239014060515428",
       "published": "2026-11-21T20:30:22+00:00",
-      "likes": 297,
+      "likes": 407,
       "author": "Colorado Rockies",
       "handle": "Rockies",
       "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "The Colorado Rockies have acquired RHP Chase Lee from the Toronto Blue Jays in exchange for cash considerations. To make room on the 40-man roster, RHP Jimmy Herget has been designated for assignment. Welcome to Colorado, Chase! https://t.co/sTa59hEpmB",
       "url": "https://x.com/Rockies/status/2123884372768313642",
       "published": "2026-11-20T21:01:08+00:00",
-      "likes": 663,
+      "likes": 682,
       "author": "Colorado Rockies",
       "handle": "Rockies",
       "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
@@ -36,20 +36,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2124239014060515428",
-      "text": "The Colorado Rockies mourn the passing of John Dikeou, a devoted champion of baseball in Denver who helped bring Major League Baseball to Colorado. As an owner of the Denver Bears and Zephyrs, John’s vision and tireless advocacy helped lay the groundwork for the Rockies and https://t.co/GqlwcbybMI",
-      "url": "https://x.com/Rockies/status/2124239014060515428",
-      "published": "2026-11-21T20:30:22+00:00",
-      "likes": 297,
-      "author": "Colorado Rockies",
-      "handle": "Rockies",
-      "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXrFXuNaoAAZL_2.png",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

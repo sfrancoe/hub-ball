@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-22T04:05:07.019938+00:00",
+  "generated_at": "2026-11-23T05:25:02.528171+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/tigers",
   "team_id": "6",
   "sport": "mlb",
-  "likes_as_of": "2026-11-22T04:05:07.019938+00:00",
+  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
   "recent": [
+    {
+      "id": "2124661585675468828",
+      "text": "RT @PAWSDetroit: Proud to announce I’ve been named MLB Mascots 2026 Community Impact Winner! 🏆 This award is voted on by MLB Mascots and a…",
+      "url": "https://x.com/tigers/status/2124661585675468828",
+      "published": "2026-11-23T00:29:30+00:00",
+      "likes": 0,
+      "author": "Detroit Tigers",
+      "handle": "tigers",
+      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2123923436166865359",
       "text": "RT @WatchDSN: \"Right now Detroit definitely feels like the right place.\" ICYMI: The Tigers signed relief pitcher Emilio Pagán to a one-yea…",
@@ -26,7 +40,7 @@
       "text": "Couldn't script it any better. A look back at Kevin McGonigle's Rookie of the Year season. https://t.co/NWCnOpfu2k",
       "url": "https://x.com/tigers/status/2123844672200044595",
       "published": "2026-11-20T18:23:23+00:00",
-      "likes": 702,
+      "likes": 710,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
@@ -34,12 +48,14 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2123818094841995286",
-      "text": "RT @MLB: Top Plays of 2026: No. 83 Eduardo Valencia crushes a walk-off HR to cap off Justin Verlander’s final career game! https://t.co/YO…",
-      "url": "https://x.com/tigers/status/2123818094841995286",
-      "published": "2026-11-20T16:37:47+00:00",
+      "id": "2124661585675468828",
+      "text": "RT @PAWSDetroit: Proud to announce I’ve been named MLB Mascots 2026 Community Impact Winner! 🏆 This award is voted on by MLB Mascots and a…",
+      "url": "https://x.com/tigers/status/2124661585675468828",
+      "published": "2026-11-23T00:29:30+00:00",
       "likes": 0,
       "author": "Detroit Tigers",
       "handle": "tigers",
@@ -49,6 +65,5 @@
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
