@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics not only lost their fourth straight game, but they look lost for stretches offensively in this losing streak.",
+        "published": "2026-11-23T05:05:59+00:00",
+        "title": "What’s wrong with Celtics’ offense? What we learned from Warriors loss",
+        "url": "https://www.masslive.com/celtics/2026/11/whats-wrong-with-celtics-offense-what-we-learned-from-warriors-loss.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics fell to the Warriors for their first four-game losing streak of the Joe Mazzulla era.",
         "published": "2026-11-23T04:08:39+00:00",
         "title": "4 takeaways as Celtics lose to Warriors in another brutal offensive effort",
@@ -38,17 +45,17 @@
       },
       {
         "category": "Boston Celtics",
-        "description": "Random thoughts about (mostly) sports topics.",
-        "published": "2026-11-22T10:00:00+00:00",
-        "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
-        "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
         "published": "2026-11-22T10:00:00+00:00",
         "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
         "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "Random thoughts about (mostly) sports topics.",
+        "published": "2026-11-22T10:00:00+00:00",
+        "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
+        "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
       },
       {
         "category": "Boston Celtics",
@@ -105,16 +112,9 @@
         "published": "2026-11-20T10:00:00+00:00",
         "title": "Should Celtics fans be worried about Michell Robinson? (Mailbag)",
         "url": "https://www.masslive.com/celtics/2026/11/should-celtics-fans-be-worried-about-michell-robinson-mailbag.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The technical foul called on Jayson Tatum with 6.4 seconds left effectively sealed the loss for the Celtics to the Nuggets.",
-        "published": "2026-11-19T10:45:00+00:00",
-        "title": "Jayson Tatum takes blame for controversial foul in Nuggets loss: ‘That’s on me’",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-takes-blame-for-controversial-foul-in-nuggets-loss-thats-on-me.html"
       }
     ],
-    "generated_at": "2026-11-23T04:13:56.666937+00:00",
+    "generated_at": "2026-11-23T05:14:15.605399+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
