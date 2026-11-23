@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-23T05:40:02.576044+00:00",
+  "generated_at": "2026-11-23T17:45:02.384573+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119452735057670567",
   "team_id": "17",
   "sport": "nhl",
-  "likes_as_of": "2026-11-23T05:40:02.576044+00:00",
+  "likes_as_of": "2026-11-23T17:45:02.384573+00:00",
   "recent": [
+    {
+      "id": "2124908793205264713",
+      "text": "A day for the Captain 🥳 https://t.co/QO8EUWLYh8",
+      "url": "https://x.com/Avalanche/status/2124908793205264713",
+      "published": "2026-11-23T16:51:49+00:00",
+      "likes": 574,
+      "author": "Colorado Avalanche",
+      "handle": "Avalanche",
+      "avatar": "https://pbs.twimg.com/profile_images/1995198556588883968/d1SjRNLG_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX0xSRtbkAEdroO.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124270982768775565",
       "text": "The boys reacted to the Classics 👀 https://t.co/RQSB6sjV4b",
       "url": "https://x.com/Avalanche/status/2124270982768775565",
       "published": "2026-11-21T22:37:23+00:00",
-      "likes": 352,
+      "likes": 360,
       "author": "Colorado Avalanche",
       "handle": "Avalanche",
       "avatar": "https://pbs.twimg.com/profile_images/1995198556588883968/d1SjRNLG_normal.jpg",
@@ -26,7 +40,7 @@
       "text": "21 point Toewser ⚡️ https://t.co/8t15yWrgk7",
       "url": "https://x.com/Avalanche/status/2124243942233550924",
       "published": "2026-11-21T20:49:57+00:00",
-      "likes": 499,
+      "likes": 521,
       "author": "Colorado Avalanche",
       "handle": "Avalanche",
       "avatar": "https://pbs.twimg.com/profile_images/1995198556588883968/d1SjRNLG_normal.jpg",
@@ -194,7 +208,7 @@
       "text": "Quack quack hold that 🫴 https://t.co/0WxUB5tZCi",
       "url": "https://x.com/Avalanche/status/2123636507869380758",
       "published": "2026-11-20T04:36:13+00:00",
-      "likes": 828,
+      "likes": 829,
       "author": "Colorado Avalanche",
       "handle": "Avalanche",
       "avatar": "https://pbs.twimg.com/profile_images/1995198556588883968/d1SjRNLG_normal.jpg",
@@ -292,7 +306,7 @@
       "text": "LEAN WITH IT BROCK WITH IT https://t.co/PcngWVfGak",
       "url": "https://x.com/Avalanche/status/2123624966184907188",
       "published": "2026-11-20T03:50:21+00:00",
-      "likes": 180,
+      "likes": 181,
       "author": "Colorado Avalanche",
       "handle": "Avalanche",
       "avatar": "https://pbs.twimg.com/profile_images/1995198556588883968/d1SjRNLG_normal.jpg",
@@ -328,21 +342,22 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2123617881963507919",
-      "text": "\"Wanna see me do it again?\"",
-      "url": "https://x.com/Avalanche/status/2123617881963507919",
-      "published": "2026-11-20T03:22:12+00:00",
-      "likes": 202,
+      "id": "2124908793205264713",
+      "text": "A day for the Captain 🥳 https://t.co/QO8EUWLYh8",
+      "url": "https://x.com/Avalanche/status/2124908793205264713",
+      "published": "2026-11-23T16:51:49+00:00",
+      "likes": 574,
       "author": "Colorado Avalanche",
       "handle": "Avalanche",
       "avatar": "https://pbs.twimg.com/profile_images/1995198556588883968/d1SjRNLG_normal.jpg",
-      "media": "",
-      "quoted_text": "ROCKET FROM NELLY 🚨 https://t.co/OpnKBhyYGp",
-      "quoted_author": "Colorado Avalanche",
-      "quoted_handle": "Avalanche"
+      "media": "https://pbs.twimg.com/media/HX0xSRtbkAEdroO.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }

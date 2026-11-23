@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-23T07:20:02.932201+00:00",
+  "generated_at": "2026-11-23T14:40:02.598963+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119450835151142983",
   "team_id": "29",
   "sport": "nba",
-  "likes_as_of": "2026-11-23T07:20:02.932201+00:00",
+  "likes_as_of": "2026-11-23T14:40:02.598963+00:00",
   "recent": [
+    {
+      "id": "2124858255222472872",
+      "text": "The Daily Grind Ep. 683 || GAME DAY Memphis Grizzlies @ Charlotte Hornets || Nov. 23, 2026 https://t.co/IO47nRE6li",
+      "url": "https://x.com/bcmGrizzlies/status/2124858255222472872",
+      "published": "2026-11-23T13:31:00+00:00",
+      "likes": 1,
+      "author": "Bluff City Media",
+      "handle": "bcmGrizzlies",
+      "avatar": "https://pbs.twimg.com/profile_images/1633692801463459840/bPTc_4Tw_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124670343688405477",
       "text": "RT @GrizzliesPR: The @memgrizz today provided the following medical update for Jerami Grant: https://t.co/OXj6yCSWLJ",
@@ -26,7 +40,7 @@
       "text": "Javon Small is back, but Cam Boozer and Jerami Grant remain out",
       "url": "https://x.com/DamichaelC/status/2124624244667555936",
       "published": "2026-11-22T22:01:08+00:00",
-      "likes": 54,
+      "likes": 59,
       "author": "Damichael Cole",
       "handle": "DamichaelC",
       "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
@@ -280,7 +294,7 @@
       "text": "Javon Small is back, but Cam Boozer and Jerami Grant remain out",
       "url": "https://x.com/DamichaelC/status/2124624244667555936",
       "published": "2026-11-22T22:01:08+00:00",
-      "likes": 54,
+      "likes": 59,
       "author": "Damichael Cole",
       "handle": "DamichaelC",
       "avatar": "https://pbs.twimg.com/profile_images/1955278878512971776/RHl2p5L-_normal.jpg",
@@ -288,6 +302,20 @@
       "quoted_text": "Status Report for @memgrizz, 11/23/26 at Charlotte: https://t.co/1sHN04koI2",
       "quoted_author": "Grizzlies PR",
       "quoted_handle": "GrizzliesPR"
+    },
+    {
+      "id": "2124858255222472872",
+      "text": "The Daily Grind Ep. 683 || GAME DAY Memphis Grizzlies @ Charlotte Hornets || Nov. 23, 2026 https://t.co/IO47nRE6li",
+      "url": "https://x.com/bcmGrizzlies/status/2124858255222472872",
+      "published": "2026-11-23T13:31:00+00:00",
+      "likes": 1,
+      "author": "Bluff City Media",
+      "handle": "bcmGrizzlies",
+      "avatar": "https://pbs.twimg.com/profile_images/1633692801463459840/bPTc_4Tw_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
     },
     {
       "id": "2124670343688405477",

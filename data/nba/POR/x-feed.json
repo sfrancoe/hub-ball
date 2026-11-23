@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-23T06:30:02.627057+00:00",
+  "generated_at": "2026-11-23T13:35:02.499041+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451157982581213",
   "team_id": "22",
   "sport": "nba",
-  "likes_as_of": "2026-11-23T06:30:02.627057+00:00",
+  "likes_as_of": "2026-11-23T13:35:02.499041+00:00",
   "recent": [
+    {
+      "id": "2124783440008794393",
+      "text": "How Much Gas Does Damian Lillard Have Left in the Tank? https://t.co/yLt9Srsips",
+      "url": "https://x.com/blazersedge/status/2124783440008794393",
+      "published": "2026-11-23T08:33:43+00:00",
+      "likes": 0,
+      "author": "Blazer's Edge",
+      "handle": "blazersedge",
+      "avatar": "https://pbs.twimg.com/profile_images/793624060504657921/qHpUnLXS_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124617646411051366",
       "text": "RT @TrailBlazersPR: INJURY REPORT 11/23 @ PHI: OUT Vit Krejci (L Ankle Fracture) Ja Morant (L Hamstring Strain) Shaedon Sharpe (R Meniscus…",
@@ -26,7 +40,7 @@
       "text": "Deni Avdija is AVAILABLE to play tonight @ NYK https://t.co/t36SqmmjJQ",
       "url": "https://x.com/trailblazers/status/2124267277394772059",
       "published": "2026-11-21T22:22:40+00:00",
-      "likes": 943,
+      "likes": 946,
       "author": "Portland Trail Blazers",
       "handle": "trailblazers",
       "avatar": "https://pbs.twimg.com/profile_images/2093021456989040640/NQOu40Sn_normal.jpg",
@@ -219,6 +233,20 @@
     }
   ],
   "popular": [
+    {
+      "id": "2124783440008794393",
+      "text": "How Much Gas Does Damian Lillard Have Left in the Tank? https://t.co/yLt9Srsips",
+      "url": "https://x.com/blazersedge/status/2124783440008794393",
+      "published": "2026-11-23T08:33:43+00:00",
+      "likes": 0,
+      "author": "Blazer's Edge",
+      "handle": "blazersedge",
+      "avatar": "https://pbs.twimg.com/profile_images/793624060504657921/qHpUnLXS_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124617646411051366",
       "text": "RT @TrailBlazersPR: INJURY REPORT 11/23 @ PHI: OUT Vit Krejci (L Ankle Fracture) Ja Morant (L Hamstring Strain) Shaedon Sharpe (R Meniscus…",
