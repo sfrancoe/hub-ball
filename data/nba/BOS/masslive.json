@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Jayson Tatum finished with a team-high in points, rebounds and assists on Sunday night.",
+        "published": "2026-11-23T05:31:33+00:00",
+        "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in loss to Warriors",
+        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-loss-to-warriors.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics not only lost their fourth straight game, but they look lost for stretches offensively in this losing streak.",
         "published": "2026-11-23T05:05:59+00:00",
         "title": "What’s wrong with Celtics’ offense? What we learned from Warriors loss",
@@ -45,17 +52,17 @@
       },
       {
         "category": "Boston Celtics",
-        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
-        "published": "2026-11-22T10:00:00+00:00",
-        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
-        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "Random thoughts about (mostly) sports topics.",
         "published": "2026-11-22T10:00:00+00:00",
         "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
         "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
+        "published": "2026-11-22T10:00:00+00:00",
+        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
+        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
       },
       {
         "category": "Boston Celtics",
@@ -105,16 +112,9 @@
         "published": "2026-11-20T10:00:00+00:00",
         "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
         "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Mitchell Robinson has the worst plus/minus on the Celtics as his early-season struggles have continued.",
-        "published": "2026-11-20T10:00:00+00:00",
-        "title": "Should Celtics fans be worried about Michell Robinson? (Mailbag)",
-        "url": "https://www.masslive.com/celtics/2026/11/should-celtics-fans-be-worried-about-michell-robinson-mailbag.html"
       }
     ],
-    "generated_at": "2026-11-23T05:14:15.605399+00:00",
+    "generated_at": "2026-11-23T05:44:27.405449+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
