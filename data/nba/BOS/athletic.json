@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics last lost four consecutive games back in May 2021. They know they need to figure out their issues soon.",
+        "published": "2026-11-23T12:00:52+00:00",
+        "title": "Celtics at a loss as they lose fourth straight: 'We're in a team-wide funk right now'",
+        "url": "https://www.nytimes.com/athletic/7805585/2026/11/23/celtics-warriors-losing-streak/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "With a long 3-pointer moments before halftime of the Celtics' 88-87 loss, Tatum overtook Russell (14,522 points) on the list.",
         "published": "2026-11-23T04:13:05+00:00",
         "title": "Jayson Tatum passes Bill Russell for No. 8 in Celtics all-time scoring: 'That's an honor'",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T02:04:59+00:00",
         "title": "Jaylen Brown on Jayson Tatum before 76ers-Celtics clash: 'He's on his side; I'm on mine'",
         "url": "https://www.nytimes.com/athletic/7766202/2026/11/08/jaylen-brown-jayson-tatum-76ers-celtics-beef-lamb-chops/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Though Robinson had only one offensive rebound against the Rockets on Monday, Mazzulla sounded encouraged after diving into the tape.",
-        "published": "2026-11-04T23:52:53+00:00",
-        "title": "Joe Mazzulla on Mitchell Robinson adjusting to Celtics: 'Process versus a result thing'",
-        "url": "https://www.nytimes.com/athletic/7754680/2026/11/04/celtics-joe-mazzulla-behind-the-scenes-mitchell-robinson/"
       }
     ],
-    "generated_at": "2026-11-23T05:24:21.134395+00:00",
+    "generated_at": "2026-11-23T12:06:32.552800+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
