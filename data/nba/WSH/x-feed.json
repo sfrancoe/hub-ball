@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-22T16:55:02.557910+00:00",
+  "generated_at": "2026-11-23T00:35:02.216062+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451317521326169",
   "team_id": "27",
   "sport": "nba",
-  "likes_as_of": "2026-11-22T16:55:02.557910+00:00",
+  "likes_as_of": "2026-11-23T00:35:02.216062+00:00",
   "recent": [
     {
       "id": "2124271230773567761",
       "text": "Injury report ahead of our matchup against the Magic. Reece Beekman - Out (right AC joint sprain / separation) Justin Champagnie - Out (right foot surgery) Tristan Vukčević - Out (left hip impingement) Jamir Watkins - Out (left ACL repair/surgery) #ForTheDistrict | https://t.co/UzmdRd3Nod",
       "url": "https://x.com/WashWizards/status/2124271230773567761",
       "published": "2026-11-21T22:38:23+00:00",
-      "likes": 18,
+      "likes": 22,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "The Wizards' injury report for their game Sunday against the Magic has no new inclusions. Reece Beekman, Justin Champagnie, Tristan Vukcevic and Jamir Watkins remain out. For Orlando, Paolo Banchero (high-ankle sprain) remains out.",
       "url": "https://x.com/JoshuaBRobbins/status/2124266752108540091",
       "published": "2026-11-21T22:20:35+00:00",
-      "likes": 14,
+      "likes": 17,
       "author": "Josh Robbins",
       "handle": "JoshuaBRobbins",
       "avatar": "https://pbs.twimg.com/profile_images/1358290326/Josh_Robbins_mugshot_normal.jpg",
@@ -40,7 +40,7 @@
       "text": "Davis, Dybantsa lead Wizards to second straight win https://t.co/myuK3NEqcF",
       "url": "https://x.com/BulletsForever/status/2124120528906781021",
       "published": "2026-11-21T12:39:32+00:00",
-      "likes": 0,
+      "likes": 1,
       "author": "Bullets Forever",
       "handle": "BulletsForever",
       "avatar": "https://pbs.twimg.com/profile_images/1425664887603204096/oBZvR-NX_normal.jpg",
@@ -96,7 +96,7 @@
       "text": "ARE YOU SERIOUS 😮‍💨 https://t.co/QokbSHpxgk",
       "url": "https://x.com/WashWizards/status/2123974593333620789",
       "published": "2026-11-21T02:59:39+00:00",
-      "likes": 4426,
+      "likes": 4464,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -110,7 +110,7 @@
       "text": "OH MY AJ DYBANTSA 🤯",
       "url": "https://x.com/WashWizards/status/2123973413391769811",
       "published": "2026-11-21T02:54:57+00:00",
-      "likes": 164,
+      "likes": 168,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -316,34 +316,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2124271230773567761",
-      "text": "Injury report ahead of our matchup against the Magic. Reece Beekman - Out (right AC joint sprain / separation) Justin Champagnie - Out (right foot surgery) Tristan Vukčević - Out (left hip impingement) Jamir Watkins - Out (left ACL repair/surgery) #ForTheDistrict | https://t.co/UzmdRd3Nod",
-      "url": "https://x.com/WashWizards/status/2124271230773567761",
-      "published": "2026-11-21T22:38:23+00:00",
-      "likes": 18,
-      "author": "Washington Wizards",
-      "handle": "WashWizards",
-      "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXrtbRlXAAI1sDf.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2124266752108540091",
-      "text": "The Wizards' injury report for their game Sunday against the Magic has no new inclusions. Reece Beekman, Justin Champagnie, Tristan Vukcevic and Jamir Watkins remain out. For Orlando, Paolo Banchero (high-ankle sprain) remains out.",
-      "url": "https://x.com/JoshuaBRobbins/status/2124266752108540091",
-      "published": "2026-11-21T22:20:35+00:00",
-      "likes": 14,
-      "author": "Josh Robbins",
-      "handle": "JoshuaBRobbins",
-      "avatar": "https://pbs.twimg.com/profile_images/1358290326/Josh_Robbins_mugshot_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
