@@ -1,13 +1,61 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-22T21:19:14.985249+00:00",
+  "generatedAt": "2026-11-23T02:00:41.215176+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Tarik Skubal agrees to record $450 million, nine-year contract with New York Mets, AP source says",
+      "description": "Skubal’s agreement includes a full no-trade clause and a $45 million signing bonus that is shielded from the management lockout that threatens the 2027 season, the source said.",
+      "url": "https://www.bostonglobe.com/2026/11/22/sports/mlb-mets-tarik-skubal/",
+      "published": "2026-11-23T00:38:13.176000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Tarik Skubal becomes Braves’ NL East rival with Mets",
+      "description": "Per multiple reports, the Mets signed former Cy Young winner Tarik Skubal to a 9-year, $450 million contract Sunday, adding a new obstacle for the Braves in the NL East.",
+      "url": "https://www.ajc.com/sports/2026/11/tarik-skubal-signs-with-mets/",
+      "published": "2026-11-22T23:59:29.266000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Tarik Skubal moves on from the Dodgers, agrees to record $450-million deal with Mets",
+      "description": "Free-agent Tarik Skubal plans to sign with the Mets, agreeing to a nine-year, $450-million contract. It is the largest for a pitcher in MLB history.",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-22/tarik-skubal-moves-on-dodgers-agrees-deal",
+      "published": "2026-11-22T22:18:26.878000+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Tigers, former Yankees right-hander Luis Gil agree to one-year deal: Source",
+      "description": "The Yankees non-tendered the 2024 AL Rookie of the Year on Friday, after a season in which he had a 4.61 ERA in only 27 1/3 innings.",
+      "url": "https://www.nytimes.com/athletic/7804032/2026/11/22/luis-gil-tigers-yankees-free-agent-contract/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
     {
       "title": "Tigers pounce on Yankees castoff Luis Gil, agree to one-year deal: source",
       "description": "It didn't take long for Luis Gil to land on his feet.",
@@ -45,27 +93,15 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "How pre-med studies and hummingbird colors led to a key role with Rays",
-      "description": "Tales | Danielle Dockx took an interesting path from playing softball at Princeton to her new job leading Tampa Bay’s renowned player development department.",
-      "url": "https://www.tampabay.com/sports/rays/2026/11/22/danielle-dockx-player-development-princeton-softball-kevin-ibach-kathleen-mannheimer/",
-      "published": "2026-11-22T13:00:00+00:00",
-      "source": "Tampa Bay Times",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "teamAbbreviation": "TB",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
-      "description": "Random thoughts about (mostly) sports topics.",
-      "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html",
+      "title": "The Dodgers almost always get their way. Then Tarik Skubal signed with the Mets",
+      "description": "Skubal taking a record contract from the Mets represents a rare example of the Dodgers missing out on their top target.",
+      "url": "https://www.nytimes.com/athletic/7804227/2026/11/22/dodgers-tarik-skubal-mets-signing/",
       "published": "",
-      "source": "MassLive",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
+      "source": "The Athletic",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
       "publishedSource": "unverified"
     }
   ]
