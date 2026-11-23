@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Twins",
+      "description": "Varland, a St. Paul native, won the inaugural American League Relief Pitcher of the Year award recently after his first full season with the Toronto Blue Jays.",
+      "published": "2026-11-22T19:30:00+00:00",
+      "title": "RandBall: Twins have one more reason to regret the Louis Varland trade",
+      "url": "https://www.startribune.com/minnesota-twins-louis-varland-trade-blue-jays-al-reliever-year-award-2026-mlb-offseason/601926779"
+    },
+    {
+      "category": "Twins",
       "description": "The former No. 1 overall pick struggled through injuries and inconsistency in Minnesota, but at 27, he still has the potential to make the Twins regret moving on.",
       "published": "2026-11-21T19:45:00+00:00",
       "title": "Neal: Twins better have a plan to replace Royce Lewis’ bat after trading him",
@@ -57,7 +64,7 @@
       "url": "https://www.startribune.com/minnesota-twins-roster-salary-2027-ryan-jeffers-contract-qualifying-offer-mlb-free-agency-news/601921231"
     }
   ],
-  "generated_at": "2026-11-23T04:47:38.524064+00:00",
+  "generated_at": "2026-11-23T15:26:21.226155+00:00",
   "source": "Star Tribune",
   "source_url": "https://www.startribune.com/sports/twins/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Next week MLB is likely to lock out its players, initiating a work stoppage that could jeopardize the 2027 season. What can fans expect over the last few days before the lockout begins?",
+      "published": "2026-11-23T10:30:31Z",
+      "title": "MLB notes: What fans can expect in last days before lockout begins",
+      "url": "https://www.bostonherald.com/2026/11/23/mlb-notes-what-fans-can-expect-in-last-days-before-lockout-begins/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Red Sox trade pitcher who appeared in one game, tender contracts to several trade candidates",
       "published": "2026-11-20T23:19:30Z",
       "title": "Red Sox trade Johan Oviedo after tendering contracts to eligible players",
@@ -104,16 +111,9 @@
       "published": "2026-11-13T10:30:56Z",
       "title": "Five Red Sox takeaways from GM Meetings in Las Vegas",
       "url": "https://www.bostonherald.com/2026/11/13/five-red-sox-takeaways-from-gm-meetings-in-las-vegas/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "Houston Astros slugger Yordan Alvarez cruised to a unanimous AL MVP victory, but three Red Sox standouts earned down-ballot votes as well.",
-      "published": "2026-11-13T02:35:17Z",
-      "title": "Three Red Sox standouts earn down-ballot MVP votes",
-      "url": "https://www.bostonherald.com/2026/11/12/three-red-sox-standouts-earn-down-ballot-mvp-votes/"
     }
   ],
-  "generated_at": "2026-11-21T03:54:58.447551+00:00",
+  "generated_at": "2026-11-23T15:25:55.925221+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
