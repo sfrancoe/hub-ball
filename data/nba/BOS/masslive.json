@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics' offensive woes hit a new low as they lost by one point to the Warriors.",
+        "published": "2026-11-23T10:00:00+00:00",
+        "title": "Putting Celtics losing streak into perspective after disappointing Warriors loss",
+        "url": "https://www.masslive.com/celtics/2026/11/putting-celtics-losing-streak-into-perspective-after-disappointing-warriors-loss.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jayson Tatum finished with a team-high in points, rebounds and assists on Sunday night.",
         "published": "2026-11-23T05:31:33+00:00",
         "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in loss to Warriors",
@@ -105,16 +112,9 @@
         "published": "2026-11-20T18:00:25+00:00",
         "title": "Celtics guard lost 10 pounds while sick, but returns to make Boston debut",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-guard-lost-10-pounds-while-sick-but-returns-to-make-boston-debut.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
-        "published": "2026-11-20T10:00:00+00:00",
-        "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
-        "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
       }
     ],
-    "generated_at": "2026-11-23T08:05:13.820778+00:00",
+    "generated_at": "2026-11-23T10:05:48.992547+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
