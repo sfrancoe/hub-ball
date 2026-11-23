@@ -1,13 +1,61 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-23T02:00:41.215176+00:00",
+  "generatedAt": "2026-11-23T10:54:25.634118+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "MLB notes: What fans can expect in last days before lockout begins",
+      "description": "Next week MLB is likely to lock out its players, initiating a work stoppage that could jeopardize the 2027 season. What can fans expect over the last few days before the lockout begins?",
+      "url": "https://www.bostonherald.com/2026/11/23/mlb-notes-what-fans-can-expect-in-last-days-before-lockout-begins/",
+      "published": "2026-11-23T10:30:31+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "In MLB pitch-rigging trial, status of potential key witness draws scrutiny",
+      "description": "The parties said they hope to make closing arguments on Nov. 30, with pitchers’ fate handed off to the jury shortly thereafter.",
+      "url": "https://www.nytimes.com/athletic/7803809/2026/11/23/mlb-pitch-rigging-trial-ortiz-clase-guardians-witness/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "teamAbbreviation": "CLE",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "3 friends: An NBA champion, a World Series winner and a doctor who doesn’t care about sports",
+      "description": "The Knicks' Landry Shamet and Brewers' Aaron Ashby are close childhood pals. The other guy in their group text doesn't even like sports.",
+      "url": "https://www.nytimes.com/athletic/7794702/2026/11/23/nba-mlb-friend-group-ashby-shamet-balaja/",
+      "published": "",
+      "source": "The Athletic",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "teamAbbreviation": "MIL",
+      "league": "NL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "Did Mark Walter’s money troubles cause Dodgers to strike out on Tarik Skubal?",
+      "description": "It doesn't make sense that the Dodgers would lose out on signing free-agent pitcher Tarik Skubal unless Mark Walter's money troubles played a role.",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-22/mark-walter-troubles-cause-dodgers-losing-tarik-skubal",
+      "published": "2026-11-23T01:57:27.690000+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Tarik Skubal agrees to record $450 million, nine-year contract with New York Mets, AP source says",
       "description": "Skubal’s agreement includes a full no-trade clause and a $45 million signing bonus that is shielded from the management lockout that threatens the 2027 season, the source said.",
@@ -19,90 +67,6 @@
       "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Tarik Skubal becomes Braves’ NL East rival with Mets",
-      "description": "Per multiple reports, the Mets signed former Cy Young winner Tarik Skubal to a 9-year, $450 million contract Sunday, adding a new obstacle for the Braves in the NL East.",
-      "url": "https://www.ajc.com/sports/2026/11/tarik-skubal-signs-with-mets/",
-      "published": "2026-11-22T23:59:29.266000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Tarik Skubal moves on from the Dodgers, agrees to record $450-million deal with Mets",
-      "description": "Free-agent Tarik Skubal plans to sign with the Mets, agreeing to a nine-year, $450-million contract. It is the largest for a pitcher in MLB history.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-22/tarik-skubal-moves-on-dodgers-agrees-deal",
-      "published": "2026-11-22T22:18:26.878000+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Tigers, former Yankees right-hander Luis Gil agree to one-year deal: Source",
-      "description": "The Yankees non-tendered the 2024 AL Rookie of the Year on Friday, after a season in which he had a 4.61 ERA in only 27 1/3 innings.",
-      "url": "https://www.nytimes.com/athletic/7804032/2026/11/22/luis-gil-tigers-yankees-free-agent-contract/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Tigers pounce on Yankees castoff Luis Gil, agree to one-year deal: source",
-      "description": "It didn't take long for Luis Gil to land on his feet.",
-      "url": "https://www.nydailynews.com/2026/11/22/tigers-pounce-on-yankees-castoff-luis-gil-agree-to-one-year-deal-source/",
-      "published": "2026-11-22T21:11:51+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Former ROY agrees to $2.3M deal with new team after being cut by Yankees",
-      "description": "",
-      "url": "https://nypost.com/2026/11/22/sports/ex-yankee-luis-gil-agrees-to-one-year-2-3m-deal-with-tigers/",
-      "published": "2026-11-22T20:56:45+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Star reliever is a ‘now’ opportunity worthy of a Yankees gamble",
-      "description": "",
-      "url": "https://nypost.com/2026/11/22/sports/adrian-morejon-is-a-now-opportunity-worthy-of-a-yankees-gamble/",
-      "published": "2026-11-22T18:23:21+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Dodgers almost always get their way. Then Tarik Skubal signed with the Mets",
-      "description": "Skubal taking a record contract from the Mets represents a rare example of the Dodgers missing out on their top target.",
-      "url": "https://www.nytimes.com/athletic/7804227/2026/11/22/dodgers-tarik-skubal-mets-signing/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
