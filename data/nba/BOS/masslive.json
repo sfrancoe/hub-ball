@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics fell to the Warriors for their first four-game losing streak of the Joe Mazzulla era.",
+        "published": "2026-11-23T04:08:39+00:00",
+        "title": "4 takeaways as Celtics lose to Warriors in another brutal offensive effort",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-warriors-in-another-brutal-offensive-effort.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "BetMGM has the Celtics as 8.5-point favorites at Golden State on Sunday night. Odds, betting trends, injury news and a best bet for Celtics vs. Warriors.",
         "published": "2026-11-22T22:33:23+00:00",
         "title": "Celtics vs. Warriors predictions: Odds and best bet as Boston tries to snap a three-game skid",
@@ -105,16 +112,9 @@
         "published": "2026-11-19T10:45:00+00:00",
         "title": "Jayson Tatum takes blame for controversial foul in Nuggets loss: ‘That’s on me’",
         "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-takes-blame-for-controversial-foul-in-nuggets-loss-thats-on-me.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Chris Cenac Jr. is quickly rising up the depth chart for the Celtics this week, leading to some interesting choices for Joe Mazzulla.",
-        "published": "2026-11-19T10:45:00+00:00",
-        "title": "Celtics rookie creates fascinating conundrum for Joe Mazzulla after Nuggets loss",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-rookie-creates-fascinating-conundrum-for-joe-mazzulla-after-nuggets-loss.html"
       }
     ],
-    "generated_at": "2026-11-23T04:03:52.189091+00:00",
+    "generated_at": "2026-11-23T04:13:56.666937+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },

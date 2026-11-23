@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "With a long 3-pointer moments before halftime of the Celtics’ 88-87 loss, Tatum overtook Russell (14,522 points) on the list.",
+        "published": "2026-11-23T04:13:05+00:00",
+        "title": "Jayson Tatum passes Bill Russell for No. 8 on Celtics' all-time scoring list",
+        "url": "https://www.nytimes.com/athletic/7805184/2026/11/22/jayson-tatum-celtics-points-no-8-bill-russell/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "With Jayson Tatum and Derrick White out of the lineup, the Celtics needed another steady ball handler. Conley gave them much more than that.",
         "published": "2026-11-22T15:09:29+00:00",
         "title": "Even in Celtics' loss, Mike Conley savors chance to play key minutes again",
@@ -105,16 +112,9 @@
         "published": "2026-11-04T23:52:53+00:00",
         "title": "Joe Mazzulla on Mitchell Robinson adjusting to Celtics: 'Process versus a result thing'",
         "url": "https://www.nytimes.com/athletic/7754680/2026/11/04/celtics-joe-mazzulla-behind-the-scenes-mitchell-robinson/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "So far this season, the Celtics have actually been better on the glass with Robinson on the bench.",
-        "published": "2026-11-03T11:00:54+00:00",
-        "title": "Celtics' Mitchell Robinson on early-season struggles: 'I know I have to figure it out soon'",
-        "url": "https://www.nytimes.com/athletic/7749789/2026/11/03/celtics-mitchell-robinson-struggles-loss-rockets/"
       }
     ],
-    "generated_at": "2026-11-22T15:18:54.612101+00:00",
+    "generated_at": "2026-11-23T04:13:57.204863+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },

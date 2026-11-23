@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics on Saturday night made franchise history by missing 45 3-pointers in a loss to the Kings. Less than 24 hours later, the Celtics did something they hadn’t in five years by losing their fourth game in a row.",
+        "published": "2026-11-23T04:13:07Z",
+        "title": "Celtics’ struggles persist against Warriors, resulting in longest losing streak in five years",
+        "url": "https://www.bostonherald.com/2026/11/22/celtics-struggles-persist-against-warriors-resulting-in-longest-losing-streak-in-five-years/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics got an unlikely performance from a seldom-used role player, but they crumbled in the second half to the lowly Kings.",
         "published": "2026-11-22T05:53:49Z",
         "title": "Celtics waste guard’s unlikely performance in embarrassing loss to lowly Kings",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T10:10:37Z",
         "title": "Jayson Tatum wants ‘no headlines’ about Jaylen Brown cold shoulder",
         "url": "https://www.bostonherald.com/2026/11/11/jayson-tatum-wants-no-headlines-about-jaylen-brown-cold-shoulder/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "As the Celtics salted away a statement win over the 76ers, Paul George had a parting gift for one “(a–hole)” Philly fan.",
-        "published": "2026-11-11T10:00:00Z",
-        "title": "Why Paul George flipped off 76ers fan during Celtics win",
-        "url": "https://www.bostonherald.com/2026/11/11/why-paul-george-flipped-off-76ers-fan-during-celtics-win/"
       }
     ],
-    "generated_at": "2026-11-22T05:55:30.132899+00:00",
+    "generated_at": "2026-11-23T04:13:56.158352+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
