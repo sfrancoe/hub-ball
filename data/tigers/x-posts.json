@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-11-22T19:50:19.806578+00:00",
+  "generated_at": "2026-11-23T07:52:18.056220+00:00",
   "source": "X",
   "source_url": "https://x.com/tigers",
   "recent": [
+    {
+      "id": "2124661585675468828",
+      "text": "RT @PAWSDetroit: Proud to announce I’ve been named MLB Mascots 2026 Community Impact Winner! 🏆 This award is voted on by MLB Mascots and a…",
+      "url": "https://x.com/tigers/status/2124661585675468828",
+      "published": "2026-11-23T00:29:30+00:00",
+      "likes": 0,
+      "author": "Detroit Tigers",
+      "handle": "tigers",
+      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2123923436166865359",
       "text": "RT @WatchDSN: \"Right now Detroit definitely feels like the right place.\" ICYMI: The Tigers signed relief pitcher Emilio Pagán to a one-yea…",
@@ -22,7 +36,7 @@
       "text": "Couldn't script it any better. A look back at Kevin McGonigle's Rookie of the Year season. https://t.co/NWCnOpfu2k",
       "url": "https://x.com/tigers/status/2123844672200044595",
       "published": "2026-11-20T18:23:23+00:00",
-      "likes": 707,
+      "likes": 711,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
@@ -32,5 +46,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2124661585675468828",
+      "text": "RT @PAWSDetroit: Proud to announce I’ve been named MLB Mascots 2026 Community Impact Winner! 🏆 This award is voted on by MLB Mascots and a…",
+      "url": "https://x.com/tigers/status/2124661585675468828",
+      "published": "2026-11-23T00:29:30+00:00",
+      "likes": 0,
+      "author": "Detroit Tigers",
+      "handle": "tigers",
+      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
