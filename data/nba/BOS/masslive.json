@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics have lost four straight games for the first time under Joe Mazzulla this week.",
+        "published": "2026-11-23T10:45:00+00:00",
+        "title": "Joe Mazzulla makes surprising admission after Warriors upset Celtics",
+        "url": "https://www.masslive.com/celtics/2026/11/joe-mazzulla-makes-surprising-admission-after-warriors-upset-celtics.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics' offensive woes hit a new low as they lost by one point to the Warriors.",
         "published": "2026-11-23T10:00:00+00:00",
         "title": "Putting Celtics losing streak into perspective after disappointing Warriors loss",
@@ -105,16 +112,9 @@
         "published": "2026-11-21T02:03:30+00:00",
         "title": "Celtics injury report: Jayson Tatum listed for Kings game Saturday",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-injury-report-jayson-tatum-listed-for-kings-game-saturday.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Devin Carter is back playing after a bout with an illness, and he even made his Celtics debut recently.",
-        "published": "2026-11-20T18:00:25+00:00",
-        "title": "Celtics guard lost 10 pounds while sick, but returns to make Boston debut",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-guard-lost-10-pounds-while-sick-but-returns-to-make-boston-debut.html"
       }
     ],
-    "generated_at": "2026-11-23T10:36:00.446752+00:00",
+    "generated_at": "2026-11-23T10:56:08.287127+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
