@@ -1,13 +1,97 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-23T22:43:50.170249+00:00",
+  "generatedAt": "2026-11-24T06:30:05.692063+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 3,
+  "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Chicago Cubs agree to a multi-year deal with lefty starter Trevor Rogers, per sources",
+      "description": "The Chicago Cubs made their first big move for the starting rotation on Monday night by agreeing to a multi-year deal with lefty starter Trevor Rogers, sources told the Tribune.",
+      "url": "https://www.chicagotribune.com/2026/11/23/chicago-cubs-sign-lhp-trevor-rogers/",
+      "published": "2026-11-24T04:59:41+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "With MLB sticking by salary cap, players counter that owners should just share revenues without one",
+      "description": "Players have vowed never to accept a salary cap, while commissioner Rob Manfred has said he can’t envision owners agreeing to a deal without one.",
+      "url": "https://www.bostonglobe.com/2026/11/23/sports/mlb-labor-negotiations/",
+      "published": "2026-11-24T04:16:00.747000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox name Nationals’ Erik Tolman winner of 2026 Tony Conigliaro Award",
+      "description": "The award, presented by the Red Sox since 1990, goes to a major leaguer who has overcome adversity through the attributes of spirit, determination, and courage.",
+      "url": "https://www.bostonglobe.com/2026/11/23/sports/tony-conigliaro-award-red-sox/",
+      "published": "2026-11-24T03:05:51.805000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Could Braves explore Logan Webb trade?",
+      "description": "The Atlanta Braves need another front-line starter, and Giants ace Logan Webb offers durability, postseason experience and a team-friendly contract.",
+      "url": "https://www.ajc.com/sports/2026/11/braves-logan-webb-trade-potential/",
+      "published": "2026-11-24T01:23:23.363000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "World Series champion Brewers’ full playoff share was $493,044, total pool was down from 2025",
+      "description": "Milwaukee players voted to award 65 full shares and 17.5 partial shares for 82.5 full share equivalents plus 20 cash awards to divide a pool of $41.2 million.",
+      "url": "https://www.bostonglobe.com/2026/11/23/sports/mlb-postseason-shares/",
+      "published": "2026-11-24T01:14:38.937000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "New Padres owners ‘all in’ for San Diego community, expect to demonstrate that on field, too",
+      "description": "Padres CEO Erik Greupner says team expecting payroll \"to continue to be at or above the levels that we've been at.\" ...",
+      "url": "https://www.sandiegouniontribune.com/2026/11/23/new-padres-owners-all-in-for-san-diego-community-expecting-to-demonstrate-that-on-field-too/",
+      "published": "2026-11-23T22:54:19+00:00",
+      "source": "Union-Tribune",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "teamAbbreviation": "SD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Ranking the Red Sox’ top 10 prospects, and the biggest questions about each",
+      "description": "The Red Sox' farm system was emptied through a series of graduations and trades this season. So who now lands in their top 10?",
+      "url": "https://www.bostonglobe.com/2026/11/23/sports/ranking-red-sox-top-10-prospects-franklin-arias/",
+      "published": "2026-11-23T22:46:40.056000+00:00",
+      "source": "The Boston Globe",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Ex-Yankee looking for stateside return — and both New York clubs are interested",
       "description": "",
@@ -45,7 +129,7 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Yankees sign lefty to $4 million deal as bullpen rebuild continues",
+      "title": "Yankees sign lefty to $4M deal as bullpen rebuild continues",
       "description": "",
       "url": "https://nypost.com/2026/11/23/sports/yankees-sign-lefty-brent-suter-as-bullpen-rebuild-continues/",
       "published": "2026-11-23T20:33:14+00:00",
@@ -54,78 +138,6 @@
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
       "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Ranking the Red Sox’ top 10 prospects, and the biggest questions about each",
-      "description": "The Red Sox' farm system was emptied through a series of graduations and trades this season. So who now lands in their top 10?",
-      "url": "https://www.bostonglobe.com/2026/11/23/sports/ranking-red-sox-top-10-prospects-franklin-arias/",
-      "published": "2026-11-23T19:40:55.563000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Jake Bauers’s introduction came with surprising fanfare, and other Red Sox thoughts",
-      "description": "The Red Sox introduced Bauers on Tuesday with the type of formal press conference they usually reserve for nine-figure contracts.",
-      "url": "https://www.bostonglobe.com/2026/11/23/sports/red-sox-jake-bauers-signing/",
-      "published": "2026-11-23T15:48:07.851000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Mets sign veteran slugger away from Yankees after Tarik Skubal splash",
-      "description": "",
-      "url": "https://nypost.com/2026/11/23/sports/mets-sign-paul-goldschmidt-away-from-yankees-after-tarik-skubal-splash/",
-      "published": "2026-11-23T15:11:37+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Tarik Skubal to sign with Mets on largest-ever deal for a pitcher in MLB history",
-      "description": "Skubal’s agreement includes a full no-trade clause and a $45 million signing bonus that is shielded from the management lockout that threatens the 2027 season, the source said.",
-      "url": "https://www.bostonglobe.com/2026/11/22/sports/mlb-mets-tarik-skubal/",
-      "published": "2026-11-23T13:03:35.369000+00:00",
-      "source": "The Boston Globe",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Sports Report: Chargers lose again; Tarik Skubal to Mets",
-      "description": "The Dodgers will not be reuniting with left-hander Tarik Skubal, despite a mutually beneficial three months together. Skubal is inst ...",
-      "url": "https://www.latimes.com/sports/newsletter/2026-11-23/chargers-tarik-skubal",
-      "published": "2026-11-23T12:25:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "The Mets paid $450 million for Tarik Skubal. The Dodgers should be glad they didn’t",
-      "description": "The New York Mets felt it wise to give 30-year-old Tarik Skubal a monumentally massive nine-year, $450-million deal and the Dodgers did not. Good.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-23/dodgers-tarik-skubal-overpaid-new-york-mets",
-      "published": "2026-11-23T11:00:00+00:00",
-      "source": "LA Times",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "teamAbbreviation": "LAD",
-      "league": "NL",
       "publishedSource": "publisher"
     }
   ]
