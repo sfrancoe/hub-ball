@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "It has been a busy 48 hours in baseball with Tarik Skubal, Freddy Peralta and others coming off the board. Are the Red Sox going to get back in on the free agent frenzy?",
+      "published": "2026-11-24T22:26:38+00:00",
+      "title": "Fenway Rundown: Will Red Sox join MLB's free agent frenzy?",
+      "url": "https://www.masslive.com/redsox/2026/11/will-the-red-sox-enter-mlbs-free-agent-frenzy-after-tarik-skubal-other-moves-the-fenway-rundown.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Random thoughts about (mostly) sports topics.",
       "published": "2026-11-22T10:00:00+00:00",
       "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
@@ -104,16 +111,9 @@
       "published": "2026-11-18T00:19:08+00:00",
       "title": "Blake Wehunt, former first-rounder among prospects Red Sox left unprotected as deadline passes",
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-let-roster-deadline-pass-without-protecting-any-prospects-make-two-minor-trades.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox called Jake Bauers one minute into free agency opening and had him signed just two weeks later. Craig Breslow explained Tuesday why the club was so aggressive.",
-      "published": "2026-11-17T23:18:18+00:00",
-      "title": "Why the Red Sox moved fast to sign Jake Bauers",
-      "url": "https://www.masslive.com/redsox/2026/11/why-jake-bauers-was-red-sox-first-call-one-minute-into-free-agency-and-a-great-target.html"
     }
   ],
-  "generated_at": "2026-11-24T12:49:11.218008+00:00",
+  "generated_at": "2026-11-24T22:48:17.489112+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

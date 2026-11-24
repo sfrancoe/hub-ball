@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rays",
+      "description": "The midseason trade acquisition was a godsend for the Rays, but they could not compete with the five-year deal he is getting from the Orioles.",
+      "published": "2026-11-24T16:44:36+00:00",
+      "title": "You can forget about a Freddy Peralta-Rays reunion",
+      "url": "https://www.tampabay.com/sports/rays/2026/11/24/you-can-forget-about-freddy-peralta-rays-reunion/"
+    },
+    {
+      "category": "Rays",
       "description": "Tales | Danielle Dockx took an interesting path from playing softball at Princeton to her new job leading Tampa Bay’s renowned player development department.",
       "published": "2026-11-22T13:00:00+00:00",
       "title": "How pre-med studies and hummingbird colors led to a key role with Rays",
@@ -111,16 +118,9 @@
       "published": "2026-11-05T22:33:36+00:00",
       "title": "Rays’ Silver Slugger finalists are Caminero and — surprise! — Simpson",
       "url": "https://www.tampabay.com/sports/rays/2026/11/05/junior-caminero-chandler-simpson-silver-al-slugger-award-finalists-randy-arozarena/"
-    },
-    {
-      "category": "Rays",
-      "description": "Notes | There was immediate trade speculation after the team picked up the two-time All-Star’s option for a franchise-record $20 million salary.",
-      "published": "2026-11-03T21:36:52+00:00",
-      "title": "Rays have ‘every intention right now’ of keeping Drew Rasmussen",
-      "url": "https://www.tampabay.com/sports/rays/2026/11/03/drew-rasmussen-erik-neander-edwin-uceta-junior-caminero-shane-mcclanahan-ryan-pepiot/"
     }
   ],
-  "generated_at": "2026-11-22T18:40:42.804378+00:00",
+  "generated_at": "2026-11-24T22:48:31.321979+00:00",
   "source": "Tampa Bay Times",
   "source_url": "https://www.tampabay.com/sports/rays/"
 }

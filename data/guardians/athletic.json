@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "The Cleveland Guardians have prioritized adding starting pitching this winter, and for their first act, they’re turning to Kris Bubic, an All-Star with American Le ...",
+      "published": "2026-11-24T08:00:00+00:00",
+      "title": "Guardians agree to 1-year deal with Kris Bubic, adding to their rotation: Source",
+      "url": "https://www.nytimes.com/athletic/7798169/2026/11/24/kris-bubic-signs-with-guardians-mlb-free-agency/"
+    },
+    {
+      "category": "Guardians",
       "description": "After an All-Star season in 2024, injuries slowed down Fry, who struggled at the plate for the last two seasons.",
-      "published": "2026-11-20T18:10:00+00:00",
+      "published": "2026-11-19T16:00:00+00:00",
       "title": "Guardians non-tender David Fry on his birthday, offer contracts to 9 other players",
       "url": "https://www.nytimes.com/athletic/7798930/2026/11/20/guardians-contracts-david-fry-free-agent/"
     },
@@ -17,7 +24,7 @@
     {
       "category": "Guardians",
       "description": "The parties said they hope to make closing arguments on Nov. 30, with pitchers’ fate handed off to the jury shortly thereafter.",
-      "published": "2026-11-23T02:33:00+00:00",
+      "published": "2026-11-23T06:50:00+00:00",
       "title": "In MLB pitch-rigging trial, status of potential key witness draws scrutiny",
       "url": "https://www.nytimes.com/athletic/7803809/2026/11/23/mlb-pitch-rigging-trial-ortiz-clase-guardians-witness/"
     },
@@ -37,6 +44,13 @@
     },
     {
       "category": "Guardians",
+      "description": "A cooperating witness says he received insider information on pitches Ortiz threw in games on June 15 and June 27 in the 2025 season.",
+      "published": "2026-11-18T16:01:00+00:00",
+      "title": "MLB pitch-rigging trial testimony shifts focus to Luis Ortiz’s pitches",
+      "url": "https://www.nytimes.com/athletic/7796387/2026/11/19/mlb-pitch-rigging-trial-ortiz-clase-guardians/"
+    },
+    {
+      "category": "Guardians",
       "description": "The filing is intended to rebut Clase’s defense that he had no financial motivation to engage in an alleged pitch-rigging scheme.",
       "published": "2026-11-11T09:21:00+00:00",
       "title": "Indicted pitcher Emmanuel Clase owed nearly $700K in unpaid taxes, government says",
@@ -48,16 +62,9 @@
       "published": "2026-11-16T16:00:00+00:00",
       "title": "Guardians pitcher’s allegedly coded in-game ‘rooster’ texts shown in pitch-rigging trial",
       "url": "https://www.nytimes.com/athletic/7790923/2026/11/17/emmanuel-clase-pitch-rigging-trial-coded-texts-rooster/"
-    },
-    {
-      "category": "Guardians",
-      "description": "A cooperating witness says he received insider information on pitches Ortiz threw in games on June 15 and June 27 in the 2025 season.",
-      "published": "2026-11-19T17:39:00+00:00",
-      "title": "MLB pitch-rigging trial testimony shifts focus to Luis Ortiz’s pitches",
-      "url": "https://www.nytimes.com/athletic/7796387/2026/11/19/mlb-pitch-rigging-trial-ortiz-clase-guardians/"
     }
   ],
-  "generated_at": "2026-11-24T02:28:08.874415+00:00",
+  "generated_at": "2026-11-24T22:48:34.141472+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

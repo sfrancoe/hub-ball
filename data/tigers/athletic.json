@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "Kim struggled last year with the Braves, when he started the season on the injured list and was demoted to a part-time role.",
+      "published": "2026-11-24T06:25:00+00:00",
+      "title": "Tigers signing veteran infielder Ha-Seong Kim to 1-year, $5 million deal: Sources",
+      "url": "https://www.nytimes.com/athletic/7751170/2026/11/24/tigers-sign-ha-seong-kim/"
+    },
+    {
+      "category": "Tigers",
+      "description": "Melton said those words Tuesday in Detroit, sitting at a dais where he was formally announced as the recipient of a six-year, $46.5 million contract extension. The deal has a club option for a seventh ...",
+      "published": "2026-11-24T12:43:00+00:00",
+      "title": "Why Troy Melton signed an extension with the Tigers: ‘I wanted to win here’",
+      "url": "https://www.nytimes.com/athletic/7809667/2026/11/24/troy-melton-tigers-contract-extension/"
+    },
+    {
+      "category": "Tigers",
       "description": "The Yankees non-tendered the 2024 AL Rookie of the Year on Friday, after a season in which he had a 4.61 ERA in only 27 1/3 innings.",
       "published": "2026-11-22T13:25:00+00:00",
       "title": "Tigers, former Yankees right-hander Luis Gil agree to one-year deal: Source",
@@ -23,13 +37,20 @@
     },
     {
       "category": "Tigers",
+      "description": "A second expulsion threat is the latest step in a months-long fight that includes former pro signees, renegade coaches and dueling lawsuits.",
+      "published": "2026-11-24T13:02:00+00:00",
+      "title": "How did LSU and the SEC get here? A timeline of the Tigers’ antagonistic recent history",
+      "url": "https://www.nytimes.com/athletic/7809803/2026/11/24/lsu-sec-lane-kiffin-will-wade-timeline/"
+    },
+    {
+      "category": "Tigers",
       "description": "To clear space for Pagán, Briceño, Anderson and Graham on the 40-man roster, the Tigers designated four players for assignment: infielder Jace Jung, infielder Trey Sweeney, left-hander Jake Miller and ...",
       "published": "2026-11-16T16:00:00+00:00",
       "title": "Tigers to seek more bullpen help after adding Pagán, 3 players to roster: Takeaways",
       "url": "https://www.nytimes.com/athletic/7790734/2026/11/17/tigers-takeaways-bullpen-emilio-pagan-rule-5/"
     }
   ],
-  "generated_at": "2026-11-24T12:49:25.845021+00:00",
+  "generated_at": "2026-11-24T22:48:34.531429+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/tigers/"
 }
