@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Reds",
+      "description": "Free-agent left-handed pitcher Brent Suter, a former Moeller High School standout, reportedly is signing a one-year, $4 million deal with the Yankees.",
+      "published": "2026-11-23T12:36:00+00:00",
+      "title": "Brent Suter, former Reds LHP from Moeller, reaches deal with Yankees",
+      "url": "https://www.cincinnati.com/story/sports/high-school/ohio-high-school/2026/11/23/brent-suter-former-moeller-pitcher-signs-with-yankees/92930804007/"
+    },
+    {
+      "category": "Reds",
       "description": "Former Reds outfielder Deion Sanders returns to Cincinnati as a football coach in a town where he found religion and wanted to stay.",
       "published": "2026-11-18T15:34:00+00:00",
       "title": "Deion Sanders returns to Cincinnati with baseball memories: 'I wanted to stay'",
@@ -22,7 +29,7 @@
       "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/17/elly-de-la-cruz-wins-nl-silver-slugger-award-before-arbitration/92831960007/"
     }
   ],
-  "generated_at": "2026-11-24T02:28:18.455030+00:00",
+  "generated_at": "2026-11-24T12:49:31.272643+00:00",
   "source": "Enquirer",
   "source_url": "https://www.cincinnati.com/sports/reds/"
 }

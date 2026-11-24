@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "MLB",
+      "description": "Players have vowed never to accept a salary cap, while commissioner Rob Manfred has said he can’t envision owners agreeing to a deal without one.",
+      "published": "2026-11-24T04:16:00.747Z",
+      "title": "With MLB sticking by salary cap, players counter that owners should just share revenues without one",
+      "url": "https://www.bostonglobe.com/2026/11/23/sports/mlb-labor-negotiations/"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The award, presented by the Red Sox since 1990, goes to a major leaguer who has overcome adversity through the attributes of spirit, determination, and courage.",
+      "published": "2026-11-24T02:59:46.533Z",
+      "title": "Red Sox name Nationals’ Erik Tolman winner of 2026 Tony Conigliaro Award",
+      "url": "https://www.bostonglobe.com/2026/11/23/sports/tony-conigliaro-award-red-sox/"
+    },
+    {
+      "category": "MLB",
       "description": "Milwaukee players voted to award 65 full shares and 17.5 partial shares for 82.5 full share equivalents plus 20 cash awards to divide a pool of $41.2 million.",
       "published": "2026-11-24T01:14:38.937Z",
       "title": "World Series champion Brewers’ full playoff share was $493,044, total pool was down from 2025",
@@ -97,23 +111,9 @@
       "published": "2026-11-16T14:56:22.341Z",
       "title": "Making moves: Red Sox, Jake Bauers playing chess, and other thoughts",
       "url": "https://www.bostonglobe.com/2026/11/16/sports/jake-bauers-red-sox/"
-    },
-    {
-      "category": "Sunday baseball notes",
-      "description": "Four days of meetings in Las Vegas wrapped up Thursday.",
-      "published": "2026-11-14T14:35:25.734Z",
-      "title": "GM meetings good for widespread items of interest, including some with Red Sox connections",
-      "url": "https://www.bostonglobe.com/2026/11/14/sports/sunday-baseball-notes-gm-meetings/"
-    },
-    {
-      "category": "On Baseball",
-      "description": "The quality of his playoff at-bats crystallized how Bauers could provide the Sox with something they were missing in 2026.",
-      "published": "2026-11-13T20:44:29.45Z",
-      "title": "Why Jake Bauers represents a fit for what the Red Sox’ offense needs",
-      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-red-sox-2/"
     }
   ],
-  "generated_at": "2026-11-24T02:27:49.515148+00:00",
+  "generated_at": "2026-11-24T12:49:09.715288+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

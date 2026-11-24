@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "After focusing on the bullpen, the Yankees soon will have to turn their attention to the lineup, which has several weaknesses and questions.",
+      "published": "2026-11-24T11:01:09+00:00",
+      "title": "Where does Yankees' offense need the most help? Ranking biggest problems areas",
+      "url": "https://www.nytimes.com/athletic/7807695/2026/11/24/yankees-offense-needs-trades-free-agency/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees have made several moves targeting the bullpen in the past few weeks.",
       "published": "2026-11-23T20:37:42+00:00",
       "title": "Yankees sign Brent Suter, deepening bullpen with Adrian Morejon still on market: Source",
@@ -132,16 +139,9 @@
       "published": "2026-11-11T01:31:09+00:00",
       "title": "Yankees eye change at hitting coach, interviewing candidates as staff takes shape",
       "url": "https://www.nytimes.com/athletic/7709354/2026/11/10/yankees-hitting-coach-search-james-rowson/"
-    },
-    {
-      "category": "Yankees",
-      "description": "“You're going to be a rich f---er,\" Brewers manager Pat Murphy told one of his players.",
-      "published": "2026-11-10T10:30:10+00:00",
-      "title": "Pat Murphy was embarrassed by his viral gaffe. But it revealed a powerful idea about culture",
-      "url": "https://www.nytimes.com/athletic/7768638/2026/11/10/pat-murphy-brewers-viral-yankees-culture/"
     }
   ],
-  "generated_at": "2026-11-24T02:27:58.123750+00:00",
+  "generated_at": "2026-11-24T12:49:17.460535+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

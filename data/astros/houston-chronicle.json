@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "The Astros' coaching staff makeover under new manager Brad Ausmus continues with two additions from the Braves and Dodgers.",
+      "published": "2026-11-23T13:59:00+00:00",
+      "title": "Houston Astros adding J.P. Martinez, Aaron Bates to coaching staff",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/jp-martinez-aaron-bates-coaching-hires-22547057.php"
+    },
+    {
+      "category": "Astros",
       "description": "Josh Miller had been retained after the Astros parted with manager Joe Espada but the longtime pitching coach will not be part of new skipper Brad Ausmus' staff.",
       "published": "2026-11-23T10:31:00+00:00",
       "title": "Josh Miller not returning as Houston Astros pitching coach after six seasons in role",
@@ -23,13 +30,6 @@
     },
     {
       "category": "Astros",
-      "description": "Matt Bayer will rejoin Astros general manager Randy Flores, a colleague for a decade in St. Louis, as an assistant GM in Houston.",
-      "published": "2026-11-17T16:00:00+00:00",
-      "title": "Houston Astros hiring St. Louis Cardinals executive Matt Bayer as assistant general manager",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-bayer-hiring-assistant-gm-22538991.php"
-    },
-    {
-      "category": "Astros",
       "description": "The outfielder who was traded away and reacquired by Houston during the past two years played just 40 games in the majors in 2026 due to injuries and demotions.",
       "published": "2026-11-17T15:19:00+00:00",
       "title": "Joey Loperfido removed from Houston Astros' 40-man roster, sent to Triple-A Sugar Land",
@@ -37,10 +37,10 @@
     },
     {
       "category": "Astros",
-      "description": "Jackson Nezuh was rated the No. 16 prospect in the Astros' system. By being on 40-man roster, he is protected from Rule 5 draft, if it happens.",
-      "published": "2026-11-17T14:57:00+00:00",
-      "title": "Houston Astros add pitcher Jackson Nezuh to 40-man roster to protect him from possible Rule 5 draft",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-jackson-nezuh-40-man-rule-5-22534969.php"
+      "description": "Matt Bayer will rejoin Astros general manager Randy Flores, a colleague for a decade in St. Louis, as an assistant GM in Houston.",
+      "published": "2026-11-17T16:00:00+00:00",
+      "title": "Houston Astros hiring St. Louis Cardinals executive Matt Bayer as assistant general manager",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/matt-bayer-hiring-assistant-gm-22538991.php"
     },
     {
       "category": "Astros",
@@ -51,10 +51,10 @@
     },
     {
       "category": "Astros",
-      "description": "The Astros have spoken with more than four candidates, and GM Randy Flores says choosing a manager remains the first order of business in Houston.",
-      "published": "2026-11-09T16:00:00+00:00",
-      "title": "Houston Astros' managerial search could wind down in days, with GM Randy Flores 'hopeful'",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-manager-search-randy-flores-22520590.php"
+      "description": "Jackson Nezuh was rated the No. 16 prospect in the Astros' system. By being on 40-man roster, he is protected from Rule 5 draft, if it happens.",
+      "published": "2026-11-17T14:57:00+00:00",
+      "title": "Houston Astros add pitcher Jackson Nezuh to 40-man roster to protect him from possible Rule 5 draft",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/astros-jackson-nezuh-40-man-rule-5-22534969.php"
     },
     {
       "category": "Astros",
@@ -65,13 +65,13 @@
     },
     {
       "category": "Astros",
-      "description": "Brad Ausmus says a four-hour lunch with Houston GM Randy Flores set the stage for his return to Astros as manager.",
-      "published": "2026-11-13T11:27:00+00:00",
-      "title": "New Astros manager Brad Ausmus explains how he came back to Houston and what is next",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-return-to-houston-manager-22528584.php"
+      "description": "The Astros have spoken with more than four candidates, and GM Randy Flores says choosing a manager remains the first order of business in Houston.",
+      "published": "2026-11-09T16:00:00+00:00",
+      "title": "Houston Astros' managerial search could wind down in days, with GM Randy Flores 'hopeful'",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-manager-search-randy-flores-22520590.php"
     }
   ],
-  "generated_at": "2026-11-24T02:28:11.155870+00:00",
+  "generated_at": "2026-11-24T12:49:26.911212+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

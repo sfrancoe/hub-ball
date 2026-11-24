@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "Thanksgiving has been a bountiful time for the Red Sox over the years. Here are some of the most significant late-November deals the club has made over the last three decades.",
+      "published": "2026-11-24T10:30:13Z",
+      "title": "As Thanksgiving approaches, a look at Red Sox’s biggest late-November deals",
+      "url": "https://www.bostonherald.com/2026/11/24/as-thanksgiving-approaches-a-look-at-red-soxs-biggest-late-november-deals/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Next week MLB is likely to lock out its players, initiating a work stoppage that could jeopardize the 2027 season. What can fans expect over the last few days before the lockout begins?",
       "published": "2026-11-23T10:30:31Z",
       "title": "MLB notes: What fans can expect in last days before lockout begins",
@@ -104,16 +111,9 @@
       "published": "2026-11-13T18:03:33Z",
       "title": "Red Sox make unexpected signing of Brewers postseason hero Jake Bauers",
       "url": "https://www.bostonherald.com/2026/11/13/red-sox-signing-jake-bauers-contract-willson-contreras-mlb-breaking-news/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "MLB’s GM Meetings have come and gone. Here are five Red Sox takeaways heading into what should be a busy stretch of the offseason.",
-      "published": "2026-11-13T10:30:56Z",
-      "title": "Five Red Sox takeaways from GM Meetings in Las Vegas",
-      "url": "https://www.bostonherald.com/2026/11/13/five-red-sox-takeaways-from-gm-meetings-in-las-vegas/"
     }
   ],
-  "generated_at": "2026-11-23T15:25:55.925221+00:00",
+  "generated_at": "2026-11-24T12:49:10.457724+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

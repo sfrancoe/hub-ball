@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The Mets habitually chase the market’s most alluring names. They've done it enough, in fact, to form a full roster of splashy acquisitions.",
+      "published": "2026-11-24T10:20:46+00:00",
+      "title": "The Mets' big swings before Tarik Skubal: A 26-man roster of star imports, fireworks included",
+      "url": "https://www.nytimes.com/athletic/7807638/2026/11/24/mets-tarik-skubal-free-agents-history-star-players/"
+    },
+    {
+      "category": "Mets",
       "description": "In the wake of Skubal's massive contract, David Stearns might let the market play out instead of targeting another specific pitcher.",
       "published": "2026-11-24T00:39:26+00:00",
       "title": "What I'm hearing about Mets' rotation plans now that Tarik Skubal is in the fold",
@@ -132,16 +139,9 @@
       "published": "2026-11-18T01:07:59+00:00",
       "title": "Mets add only Jefferson Rojas to the 40-man roster ahead of potential Rule 5 draft",
       "url": "https://www.nytimes.com/athletic/7790890/2026/11/17/mets-add-only-jefferson-rojas-to-the-40-man-roster-ahead-of-potential-rule-5-draft/"
-    },
-    {
-      "category": "Mets",
-      "description": "Rodriguez is happy he ended up with an ownership stake in the Minnesota Timberwolves instead.",
-      "published": "2026-11-17T22:35:51+00:00",
-      "title": "Alex Rodriguez says ‘I thank God every day’ that his bid to buy the Mets failed",
-      "url": "https://www.nytimes.com/athletic/7790546/2026/11/17/alex-rodriguez-mets-bid/"
     }
   ],
-  "generated_at": "2026-11-24T02:28:02.678052+00:00",
+  "generated_at": "2026-11-24T12:49:21.508320+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

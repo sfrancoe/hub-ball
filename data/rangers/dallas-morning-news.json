@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Rangers",
+      "description": "On Monday the Texas Rangers released their list of theme and specialty nights for the 2027 MLB season. Specialty nights are select nights in which the Rangers will offer fans limited-edition items and ...",
+      "published": "2026-11-22T16:00:00+00:00",
+      "title": "Texas Rangers release theme and specialty night schedule for 2027 season",
+      "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-specialty-theme-night-schedule-22546993.php"
+    },
+    {
+      "category": "Rangers",
       "description": "WFAA’s Michelle Montaine will replace Stickells. Montaine served as the Rangers’ secondary field reporter for approximately 20 games in 2026.",
       "published": "2026-11-20T08:00:00+00:00",
       "title": "Texas Rangers name replacement for Laura Stickells as team's field reporter",
@@ -64,7 +71,7 @@
       "url": "https://www.dallasnews.com/sports/rangers/article/rangers-searching-for-depth-at-catcher-options-22523636.php"
     }
   ],
-  "generated_at": "2026-11-24T02:28:13.722887+00:00",
+  "generated_at": "2026-11-24T12:49:28.639549+00:00",
   "source": "Dallas Morning News",
   "source_url": "https://www.dallasnews.com/sports/rangers/"
 }
