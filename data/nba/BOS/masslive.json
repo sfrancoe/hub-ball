@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics could take a big step towards locking up a spot in the NBA Cup quarterfinals on Tuesday night.",
+        "published": "2026-11-24T17:47:19+00:00",
+        "title": "Celtics NBA Cup scenarios: How Boston can advance vs. Wizards",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-nba-cup-scenarios-how-boston-can-advance-to-next-round.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Mitchell Robinson will miss at least three games as the Celtics look to snap a four-game losing streak.",
         "published": "2026-11-24T17:20:12+00:00",
         "title": "Mitchell Robinson to miss 3rd straight game due to illness",
@@ -105,16 +112,9 @@
         "published": "2026-11-22T05:42:12+00:00",
         "title": "Mike Conley is Celtics ‘Name to Know’ Player of the Game in loss to Kings",
         "url": "https://www.masslive.com/celtics/2026/11/mike-conley-is-celtics-name-to-know-player-of-the-game-in-loss-to-kings.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics will be without three of their rotation players as they look to snap a two-game losing streak.",
-        "published": "2026-11-21T20:52:54+00:00",
-        "title": "Jayson Tatum, Mitchell Robinson downgraded for Kings game Saturday",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-mitchell-robinson-downgraded-for-kings-game-saturday.html"
       }
     ],
-    "generated_at": "2026-11-24T17:37:20.851883+00:00",
+    "generated_at": "2026-11-24T17:57:28.639541+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
