@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-23T07:52:18.062679+00:00",
+  "generated_at": "2026-11-24T00:02:14.335110+00:00",
   "source": "X",
   "source_url": "https://x.com/Padres",
   "recent": [
+    {
+      "id": "2124918622502183279",
+      "text": "Happy birthday, Kyle! 🥳 https://t.co/B0KWPViDll",
+      "url": "https://x.com/Padres/status/2124918622502183279",
+      "published": "2026-11-23T17:30:53+00:00",
+      "likes": 398,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX03ZhqaIAAlYPd.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124321970900849025",
       "text": "Padres alumni took the field alongside the Marine Corps Recruit Depot San Diego All-Stars for a mixed-squad softball game! https://t.co/RYLRsLUomY",
       "url": "https://x.com/Padres/status/2124321970900849025",
       "published": "2026-11-22T02:00:00+00:00",
-      "likes": 279,
+      "likes": 304,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -36,7 +50,7 @@
       "text": "dairy bonds core https://t.co/0FRFO4SMOO",
       "url": "https://x.com/Padres/status/2123959607316160794",
       "published": "2026-11-21T02:00:06+00:00",
-      "likes": 1454,
+      "likes": 1456,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -50,7 +64,7 @@
       "text": "Can he talk his Sheets again? https://t.co/D97TCkkgcg",
       "url": "https://x.com/Padres/status/2123955927011520657",
       "published": "2026-11-21T01:45:28+00:00",
-      "likes": 1266,
+      "likes": 1267,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -88,5 +102,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2124918622502183279",
+      "text": "Happy birthday, Kyle! 🥳 https://t.co/B0KWPViDll",
+      "url": "https://x.com/Padres/status/2124918622502183279",
+      "published": "2026-11-23T17:30:53+00:00",
+      "likes": 398,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX03ZhqaIAAlYPd.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

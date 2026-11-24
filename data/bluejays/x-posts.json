@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-23T07:52:18.055248+00:00",
+  "generated_at": "2026-11-24T00:02:14.324201+00:00",
   "source": "X",
   "source_url": "https://x.com/BlueJays",
   "recent": [
+    {
+      "id": "2124963911455662581",
+      "text": "Top @MLB Plays of 2026: EIGHT no-hit innings for Dylan Cease 😤 https://t.co/etvx7cVSbu",
+      "url": "https://x.com/BlueJays/status/2124963911455662581",
+      "published": "2026-11-23T20:30:51+00:00",
+      "likes": 474,
+      "author": "Toronto Blue Jays",
+      "handle": "BlueJays",
+      "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX1jRtqXAAIv0iU.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124269479395779069",
       "text": "Top @mlb plays of 2026: Dylan Cease’s one-hit MASTERPIECE 🎨 https://t.co/uSl3V2S9aM",
       "url": "https://x.com/BlueJays/status/2124269479395779069",
       "published": "2026-11-21T22:31:25+00:00",
-      "likes": 777,
+      "likes": 794,
       "author": "Toronto Blue Jays",
       "handle": "BlueJays",
       "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
@@ -16,35 +30,22 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2123904228561178905",
-      "text": "ROSTER UPDATE: 🔹 We've non-tendered INF/OF Davis Schneider 🔹 All remaining unsigned players on our 40-man roster have been tendered contracts for 2027",
-      "url": "https://x.com/BlueJays/status/2123904228561178905",
-      "published": "2026-11-20T22:20:02+00:00",
-      "likes": 2503,
+      "id": "2124963911455662581",
+      "text": "Top @MLB Plays of 2026: EIGHT no-hit innings for Dylan Cease 😤 https://t.co/etvx7cVSbu",
+      "url": "https://x.com/BlueJays/status/2124963911455662581",
+      "published": "2026-11-23T20:30:51+00:00",
+      "likes": 474,
       "author": "Toronto Blue Jays",
       "handle": "BlueJays",
       "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123884123701829749",
-      "text": "OFFICIAL: We’ve acquired cash considerations from the Colorado Rockies in exchange for RHP Chase Lee. https://t.co/rkflOCHxq4",
-      "url": "https://x.com/BlueJays/status/2123884123701829749",
-      "published": "2026-11-20T21:00:09+00:00",
-      "likes": 918,
-      "author": "Toronto Blue Jays",
-      "handle": "BlueJays",
-      "avatar": "https://pbs.twimg.com/profile_images/2072887653272584192/OusrTaFo_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXmH9Q-WIAESIxT.jpg",
+      "media": "https://pbs.twimg.com/media/HX1jRtqXAAIv0iU.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }
