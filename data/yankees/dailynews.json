@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Suter gives the Yankees a third southpaw in their bullpen alongside Brent Headrick and Tim...",
+      "published": "2026-11-24T01:28:18+00:00",
+      "title": "Yankees agree to deal with Brent Suter, adding another lefty to their bullpen: source",
+      "url": "https://www.nydailynews.com/2026/11/23/yankees-agree-to-deal-with-brent-suter-adding-another-lefty-to-their-bullpen-source/"
+    },
+    {
+      "category": "Yankees",
       "description": "It didn't take long for Luis Gil to land on his feet.",
       "published": "2026-11-22T21:11:51+00:00",
       "title": "Tigers pounce on Yankees castoff Luis Gil, agree to one-year deal: source",
@@ -132,16 +139,9 @@
       "published": "2026-11-11T12:30:19+00:00",
       "title": "Yankees takeaways: Brian Cashman ‘not afraid’ to spend on bullpen, ‘open-minded’ at third base",
       "url": "https://www.nydailynews.com/2026/11/11/yankees-takeaways-brian-cashman-not-afraid-to-spend-on-bullpen-open-minded-at-third-base/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The fact that the hitting staff is still in limbo is somewhat surprising for a...",
-      "published": "2026-11-11T01:54:17+00:00",
-      "title": "Yankees could make hitting coach change with job, James Rowson still in limbo",
-      "url": "https://www.nydailynews.com/2026/11/10/yankees-hitting-staff-james-rowson/"
     }
   ],
-  "generated_at": "2026-11-22T23:52:27.362273+00:00",
+  "generated_at": "2026-11-24T02:27:52.055395+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

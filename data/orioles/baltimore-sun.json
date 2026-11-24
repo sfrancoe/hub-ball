@@ -2,10 +2,10 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "The Orioles agreed to a 2027 contract with closer Félix Bautista to avoid arbitration, the team announced Friday.",
-      "published": "2026-11-20T11:46:00+00:00",
-      "title": "Orioles sign Bautista for $2.35M, tender contracts to Cowser, Henderson, Westburg",
-      "url": "https://www.baltimoresun.com/2026/11/20/orioles-sign-felix-bautista-arbitration-decisions/"
+      "description": "The Orioles are exploring all avenues for improving the team this winter, GM Jared Banner said on the ‘Early Birds’ podcast.",
+      "published": "2026-11-23T11:02:00+00:00",
+      "title": "Orioles GM Jared Banner on offseason approach: ‘Something needs to change’",
+      "url": "https://www.baltimoresun.com/2026/11/23/orioles-jared-banner-offseason-approach/"
     },
     {
       "category": "Orioles",
@@ -13,6 +13,13 @@
       "published": "2026-11-20T14:15:00+00:00",
       "title": "Orioles restructure training staff, hire new VP of high performance",
       "url": "https://www.baltimoresun.com/2026/11/20/orioles-training-staff-restructure-injuries/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles agreed to a 2027 contract with closer Félix Bautista to avoid arbitration, the team announced Friday.",
+      "published": "2026-11-20T11:46:00+00:00",
+      "title": "Orioles sign Bautista for $2.35M, tender contracts to Cowser, Henderson, Westburg",
+      "url": "https://www.baltimoresun.com/2026/11/20/orioles-sign-felix-bautista-arbitration-decisions/"
     },
     {
       "category": "Orioles",
@@ -30,17 +37,17 @@
     },
     {
       "category": "Orioles",
+      "description": "The Orioles’ lineup needs a revamp. Is trading for Diamondbacks second baseman Ketel Marte the solution? It’s not a simple fit.",
+      "published": "2026-11-18T17:32:00+00:00",
+      "title": "Should Orioles trade for Ketel Marte? The case for and against. | ANALYSIS",
+      "url": "https://www.baltimoresun.com/2026/11/18/orioles-ketel-marte-trade-target/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles on Tuesday added Enrique Bradfield Jr. and six other prospects to their 40-man roster to protect from the Rule 5 draft.",
       "published": "2026-11-17T16:11:00+00:00",
       "title": "Orioles add 7 prospects to 40-man roster to protect from Rule 5 draft",
       "url": "https://www.baltimoresun.com/2026/11/17/orioles-add-seven-prospects-to-40-man-roster-to-protect-from-rule-5-draft-enrique-bradfield-jr-michael-forret/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles’ lineup needs a revamp. Is trading for Diamondbacks second baseman Ketel Marte the solution? It’s not a simple fit.",
-      "published": "2026-11-18T03:30:00+00:00",
-      "title": "Should Orioles trade for Ketel Marte? The case for and against. | ANALYSIS",
-      "url": "https://www.baltimoresun.com/2026/11/18/orioles-ketel-marte-trade-target/"
     },
     {
       "category": "Orioles",
@@ -51,20 +58,6 @@
     },
     {
       "category": "Orioles",
-      "description": "The 2027 Orioles promotional schedule features City Connect apparel, hot dog race bobbleheads and Hawaiian shirt giveaways, pending an MLB lockout.",
-      "published": "2026-11-16T07:14:00+00:00",
-      "title": "Orioles announce 2027 promotional schedule amid lockout uncertainty",
-      "url": "https://www.baltimoresun.com/2026/11/16/orioles-announce-2027-promotional-schedule-amid-lockout-uncertainty/"
-    },
-    {
-      "category": "Orioles",
-      "description": "With a lockout threatening to impact the 2027 season, the Orioles will offer full refunds for any games missed because of the work stoppage.",
-      "published": "2026-11-16T15:54:00+00:00",
-      "title": "Orioles plan to sell 2027 tickets. What if a lockout cancels games?",
-      "url": "https://www.baltimoresun.com/2026/11/16/orioles-2027-tickets-lockout-cancellations/"
-    },
-    {
-      "category": "Orioles",
       "description": "Former Orioles LHP Trevor Rogers elected to remain a free agent and decline the $23.15 million qualifying offer before Tuesday’s deadline.",
       "published": "2026-11-17T13:32:00+00:00",
       "title": "Trevor Rogers declines Orioles’ qualifying offer to test free agency",
@@ -72,13 +65,13 @@
     },
     {
       "category": "Orioles",
-      "description": "Former Orioles pitchers Jake Arrieta and Andrew Miller are set to appear on the Baseball Hall of Fame ballot for the first time this year.",
-      "published": "2026-11-16T11:04:00+00:00",
-      "title": "2 former Orioles to debut on 2027 Baseball Hall of Fame ballot",
-      "url": "https://www.baltimoresun.com/2026/11/16/orioles-2027-baseball-hall-of-fame-ballot-jake-arrieta-andrew-miller/"
+      "description": "With a lockout threatening to impact the 2027 season, the Orioles will offer full refunds for any games missed because of the work stoppage.",
+      "published": "2026-11-16T15:54:00+00:00",
+      "title": "Orioles plan to sell 2027 tickets. What if a lockout cancels games?",
+      "url": "https://www.baltimoresun.com/2026/11/16/orioles-2027-tickets-lockout-cancellations/"
     }
   ],
-  "generated_at": "2026-11-23T15:26:18.158430+00:00",
+  "generated_at": "2026-11-24T02:28:05.743824+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "category": "MLB",
+      "description": "Milwaukee players voted to award 65 full shares and 17.5 partial shares for 82.5 full share equivalents plus 20 cash awards to divide a pool of $41.2 million.",
+      "published": "2026-11-24T01:14:38.937Z",
+      "title": "World Series champion Brewers’ full playoff share was $493,044, total pool was down from 2025",
+      "url": "https://www.bostonglobe.com/2026/11/23/sports/mlb-postseason-shares/"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The Red Sox introduced Bauers on Tuesday with the type of formal press conference they usually reserve for nine-figure contracts.",
+      "published": "2026-11-23T15:48:07.851Z",
+      "title": "Jake Bauers’s introduction came with surprising fanfare, and other Red Sox thoughts",
+      "url": "https://www.bostonglobe.com/2026/11/23/sports/red-sox-jake-bauers-signing/"
+    },
+    {
       "category": "Red Sox",
       "description": "The Red Sox' farm system was emptied through a series of graduations and trades this season. So who now lands in their top 10?",
       "published": "2026-11-23T13:06:57.968Z",
@@ -97,23 +111,9 @@
       "published": "2026-11-13T20:44:29.45Z",
       "title": "Why Jake Bauers represents a fit for what the Red Sox’ offense needs",
       "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-red-sox-2/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "Bauers nearly retired from baseball in 2024, but went on to become one of the Brewers' most impactful bats in 2026.",
-      "published": "2026-11-13T20:41:04.091Z",
-      "title": "Five things to know about new Red Sox slugger Jake Bauers",
-      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-things-to-know-red-sox/"
-    },
-    {
-      "category": "Red Sox",
-      "description": "With the Red Sox, Bauers seems to fit best primarily at designated hitter, though this past season he played mostly first base.",
-      "published": "2026-11-13T18:06:22.702Z",
-      "title": "Red Sox make their first big splash of the offseason, signing Brewers World Series champion Jake Bauers",
-      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-red-sox/"
     }
   ],
-  "generated_at": "2026-11-23T15:25:55.176652+00:00",
+  "generated_at": "2026-11-24T02:27:49.515148+00:00",
   "source": "The Boston Globe",
   "source_url": "https://www.bostonglobe.com/sports/red-sox/"
 }

@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Reds",
+      "description": "Former Reds outfielder Deion Sanders returns to Cincinnati as a football coach in a town where he found religion and wanted to stay.",
+      "published": "2026-11-18T15:34:00+00:00",
+      "title": "Deion Sanders returns to Cincinnati with baseball memories: 'I wanted to stay'",
+      "url": "https://www.cincinnati.com/story/sports/ncaaf/2026/11/18/deion-sanders-colorado-football-cincinnati-reds-baseball-marge-schott/92851113007/"
+    },
+    {
+      "category": "Reds",
       "description": "President Donald Trump posted on social media he'd pardoned Reds Hall of Famer Pete Rose, but it has no bearing on Baseball Hall of Fame voting.",
       "published": "2026-11-20T09:52:00+00:00",
       "title": "What Trump pardon means for Pete Rose's Hall of Fame case",
       "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/20/pete-rose-hall-of-fame-after-president-trump-pardon/92878162007/"
-    },
-    {
-      "category": "Reds",
-      "description": "Jay Bruce, who spent nine years with the Cincinnati Reds, is on the Hall of Fame ballot for the Baseball Writers Association of American to consider.",
-      "published": "2026-11-16T11:29:00+00:00",
-      "title": "Former Reds player Jay Bruce reaches Hall of Fame ballot. What to know",
-      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/16/former-reds-player-jay-bruce-is-up-for-hall-of-fame-consideration/92812184007/"
     },
     {
       "category": "Reds",
@@ -22,7 +22,7 @@
       "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/17/elly-de-la-cruz-wins-nl-silver-slugger-award-before-arbitration/92831960007/"
     }
   ],
-  "generated_at": "2026-11-23T04:47:42.462148+00:00",
+  "generated_at": "2026-11-24T02:28:18.455030+00:00",
   "source": "Enquirer",
   "source_url": "https://www.cincinnati.com/sports/reds/"
 }

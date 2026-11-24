@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Astros",
+      "description": "Josh Miller had been retained after the Astros parted with manager Joe Espada but the longtime pitching coach will not be part of new skipper Brad Ausmus' staff.",
+      "published": "2026-11-23T10:31:00+00:00",
+      "title": "Josh Miller not returning as Houston Astros pitching coach after six seasons in role",
+      "url": "https://www.houstonchronicle.com/sports/astros/article/josh-miller-pitching-coach-out-22546090.php"
+    },
+    {
+      "category": "Astros",
       "description": "Houston’s outfield has more turnover ahead, and the Astros have decisions to weigh after offering contracts to six arbitration-eligible players ...",
       "published": "2026-11-20T15:17:00+00:00",
       "title": "Houston Astros part with Taylor Trammell, offer contracts to all other arbitration-eligible players",
@@ -62,23 +69,9 @@
       "published": "2026-11-13T11:27:00+00:00",
       "title": "New Astros manager Brad Ausmus explains how he came back to Houston and what is next",
       "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-return-to-houston-manager-22528584.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Brad Ausmus, who played with Astros for parts of 10 seasons, is coming back as manager. He managed previously with the Tigers and Angels.",
-      "published": "2026-11-11T03:12:00+00:00",
-      "title": "Houston Astros hire former player Brad Ausmus as manager",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/brad-ausmus-manager-hiring-22525228.php"
-    },
-    {
-      "category": "Astros",
-      "description": "Since his introduction as Houston Astros general manager last week, Randy Flores has made clear that his first priority is hiring a manager, followed by filling out the major-league coaching staff. As ...",
-      "published": "2026-11-11T06:27:00+00:00",
-      "title": "How new Houston Astros GM Randy Flores views roster, trades and offseason",
-      "url": "https://www.houstonchronicle.com/sports/astros/article/houston-roster-trades-offseason-randy-flores-22524861.php"
     }
   ],
-  "generated_at": "2026-11-23T15:26:21.667469+00:00",
+  "generated_at": "2026-11-24T02:28:11.155870+00:00",
   "source": "Houston Chronicle",
   "source_url": "https://www.houstonchronicle.com/sports/astros/"
 }

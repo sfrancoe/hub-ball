@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "The Yankees have made several moves targeting the bullpen in the past few weeks.",
+      "published": "2026-11-23T20:37:42+00:00",
+      "title": "Yankees sign Brent Suter, deepening bullpen with Adrian Morejon still on market: Source",
+      "url": "https://www.nytimes.com/athletic/7806983/2026/11/23/yankees-sign-brent-suter-bullpen/"
+    },
+    {
+      "category": "Yankees",
       "description": "The Yankees non-tendered the 2024 AL Rookie of the Year on Friday, after a season in which he had a 4.61 ERA in only 27 1/3 innings.",
       "published": "2026-11-22T21:25:46+00:00",
       "title": "Tigers, former Yankees right-hander Luis Gil agree to one-year deal: Source",
@@ -132,16 +139,9 @@
       "published": "2026-11-10T10:30:10+00:00",
       "title": "Pat Murphy was embarrassed by his viral gaffe. But it revealed a powerful idea about culture",
       "url": "https://www.nytimes.com/athletic/7768638/2026/11/10/pat-murphy-brewers-viral-yankees-culture/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Swanson is widely considered one of the top catching coaches in all of baseball. He returns to his hometown in joining the Mariners.",
-      "published": "2026-11-06T21:46:40+00:00",
-      "title": "Yankees lose catching coach Tanner Swanson to Mariners for promotion to bench coach: Source",
-      "url": "https://www.nytimes.com/athletic/7760154/2026/11/06/yankees-tanner-swanson-mariners-bench-coach/"
     }
   ],
-  "generated_at": "2026-11-22T23:52:31.345006+00:00",
+  "generated_at": "2026-11-24T02:27:58.123750+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }
