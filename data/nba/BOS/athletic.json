@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Here are 10 players, vets and youngsters alike, who have been better than anyone could have expected in the first month of the season.",
+        "published": "2026-11-24T10:21:59+00:00",
+        "title": "The NBA's pleasant surprises: 2 Grizzlies, future Hall of Famers and defensive pests",
+        "url": "https://www.nytimes.com/athletic/7806186/2026/11/24/nba-surprises-stephen-curry-paul-george-jrue-holiday/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "With the holiday near, let’s pause and acknowledge what each team has provided a month into the season.",
         "published": "2026-11-23T16:20:35+00:00",
         "title": "NBA Power Rankings: Karl-Anthony Towns, Knicks have much to be thankful for",
@@ -105,16 +112,9 @@
         "published": "2026-11-09T16:46:35+00:00",
         "title": "NBA Power Rankings: Spurs soar to No. 1; Lakers, Timberwolves join contenders tier",
         "url": "https://www.nytimes.com/athletic/7767779/2026/11/09/nba-power-rankings-spurs-lakers-timberwolves-warriors/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "When the Celtics and 76ers meet Tuesday in Philadelphia, the unmistakable tension between Brown and Tatum will command the spotlight.",
-        "published": "2026-11-09T10:05:01+00:00",
-        "title": "How Jaylen Brown and Jayson Tatum’s Celtics partnership quietly unraveled",
-        "url": "https://www.nytimes.com/athletic/7761461/2026/11/09/jaylen-brown-jayson-tatum-celtics-partnership-unraveling/"
       }
     ],
-    "generated_at": "2026-11-23T16:28:08.835675+00:00",
+    "generated_at": "2026-11-24T10:24:37.631799+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },

@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "What has caused the Celtics’ offense to vanish during the longest losing streak of the Joe Mazzulla era?",
+        "published": "2026-11-24T10:15:47Z",
+        "title": "Celtics struggling through worst offensive stretch in 15 years",
+        "url": "https://www.bostonherald.com/2026/11/24/celtics-struggling-through-worst-offensive-stretch-in-15-years/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics on Saturday night made franchise history by missing 45 3-pointers in a loss to the Kings. Less than 24 hours later, the Celtics did something they hadn’t in five years by losing their fourth game in a row.",
         "published": "2026-11-23T04:13:07Z",
         "title": "Celtics’ struggles persist against Warriors, resulting in longest losing streak in five years",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T18:09:53Z",
         "title": "After big game vs. 76ers, Paul George ruled out for Celtics-Raptors",
         "url": "https://www.bostonherald.com/2026/11/11/after-big-game-vs-76ers-paul-george-ruled-out-for-celtics-raptors/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum wasn’t interested in discussing Jaylen Brown — or Brown’s pregame cold shoulder — after the Celtics’ rout of the 76ers.",
-        "published": "2026-11-11T10:10:37Z",
-        "title": "Jayson Tatum wants ‘no headlines’ about Jaylen Brown cold shoulder",
-        "url": "https://www.bostonherald.com/2026/11/11/jayson-tatum-wants-no-headlines-about-jaylen-brown-cold-shoulder/"
       }
     ],
-    "generated_at": "2026-11-23T04:13:56.158352+00:00",
+    "generated_at": "2026-11-24T10:24:36.904713+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
