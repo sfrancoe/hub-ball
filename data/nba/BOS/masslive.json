@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Mitchell Robinson will miss at least three games as the Celtics look to snap a four-game losing streak.",
+        "published": "2026-11-24T17:20:12+00:00",
+        "title": "Mitchell Robinson to miss 3rd straight game due to illness",
+        "url": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-to-miss-3rd-straight-game-due-to-illness.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics travel to Ball Arena to take on the Denver Nuggets on Wednesday. Compare Polymarket odds, spread lines, and score projections before tip off.",
         "published": "2026-11-23T21:15:00+00:00",
         "title": "Experts release Celtics vs. Wizards prediction as Tatum and Davis headline latest player props",
@@ -73,17 +80,17 @@
       },
       {
         "category": "Boston Celtics",
-        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
-        "published": "2026-11-22T10:00:00+00:00",
-        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
-        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
-      },
-      {
-        "category": "Boston Celtics",
         "description": "Random thoughts about (mostly) sports topics.",
         "published": "2026-11-22T10:00:00+00:00",
         "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
         "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
+      },
+      {
+        "category": "Boston Celtics",
+        "description": "The shorthanded Celtics lost their third straight game, this time to a King team at the bottom of the West standings.",
+        "published": "2026-11-22T10:00:00+00:00",
+        "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
+        "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
       },
       {
         "category": "Boston Celtics",
@@ -105,16 +112,9 @@
         "published": "2026-11-21T20:52:54+00:00",
         "title": "Jayson Tatum, Mitchell Robinson downgraded for Kings game Saturday",
         "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-mitchell-robinson-downgraded-for-kings-game-saturday.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics travel to Golden 1 Stadium to take on the Sacramento Kings on Saturday. Compare DraftKings odds, spread lines, and score projections before tip off.",
-        "published": "2026-11-21T17:15:00+00:00",
-        "title": "Experts release Celtics vs. Kings prediction as Tatum and Acuff headline latest player props",
-        "url": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-kings-prediction-as-tatum-and-acuff-headline-latest-player-props.html"
       }
     ],
-    "generated_at": "2026-11-24T17:07:08.756152+00:00",
+    "generated_at": "2026-11-24T17:27:16.261993+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
