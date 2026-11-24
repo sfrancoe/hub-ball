@@ -1,26 +1,69 @@
 {
-  "generated_at": "2026-11-23T05:25:02.528171+00:00",
+  "generated_at": "2026-11-24T07:10:02.754108+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Pirates",
   "team_id": "23",
   "sport": "mlb",
-  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
+  "likes_as_of": "2026-11-24T07:10:02.754108+00:00",
   "recent": [
     {
-      "id": "2123840104896643174",
-      "text": "Pirates Picks: Best Rookie Moment. Which are you picking? https://t.co/TnvzR1VDb9",
-      "url": "https://x.com/Pirates/status/2123840104896643174",
-      "published": "2026-11-20T18:05:14+00:00",
-      "likes": 344,
+      "id": "2124975902866198719",
+      "text": "RT @BucsCommunity: See yinz tomorrow! 🦃🖤💛",
+      "url": "https://x.com/Pirates/status/2124975902866198719",
+      "published": "2026-11-23T21:18:30+00:00",
+      "likes": 0,
       "author": "Pittsburgh Pirates",
       "handle": "Pirates",
       "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2123839915225985024/img/hBoxGoCUyOraXuyo.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2124973587828543786",
+      "text": "🔢 BUCS BY THE NUMBERS: ONEIL CRUZ. Oneil Cruz became the third Pirate to post consecutive 20-homer, 30-steal seasons since the club joined the NL in 1887. He joined Andy Van Slyke (1987–88) and Barry Bonds (1990–92). He was one of three players in Major League Baseball to have https://t.co/tzE7KDXvun",
+      "url": "https://x.com/Pirates/status/2124973587828543786",
+      "published": "2026-11-23T21:09:18+00:00",
+      "likes": 163,
+      "author": "Pittsburgh Pirates",
+      "handle": "Pirates",
+      "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2124973136865075200/img/2LYPD9luam6VPVno.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2124973587828543786",
+      "text": "🔢 BUCS BY THE NUMBERS: ONEIL CRUZ. Oneil Cruz became the third Pirate to post consecutive 20-homer, 30-steal seasons since the club joined the NL in 1887. He joined Andy Van Slyke (1987–88) and Barry Bonds (1990–92). He was one of three players in Major League Baseball to have https://t.co/tzE7KDXvun",
+      "url": "https://x.com/Pirates/status/2124973587828543786",
+      "published": "2026-11-23T21:09:18+00:00",
+      "likes": 163,
+      "author": "Pittsburgh Pirates",
+      "handle": "Pirates",
+      "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2124973136865075200/img/2LYPD9luam6VPVno.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2124975902866198719",
+      "text": "RT @BucsCommunity: See yinz tomorrow! 🦃🖤💛",
+      "url": "https://x.com/Pirates/status/2124975902866198719",
+      "published": "2026-11-23T21:18:30+00:00",
+      "likes": 0,
+      "author": "Pittsburgh Pirates",
+      "handle": "Pirates",
+      "avatar": "https://pbs.twimg.com/profile_images/2101201155447541760/QXbH4CWc_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

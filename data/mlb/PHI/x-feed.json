@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-23T05:25:02.528171+00:00",
+  "generated_at": "2026-11-24T07:10:02.754108+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Phillies",
   "team_id": "22",
   "sport": "mlb",
-  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
+  "likes_as_of": "2026-11-24T07:10:02.754108+00:00",
   "recent": [
+    {
+      "id": "2124895187893629203",
+      "text": "Tickets here! Get your tickets here! Single-game tickets for the 2027 season are on sale now 🎟️ https://t.co/wLyeVSC9Vu https://t.co/8MZ868qI7K",
+      "url": "https://x.com/Phillies/status/2124895187893629203",
+      "published": "2026-11-23T15:57:46+00:00",
+      "likes": 182,
+      "author": "Philadelphia Phillies",
+      "handle": "Phillies",
+      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2124894253620883456/img/h6uMThhqyQKOkt7r.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124174935769919744",
       "text": "Sending good luck to @PhilaUnion as the MLS Cup Playoffs kick off today! https://t.co/tfAEPxvGcf",
       "url": "https://x.com/Phillies/status/2124174935769919744",
       "published": "2026-11-21T16:15:44+00:00",
-      "likes": 545,
+      "likes": 548,
       "author": "Philadelphia Phillies",
       "handle": "Phillies",
       "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
@@ -20,35 +34,22 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
+    }
+  ],
+  "popular": [
     {
-      "id": "2123907295415312798",
-      "text": "The Phillies made the following roster moves today: Acquired right-handed pitcher Jordan Leasure from the Chicago White Sox in exchange for right-handed pitcher Christian Coppola and agreed to terms with Leasure on a contract for the 2027 season Agreed to terms on contracts for",
-      "url": "https://x.com/Phillies/status/2123907295415312798",
-      "published": "2026-11-20T22:32:14+00:00",
-      "likes": 947,
+      "id": "2124895187893629203",
+      "text": "Tickets here! Get your tickets here! Single-game tickets for the 2027 season are on sale now 🎟️ https://t.co/wLyeVSC9Vu https://t.co/8MZ868qI7K",
+      "url": "https://x.com/Phillies/status/2124895187893629203",
+      "published": "2026-11-23T15:57:46+00:00",
+      "likes": 182,
       "author": "Philadelphia Phillies",
       "handle": "Phillies",
       "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123851941730193474",
-      "text": "RT @PhilsCharities: Last night, hundreds of people participated in the second Sleep Out at the Ballpark, spending the night in the outfield…",
-      "url": "https://x.com/Phillies/status/2123851941730193474",
-      "published": "2026-11-20T18:52:16+00:00",
-      "likes": 0,
-      "author": "Philadelphia Phillies",
-      "handle": "Phillies",
-      "avatar": "https://pbs.twimg.com/profile_images/2116277055369211904/hj9yGL5s_normal.jpg",
-      "media": "",
+      "media": "https://pbs.twimg.com/amplify_video_thumb/2124894253620883456/img/h6uMThhqyQKOkt7r.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
-  ],
-  "popular": []
+  ]
 }

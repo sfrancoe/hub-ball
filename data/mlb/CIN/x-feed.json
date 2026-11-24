@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-23T05:25:02.528171+00:00",
+  "generated_at": "2026-11-24T07:10:02.754108+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Reds",
   "team_id": "17",
   "sport": "mlb",
-  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
+  "likes_as_of": "2026-11-24T07:10:02.754108+00:00",
   "recent": [
     {
       "id": "2124540091574124853",
       "text": "So Cincinnati. ROTY x Skyline https://t.co/zFD9hm9Xo0",
       "url": "https://x.com/Reds/status/2124540091574124853",
       "published": "2026-11-22T16:26:44+00:00",
-      "likes": 658,
+      "likes": 740,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
@@ -26,7 +26,7 @@
       "text": "Happy Birthday to the legendary Ken Griffey Jr.! 🐐 https://t.co/QaeKC9ZHIz",
       "url": "https://x.com/Reds/status/2124140837634249006",
       "published": "2026-11-21T14:00:14+00:00",
-      "likes": 4016,
+      "likes": 4050,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
@@ -48,36 +48,7 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2123896852143587354",
-      "text": "Join us for a Reds Authentics Pop-Up Shop tomorrow at GABP! ➡️ https://t.co/PBvFsHs9Na https://t.co/QPGeCmhA26",
-      "url": "https://x.com/Reds/status/2123896852143587354",
-      "published": "2026-11-20T21:50:44+00:00",
-      "likes": 165,
-      "author": "Cincinnati Reds",
-      "handle": "Reds",
-      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXmXp4CWEAIEUcp.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2124540091574124853",
-      "text": "So Cincinnati. ROTY x Skyline https://t.co/zFD9hm9Xo0",
-      "url": "https://x.com/Reds/status/2124540091574124853",
-      "published": "2026-11-22T16:26:44+00:00",
-      "likes": 658,
-      "author": "Cincinnati Reds",
-      "handle": "Reds",
-      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXvh87_XcAADxnk.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

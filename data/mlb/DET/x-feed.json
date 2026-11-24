@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-11-23T05:25:02.528171+00:00",
+  "generated_at": "2026-11-24T07:10:02.754108+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/tigers",
   "team_id": "6",
   "sport": "mlb",
-  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
+  "likes_as_of": "2026-11-24T07:10:02.754108+00:00",
   "recent": [
+    {
+      "id": "2124918149984157964",
+      "text": "Counting down the Tigers top 10 hardest working plays of the year, presented by @Carhartt! 💪 https://t.co/DCGDbo9aNM",
+      "url": "https://x.com/tigers/status/2124918149984157964",
+      "published": "2026-11-23T17:29:00+00:00",
+      "likes": 172,
+      "author": "Detroit Tigers",
+      "handle": "tigers",
+      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX00FgxWsAAdB4x.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124661585675468828",
       "text": "RT @PAWSDetroit: Proud to announce I’ve been named MLB Mascots 2026 Community Impact Winner! 🏆 This award is voted on by MLB Mascots and a…",
@@ -34,33 +48,19 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2123844672200044595",
-      "text": "Couldn't script it any better. A look back at Kevin McGonigle's Rookie of the Year season. https://t.co/NWCnOpfu2k",
-      "url": "https://x.com/tigers/status/2123844672200044595",
-      "published": "2026-11-20T18:23:23+00:00",
-      "likes": 710,
-      "author": "Detroit Tigers",
-      "handle": "tigers",
-      "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXlmbh5W4AAaqM9.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
     }
   ],
   "popular": [
     {
-      "id": "2124661585675468828",
-      "text": "RT @PAWSDetroit: Proud to announce I’ve been named MLB Mascots 2026 Community Impact Winner! 🏆 This award is voted on by MLB Mascots and a…",
-      "url": "https://x.com/tigers/status/2124661585675468828",
-      "published": "2026-11-23T00:29:30+00:00",
-      "likes": 0,
+      "id": "2124918149984157964",
+      "text": "Counting down the Tigers top 10 hardest working plays of the year, presented by @Carhartt! 💪 https://t.co/DCGDbo9aNM",
+      "url": "https://x.com/tigers/status/2124918149984157964",
+      "published": "2026-11-23T17:29:00+00:00",
+      "likes": 172,
       "author": "Detroit Tigers",
       "handle": "tigers",
       "avatar": "https://pbs.twimg.com/profile_images/2018701021682290689/hIc08pGt_normal.jpg",
-      "media": "",
+      "media": "https://pbs.twimg.com/media/HX00FgxWsAAdB4x.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""

@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-23T05:25:02.528171+00:00",
+  "generated_at": "2026-11-24T07:10:02.754108+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Padres",
   "team_id": "25",
   "sport": "mlb",
-  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
+  "likes_as_of": "2026-11-24T07:10:02.754108+00:00",
   "recent": [
+    {
+      "id": "2124918622502183279",
+      "text": "Happy birthday, Kyle! 🥳 https://t.co/B0KWPViDll",
+      "url": "https://x.com/Padres/status/2124918622502183279",
+      "published": "2026-11-23T17:30:53+00:00",
+      "likes": 523,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX03ZhqaIAAlYPd.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124321970900849025",
       "text": "Padres alumni took the field alongside the Marine Corps Recruit Depot San Diego All-Stars for a mixed-squad softball game! https://t.co/RYLRsLUomY",
       "url": "https://x.com/Padres/status/2124321970900849025",
       "published": "2026-11-22T02:00:00+00:00",
-      "likes": 271,
+      "likes": 306,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -40,7 +54,7 @@
       "text": "dairy bonds core https://t.co/0FRFO4SMOO",
       "url": "https://x.com/Padres/status/2123959607316160794",
       "published": "2026-11-21T02:00:06+00:00",
-      "likes": 1454,
+      "likes": 1460,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -54,7 +68,7 @@
       "text": "Can he talk his Sheets again? https://t.co/D97TCkkgcg",
       "url": "https://x.com/Padres/status/2123955927011520657",
       "published": "2026-11-21T01:45:28+00:00",
-      "likes": 1266,
+      "likes": 1269,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -68,7 +82,7 @@
       "text": "We have made the following roster moves: https://t.co/gAZpXLrQDX",
       "url": "https://x.com/Padres/status/2123929483262808137",
       "published": "2026-11-21T00:00:24+00:00",
-      "likes": 845,
+      "likes": 846,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -82,7 +96,7 @@
       "text": "Holy Sheets! We have signed infielder/outfielder Gavin Sheets to a three-year contract through the 2029 season with player options following the 2027 and 2028 seasons. https://t.co/Od2ntfJFX5",
       "url": "https://x.com/Padres/status/2123925749212348480",
       "published": "2026-11-20T23:45:33+00:00",
-      "likes": 2513,
+      "likes": 2517,
       "author": "San Diego Padres",
       "handle": "Padres",
       "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
@@ -92,5 +106,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2124918622502183279",
+      "text": "Happy birthday, Kyle! 🥳 https://t.co/B0KWPViDll",
+      "url": "https://x.com/Padres/status/2124918622502183279",
+      "published": "2026-11-23T17:30:53+00:00",
+      "likes": 523,
+      "author": "San Diego Padres",
+      "handle": "Padres",
+      "avatar": "https://pbs.twimg.com/profile_images/2108288165245263872/qoTXfxRW_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX03ZhqaIAAlYPd.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

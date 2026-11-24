@@ -1,18 +1,46 @@
 {
-  "generated_at": "2026-11-23T05:25:02.528171+00:00",
+  "generated_at": "2026-11-24T07:10:02.754108+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Nationals",
   "team_id": "20",
   "sport": "mlb",
-  "likes_as_of": "2026-11-23T05:25:02.528171+00:00",
+  "likes_as_of": "2026-11-24T07:10:02.754108+00:00",
   "recent": [
+    {
+      "id": "2124900887923679533",
+      "text": "RT @NationalsPark: 🎁🎁🎁🎁 → https://t.co/kb7OBhuGiu https://t.co/WJ4lierF4U",
+      "url": "https://x.com/Nationals/status/2124900887923679533",
+      "published": "2026-11-23T16:20:25+00:00",
+      "likes": 0,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX0pwKVWIAAy2iV.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2124877680692883635",
+      "text": "honoring erik 🙌 the Tony Conigliaro Award award recognizes a major leaguer who has overcome adversity through the attributes of spirit, determination, and courage. https://t.co/uHrAbbMGzM",
+      "url": "https://x.com/Nationals/status/2124877680692883635",
+      "published": "2026-11-23T14:48:12+00:00",
+      "likes": 218,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX0TS91XUAAKGK5.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2124155889535860939",
       "text": "RISE UP https://t.co/CyTuAlEWER",
       "url": "https://x.com/Nationals/status/2124155889535860939",
       "published": "2026-11-21T15:00:03+00:00",
-      "likes": 364,
+      "likes": 367,
       "author": "Washington Nationals",
       "handle": "Nationals",
       "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
@@ -22,5 +50,34 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2124877680692883635",
+      "text": "honoring erik 🙌 the Tony Conigliaro Award award recognizes a major leaguer who has overcome adversity through the attributes of spirit, determination, and courage. https://t.co/uHrAbbMGzM",
+      "url": "https://x.com/Nationals/status/2124877680692883635",
+      "published": "2026-11-23T14:48:12+00:00",
+      "likes": 218,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX0TS91XUAAKGK5.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2124900887923679533",
+      "text": "RT @NationalsPark: 🎁🎁🎁🎁 → https://t.co/kb7OBhuGiu https://t.co/WJ4lierF4U",
+      "url": "https://x.com/Nationals/status/2124900887923679533",
+      "published": "2026-11-23T16:20:25+00:00",
+      "likes": 0,
+      "author": "Washington Nationals",
+      "handle": "Nationals",
+      "avatar": "https://pbs.twimg.com/profile_images/2104207420239081472/Ctk2bN0M_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX0pwKVWIAAy2iV.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
