@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "\"We showed a competitive response in the second half,\" Wizards coach Brian Keefe said. \"... But you've got to do that the whole game.\"",
+        "published": "2026-11-25T11:11:10+00:00",
+        "title": "Wizards want to be taken seriously. Their first half vs. Boston is why they aren't",
+        "url": "https://www.nytimes.com/athletic/7810362/2026/11/25/wizards-celtics-nba-cup-score-tatum-george-dybantsa/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Here are 10 players, vets and youngsters alike, who have been better than anyone could have expected in the first month of the season.",
         "published": "2026-11-24T10:21:59+00:00",
         "title": "The NBA's pleasant surprises: 2 Grizzlies, future Hall of Famers and defensive pests",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T03:27:17+00:00",
         "title": "Paul George steals the show in Jaylen Brown’s first game against Celtics",
         "url": "https://www.nytimes.com/athletic/7771718/2026/11/10/celtics-76ers-paul-george-jayson-tatum-beat-jaylen-brown/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Every team has at least one win now, so let's say something nice about each squad.",
-        "published": "2026-11-09T16:46:35+00:00",
-        "title": "NBA Power Rankings: Spurs soar to No. 1; Lakers, Timberwolves join contenders tier",
-        "url": "https://www.nytimes.com/athletic/7767779/2026/11/09/nba-power-rankings-spurs-lakers-timberwolves-warriors/"
       }
     ],
-    "generated_at": "2026-11-24T10:24:37.631799+00:00",
+    "generated_at": "2026-11-25T11:13:37.937520+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },
