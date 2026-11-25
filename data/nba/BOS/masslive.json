@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics fended off the Wizards to pick up the NBA Cup victory, though it wasn't as smooth as once expected.",
+        "published": "2026-11-25T05:12:12+00:00",
+        "title": "Did Celtics fix offense’s problems? What we learned from win over Wizards",
+        "url": "https://www.masslive.com/celtics/2026/11/did-celtics-fix-offenses-problems-what-we-learned-from-win-over-wizards.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics are in a strong spot to clinch the knockout stages of the NBA Cup following their win over the Wizards.",
         "published": "2026-11-25T03:59:11+00:00",
         "title": "Celtics flirting with NBA Cup history after win over Wizards",
@@ -105,16 +112,9 @@
         "published": "2026-11-22T10:30:00+00:00",
         "title": "How Brad Stevens views Celtics’ key offseason additions: ‘Joy to be around’",
         "url": "https://www.masslive.com/celtics/2026/11/how-brad-stevens-views-celtics-key-offseason-additions-joy-to-be-around.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Random thoughts about (mostly) sports topics.",
-        "published": "2026-11-22T10:00:00+00:00",
-        "title": "Some Things I Think I Think: With lineup improved, time for Red Sox to add rotation depth",
-        "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
       }
     ],
-    "generated_at": "2026-11-25T04:11:24.944315+00:00",
+    "generated_at": "2026-11-25T05:21:50.240831+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
