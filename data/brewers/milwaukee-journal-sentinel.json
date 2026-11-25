@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "It was a season like no other for the Milwaukee Brewers, and no other grade but A+ will do after the first World Series win in franchise history.",
+      "published": "2026-11-23T03:41:00+00:00",
+      "title": "Brewers grades | Could this season be anything other than an A+? (Of course not)",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/23/world-series-title-caps-a-performance-by-brewers-in-2026/92695277007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Milwaukee Brewers players earned nearly $500,000 apiece from MLB's postseason pool after winning the franchise's first championship.",
+      "published": "2026-11-23T10:40:00+00:00",
+      "title": "Brewers' World Series championship came with a $493,044 payday",
+      "url": "https://www.jsonline.com/story/sports/mlb/2026/11/23/brewers-world-series-postseason-shares-player-pool/92928608007/"
+    },
+    {
+      "category": "Brewers",
       "description": "Milwaukee Brewers radio announcer Josh Maurer is reportedly leaving for the lead play-by-play job with the Arizona Diamondbacks.",
       "published": "2026-11-22T11:23:00+00:00",
       "title": "Brewers radio announcer departs for lead job with Diamondbacks",
@@ -23,6 +37,13 @@
     },
     {
       "category": "Brewers",
+      "description": "Andrew Vaughn was one of eight players tendered contracts by the Brewers on Friday, Nov. 20. The team also signed deals with five other players.",
+      "published": "2026-11-20T15:46:00+00:00",
+      "title": "Brewers tender Andrew Vaughn, seven others contracts for 2027 season",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-tender-andrew-vaughn-seven-others-contracts-for-2027-season/92562167007/"
+    },
+    {
+      "category": "Brewers",
       "description": "A little bit of World-Series-winning Milwaukee Brewers spirit will be on display in Appleton Nov. 24 at the Downtown Appleton Christmas Parade party.",
       "published": "2026-11-20T09:27:00+00:00",
       "title": "Appleton Christmas parade to include Brewers coach, Bernie, Barrelman",
@@ -30,10 +51,10 @@
     },
     {
       "category": "Brewers",
-      "description": "Andrew Vaughn was one of eight players tendered contracts by the Brewers on Friday, Nov. 20. The team also signed deals with five other players.",
-      "published": "2026-11-20T15:46:00+00:00",
-      "title": "Brewers tender Andrew Vaughn, seven others contracts for 2027 season",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/20/brewers-tender-andrew-vaughn-seven-others-contracts-for-2027-season/92562167007/"
+      "description": "Brewers catching prospect Matt Wood was scuffling in his third season at Class High-A Wisconsin a year ago before turning his career around.",
+      "published": "2026-11-19T03:31:00+00:00",
+      "title": "A year ago this prospect had self doubt. Now he's on the Brewers roster",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/19/catcher-matt-wood-has-unexpected-journey-to-brewers-40-man-roster/92845183007/"
     },
     {
       "category": "Brewers",
@@ -51,31 +72,10 @@
     },
     {
       "category": "Brewers",
-      "description": "Brewers catching prospect Matt Wood was scuffling in his third season at Class High-A Wisconsin a year ago before turning his career around.",
-      "published": "2026-11-19T03:31:00+00:00",
-      "title": "A year ago this prospect had self doubt. Now he's on the Brewers roster",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/19/catcher-matt-wood-has-unexpected-journey-to-brewers-40-man-roster/92845183007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "The Brewers added 6 prospects to their 40-man roster ahead of the deadline to protect players from the Rule 5 draft.",
-      "published": "2026-11-17T20:16:00+00:00",
-      "title": "Brewers add 6 prospects, including Jett Williams, to roster",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/17/brewers-add-jett-williams-luke-adams-and-two-more-prospects-to-roster/92817774007/"
-    },
-    {
-      "category": "Brewers",
       "description": "From the top down, the Brewers excelled in every facet of the game in 2026 to claim their first World Series title.",
       "published": "2026-11-23T03:41:00+00:00",
       "title": "Brewers grades | This team aced the 2026 season across the board",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/23/brewers-grades-milwaukee-aces-2026-with-top-down-team-effort/92695582007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Freddy Peralta, the longtime Brewers standout who just faced his former team in the World Series, got a big free-agent payday in Baltimore.",
-      "published": "2026-11-24T11:17:00+00:00",
-      "title": "Former Brewers ace Freddy Peralta lands big free-agent deal",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/24/freddy-peralta-brewers-orioles/92945123007/"
     },
     {
       "category": "Brewers",
@@ -85,7 +85,7 @@
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/24/brewers-grades-jacob-misiorowski-is-shining-star-of-young-staff/92695728007/"
     }
   ],
-  "generated_at": "2026-11-24T22:48:40.008456+00:00",
+  "generated_at": "2026-11-25T05:04:13.264577+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }

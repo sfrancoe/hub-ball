@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mariners",
+      "description": "The Villain — while playing winter ball in his native Venezuela. He's excited to bring the attitude behind it with him to the Mariners.",
+      "published": "2026-11-24T05:36:00+00:00",
+      "title": "‘I like to be The Villain’: Maikel Garcia welcomes fresh start with Mariners",
+      "url": "https://www.seattletimes.com/sports/mariners/i-like-to-be-the-villain-maikel-garcia-welcomes-fresh-start-with-mariners/"
+    },
+    {
+      "category": "Mariners",
       "description": "The Mariners simply lost themselves throughout a crushing 2026 season. Their trade for Maikel Garcia shows they are committed to rediscovering their identity.",
       "published": "2026-11-22T02:01:00+00:00",
       "title": "Maikel Garcia trade strengthens Mariners’ run-prevention DNA | Analysis",
@@ -23,10 +30,10 @@
     },
     {
       "category": "Mariners",
-      "description": "The Mariners completed a blockbuster six-player trade with the Royals, landing All-Star third baseman Maikel Garcia for Bryce Miller and others.",
-      "published": "2026-11-18T05:59:00+00:00",
-      "title": "Mariners trade for All-Star Maikel Garcia, send Bryce Miller, others to Royals",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-trade-for-royals-all-star-maikel-garcia-in-exchange-for-bryce-miller-others/"
+      "description": "The Mariners have agreed to a minor-league deal with 40-year-old Carlos Santana for what will technically be his third stint with the team.",
+      "published": "2026-11-24T12:22:00+00:00",
+      "title": "Mariners sign veteran slugger Carlos Santana to minor-league deal",
+      "url": "https://www.seattletimes.com/sports/mariners/mariners-sign-veteran-slugger-carlos-santana-to-minor-league-deal/"
     },
     {
       "category": "Mariners",
@@ -44,20 +51,13 @@
     },
     {
       "category": "Mariners",
-      "description": "On the same day he earned an AL Silver Slugger award, Randy Arozarena took a major step toward being paid like one of the best hitters available on the free agent market.",
-      "published": "2026-11-17T08:19:00+00:00",
-      "title": "Randy Arozarena declines Mariners’ qualifying offer, wins AL Silver Slugger",
-      "url": "https://www.seattletimes.com/sports/mariners/randy-arozarena-declines-mariners-qualifying-offer-wins-al-silver-slugger/"
-    },
-    {
-      "category": "Mariners",
       "description": "The Colorado Rockies picked up a pair of pitchers in a trade Thursday night with the Chicago White Sox, including three-time All-Star Luis Castillo.",
       "published": "2026-11-19T10:24:00+00:00",
       "title": "Rockies acquire Luis Castillo, Davis Martin in trade with White Sox",
       "url": "https://www.seattletimes.com/sports/mariners/rockies-acquire-luis-castillo-davis-martin-in-trade-with-white-sox/"
     }
   ],
-  "generated_at": "2026-11-24T22:48:36.723496+00:00",
+  "generated_at": "2026-11-25T05:04:09.353243+00:00",
   "source": "Seattle Times",
   "source_url": "https://www.seattletimes.com/sports/mariners/"
 }

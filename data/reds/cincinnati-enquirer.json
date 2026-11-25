@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Reds",
+      "description": "The Reds reached a 3-year, $30 million deal with Tyler Stephenson to bring the free agent back to the team that drafted him 11th overall in 2015.",
+      "published": "2026-11-24T18:17:00+00:00",
+      "title": "Cincinnati Reds, Tyler Stephenson reunited on 3-year free agent deal",
+      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/24/tyler-stephenson-signs-to-return-to-reds-on-30-million-deal/92951595007/"
+    },
+    {
+      "category": "Reds",
       "description": "Free-agent left-handed pitcher Brent Suter, a former Moeller High School standout, reportedly is signing a one-year, $4 million deal with the Yankees.",
       "published": "2026-11-23T12:36:00+00:00",
       "title": "Brent Suter, former Reds LHP from Moeller, reaches deal with Yankees",
@@ -22,7 +29,7 @@
       "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/20/pete-rose-hall-of-fame-after-president-trump-pardon/92878162007/"
     }
   ],
-  "generated_at": "2026-11-24T22:48:39.577266+00:00",
+  "generated_at": "2026-11-25T05:04:12.766589+00:00",
   "source": "Enquirer",
   "source_url": "https://www.cincinnati.com/sports/reds/"
 }

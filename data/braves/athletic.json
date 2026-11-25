@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Braves",
-      "description": "Logan Webb's durability would be a boon for the Braves. Caleb Bowlin / The Atlanta Braves have seen how well their rotation can perform when healthy. The problem is they can’t predict whether their ...",
-      "published": "2026-11-24T05:43:00+00:00",
-      "title": "A Logan Webb trade could reshape the Braves’ rotation. Is it realistic?",
-      "url": "https://www.nytimes.com/athletic/7809408/2026/11/24/braves-logan-webb-trade-possibility/"
-    },
-    {
-      "category": "Braves",
       "description": "Kim struggled last year with the Braves, when he started the season on the injured list and was demoted to a part-time role.",
       "published": "2026-11-24T06:25:00+00:00",
       "title": "Tigers signing veteran infielder Ha-Seong Kim to 1-year, $5 million deal: Sources",
@@ -20,6 +13,13 @@
       "published": "2026-11-24T05:25:00+00:00",
       "title": "Who says no? Analyzing 6 Braves mock trades, with input from industry experts",
       "url": "https://www.nytimes.com/athletic/7807745/2026/11/24/atlanta-braves-6-mock-trades-analysis/"
+    },
+    {
+      "category": "Braves",
+      "description": "Logan Webb's durability would be a boon for the Braves. Caleb Bowlin / The Atlanta Braves have seen how well their rotation can perform when healthy. The problem is they can’t predict whether their ...",
+      "published": "2026-11-24T05:43:00+00:00",
+      "title": "A Logan Webb trade could reshape the Braves’ rotation. Is it realistic?",
+      "url": "https://www.nytimes.com/athletic/7809408/2026/11/24/braves-logan-webb-trade-possibility/"
     },
     {
       "category": "Braves",
@@ -57,7 +57,7 @@
       "url": "https://www.nytimes.com/athletic/7772307/2026/11/11/braves-gm-meetings-offseason/"
     }
   ],
-  "generated_at": "2026-11-24T22:48:37.714692+00:00",
+  "generated_at": "2026-11-25T05:04:10.612089+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/braves/"
 }

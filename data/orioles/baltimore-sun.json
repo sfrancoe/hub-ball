@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Orioles",
-      "description": "The Orioles and Freddy Peralta agreed to a $125 million contract Tuesday. Where does that rank among their largest contracts in team history?",
-      "published": "2026-11-24T12:31:00+00:00",
-      "title": "Orioles’ 10 biggest contracts: Where Freddy Peralta’s free agent deal ranks",
-      "url": "https://www.baltimoresun.com/2026/11/24/orioles-10-biggest-contracts-freddy-peralta/"
-    },
-    {
-      "category": "Orioles",
       "description": "Freddy Peralta and Trevor Rogers agreed to similar five-year contracts less than 24 hours apart. Here’s a comparison of the pitchers.",
       "published": "2026-11-24T10:59:00+00:00",
       "title": "Freddy Peralta vs. Trevor Rogers: Comparing the Orioles’ $125 million investment",
@@ -16,17 +9,17 @@
     },
     {
       "category": "Orioles",
-      "description": "Here’s what Orioles fans need to know about starting pitcher Freddy Peralta, who relies heavily on his effective fastball.",
-      "published": "2026-11-24T10:05:00+00:00",
-      "title": "5 things to know about Orioles free agent signing Freddy Peralta",
-      "url": "https://www.baltimoresun.com/2026/11/24/orioles-freddy-peralta-5-things-to-know/"
-    },
-    {
-      "category": "Orioles",
       "description": "Here’s what The Baltimore Sun staff said immediately after the Orioles reportedly agreed to a five-year deal with free agent pitcher Freddy Peralta.",
       "published": "2026-11-24T09:36:00+00:00",
       "title": "Instant analysis: Orioles sign SP Freddy Peralta to lead rotation",
       "url": "https://www.baltimoresun.com/2026/11/24/instant-analysis-orioles-freddy-peralta/"
+    },
+    {
+      "category": "Orioles",
+      "description": "Here’s what Orioles fans need to know about starting pitcher Freddy Peralta, who relies heavily on his effective fastball.",
+      "published": "2026-11-24T10:05:00+00:00",
+      "title": "5 things to know about Orioles free agent signing Freddy Peralta",
+      "url": "https://www.baltimoresun.com/2026/11/24/orioles-freddy-peralta-5-things-to-know/"
     },
     {
       "category": "Orioles",
@@ -76,9 +69,16 @@
       "published": "2026-11-19T04:00:00+00:00",
       "title": "Orioles arbitration FAQ: What to know about looming deadline and decisions",
       "url": "https://www.baltimoresun.com/2026/11/19/orioles-arbitration-faq-looming-deadline-decisions/"
+    },
+    {
+      "category": "Orioles",
+      "description": "The Orioles’ lineup needs a revamp. Is trading for Diamondbacks second baseman Ketel Marte the solution? It’s not a simple fit.",
+      "published": "2026-11-18T17:32:00+00:00",
+      "title": "Should Orioles trade for Ketel Marte? The case for and against. | ANALYSIS",
+      "url": "https://www.baltimoresun.com/2026/11/18/orioles-ketel-marte-trade-target/"
     }
   ],
-  "generated_at": "2026-11-24T22:48:32.649556+00:00",
+  "generated_at": "2026-11-25T05:04:04.554574+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }
