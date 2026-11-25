@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics snapped their four-game losing streak on Tuesday night in convincing fashion.",
+        "published": "2026-11-25T03:37:35+00:00",
+        "title": "4 takeaways as Celtics beat Wizards in crucial NBA Cup victory",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-wizards-in-crucial-nba-cup-victory.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics could take a big step towards locking up a spot in the NBA Cup quarterfinals on Tuesday night.",
         "published": "2026-11-24T17:47:19+00:00",
         "title": "Celtics NBA Cup scenarios: How Boston can advance vs. Wizards",
@@ -105,16 +112,9 @@
         "published": "2026-11-22T06:27:42+00:00",
         "title": "4 takeaways as Celtics lose to Kings after historically bad shooting night",
         "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-kings-after-historically-bad-shooting-night.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Mike Conley's heroics weren't enough as the shorthanded Celtics were upset by the Kings in Sacramento.",
-        "published": "2026-11-22T05:42:12+00:00",
-        "title": "Mike Conley is Celtics ‘Name to Know’ Player of the Game in loss to Kings",
-        "url": "https://www.masslive.com/celtics/2026/11/mike-conley-is-celtics-name-to-know-player-of-the-game-in-loss-to-kings.html"
       }
     ],
-    "generated_at": "2026-11-25T03:00:59.184230+00:00",
+    "generated_at": "2026-11-25T03:41:12.954161+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
