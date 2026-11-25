@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Celtics",
+        "description": "Dybantsa relished the opportunity to face the team that provided the basketball soundtrack of his youth.",
+        "published": "2026-11-25T18:40:09.224Z",
+        "title": "AJ Dybantsa on his first game against the Celtics: ‘I’m fully embracing the Wizards. But Boston is still in my heart.’",
+        "url": "https://www.bostonglobe.com/2026/11/25/sports/aj-dybantsa-wizards-celtics/"
+      },
+      {
         "category": "CELTICS 131, WIZARDS 116",
         "description": "The Celtics led by as many as 34 points. Jayson Tatum was the high scorer with 41 points and Baylor Scheierman sealed the win with an 8-point flurry late in the fourth.",
         "published": "2026-11-25T05:41:20.661Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-18T18:34:10.564Z",
         "title": "Celtics at Nuggets preview: Boston kicks off four-game road trip",
         "url": "https://www.bostonglobe.com/2026/11/18/sports/celtics-nuggets-preview-november-18-2026/"
-      },
-      {
-        "category": "ON BASKETBALL",
-        "description": "The Celtics have to play Robinson until he’s in shape and more productive, even against Nikola Jokic on Wednesday night.",
-        "published": "2026-11-18T13:48:10.916Z",
-        "title": "It’s clear Mitchell Robinson is struggling to fit into the Celtics’ rotation, and a big test is looming",
-        "url": "https://www.bostonglobe.com/2026/11/17/sports/celtics-mitchell-robinson-nikola-jokic/"
       }
     ],
-    "generated_at": "2026-11-25T05:51:59.099412+00:00",
+    "generated_at": "2026-11-25T18:45:54.403949+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
