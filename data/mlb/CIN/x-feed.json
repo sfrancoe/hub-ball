@@ -1,54 +1,41 @@
 {
-  "generated_at": "2026-11-24T07:10:02.754108+00:00",
+  "generated_at": "2026-11-25T07:15:01.873949+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Reds",
   "team_id": "17",
   "sport": "mlb",
-  "likes_as_of": "2026-11-24T07:10:02.754108+00:00",
+  "likes_as_of": "2026-11-25T07:15:01.873949+00:00",
   "recent": [
     {
-      "id": "2124540091574124853",
-      "text": "So Cincinnati. ROTY x Skyline https://t.co/zFD9hm9Xo0",
-      "url": "https://x.com/Reds/status/2124540091574124853",
-      "published": "2026-11-22T16:26:44+00:00",
-      "likes": 740,
+      "id": "2125292442953953569",
+      "text": "Be sure to stop by the Reds Team Shop at GABP during Black Friday Weekend and check out your favorite Reds gear‼️ https://t.co/z52L4flQ4R",
+      "url": "https://x.com/Reds/status/2125292442953953569",
+      "published": "2026-11-24T18:16:19+00:00",
+      "likes": 62,
       "author": "Cincinnati Reds",
       "handle": "Reds",
       "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXvh87_XcAADxnk.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2124140837634249006",
-      "text": "Happy Birthday to the legendary Ken Griffey Jr.! 🐐 https://t.co/QaeKC9ZHIz",
-      "url": "https://x.com/Reds/status/2124140837634249006",
-      "published": "2026-11-21T14:00:14+00:00",
-      "likes": 4050,
-      "author": "Cincinnati Reds",
-      "handle": "Reds",
-      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXp21RsXkAAxium.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2123934239842324854",
-      "text": "The #Reds today did not tender a 2027 contract to IF Leo Balcazar.",
-      "url": "https://x.com/Reds/status/2123934239842324854",
-      "published": "2026-11-21T00:19:18+00:00",
-      "likes": 157,
-      "author": "Cincinnati Reds",
-      "handle": "Reds",
-      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
-      "media": "",
+      "media": "https://pbs.twimg.com/media/HX6MrsOWwAAPYeW.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2125292442953953569",
+      "text": "Be sure to stop by the Reds Team Shop at GABP during Black Friday Weekend and check out your favorite Reds gear‼️ https://t.co/z52L4flQ4R",
+      "url": "https://x.com/Reds/status/2125292442953953569",
+      "published": "2026-11-24T18:16:19+00:00",
+      "likes": 62,
+      "author": "Cincinnati Reds",
+      "handle": "Reds",
+      "avatar": "https://pbs.twimg.com/profile_images/2111082352768102400/c9tgQi-J_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HX6MrsOWwAAPYeW.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

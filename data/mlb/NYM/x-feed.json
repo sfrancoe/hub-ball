@@ -1,83 +1,26 @@
 {
-  "generated_at": "2026-11-24T07:10:02.754108+00:00",
+  "generated_at": "2026-11-25T07:15:01.873949+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Mets",
   "team_id": "21",
   "sport": "mlb",
-  "likes_as_of": "2026-11-24T07:10:02.754108+00:00",
+  "likes_as_of": "2026-11-25T07:15:01.873949+00:00",
   "recent": [
     {
       "id": "2124941049688719556",
       "text": "We hope you had a nice weekend 😌 Single game tickets 🎟️👉 https://t.co/TBwN4RtDYN https://t.co/1AVpSJcicK",
       "url": "https://x.com/Mets/status/2124941049688719556",
       "published": "2026-11-23T19:00:00+00:00",
-      "likes": 806,
+      "likes": 882,
       "author": "New York Mets",
       "handle": "Mets",
       "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
       "media": "https://pbs.twimg.com/media/HX1OHSdXEAAW3AN.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2124520779765444810",
-      "text": "📍 @CitiField 🎟️👉 https://t.co/Snb41ZoxMG https://t.co/iTohUcGYdo",
-      "url": "https://x.com/Mets/status/2124520779765444810",
-      "published": "2026-11-22T15:10:00+00:00",
-      "likes": 297,
-      "author": "New York Mets",
-      "handle": "Mets",
-      "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXl64zqXYAAO7Q_.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2124149583907606580",
-      "text": "Don't wait! Single game tickets are on sale now! ⏰ 🎟️👉 https://t.co/TBwN4RubOl https://t.co/JqPp0BPjno",
-      "url": "https://x.com/Mets/status/2124149583907606580",
-      "published": "2026-11-21T14:35:00+00:00",
-      "likes": 111,
-      "author": "New York Mets",
-      "handle": "Mets",
-      "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2123859646817415168/img/d5sZ5bDI9K2JK-ZX.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2124125684079505898",
-      "text": "A happy birthday to Robert Stock! 🥳 https://t.co/DCM470NUBr",
-      "url": "https://x.com/Mets/status/2124125684079505898",
-      "published": "2026-11-21T13:00:02+00:00",
-      "likes": 509,
-      "author": "New York Mets",
-      "handle": "Mets",
-      "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXl3TnJXoAEm7Ru.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2124941049688719556",
-      "text": "We hope you had a nice weekend 😌 Single game tickets 🎟️👉 https://t.co/TBwN4RtDYN https://t.co/1AVpSJcicK",
-      "url": "https://x.com/Mets/status/2124941049688719556",
-      "published": "2026-11-23T19:00:00+00:00",
-      "likes": 806,
-      "author": "New York Mets",
-      "handle": "Mets",
-      "avatar": "https://pbs.twimg.com/profile_images/2117318618186682368/xbGAfJqm_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HX1OHSdXEAAW3AN.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
