@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Braves",
+      "description": "The Detroit Tigers reportedly have signed the free-agent shortstop to a one-year deal worth $5 million. Kim spent the 2026 season with the Braves organization, playing in just 51 games.",
+      "published": "2026-11-25T07:58:00+00:00",
+      "title": "Former Braves shortstop signs with Tigers",
+      "url": "https://www.ajc.com/sports/2026/11/former-braves-shortstop-signs-tigers/"
+    },
+    {
+      "category": "Braves",
       "description": "The Atlanta Braves need another front-line starter, and Giants ace Logan Webb offers durability, postseason experience and a team-friendly contract.",
       "published": "2026-11-22T20:31:00+00:00",
       "title": "Could Braves explore Logan Webb trade?",
@@ -23,17 +30,24 @@
     },
     {
       "category": "Braves",
-      "description": "Today's Win Column tackles mounting Hawks injuries, a bit of Braves trivia, the latest CFP rankings and your thoughts on the Falcons.",
-      "published": "2026-11-18T08:52:00+00:00",
-      "title": "The Win Column: Injury season",
-      "url": "https://www.ajc.com/sports/2026/11/win-column-hawks-injury-season/"
-    },
-    {
-      "category": "Braves",
       "description": "Evan Phillips, 32, has agreed to a three-year, $35 million contract, the club announced Thursday. Phillips pitched in 31 games, all in relief, for the Dodgers in 2026. He will make $11 million for the ...",
       "published": "2026-11-12T13:33:00+00:00",
       "title": "Braves sign right-handed relief pitcher Evan Phillips to three-year deal",
       "url": "https://www.ajc.com/sports/2026/11/braves-sign-relief-pitcher-evan-phillips/"
+    },
+    {
+      "category": "Braves",
+      "description": "MIAMI — The Braves bested Marlins ace Sandy Alcántara, and Spencer Strider continued to trend upward in a 9-3 win at loanDepot Park on Thursday. The first six of Atlanta’s nine runs came off Miami’s ...",
+      "published": "2026-05-21T17:00:00+00:00",
+      "title": "Braves beat Marlins to win 14th series of the season",
+      "url": "https://www.ajc.com/sports/2026/05/braves-beat-marlins-to-win-14th-series-of-the-season/"
+    },
+    {
+      "category": "Braves",
+      "description": "The return of Hurston Waldrep is expected to come sooner rather than later. The 24-year-old right-handed pitcher, who has already made two outings in the Florida Complex League, will take a ...",
+      "published": "2026-06-09T17:01:00+00:00",
+      "title": "Hurston Waldrep taking another step toward returning to Braves",
+      "url": "https://www.ajc.com/sports/2026/06/hurston-waldrep-taking-another-step-toward-returning-to-braves/"
     },
     {
       "category": "Braves",
@@ -55,23 +69,9 @@
       "published": "2026-11-12T18:31:00+00:00",
       "title": "Former Braves’ draft pick Evan Phillips ‘couldn’t be more excited’ to be back in Atlanta",
       "url": "https://www.ajc.com/sports/2026/11/evan-phillips-excited-about-braves-return/"
-    },
-    {
-      "category": "Braves",
-      "description": "In his return from Tommy John surgery, Braves pitcher AJ Smith-Shawver will continue his rehab assignment for at least one more start. That’s because that’s what he said he had been told would happen.",
-      "published": "2026-07-11T17:00:00+00:00",
-      "title": "In a rocky rehab outing, Braves’ AJ Smith-Shawver shows he needs more time",
-      "url": "https://www.ajc.com/sports/2026/07/in-a-rocky-rehab-outing-braves-aj-smith-shawver-shows-he-needs-more-time/"
-    },
-    {
-      "category": "Braves",
-      "description": "ROME — Check out one of High-A Rome’s games and you might see a blur rounding the bases. Grant Gustin did a nice job playing the titular hero in CW’s “The Flash,” but Tate Southisene might do an even ...",
-      "published": "2026-07-10T10:16:00+00:00",
-      "title": "Tate Southisene looks like a smart pick for the Braves one year later",
-      "url": "https://www.ajc.com/sports/2026/07/tate-southisene-looks-like-a-smart-pick-for-the-braves-one-year-later/"
     }
   ],
-  "generated_at": "2026-11-25T15:29:04.612773+00:00",
+  "generated_at": "2026-11-25T23:44:14.177571+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The Mets continued their annual holiday tradition of signing a former Yankee to a free-agent...",
+      "published": "2026-11-25T20:35:09+00:00",
+      "title": "Mets’ Paul Goldschmidt finds fit in New York: ‘I enjoy it’",
+      "url": "https://www.nydailynews.com/2026/11/25/mets-paul-goldschmidt-mlb-free-agency-yankees-david-stearns/"
+    },
+    {
+      "category": "Mets",
       "description": "One of the biggest benefits of signing Skubal is having him around the club's burgeoning...",
       "published": "2026-11-24T23:35:04+00:00",
       "title": "Mets young arms eager to benefit from Tarik Skubal’s presence",
@@ -132,16 +139,9 @@
       "published": "2026-11-04T23:58:21+00:00",
       "title": "Mets Notebook: MLB releases new CBA proposal, team hires A.J. Ellis as coordinator",
       "url": "https://www.nydailynews.com/2026/11/04/mets-notes-cba-aj-ellis-rob-manfred-steve-cohen/"
-    },
-    {
-      "category": "Mets",
-      "description": "Jerry Koosman, the steady lefty who played “Sundance” to Tom Seaver’s “Butch Cassidy” as the...",
-      "published": "2026-11-01T21:05:33+00:00",
-      "title": "Jerry Koosman, Mets pitching legend and ’69 World Series champ, dies at 83",
-      "url": "https://www.nydailynews.com/2026/11/01/jerry-koosman-mets-died-obit-world-series-pitcher-seaver/"
     }
   ],
-  "generated_at": "2026-11-25T05:03:59.627173+00:00",
+  "generated_at": "2026-11-25T23:44:03.601461+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-mets/"
 }

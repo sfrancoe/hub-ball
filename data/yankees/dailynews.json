@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Hyde brings lots of experience in the American League East, as he managed the Orioles...",
+      "published": "2026-11-25T17:10:30+00:00",
+      "title": "Yankees hiring ex-Orioles manager Brandon Hyde to be new bench coach: source",
+      "url": "https://www.nydailynews.com/2026/11/25/yankees-hiring-ex-orioles-manager-brandon-hyde-bench-coach/"
+    },
+    {
+      "category": "Yankees",
       "description": "Adrian Morejon and David Bednar would make for a deadly duo at the backend of...",
       "published": "2026-11-24T13:32:18+00:00",
       "title": "Yankees’ bullpen moves shouldn’t prevent pursuit of Adrian Morejon",
@@ -132,16 +139,9 @@
       "published": "2026-11-12T00:31:18+00:00",
       "title": "Mike Lupica: With Cy Young win, Cam Schlittler adds his name to New York pitching greats",
       "url": "https://www.nydailynews.com/2026/11/11/mike-lupica-cam-schlittler-yankees-cy-young-guidry-cole-gooden-seaver-clemens/"
-    },
-    {
-      "category": "Yankees",
-      "description": "The Yankees need some new coaches.",
-      "published": "2026-11-11T23:53:20+00:00",
-      "title": "Yankees bench coach Brad Ausmus named Astros manager, Giants expected to hire James Rowson",
-      "url": "https://www.nydailynews.com/2026/11/11/yankees-bench-coach-brad-ausmus-named-astros-manager-giants-expected-to-hire-james-rowson/"
     }
   ],
-  "generated_at": "2026-11-24T22:48:17.688643+00:00",
+  "generated_at": "2026-11-25T23:43:57.582389+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

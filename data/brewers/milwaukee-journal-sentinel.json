@@ -2,8 +2,15 @@
   "articles": [
     {
       "category": "Brewers",
+      "description": "The Brewers are bringing back right-hander Antonio Senzatela on a one-year contract for 2027 and cutting loose former high draft pick Tyler Black.",
+      "published": "2026-11-25T14:15:00+00:00",
+      "title": "Brewers bring back Antonio Senzatela, lose JoJo Romero, cut Tyler Black",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/25/brewers-bring-back-right-hander-antonio-senzatela-cut-tyler-black/92961808007/"
+    },
+    {
+      "category": "Brewers",
       "description": "From there, Contreras was as dialed in as we have ever seen him – on both sides of the ball – and finished with a .270 average, 18 homers and career-high 94 RBI with a .758 OPS. He caught a ...",
-      "published": "2026-11-25T03:35:00+00:00",
+      "published": "2026-11-25T06:14:00+00:00",
       "title": "Brewers grades | Catcher William Contreras dialed it in down the stretch",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/25/brewers-grades-catcher-william-contreras-dialed-it-in-down-the-stretch/92695814007/"
     },
@@ -13,20 +20,6 @@
       "published": "2026-11-25T03:06:00+00:00",
       "title": "Lime scooter riders traveled more than 17,000 miles day of Brewers parade",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/25/lime-scooter-riders-traveled-17228-miles-day-of-brewers-celebration/92944994007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "It was a season like no other for the Milwaukee Brewers, and no other grade but A+ will do after the first World Series win in franchise history.",
-      "published": "2026-11-23T03:41:00+00:00",
-      "title": "Brewers grades | Could this season be anything other than an A+? (Of course not)",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/23/world-series-title-caps-a-performance-by-brewers-in-2026/92695277007/"
-    },
-    {
-      "category": "Brewers",
-      "description": "Milwaukee Brewers radio announcer Josh Maurer is reportedly leaving for the lead play-by-play job with the Arizona Diamondbacks.",
-      "published": "2026-11-22T11:23:00+00:00",
-      "title": "Brewers radio announcer departs for lead job with Diamondbacks",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/22/brewers-announcer-maurer-leaving-for-diamondbacks/92914317007/"
     },
     {
       "category": "Brewers",
@@ -41,6 +34,13 @@
       "published": "2026-11-20T03:04:00+00:00",
       "title": "Brewers fans smash MLB merchandise sales record in World Series run",
       "url": "https://www.jsonline.com/story/money/business/2026/11/20/milwaukee-brewers-fans-smash-sales-records-following-world-series-win/92859330007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Milwaukee Brewers radio announcer Josh Maurer is reportedly leaving for the lead play-by-play job with the Arizona Diamondbacks.",
+      "published": "2026-11-22T11:23:00+00:00",
+      "title": "Brewers radio announcer departs for lead job with Diamondbacks",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/22/brewers-announcer-maurer-leaving-for-diamondbacks/92914317007/"
     },
     {
       "category": "Brewers",
@@ -72,20 +72,20 @@
     },
     {
       "category": "Brewers",
-      "description": "Jake Bauers, one day after getting introduced as the newest member of the Boston Red Sox, bid farewell to Milwaukee on social media.",
-      "published": "2026-11-18T08:22:00+00:00",
-      "title": "Jake Bauers writes goodbye message to Milwaukee, Brewers fans",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/18/jake-bauers-farewell-milwaukee/92843273007/"
-    },
-    {
-      "category": "Brewers",
       "description": "From the top down, the Brewers excelled in every facet of the game in 2026 to claim their first World Series title.",
       "published": "2026-11-23T03:41:00+00:00",
       "title": "Brewers grades | This team aced the 2026 season across the board",
       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/23/brewers-grades-milwaukee-aces-2026-with-top-down-team-effort/92695582007/"
+    },
+    {
+      "category": "Brewers",
+      "description": "Jacob Misiorowski was the Cy Young winner, but other young Brewers pitchers such as Logan Henderson and Robert Gasser also played starring roles.",
+      "published": "2026-11-24T03:31:00+00:00",
+      "title": "Brewers grades | Jacob Misiorowski was the star of the staff, but he wasn't the only one to shine",
+      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/24/brewers-grades-jacob-misiorowski-is-shining-star-of-young-staff/92695728007/"
     }
   ],
-  "generated_at": "2026-11-25T15:29:06.989567+00:00",
+  "generated_at": "2026-11-25T23:44:16.640775+00:00",
   "source": "Journal Sentinel",
   "source_url": "https://www.jsonline.com/sports/brewers/"
 }
