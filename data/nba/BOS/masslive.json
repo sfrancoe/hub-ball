@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Neemias Queta scored 21 points in the Celtics' win over the Wizards, playing great on both ends of the court.",
+        "published": "2026-11-25T10:00:00+00:00",
+        "title": "Neemias Queta emergence altering Celtics’ potential this season",
+        "url": "https://www.masslive.com/celtics/2026/11/neemias-queta-emergence-altering-celtics-potential-this-season.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics fended off the Wizards to pick up the NBA Cup victory, though it wasn't as smooth as once expected.",
         "published": "2026-11-25T05:12:12+00:00",
         "title": "Did Celtics fix offense’s problems? What we learned from win over Wizards",
@@ -105,16 +112,9 @@
         "published": "2026-11-22T10:45:00+00:00",
         "title": "Mike Conley’s prove-it moment for Celtics opens new possibilities in Kings loss",
         "url": "https://www.masslive.com/celtics/2026/11/mike-conleys-prove-it-moment-for-celtics-opens-new-possibilities-in-kings-loss.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Celtics president Brad Stevens said it's still early in the season, but he's thrilled with what he's seen out of Paul George.",
-        "published": "2026-11-22T10:30:00+00:00",
-        "title": "How Brad Stevens views Celtics’ key offseason additions: ‘Joy to be around’",
-        "url": "https://www.masslive.com/celtics/2026/11/how-brad-stevens-views-celtics-key-offseason-additions-joy-to-be-around.html"
       }
     ],
-    "generated_at": "2026-11-25T05:21:50.240831+00:00",
+    "generated_at": "2026-11-25T10:13:16.648763+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
