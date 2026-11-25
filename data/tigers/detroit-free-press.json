@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Tigers",
+      "description": "The Detroit Tigers call a press conference. One of their young, talented players sits up on stage in the main interview room in Comerica Park, looking uncomfortable in a suit jacket. His family is in ...",
+      "published": "2026-11-25T02:09:00+00:00",
+      "title": "Detroit Tigers building a new young core with thoughtful gambles",
+      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/25/detroit-tigers-troy-melton-kevin-mcgonigle/92938961007/"
+    },
+    {
+      "category": "Tigers",
       "description": "The Tigers have agreed with infielder Ha-Seong Kim on a one-year, $5 million deal, according to ESPN's Jeff Passan.",
       "published": "2026-11-24T12:40:00+00:00",
       "title": "Detroit Tigers signing infielder Ha-Seong Kim: Report",
@@ -27,37 +34,9 @@
       "published": "2026-11-20T16:53:00+00:00",
       "title": "Detroit Tigers offer contracts to 10 vets at deadline",
       "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/20/detroit-tigers-tender-contracts-to-10-at-deadline/92884229007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "Could the Detroit Tigers slowly but surely be turning into a destination for free agents? Emilio Pagan might be the sign.",
-      "published": "2026-11-19T04:40:00+00:00",
-      "title": "Wait – are Detroit Tigers actually a destination for free agents again?",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/19/detroit-tigers-free-agency-emilio-pagan/92850105007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "Right-hander Troy Melton reportedly agreed to a six-year, $46.5 million extension with the the Tigers, covering the 2027-32 seasons.",
-      "published": "2026-11-20T14:12:00+00:00",
-      "title": "Detroit Tigers lock up RHP Troy Melton with 6-year deal",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/20/troy-melton-contract-detroit-tigers-news/92884790007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "The Detroit Tigers traded Jace Jung to the Los Angeles Angels on Wednesday, Nov. 18, for cash considerations.",
-      "published": "2026-11-18T12:17:00+00:00",
-      "title": "Jace Jung traded to Angels after his old roommate makes Tigers' 40-man",
-      "url": "https://www.freep.com/story/sports/columnists/jeff-seidel/2026/11/18/detroit-tigers-trade-jace-jung-to-los-angeles-angels-for-cash/92847921007/"
-    },
-    {
-      "category": "Tigers",
-      "description": "Former Detroit Tigers pitcher Tarik Skubal is on the market just months after he was traded to the Los Angeles Dodgers.",
-      "published": "2026-11-18T10:04:00+00:00",
-      "title": "ESPN insider: Tarik Skubal return to Tigers a long shot, but 'why not?'",
-      "url": "https://www.freep.com/story/sports/mlb/tigers/2026/11/18/tarik-skubaldetroit-tigers-mlb-free-agency/92842022007/"
     }
   ],
-  "generated_at": "2026-11-25T05:04:06.398227+00:00",
+  "generated_at": "2026-11-25T15:29:01.191375+00:00",
   "source": "Detroit Free Press",
   "source_url": "https://www.freep.com/sports/tigers/"
 }

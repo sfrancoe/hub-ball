@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Last season, Morejon had a 2.83 ERA in 76 outings, striking out 107 batters in 86 innings.",
+      "published": "2026-11-25T10:06:10+00:00",
+      "title": "Why signing Adrian Morejon could open Yankees' trade possibilities",
+      "url": "https://www.nytimes.com/athletic/7810972/2026/11/25/adrian-morejon-yankees-free-agency/"
+    },
+    {
+      "category": "Yankees",
       "description": "Chisholm could be interested in a short-term deal after a disappointing 2026 season with the Yankees.",
       "published": "2026-11-24T21:07:34+00:00",
       "title": "Nationals show ‘real engagement’ on free-agent infielder Jazz Chisholm Jr.: Source",
@@ -132,16 +139,9 @@
       "published": "2026-11-11T10:15:10+00:00",
       "title": "Yankees commit to Giancarlo Stanton's immediate future. Is that a mistake?",
       "url": "https://www.nytimes.com/athletic/7772067/2026/11/11/giancarlo-stanton-future-yankees-roster/"
-    },
-    {
-      "category": "Yankees",
-      "description": "\"Jorge wants us to be great,\" Cashman said. \"We want us to be great. Unfortunately, we have been good, but we haven't been great.\"",
-      "published": "2026-11-11T02:06:40+00:00",
-      "title": "Yankees' Brian Cashman responds to viral Jorge Posada, Pat Murphy comments",
-      "url": "https://www.nytimes.com/athletic/7772021/2026/11/10/brian-cashman-yankees-jorge-posada-pat-murphy-comments/"
     }
   ],
-  "generated_at": "2026-11-24T22:48:25.955526+00:00",
+  "generated_at": "2026-11-25T15:28:53.285238+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/yankees/"
 }

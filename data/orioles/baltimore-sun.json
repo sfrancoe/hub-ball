@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Orioles",
+      "description": "Despite signing Freddy Peralta for $125 million, the Orioles are still projected to have the AL East’s worst rotation in 2027.",
+      "published": "2026-11-25T03:30:00+00:00",
+      "title": "Orioles rotation analysis: Does Freddy Peralta move the needle?",
+      "url": "https://www.baltimoresun.com/2026/11/25/orioles-rotation-analysis-freddy-peralta/"
+    },
+    {
+      "category": "Orioles",
       "description": "Freddy Peralta and Trevor Rogers agreed to similar five-year contracts less than 24 hours apart. Here’s a comparison of the pitchers.",
       "published": "2026-11-24T10:59:00+00:00",
       "title": "Freddy Peralta vs. Trevor Rogers: Comparing the Orioles’ $125 million investment",
@@ -9,24 +16,24 @@
     },
     {
       "category": "Orioles",
-      "description": "Here’s what The Baltimore Sun staff said immediately after the Orioles reportedly agreed to a five-year deal with free agent pitcher Freddy Peralta.",
-      "published": "2026-11-24T09:36:00+00:00",
-      "title": "Instant analysis: Orioles sign SP Freddy Peralta to lead rotation",
-      "url": "https://www.baltimoresun.com/2026/11/24/instant-analysis-orioles-freddy-peralta/"
+      "description": "The Orioles reportedly reached an agreement on a five-year, $125 million deal with free agent starter Freddy Peralta on Tuesday.",
+      "published": "2026-11-24T10:29:00+00:00",
+      "title": "Orioles to sign Freddy Peralta for 5 years, $125M in franchise-record deal",
+      "url": "https://www.baltimoresun.com/2026/11/24/orioles-freddy-peralta-free-agent-deal/"
     },
     {
       "category": "Orioles",
       "description": "Here’s what Orioles fans need to know about starting pitcher Freddy Peralta, who relies heavily on his effective fastball.",
-      "published": "2026-11-24T10:05:00+00:00",
+      "published": "2026-11-24T10:07:00+00:00",
       "title": "5 things to know about Orioles free agent signing Freddy Peralta",
       "url": "https://www.baltimoresun.com/2026/11/24/orioles-freddy-peralta-5-things-to-know/"
     },
     {
       "category": "Orioles",
-      "description": "The Orioles reportedly reached an agreement on a five-year, $125 million deal with free agent starter Freddy Peralta on Tuesday.",
-      "published": "2026-11-24T10:29:00+00:00",
-      "title": "Orioles to sign Freddy Peralta for 5 years, $125M in franchise-record deal",
-      "url": "https://www.baltimoresun.com/2026/11/24/orioles-freddy-peralta-free-agent-deal/"
+      "description": "Here’s what The Baltimore Sun staff said immediately after the Orioles reportedly agreed to a five-year deal with free agent pitcher Freddy Peralta.",
+      "published": "2026-11-24T09:36:00+00:00",
+      "title": "Instant analysis: Orioles sign SP Freddy Peralta to lead rotation",
+      "url": "https://www.baltimoresun.com/2026/11/24/instant-analysis-orioles-freddy-peralta/"
     },
     {
       "category": "Orioles",
@@ -44,17 +51,17 @@
     },
     {
       "category": "Orioles",
+      "description": "Trevor Rogers won’t be re-signing with the Orioles after reportedly reaching a multiyear deal with the Chicago Cubs in free agency Monday.",
+      "published": "2026-11-23T20:28:00+00:00",
+      "title": "Ex-Orioles starter Trevor Rogers to sign deal with Cubs: reports",
+      "url": "https://www.baltimoresun.com/2026/11/23/orioles-trevor-rogers-cubs-deal/"
+    },
+    {
+      "category": "Orioles",
       "description": "The Orioles hired Jeff Taylor from Miami to be their vice president of high performance and promoted trainer Scott Barringer to a new role.",
       "published": "2026-11-20T14:15:00+00:00",
       "title": "Orioles restructure training staff, hire new VP of high performance",
       "url": "https://www.baltimoresun.com/2026/11/20/orioles-training-staff-restructure-injuries/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles will have a new alternate cap featuring the traditional bird logo, and their jerseys will have minor changes to the sleeves.",
-      "published": "2026-11-18T07:35:00+00:00",
-      "title": "Orioles unveil new alternate caps, jersey changes for 2027",
-      "url": "https://www.baltimoresun.com/2026/11/18/orioles-alternate-caps-jersey-changes-2027/"
     },
     {
       "category": "Orioles",
@@ -65,20 +72,13 @@
     },
     {
       "category": "Orioles",
-      "description": "By 8 p.m., teams must decide whether to tender contracts to their arbitration-eligible players or let them become free agents. The Orioles have only four such players, and their decisions Friday will ...",
-      "published": "2026-11-19T04:00:00+00:00",
-      "title": "Orioles arbitration FAQ: What to know about looming deadline and decisions",
-      "url": "https://www.baltimoresun.com/2026/11/19/orioles-arbitration-faq-looming-deadline-decisions/"
-    },
-    {
-      "category": "Orioles",
-      "description": "The Orioles’ lineup needs a revamp. Is trading for Diamondbacks second baseman Ketel Marte the solution? It’s not a simple fit.",
-      "published": "2026-11-18T17:32:00+00:00",
-      "title": "Should Orioles trade for Ketel Marte? The case for and against. | ANALYSIS",
-      "url": "https://www.baltimoresun.com/2026/11/18/orioles-ketel-marte-trade-target/"
+      "description": "The Orioles will have a new alternate cap featuring the traditional bird logo, and their jerseys will have minor changes to the sleeves.",
+      "published": "2026-11-18T07:35:00+00:00",
+      "title": "Orioles unveil new alternate caps, jersey changes for 2027",
+      "url": "https://www.baltimoresun.com/2026/11/18/orioles-alternate-caps-jersey-changes-2027/"
     }
   ],
-  "generated_at": "2026-11-25T05:04:04.554574+00:00",
+  "generated_at": "2026-11-25T15:28:59.618514+00:00",
   "source": "Baltimore Sun",
   "source_url": "https://www.baltimoresun.com/sports/orioles/"
 }

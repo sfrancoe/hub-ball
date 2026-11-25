@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "Armstrong, Caleb Williams, Matas Buzelis, Conor Bedard and Caleb Wilson are seeing VIP cheering sections thanks to buddy system.",
+      "published": "2026-11-25T03:00:00+00:00",
+      "title": "High-profile friendships drive Chicago’s star athletes: ‘We all try to one-up each other’",
+      "url": "https://www.nytimes.com/athletic/7794145/2026/11/25/chicago-cubs-bears-bulls-pca-caleb-williams-wilson/"
+    },
+    {
+      "category": "Cubs",
       "description": "Even with big additions, the Cubs still probably need to acquire two more proven starting pitchers to create necessary depth.",
       "published": "2026-11-24T16:09:00+00:00",
       "title": "Cubs won’t stop bolstering rotation after closing Trevor Rogers’ 5-year, $120M deal",
@@ -44,13 +51,6 @@
     },
     {
       "category": "Cubs",
-      "description": "The Cubs will be without one of their top starters until at least midway through the 2027 season after Cade Horton underwent surgery on his right elbow. Charles LeClaire / Imagn Images CHICAGO — Cade ...",
-      "published": "2026-04-17T11:55:00+00:00",
-      "title": "Cubs’ Cade Horton undergoes major elbow surgery, expected to miss up to 16 months",
-      "url": "https://www.nytimes.com/athletic/7205500/2026/04/17/cubs-cade-horton-elbow-surgery-recovery-timeline/"
-    },
-    {
-      "category": "Cubs",
       "description": "Crow-Armstrong launched 45 home runs and stole 41 bases this season, becoming the sport's seventh 40/40 player.",
       "published": "2026-11-12T13:40:00+00:00",
       "title": "Pete Crow-Armstrong, the Cubs star who lit up Wrigley Field, unanimously wins NL MVP",
@@ -64,7 +64,7 @@
       "url": "https://www.nytimes.com/athletic/7790092/2026/11/17/jaxon-wiggins-cubs-40-man-roster/"
     }
   ],
-  "generated_at": "2026-11-25T05:04:12.547694+00:00",
+  "generated_at": "2026-11-25T15:29:06.321369+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/cubs/"
 }

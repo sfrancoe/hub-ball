@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "How will the Red Sox balance out their lefty-loaded starting rotation in 2027?",
+      "published": "2026-11-25T10:30:41Z",
+      "title": "Starr’s 7 Questions: How can Red Sox balance lefty-heavy starting rotation?",
+      "url": "https://www.bostonherald.com/2026/11/25/red-sox-mlb-offseason-lockout-cba-jarren-duran-masataka-yoshida-tanner-houck-kutter-crawford-johan-oviedo-kristian-campbell/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Thanksgiving has been a bountiful time for the Red Sox over the years. Here are some of the most significant late-November deals the club has made over the last three decades.",
       "published": "2026-11-24T10:30:13Z",
       "title": "As Thanksgiving approaches, a look at Red Sox’s biggest late-November deals",
@@ -104,16 +111,9 @@
       "published": "2026-11-15T10:30:41Z",
       "title": "MLB notes: What’s next for Red Sox after Jake Bauers signing?",
       "url": "https://www.bostonherald.com/2026/11/15/mlb-notes-whats-next-for-red-sox-after-jake-bauers-signing/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox made a big splash Friday, signing one of the heroes of the Milwaukee Brewers’ World Series run",
-      "published": "2026-11-13T18:03:33Z",
-      "title": "Red Sox make unexpected signing of Brewers postseason hero Jake Bauers",
-      "url": "https://www.bostonherald.com/2026/11/13/red-sox-signing-jake-bauers-contract-willson-contreras-mlb-breaking-news/"
     }
   ],
-  "generated_at": "2026-11-24T12:49:10.457724+00:00",
+  "generated_at": "2026-11-25T15:28:45.475010+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

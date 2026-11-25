@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Blue Jays",
+      "description": "Signing Nippon Professional Baseball’s 2026 ERA leader, Kaima Taira, was the Toronto Blue Jays’ first significant splash of the offseason. It’s not likely to be the last.",
+      "published": "2026-11-25T04:00:00+00:00",
+      "title": "What Kaima Taira means for Blue Jays’ pitching and offseason plans",
+      "url": "https://www.nytimes.com/athletic/7811021/2026/11/25/kaima-taira-blue-jays-pitching-offseason-plans/"
+    },
+    {
+      "category": "Blue Jays",
       "description": "Adding an ace would have made Toronto's rotation formidable but there are needs beyond what Skubal could have provided.",
       "published": "2026-11-22T14:38:00+00:00",
       "title": "Blue Jays fall short on Tarik Skubal. Where do they go now?",
@@ -23,20 +30,13 @@
     },
     {
       "category": "Blue Jays",
-      "description": "Interest in former Nippon Professional Baseball stars has been a staple of Toronto's last few offseasons, and this year is no different.",
-      "published": "2026-11-14T04:00:00+00:00",
-      "title": "From Teruaki Sato to Seiya Suzuki, Blue Jays involved in latest crop of Japanese stars",
-      "url": "https://www.nytimes.com/athletic/7780070/2026/11/14/blue-jays-free-agents-japan-seiyz-suzuki-teruaki-sato/"
-    },
-    {
-      "category": "Blue Jays",
       "description": "The Jays' main priority remains offence, but any starting-pitching addition is expected to be more than just an innings eater.",
       "published": "2026-11-12T13:19:00+00:00",
       "title": "What I’m hearing about the Blue Jays: Rotation targets, a Kevin Gausman return, infield trades",
       "url": "https://www.nytimes.com/athletic/7776827/2026/11/12/what-im-hearing-blue-jays-rotation-kevin-gausman-infield-trades/"
     }
   ],
-  "generated_at": "2026-11-25T05:04:05.177644+00:00",
+  "generated_at": "2026-11-25T15:29:00.246239+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/blue-jays/"
 }

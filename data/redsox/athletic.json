@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "The free-agent market is moving fast, but there are a few pitchers likely to get one- or two-year deals who could be a good fit in Boston.",
+      "published": "2026-11-25T11:00:43+00:00",
+      "title": "The Red Sox need back-end rotation depth. Here are 3 intriguing options",
+      "url": "https://www.nytimes.com/athletic/7809940/2026/11/25/red-sox-starting-rotation-depth-options/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Boston sends Oviedo to Arizona and gets left-hander Luke Dotson, an 11th-round draft pick in 2025, and a player to be named later.",
       "published": "2026-11-21T00:36:04+00:00",
       "title": "Red Sox trade Johan Oviedo; Jarren Duran, Triston Casas among 14 tendered",
@@ -104,16 +111,9 @@
       "published": "2026-11-10T10:30:13+00:00",
       "title": "Red Sox noncommittal to Trevor Story at shortstop, looking for 'opportunistic' offseason",
       "url": "https://www.nytimes.com/athletic/7769351/2026/11/10/red-sox-trevor-story-shortstop-offseason-free-agents/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox could use some help in the middle of the order, and it's not out of the question that they go after a right-handed starter.",
-      "published": "2026-11-06T11:30:43+00:00",
-      "title": "Red Sox free-agent targets: From Seiya Suzuki to Michael King, six names to watch",
-      "url": "https://www.nytimes.com/athletic/7756774/2026/11/06/red-sox-free-agent-targets/"
     }
   ],
-  "generated_at": "2026-11-21T03:54:58.965411+00:00",
+  "generated_at": "2026-11-25T15:28:46.656615+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/red-sox/"
 }

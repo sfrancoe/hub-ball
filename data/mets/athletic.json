@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "With the big-ticket items done, the Mets will be more patient as they monitor the market for relievers and mid-rotation starters.",
+      "published": "2026-11-25T11:15:21+00:00",
+      "title": "What's left for Mets to accomplish this winter?",
+      "url": "https://www.nytimes.com/athletic/7809985/2026/11/25/mets-mlb-free-agency-rotation-clay-holmes/"
+    },
+    {
+      "category": "Mets",
       "description": "The Mets habitually chase the market’s most alluring names. They've done it enough, in fact, to form a full roster of splashy acquisitions.",
       "published": "2026-11-24T10:20:46+00:00",
       "title": "The Mets' big swings before Tarik Skubal: A 26-man roster of star imports, fireworks included",
@@ -132,16 +139,9 @@
       "published": "2026-11-18T01:23:22+00:00",
       "title": "After promising bullpen, right-hander Frankie Montas could attract plenty of MLB attention",
       "url": "https://www.nytimes.com/athletic/7790909/2026/11/17/mlb-pitcher-frankie-montas-free-agency/"
-    },
-    {
-      "category": "Mets",
-      "description": "The Mets designated Dylan Ross for assignment to make room for Rojas.",
-      "published": "2026-11-18T01:07:59+00:00",
-      "title": "Mets add only Jefferson Rojas to the 40-man roster ahead of potential Rule 5 draft",
-      "url": "https://www.nytimes.com/athletic/7790890/2026/11/17/mets-add-only-jefferson-rojas-to-the-40-man-roster-ahead-of-potential-rule-5-draft/"
     }
   ],
-  "generated_at": "2026-11-24T12:49:21.508320+00:00",
+  "generated_at": "2026-11-25T15:28:57.864534+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }
