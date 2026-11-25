@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics snapped a four-game losing streak on Tuesday night in part thanks to a simple adjustment.",
+        "published": "2026-11-25T10:45:00+00:00",
+        "title": "Joe Mazzulla makes savvy tweak to spark Celtics win over Wizards",
+        "url": "https://www.masslive.com/celtics/2026/11/joe-mazzulla-makes-savvy-tweak-to-spark-celtics-win-over-wizards.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Neemias Queta scored 21 points in the Celtics' win over the Wizards, playing great on both ends of the court.",
         "published": "2026-11-25T10:00:00+00:00",
         "title": "Neemias Queta emergence altering Celtics’ potential this season",
@@ -105,16 +112,9 @@
         "published": "2026-11-22T21:01:37+00:00",
         "title": "Celtics injury report: Paul George downgraded for Warriors game",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-injury-report-paul-george-downgraded-for-warriors-game.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Mike Conley led the Celtics with 19 points off the bench, bringing some much-needed shot-making in the loss to the Kings.",
-        "published": "2026-11-22T10:45:00+00:00",
-        "title": "Mike Conley’s prove-it moment for Celtics opens new possibilities in Kings loss",
-        "url": "https://www.masslive.com/celtics/2026/11/mike-conleys-prove-it-moment-for-celtics-opens-new-possibilities-in-kings-loss.html"
       }
     ],
-    "generated_at": "2026-11-25T10:13:16.648763+00:00",
+    "generated_at": "2026-11-25T10:53:29.598199+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
