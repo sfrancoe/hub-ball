@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Late heroics by a Celtics reserve helped Boston survive a Wizards comeback and snap its four-game losing streak.",
+        "published": "2026-11-25T03:44:46Z",
+        "title": "Celtics reserve rescues Boston late in slump-busting win over Wizards",
+        "url": "https://www.bostonherald.com/2026/11/24/celtics-reserve-rescues-boston-late-in-slump-busting-win-over-wizards/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "What has caused the Celtics’ offense to vanish during the longest losing streak of the Joe Mazzulla era?",
         "published": "2026-11-24T10:15:47Z",
         "title": "Celtics struggling through worst offensive stretch in 15 years",
@@ -105,16 +112,9 @@
         "published": "2026-11-12T02:48:01Z",
         "title": "Celtics rally for gutsy win over Raptors to close out 4-0 road trip",
         "url": "https://www.bostonherald.com/2026/11/11/celtics-rally-for-gutsy-win-over-raptors-to-close-out-4-0-road-trip/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "After lighting up his former team on Tuesday, Paul George was ruled out for Wednesday’s Celtics-Raptors game.",
-        "published": "2026-11-11T18:09:53Z",
-        "title": "After big game vs. 76ers, Paul George ruled out for Celtics-Raptors",
-        "url": "https://www.bostonherald.com/2026/11/11/after-big-game-vs-76ers-paul-george-ruled-out-for-celtics-raptors/"
       }
     ],
-    "generated_at": "2026-11-24T10:24:36.904713+00:00",
+    "generated_at": "2026-11-25T03:51:16.571923+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },

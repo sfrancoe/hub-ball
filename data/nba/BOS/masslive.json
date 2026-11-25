@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics fended off the Wizards in NBA Cup action, almost clinching a spot in the knockout stages.",
+        "published": "2026-11-25T03:40:16+00:00",
+        "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in win over Wizards",
+        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-wizards.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics snapped their four-game losing streak on Tuesday night in convincing fashion.",
         "published": "2026-11-25T03:37:35+00:00",
         "title": "4 takeaways as Celtics beat Wizards in crucial NBA Cup victory",
@@ -105,16 +112,9 @@
         "published": "2026-11-22T10:00:00+00:00",
         "title": "Worst loss of Celtics season? What we learned from after C’s fall to Kings",
         "url": "https://www.masslive.com/celtics/2026/11/worst-loss-of-celtics-season-what-we-learned-from-after-cs-fall-to-kings.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The shorthanded Celtics dropped three straight games for the first time all season on Saturday night.",
-        "published": "2026-11-22T06:27:42+00:00",
-        "title": "4 takeaways as Celtics lose to Kings after historically bad shooting night",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-kings-after-historically-bad-shooting-night.html"
       }
     ],
-    "generated_at": "2026-11-25T03:41:12.954161+00:00",
+    "generated_at": "2026-11-25T03:51:17.111937+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
