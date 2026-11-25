@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "“The other day, he came up to us and gave us a confident speech, and I think it was really good for us.”",
+        "published": "2026-11-25T15:04:57Z",
+        "title": "Jayson Tatum inspired Celtics with speech ahead of much-needed win over Wizards",
+        "url": "https://www.bostonherald.com/2026/11/25/jayson-tatum-inspired-celtics-with-speech-ahead-of-much-needed-win-over-wizards/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Late heroics by a Celtics reserve helped Boston survive a Wizards comeback and snap its four-game losing streak.",
         "published": "2026-11-25T03:44:46Z",
         "title": "Celtics sparked by top trio, rescued by reserve in slump-busting win over Wizards",
@@ -105,16 +112,9 @@
         "published": "2026-11-14T18:36:25Z",
         "title": "Celtics notebook: Veteran wing quietly enjoying standout season",
         "url": "https://www.bostonherald.com/2026/11/14/celtics-notebook-veteran-wing-quietly-enjoying-standout-season/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Emotionally charged win 24 hours earlier? Early-morning arrival north of the border? Key player unavailable? Twenty-plus-point first-half deficit? None of that fazed the Celtics in Toronto.",
-        "published": "2026-11-12T02:48:01Z",
-        "title": "Celtics rally for gutsy win over Raptors to close out 4-0 road trip",
-        "url": "https://www.bostonherald.com/2026/11/11/celtics-rally-for-gutsy-win-over-raptors-to-close-out-4-0-road-trip/"
       }
     ],
-    "generated_at": "2026-11-25T04:31:32.795314+00:00",
+    "generated_at": "2026-11-25T15:14:49.074575+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
