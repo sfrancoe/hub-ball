@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Giants",
-      "description": "Sure, the Giants' defense is playing well, but the machines are refusing to back a team struggling so much on offense.",
-      "published": "2026-11-25T03:00:00+00:00",
-      "title": "Are the Giants frauds? Man vs. machine NFL power rankings, Week 12",
-      "url": "https://www.nytimes.com/athletic/7809257/2026/11/25/nfl-power-rankings-week-12-machine-new-york-giants/"
-    },
-    {
-      "category": "Giants",
       "description": "In the decade-plus since Webb joined the organization, it was never reasonable to think the Giants would trade him. It just never made sense. He was always too good, too inexpensive, too popular, too ...",
       "published": "2026-11-23T12:07:00+00:00",
       "title": "The Giants will listen to offers for Logan Webb. It’s still unlikely that they’ll trade him",
@@ -16,10 +9,10 @@
     },
     {
       "category": "Giants",
-      "description": "EAST RUTHERFORD, N.J. — The phrase echoed across the New York Giants locker room and into Abdul Carter’s postgame scrum with reporters. “Best in the world.” Carter smiled, repeating what a teammate ...",
-      "published": "2026-11-23T04:00:00+00:00",
-      "title": "‘I’m the best in the world’: Abdul Carter puts on a show in Giants’ upset of Jaguars",
-      "url": "https://www.nytimes.com/athletic/7805410/2026/11/23/abdul-carter-giants-jaguars-sacks-week-11/"
+      "description": "Sure, the Giants' defense is playing well, but the machines are refusing to back a team struggling so much on offense.",
+      "published": "2026-11-25T03:00:00+00:00",
+      "title": "Are the Giants frauds? Man vs. machine NFL power rankings, Week 12",
+      "url": "https://www.nytimes.com/athletic/7809257/2026/11/25/nfl-power-rankings-week-12-machine-new-york-giants/"
     },
     {
       "category": "Giants",
@@ -30,13 +23,20 @@
     },
     {
       "category": "Giants",
+      "description": "EAST RUTHERFORD, N.J. — The phrase echoed across the New York Giants locker room and into Abdul Carter’s postgame scrum with reporters. “Best in the world.” Carter smiled, repeating what a teammate ...",
+      "published": "2026-11-23T04:00:00+00:00",
+      "title": "‘I’m the best in the world’: Abdul Carter puts on a show in Giants’ upset of Jaguars",
+      "url": "https://www.nytimes.com/athletic/7805410/2026/11/23/abdul-carter-giants-jaguars-sacks-week-11/"
+    },
+    {
+      "category": "Giants",
       "description": "Instead of adding a touchdown to their tally, the Jaguars settled for a 31-yard field goal on fourth-and-9. Lawrence later hit Brian Thomas Jr. for an 18-yard touchdown, but the Jaguars still came up ...",
       "published": "2026-11-21T15:59:00+00:00",
       "title": "Why wasn’t that a touchdown catch for the Jaguars’ Parker Washington?",
       "url": "https://www.nytimes.com/athletic/7805223/2026/11/22/parker-washington-catch-touchdown-jaguars-giants/"
     }
   ],
-  "generated_at": "2026-11-25T23:44:19.829921+00:00",
+  "generated_at": "2026-11-26T15:42:24.772117+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/giants/"
 }

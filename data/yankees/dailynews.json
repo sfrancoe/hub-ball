@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "Jonathan Loáisiga’s reunion with the Yankees guarantees him two years and $19 million, but the...",
+      "published": "2026-11-26T15:04:43+00:00",
+      "title": "Jonathan Loáisiga’s deal with Yankees includes $9.5 million option for 2029",
+      "url": "https://www.nydailynews.com/2026/11/26/yankees-jonathan-loaisiga-mlb-contract-free-agency-bullpen/"
+    },
+    {
+      "category": "Yankees",
       "description": "Hyde brings lots of experience in the American League East, as he managed the Orioles...",
       "published": "2026-11-25T17:10:30+00:00",
       "title": "Yankees hiring ex-Orioles manager Brandon Hyde to be new bench coach: source",
@@ -132,16 +139,9 @@
       "published": "2026-11-12T00:49:35+00:00",
       "title": "Yankees’ Cam Schlittler didn’t always care about baseball. Now he’s the AL Cy Young",
       "url": "https://www.nydailynews.com/2026/11/11/yankees-cam-schlittler-didnt-always-care-about-baseball-now-hes-the-als-expected-cy-young/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Cam Schlittler now becomes just the third homegrown Yankee starting pitcher to win the Cy...",
-      "published": "2026-11-12T00:31:18+00:00",
-      "title": "Mike Lupica: With Cy Young win, Cam Schlittler adds his name to New York pitching greats",
-      "url": "https://www.nydailynews.com/2026/11/11/mike-lupica-cam-schlittler-yankees-cy-young-guidry-cole-gooden-seaver-clemens/"
     }
   ],
-  "generated_at": "2026-11-25T23:43:57.582389+00:00",
+  "generated_at": "2026-11-26T15:41:59.459222+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }
