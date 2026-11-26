@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-26T08:35:59.808391+00:00",
+  "generated_at": "2026-11-26T21:42:33.618387+00:00",
   "source": "X",
   "source_url": "https://x.com/Yankees",
   "recent": [
+    {
+      "id": "2125953155678744900",
+      "text": "Happy Thanksgiving from our family to yours! 💙🦃 https://t.co/QeyM0tNc40",
+      "url": "https://x.com/Yankees/status/2125953155678744900",
+      "published": "2026-11-26T14:01:45+00:00",
+      "likes": 2245,
+      "author": "New York Yankees",
+      "handle": "Yankees",
+      "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYDm5l1XcAA5WbW.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2125644368094920841",
       "text": "A day in the life of Luis García Jr. in the Dominican Republic 🇩🇴 Behind the NY | Episode 14 – Watch the Full Video 👉https://t.co/Qu0lpjwT8i https://t.co/85Bj16QakE",
       "url": "https://x.com/Yankees/status/2125644368094920841",
       "published": "2026-11-25T17:34:44+00:00",
-      "likes": 1326,
+      "likes": 1494,
       "author": "New York Yankees",
       "handle": "Yankees",
       "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
@@ -22,7 +36,7 @@
       "text": "Get your Yankees gear with savings up to 50% off at our @yankeestadium merchandise Black Friday Sale!",
       "url": "https://x.com/Yankees/status/2125629148341354683",
       "published": "2026-11-25T16:34:15+00:00",
-      "likes": 181,
+      "likes": 190,
       "author": "New York Yankees",
       "handle": "Yankees",
       "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
@@ -34,32 +48,18 @@
   ],
   "popular": [
     {
-      "id": "2125644368094920841",
-      "text": "A day in the life of Luis García Jr. in the Dominican Republic 🇩🇴 Behind the NY | Episode 14 – Watch the Full Video 👉https://t.co/Qu0lpjwT8i https://t.co/85Bj16QakE",
-      "url": "https://x.com/Yankees/status/2125644368094920841",
-      "published": "2026-11-25T17:34:44+00:00",
-      "likes": 1326,
+      "id": "2125953155678744900",
+      "text": "Happy Thanksgiving from our family to yours! 💙🦃 https://t.co/QeyM0tNc40",
+      "url": "https://x.com/Yankees/status/2125953155678744900",
+      "published": "2026-11-26T14:01:45+00:00",
+      "likes": 2245,
       "author": "New York Yankees",
       "handle": "Yankees",
       "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2125642742378176512/img/AcD0loZSX3_mgTMa.jpg",
+      "media": "https://pbs.twimg.com/media/HYDm5l1XcAA5WbW.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2125629148341354683",
-      "text": "Get your Yankees gear with savings up to 50% off at our @yankeestadium merchandise Black Friday Sale!",
-      "url": "https://x.com/Yankees/status/2125629148341354683",
-      "published": "2026-11-25T16:34:15+00:00",
-      "likes": 181,
-      "author": "New York Yankees",
-      "handle": "Yankees",
-      "avatar": "https://pbs.twimg.com/profile_images/1853415774305579008/G6w4o3gX_normal.jpg",
-      "media": "",
-      "quoted_text": "Mark your calendars for the Yankees Black Friday Sale! Shop the Yankees Home Plate Store at Yankee Stadium on Nov. 27 - Nov. 29 from 9:30 am until 4:00 pm for up to 50% off apparel, novelty items and more 🎁 The entrance to the Team Store will be located in the Great Hall. https://t.co/q7vnVhEVtR",
-      "quoted_author": "Yankee Stadium",
-      "quoted_handle": "yankeestadium"
     }
   ]
 }
