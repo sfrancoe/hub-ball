@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-11-25T21:49:29.405763+00:00",
+  "generated_at": "2026-11-26T08:35:59.814238+00:00",
   "source": "X",
   "source_url": "https://x.com/Angels",
   "recent": [
+    {
+      "id": "2125721176056168517",
+      "text": "RT @angelstadium: Join us next Thursday, December 3rd for the return of our Lunch with a Legend Angel Stadium Tour experience! 🏟️ Purchase…",
+      "url": "https://x.com/Angels/status/2125721176056168517",
+      "published": "2026-11-25T22:39:57+00:00",
+      "likes": 0,
+      "author": "Los Angeles Angels",
+      "handle": "Angels",
+      "avatar": "https://pbs.twimg.com/profile_images/2091936746355494913/ePF3McSz_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2125316623313883245",
       "text": "Big savings at the Big A! 🏟️ Get up to 50% off select merchandise at the @angelstadium Team Store Black Friday Sale now through Sunday, November 29th, from 10am - 5pm daily (closed Thanksgiving Day)!",
@@ -18,5 +32,20 @@
       "quoted_handle": "Angels"
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2125721176056168517",
+      "text": "RT @angelstadium: Join us next Thursday, December 3rd for the return of our Lunch with a Legend Angel Stadium Tour experience! 🏟️ Purchase…",
+      "url": "https://x.com/Angels/status/2125721176056168517",
+      "published": "2026-11-25T22:39:57+00:00",
+      "likes": 0,
+      "author": "Los Angeles Angels",
+      "handle": "Angels",
+      "avatar": "https://pbs.twimg.com/profile_images/2091936746355494913/ePF3McSz_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
