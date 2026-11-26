@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-26T14:32:03.102733+00:00",
+  "generatedAt": "2026-11-26T23:21:56.374387+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 1,
   "articles": [
+    {
+      "title": "Former Yankees star turns World Series win into $6 million deal",
+      "description": "",
+      "url": "https://nypost.com/2026/11/26/sports/gary-sanchez-gets-6-million-deal-after-winning-world-series/",
+      "published": "2026-11-26T18:47:12+00:00",
+      "source": "New York Post",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Jonathan Loáisiga’s deal with Yankees includes $9.5 million option for 2029",
       "description": "Jonathan Loáisiga’s reunion with the Yankees guarantees him two years and $19 million, but the...",
@@ -17,54 +29,6 @@
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Franklin Arias isn’t only Red Sox prospect who made big strides in 2026",
-      "description": "Most Red Sox fans are well aware of Franklin Arias’ dominant season in the minors, but he isn’t the only Red Sox prospect who made big strides in 2026.",
-      "url": "https://www.bostonherald.com/2026/11/26/franklin-arias-isnt-only-red-sox-prospect-who-made-big-strides-in-2026/",
-      "published": "2026-11-26T10:30:21+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Cubs get aggressive landing Teruaki Sato, Trevor Rogers. Here’s what it means moving forward",
-      "description": "Cubs chairman Tom Ricketts gives wide latitude to his baseball operations department, and that big-picture approach has helped the club make nine-figure investments in Crow-Armstrong, Gold Glove ...",
-      "url": "https://www.nytimes.com/athletic/7811971/2026/11/26/cubs-teruaki-sato-trevor-rogers-mlb-offseason/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 112,
-      "teamName": "Chicago Cubs",
-      "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Brewers grades | Jake Bauers, Brice Turang at top of class on infield",
-      "description": "Jake Bauers rode off to free agency after his huge season with the Brewers, and Brice Turang stated his case as the best all-around second baseman.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/26/brewers-grades-jake-bauers-brice-turang-at-top-of-class-on-infield/92695865007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "Ex-Red Sox pitcher signs multi-year deal after underwhelming Boston tenure",
-      "description": "After an underwhelming and injury-riddled two Red Sox seasons, Patrick Sandoval has a lucrative new contract",
-      "url": "https://www.bostonherald.com/2026/11/25/red-sox-patrick-sandoval-new-contract-colorado-rockies-mlb-news/",
-      "published": "2026-11-26T03:12:15+00:00",
-      "source": "The Boston Herald",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
       "league": "AL",
       "publishedSource": "publisher"
     }
