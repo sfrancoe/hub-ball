@@ -1,16 +1,52 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-25T22:37:06.479439+00:00",
+  "generatedAt": "2026-11-26T04:30:46.149998+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 6,
+  "coveredTeamCount": 5,
   "articles": [
     {
-      "title": "Padres’ first significant acquisition of offseason is lefty reliever JoJo Romero",
-      "description": "The addition, which is a hedge against the likely loss of Adrian Morejón, is the team’s first significant free agent acquisition. The Padres are said by two sources to be closing in on a deal with at ...",
+      "title": "Ex-Red Sox pitcher signs multi-year deal after underwhelming Boston tenure",
+      "description": "After an underwhelming and injury-riddled two Red Sox seasons, Patrick Sandoval has a lucrative new contract",
+      "url": "https://www.bostonherald.com/2026/11/25/red-sox-patrick-sandoval-new-contract-colorado-rockies-mlb-news/",
+      "published": "2026-11-26T03:12:15+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Patrick Sandoval lands $42M deal with Rockies after brief Red Sox run",
+      "description": "Patrick Sandoval had a disappointing tenure in a Red Sox uniform, but that didn’t stop him from landing a lucrative deal in free agency.",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-lefty-signs-with-rockies-lands-42m-deal-after-just-15-games-in-boston.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "How foster parents’ love came to the aid of Braves pitcher Ray Kerr",
+      "description": "Kerr asserted his belief that things happen for a reason, and the tragic circumstances of his life — his mother not being a part of it, his father being imprisoned — led him and his brother to ...",
+      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-ray-kerr-foster-care/",
+      "published": "2026-11-26T00:09:17.243000+00:00",
+      "source": "AJC",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "teamAbbreviation": "ATL",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Padres make first significant acquisition of offseason, sign lefty reliever",
+      "description": "The Padres added a left-handed reliever to their bullpen on Wednesday, agreeing to a three-year contract with left-handed reliever JoJo Romero. The $21 million deal, which is a hedge against the ...",
       "url": "https://www.sandiegouniontribune.com/2026/11/25/padres-first-significant-acquisition-of-offseason-is-lefty-reliever-jojo-romero/",
       "published": "2026-11-25T21:39:19+00:00",
       "source": "Union-Tribune",
@@ -91,54 +127,6 @@
       "teamAbbreviation": "PHI",
       "league": "NL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Infielder finds new $20 million home after Yankees interest in free agency",
-      "description": "",
-      "url": "https://nypost.com/2026/11/25/sports/alec-bohm-signing-with-royals-after-yankees-interest-in-mlb-free-agency/",
-      "published": "2026-11-25T16:26:00+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Former Braves shortstop signs with Tigers",
-      "description": "The Detroit Tigers reportedly have signed the free-agent shortstop to a one-year deal worth $5 million. Kim spent the 2026 season with the Braves organization, playing in just 51 games.",
-      "url": "https://www.ajc.com/sports/2026/11/former-braves-shortstop-signs-tigers/",
-      "published": "2026-11-25T15:58:02.096000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Brewers bring back right-hander Antonio Senzatela, cut Tyler Black",
-      "description": "The Brewers are bringing back right-hander Antonio Senzatela on a one-year contract for 2027 and cutting loose former high draft pick Tyler Black.",
-      "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/11/25/brewers-bring-back-right-hander-antonio-senzatela-cut-tyler-black/92961808007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
-    },
-    {
-      "title": "The Red Sox need back-end rotation depth. Here are 3 intriguing options",
-      "description": "The free-agent market is moving fast, but there are a few pitchers likely to get one- or two-year deals who could be a good fit in Boston.",
-      "url": "https://www.nytimes.com/athletic/7809940/2026/11/25/red-sox-starting-rotation-depth-options/",
-      "published": "",
-      "source": "The Athletic",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "teamAbbreviation": "BOS",
-      "league": "AL",
-      "publishedSource": "unverified"
     }
   ]
 }
