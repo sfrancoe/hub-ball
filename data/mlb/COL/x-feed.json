@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-25T07:15:01.873949+00:00",
+  "generated_at": "2026-11-26T07:25:06.324675+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Rockies",
   "team_id": "27",
   "sport": "mlb",
-  "likes_as_of": "2026-11-25T07:15:01.873949+00:00",
+  "likes_as_of": "2026-11-26T07:25:06.324675+00:00",
   "recent": [
     {
       "id": "2125378939451228248",
       "text": "The Mystery Bag is back and so is the @spillygoat19 unboxing! Available exclusively at Rockies Dugout Stores on Black Friday 👇 https://t.co/u20HcUgfcG",
       "url": "https://x.com/Rockies/status/2125378939451228248",
       "published": "2026-11-25T00:00:01+00:00",
-      "likes": 61,
+      "likes": 72,
       "author": "Colorado Rockies",
       "handle": "Rockies",
       "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
@@ -22,20 +22,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2125378939451228248",
-      "text": "The Mystery Bag is back and so is the @spillygoat19 unboxing! Available exclusively at Rockies Dugout Stores on Black Friday 👇 https://t.co/u20HcUgfcG",
-      "url": "https://x.com/Rockies/status/2125378939451228248",
-      "published": "2026-11-25T00:00:01+00:00",
-      "likes": 61,
-      "author": "Colorado Rockies",
-      "handle": "Rockies",
-      "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2125329509461155840/img/j1YTJS960slrSJgq.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
