@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Braves",
+      "description": "Kerr asserted his belief that things happen for a reason, and the tragic circumstances of his life — his mother not being a part of it, his father being imprisoned — led him and his brother to ...",
+      "published": "2026-11-24T15:59:00+00:00",
+      "title": "How foster parents’ love came to the aid of Braves pitcher Ray Kerr",
+      "url": "https://www.ajc.com/sports/2026/11/atlanta-braves-ray-kerr-foster-care/"
+    },
+    {
+      "category": "Braves",
       "description": "The Detroit Tigers reportedly have signed the free-agent shortstop to a one-year deal worth $5 million. Kim spent the 2026 season with the Braves organization, playing in just 51 games.",
       "published": "2026-11-25T07:58:00+00:00",
       "title": "Former Braves shortstop signs with Tigers",
@@ -37,20 +44,6 @@
     },
     {
       "category": "Braves",
-      "description": "MIAMI — The Braves bested Marlins ace Sandy Alcántara, and Spencer Strider continued to trend upward in a 9-3 win at loanDepot Park on Thursday. The first six of Atlanta’s nine runs came off Miami’s ...",
-      "published": "2026-05-21T17:00:00+00:00",
-      "title": "Braves beat Marlins to win 14th series of the season",
-      "url": "https://www.ajc.com/sports/2026/05/braves-beat-marlins-to-win-14th-series-of-the-season/"
-    },
-    {
-      "category": "Braves",
-      "description": "The return of Hurston Waldrep is expected to come sooner rather than later. The 24-year-old right-handed pitcher, who has already made two outings in the Florida Complex League, will take a ...",
-      "published": "2026-06-09T17:01:00+00:00",
-      "title": "Hurston Waldrep taking another step toward returning to Braves",
-      "url": "https://www.ajc.com/sports/2026/06/hurston-waldrep-taking-another-step-toward-returning-to-braves/"
-    },
-    {
-      "category": "Braves",
       "description": "It would certainly seem to behoove the Braves to add offense this offseason, especially after they were somewhat exposed in the postseason over seven games and two series.",
       "published": "2026-11-13T09:09:00+00:00",
       "title": "Braves could use an offensive lift in 2027",
@@ -69,9 +62,23 @@
       "published": "2026-11-12T18:31:00+00:00",
       "title": "Former Braves’ draft pick Evan Phillips ‘couldn’t be more excited’ to be back in Atlanta",
       "url": "https://www.ajc.com/sports/2026/11/evan-phillips-excited-about-braves-return/"
+    },
+    {
+      "category": "Braves",
+      "description": "After 13 games in 13 days, we’re letting beat writer Chad Bishop off the Braves Report hook this week. He’s earned a little breather. And like Walt Weiss, we can handle ourselves just fine, thank you.",
+      "published": "2026-04-09T17:00:00+00:00",
+      "title": "Braves Report: My manager could beat up your manager",
+      "url": "https://www.ajc.com/sports/2026/04/braves-report-my-manager-could-beat-up-your-manager/"
+    },
+    {
+      "category": "Braves",
+      "description": "MIAMI — The Braves bested Marlins ace Sandy Alcántara, and Spencer Strider continued to trend upward in a 9-3 win at loanDepot Park on Thursday. The first six of Atlanta’s nine runs came off Miami’s ...",
+      "published": "2026-05-21T17:00:00+00:00",
+      "title": "Braves beat Marlins to win 14th series of the season",
+      "url": "https://www.ajc.com/sports/2026/05/braves-beat-marlins-to-win-14th-series-of-the-season/"
     }
   ],
-  "generated_at": "2026-11-25T23:44:14.177571+00:00",
+  "generated_at": "2026-11-26T05:29:50.453330+00:00",
   "source": "AJC",
   "source_url": "https://www.ajc.com/sports/atlanta-braves/"
 }

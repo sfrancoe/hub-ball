@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Patrick Sandoval had a disappointing tenure in a Red Sox uniform, but that didn’t stop him from landing a lucrative deal in free agency.",
+      "published": "2026-11-26T02:07:12+00:00",
+      "title": "Patrick Sandoval lands $42M deal with Rockies after brief Red Sox run",
+      "url": "https://www.masslive.com/redsox/2026/11/red-sox-lefty-signs-with-rockies-lands-42m-deal-after-just-15-games-in-boston.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "It has been a busy 48 hours in baseball with Tarik Skubal, Freddy Peralta and others coming off the board. Are the Red Sox going to get back in on the free agent frenzy?",
       "published": "2026-11-24T22:26:38+00:00",
       "title": "Fenway Rundown: Will Red Sox join MLB's free agent frenzy?",
@@ -37,17 +44,17 @@
     },
     {
       "category": "Red Sox",
-      "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
-      "published": "2026-11-20T10:00:00+00:00",
-      "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
-      "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
-    },
-    {
-      "category": "Red Sox",
       "description": "The Red Sox lack prospect capital for a shortstop upgrade after trading for Rutschman, and Connor Wong's release closes the book on the ill-fated Mookie Betts trade.",
       "published": "2026-11-20T10:00:00+00:00",
       "title": "Red Sox wanted a shortstop last summer but couldn't pull the trigger this winter — here's the prospect math behind the decision",
       "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-on-staying-out-of-the-shortstop-market-and-finally-putting-the-mookie-betts-deal-to-bed.html"
+    },
+    {
+      "category": "Red Sox",
+      "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
+      "published": "2026-11-20T10:00:00+00:00",
+      "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
+      "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
     },
     {
       "category": "Red Sox",
@@ -64,7 +71,7 @@
       "url": "https://www.masslive.com/redsox/2026/11/fenway-insider-live-sean-mcadam-on-connor-wong-triston-casas-and-more.html"
     }
   ],
-  "generated_at": "2026-11-25T23:43:57.337787+00:00",
+  "generated_at": "2026-11-26T05:29:32.509456+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }

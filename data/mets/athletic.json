@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Mets",
+      "description": "The Mets traded Peterson to the Cubs in late June, and his performance immediately improved.",
+      "published": "2026-11-26T00:20:41+00:00",
+      "title": "David Peterson, Rockies agree to 2-year, $32 million deal: Sources",
+      "url": "https://www.nytimes.com/athletic/7787328/2026/11/25/david-peterson-rockies-mlb-free-agency/"
+    },
+    {
+      "category": "Mets",
+      "description": "Skubal, a two-time Cy Young Award winner, immediately slots in as the Mets' new de facto ace.",
+      "published": "2026-11-26T00:07:35+00:00",
+      "title": "Mets make Tarik Skubal signing official, welcome 'elite' starter to New York",
+      "url": "https://www.nytimes.com/athletic/7813025/2026/11/25/mets-tarik-skubal-signing-official/"
+    },
+    {
+      "category": "Mets",
       "description": "With the big-ticket items done, the Mets will be more patient as they monitor the market for relievers and mid-rotation starters.",
       "published": "2026-11-25T11:15:21+00:00",
       "title": "What's left for Mets to accomplish this winter?",
@@ -125,23 +139,9 @@
       "published": "2026-11-20T03:21:42+00:00",
       "title": "Mets sign former Red Sox reliever Darwinzon Hernández to 3-year, $12 million deal: Source",
       "url": "https://www.nytimes.com/athletic/7796629/2026/11/19/mets-darwinzon-hernandez-free-agent-contract/"
-    },
-    {
-      "category": "Mets",
-      "description": "Where would Skubal fit in their rotation? How would he fit among other long-term contracts? Is he a want, or a need?",
-      "published": "2026-11-18T10:30:10+00:00",
-      "title": "How Tarik Skubal would fit his top four suitors, from the Mets to the Dodgers",
-      "url": "https://www.nytimes.com/athletic/7790724/2026/11/18/tarik-skubal-free-agency-fit-mets-dodgers-padres-blue-jays/"
-    },
-    {
-      "category": "Mets",
-      "description": "A dearth of high-level free-agent options makes Montas an intriguing candidate for an MLB contract one year after the Mets released him.",
-      "published": "2026-11-18T01:23:22+00:00",
-      "title": "After promising bullpen, right-hander Frankie Montas could attract plenty of MLB attention",
-      "url": "https://www.nytimes.com/athletic/7790909/2026/11/17/mlb-pitcher-frankie-montas-free-agency/"
     }
   ],
-  "generated_at": "2026-11-25T15:28:57.864534+00:00",
+  "generated_at": "2026-11-26T05:29:44.073048+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/mets/"
 }

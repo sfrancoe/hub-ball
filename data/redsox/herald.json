@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "After an underwhelming and injury-riddled two Red Sox seasons, Patrick Sandoval has a lucrative new contract",
+      "published": "2026-11-26T03:12:15Z",
+      "title": "Ex-Red Sox pitcher signs multi-year deal after underwhelming Boston tenure",
+      "url": "https://www.bostonherald.com/2026/11/25/red-sox-patrick-sandoval-new-contract-colorado-rockies-mlb-news/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "How will the Red Sox balance out their lefty-loaded starting rotation in 2027?",
       "published": "2026-11-25T10:30:41Z",
       "title": "Starr’s 7 Questions: How can Red Sox balance lefty-heavy starting rotation?",
@@ -104,16 +111,9 @@
       "published": "2026-11-17T00:17:07Z",
       "title": "Red Sox legend Jon Lester among newcomers on Baseball Hall of Fame ballot",
       "url": "https://www.bostonherald.com/2026/11/16/red-sox-legend-jon-lester-among-new-names-on-baseball-hall-of-fame-ballot-dustin-pedroia-buster-posey-mlb/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox made their first big splash of the offseason by signing World Series champion Jake Bauers. Here’s what his arrival means and what could be next for the franchise.",
-      "published": "2026-11-15T10:30:41Z",
-      "title": "MLB notes: What’s next for Red Sox after Jake Bauers signing?",
-      "url": "https://www.bostonherald.com/2026/11/15/mlb-notes-whats-next-for-red-sox-after-jake-bauers-signing/"
     }
   ],
-  "generated_at": "2026-11-25T15:28:45.475010+00:00",
+  "generated_at": "2026-11-26T05:29:30.086014+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }
