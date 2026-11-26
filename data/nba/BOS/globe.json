@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Celtics beat writer's notebook",
+        "description": "Coach Joe Mazzulla said he would be concerned if White’s shooting slump led to a drop in his defensive effort, but he said that has not happened.",
+        "published": "2026-11-26T17:39:30.387Z",
+        "title": "How Derrick White’s shooting slump is affecting his confidence, and other Celtics notes",
+        "url": "https://www.bostonglobe.com/2026/11/26/sports/derrick-white-celtics/"
+      },
+      {
         "category": "Celtics",
         "description": "In the 11 games this season that they’ve taken more threes than their opponents, they’re 5-6.",
         "published": "2026-11-26T08:00:00Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-19T08:55:27.681Z",
         "title": "Eight consecutive turnovers and a Jayson Tatum tech doom Celtics in collapse against Nuggets",
         "url": "https://www.bostonglobe.com/2026/11/19/sports/celtics-nuggets-game-score/"
-      },
-      {
-        "category": "CELTICS NOTEBOOK",
-        "description": "The former Providence College standout made his Celtics debut in Sunday's home blowout of the Mavericks. He is still dealing with aftereffects from his illness.",
-        "published": "2026-11-19T01:45:52.479Z",
-        "title": "Devin Carter continues to regain health, after bout with mononucleosis, while active for Celtics",
-        "url": "https://www.bostonglobe.com/2026/11/18/sports/celtics-devin-carter-return-illness/"
       }
     ],
-    "generated_at": "2026-11-26T08:10:09.472542+00:00",
+    "generated_at": "2026-11-26T17:42:55.101166+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
