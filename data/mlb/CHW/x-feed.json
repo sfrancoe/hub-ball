@@ -1,26 +1,69 @@
 {
-  "generated_at": "2026-11-26T07:25:06.324675+00:00",
+  "generated_at": "2026-11-27T07:35:02.490143+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/whitesox",
   "team_id": "4",
   "sport": "mlb",
-  "likes_as_of": "2026-11-26T07:25:06.324675+00:00",
+  "likes_as_of": "2026-11-27T07:35:02.490143+00:00",
   "recent": [
     {
-      "id": "2125271988021166534",
-      "text": "our photographer's favorite photos from the year (postseason edition) https://t.co/p7cCycF6Tu",
-      "url": "https://x.com/whitesox/status/2125271988021166534",
-      "published": "2026-11-24T16:55:02+00:00",
-      "likes": 712,
+      "id": "2126050882378731921",
+      "text": "\"Thanksgiving dinner is ready\" us: https://t.co/vUB3lAHDu5",
+      "url": "https://x.com/whitesox/status/2126050882378731921",
+      "published": "2026-11-26T20:30:05+00:00",
+      "likes": 1332,
       "author": "Chicago White Sox",
       "handle": "whitesox",
       "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HX55tNRXwAAUiwW.jpg",
+      "media": "https://pbs.twimg.com/media/HYFAAsQXoAAxXcc.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2125967984933929233",
+      "text": "Wishing you a happy Thanksgiving, Sox fans! We are so thankful for you https://t.co/EHVfH9q0Yw",
+      "url": "https://x.com/whitesox/status/2125967984933929233",
+      "published": "2026-11-26T15:00:40+00:00",
+      "likes": 1440,
+      "author": "Chicago White Sox",
+      "handle": "whitesox",
+      "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYD0nT-XYAEb7Hv.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2125967984933929233",
+      "text": "Wishing you a happy Thanksgiving, Sox fans! We are so thankful for you https://t.co/EHVfH9q0Yw",
+      "url": "https://x.com/whitesox/status/2125967984933929233",
+      "published": "2026-11-26T15:00:40+00:00",
+      "likes": 1440,
+      "author": "Chicago White Sox",
+      "handle": "whitesox",
+      "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYD0nT-XYAEb7Hv.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2126050882378731921",
+      "text": "\"Thanksgiving dinner is ready\" us: https://t.co/vUB3lAHDu5",
+      "url": "https://x.com/whitesox/status/2126050882378731921",
+      "published": "2026-11-26T20:30:05+00:00",
+      "likes": 1332,
+      "author": "Chicago White Sox",
+      "handle": "whitesox",
+      "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYFAAsQXoAAxXcc.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }

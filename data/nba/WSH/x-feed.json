@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T12:05:02.498331+00:00",
+  "generated_at": "2026-11-27T04:50:02.552569+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451317521326169",
   "team_id": "27",
   "sport": "nba",
-  "likes_as_of": "2026-11-26T12:05:02.498331+00:00",
+  "likes_as_of": "2026-11-27T04:50:02.552569+00:00",
   "recent": [
     {
       "id": "2125644404866044001",
@@ -26,7 +26,7 @@
       "text": "Get in on the Black Friday deals with 20% off select home games with no fees 🏀 📲 Enter code: 𝗛𝗢𝗟𝗜𝗗𝗔𝗬 🎟️ Claim offer: https://t.co/5RHVpniaO4 https://t.co/3PRxYGtM4J",
       "url": "https://x.com/WashWizards/status/2125605560364024185",
       "published": "2026-11-25T15:00:32+00:00",
-      "likes": 12,
+      "likes": 14,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -110,7 +110,7 @@
       "text": "Trae Young and his family gave back to the community by preparing Thanksgiving meals at @dcck 🦃 https://t.co/sI6dMgL9S0",
       "url": "https://x.com/WashWizards/status/2125281316820193326",
       "published": "2026-11-24T17:32:06+00:00",
-      "likes": 414,
+      "likes": 417,
       "author": "Washington Wizards",
       "handle": "WashWizards",
       "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
@@ -258,64 +258,7 @@
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
-    },
-    {
-      "id": "2124271230773567761",
-      "text": "Injury report ahead of our matchup against the Magic. Reece Beekman - Out (right AC joint sprain / separation) Justin Champagnie - Out (right foot surgery) Tristan Vukčević - Out (left hip impingement) Jamir Watkins - Out (left ACL repair/surgery) #ForTheDistrict | https://t.co/UzmdRd3Nod",
-      "url": "https://x.com/WashWizards/status/2124271230773567761",
-      "published": "2026-11-21T22:38:23+00:00",
-      "likes": 24,
-      "author": "Washington Wizards",
-      "handle": "WashWizards",
-      "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HXrtbRlXAAI1sDf.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2124266752108540091",
-      "text": "The Wizards' injury report for their game Sunday against the Magic has no new inclusions. Reece Beekman, Justin Champagnie, Tristan Vukcevic and Jamir Watkins remain out. For Orlando, Paolo Banchero (high-ankle sprain) remains out.",
-      "url": "https://x.com/JoshuaBRobbins/status/2124266752108540091",
-      "published": "2026-11-21T22:20:35+00:00",
-      "likes": 17,
-      "author": "Josh Robbins",
-      "handle": "JoshuaBRobbins",
-      "avatar": "https://pbs.twimg.com/profile_images/1358290326/Josh_Robbins_mugshot_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2125605560364024185",
-      "text": "Get in on the Black Friday deals with 20% off select home games with no fees 🏀 📲 Enter code: 𝗛𝗢𝗟𝗜𝗗𝗔𝗬 🎟️ Claim offer: https://t.co/5RHVpniaO4 https://t.co/3PRxYGtM4J",
-      "url": "https://x.com/WashWizards/status/2125605560364024185",
-      "published": "2026-11-25T15:00:32+00:00",
-      "likes": 12,
-      "author": "Washington Wizards",
-      "handle": "WashWizards",
-      "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HX-q_P6WIAAxHR4.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2125644404866044001",
-      "text": "RT @davidaldridgedc: The Wizards hoped that this season, they’d start to compete at a higher level against the NBA’s top teams. Tuesday’s a…",
-      "url": "https://x.com/JoshuaBRobbins/status/2125644404866044001",
-      "published": "2026-11-25T17:34:53+00:00",
-      "likes": 0,
-      "author": "Josh Robbins",
-      "handle": "JoshuaBRobbins",
-      "avatar": "https://pbs.twimg.com/profile_images/1358290326/Josh_Robbins_mugshot_normal.jpg",
-      "media": "",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

@@ -1,26 +1,41 @@
 {
-  "generated_at": "2026-11-26T07:25:06.324675+00:00",
+  "generated_at": "2026-11-27T07:35:02.490143+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dbacks",
   "team_id": "29",
   "sport": "mlb",
-  "likes_as_of": "2026-11-26T07:25:06.324675+00:00",
+  "likes_as_of": "2026-11-27T07:35:02.490143+00:00",
   "recent": [
     {
-      "id": "2125394103873802530",
-      "text": "ok so we're gonna need to see the glove 👀 Watch the full sit down with Corbin Carroll now on YouTube. https://t.co/2vJZPzV6FJ",
-      "url": "https://x.com/Dbacks/status/2125394103873802530",
-      "published": "2026-11-25T01:00:16+00:00",
-      "likes": 92,
+      "id": "2125984017040486774",
+      "text": "Happy Thanksgiving 🦃 https://t.co/90HTtLk2Vn",
+      "url": "https://x.com/Dbacks/status/2125984017040486774",
+      "published": "2026-11-26T16:04:23+00:00",
+      "likes": 584,
       "author": "Arizona Diamondbacks",
       "handle": "Dbacks",
       "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
-      "media": "https://pbs.twimg.com/amplify_video_thumb/2125391716668645377/img/yJ4leLr9xx5jcL9A.jpg",
+      "media": "https://pbs.twimg.com/media/HYECpoYW8AA2JKa.jpg",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2125984017040486774",
+      "text": "Happy Thanksgiving 🦃 https://t.co/90HTtLk2Vn",
+      "url": "https://x.com/Dbacks/status/2125984017040486774",
+      "published": "2026-11-26T16:04:23+00:00",
+      "likes": 584,
+      "author": "Arizona Diamondbacks",
+      "handle": "Dbacks",
+      "avatar": "https://pbs.twimg.com/profile_images/2111127027185324032/B2TPbT_L_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYECpoYW8AA2JKa.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
