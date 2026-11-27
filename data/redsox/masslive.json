@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "A matchup with the lowly Chargers offers a quick, clear verdict on how much fight is left in the banged-up Patriots.",
+      "published": "2026-11-27T10:00:00+00:00",
+      "title": "Patriots face a defining moment against the Chargers | Matt Vautour",
+      "url": "https://www.masslive.com/sports/2026/11/sunday-will-reveal-a-lot-about-these-patriots.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "Patrick Sandoval had a disappointing tenure in a Red Sox uniform, but that didn’t stop him from landing a lucrative deal in free agency.",
       "published": "2026-11-26T02:07:12+00:00",
       "title": "Patrick Sandoval lands $42M deal with Rockies after brief Red Sox run",
@@ -41,23 +48,9 @@
       "published": "2026-11-20T19:06:27+00:00",
       "title": "Red Sox lock up four bench players ahead of tender deadline",
       "url": "https://www.masslive.com/redsox/2026/11/red-sox-sign-four-bench-players-to-arbitration-deals-keeping-them-before-non-tender-deadline.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The Red Sox lack prospect capital for a shortstop upgrade after trading for Rutschman, and Connor Wong's release closes the book on the ill-fated Mookie Betts trade.",
-      "published": "2026-11-20T10:00:00+00:00",
-      "title": "Red Sox wanted a shortstop last summer but couldn't pull the trigger this winter — here's the prospect math behind the decision",
-      "url": "https://www.masslive.com/redsox/2026/11/state-of-the-sox-on-staying-out-of-the-shortstop-market-and-finally-putting-the-mookie-betts-deal-to-bed.html"
-    },
-    {
-      "category": "Red Sox",
-      "description": "The retiring Hall of Fame CEO reflects on 27 years of tearful voicemails, nervous silences and pure joy on the other end of the line.",
-      "published": "2026-11-20T10:00:00+00:00",
-      "title": "Basketball Hall of Fame CEO John Doleva changed lives with a phone call. Now it’s someone else’s turn | Matt Vautour",
-      "url": "https://www.masslive.com/celtics/2026/11/hall-of-fame-ceo-john-doleva-made-calls-that-changed-basketball-lives-now-its-someone-elses-turn.html"
     }
   ],
-  "generated_at": "2026-11-27T00:01:54.127650+00:00",
+  "generated_at": "2026-11-27T18:13:17.602860+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
