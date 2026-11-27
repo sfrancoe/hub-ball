@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "It’s the latest setback in a difficult debut season for the Celtics center.",
+        "published": "2026-11-27T23:47:43Z",
+        "title": "Joe Mazzulla reveals why Mitchell Robinson missed last four Celtics games",
+        "url": "https://www.bostonherald.com/2026/11/27/joe-mazzulla-reveals-why-mitchell-robinson-has-missed-last-four-celtics-games/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "“If I can have last year’s ceiling be this year’s floor, I think I’m in a good spot.”",
         "published": "2026-11-27T20:01:05Z",
         "title": "Celtics notebook: Overlooked big man has been indispensable for Boston",
@@ -105,16 +112,9 @@
         "published": "2026-11-16T01:11:21Z",
         "title": "Jayson Tatum, Celtics ride record-setting first quarter to blowout win over Mavericks",
         "url": "https://www.bostonherald.com/2026/11/15/jayson-tatum-celtics-ride-record-setting-first-quarter-to-blowout-win-over-mavericks/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "“Obviously, being from this area, people out here love him. … So it’s been cool to see his quick progression in the league and how good he’s become already.”",
-        "published": "2026-11-15T23:01:32Z",
-        "title": "Celtics notebook: Maine’s Cooper Flagg ‘better in every area’ in Year 2 with Mavs",
-        "url": "https://www.bostonherald.com/2026/11/15/celtics-notebook-maines-cooper-flagg-better-in-every-area-in-year-2-with-mavs/"
       }
     ],
-    "generated_at": "2026-11-27T20:01:13.434153+00:00",
+    "generated_at": "2026-11-27T23:52:35.809864+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },

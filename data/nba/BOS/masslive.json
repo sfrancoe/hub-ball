@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics can lock up a spot in the knockout round of the NBA Cup in a multitude of ways on Friday night.",
+        "published": "2026-11-27T23:43:06+00:00",
+        "title": "How Celtics can clinch spot in knockout round of NBA Cup vs. Hawks",
+        "url": "https://www.masslive.com/celtics/2026/11/how-celtics-can-clinch-spot-in-knockout-round-of-nba-cup-vs-hawks.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Mitchell Robinson was questionable on the injury report for the Hawks game Friday, but he was downgraded to out.",
         "published": "2026-11-27T23:32:17+00:00",
         "title": "Mitchell Robinson dealing with coronavirus, to miss 4th straight game",
@@ -105,16 +112,9 @@
         "published": "2026-11-23T10:45:00+00:00",
         "title": "Joe Mazzulla makes surprising admission after Warriors upset Celtics",
         "url": "https://www.masslive.com/celtics/2026/11/joe-mazzulla-makes-surprising-admission-after-warriors-upset-celtics.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics' offensive woes hit a new low as they lost by one point to the Warriors.",
-        "published": "2026-11-23T10:00:00+00:00",
-        "title": "Putting Celtics losing streak into perspective after disappointing Warriors loss",
-        "url": "https://www.masslive.com/celtics/2026/11/putting-celtics-losing-streak-into-perspective-after-disappointing-warriors-loss.html"
       }
     ],
-    "generated_at": "2026-11-27T23:42:31.900654+00:00",
+    "generated_at": "2026-11-27T23:52:36.390149+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
