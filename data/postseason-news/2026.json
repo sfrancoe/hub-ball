@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-26T23:21:56.374387+00:00",
+  "generatedAt": "2026-11-27T05:25:48.881682+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
@@ -9,10 +9,10 @@
   "coveredTeamCount": 1,
   "articles": [
     {
-      "title": "Former Yankees star turns World Series win into $6 million deal",
+      "title": "Yankees could be in trouble with big names in key position off the board",
       "description": "",
-      "url": "https://nypost.com/2026/11/26/sports/gary-sanchez-gets-6-million-deal-after-winning-world-series/",
-      "published": "2026-11-26T18:47:12+00:00",
+      "url": "https://nypost.com/2026/11/26/sports/yankees-could-be-in-trouble-with-catcher-market-drying-up/",
+      "published": "2026-11-27T01:34:25+00:00",
       "source": "New York Post",
       "teamId": 147,
       "teamName": "New York Yankees",
@@ -21,11 +21,11 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Jonathan Loáisiga’s deal with Yankees includes $9.5 million option for 2029",
-      "description": "Jonathan Loáisiga’s reunion with the Yankees guarantees him two years and $19 million, but the...",
-      "url": "https://www.nydailynews.com/2026/11/26/yankees-jonathan-loaisiga-mlb-contract-free-agency-bullpen/",
-      "published": "2026-11-26T12:30:41+00:00",
-      "source": "New York Daily News",
+      "title": "Former Yankees star turns World Series win into $6 million deal",
+      "description": "",
+      "url": "https://nypost.com/2026/11/26/sports/gary-sanchez-gets-6-million-deal-after-winning-world-series/",
+      "published": "2026-11-26T18:47:12+00:00",
+      "source": "New York Post",
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
