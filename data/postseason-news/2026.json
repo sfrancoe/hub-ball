@@ -1,18 +1,30 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-27T05:25:48.881682+00:00",
+  "generatedAt": "2026-11-27T15:38:55.702957+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 1,
+  "coveredTeamCount": 3,
   "articles": [
     {
-      "title": "Yankees could be in trouble with big names in key position off the board",
+      "title": "Giancarlo Stanton will ‘absolutely’ be with the Yankees in spring training. Then what?",
+      "description": "If Giancarlo Stanton is healthy, he complicates the Yankees' roster. Of course, that's a tremendous...",
+      "url": "https://www.nydailynews.com/2026/11/27/giancarlo-stanton-yankees-future-cashman-spring-training/",
+      "published": "2026-11-27T12:30:59+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Yankees champ’s daughter is becoming a star with her second love — after trying to follow in his footsteps",
       "description": "",
-      "url": "https://nypost.com/2026/11/26/sports/yankees-could-be-in-trouble-with-catcher-market-drying-up/",
-      "published": "2026-11-27T01:34:25+00:00",
+      "url": "https://nypost.com/2026/11/27/sports/lena-girardi-is-becoming-a-star-with-her-second-love-after-trying-to-follow-in-yankees-dads-foosteps/",
+      "published": "2026-11-27T12:30:00+00:00",
       "source": "New York Post",
       "teamId": 147,
       "teamName": "New York Yankees",
@@ -21,16 +33,40 @@
       "publishedSource": "publisher"
     },
     {
-      "title": "Former Yankees star turns World Series win into $6 million deal",
+      "title": "The Spencer Jones tradeoffs the Yankees have to consider for center field",
       "description": "",
-      "url": "https://nypost.com/2026/11/26/sports/gary-sanchez-gets-6-million-deal-after-winning-world-series/",
-      "published": "2026-11-26T18:47:12+00:00",
+      "url": "https://nypost.com/2026/11/27/sports/the-yankees-spencer-jones-center-field-decision-explained/",
+      "published": "2026-11-27T11:20:00+00:00",
       "source": "New York Post",
       "teamId": 147,
       "teamName": "New York Yankees",
       "teamAbbreviation": "NYY",
       "league": "AL",
       "publishedSource": "publisher"
+    },
+    {
+      "title": "Editorial: NIMBYs didn’t kill the South Loop stadium dreams of the White Sox and Justin Ishbia",
+      "description": "Mayoral candidates Susana Mendoza and John Kelly both took victory laps after the news of Amtrak’s change in plans surfaced, as if their opposition had anything to do with what happened.",
+      "url": "https://www.chicagotribune.com/2026/11/27/editorial-amtrak-south-loop-bridgeport-justin-ishbia-white-sox-stadium/",
+      "published": "2026-11-27T11:00:10+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "teamAbbreviation": "CWS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Patriots face a defining moment against the Chargers | Matt Vautour",
+      "description": "A matchup with the lowly Chargers offers a quick, clear verdict on how much fight is left in the banged-up Patriots.",
+      "url": "https://www.masslive.com/sports/2026/11/sunday-will-reveal-a-lot-about-these-patriots.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
     }
   ]
 }
