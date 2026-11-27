@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "A matchup with the lowly Chargers offers a quick, clear verdict on how much fight is left in the banged-up Patriots.",
+        "published": "2026-11-27T10:00:00+00:00",
+        "title": "Patriots face a defining moment against the Chargers | Matt Vautour",
+        "url": "https://www.masslive.com/sports/2026/11/sunday-will-reveal-a-lot-about-these-patriots.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics snapped a four-game losing streak on Tuesday night in part thanks to a simple adjustment.",
         "published": "2026-11-25T10:45:00+00:00",
         "title": "Joe Mazzulla makes savvy tweak to spark Celtics win over Wizards",
@@ -105,16 +112,9 @@
         "published": "2026-11-22T22:33:23+00:00",
         "title": "Celtics vs. Warriors predictions: Odds and best bet as Boston tries to snap a three-game skid",
         "url": "https://www.masslive.com/betting/2026/11/celtics-vs-warriors-predictions-odds-and-best-bet-as-boston-tries-to-snap-a-three-game-skid.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics will be shorthanded down two contributors as they try to snap a three-game losing streak.",
-        "published": "2026-11-22T21:01:37+00:00",
-        "title": "Celtics injury report: Paul George downgraded for Warriors game",
-        "url": "https://www.masslive.com/celtics/2026/11/celtics-injury-report-paul-george-downgraded-for-warriors-game.html"
       }
     ],
-    "generated_at": "2026-11-25T10:53:29.598199+00:00",
+    "generated_at": "2026-11-27T10:08:02.809822+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
