@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics could be back at full strength in their frontcourt on Friday night when they host the Hawks in NBA Cup action.",
+        "published": "2026-11-27T16:56:46+00:00",
+        "title": "Celtics injury report: Key center upgraded for Friday’s game vs. Hawks",
+        "url": "https://www.masslive.com/celtics/2026/11/celtics-injury-report-key-center-upgraded-for-fridays-game-vs-hawks.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "There's at least one trade option on the market that shouldn't appeal to Brad Stevens.",
         "published": "2026-11-27T11:00:01+00:00",
         "title": "Should Celtics consider veteran trade option at guard? (Mailbag)",
@@ -105,16 +112,9 @@
         "published": "2026-11-23T05:05:59+00:00",
         "title": "What’s wrong with Celtics’ offense? What we learned from Warriors loss",
         "url": "https://www.masslive.com/celtics/2026/11/whats-wrong-with-celtics-offense-what-we-learned-from-warriors-loss.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics fell to the Warriors for their first four-game losing streak of the Joe Mazzulla era.",
-        "published": "2026-11-23T04:08:39+00:00",
-        "title": "4 takeaways as Celtics lose to Warriors in another brutal offensive effort",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-warriors-in-another-brutal-offensive-effort.html"
       }
     ],
-    "generated_at": "2026-11-27T11:08:26.096450+00:00",
+    "generated_at": "2026-11-27T17:10:17.160626+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
