@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Mitchell Robinson was questionable on the injury report for the Hawks game Friday, but he was downgraded to out.",
+        "published": "2026-11-27T23:32:17+00:00",
+        "title": "Mitchell Robinson dealing with coronavirus, to miss 4th straight game",
+        "url": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-dealing-with-coronavirus-to-miss-4th-straight-game.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics host the Atlanta Hawks at TD Garden on Friday. Compare Polymarket odds, spread lines, and score projections before tip off.",
         "published": "2026-11-27T17:15:00+00:00",
         "title": "Experts release Celtics vs. Hawks prediction ahead of final NBA Cup Group Play matchup",
@@ -105,16 +112,9 @@
         "published": "2026-11-23T10:00:00+00:00",
         "title": "Putting Celtics losing streak into perspective after disappointing Warriors loss",
         "url": "https://www.masslive.com/celtics/2026/11/putting-celtics-losing-streak-into-perspective-after-disappointing-warriors-loss.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Jayson Tatum finished with a team-high in points, rebounds and assists on Sunday night.",
-        "published": "2026-11-23T05:31:33+00:00",
-        "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in loss to Warriors",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-loss-to-warriors.html"
       }
     ],
-    "generated_at": "2026-11-27T21:31:45.635307+00:00",
+    "generated_at": "2026-11-27T23:42:31.900654+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
