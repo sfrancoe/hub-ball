@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "“If I can have last year’s ceiling be this year’s floor, I think I’m in a good spot.”",
+        "published": "2026-11-27T20:01:05Z",
+        "title": "Celtics notebook: Overlooked big man has been indispensable for Boston",
+        "url": "https://www.bostonherald.com/2026/11/27/celtics-notebook-overlooked-big-man-has-been-indispensable-for-boston/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "“The other day, he came up to us and gave us a confident speech, and I think it was really good for us.”",
         "published": "2026-11-25T15:04:57Z",
         "title": "Jayson Tatum inspired Celtics with speech ahead of much-needed win over Wizards",
@@ -105,16 +112,9 @@
         "published": "2026-11-15T23:01:32Z",
         "title": "Celtics notebook: Maine’s Cooper Flagg ‘better in every area’ in Year 2 with Mavs",
         "url": "https://www.bostonherald.com/2026/11/15/celtics-notebook-maines-cooper-flagg-better-in-every-area-in-year-2-with-mavs/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "“Regardless of what’s going on, you know exactly what you’re getting every night, and that’s a testament to his professionalism.”",
-        "published": "2026-11-14T18:36:25Z",
-        "title": "Celtics notebook: Veteran wing quietly enjoying standout season",
-        "url": "https://www.bostonherald.com/2026/11/14/celtics-notebook-veteran-wing-quietly-enjoying-standout-season/"
       }
     ],
-    "generated_at": "2026-11-25T15:14:49.074575+00:00",
+    "generated_at": "2026-11-27T20:01:13.434153+00:00",
     "source": "The Boston Herald",
     "source_url": "https://www.bostonherald.com/sports/nba/boston-celtics/"
   },
