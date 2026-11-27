@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "Bobby Wilson helped Washington's catchers form an identity. Houston has a bat-first catcher in Yainer Diaz but could rely on a rookie.",
-      "published": "2026-11-20T04:00:00+00:00",
-      "title": "How will Astros’ catching-heavy coaching staff handle an unsettled backstop situation?",
-      "url": "https://www.nytimes.com/athletic/7796302/2026/11/20/astros-catchers-bobby-wilson-brad-ausmus/"
-    },
-    {
-      "category": "Astros",
       "description": "Houston tendered contracts to all of its arbitration-eligible players except Trammell, who made a team-high 36 starts in left field.",
       "published": "2026-11-20T14:29:00+00:00",
       "title": "Astros non-tender Taylor Trammell, accentuating their need for outfield help",
       "url": "https://www.nytimes.com/athletic/7799026/2026/11/20/astros-arbitration-taylor-trammell-non-tendered/"
+    },
+    {
+      "category": "Astros",
+      "description": "Bobby Wilson helped Washington's catchers form an identity. Houston has a bat-first catcher in Yainer Diaz but could rely on a rookie.",
+      "published": "2026-11-20T04:00:00+00:00",
+      "title": "How will Astros’ catching-heavy coaching staff handle an unsettled backstop situation?",
+      "url": "https://www.nytimes.com/athletic/7796302/2026/11/20/astros-catchers-bobby-wilson-brad-ausmus/"
     },
     {
       "category": "Astros",
@@ -23,10 +23,10 @@
     },
     {
       "category": "Astros",
-      "description": "J.P. Martinez was the San Francisco Giants' pitching coach for six years but departed for the Atlanta Braves in 2026. Jeff Chiu / AP Photo HOUSTON — Brad Ausmus’ first Houston coaching staff is taking ...",
-      "published": "2026-11-23T16:26:00+00:00",
-      "title": "Astros to hire J.P. Martinez as pitching coach, Aaron Bates as hitting coach: Sources",
-      "url": "https://www.nytimes.com/athletic/7807471/2026/11/23/astros-pitching-coach-hire-j-p-martinez/"
+      "description": "Josh Miller served as the Astros’ head pitching coach since the departure of Brent Strom following the 2021 season. Kirby Lee / USA Today Sports HOUSTON — In a reversal of previously stated intentions ...",
+      "published": "2026-11-23T10:03:00+00:00",
+      "title": "In surprise move, Astros part ways with pitching coach Josh Miller: Sources",
+      "url": "https://www.nytimes.com/athletic/7806693/2026/11/23/astros-pitching-coach-josh-miller-leaves/"
     },
     {
       "category": "Astros",
@@ -41,9 +41,16 @@
       "published": "2026-11-19T10:33:00+00:00",
       "title": "Astros hire ex-MLB catcher, former Rangers coach Bobby Wilson as bench coach",
       "url": "https://www.nytimes.com/athletic/7795116/2026/11/19/astros-bobby-wilson-bench-coach-hire/"
+    },
+    {
+      "category": "Astros",
+      "description": "Kai-Wei Teng carded a 6.37 ERA in 2025. Norm Hall / Getty Images To increase their roster flexibility and add more right-handed options in their bullpen, the Houston Astros are acquiring swingman ...",
+      "published": "2026-01-28T16:00:00+00:00",
+      "title": "In need of right-handed depth, Astros acquire Kai-Wei Teng from Giants: Sources",
+      "url": "https://www.nytimes.com/athletic/7008704/2026/01/29/astros-giants-trade-kai-wei-teng-sources/"
     }
   ],
-  "generated_at": "2026-11-26T15:42:16.038367+00:00",
+  "generated_at": "2026-11-27T08:10:55.976371+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/astros/"
 }
