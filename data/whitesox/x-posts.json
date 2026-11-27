@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:47:01.733904+00:00",
+  "generated_at": "2026-11-27T21:27:18.566508+00:00",
   "source": "X",
   "source_url": "https://x.com/whitesox",
   "recent": [
@@ -8,7 +8,7 @@
       "text": "\"Thanksgiving dinner is ready\" us: https://t.co/vUB3lAHDu5",
       "url": "https://x.com/whitesox/status/2126050882378731921",
       "published": "2026-11-26T20:30:05+00:00",
-      "likes": 1338,
+      "likes": 1429,
       "author": "Chicago White Sox",
       "handle": "whitesox",
       "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
@@ -22,7 +22,7 @@
       "text": "Wishing you a happy Thanksgiving, Sox fans! We are so thankful for you https://t.co/EHVfH9q0Yw",
       "url": "https://x.com/whitesox/status/2125967984933929233",
       "published": "2026-11-26T15:00:40+00:00",
-      "likes": 1444,
+      "likes": 1490,
       "author": "Chicago White Sox",
       "handle": "whitesox",
       "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
@@ -32,34 +32,5 @@
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2125967984933929233",
-      "text": "Wishing you a happy Thanksgiving, Sox fans! We are so thankful for you https://t.co/EHVfH9q0Yw",
-      "url": "https://x.com/whitesox/status/2125967984933929233",
-      "published": "2026-11-26T15:00:40+00:00",
-      "likes": 1444,
-      "author": "Chicago White Sox",
-      "handle": "whitesox",
-      "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HYD0nT-XYAEb7Hv.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2126050882378731921",
-      "text": "\"Thanksgiving dinner is ready\" us: https://t.co/vUB3lAHDu5",
-      "url": "https://x.com/whitesox/status/2126050882378731921",
-      "published": "2026-11-26T20:30:05+00:00",
-      "likes": 1338,
-      "author": "Chicago White Sox",
-      "handle": "whitesox",
-      "avatar": "https://pbs.twimg.com/profile_images/2111134500121960448/C_EBwZBI_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HYFAAsQXoAAxXcc.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }
