@@ -2,24 +2,10 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "For minimum-salary players on a low-payroll roster, a deep postseason run is effectively a 22% raise, and that changes how young players think about playing in Cleveland.",
-      "published": "2026-11-25T23:54:00+00:00",
-      "title": "For Guardians making the minimum, a postseason run isn’t just glory — it’s a financial windfall",
-      "url": "https://www.cleveland.com/guardians/2026/11/for-guardians-making-the-minimum-a-postseason-run-isnt-just-glory-its-a-financial-windfall.html"
-    },
-    {
-      "category": "Guardians",
       "description": "After Tommy John surgery cost him velocity, Kris Bubic rebuilt his game from scratch — and now Cleveland is betting $17.5 million that the new version is durable enough to hold up.",
       "published": "2026-11-25T23:50:00+00:00",
       "title": "Can Cleveland keep Kris Bubic healthy enough to matter?",
       "url": "https://www.cleveland.com/guardians/2026/11/can-cleveland-keep-kris-bubic-healthy-enough-to-matter.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "The agreement with Griffin and the addition of Bubic serve as Cleveland’s answer to their rivals in the AL Central. The Guardians have won the Central for the last three years and four of the last ...",
-      "published": "2026-11-25T17:31:00+00:00",
-      "title": "Could the Guardians be planning one more addition before the lockout? Paul Hoynes",
-      "url": "https://www.cleveland.com/guardians/2026/11/could-guardians-be-planning-one-more-addition-before-the-lockout-paul-hoynes.html"
     },
     {
       "category": "Guardians",
@@ -30,17 +16,31 @@
     },
     {
       "category": "Guardians",
+      "description": "For minimum-salary players on a low-payroll roster, a deep postseason run is effectively a 22% raise, and that changes how young players think about playing in Cleveland.",
+      "published": "2026-11-25T23:54:00+00:00",
+      "title": "For Guardians making the minimum, a postseason run isn’t just glory — it’s a financial windfall",
+      "url": "https://www.cleveland.com/guardians/2026/11/for-guardians-making-the-minimum-a-postseason-run-isnt-just-glory-its-a-financial-windfall.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The agreement with Griffin and the addition of Bubic serve as Cleveland’s answer to their rivals in the AL Central. The Guardians have won the Central for the last three years and four of the last ...",
+      "published": "2026-11-25T17:31:00+00:00",
+      "title": "Could the Guardians be planning one more addition before the lockout? Paul Hoynes",
+      "url": "https://www.cleveland.com/guardians/2026/11/could-guardians-be-planning-one-more-addition-before-the-lockout-paul-hoynes.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians have reached agreement with a former Royals All-Star left-hander on a reported one-year, $17.5 million contract.",
+      "published": "2026-11-24T02:58:00+00:00",
+      "title": "Guardians land former All-Star left-hander on $17.5 million deal: Report",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-land-former-all-star-left-hander-on-reported-175-million-deal.html"
+    },
+    {
+      "category": "Guardians",
       "description": "Paul Hoynes and Joe Noga break down Kris Bubic’s $17.5 million Guardians contract, his injury history, pitching arsenal and potential impact in 2027.",
       "published": "2026-11-25T06:02:00+00:00",
       "title": "Guardians spend big on pitching, young players cash in on October and the lockout looms – Cleveland Baseball Talk Podcast",
       "url": "https://www.cleveland.com/guardians/2026/11/guardians-spend-big-on-pitching-young-players-cash-in-on-october-and-the-lockout-looms-cleveland-baseball-talk-podcast.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "CLEVELAND, Ohio — Left-hander Kris Bubic has officially joined the Guardians. The team confirmed the signing of Bubic on Wednesday to a one-year, $17.5 million deal. Bubic pitched for Kansas City and ...",
-      "published": "2026-11-25T06:42:00+00:00",
-      "title": "It’s official: Lefty Kris Bubic is a Guardian",
-      "url": "https://www.cleveland.com/guardians/2026/11/its-official-lefty-kris-bubic-is-a-guardian.html"
     },
     {
       "category": "Guardians",
@@ -51,24 +51,17 @@
     },
     {
       "category": "Guardians",
-      "description": "As the Twins, Tigers and White Sox reshape their pitching staffs, the Guardians remain quiet. Is Cleveland's offseason patience becoming a problem?",
-      "published": "2026-11-23T04:43:00+00:00",
-      "title": "Guardians have a pitching problem to solve, and their AL Central rivals aren’t waiting",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-have-a-pitching-problem-to-solve-and-their-al-central-rivals-arent-waiting.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Cleveland adds pitching depth by signing a former White Sox top prospect who posted a 2.52 ERA in 45 minor league relief appearances in 2026.",
-      "published": "2026-11-23T06:20:00+00:00",
-      "title": "Guardians add former White Sox prospect to on minor league deal with spring training invite",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-add-former-white-sox-prospect-to-on-minor-league-deal-with-spring-training-invite.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Tarik Skubal’s record $450 million contract with the Mets highlights a harsh reality for the Cleveland Guardians: Developing elite pitchers is one thing. Keeping them is another.",
       "published": "2026-11-23T21:03:00+00:00",
       "title": "Tarik Skubal’s $450 million Mets deal exposes an uncomfortable reality for Guardians",
       "url": "https://www.cleveland.com/guardians/2026/11/tarik-skubals-450-million-mets-deal-exposes-an-uncomfortable-reality-for-guardians.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "As the Twins, Tigers and White Sox reshape their pitching staffs, the Guardians remain quiet. Is Cleveland's offseason patience becoming a problem?",
+      "published": "2026-11-23T04:43:00+00:00",
+      "title": "Guardians have a pitching problem to solve, and their AL Central rivals aren’t waiting",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-have-a-pitching-problem-to-solve-and-their-al-central-rivals-arent-waiting.html"
     },
     {
       "category": "Guardians",
@@ -79,13 +72,20 @@
     },
     {
       "category": "Guardians",
-      "description": "The Guardians have reached agreement with a former Royals All-Star left-hander on a reported one-year, $17.5 million contract.",
-      "published": "2026-11-24T02:58:00+00:00",
-      "title": "Guardians land former All-Star left-hander on $17.5 million deal: Report",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-land-former-all-star-left-hander-on-reported-175-million-deal.html"
+      "description": "Hey, Steve: It certainly is a talented rookie class with Parker Messick, Chase DeLauter, Travis Bazzana, Petey Halpin, Angel Genao, Daniel Espino and Franco Aleman all having a moment or two this year ...",
+      "published": "2026-11-21T02:04:00+00:00",
+      "title": "Just how good is the Guardians’ current class of rookies? Hey, Hoynsie!",
+      "url": "https://www.cleveland.com/guardians/2026/11/just-how-good-is-guardians-current-class-of-rookies-hey-hoynsie.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "Cleveland adds pitching depth by signing a former White Sox top prospect who posted a 2.52 ERA in 45 minor league relief appearances in 2026.",
+      "published": "2026-11-23T06:20:00+00:00",
+      "title": "Guardians add former White Sox prospect to on minor league deal with spring training invite",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-add-former-white-sox-prospect-to-on-minor-league-deal-with-spring-training-invite.html"
     }
   ],
-  "generated_at": "2026-11-26T15:42:13.668775+00:00",
+  "generated_at": "2026-11-27T00:02:07.327561+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }
