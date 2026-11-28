@@ -2,31 +2,17 @@
   "articles": [
     {
       "category": "Padres",
+      "description": "The three-game “Serie Fiesta Mexicana” will be held April 24-26, when the Padres are scheduled to be finishing a road trip in Minnesota.",
+      "published": "2026-11-27T11:47:00+00:00",
+      "title": "Diablos Rojos, Toros to play at Petco Park in April 2027",
+      "url": "https://www.sandiegouniontribune.com/2026/11/27/diablos-rojos-toros-to-play-at-petco-park-in-april-2027/"
+    },
+    {
+      "category": "Padres",
       "description": "Padres CEO Erik Greupner says team expecting payroll \"to continue to be at or above the levels that we've been at.\" ...",
       "published": "2026-11-23T14:54:00+00:00",
       "title": "New Padres owners ‘all in’ for San Diego community, expect to demonstrate that on field, too",
       "url": "https://www.sandiegouniontribune.com/2026/11/23/new-padres-owners-all-in-for-san-diego-community-expecting-to-demonstrate-that-on-field-too/"
-    },
-    {
-      "category": "Padres",
-      "description": "The Padres added a left-handed reliever to their bullpen on Wednesday, agreeing to a three-year contract with left-handed reliever JoJo Romero. The $21 million deal, which is a hedge against the ...",
-      "published": "2026-11-25T17:31:00+00:00",
-      "title": "Padres make first significant acquisition of offseason, sign lefty reliever",
-      "url": "https://www.sandiegouniontribune.com/2026/11/25/padres-first-significant-acquisition-of-offseason-is-lefty-reliever-jojo-romero/"
-    },
-    {
-      "category": "Padres",
-      "description": "The Padres have thrived without investing in the rotation in the past, but starting pitching is a key to playoff success.",
-      "published": "2026-11-13T18:30:00+00:00",
-      "title": "Padres have no choice but to spend on their starting rotation",
-      "url": "https://www.sandiegouniontribune.com/2026/11/13/padres-have-no-choice-but-to-spend-on-their-starting-rotation/"
-    },
-    {
-      "category": "Padres",
-      "description": "But Morejón, like Padres starter and fellow Scott Boras client Dylan Cease did late in his San Diego tenure, continued to take the ball deep into a high-workload season. Because the team needed him.",
-      "published": "2026-11-14T14:47:00+00:00",
-      "title": "Tom Krasovic: Adrian Morejón deserves kudos for 2026 performance, whether he stays in San Diego or leaves",
-      "url": "https://www.sandiegouniontribune.com/2026/11/14/tom-krasovic-adrian-morejon-deserves-kudos-for-2026-performance-whether-he-stays-in-san-diego-or-leaves/"
     },
     {
       "category": "Padres",
@@ -37,20 +23,41 @@
     },
     {
       "category": "Padres",
-      "description": "The 27-year-old left-hander rejected the Padres’ $23.15 million qualifying offer for the 2027 season on Tuesday, according to MLB.com. The decision officially sends Morejón onto the open market in ...",
-      "published": "2026-11-17T09:30:00+00:00",
-      "title": "Report: Adrian Morejón rejects Padres’ qualifying offer",
-      "url": "https://www.sandiegouniontribune.com/2026/11/17/report-adrian-morejon-rejecting-padres-qualifying-offer/"
-    },
-    {
-      "category": "Padres",
       "description": "Extension saves Padres money in 2027; Gavin Sheets will have player options for 2028 and 2029, as well as performance bonuses ...",
       "published": "2026-11-20T16:19:00+00:00",
       "title": "Padres, Gavin Sheets agree to three-year, $11 million extension",
       "url": "https://www.sandiegouniontribune.com/2026/11/20/padres-gavin-sheets-agree-to-three-year-11-million-extension/"
+    },
+    {
+      "category": "Padres",
+      "description": "The Padres added a left-handed reliever to their bullpen on Wednesday, agreeing to a three-year contract with left-handed reliever JoJo Romero. The $21 million deal, which is a hedge against the ...",
+      "published": "2026-11-25T17:31:00+00:00",
+      "title": "Padres make first significant acquisition of offseason, sign lefty reliever",
+      "url": "https://www.sandiegouniontribune.com/2026/11/25/padres-first-significant-acquisition-of-offseason-is-lefty-reliever-jojo-romero/"
+    },
+    {
+      "category": "Padres",
+      "description": "Among the things MLB has guaranteed players if they accept a cap is a 50-50 revenue split, a notion the union scoffs at on the grounds that players presently receive more than half of league revenues ...",
+      "published": "2026-11-27T16:28:00+00:00",
+      "title": "Everything you need to know about the MLB labor impasse, what’s a stake and how it affects the Padres",
+      "url": "https://www.sandiegouniontribune.com/2026/11/27/everything-you-need-to-know-about-the-mlb-labor-impasse-whats-a-stake-and-how-it-affects-the-padres/"
+    },
+    {
+      "category": "Padres",
+      "description": "But Morejón, like Padres starter and fellow Scott Boras client Dylan Cease did late in his San Diego tenure, continued to take the ball deep into a high-workload season. Because the team needed him.",
+      "published": "2026-11-14T14:47:00+00:00",
+      "title": "Tom Krasovic: Adrian Morejón deserves kudos for 2026 performance, whether he stays in San Diego or leaves",
+      "url": "https://www.sandiegouniontribune.com/2026/11/14/tom-krasovic-adrian-morejon-deserves-kudos-for-2026-performance-whether-he-stays-in-san-diego-or-leaves/"
+    },
+    {
+      "category": "Padres",
+      "description": "The 27-year-old left-hander rejected the Padres’ $23.15 million qualifying offer for the 2027 season on Tuesday, according to MLB.com. The decision officially sends Morejón onto the open market in ...",
+      "published": "2026-11-17T09:30:00+00:00",
+      "title": "Report: Adrian Morejón rejects Padres’ qualifying offer",
+      "url": "https://www.sandiegouniontribune.com/2026/11/17/report-adrian-morejon-rejecting-padres-qualifying-offer/"
     }
   ],
-  "generated_at": "2026-11-27T18:13:43.866830+00:00",
+  "generated_at": "2026-11-28T01:29:03.483264+00:00",
   "source": "Union-Tribune",
   "source_url": "https://www.sandiegouniontribune.com/sports/padres/"
 }
