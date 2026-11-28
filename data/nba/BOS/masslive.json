@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics lost their fifth game in the last six tries, this time blowing a 17-point lead to the Hawks in NBA Cup action.",
+        "published": "2026-11-28T04:40:59+00:00",
+        "title": "The Celtics have a troubling 2nd half problem: What we learned from loss to Hawks",
+        "url": "https://www.masslive.com/celtics/2026/11/the-celtics-have-a-troubling-2nd-half-problem-what-we-learned-from-loss-to-hawks.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Neemias Queta went for a career-high 22 rebounds in Friday's loss to the Hawks.",
         "published": "2026-11-28T03:27:25+00:00",
         "title": "Neemias Queta is Celtics ‘Name to Know’ Player of the Game in loss to Hawks",
@@ -105,16 +112,9 @@
         "published": "2026-11-24T17:47:19+00:00",
         "title": "Celtics NBA Cup scenarios: How Boston can advance vs. Wizards",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-nba-cup-scenarios-how-boston-can-advance-to-next-round.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "Mitchell Robinson will miss at least three games as the Celtics look to snap a four-game losing streak.",
-        "published": "2026-11-24T17:20:12+00:00",
-        "title": "Mitchell Robinson to miss 3rd straight game due to illness",
-        "url": "https://www.masslive.com/celtics/2026/11/mitchell-robinson-to-miss-3rd-straight-game-due-to-illness.html"
       }
     ],
-    "generated_at": "2026-11-28T03:44:02.713278+00:00",
+    "generated_at": "2026-11-28T04:44:26.167470+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
