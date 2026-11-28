@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-11-27T21:27:18.573697+00:00",
+  "generated_at": "2026-11-28T08:03:22.930623+00:00",
   "source": "X",
   "source_url": "https://x.com/Rockies",
   "recent": [
+    {
+      "id": "2126466228570951800",
+      "text": "It’s official, a Colorado kid coming home! 🏔️ The Colorado Rockies have signed LHP David Peterson to a two-year contract. https://t.co/OwEUhXmDYp",
+      "url": "https://x.com/Rockies/status/2126466228570951800",
+      "published": "2026-11-28T00:00:31+00:00",
+      "likes": 921,
+      "author": "Colorado Rockies",
+      "handle": "Rockies",
+      "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYK370MWsAAyQZa.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2125968533050060835",
       "text": "Happy Thanksgiving, Rockies family 💜🦃 https://t.co/sIeqEg9eWh",
       "url": "https://x.com/Rockies/status/2125968533050060835",
       "published": "2026-11-26T15:02:51+00:00",
-      "likes": 438,
+      "likes": 453,
       "author": "Colorado Rockies",
       "handle": "Rockies",
       "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
@@ -18,5 +32,20 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2126466228570951800",
+      "text": "It’s official, a Colorado kid coming home! 🏔️ The Colorado Rockies have signed LHP David Peterson to a two-year contract. https://t.co/OwEUhXmDYp",
+      "url": "https://x.com/Rockies/status/2126466228570951800",
+      "published": "2026-11-28T00:00:31+00:00",
+      "likes": 921,
+      "author": "Colorado Rockies",
+      "handle": "Rockies",
+      "avatar": "https://pbs.twimg.com/profile_images/1916167715200634881/QPsdtkda_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYK370MWsAAyQZa.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
