@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "CHRISTOPHER L. GASPER",
+        "description": "The way the Celtics play maximizes the regular-season product, but this is an organization that measures success in championship banners.",
+        "published": "2026-11-28T10:00:00Z",
+        "title": "Deep thinking on Mazzulla Ball leads to realization: The Celtics’ 3-pointer-laden offense is amiss",
+        "url": "https://www.bostonglobe.com/2026/11/28/sports/celtics-offense-joe-mazzulla-3-pointers/"
+      },
+      {
         "category": "HAWKS 87, CELTICS 86",
         "description": "With a chance to seal Group C, Boston committed more turnovers after halftime (14) than made field goals (13) to fumble a double-digit lead.",
         "published": "2026-11-28T03:43:46.168Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-21T13:52:03.21Z",
         "title": "Celtics at Kings preview, Nov. 21: Lowly Sacramento can serve as palate cleanser",
         "url": "https://www.bostonglobe.com/2026/11/21/sports/celtics-kings-preview-november-21/"
-      },
-      {
-        "category": "Sunday basketball notes",
-        "description": "Anti-tanking rules were supposed to make this a competitive season across the board. Did anyone tell the Nets or Kings?",
-        "published": "2026-11-21T13:00:17.381Z",
-        "title": "Four particularly disappointing teams after the first month of the NBA season",
-        "url": "https://www.bostonglobe.com/2026/11/21/sports/nba-disappointing-teams-2026/"
       }
     ],
-    "generated_at": "2026-11-28T05:44:45.749200+00:00",
+    "generated_at": "2026-11-28T10:06:08.068876+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
