@@ -1,55 +1,26 @@
 {
-  "generated_at": "2026-11-27T07:35:02.490143+00:00",
+  "generated_at": "2026-11-28T07:50:02.728436+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/Dodgers",
   "team_id": "19",
   "sport": "mlb",
-  "likes_as_of": "2026-11-27T07:35:02.490143+00:00",
+  "likes_as_of": "2026-11-28T07:50:02.728436+00:00",
   "recent": [
     {
       "id": "2126013601140109724",
       "text": "Happy Thanksgiving! https://t.co/19KpLciP25",
       "url": "https://x.com/Dodgers/status/2126013601140109724",
       "published": "2026-11-26T18:01:56+00:00",
-      "likes": 2563,
+      "likes": 2740,
       "author": "Los Angeles Dodgers",
       "handle": "Dodgers",
       "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
       "media": "https://pbs.twimg.com/media/HYEdsLlaMAAvK_s.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    },
-    {
-      "id": "2125734096295072023",
-      "text": "Los Angeles Dodger right-handed pitcher Ben Casparius had right elbow UCL reconstruction surgery today performed by Dr. Neal ElAttrache. Casparius will miss the 2027 season.",
-      "url": "https://x.com/Dodgers/status/2125734096295072023",
-      "published": "2026-11-25T23:31:17+00:00",
-      "likes": 2394,
-      "author": "Los Angeles Dodgers",
-      "handle": "Dodgers",
-      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
-      "media": "",
       "quoted_text": "",
       "quoted_author": "",
       "quoted_handle": ""
     }
   ],
-  "popular": [
-    {
-      "id": "2126013601140109724",
-      "text": "Happy Thanksgiving! https://t.co/19KpLciP25",
-      "url": "https://x.com/Dodgers/status/2126013601140109724",
-      "published": "2026-11-26T18:01:56+00:00",
-      "likes": 2563,
-      "author": "Los Angeles Dodgers",
-      "handle": "Dodgers",
-      "avatar": "https://pbs.twimg.com/profile_images/2114813215645532161/Rjun4izs_normal.jpg",
-      "media": "https://pbs.twimg.com/media/HYEdsLlaMAAvK_s.jpg",
-      "quoted_text": "",
-      "quoted_author": "",
-      "quoted_handle": ""
-    }
-  ]
+  "popular": []
 }

@@ -1,12 +1,68 @@
 {
-  "generated_at": "2026-11-27T13:45:02.517170+00:00",
+  "generated_at": "2026-11-28T05:05:05.642263+00:00",
   "source": "X",
   "source_kind": "syndication-lab",
   "source_url": "https://x.com/i/lists/2119451317521326169",
   "team_id": "27",
   "sport": "nba",
-  "likes_as_of": "2026-11-27T13:45:02.517170+00:00",
+  "likes_as_of": "2026-11-28T05:05:05.642263+00:00",
   "recent": [
+    {
+      "id": "2126455297829154952",
+      "text": "RT @GregFinberg: NEWS: Washington Wizards two-way forward Felix Okpara was ejected from today's Capital City Go-Go game after punching West…",
+      "url": "https://x.com/BulletsForever/status/2126455297829154952",
+      "published": "2026-11-27T23:17:05+00:00",
+      "likes": 0,
+      "author": "Bullets Forever",
+      "handle": "BulletsForever",
+      "avatar": "https://pbs.twimg.com/profile_images/1425664887603204096/oBZvR-NX_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2126445195919024258",
+      "text": "Injury report ahead of our matchup against the Magic. Justin Champagnie - Out (right foot surgery) Tristan Vukčević - Out (left hip impingement) Jamir Watkins - Out (left ACL repair/surgery) #ForTheDistrict | @ChasenBoscolo https://t.co/SUCwWfPDAP",
+      "url": "https://x.com/WashWizards/status/2126445195919024258",
+      "published": "2026-11-27T22:36:56+00:00",
+      "likes": 25,
+      "author": "Washington Wizards",
+      "handle": "WashWizards",
+      "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYKmorZWYAAaosn.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2126438921202749727",
+      "text": "Felix Okpara ejected from G League game after punching Rob Dillingham https://t.co/P0AsMWmfP2",
+      "url": "https://x.com/BulletsForever/status/2126438921202749727",
+      "published": "2026-11-27T22:12:00+00:00",
+      "likes": 4,
+      "author": "Bullets Forever",
+      "handle": "BulletsForever",
+      "avatar": "https://pbs.twimg.com/profile_images/1425664887603204096/oBZvR-NX_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2126388590896873597",
+      "text": "Wizards Practice Notes: Kyshawn George, Brian Keefe discuss growth amid 7-12 start https://t.co/fCe1XgXuAg",
+      "url": "https://x.com/BulletsForever/status/2126388590896873597",
+      "published": "2026-11-27T18:52:01+00:00",
+      "likes": 1,
+      "author": "Bullets Forever",
+      "handle": "BulletsForever",
+      "avatar": "https://pbs.twimg.com/profile_images/1425664887603204096/oBZvR-NX_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
     {
       "id": "2125644404866044001",
       "text": "RT @davidaldridgedc: The Wizards hoped that this season, they’d start to compete at a higher level against the NBA’s top teams. Tuesday’s a…",
@@ -260,5 +316,62 @@
       "quoted_handle": ""
     }
   ],
-  "popular": []
+  "popular": [
+    {
+      "id": "2126445195919024258",
+      "text": "Injury report ahead of our matchup against the Magic. Justin Champagnie - Out (right foot surgery) Tristan Vukčević - Out (left hip impingement) Jamir Watkins - Out (left ACL repair/surgery) #ForTheDistrict | @ChasenBoscolo https://t.co/SUCwWfPDAP",
+      "url": "https://x.com/WashWizards/status/2126445195919024258",
+      "published": "2026-11-27T22:36:56+00:00",
+      "likes": 25,
+      "author": "Washington Wizards",
+      "handle": "WashWizards",
+      "avatar": "https://pbs.twimg.com/profile_images/2092948368678854656/s03Fy0yr_normal.jpg",
+      "media": "https://pbs.twimg.com/media/HYKmorZWYAAaosn.jpg",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2126438921202749727",
+      "text": "Felix Okpara ejected from G League game after punching Rob Dillingham https://t.co/P0AsMWmfP2",
+      "url": "https://x.com/BulletsForever/status/2126438921202749727",
+      "published": "2026-11-27T22:12:00+00:00",
+      "likes": 4,
+      "author": "Bullets Forever",
+      "handle": "BulletsForever",
+      "avatar": "https://pbs.twimg.com/profile_images/1425664887603204096/oBZvR-NX_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2126388590896873597",
+      "text": "Wizards Practice Notes: Kyshawn George, Brian Keefe discuss growth amid 7-12 start https://t.co/fCe1XgXuAg",
+      "url": "https://x.com/BulletsForever/status/2126388590896873597",
+      "published": "2026-11-27T18:52:01+00:00",
+      "likes": 1,
+      "author": "Bullets Forever",
+      "handle": "BulletsForever",
+      "avatar": "https://pbs.twimg.com/profile_images/1425664887603204096/oBZvR-NX_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    },
+    {
+      "id": "2126455297829154952",
+      "text": "RT @GregFinberg: NEWS: Washington Wizards two-way forward Felix Okpara was ejected from today's Capital City Go-Go game after punching West…",
+      "url": "https://x.com/BulletsForever/status/2126455297829154952",
+      "published": "2026-11-27T23:17:05+00:00",
+      "likes": 0,
+      "author": "Bullets Forever",
+      "handle": "BulletsForever",
+      "avatar": "https://pbs.twimg.com/profile_images/1425664887603204096/oBZvR-NX_normal.jpg",
+      "media": "",
+      "quoted_text": "",
+      "quoted_author": "",
+      "quoted_handle": ""
+    }
+  ]
 }
