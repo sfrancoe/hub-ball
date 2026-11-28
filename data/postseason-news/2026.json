@@ -1,13 +1,73 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-28T05:01:24.285209+00:00",
+  "generatedAt": "2026-11-28T14:19:16.700730+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
-  "coveredTeamCount": 4,
+  "coveredTeamCount": 5,
   "articles": [
+    {
+      "title": "Cubs signing Ryan Yarbrough after 2 years with Yankees: source",
+      "description": "A career swingman, Yarbrough pitched for the Yankees the last two years.",
+      "url": "https://www.nydailynews.com/2026/11/28/cubs-signing-ryan-yarbrough-yankees-mlb-free-agency/",
+      "published": "2026-11-28T12:00:28+00:00",
+      "source": "New York Daily News",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "teamAbbreviation": "NYY",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Letters to Sports: Dodgers were wise to let Tarik Skubal go",
+      "description": "Readers of the Los Angeles Times Sports section give their thoughts on the Dodgers and Tarik Skubal, UCLA football, Puka Nacua, the Rams and more.",
+      "url": "https://www.latimes.com/sports/story/2026-11-28/la-times-sports-letters-dodgers-tarik-skubal-ucla-football",
+      "published": "2026-11-28T12:00:00+00:00",
+      "source": "LA Times",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "teamAbbreviation": "LAD",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Red Sox point-counterpoint: How bad is the impending lockout going to be?",
+      "description": "With MLB already filing a lawsuit against the MLB Players Association, how bad is this upcoming labor fight going to get? The Herald’s Red Sox writers discuss.",
+      "url": "https://www.bostonherald.com/2026/11/28/red-sox-point-counterpoint-how-bad-is-the-impending-lockout-going-to-be/",
+      "published": "2026-11-28T10:30:57+00:00",
+      "source": "The Boston Herald",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "publisher"
+    },
+    {
+      "title": "Triston Casas homers in first winter ball game after 19-month injury absence",
+      "description": "Appearing in a real game for the first time in nearly 19 months, Red Sox first baseman Triston Casas immediately made his presence felt Friday night in his winter ball debut in the Dominican Republic.",
+      "url": "https://www.masslive.com/redsox/2026/11/triston-casas-hits-grand-slam-in-first-game-in-19-months-starting-red-sox-comeback-bid-in-dr.html",
+      "published": "",
+      "source": "MassLive",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "teamAbbreviation": "BOS",
+      "league": "AL",
+      "publishedSource": "unverified"
+    },
+    {
+      "title": "The Phillies spent over a billion dollars on free agents in five years. A salary cap would alter how they do business.",
+      "description": "The Phillies have $184.85 million committed to just seven players in 2028, when the proposed salary cap would be applied. So the pressure would shift to Dave Dombrowski to build a contender with less.",
+      "url": "https://www.inquirer.com/phillies/phillies-payroll-mlb-cba-negotiations-2027-salary-cap-20261128.html",
+      "published": "2026-11-28T10:01:01+00:00",
+      "source": "Inquirer",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "teamAbbreviation": "PHI",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Chicago Cubs reach a deal with Japanese right-hander Hiromi Itoh: source",
       "description": "Following Seiya Suzuki’s and Shota Imanaga’s departures to free agency, the Chicago Cubs are maintaining their presence in Japan by agreeing to deals with Hiromi Itoh and Teruaki Sato.",
@@ -17,42 +77,6 @@
       "teamId": 112,
       "teamName": "Chicago Cubs",
       "teamAbbreviation": "CHC",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Polarizing ex-Yankees infielder heads to rival in offseason twist",
-      "description": "",
-      "url": "https://nypost.com/2026/11/27/sports/jazz-chisholm-heading-to-blue-jays-in-yankees-offseason-twist/",
-      "published": "2026-11-27T21:29:57+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Diablos Rojos, Toros to play at Petco Park in April 2027",
-      "description": "The three-game “Serie Fiesta Mexicana” will be held April 24-26, when the Padres are scheduled to be finishing a road trip in Minnesota.",
-      "url": "https://www.sandiegouniontribune.com/2026/11/27/diablos-rojos-toros-to-play-at-petco-park-in-april-2027/",
-      "published": "2026-11-27T19:47:13+00:00",
-      "source": "Union-Tribune",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "teamAbbreviation": "SD",
-      "league": "NL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Three roster areas the Atlanta Braves could address before lockout",
-      "description": "Atlanta Braves could make a few roster moves before the looming MLB lockout, including at pitcher and shortstop.",
-      "url": "https://www.ajc.com/sports/2026/11/braves-roster-needs-before-lockout/",
-      "published": "2026-11-27T17:15:54.089000+00:00",
-      "source": "AJC",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "teamAbbreviation": "ATL",
       "league": "NL",
       "publishedSource": "publisher"
     }
