@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Dodgers",
+      "description": "Readers of the Los Angeles Times Sports section give their thoughts on the Dodgers and Tarik Skubal, UCLA football, Puka Nacua, the Rams and more.",
+      "published": "2026-11-28T04:00:00+00:00",
+      "title": "Letters to Sports: Dodgers were wise to let Tarik Skubal go",
+      "url": "https://www.latimes.com/sports/story/2026-11-28/la-times-sports-letters-dodgers-tarik-skubal-ucla-football"
+    },
+    {
+      "category": "Dodgers",
       "description": "The New York Mets felt it wise to give 30-year-old Tarik Skubal a monumentally massive nine-year, $450-million deal and the Dodgers did not. Good.",
       "published": "2026-11-23T03:00:00+00:00",
       "title": "The Mets paid $450 million for Tarik Skubal. The Dodgers should be glad they didn’t",
@@ -9,17 +16,17 @@
     },
     {
       "category": "Dodgers",
-      "description": "Free-agent Tarik Skubal plans to sign with the Mets, agreeing to a nine-year, $450-million contract. It is the largest for a pitcher in MLB history.",
-      "published": "2026-11-22T14:43:00+00:00",
-      "title": "Tarik Skubal moves on from the Dodgers, agrees to record $450-million deal with Mets",
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-22/tarik-skubal-moves-on-dodgers-agrees-deal"
-    },
-    {
-      "category": "Dodgers",
       "description": "It doesn't make sense that the Dodgers would lose out on signing free-agent pitcher Tarik Skubal unless Mark Walter's money troubles played a role.",
       "published": "2026-11-22T17:57:00+00:00",
       "title": "Did Mark Walter’s money troubles cause Dodgers to strike out on Tarik Skubal?",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-11-22/mark-walter-troubles-cause-dodgers-losing-tarik-skubal"
+    },
+    {
+      "category": "Dodgers",
+      "description": "Free-agent Tarik Skubal plans to sign with the Mets, agreeing to a nine-year, $450-million contract. It is the largest for a pitcher in MLB history.",
+      "published": "2026-11-22T14:43:00+00:00",
+      "title": "Tarik Skubal moves on from the Dodgers, agrees to record $450-million deal with Mets",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-11-22/tarik-skubal-moves-on-dodgers-agrees-deal"
     },
     {
       "category": "Dodgers",
@@ -34,16 +41,9 @@
       "published": "2026-11-19T18:41:00+00:00",
       "title": "How Newsom got caught up in crossfire over proposed Dodger Stadium gondola",
       "url": "https://www.latimes.com/sports/dodgers/story/2026-11-19/gavin-newsom-caught-in-dodger-stadium-gondola-crossfire"
-    },
-    {
-      "category": "Dodgers",
-      "description": "José E. Feliciano and his wife, Kwanza Jones, are near a deal to buy the Sparks for a WNBA record $750 million from Dodgers owner Mark Walter, according to Sportico.",
-      "published": "2026-11-19T13:26:00+00:00",
-      "title": "Sparks reportedly near sale to new Padres owners for record valuation",
-      "url": "https://www.latimes.com/sports/sparks/story/2026-11-19/sparks-reportedly-near-sale-padres-owners-record-valuation"
     }
   ],
-  "generated_at": "2026-11-28T01:29:01.809356+00:00",
+  "generated_at": "2026-11-28T17:35:06.300909+00:00",
   "source": "LA Times",
   "source_url": "https://www.latimes.com/sports/dodgers"
 }

@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Twins",
+      "description": "Ryan Fitzgerald, a utility infielder, spent the entire 2026 season in Class AAA with the Los Angeles Dodgers. He hit .315 with 16 homers and 102 RBI in the minors.",
+      "published": "2026-11-27T17:27:00+00:00",
+      "title": "Backup infielder Ryan Fitzgerald returning to Twins on a one-year contract",
+      "url": "https://www.startribune.com/minnesota-twins-roster-moves-mlb-free-agency-offseason-lockout-los-angeles-dodgers-ryan-fitzgerald/601931044"
+    },
+    {
+      "category": "Twins",
       "description": "Kevin Ginkel, who had a 4.12 ERA in 74 games for the Diamondbacks last season, is joining the Twins on a two-year, $18 million contract.",
       "published": "2026-11-25T19:53:00+00:00",
       "title": "Twins bolster bullpen, signing Kevin Ginkel to a two-year contract",
@@ -30,13 +37,6 @@
     },
     {
       "category": "Twins",
-      "description": "Ryan Fitzgerald, a utility infielder, spent the entire 2026 season in Class AAA with the Los Angeles Dodgers. He hit .315 with 16 homers and 102 RBI in the minors.",
-      "published": "2026-11-27T16:00:00+00:00",
-      "title": "Backup infielder Ryan Fitzgerald returning to Twins on a one-year contract",
-      "url": "https://www.startribune.com/minnesota-twins-roster-moves-mlb-free-agency-offseason-lockout-los-angeles-dodgers-ryan-fitzgerald/601931044"
-    },
-    {
-      "category": "Twins",
       "description": "The 37-year-old pitcher said he wouldn’t have returned to Minnesota if he didn’t believe the Twins could win. The team plans to keep adding to its roster before a potential MLB lockout.",
       "published": "2026-11-19T19:30:00+00:00",
       "title": "Sonny Gray had options in free agency but chose Twins because he sees a winner",
@@ -58,13 +58,6 @@
     },
     {
       "category": "Twins",
-      "description": "A familiar face on Twins broadcasts since 2015, Martin said she had hoped to continue covering the team, but the decision to move on was not hers.",
-      "published": "2026-11-19T04:40:00+00:00",
-      "title": "Twins TV parts ways with longtime sideline reporter Audra Martin after 11 seasons",
-      "url": "https://www.startribune.com/minnesota-twins-tv-broadcasts-2027-mlb-season-sideline-reporter-audra-martin-contract-mn-wild-team/601924535"
-    },
-    {
-      "category": "Twins",
       "description": "Jeffers’ surprising return on a $23.15 million deal gives the Twins a chance to contend in 2027, but ownership must invest in the roster around him rather than squander another opportunity to win.",
       "published": "2026-11-18T05:31:00+00:00",
       "title": "Neal: Ryan Jeffers gave the Twins a gift — and now the Pohlads need to capitalize",
@@ -72,20 +65,20 @@
     },
     {
       "category": "Twins",
-      "description": "Lewis, the No. 1 overall pick in the 2017 MLB draft, hit .227 last season. The Twins got pitcher Bobby Miller and a minor-league catcher from Los Angeles in return.",
-      "published": "2026-11-20T16:55:00+00:00",
-      "title": "Twins trade Royce Lewis to Dodgers in what is expected to remain active offseason",
-      "url": "https://www.startribune.com/royce-lewis-trade-minnesota-twins-los-angeles-dodgers-mlb-draft-offseason-roster-moves-free-agency/601925625"
-    },
-    {
-      "category": "Twins",
       "description": "The 29-year-old catcher passed on pursuing a long-term deal in free agency and will become the Twins’ highest-paid player next season.",
       "published": "2026-11-17T16:25:00+00:00",
       "title": "Ryan Jeffers accepts $23.15 million qualifying offer, will return to Twins in 2027",
       "url": "https://www.startribune.com/minnesota-twins-roster-salary-2027-ryan-jeffers-contract-qualifying-offer-mlb-free-agency-news/601921231"
+    },
+    {
+      "category": "Twins",
+      "description": "Lewis, the No. 1 overall pick in the 2017 MLB draft, hit .227 last season. The Twins got pitcher Bobby Miller and a minor-league catcher from Los Angeles in return.",
+      "published": "2026-11-20T16:55:00+00:00",
+      "title": "Twins trade Royce Lewis to Dodgers in what is expected to remain active offseason",
+      "url": "https://www.startribune.com/royce-lewis-trade-minnesota-twins-los-angeles-dodgers-mlb-draft-offseason-roster-moves-free-agency/601925625"
     }
   ],
-  "generated_at": "2026-11-28T09:13:46.012534+00:00",
+  "generated_at": "2026-11-28T17:34:59.896159+00:00",
   "source": "Star Tribune",
   "source_url": "https://www.startribune.com/sports/twins/"
 }

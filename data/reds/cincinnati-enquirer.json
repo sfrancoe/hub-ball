@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Reds",
-      "description": "\"It feels like it hasn't even hit me yet,\" said catcher Tyler Stephenson after agreeing to return to the Cincinnati Reds for 3-years, $30 million.",
-      "published": "2026-11-25T06:55:00+00:00",
-      "title": "Why Tyler Stephenson says it's 'good to stay home' with Reds",
-      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/25/how-unique-journey-brought-tyler-stephenson-back-to-cincinnati-reds/92953607007/"
-    },
-    {
-      "category": "Reds",
       "description": "“MLB can not sit by idly while the union’s stonewalling and shame tactics jeopardize a full 2027 season. MLB’s lawsuit seeks to efficiently confirm that MLB’s bargaining conduct does not violate ...",
       "published": "2026-11-25T11:26:00+00:00",
       "title": "MLB sues players to prevent 'nuclear option' as labor war gets even uglier",
@@ -20,6 +13,13 @@
       "published": "2026-11-24T20:27:00+00:00",
       "title": "Cincinnati Reds, Tyler Stephenson reunited on 3-year free agent deal",
       "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/24/tyler-stephenson-signs-to-return-to-reds-on-30-million-deal/92951595007/"
+    },
+    {
+      "category": "Reds",
+      "description": "\"It feels like it hasn't even hit me yet,\" said catcher Tyler Stephenson after agreeing to return to the Cincinnati Reds for 3-years, $30 million.",
+      "published": "2026-11-25T06:55:00+00:00",
+      "title": "Why Tyler Stephenson says it's 'good to stay home' with Reds",
+      "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/11/25/how-unique-journey-brought-tyler-stephenson-back-to-cincinnati-reds/92953607007/"
     },
     {
       "category": "Reds",
@@ -36,7 +36,7 @@
       "url": "https://www.cincinnati.com/story/sports/ncaaf/2026/11/18/deion-sanders-colorado-football-cincinnati-reds-baseball-marge-schott/92851113007/"
     }
   ],
-  "generated_at": "2026-11-28T09:13:49.596278+00:00",
+  "generated_at": "2026-11-28T17:35:03.896664+00:00",
   "source": "Enquirer",
   "source_url": "https://www.cincinnati.com/sports/reds/"
 }

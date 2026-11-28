@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Yankees",
+      "description": "A career swingman, Yarbrough pitched for the Yankees the last two years.",
+      "published": "2026-11-28T13:32:33+00:00",
+      "title": "Cubs signing Ryan Yarbrough after 2 years with Yankees: source",
+      "url": "https://www.nydailynews.com/2026/11/28/cubs-signing-ryan-yarbrough-yankees-mlb-free-agency/"
+    },
+    {
+      "category": "Yankees",
       "description": "If Giancarlo Stanton is healthy, he complicates the Yankees' roster. Of course, that's a tremendous...",
       "published": "2026-11-27T12:30:59+00:00",
       "title": "Giancarlo Stanton will ‘absolutely’ be with the Yankees in spring training. Then what?",
@@ -132,16 +139,9 @@
       "published": "2026-11-13T00:44:40+00:00",
       "title": "Yankees’ Cam Schlittler honored to have Cy Young Award presented by Roger Clemens",
       "url": "https://www.nydailynews.com/2026/11/12/yankees-cam-schlittler-honored-to-have-cy-young-award-presented-by-roger-clemens/"
-    },
-    {
-      "category": "Yankees",
-      "description": "Cam Schlittler joined exclusive company Wednesday night, becoming the seventh Yankees pitcher to win a...",
-      "published": "2026-11-12T00:56:20+00:00",
-      "title": "How does Cam Schlittler’s Cy Young season compare to those of other Yankees winners?",
-      "url": "https://www.nydailynews.com/2026/11/11/cam-schlittler-cy-young-award-yankees-guidry-clemens-whitey-ford-gerrit-cole-mlb/"
     }
   ],
-  "generated_at": "2026-11-27T18:13:17.895198+00:00",
+  "generated_at": "2026-11-28T17:34:47.775099+00:00",
   "source": "New York Daily News",
   "source_url": "https://www.nydailynews.com/sports/mlb/new-york-yankees/"
 }

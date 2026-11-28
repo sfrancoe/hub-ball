@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Pirates",
-      "description": "Welcome to the Pirates mailbag, where Post-Gazette beat reporter Colin Beazley answers your questions about the ball club. If you have a question, find him on X @colin_beazley or email him at cbeazley ...",
-      "published": "2026-11-27T09:02:00+00:00",
-      "title": "Pirates mailbag: What will they do if they don’t re-sign Brandon Lowe?",
-      "url": "https://www.post-gazette.com/sports/pirates/pirates-mailbag-brandon-lowe-DJFJYU2SYJHWJICKWGXPFQ7XIE/"
-    },
-    {
-      "category": "Pirates",
       "description": "The Pirates traded the former No. 1 overall pick to the Arizona Diamondbacks on Friday afternoon, acquiring utilityman Tim Tawa in return, a source confirmed to the Post-Gazette. ESPN was the first to ...",
       "published": "2026-11-27T10:59:00+00:00",
       "title": "The Pirates trade former first overall pick Henry Davis to the Diamondbacks for utilityman Tim Tawa",
       "url": "https://www.post-gazette.com/sports/pirates/henry-davis-pirates-trade-tim-tawa-TZOJ4D3ABND2LBLH7V6SCKNLSQ/"
+    },
+    {
+      "category": "Pirates",
+      "description": "Welcome to the Pirates mailbag, where Post-Gazette beat reporter Colin Beazley answers your questions about the ball club. If you have a question, find him on X @colin_beazley or email him at cbeazley ...",
+      "published": "2026-11-27T09:02:00+00:00",
+      "title": "Pirates mailbag: What will they do if they don’t re-sign Brandon Lowe?",
+      "url": "https://www.post-gazette.com/sports/pirates/pirates-mailbag-brandon-lowe-DJFJYU2SYJHWJICKWGXPFQ7XIE/"
     },
     {
       "category": "Pirates",
@@ -55,9 +55,16 @@
       "published": "2024-10-08T02:30:00+00:00",
       "title": "Jason Mackey: Pirates’ disconnect with fan base approaching all-time level",
       "url": "https://www.post-gazette.com/sports/jason-mackey/2024/10/08/bob-nutting-ben-cherington-derek-shelton-mlb-offseason-moves/stories/202410080011/"
+    },
+    {
+      "category": "Pirates",
+      "description": "personMy Account searchSearch mailNewsletters phone_iphoneApp Sections personMy Account searchSearch mailNewsletters phone_iphoneApp Breaking 3/1/2025 6:32 p.m. EST, Updated 3/1/2025 10:47 p.m. EST ...",
+      "published": "2025-03-01T15:32:00+00:00",
+      "title": "Pittsburgh Pirates collect baseball equipment for Dominican kids",
+      "url": "https://www.post-gazette.com/news/social-services/2025/03/01/pittsburgh-pirates-baseball-equipment-drive/stories/202503010068/"
     }
   ],
-  "generated_at": "2026-11-28T09:13:50.251229+00:00",
+  "generated_at": "2026-11-28T17:35:04.650138+00:00",
   "source": "Post-Gazette",
   "source_url": "https://www.post-gazette.com/sports/pirates"
 }

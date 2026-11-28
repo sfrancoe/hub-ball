@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Guardians",
+      "description": "Plus: Luis Robert Jr. gets another shot in Baltimore, the Cardinals' quiet offseason and more MLB news and notes.",
+      "published": "2026-11-27T08:21:00+00:00",
+      "title": "The Guardians and Rockies are spending. It’s not because they fear a salary floor",
+      "url": "https://www.nytimes.com/athletic/7817627/2026/11/27/guardians-rockies-spending-spending-salary-floor/"
+    },
+    {
+      "category": "Guardians",
       "description": "CLEVELAND — Kris Bubic was humming along in 2025 as an All-Star for the first time and a contender for ownership of the American League’s best ERA. After a triumphant return from elbow surgery, he ...",
       "published": "2026-11-24T15:51:00+00:00",
       "title": "What to make of the Guardians landing pitcher Kris Bubic on a 1-year deal",
@@ -57,7 +64,7 @@
       "url": "https://www.nytimes.com/athletic/7796387/2026/11/19/mlb-pitch-rigging-trial-ortiz-clase-guardians/"
     }
   ],
-  "generated_at": "2026-11-28T09:13:45.090084+00:00",
+  "generated_at": "2026-11-28T17:34:58.887343+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/guardians/"
 }

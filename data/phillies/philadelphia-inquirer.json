@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Phillies",
+      "description": "The Phillies have $184.85 million committed to just seven players in 2028, when the proposed salary cap would be applied. So the pressure would shift to Dave Dombrowski to build a contender with less.",
+      "published": "2026-11-28T02:01:00+00:00",
+      "title": "The Phillies spent over a billion dollars on free agents in five years. A salary cap would alter how they do business.",
+      "url": "https://www.inquirer.com/phillies/phillies-payroll-mlb-cba-negotiations-2027-salary-cap-20261128.html"
+    },
+    {
+      "category": "Phillies",
       "description": "Alec Bohm, a former first-round pick, had ups and downs with the Phillies, but he finished his tenure with 483 RBIs. Now, he's heading to Kansas City to play for the Royals.",
       "published": "2026-11-25T08:44:00+00:00",
       "title": "Report: Alec Bohm agrees to deal with Royals after seven seasons with Phillies",
@@ -15,7 +22,7 @@
       "url": "https://www.inquirer.com/inquirer-live/andrew-miller-mlb-lockout-interview-podcast-salary-cap-20261124.html"
     }
   ],
-  "generated_at": "2026-11-28T01:28:47.052294+00:00",
+  "generated_at": "2026-11-28T17:35:02.845329+00:00",
   "source": "Inquirer",
   "source_url": "https://www.inquirer.com/phillies/"
 }

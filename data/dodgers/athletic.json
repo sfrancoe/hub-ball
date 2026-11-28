@@ -2,17 +2,10 @@
   "articles": [
     {
       "category": "Dodgers",
-      "description": "When the Los Angeles Dodgers acquired Tarik Skubal at the trade deadline in August, manager Dave Roberts described it as “Skubal or nothing.” In the wake of Skubal departing on a nine-year, $450 ...",
-      "published": "2026-11-25T04:00:00+00:00",
-      "title": "After watching Tarik Skubal go, who can the Dodgers sign to fill out their rotation?",
-      "url": "https://www.nytimes.com/athletic/7810116/2026/11/25/dodgers-free-agent-pitching-options/"
-    },
-    {
-      "category": "Dodgers",
-      "description": "The Southern California native is excited to head home, while recognizing his connection to the Twins, who picked him No. 1 in 2017.",
-      "published": "2026-11-25T04:00:00+00:00",
-      "title": "Royce Lewis wrestles with emotions after trade to Dodgers: ‘A bittersweet goodbye’",
-      "url": "https://www.nytimes.com/athletic/7810577/2026/11/25/royce-lewis-emotions-trade-twins-dodgers/"
+      "description": "Skubal taking a record contract from the Mets represents a rare example of the Dodgers missing out on their top target.",
+      "published": "2026-11-21T15:59:00+00:00",
+      "title": "The Dodgers almost always get their way. Then Tarik Skubal signed with the Mets",
+      "url": "https://www.nytimes.com/athletic/7804227/2026/11/22/dodgers-tarik-skubal-mets-signing/"
     },
     {
       "category": "Dodgers",
@@ -23,10 +16,10 @@
     },
     {
       "category": "Dodgers",
-      "description": "Skubal taking a record contract from the Mets represents a rare example of the Dodgers missing out on their top target.",
-      "published": "2026-11-21T15:59:00+00:00",
-      "title": "The Dodgers almost always get their way. Then Tarik Skubal signed with the Mets",
-      "url": "https://www.nytimes.com/athletic/7804227/2026/11/22/dodgers-tarik-skubal-mets-signing/"
+      "description": "When the Los Angeles Dodgers acquired Tarik Skubal at the trade deadline in August, manager Dave Roberts described it as “Skubal or nothing.” In the wake of Skubal departing on a nine-year, $450 ...",
+      "published": "2026-11-25T04:00:00+00:00",
+      "title": "After watching Tarik Skubal go, who can the Dodgers sign to fill out their rotation?",
+      "url": "https://www.nytimes.com/athletic/7810116/2026/11/25/dodgers-free-agent-pitching-options/"
     },
     {
       "category": "Dodgers",
@@ -34,9 +27,16 @@
       "published": "2026-11-23T04:01:00+00:00",
       "title": "As Dodgers lose out on Tarik Skubal, focus remains on getting younger on offense",
       "url": "https://www.nytimes.com/athletic/7804284/2026/11/23/dodgers-tarik-skubal-mlb-offseason-moves/"
+    },
+    {
+      "category": "Dodgers",
+      "description": "The Southern California native is excited to head home, while recognizing his connection to the Twins, who picked him No. 1 in 2017.",
+      "published": "2026-11-25T04:00:00+00:00",
+      "title": "Royce Lewis wrestles with emotions after trade to Dodgers: ‘A bittersweet goodbye’",
+      "url": "https://www.nytimes.com/athletic/7810577/2026/11/25/royce-lewis-emotions-trade-twins-dodgers/"
     }
   ],
-  "generated_at": "2026-11-28T01:29:03.229277+00:00",
+  "generated_at": "2026-11-28T17:35:06.541050+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/dodgers/"
 }

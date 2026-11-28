@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Boston Red Sox",
+      "description": "With MLB already filing a lawsuit against the MLB Players Association, how bad is this upcoming labor fight going to get? The Herald’s Red Sox writers discuss.",
+      "published": "2026-11-28T10:30:57Z",
+      "title": "Red Sox point-counterpoint: How bad is the impending lockout going to be?",
+      "url": "https://www.bostonherald.com/2026/11/28/red-sox-point-counterpoint-how-bad-is-the-impending-lockout-going-to-be/"
+    },
+    {
+      "category": "Boston Red Sox",
       "description": "Most Red Sox fans are well aware of Franklin Arias’ dominant season in the minors, but he isn’t the only Red Sox prospect who made big strides in 2026.",
       "published": "2026-11-26T10:30:21Z",
       "title": "Franklin Arias isn’t only Red Sox prospect who made big strides in 2026",
@@ -104,16 +111,9 @@
       "published": "2026-11-17T19:59:37Z",
       "title": "Red Sox trade hard-throwing reliever to Royals ahead of Rule 5 deadline",
       "url": "https://www.bostonherald.com/2026/11/17/red-sox-trade-hard-throwing-reliever-to-royals-ahead-of-rule-5-deadline/"
-    },
-    {
-      "category": "Boston Red Sox",
-      "description": "The Red Sox swung a minor trade on Tuesday, dealing a left-handed depth arm to the Athletics for a minor league reliever.",
-      "published": "2026-11-17T18:46:51Z",
-      "title": "Source: Red Sox trade left-hander to A’s, clear roster spot for Jake Bauers",
-      "url": "https://www.bostonherald.com/2026/11/17/source-red-sox-trade-left-hander-to-as-clear-roster-spot-for-jake-bauers/"
     }
   ],
-  "generated_at": "2026-11-26T15:41:57.168152+00:00",
+  "generated_at": "2026-11-28T17:34:46.260699+00:00",
   "source": "The Boston Herald",
   "source_url": "https://www.bostonherald.com/sports/mlb/boston-red-sox/"
 }

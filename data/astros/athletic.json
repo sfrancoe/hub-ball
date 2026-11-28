@@ -2,13 +2,6 @@
   "articles": [
     {
       "category": "Astros",
-      "description": "Houston tendered contracts to all of its arbitration-eligible players except Trammell, who made a team-high 36 starts in left field.",
-      "published": "2026-11-20T14:29:00+00:00",
-      "title": "Astros non-tender Taylor Trammell, accentuating their need for outfield help",
-      "url": "https://www.nytimes.com/athletic/7799026/2026/11/20/astros-arbitration-taylor-trammell-non-tendered/"
-    },
-    {
-      "category": "Astros",
       "description": "For new GM Randy Flores, exploring the trade market to reimagine the roster could be the most logical offseason strategy.",
       "published": "2026-11-17T03:29:00+00:00",
       "title": "Astros trade candidates: Which 6 players make the most sense to move?",
@@ -20,6 +13,20 @@
       "published": "2026-11-20T04:00:00+00:00",
       "title": "How will Astros’ catching-heavy coaching staff handle an unsettled backstop situation?",
       "url": "https://www.nytimes.com/athletic/7796302/2026/11/20/astros-catchers-bobby-wilson-brad-ausmus/"
+    },
+    {
+      "category": "Astros",
+      "description": "Houston tendered contracts to all of its arbitration-eligible players except Trammell, who made a team-high 36 starts in left field.",
+      "published": "2026-11-20T14:29:00+00:00",
+      "title": "Astros non-tender Taylor Trammell, accentuating their need for outfield help",
+      "url": "https://www.nytimes.com/athletic/7799026/2026/11/20/astros-arbitration-taylor-trammell-non-tendered/"
+    },
+    {
+      "category": "Astros",
+      "description": "Josh Miller served as the Astros’ head pitching coach since the departure of Brent Strom following the 2021 season. Kirby Lee / USA Today Sports HOUSTON — In a reversal of previously stated intentions ...",
+      "published": "2026-11-23T10:03:00+00:00",
+      "title": "In surprise move, Astros part ways with pitching coach Josh Miller: Sources",
+      "url": "https://www.nytimes.com/athletic/7806693/2026/11/23/astros-pitching-coach-josh-miller-leaves/"
     },
     {
       "category": "Astros",
@@ -36,7 +43,7 @@
       "url": "https://www.nytimes.com/athletic/7008704/2026/01/29/astros-giants-trade-kai-wei-teng-sources/"
     }
   ],
-  "generated_at": "2026-11-28T09:13:46.480986+00:00",
+  "generated_at": "2026-11-28T17:35:00.428608+00:00",
   "source": "The Athletic",
   "source_url": "https://www.nytimes.com/athletic/mlb/team/astros/"
 }

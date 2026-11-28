@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Red Sox",
+      "description": "Appearing in a real game for the first time in nearly 19 months, Red Sox first baseman Triston Casas immediately made his presence felt Friday night in his winter ball debut in the Dominican Republic.",
+      "published": "2026-11-28T10:20:00+00:00",
+      "title": "Triston Casas homers in first winter ball game after 19-month injury absence",
+      "url": "https://www.masslive.com/redsox/2026/11/triston-casas-hits-grand-slam-in-first-game-in-19-months-starting-red-sox-comeback-bid-in-dr.html"
+    },
+    {
+      "category": "Red Sox",
       "description": "A matchup with the lowly Chargers offers a quick, clear verdict on how much fight is left in the banged-up Patriots.",
       "published": "2026-11-27T10:00:00+00:00",
       "title": "Patriots face a defining moment against the Chargers | Matt Vautour",
@@ -29,7 +36,7 @@
       "url": "https://www.masslive.com/redsox/2026/11/some-things-i-think-i-think-with-lineup-improved-time-for-red-sox-to-add-rotation-depth.html"
     }
   ],
-  "generated_at": "2026-11-28T01:28:09.562538+00:00",
+  "generated_at": "2026-11-28T17:34:47.340275+00:00",
   "source": "MassLive",
   "source_url": "https://www.masslive.com/redsox/"
 }
