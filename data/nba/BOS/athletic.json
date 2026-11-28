@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "Boston is near the end of a tough scheduling month, but it's possible the skid has revealed cracks that existed beforehand.",
+        "published": "2026-11-28T11:00:08+00:00",
+        "title": "Joe Mazzulla, Celtics looking for offensive answers amid sloppy stretch",
+        "url": "https://www.nytimes.com/athletic/7818238/2026/11/28/celtics-joe-mazzulla-offense/"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics and Spurs are moving on as wild-card teams to the in-season tournament’s quarterfinals, which will take place Dec. 4 and 5.",
         "published": "2026-11-28T03:40:28+00:00",
         "title": "NBA Cup: Pistons, 76ers, Hawks win groups in East; Mavs, Grizzlies, Blazers win in West",
@@ -105,16 +112,9 @@
         "published": "2026-11-11T11:00:49+00:00",
         "title": "Jaylen Brown's wounds may heal some day. It didn't happen in first game vs. Boston",
         "url": "https://www.nytimes.com/athletic/7771613/2026/11/11/jaylen-brown-jayson-tatum-trade-celtics-sixers/"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "On Tuesday, the Sixers, for one of the first times all season, looked like an all-star team that got thrown together.",
-        "published": "2026-11-11T10:30:40+00:00",
-        "title": "Jaylen Brown vs. Jayson Tatum showed gap between 76ers, Celtics: 'We have to get better'",
-        "url": "https://www.nytimes.com/athletic/7772613/2026/11/11/jaylen-brown-jayson-tatum-celtics-76ers/"
       }
     ],
-    "generated_at": "2026-11-28T06:25:02.595280+00:00",
+    "generated_at": "2026-11-28T11:06:29.785740+00:00",
     "source": "The Athletic",
     "source_url": "https://www.nytimes.com/athletic/nba/team/celtics/"
   },

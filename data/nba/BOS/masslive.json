@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics will hit the road for their NBA Cup quarterfinal matchup against the Pistons.",
+        "published": "2026-11-28T11:00:00+00:00",
+        "title": "NBA announces start time for Celtics NBA Cup game vs. Pistons",
+        "url": "https://www.masslive.com/celtics/2026/11/nba-announces-start-time-for-celtics-nba-cup-game-vs-pistons.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "Jayson Tatum scored just four points in the second half of the Celtics' loss to the Hawks on Friday.",
         "published": "2026-11-28T10:00:00+00:00",
         "title": "Jayson Tatum’s worrisome trend, Celtics’ NBA Cup hopes (Notebook)",
@@ -105,16 +112,9 @@
         "published": "2026-11-25T03:40:16+00:00",
         "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in win over Wizards",
         "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-wizards.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics snapped their four-game losing streak on Tuesday night in convincing fashion.",
-        "published": "2026-11-25T03:37:35+00:00",
-        "title": "4 takeaways as Celtics beat Wizards in crucial NBA Cup victory",
-        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-beat-wizards-in-crucial-nba-cup-victory.html"
       }
     ],
-    "generated_at": "2026-11-28T10:06:08.982928+00:00",
+    "generated_at": "2026-11-28T11:06:29.220422+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
