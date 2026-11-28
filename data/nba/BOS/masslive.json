@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics offense had their worst night of the season against the Hawks in Friday's loss.",
+        "published": "2026-11-28T11:15:00+00:00",
+        "title": "Joe Mazzulla makes eye opening declaration after Celtics lose to Hawks",
+        "url": "https://www.masslive.com/celtics/2026/11/joe-mazzulla-makes-eye-opening-declaration-after-celtics-lose-to-hawks.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics will hit the road for their NBA Cup quarterfinal matchup against the Pistons.",
         "published": "2026-11-28T11:00:00+00:00",
         "title": "NBA announces start time for Celtics NBA Cup game vs. Pistons",
@@ -105,16 +112,9 @@
         "published": "2026-11-25T03:59:11+00:00",
         "title": "Celtics flirting with NBA Cup history after win over Wizards",
         "url": "https://www.masslive.com/celtics/2026/11/celtics-flirting-with-nba-cup-history-after-win-over-wizards.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics fended off the Wizards in NBA Cup action, almost clinching a spot in the knockout stages.",
-        "published": "2026-11-25T03:40:16+00:00",
-        "title": "Jayson Tatum is Celtics ‘Name to Know’ Player of the Game in win over Wizards",
-        "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-wizards.html"
       }
     ],
-    "generated_at": "2026-11-28T11:06:29.220422+00:00",
+    "generated_at": "2026-11-28T11:16:33.885365+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
