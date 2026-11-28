@@ -3,6 +3,13 @@
     "articles": [
       {
         "category": "Boston Celtics",
+        "description": "The Celtics scored just 35 points in the second half against the Hawks, leading to their fifth loss in the last six games.",
+        "published": "2026-11-28T03:25:21+00:00",
+        "title": "4 takeaways as Celtics lose to Hawks in NBA Cup, collapse in 2nd half again",
+        "url": "https://www.masslive.com/celtics/2026/11/4-takeaways-as-celtics-lose-to-hawks-in-nba-cup-collapse-in-2nd-half-again.html"
+      },
+      {
+        "category": "Boston Celtics",
         "description": "The Celtics can lock up a spot in the knockout round of the NBA Cup in a multitude of ways on Friday night.",
         "published": "2026-11-27T23:43:06+00:00",
         "title": "How Celtics can clinch spot in knockout round of NBA Cup vs. Hawks",
@@ -105,16 +112,9 @@
         "published": "2026-11-23T21:15:00+00:00",
         "title": "Experts release Celtics vs. Wizards prediction as Tatum and Davis headline latest player props",
         "url": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-wizards-prediction-as-tatum-and-jokic-headline-latest-player-props.html"
-      },
-      {
-        "category": "Boston Celtics",
-        "description": "The Celtics have lost four straight games for the first time under Joe Mazzulla this week.",
-        "published": "2026-11-23T10:45:00+00:00",
-        "title": "Joe Mazzulla makes surprising admission after Warriors upset Celtics",
-        "url": "https://www.masslive.com/celtics/2026/11/joe-mazzulla-makes-surprising-admission-after-warriors-upset-celtics.html"
       }
     ],
-    "generated_at": "2026-11-27T23:52:36.390149+00:00",
+    "generated_at": "2026-11-28T03:33:57.474524+00:00",
     "source": "MassLive",
     "source_url": "https://www.masslive.com/celtics/"
   },
