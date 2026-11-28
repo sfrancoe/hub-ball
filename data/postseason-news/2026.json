@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "generatedAt": "2026-11-27T23:45:43.822732+00:00",
+  "generatedAt": "2026-11-28T05:01:24.285209+00:00",
   "windowHours": 12,
   "source": "Configured team newspapers and The Athletic via Bing News RSS",
   "sourceURL": "https://www.bing.com/news/search",
   "teamCount": 12,
   "coveredTeamCount": 4,
   "articles": [
+    {
+      "title": "Chicago Cubs reach a deal with Japanese right-hander Hiromi Itoh: source",
+      "description": "Following Seiya Suzuki’s and Shota Imanaga’s departures to free agency, the Chicago Cubs are maintaining their presence in Japan by agreeing to deals with Hiromi Itoh and Teruaki Sato.",
+      "url": "https://www.chicagotribune.com/2026/11/27/chicago-cubs-japanese-pitcher-hiromi-itoh/",
+      "published": "2026-11-28T03:44:47+00:00",
+      "source": "Chicago Tribune",
+      "teamId": 112,
+      "teamName": "Chicago Cubs",
+      "teamAbbreviation": "CHC",
+      "league": "NL",
+      "publishedSource": "publisher"
+    },
     {
       "title": "Polarizing ex-Yankees infielder heads to rival in offseason twist",
       "description": "",
@@ -43,42 +55,6 @@
       "teamAbbreviation": "ATL",
       "league": "NL",
       "publishedSource": "publisher"
-    },
-    {
-      "title": "Giancarlo Stanton will ‘absolutely’ be with the Yankees in spring training. Then what?",
-      "description": "If Giancarlo Stanton is healthy, he complicates the Yankees' roster. Of course, that's a tremendous...",
-      "url": "https://www.nydailynews.com/2026/11/27/giancarlo-stanton-yankees-future-cashman-spring-training/",
-      "published": "2026-11-27T12:30:59+00:00",
-      "source": "New York Daily News",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Yankees champ’s daughter is becoming a star with her second love — after trying to follow in his footsteps",
-      "description": "",
-      "url": "https://nypost.com/2026/11/27/sports/lena-girardi-is-becoming-a-star-with-her-second-love-after-trying-to-follow-in-yankees-dads-foosteps/",
-      "published": "2026-11-27T12:30:00+00:00",
-      "source": "New York Post",
-      "teamId": 147,
-      "teamName": "New York Yankees",
-      "teamAbbreviation": "NYY",
-      "league": "AL",
-      "publishedSource": "publisher"
-    },
-    {
-      "title": "Journal Sentinel Black Friday sale of Brewers World Series newspapers draws crowds",
-      "description": "People were lining up before 5 a.m. at the 330 Kilbourn office building to buy World Series newspapers from the Milwaukee Journal Sentinel.",
-      "url": "https://www.jsonline.com/story/money/business/2026/11/27/journal-sentinel-sale-of-brewers-world-series-newspapers-draws-crowds/92979097007/",
-      "published": "",
-      "source": "Journal Sentinel",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "teamAbbreviation": "MIL",
-      "league": "NL",
-      "publishedSource": "unverified"
     }
   ]
 }
