@@ -2,17 +2,17 @@
   "articles": [
     {
       "category": "Guardians",
-      "description": "The agreement with Griffin and the addition of Bubic serve as Cleveland’s answer to their rivals in the AL Central. The Guardians have won the Central for the last three years and four of the last ...",
-      "published": "2026-11-25T12:32:00+00:00",
-      "title": "Could the Guardians be planning one more addition before the lockout? Paul Hoynes",
-      "url": "https://www.cleveland.com/guardians/2026/11/could-guardians-be-planning-one-more-addition-before-the-lockout-paul-hoynes.html"
-    },
-    {
-      "category": "Guardians",
       "description": "Left-hander Foster Griffin has agreed to a three-year contract with Cleveland worth $48 million, according to multiple reports Wednesday. Robert Murray of FanSided was first to report the agreement.",
       "published": "2026-11-25T10:44:00+00:00",
       "title": "Guardians bringing back left-hander Foster Griffin on three-year, $48 million deal: Report",
       "url": "https://www.cleveland.com/guardians/2026/11/guardians-bringing-back-left-hander-foster-griffin-on-three-year-48-million-deal-reports.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The agreement with Griffin and the addition of Bubic serve as Cleveland’s answer to their rivals in the AL Central. The Guardians have won the Central for the last three years and four of the last ...",
+      "published": "2026-11-25T12:32:00+00:00",
+      "title": "Could the Guardians be planning one more addition before the lockout? Paul Hoynes",
+      "url": "https://www.cleveland.com/guardians/2026/11/could-guardians-be-planning-one-more-addition-before-the-lockout-paul-hoynes.html"
     },
     {
       "category": "Guardians",
@@ -30,10 +30,10 @@
     },
     {
       "category": "Guardians",
-      "description": "The Guardians have reached agreement with a former Royals All-Star left-hander on a reported one-year, $17.5 million contract.",
-      "published": "2026-11-24T02:58:00+00:00",
-      "title": "Guardians land former All-Star left-hander on $17.5 million deal: Report",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-land-former-all-star-left-hander-on-reported-175-million-deal.html"
+      "description": "As the Twins, Tigers and White Sox reshape their pitching staffs, the Guardians remain quiet. Is Cleveland's offseason patience becoming a problem?",
+      "published": "2026-11-23T04:43:00+00:00",
+      "title": "Guardians have a pitching problem to solve, and their AL Central rivals aren’t waiting",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-have-a-pitching-problem-to-solve-and-their-al-central-rivals-arent-waiting.html"
     },
     {
       "category": "Guardians",
@@ -44,24 +44,17 @@
     },
     {
       "category": "Guardians",
+      "description": "The Guardians have reached agreement with a former Royals All-Star left-hander on a reported one-year, $17.5 million contract.",
+      "published": "2026-11-24T02:58:00+00:00",
+      "title": "Guardians land former All-Star left-hander on $17.5 million deal: Report",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-land-former-all-star-left-hander-on-reported-175-million-deal.html"
+    },
+    {
+      "category": "Guardians",
       "description": "David Fry's departure leaves the Guardians searching for catching depth, right-handed power and pitching help. Here's who Cleveland could target in free agency.",
       "published": "2026-11-22T21:03:00+00:00",
       "title": "David Fry’s exit leaves Guardians with more than one hole to fill after MLB non-tender deadline",
       "url": "https://www.cleveland.com/guardians/2026/11/david-frys-exit-leaves-guardians-with-more-than-one-hole-to-fill-after-mlb-non-tender-deadline.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "As the Twins, Tigers and White Sox reshape their pitching staffs, the Guardians remain quiet. Is Cleveland's offseason patience becoming a problem?",
-      "published": "2026-11-23T04:43:00+00:00",
-      "title": "Guardians have a pitching problem to solve, and their AL Central rivals aren’t waiting",
-      "url": "https://www.cleveland.com/guardians/2026/11/guardians-have-a-pitching-problem-to-solve-and-their-al-central-rivals-arent-waiting.html"
-    },
-    {
-      "category": "Guardians",
-      "description": "Tarik Skubal’s record $450 million contract with the Mets highlights a harsh reality for the Cleveland Guardians: Developing elite pitchers is one thing. Keeping them is another.",
-      "published": "2026-11-23T21:03:00+00:00",
-      "title": "Tarik Skubal’s $450 million Mets deal exposes an uncomfortable reality for Guardians",
-      "url": "https://www.cleveland.com/guardians/2026/11/tarik-skubals-450-million-mets-deal-exposes-an-uncomfortable-reality-for-guardians.html"
     },
     {
       "category": "Guardians",
@@ -83,9 +76,16 @@
       "published": "2026-11-23T06:20:00+00:00",
       "title": "Guardians add former White Sox prospect to on minor league deal with spring training invite",
       "url": "https://www.cleveland.com/guardians/2026/11/guardians-add-former-white-sox-prospect-to-on-minor-league-deal-with-spring-training-invite.html"
+    },
+    {
+      "category": "Guardians",
+      "description": "The Guardians, who lost the ALCS in six games to the Rays, awarded 68 full shares, 11.6 partial shares and 10 cash awards from their postseason winnings.",
+      "published": "2026-11-24T10:46:00+00:00",
+      "title": "Guardians’ postseason run nets full playoff share worth $171,525",
+      "url": "https://www.cleveland.com/guardians/2026/11/guardians-postseason-run-nets-full-playoff-share-worth-171525.html"
     }
   ],
-  "generated_at": "2026-11-28T01:28:33.994124+00:00",
+  "generated_at": "2026-11-28T09:13:44.925132+00:00",
   "source": "Cleveland.com",
   "source_url": "https://www.cleveland.com/guardians/"
 }

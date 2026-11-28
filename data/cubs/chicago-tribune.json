@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Cubs",
+      "description": "Following Seiya Suzuki’s and Shota Imanaga’s departures to free agency, the Chicago Cubs are maintaining their presence in Japan by agreeing to deals with Hiromi Itoh and Teruaki Sato.",
+      "published": "2026-11-27T19:44:00+00:00",
+      "title": "Chicago Cubs reach a deal with Japanese right-hander Hiromi Itoh: source",
+      "url": "https://www.chicagotribune.com/2026/11/27/chicago-cubs-japanese-pitcher-hiromi-itoh/"
+    },
+    {
+      "category": "Cubs",
       "description": "The Chicago Cubs made their first big move for the starting rotation on Monday night by agreeing to a multi-year deal with lefty starter Trevor Rogers, sources told the Tribune.",
       "published": "2026-11-23T20:59:00+00:00",
       "title": "Chicago Cubs agree to a multi-year deal with lefty starter Trevor Rogers, per sources",
@@ -16,10 +23,10 @@
     },
     {
       "category": "Cubs",
-      "description": "The Chicago Cubs landed one of the top available hitters in Japanese slugger Teruaki Sato, sources confirmed to the Tribune. The six-year contract is reportedly worth $120 million.",
-      "published": "2026-11-24T08:10:00+00:00",
-      "title": "Chicago Cubs agree to deal with Japanese slugger Teruaki Sato",
-      "url": "https://www.chicagotribune.com/2026/11/24/chicago-cubs-sign-teruaki-sato/"
+      "description": "Time always puts things in perspective. Ten years have passed since the Chicago Cubs ended a 108-year World Series title drought with their Game 7 extra-innings victory on Nov. 2, 2016, in Cleveland.",
+      "published": "2026-11-02T04:00:00+00:00",
+      "title": "‘Everyone can die happy’: 10 years later, Chicago Cubs’ 2016 World Series title still resonates",
+      "url": "https://www.chicagotribune.com/2026/11/02/chicago-cubs-world-series-anniversary/"
     },
     {
       "category": "Cubs",
@@ -43,7 +50,7 @@
       "url": "https://www.chicagotribune.com/2026/11/20/chicago-cubs-joey-bart-white-sox/"
     }
   ],
-  "generated_at": "2026-11-27T08:10:59.255076+00:00",
+  "generated_at": "2026-11-28T09:13:49.222936+00:00",
   "source": "Chicago Tribune",
   "source_url": "https://www.chicagotribune.com/sports/cubs/"
 }

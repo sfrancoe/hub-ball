@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Pirates",
+      "description": "Welcome to the Pirates mailbag, where Post-Gazette beat reporter Colin Beazley answers your questions about the ball club. If you have a question, find him on X @colin_beazley or email him at cbeazley ...",
+      "published": "2026-11-27T09:02:00+00:00",
+      "title": "Pirates mailbag: What will they do if they don’t re-sign Brandon Lowe?",
+      "url": "https://www.post-gazette.com/sports/pirates/pirates-mailbag-brandon-lowe-DJFJYU2SYJHWJICKWGXPFQ7XIE/"
+    },
+    {
+      "category": "Pirates",
       "description": "The Pirates traded the former No. 1 overall pick to the Arizona Diamondbacks on Friday afternoon, acquiring utilityman Tim Tawa in return, a source confirmed to the Post-Gazette. ESPN was the first to ...",
       "published": "2026-11-27T10:59:00+00:00",
       "title": "The Pirates trade former first overall pick Henry Davis to the Diamondbacks for utilityman Tim Tawa",
@@ -37,13 +44,6 @@
     },
     {
       "category": "Pirates",
-      "description": "personMy Account searchSearch mailNewsletters phone_iphoneApp Sections personMy Account searchSearch mailNewsletters phone_iphoneApp Breaking 7/9/2019 2:17 p.m. EDT Share Charlie Morton reacts to ...",
-      "published": "2019-07-09T11:17:00+00:00",
-      "title": "Charlie Morton: Pump the brakes on blaming the Pirates",
-      "url": "https://www.post-gazette.com/sports/pirates/2019/07/09/Charlie-Morton-Cole-Glasnow-Pirates-Astros-pitchers-success-elsewhere/stories/201907090116/"
-    },
-    {
-      "category": "Pirates",
       "description": "personMy Account searchSearch mailNewsletters phone_iphoneApp Sections personMy Account searchSearch mailNewsletters phone_iphoneApp Breaking 4/5/2016 12:15 p.m. EDT, Updated 4/5/2016 4:46 p.m. EDT ...",
       "published": "2016-04-05T09:15:00+00:00",
       "title": "Pirates announce Polanco contract extension",
@@ -55,16 +55,9 @@
       "published": "2024-10-08T02:30:00+00:00",
       "title": "Jason Mackey: Pirates’ disconnect with fan base approaching all-time level",
       "url": "https://www.post-gazette.com/sports/jason-mackey/2024/10/08/bob-nutting-ben-cherington-derek-shelton-mlb-offseason-moves/stories/202410080011/"
-    },
-    {
-      "category": "Pirates",
-      "description": "personMy Account searchSearch mailNewsletters phone_iphoneApp Sections personMy Account searchSearch mailNewsletters phone_iphoneApp Breaking 5/12/2016 12:00 a.m. EDT Share Pittsburgh Pirates left ...",
-      "published": "2016-05-11T21:00:00+00:00",
-      "title": "Pirates notebook: Luebke takes another step toward return",
-      "url": "https://www.post-gazette.com/sports/pirates/2016/05/12/Pirates-notebook-Luebke-takes-another-step-toward-return/stories/201605120114"
     }
   ],
-  "generated_at": "2026-11-28T01:28:56.052186+00:00",
+  "generated_at": "2026-11-28T09:13:50.251229+00:00",
   "source": "Post-Gazette",
   "source_url": "https://www.post-gazette.com/sports/pirates"
 }

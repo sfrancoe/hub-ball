@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Diamondbacks",
+      "description": "Arizona traded utility player Tim Tawa to the Pittsburgh Pirates in exchange for catcher Henry Davis, giving the team depth rising star Gabriel Moreno.",
+      "published": "2026-11-27T08:34:00+00:00",
+      "title": "Arizona Diamondbacks trade Tim Tawa to Pirates for catcher",
+      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/27/tim-tawa-trade-pirates-diamondbacks/92984936007/"
+    },
+    {
+      "category": "Diamondbacks",
       "description": "The Diamondbacks named Josh Maurer as the play-by-play broadcaster for the team's games on Arizona Sports 98.7 FM.",
       "published": "2026-11-23T02:24:00+00:00",
       "title": "Arizona Diamondbacks name their new radio play-by-play voice",
@@ -20,16 +27,9 @@
       "published": "2026-11-16T03:41:00+00:00",
       "title": "Diamondbacks' Jordan Lawlar undergoes surgery on right elbow",
       "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/16/diamondbacks-jordan-lawlar-undergoes-surgery-corbin-carroll/92811926007/"
-    },
-    {
-      "category": "Diamondbacks",
-      "description": "The Diamondbacks executed a trade that expands the team's pitching depth on Friday, acquiring right-hander Johan Oviedo from the Boston Red Sox.",
-      "published": "2026-11-20T09:45:00+00:00",
-      "title": "Diamondbacks trading for Red Sox right-hander among roster moves",
-      "url": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/11/20/diamondbacks-red-sox-trade-johan-oviedo/92886564007/"
     }
   ],
-  "generated_at": "2026-11-28T01:28:58.249612+00:00",
+  "generated_at": "2026-11-28T09:13:50.834493+00:00",
   "source": "Arizona Republic",
   "source_url": "https://www.azcentral.com/sports/diamondbacks/"
 }
