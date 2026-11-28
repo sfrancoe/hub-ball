@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "Sunday basketball notes",
+        "description": "Jayson Tatum's second-half numbers drop, as do the Celtics' overall. The supporting cast, considered a strength entering the season, has work to do to help their fully healthy star.",
+        "published": "2026-11-28T15:14:06.943Z",
+        "title": "Numbers show the Celtics are a first-half team, and that’s a problem in need of a solution",
+        "url": "https://www.bostonglobe.com/2026/11/28/sports/sunday-basketball-notes-celtics-jayson-tatum/"
+      },
+      {
         "category": "CHRISTOPHER L. GASPER",
         "description": "The way the Celtics play maximizes the regular-season product, but this is an organization that measures success in championship banners.",
         "published": "2026-11-28T10:00:00Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-21T22:58:57.007Z",
         "title": "It’s a small sample, but Brad Stevens likes what he has seen in Celtics’ first 15 games",
         "url": "https://www.bostonglobe.com/2026/11/21/sports/celtics-brad-stevens-nba-basketball/"
-      },
-      {
-        "category": "celtics at kings | 10 p.m. (NBCSB)",
-        "description": "The Celtics are on a two-game losing streak as they arrive in Sacramento to face the 1-14 Kings.",
-        "published": "2026-11-21T13:52:03.21Z",
-        "title": "Celtics at Kings preview, Nov. 21: Lowly Sacramento can serve as palate cleanser",
-        "url": "https://www.bostonglobe.com/2026/11/21/sports/celtics-kings-preview-november-21/"
       }
     ],
-    "generated_at": "2026-11-28T10:06:08.068876+00:00",
+    "generated_at": "2026-11-28T15:17:45.995158+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
