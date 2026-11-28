@@ -2,6 +2,13 @@
   "feed": {
     "articles": [
       {
+        "category": "HAWKS 87, CELITCS 86",
+        "description": "The Celtics jumped out to a 29-14 first-quarter lead but couldn't hold off the Hawks, who rallied to win.",
+        "published": "2026-11-28T03:43:46.168Z",
+        "title": "Celtics stunned by Hawks, lose final NBA Cup group stage game",
+        "url": "https://www.bostonglobe.com/2026/11/27/sports/celtics-hawks-nba-cup-group-stage-game/"
+      },
+      {
         "category": "CELTICS NOTEBOOK",
         "description": "Robinson, off to a difficult start, missed his fourth consecutive game Friday against the Hawks although he did come to TD Garden, perhaps a sign of recovery.",
         "published": "2026-11-28T01:53:56.459Z",
@@ -105,16 +112,9 @@
         "published": "2026-11-21T13:00:17.381Z",
         "title": "Four particularly disappointing teams after the first month of the NBA season",
         "url": "https://www.bostonglobe.com/2026/11/21/sports/nba-disappointing-teams-2026/"
-      },
-      {
-        "category": "Celtics",
-        "description": "In Wednesday’s loss to the Nuggets in Denver, the Celtics coughed up a 17-point lead in large part because they gave up 22 second-chance points.",
-        "published": "2026-11-21T03:33:19.977Z",
-        "title": "What the Celtics must clean up in Sacramento to make sure their first skid of the season ends at two games",
-        "url": "https://www.bostonglobe.com/2026/11/20/sports/celtics-road-trip-sacramento-kings/"
       }
     ],
-    "generated_at": "2026-11-28T02:03:22.000659+00:00",
+    "generated_at": "2026-11-28T03:54:06.582706+00:00",
     "source": "The Boston Globe",
     "source_url": "https://www.bostonglobe.com/sports/basketball/celtics/"
   },
